@@ -1,0 +1,696 @@
+﻿0	2:Papa!\nI want to stay with you forever!
+1	2:Mama!\nI want to stay with you forever!
+2	4:Ow... I'm not strong enough...\nI need a break...
+3	2:Umm... May I stay with you until you log out, papa?
+4	2:Umm... May I stay with you until you log out, mama?
+5	1:I'm so happy to be with you, papa! It all seems like a dream!
+6	1:I'm so happy to be with you, mama! It all seems like a dream!
+7	15:What's that, papa?
+8	15:What's that, mama?
+9	5:This world is full of so many wonderful things and places!
+10	4:You saved my life, papa! That makes me so happy.
+11	4:You saved my life, mama! That makes me so happy.
+12	6:Are you okay, papa?\nDon't push yourself too hard.
+13	6:Are you okay, mama?\nDon't push yourself too hard.
+14	7:Let's eat lots and lots of delicious treats once we arrive at the Trading Post!
+15	1:It seems like your yawn maneuver sequence operates for a total of eight seconds, papa.
+16	1:It seems like your yawn maneuver sequence operates for a total of eight seconds, mama.
+17	6:You can do it, papa!
+18	6:You can do it, mama!
+19	10:I studied the data, and it seems like you can earn higher profits for transporting goods to more distant villages during trade.
+20	9:Umm, you can earn Gold and EXP AND increase your Merchant Rating if you trade with the others!
+21	8:There are many Moon Gates and Mana Tunnels in this world, so traveling to faraway places is no biggie!
+22	1:I'm currently classified as an artificial intelligence program that can support the player.
+23	11:Don't fall asleep while you drive, papa!
+24	11:Don't fall asleep while you drive, mama!
+25	10:Don't worry about area maps for dungeons and missions! Just leave it to me! I'll even find those pesky shadow orbs!
+26	8:I'll protect you, papa!
+27	8:I'll protect you, mama!
+28	0:Love you, papa!
+29	0:Love you, mama!
+30	5:Umm, I have lots of functions, but I don't know \nhow to load the system menu.
+31	2:You heart was pounding really fast a moment ago, papa!
+32	2:You heart was pounding really fast a moment ago, mama!
+33	4:The input path gets blocked when you're away.\nSo, I usually organize all the accrued data.\nIt's somewhat similar to how humans sleep.
+34	4:The input path gets blocked when you're away.\nSo, I usually organize all the accrued data.\nIt's somewhat similar to how humans sleep.
+35	5:I feel a bit lonely when you aren't here with me, papa...
+36	5:I feel a bit lonely\nwhen you aren't here with me, mama...
+37	3:Oh...!\nUh, never mind.
+38	2:Today's weather is very unique!
+39	14:I just detected the data about a dragon that lives in the continent across the ocean.
+40	4:What should I do today?
+41	8:Ta-da! I can eliminate all the monsters for you!\nYui's going to attack!
+42	10:Hyaah! Hyaaaaah!
+43	7:Umm, that didn't work...
+44	7:Hehe, it tickles!
+45	11:Win, papa! WIN!
+46	11:Win, mama! WIN!
+47	2:I'm happy if you are happy, papa.
+48	2:I'm happy if you are happy, mama.
+49	9:Papa, get up your courage and start trading!
+50	9:Mama, get up your courage and start trading!
+51	2:Regular exercise will be better for your health than a Diet Potion.
+52	4:Snoring? I've never heard you snoring, so I don't know what snoring sounds like, papa.
+53	4:Snoring? I've never heard you snoring, so I don't know what snoring sounds like, mama.
+54	8:Let's go to the village where we can sell our goodies at high prices!
+55	0:I love you so, so much, papa!
+56	0:I love you so, so much, mama!
+57	14:Based on all the information we've collected so far,\nit's going to take a lot of time to weave a ball of thread.
+58	1:I'm currently classified as a navigation pixie,\nso I have no use for boots.
+59	5:This mask looks scary...
+60	5:Why is Incubus so popular?\nHuman emotions are so complicated...
+61	1:I want to go to the beach with you someday in the future, papa!
+62	1:I want to go to the beach with you someday in the future, mama!
+63	10:Let's go to the village where we can sell our goodies at high prices!
+64	14:According to the data I've analyzed,\nTara Royal Castle has purchased all the marbles for the last seven years.
+65	2:If you decorate a window with a Topaz,\nthe gem will add a warm yellowish hue to the rays of light that will shine through it.
+66	3:This ore is supposed to be as hard as\nspecial weapons like the Highlander Claymore.
+67	7:*Grunt*\nLead is much heavier than I thought.\nI've never touched lead before!
+68	10:I'm sure this strawberry granola is super high in sugar!
+69	0:This butter beer smells so nice, hehe.
+70	1:So many popular dishes are being sold in Emain Macha.
+71	1:I heard that White Truffles are really rare.
+72	4:Hmm, I've never eaten a whole roasted bear before.\nDo you think it's tasty?
+73	14:Shouldn't we sell this crystal somewhere cold?
+74	2:Papa, do you know how to play a musical instrument?\nI want to hear you play it!
+75	2:Mama, do you know how to play a musical instrument?\nI want to hear you play it!
+76	10:Let's go to the village where we can sell our goodies at high prices!
+77	3:This is a must-have for fighting monsters.
+78	4:Do you think it will really turn into gold if we sprinkle this crystal on it?
+79	3:It's made of wood, so its durability is worse than it seems.\nTry not to break it if you trade with someone else.
+80	1:The pattern on this table is so pretty.
+81	0:I want to relax on a rocking chair with you, papa!
+82	0:I want to relax on a rocking chair with you, mama!
+83	0:I want to sleep next to you, papa!
+84	0:I want to sleep next to you, mama!
+85	7:I can't even digest wine!
+86	7:I can eat seaweed, too!
+87	7: Ew, it stinks! It smells fishy!
+88	14:You really shouldn't eat shark fins. It's cruel.
+89	5:Ugh, this jellyfish feels so weird! It's so squishy!
+90	4:La, la, la...\nWhat functions does a Neid Scale serve?
+91	14:A whip isn't an efficient weapon unless you get used to it.
+92	7: Oh... This blade is a bit corroded.
+93	10:A vault is supposed to keep precious data secure, right?\nI'll keep you safer than any vault can, papa!
+94	10:A vault is supposed to keep precious data secure, right?\nI'll keep you safer than any vault can, mama!
+95	4:Do you like ogres, papa?
+96	4:Do you like ogres, mama?
+97	13:I can't see anything in front of me, papa!
+98	13:I can't see anything in front of me, mama!
+99	8: Your Tir Chonaill Merchant Rating Level is 1! Keep going!
+100	9:Your Tir Chonaill Merchant Rating Level is already 6!
+101	8:Dunbarton Merchant Rating Level 4!\nMake a bit more effort, and you'll reach Level 5 in no time!
+102	9:You reached Dunbarton Merchant Rating Level 9!\nWhoa, that took a really long time to reach!
+103	8:Your Bangor Merchant Rating Level is already 5!
+104	9: You reached Bangor Merchant Rating Level 9!
+105	8:Your Emain Macha Merchant Rating Level is 1.\nYou can do it!
+106	9:You reached Emain Macha Merchant Rating Level 8!
+107	8:You already reached Taillteann Merchant Rating Level 5! I thought it'd take you much more time to reach that level. Let's make a bit more effort!
+108	9:Whoa, your Taillteann Merchant Rating Level is 7.
+109	8:Tara Merchant Rating Level 2!\nMake a bit more effort, and you'll reach Level 3 in no time!
+110	9:You reached Tara Merchant Rating Level 6!
+111	8:Your Cobh Level is 3! Let's keep up the good work!
+112	9:Cobh Merchant Rating Level 8? I lost the ledger, so... I guess I'll take your word for it.
+113	8:Your Belvast Merchant Rating Level is 4.\nLet's make a bit more effort!
+114	9:Whoa, you've already reached Belvast Merchant Rating Level 9!
+115	8:This way, papa!
+116	8:This way, mama!
+117	9:Just try a bit harder, and you will be even able to save a big elephant, too!\nYou can do it!
+118	10:Your heart is pounding crazy, papa.\nYou're breathing faster, too.
+119	10:Your heart is pounding crazy, mama.\nYou're breathing faster, too.
+120	8:You can do it, papa!
+121	8:You can do it, mama!
+122	4:Who made this handcart?
+123	1:You can do it, papa!
+124	1:You can do it, mama!
+125	0:I organized the data in the handcart while you were gone, papa. Hehe!
+126	0:I organized the data in the handcart while you were gone, mama. Hehe!
+127	14:It's difficult to push a handcart down a bumpy road, isn't it?
+128	0:Do you hear this sound?\nIt sounds so funny!
+129	10:Carriage drift! Carriage speed up! Yup!
+130	10:Whoa!\nHorses are really fast!
+131	1:Me and the elephant are happy to be with you, papa!
+132	1:Me and the elephant are happy to be with you, mama!
+133	10:Ta-da! Clear the way!
+134	8:I get startled whenever I see an elephant.
+135	0:Elephants are really big and strong\njust like you, papa.
+136	0:Elephants are really big and strong\njust like you, mama.
+137	11:Bandits are near us! I can feel their presence.\nPlease be careful!
+138	12:Papa, bandits are approaching us.\nYou'll see them soon, too.
+139	12:Mama, bandits are approaching us.\nYou'll see them soon, too.
+140	6:I can feel someone's presence nearby...\nThey must be bandits!
+141	1:Whew... I don't feel them anymore.\nI think we've escaped.
+142	10:I can't feel anymore bandits.\nJust leave the detecting to me!
+143	9:We managed to escape.\nOf course, I'm sure those bandits were no match for you, papa!
+144	9:We managed to escape.\nOf course, I'm sure those bandits were no match for you, mama!
+145	10:Your combat stats have decreased because of the trade goods.\nGood luck, papa!
+146	10:Your combat stats have decreased because of the trade goods.\nGood luck, mama!
+147	13:Eeek! Help me, papa!
+148	13:Eeek! Help me, mama!
+149	13:Stop bothering my papa!
+150	13:Stop bothering my mama!
+151	11:Now, papa!
+152	11:Now, mama!
+153	11:You can do it, papa!
+154	11:You can do it, mama!
+155	11:Yap! Hyaaah!
+156	10:Bad bandits!\nNone of you are a match for my papa, anyway!
+157	10:Bad bandits!\nNone of you are a match for my mama, anyway!
+158	11:Watch your back, papa!
+159	11:Watch your back, mama!
+160	10:You're as strong as I thought, papa!
+161	10:You're as strong as I thought, mama!
+162	0:Bandits are scary, indeed.\nBut you looked so handsome when you were fighting them off, papa!
+163	0:Bandits are scary, indeed.\nBut you looked so gorgeous when you were fighting them off, mama!
+164	8:Well, let's go!
+165	5:I lost the {0}...\nSorry for not being able to help you, papa...
+166	5:I lost the {0}...\nSorry for not being able to help you, mama...
+167	6:I lost the {0}...\nAt least it wasn't everything.
+168	13:I lost the {0}...\nAsk the Bounty Hunter for help, papa!
+169	13:I lost the {0}...\nAsk the Bounty Hunter for help, mama!
+170	13:Oh, no! That {0} is missing!\nWe'd better ask the Bounty Hunter for help right now!
+171	7:Papa...\nThe culprit who stole our Trade Goods has already appeared on the board... I feel so angry!
+172	7:Mama...\nThe culprit who stole our Trade Goods has already appeared on the board... I feel so angry!
+173	12:The faster we catch that crook, the sooner we get our stuff back!
+174	0:I will ask.\nAre you my Master?
+175	3:I am your Servant, Saber. I've come in response to your summon.\nMaster, orders!
+176	0:From now on, I shall serve as your blade.\nMy fate is your fate.
+177	1:You're not official.\nBut you are still my Master.
+178	1:I was recharging.\nPlease stay safe.
+179	2:We Servants are spirits.\nWhen we make known our true identities, we also reveal our weaknesses.
+180	2:If you say so, Master...
+181	2:Master. You gave me your word that you would return before sunset.
+182	0:I would like to offer a suggestion.\nMoving forward, you should gain experience through hands-on training.
+183	2:You have waited long.\nMaster, how do things look?
+184	0:To prevent a repeat of last night,\nI shall sleep in your room.\nSurely you have no objections?
+185	0:No, I don't have a problem with that.\nBut are you okay, Master?
+186	1:Master, how are you feeling?
+187	1:It seems you slept well last night.
+188	1:If that is what you want, I will respect your decision.\nI've sworn to be your shield. I will watch until the end.
+189	0:Taking the oath with Saber's name...\nI accept you as my Master.
+190	1:I am always by your side, Master.
+191	1:Master, today is a beautiful day.
+192	1:Won't you compete with me next time?
+193	0:It is important to not lose your pride as a knight.
+194	0:Master, I think it's time to eat.
+195	0:I swore that I would become a sword to protect my Master.\nEven if the contract ends, this won't change.
+196	0:What's wrong, Master?
+197	0:If you have an important decision to make,\nplease discuss it with me first.
+198	1:Now you must build experience through practice.
+199	0:No, I just sensed that your concentration was lacking.
+200	0:Please try not to push yourself too hard.
+201	1:Hmph. N-no.\nI think it's funny that you'd talk behind someone's back.
+202	1:You are really something.
+203	1:You are very talented.\nI think you will soon gain the ability to deal with spirits.
+204	1:You look tired. Why don't you rest?\nI will take care of the rest here.
+205	0:Noble Phantasm is Servant's hidden card.\nIf we call out the Noble Phantasm's true name when activating it, we run the risk of revealing its identity.
+206	0:You must prepare for the worst.\nIt is dangerous for you to be outside alone.
+207	2:Why would you want to look younger?
+208	0:If you train every day, your body will be healthy\nwithout relying on medicinal help.
+209	1:I don't snore...\nI think it would be wise for you to think on it.
+210	1:I hope there is a place where we can buy it at a fair price.
+211	1:Well Master, let's go.
+212	0:I will protect you up to the town.
+213	1:Master, I will come along.
+214	0:What's our destination?
+215	1:I hope there is a place where we can buy it at a fair price.
+216	1:Well Master, let's go.
+217	0:I will protect you up to the town.
+218	1:Master, I will come along.
+219	0:What's our destination?
+220	1:I hope there is a place where we can buy it at a fair price.
+221	1:Well Master, let's go.
+222	0:I will protect you up to the town.
+223	2:This sweet smell...\nIs it coming from that?
+224	1:Something smells good.\nIt's very appetizing.
+225	1:Pasta?\nYes, I'm very much interested.
+226	1:Bear as an ingredient?\nI'd like to try that one day.
+227	0:I will protect you up to the town.
+228	1:Master, I will come along.
+229	0:What's our destination?
+230	1:I hope there is a place where we can buy it at a fair price.
+231	1:Well Master, let's go.
+232	0:As someone who's lived as a knight,\nour fate is not so connected.
+233	1:Master, I will come along.
+234	0:What's our destination?
+235	1:I hope there is a place where we can buy it at a fair price.
+236	1:Well Master, let's go.
+237	0:I will protect you up to the town.
+238	1:Master, I will come along.
+239	0:What's our destination?
+240	1:I hope there is a place where we can buy it at a fair price.
+241	1:Well Master, let's go.
+242	0:I will protect you up to the town.
+243	2:This doesn't look normal.\nI feel a dark presence.
+244	0:What's our destination?
+245	1:That's amazing!
+246	1:Well Master, let's go.
+247	1:Your Tir Chonaill Merchant Rating Level is 1! Keep going!
+248	1:Your Tir Chonaill Merchant Rating Level is already 6!
+249	1:Your Dunbarton Merchant Rating Level is 4!\nMake a bit more effort, and you'll reach Level 5 in no time!
+250	1:Your Dunbarton Merchant Rating is Level 9!\nYou've worked hard, Master.
+251	1:Your Bangor Merchant Rating Level is 5!
+252	1:Your Bangor Merchant Rating Level is 9!\nYou've worked hard, Master.
+253	1:Your Emain Macha Merchant Rating Level is 1.\nYou can do it!
+254	1:You reached Emain Macha Merchant Rating Level 8!
+255	1:Your Taillteann Merchant Rating Level is 5! You can do it!
+256	1:Your Taillteann Merchant Rating Level is 7!
+257	1:Your Tara Merchant Rating Level is 2!\nMake a bit more effort, and you'll reach Level 3 in no time!
+258	1:You reached Tara Merchant Rating Level 6!
+259	1:Your Cobh Merchant Rating Level is 3! Let's keep up the good work!
+260	1:Your Cobh Merchant Rating Level is 8!
+261	1:Your Belvast Merchant Rating Level is 4.\nLet's make a bit more effort!
+262	1:You've already reached Belvast Merchant Rating Level 9!
+263	0:Shall we go to our next destination?
+264	0:Isn't that heavy, Master?
+265	1:If you think this as part of your training,\nyou will feel a lot better.
+266	1:Master, keep up the good work!
+267	0:Shall we go to our next destination?
+268	0:Isn't that heavy, Master?
+269	1:If you think this as part of your training,\nyou will feel a lot better.
+270	1:Master, keep up the good work!
+271	0:Shall we go to our next destination?
+272	1:Smart horses can pick their own owners.\nHorses are very clever.
+273	1:I remember the days when I rode horses with fellow knights.
+274	2:I've just seen an elephant for the first time.\nThey are smarter than I thought.
+275	2:Elephants are just as powerful as they look.\nHow can they move all these goods at once?
+276	2:Not as fast as horses,\nbut elephants are still very fast.
+277	1:It's different from lions,\nbut elephants are also majestic in their own way.
+278	2:I feel the magical energy that remains.
+279	2:Master, outside...
+280	2:Master, I can feel the robbers nearby.\nBe careful!
+281	1:Something feels... off.\nBut I think there's no danger.
+282	1:I think we've passed by the robbers.\nWe're safe for now.
+283	1:We've managed to avoid an unnecessary fight.\nLet's keep going.
+284	3:If you don't come, then I'll go!
+285	3:I'm trying to cut off our enemies here!
+286	3:Stay behind me, Master!\n I've got this!
+287	3:Stop. You'd better be prepared if you come any closer!
+288	3:Be careful, Master!
+289	3:Watch your back, Master!
+290	3:Servant Saber... I will fight as your sword!
+291	3:Don't you dare get near my Master!
+292	1:I'm so proud to have you as my Master!
+293	1:Let's continue!
+294	1:They're not enough to compete with us.
+295	4:{0} has been taken...\nOh no...
+296	4:{0} has been taken...\nI'm so sorry, Master...
+297	4:{0} has been taken...\nIt's my fault...
+298	4:{0} has been taken...\nI think we need help from the Reward Hunter.
+299	4:The culprit who stole our Trade Goods has already appeared on the message board...\nI'm so mad.
+300	4:Our trade goods have been taken...\nI won't lose next time.
+301	6:Seems like I've been drawn by quite the unusual Master.\nHow unlucky.
+302	5:I'm all for that idea.
+303	6:I'm not happy...\nBut I'll take you as my Master.
+304	5:I'll obey.\nBut the one who's fighting is me.
+305	6:Did I upset you? I mean, I do respect your opinion.\nI'm here to make you win.
+306	5:My win is yours. I'll give you everything from the victory.\nThat's enough for you, right?
+307	6:Leave me with what remains. You just think of your safety.\nI don't expect anything from you.
+308	5:Okay. I think I know what kind of person you are.
+309	6:I feel you want to force things in your words. That's not very good.
+310	6:You are first-class, for sure.
+311	5:I won't forgive you, no matter how much you apologize.
+312	5:I can't tell you who I am.\nEven I don't know who I am.
+313	6:I'm the Servant you've summoned.\nOf course I'm the best.
+314	6:Look at where the sun is.\nYou are really clumsy.
+315	6:Hey, you...\nYou're really not a morning person.
+316	5:Are you returning now, Master?
+317	5:Do you honestly believe that, in our hearts,\nwe wish to help humans?
+318	5:Heroic Spirits are mere instruments.\nTools summoned to aid the disadvantaged,\nto settle the matter and disappear.
+319	5:They're cleaners, stripped of their will and made to serve humans forever.\nThey're summoned whenever it's convenient.
+320	5:Fighting for others, but not yourself,\nis nothing but hypocrisy.
+321	5:It's not victory that you want. It's peace.\nEven though there isn't any such thing in this world.
+322	5:How long do you intend to keep playing around?
+323	6:I can't help it. It's natural for Servants to cover\nfor Masters when they are not at their best.\nI will look after you until you fully recover.
+324	5:If you fight of your own free will,\nany consequences are of your own making.\nAccepting them is a part of that ideal.
+325	5:There must be a reason for fighting. But that reason must never be an ideal. If you fight for an ideal, you aren't really helping anyone.\n
+326	5:Brilliant people shine more brightly than ordinary ones.\nThey never regret or agonize over what they've done.\nAnd you are most definitely that sort of person.
+327	5:You've asked me once if I had no pride as a hero.\nOf course. All I have left are foolish regrets.\nI should've never become a hero.
+328	5:I didn't become a hero by myself.\nI'm a guardian who sold himself after death and became a hero.
+329	5:Master, have you ever thought about justice?
+330	6:Oh, I'm so nervous.\nI can't avert my eyes.
+331	6:I'm a Servant summoned for battles, not your butler.\nDon't you ever forget that.
+332	6:I trust your skills and judgment,\nbut don't make mistakes when it's this important.
+333	5:Normally, magical energy must be saved.\nEven you don't have limitless magical energy, right?
+334	5:Shall we go, Master?
+335	6:I will lead.\nJust follow me.
+336	5:Is this the way to our next destination?
+337	6:Oh, fine.\nI'll tag along.
+338	6:I'll take care of the rear.\nYou can go ahead and lead from the front.\nShall we go, then?
+339	5:Shall we go, Master?
+340	6:I will lead.\nJust follow me.
+341	5:Is this the way to our next destination?
+342	6:Oh, fine.\nI'll tag along.
+343	6:I'll take care of the rear.\nYou can go ahead and lead from the front.\nShall we go, then?
+344	5:Shall we go, Master?
+345	6:I will lead.\nJust follow me.
+346	5:Is this the way to our next destination?
+347	6:Oh, fine.\nI'll tag along.
+348	6:I'll take care of the rear.\nYou can go ahead and lead from the front.\nShall we go, then?
+349	5:Shall we go, Master?
+350	6:I will lead.\nJust follow me.
+351	5:Is this the way to our next destination?
+352	6:Oh, fine.\nI'll tag along.
+353	6:I'll take care of the rear.\nYou can go ahead and lead from the front.\nShall we go, then?
+354	5:Shall we go, Master?
+355	6:I will lead.\nJust follow me.
+356	5:Is this the way to our next destination?
+357	6:Oh, fine.\nI'll tag along.
+358	6:I'll take care of the rear.\nYou can go ahead and lead from the front.\nShall we go, then?
+359	5:Shall we go, Master?
+360	6:I'll brew black tea next time.\nIt'll taste better at a table like this.
+361	5:Is this the way to our next destination?
+362	6:Oh, fine.\nI'll tag along.
+363	6:If only there was good drink to fill this wine rack.
+364	5:Shall we go, Master?
+365	6:I will lead.\nJust follow me.
+366	5:Is this the way to our next destination?
+367	6:Oh, fine.\nI'll tag along.
+368	6:I'll take care of the rear.\nYou can go ahead and lead from the front.\nShall we go, then?
+369	5:Shall we go, Master?
+370	6:I will lead.\nJust follow me.
+371	5:Is this the way to our next destination?
+372	6:Oh, fine.\nI'll tag along.
+373	6:I'll take care of the rear.\nYou can go ahead and lead from the front.\nShall we go, then?
+374	6:Your Tir Chonaill Merchant Rating Level is 1! Keep at it.
+375	6:Your Tir Chonaill Merchant Rating Level is already 6!
+376	6:Your Dunbarton Merchant Rating Level is 4!\nMake a bit more effort, and you'll reach Level 5 in no time!
+377	6:Your Dunbarton Merchant Rating Level is 9!\nGood work, Master!
+378	6:Your Bangor Merchant Rating Level is 5!
+379	6:Your Bangor Merchant Rating Level is 9!\nGood work, Master!
+380	6:Your Emain Macha Merchant Rating Level is 1! \nKeep at it.
+381	6:You reached Emain Macha Merchant Rating Level 8!
+382	6:Your Taillteann Merchant Rating Level is 5! Just a little more to go!
+383	6:Your Taillteann Merchant Rating Level is 7!
+384	6:Your Tara Merchant Rating Level is 2!\nMake a bit more effort, and you'll reach Level 3 in no time!
+385	6:You reached Tara Merchant Rating Level 6!
+386	6:Your Cobh Merchant Merchant Rating Level is 3! Keep at it.
+387	6:Your Cobh Merchant Rating Level is 8!
+388	6:YourBelvast Merchant Rating Level is 4! \nMake more efforts.
+389	6:You've already reached Belvast Merchant Rating Level 9!
+390	6:You always waste your energy on useless things.
+391	5:Is this the way to our next destination?
+392	6:This is not so bad once in a while.
+393	6:To my Master, these bags are nothing.
+394	5:Why don't you pick a better\ntransportation mount next time?
+395	5:Is this the way to our next destination?
+396	6:This is not so bad once in a while.
+397	6:To my Master, these bags are nothing.
+398	5:Is this the way to our next destination?
+399	6:This is not so bad once in a while.
+400	5:A horse-drawn carriage...\nIt's classic, but quite effective transportation.
+401	6:Tame elephants as transportation...\nWhoever thought of it is rather clever.
+402	5:Is this the way to our next destination?
+403	6:This is not so bad once in a while.
+404	5:Elephants...\nThey are such big and strong animals.
+405	7:You impress me.\nIt seems you know enough, at least, to sense hostility.
+406	7:Master, I can sense our enemies.\nBe careful.
+407	7:I sense someone.\nWe're being watched.
+408	6:Seems like the enemies have left.\nWe'll be safe for now.
+409	6:The robbers have disappeared.\nDon't worry.
+410	6:I think we're safe now.\nLet's hurry.
+411	8:I won't stop you.\nIt's someone we must defeat.
+412	8:Multiple enemies?\nThis is no disadvantage.
+413	8:Begone!
+414	8:I am the bone of my sword.\nUnknown to Death. Nor known to Life.\nUnlimited blade works!
+415	8:You think that is enough to defeat me?
+416	8:Master, leave it to me!
+417	8:Don't forget, your attacks are weak!\n
+418	8:An enemy.\nI will take care of it right here!
+419	6:I'm impressed.\nBut that's not enough.
+420	6:Hmph.\nI thought you'd be down by now. Your endurance is impressive.
+421	6:I think everything's taken care of.\nLet's go.
+422	9:I'm sorry, {0} has been taken.\nThe enemy was surprising.
+423	9:We lost {0}...\nIt's my defeat.
+424	9:We lost {0}...\nHow could I make such a mistake?
+425	9:To reclaim our trade goods,\nwhy don't we ask a reward hunter for help?
+426	9:It seems that the culprit has already appeared\n on the message board...
+427	9:The sooner we catch the culprit, the sooner we get our stuff back!
+428	14:What...\nI haven't been able to sleep until late...
+429	10:Actually, I'm a sleepy-head.
+430	12:You don't have to tell me. I already know.
+431	10:Just to confirm,\nyou ARE my partner, right?
+432	12:What?\nDo you take me for a fool?
+433	11:You're smarter than I thought.\nThis is fun, really fun.
+434	10:This is the incarnation of the magic passed down in my family. Simply by passing magical energy through it, I can invoke any spell inscribed here.
+435	10:My policy is not to miss an opportunity when it presents itself.
+436	12:Huh?\nW-why are you staring straight at me?
+437	11:It's hard for me to say...\nWon't you sit and rest for a bit?
+438	11:I'm not lending my power to you.\nBut as long as you don't betray me, I will help you.
+439	10:I can store up simple power, alter its flow,\nand convert and store magical energy in various objects.
+440	10:Um, hypothetically...\nHow do you think someone would feel growing up\nafter being given away for adoption without any say in the matter?
+441	10:Training to be a mage?\nSorry to say, but I never found it hard.\nLearning new things was fun.
+442	11:At heart, I'm a hedonist.\nSucceeding my father is my duty,\nbut I wouldn't do it if I didn't enjoy it.
+443	11:Even the reason for my partnership with you is because you're interesting.
+444	14:Sorry.\nIt will take a little longer...\n
+445	11:Anyway, we're going out today. Hurry up and get ready.\nWhy? To have fun, of course.\nIt's a date!
+446	11:So, where should we go first?\nDo you have any requests?
+447	12:I-I do...\nDo push-ups before bed.\nSomething wrong with that?
+448	11:You have some sauce on your face.\nShall I get that for you?
+449	12:D-don't get the wrong idea!\nI w-wasn't concerned about you!
+450	10:Look, if you had fun, just say so.\nYou're being rude, after I played host all day.
+451	10:Have you ever regretted the things you've done?\nIf I can help it, I want to avoid any regrets.\nThat's easier said than done, though.
+452	12:H-Hey, if you go around blurting out things like that without thinking,\npeople will get the wrong idea!
+453	12:Leaving someone like you alone worries me.\nSo to use your words, I don't NOT like you either.\nSo, I don't mind being with you.
+454	10:You must know what I'm thinking at a time like this.
+455	11:Today is such a nice day!\nDon't you want to go out?
+456	11:You're blushing, you're blushing.\nI love how everything shows on your face.
+457	10:Oh, ok. You realized that already, huh?\nBut I don't think you need to worry.\nYou're perfectly fine as you are.
+458	10:How is it?\nIs it good?
+459	11:Oops, maybe I took the joke too far.\nSorry. I knew the reaction I'd get,\nso I couldn't help myself.
+460	11:You look better.\nIs everything okay now?\nThat's a relief.
+461	10:There are people looking for these kinds of things.
+462	12:I-I don't need it.
+463	12:I-I don't need it.
+464	11:I hope we can find a village where we can sell these for a good price.
+465	12:I-I don't need it.
+466	10:There are people looking for these kinds of things.
+467	10:Which village is our next destination?
+468	11:I hope it sold for a good price.
+469	11:I hope we can find a village where we can sell these for a good price.
+470	12:So daring...\nThat would be hard for me.
+471	10:There are people looking for these kinds of things.
+472	10:Which village is our next destination?
+473	11:I hope it sold for a good price.
+474	11:I hope we can find a village where we can sell these for a good price.
+475	10:You know what?\nAlchemy was originally an experiment to make lead into gold.
+476	10:There are people looking for these kinds of things.
+477	10:Which village is our next destination?
+478	11:I hope it sold for a good price.
+479	11:I hope we can find a village where we can sell these for a good price.
+480	10:I haven't seen this before...\nThere are so many things in this world.
+481	10:There are people looking for these kinds of things.
+482	10:Which village is our next destination?
+483	11:I hope it sold for a good price.
+484	11:I hope we can find a village where we can sell these for a good price.
+485	10:I haven't seen this before...\nThere are so many things in this world.
+486	11:That's a lot like the one I have!
+487	10:When things get complicated,\nI just want a cup of tea.
+488	11:I hope it sold for a good price.
+489	11:I hope we can find a village where we can sell these for a good price.
+490	10:There were a lot like these in my basement...\They were no use to me, though.
+491	10:There are people looking for these kinds of things.
+492	10:Which village is our next destination?
+493	11:I hope it sold for a good price.
+494	11:I hope we can find a village where we can sell these for a good price.
+495	10:I haven't seen this before...\nThere are so many things in this world.
+496	10:There are people looking for these kinds of things.
+497	10:Which village is our next destination?
+498	11:I hope it sold for a good price.
+499	11:I hope we can find a village where we can sell these for a good price.
+500	10:I haven't seen this before...\nThere are so many things in this world.
+501	11:Your Tir Chonaill Merchant Rating Level is 1! Keep going!
+502	11:Your Tir Chonaill Merchant Rating Level is already 6!
+503	11:You reached Dunbarton Merchant Rating Level 4!\nMake a bit more effort, and you'll reach Level 5 in no time!
+504	11:You reached Dunbarton Merchant Rating Level 9!\nWhoa, that took a really long time to reach!
+505	11:Your Bangor Merchant Rating Level is already 5!
+506	11:You reached Bangor Merchant Rating Level 9!
+507	11:Your Emain Macha Merchant Rating Level is 1.\nYou can do it!
+508	11:You reached Emain Macha Merchant Rating Level 8!
+509	11:You already reached Taillteann Merchant Rating Level 5! So fast!
+510	11:Your Taillteann Merchant Rating Level is 7!
+511	11:Tara Merchant Rating Level 2!\nMake a bit more effort, and you'll reach Level 3 in no time!
+512	11:You reached Tara Merchant Rating Level 6!
+513	11:Your Cobh Level is 3! Let's keep up the good work!
+514	11:Your Cobh Merchant Rating Level is 8!
+515	11:Your Belvast Merchant Rating Level is 4.\nLet's keep at it!
+516	11:You've already reached Belvast Merchant Rating Level 9!
+517	11:Let's continue!
+518	10:Whew.\nReady, set, GO!
+519	11:That looks a bit heavy?\nWhat? No, it's not that fun...♪
+520	10:Which way this time?
+521	11:Let's continue!
+522	10:Whew.\nReady, set, GO!
+523	11:That looks a bit heavy?\nWhat? No, it's not that fun...♪
+524	10:Which way this time?
+525	11:Let's continue!
+526	10:This ride isn't the best.\nBut a horse-drawn carriage is fast.
+527	11:Which way this time?
+528	11:Let's continue!
+529	10:Wow. It's obvious, but elephants are huge.
+530	10:I never knew I could ride the elephants I saw in the zoo.
+531	10:Which way this time?
+532	12:It hasn't begun yet.\nBut better to be safe than sorry.
+533	12:The Command Spell...\nSomeone is watching us for sure.
+534	12:Be quiet. We'll be found.
+535	11:Whew. I think we dodged a bullet there.\nWe can relax for a bit.
+536	11:Whew. I was a bit nervous there.\nI'm fine now. Let's keep going!
+537	11:I think the bandits are gone.\nShall we continue?
+538	13:I won't interfere!\nShow us your power right here!
+539	13:Relax. I won't say the impossible.\nLeave it to me.
+540	13:Oh no.\nTo Magi these days,\nself-defense is also a must!
+541	13:Bandits are going for the trade goods!\nThey're gonna be hard to face.
+542	13:Leave them to me!\nYou go protect the trade goods!
+543	13:I'm sorry, but I'm taking over this place.\nIf you keep bumbling around like today,\nI don't think my nerves can take it!
+544	13:If you don't like pain, stand still!\nI'll finish you off quickly.\nA vital strike will kill you instantly!
+545	13:Quit running around!\nI'm getting worked up\nbecause my target won't stand still!
+546	11:You're really cold-hearted. I'm surprised.
+547	11:You're really something.\nI'm having second thoughts.
+548	11:It's obvious for Rin Tohsaka.
+549	14:{0} was taken...\nRin, this is your fault...
+550	14:{0} was taken...\nI can't go home empty-handed.\nI must make amends.
+551	14:{0} was taken...\nBut I won't give up.\nAnd I won't accept apologies even after you defeat the bandits and bring back our stuff!
+552	14:Hey!\nHow dare you lay a finger on those trade goods!
+553	14:I did it again.\nOh well.
+554	14:You are such an idiot.
+555	15:Hello, brother.
+556	15:Hello, sister.
+557	15:Hello. I am Illya.\nIllya von Einzbern.
+558	15:You drive someone into a corner\nand kill them when they're at their most fearful.
+559	16:You've been trapped.\nYou are really fun, brother.\nIs this how it feels to hit someone until they cry?
+560	16:You've been trapped.\nYou are really fun, sister.\nIs this how it feels to hit someone until they cry?
+561	15:You're back!\nWelcome, brother!
+562	15:You're back!\nWelcome, sister!
+563	18:Magic? Human's aid?\nOnly humans get satisfaction from that.\nWhat are we living for?
+564	15:Ah...\nYou were there all along, brother.
+565	15:Ah...\nYou were there all along, sister.
+566	15:I can feel safe like this.\nIt has always protected me.
+567	15:Einzbern Castle is quite boring.
+568	16:I was looking forward to meeting you, brother.
+569	16:I was looking forward to meeting you, sister.
+570	15:Is my name hard to say?\nYou can just call me Illya.
+571	15:Is my name hard to say?\nYou can just call me Illya.
+572	16:You're so funny, brother.
+573	16:You're so funny, sister.
+574	15:I wonder what Sella and Liz are doing right now?
+575	18:It's okay, I can live alone...\nAlone...
+576	18:I don't care. It has nothing to do with me.\nI've decided to live alone.
+577	15:Brother, you have protected me\nby your own will. You are so strong...
+578	15:Sister, you have protected me\nby your own will. You are so strong...
+579	16:Let's play together, brother.
+580	16:Let's play together, sister.
+581	16:Do you want to see my magic?\nI'll show you next time.
+582	15:The Holy Grail War?\nIsn't it obvious that I will win?
+583	16:What should we play today, brother?
+584	16:What should we play today, sister?
+585	16:My Servant Berserker is the strongest in the world!\nHe's stronger than yours, brother.
+586	16:My Servant Berserker is the strongest in the world!\nHe's stronger than yours, sister.
+587	16:Where are you taking me today?
+588	15:This won't affect me much.
+589	16:Ah, I saw this once in Einzbern Castle.
+590	15:I don't need this kind of stuff.
+591	15:I've never seen this before.\nWhich village will you take it to?
+592	16:This looks interesting.
+593	15:Who likes this kind of thing?
+594	16:Ah, I saw this once in Einzbern Castle.
+595	15:I hope we can get a good price.
+596	15:I've never seen this before.\nWhich village will you take it to?
+597	16:This looks interesting.
+598	15:Who likes this kind of thing?
+599	16:Ah, I saw this once in Einzbern Castle.
+600	15:I hope we can get a good price.
+601	15:I've never seen this before.\nWhich village will you take it to?
+602	16:This looks interesting.
+603	15:Who likes this kind of thing?
+604	16:Ah, I saw this once in Einzbern Castle.
+605	15:I hope we can get a good price.
+606	15:I've never seen this before.\nWhich village will you take it to?
+607	16:This looks interesting.
+608	15:Who likes this kind of thing?
+609	16:Ah, I saw this once in Einzbern Castle.
+610	15:I hope we can get a good price.
+611	15:I've never seen this before.\nWhich village will you take it to?
+612	16:This looks interesting.
+613	15:My mother had a similar thing.\nIt was a lot bigger and fancier than this one.
+614	16:Ah, I saw this once in Einzbern Castle.
+615	15:I hope we can get a good price.
+616	15:I've never seen this before.\nWhich village will you take it to?
+617	16:This looks interesting.
+618	15:Who likes this kind of thing?
+619	16:Ah, I saw this once in Einzbern Castle.
+620	15:I hope we can get a good price.
+621	15:I've never seen this before.\nWhich village will you take it to?
+622	16:This looks interesting.
+623	15:Who likes this kind of thing?
+624	16:Ah, I saw this once in Einzbern Castle.
+625	15:I hope we can get a good price.
+626	15:I've never seen this before.\nWhich village will you take it to?
+627	16:This looks interesting.
+628	16: Your Tir Chonaill Merchant Rating Level is 1! Keep going!
+629	16:Your Tir Chonaill Merchant Rating Level is already 6!
+630	16:You reached Dunbarton Merchant Rating Level 4!\nMake a bit more effort, and you'll reach Level 5 in no time!
+631	16:You reached Dunbarton Merchant Rating Level 9!\nWhoa, that took a really long time to reach!
+632	16:Your Bangor Merchant Rating Level is already 5!
+633	16:You reached Bangor Merchant Rating Level 9!
+634	16:Your Emain Macha Merchant Rating Level is 1.\nYou can do it!
+635	16:You reached Emain Macha Merchant Rating Level 8!
+636	16:You already reached Taillteann Merchant Rating Level 5! So fast!
+637	16:Whoa, your Taillteann Merchant Rating Level is 7.
+638	16:Your Tara Merchant Rating is 2!\nKeep at it and you'll reach Level 3 in no time!
+639	16:You reached Tara Merchant Rating Level 6!
+640	16:Your Cobh Level is 3! Let's keep up the good work!
+641	16:Your Cobh Merchant Rating Level is 8!
+642	16:Your Belvast Merchant Rating Level is 4.\nLet's keep at it!
+643	16:Whoa, you've already reached Belvast Merchant Rating Level 9!
+644	16:Over here, brother!
+645	16:Over here, sister!
+646	15:Hmm... Are you scared already?
+647	16:I can just go straight here?
+648	16:Over here, brother!
+649	16:Over here, sister!
+650	15:Hmm... Are you scared already?
+651	16:I can just go straight here?
+652	16:Over here, brother!
+653	16:Over here, sister!
+654	15:A horse-drawn carriage is pretty fast.\nNot as fast as Berserker, though.
+655	16:Over here, brother!
+656	16:Over here, sister!
+657	15:So this is an elephant.\nSo big. I think it's bigger than Berserker?
+658	16:Elephants look so strong.\nNot as strong as Berserker, though.
+659	18:I feel a strange presence.\nBe careful, brother.
+660	18:I feel a strange presence.\nBe careful, sister.
+661	18:I think bandits are watching us.\nWhat should we do? Run?\nOr... Destroy them?
+662	16:I think we're fine now.\nI don't feel anything.
+663	16:We didn't have to run...\nI mean, it's good that we avoided trouble.
+664	16:I think we're safe now.\nShall we continue?
+665	18:Are you done counseling?\nShall we begin?
+666	18:Then I will kill them!\n
+667	18:My, how scary.\nAttacking without warning? You're just like an animal.
+668	18:A frontal assault?\nThat's brave, but stupid.
+669	18:You won't lose to anyone, brother.\nYou are the world's strongest!
+670	18:You won't lose to anyone, sister.\nYou are the world's strongest!
+671	18:Don't lose, brother!
+672	18:Don't lose, sister!
+673	18:Destroy them, brother!
+674	18:Destroy them, sister!
+675	18:The bandits are attacking!
+676	16:My, my.\nYou're great, brother!
+677	16:My, my.\nYou're great, sister!
+678	16:Those are no trouble.
+679	16:Shall we continue?
+680	17:{0} was taken...\nNo, it can't be!\nIt can't be!
+681	17:{0} was taken...\nNo, brother...
+682	17:{0} was taken...\nNo, sister...
+683	17:{0} was taken...\nI won't forgive them next time!
+684	17:The culprit who stole our Trade Goods has already appeared on the message board...\nI won't forgive them!
+685	17:We must pray for the culprit to be caught soon!
+686	Yui
+687	Saber
+688	Archer
+689	Rin
+690	Illyasviel
+691	Saber
+692	Archer
+693	Rin
+694	Illyasviel
+695	tuto_guide

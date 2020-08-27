@@ -1,0 +1,89 @@
+﻿1	General
+2	Grocery Store
+3	Church
+4	Combat School
+5	Magic School
+6	Healer's House
+7	Bank
+8	Blacksmith Shop
+9	General Shop
+10	Adventurers' Association
+11	Clothing Shop
+12	Bookstore
+13	Weapons Shop
+14	Inn
+15	Stope
+16	Pub
+17	Music Shop
+18	Flower Shop
+19	The Amazing Race of Mabinogi
+20	Looking for part-timers.
+21	Looking for material collectors.
+22	Looking for crafters.
+23	Looking for monster hunters.
+24	Looking for help with delivery of goods.
+25	Looking for weavers.
+26	Looking for miners.
+27	Looking for refiners.
+28	Looking for diligent workers.
+29	Looking for help with {0}.
+30	Looking for help with delivering goods to {0}.
+31	Looking for help with crafting items needed for {0}.
+32	Looking for monster hunters in {0}.
+33	Looking for help with delivery of goods in {0}.
+34	Looking for weavers.
+35	Looking for miners.
+36	Looking for refiners.
+37	Looking for participants in The Amazing Race of Mabinogi.
+38	Looking for participants in The Amazing Race of Mabinogi.
+39	Looking for participants in The Amazing Race of Mabinogi.
+40	Looking for participants in The Amazing Race of Mabinogi.
+41	Looking for participants in The Amazing Race of Mabinogi.
+42	Looking for participants in The Amazing Race of Mabinogi.
+43	Looking for participants in The Amazing Race of Mabinogi.
+44	Looking for participants in The Amazing Race of Mabinogi.
+45	Looking for participants in The Amazing Race of Mabinogi.
+46	Library
+47	근면 어린이 대회
+48	근면어린이를 뽑습니다
+49	근면어린이를 뽑습니다
+50	근면어린이를 뽑습니다
+51	근면어린이를 뽑습니다
+52	근면어린이를 뽑습니다
+53	근면어린이를 뽑습니다
+54	근면어린이를 뽑습니다
+55	근면어린이를 뽑습니다
+57	Secret Watch Guard
+58	Secret Royal Guard
+61	Secret Combat Instructor
+62	Secret Magic Instructor
+63	Secret Flower Shop
+64	Civil Militia’s Secret Part-Time Job
+65	The Guardman’s Secret Part-Time Job
+66	Martial Art Instructor’s Secret Part-Time Job
+67	Magic Instructor’s Secret Part-Time Job
+68	Flower Shop’s Secret Part-Time Job
+69	Alchemist House
+70	Alchemy assistant wanted.
+71	An assistant to help around the Alchemist House wanted.
+72	Street Artist
+73	Jousting Arena
+74	Looking for persons who can assist in Alchemy.
+75	Looking for models.
+76	Looking for persons who can gather honey.
+77	Looking for models.
+78	Looking for persons who can gather honey.
+79	타티스
+80	멘텀
+81	바스텟
+82	데이곤
+83	Secret Watch Guard
+84	Secret Royal Guard
+85	Secret Combat Instructor
+86	Secret Magic Instructor
+87	Secret Flower Shop
+88	Pontiff's Court
+89	Lighthouse
+90	Recruiting musical performers.
+91	Recruiting musical performers in {0}.
+92	Puppet Shop

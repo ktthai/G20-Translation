@@ -1,0 +1,218 @@
+﻿0	Lost Cat
+1	Lost Dog
+2	Spider
+3	Fox
+4	Raccoon
+5	Ghost
+6	Rat
+7	Bat
+8	Scorpion
+9	Wolf
+10	Snake
+11	Dingo
+12	Mongoose
+13	Goblin
+14	Millipede
+15	Mimic
+16	Penguin
+17	Ostrich
+18	Crab
+19	Capybara
+20	Llama
+21	Mountain Sheep
+22	Otter
+23	Anteater
+24	Ice
+25	Lizard
+26	Zombie
+27	Boar
+28	Kobold
+29	Rat Man
+30	Coyote
+31	Stone
+32	Jackal
+33	Wild Dog
+34	Laghodessa
+35	Dragonfly
+36	Imp
+37	Sprite
+38	Flying Sword
+39	Lynx
+40	Reindeer
+41	Skeleton Animal
+42	Gremlin
+43	Skeleton
+44	Hound
+45	Armor Hound
+46	Horse
+47	Sahagin
+48	Sarracenia
+49	Stag Beetle
+50	Gorgon
+51	Beetle
+52	Ghost
+53	Bear
+54	Cow
+55	Spider Wasp
+56	Wisp
+57	Werewolf
+58	Saturos
+59	Succubus
+60	Stone Horse Keeper
+61	Deer
+62	Troll
+63	Worm
+64	Gnoll
+65	Slate
+66	Hellhound
+67	Lycanthrope
+68	Black Leopard
+69	Hyena
+70	Hippo
+71	Cat Sith
+72	Incubus
+73	Elephant
+74	Ogre
+75	Mummy
+76	Golem
+77	Ghost Servant
+78	Lizard Witch
+79	Mirror Witch
+80	Gargoyle
+81	Siren
+82	Headless Giant
+83	Larva
+84	Balrog
+85	Argus
+86	Cyclops
+87	Grendel
+88	Spider Goblin
+89	Bug Bear
+90	Cloaker
+91	Wight
+92	Ghoul
+93	Cobweb Mummy
+94	Hollow Knight
+95	Moth
+96	Banshee
+98	Kiwi
+99	Rhino
+100	Armadillo
+101	Lion
+102	Grumbill
+103	Alligator
+104	Lost Cats are easy to find on city streets. They can easily be tamed because they've had owners in the past.
+105	Lost Dogs are easy to find on city streets.  They can easily be tamed because they've had owners in the past.
+111	Bats can be found deep within dungeons and caves.
+128	Blocks of ice that look like living creatures. They dwell in the Par Ruins of Iria. Why they're there remains a mystery.
+164	The Stone Horse Keeper watches over the Stone Horses. He might know the secret to the ruins, but he's not very talkative.
+186	This huge beast can be found deep within Coill dungeon. It has a giant mouth where its head should be. Does this monster have a nose, or eyes, or ears?
+208	Dungeon Unicorn
+209	Demi Lich
+210	Kid Cyclops
+224	There has always been debate over whether worm are natural organisms. They're usually found inside dungeons.
+228	These undead monsters hunger for human flesh. They can be found inside Peaca Dungeon.
+230	These cute, chubby animals can be easily found in the central region of Uladh. Try taming the younger ones first.
+231	Armadillos have hard, stone-like shells. They defend themselves by rolling into a ball. They're easily found in the Connous region.
+232	The common fox can be found throughout Uladh, and occasionally on the Snowfields of Physis. Younger ones are easier to tame.
+233	These animals can be found anywhere that people reside. Since they're also found in dungeons, they can likely coexist with Fomors.
+234	A Spider's cobweb can be created with the Weaving skill. You can find spiders of various colors throughout Uladh.
+235	The Mimic disguises itself as a box and uses the element of surprise to attack its victims. Always check before you open box in a dungeon.
+236	Be careful when you meet someone in the desert of Connous. The desert claims many victims, and not all of their souls find peace.
+237	Millipedes might look disgusting, but they're not actually threatening. They live in humid areas, like caves or underground tunnels.
+238	Flying Swords are weapons possessed by evil, dark magic. They also cast spells. Exercise caution.
+239	Goblins are some of the weakest Fomors around. But don't underestimate them. There are a few that are abnormally powerful.
+240	At rest, they look like a pile of stones. When an enemy appears, however, they reform into a stone giant. You can find them on Ceo Island and Ciar dungeon. Rumor has it that a magic, special Golem exists within Longa dungeon.
+241	Kobolds are easily found in dungeons. Sometimes they form groups to invade nearby towns. Occasionally, they can be found working in the mines. They're highly social, even with meager intelligence.
+242	Mongoose are fierce mammals, fast enough to catch snakes. You can find them in Iria.
+243	Though Penguins cannot fly, they are phenomenal swimmers. In the past, they could be found off the coast of Physis. Now they are only in the Par Ruins.
+244	Kiwis are rare birds identifiable by their stubby wings and long, thin beaks. They get their name from the sound they make. They can be found occasionally in the lightly traveled parts of Rano or Connous.
+245	Scorpions use poison to attack and defend themselves. They can be found in extreme environments, such as the deserts of Connous or the volcanic region of Zardine.
+246	Dingos look very similar to wolves. They are native to Uladh, but now they can only be found in Physis.
+247	Wolves are carnivorous pack animals. They can be found anywhere in Uladh continent. They might attack if you get too close, so be careful.
+248	Snakes might not have legs, but they've adapted well. They can be found in forests, dungeons, and deserts. Some have dangerous venom. Exercise caution.
+249	Small, human-like monsters with wings. Their enemies are Imps, and it seems like they serve Golems.
+250	Sprites are like Wisps with distinct attributes. They can be found easily in Coill Dungeon. Somewhere, there are Sprites that look wildly different. 
+251	Like Zombies, Skeletons are undead raised by the power of evil. Unlike Zombies, Skeletons are only bones. They can be found in many different dungeons.
+252	Similar to wolves, but smaller and more intelligent. These creatures are omnivores, and can be easily found in snowy regions.
+253	They're omnivores that eat pretty much anything. They can be reckless and excitable, which makes them dangerous in the wild. Look for them in large fields or hilly areas.
+254	Beetles are often named after their resemblance to jewels. There are Beetles of several different colors in the Longa Desert Ruins.
+255	You can't tame milk cows as they're already domesticated. Try taming the Buffalos near the Physis region, or the Gnu in the Rano area. 
+256	Reindeer are similar to Deer, but are both larger and have longer fur. You can find Reindeer with unique antlers in the Snowfields of Physis.
+257	These creatures have the head of a fish and can even speak. You can find them in the mines of Barri. They can self-destruct to defend themselves.
+258	While Ostriches cannot fly, they can run at incredible speeds. Ostriches are too independent to tame. However, you can ride them. Find them in the Snowfields.
+259	Crabs are easy to find near the sea. However, you can only tame the Crabs that live by volcanoes.
+260	The Capybara is a large rodent. They can be found near the volcanic region.
+261	These herbivores live in the highlands of the Nubes Mountains. While they can be raised as livestock, they're often neglected.
+262	Goats live in isolated mountain areas. Some have been domesticated and can be sheared for wool. To tame a wild one, you must travel to the Nubes Mountains or Courcle.
+263	Otters feed on fish from the Courcle River. They're not hostile, but they are skittish. Approach them carefully.
+264	Anteaters use their long tongues to feed on ants. You can find them in Zardine.
+265	No one knows what these monsters are composed of. What is known is that they're extremely powerful and hostile. Approach with extreme caution. Find them in Peaca Dungeon or the Ruins of Rano.
+267	These monsters are similar to Gremlins, but not as ugly. They're almost always grumpy and lazy. They consider Imps to be their rivals.
+268	These giant lizards live in Iria's deserts. Approach with caution as they are extremely vicious.
+269	Zombies are bodies that have come back from the grave. Only direct physical attacks affect them, so Rangers and Mages must exercise caution.
+270	Jackals are carnivores similar to foxes. They can be found in dense forests such as Courcle or Fiodh Dungeon.
+271	These creatures stand on two legs and closely resemble Rats. They're extremely intelligent and have the ability to speak and use magic. 
+272	Rhinos are identified by the horns on their snouts. Contrary to their appearance, Rhinos are closer to horses than cows. While normally calm, they are unstoppable when agitated.
+273	These giant carnivores come in different types and colors. They're some of the largest animals on land. You can find them on every continent.
+274	Imps seem to exist for the sole purpose of irritating humans. They're easily found in dungeons. Occasionally, they can be found on the outskirts of Dunbarton.
+275	Ogres are muscular monsters with extreme strength. They're frequently found in Barri Dungeon and in castle dungeons.
+276	These massive rock monsters seem to have been modeled after different things. You can find them in the ruins of Rano.
+277	Bucks are like Deer, but with amazing antlers. Travel to Zardine to see for yourself.
+278	Hyenas feed on the leftover carcasses from other predators. They are known as the cleaning crew of the wild. In reality, they are phenomenal hunters as well. They can be found in the deserts of Rano.
+279	Most dogs have been domesticated through living with humans, but Wild Dogs still exist in remote areas like Zardine.
+280	Laghodessas are extremely vicious Spiders. They can only be found in dungeons. It is said that people with a special gift can communicate with them.
+281	Dragonflies are insects with excellent flying skills. You can find Giant Dragonflies in the jungles of Courcle.
+282	If you see a half-human, half-animal statue with wings, it's likely a Gargoyle. They disguise themselves in order to surprise intruders.
+283	They look like a giant house cats, but they're actually fiercely violent animals. They can be found in Courcle or in the Nubes mountains.
+284	These skeletal animals have been reanimated by evil energy. You can find them in dungeons or the Dragon Ruins of Gairech.
+285	Armor Hounds are wild dogs with armor. It's still a mystery who crafted their armor. You can find them in the Longa Desert Ruins.
+286	Wild Horses are especially suited for running. They're also more difficult to find than their domesticated counterparts.
+287	Hounds are frequently used as hunting dogs, but they can also serve as excellent guard dogs.
+288	These monsters appear as a tangle of floating vines. Whether they are plants or animals remains unknown.
+289	These beetles have huge, antler-shaped jaws. They can be found near lake Calida or Raspa Volcano.
+290	They're similar to cows, but with only one eye. They are hostile to people and extremely strong.
+291	These massive creatures are the spectacle of Cenae Meadows. Their huge size, menacing tusks, and flapping ears are awe-inspiring. Taming an Elephant will prove your worth as an explorer.
+292	Are Spider Wasps actually Spiders with wings? Or are they Wasps with 8 legs? Find out for yourself in the Alby Advanced Dungeon.
+293	Wisps are balls of light that glow and float in the air. Unlike Sprites, Wisps don't have wings.
+294	Lycanthropes are people that transform into animals. It's impossible to tell what kind of people they were before transforming into their animal states. Find them in the Rabbie Basic Dungeon.
+295	These half-human, half-wolf monsters have forgotten their past lives. You can find them deep in Fiodh or Alby Dungeon.
+296	The brutal satyr, Saturos, lives in the underground cave that connects Rano and Filia. Exercise extreme caution.
+297	The beautiful Succubus traps explorers with a sweet voice and a seductive appearance. For a REAL challenge, try to tame one.
+298	Trolls use their colossal strength to prey on humans. They communicate in their own, strange-sounding language. They can be found in Gairech Hills and Math Advanced Dungeon.
+299	Gnolls have the head of a dog and the body of a human. They don't seem that intelligent and are found in Rundal Basic Dungeon.
+300	These spirits are the embodiment of the grudges and regrets of those who die by drowning. They charm their victims with beautiful music. Find these creatures by entering Rundal Dungeon with a special pass.
+301	These slabs with arms and legs can join with other slabs to increase their power. They're found in the Maiz Prairie Ruins of Iria.
+302	Hellhounds are creatures that guard the gate of hell. They can be found in Math Dungeon.
+303	Black Leopards are generally thought of as specially colored Leopards. The recent discovery of their presence in the volcanic region of Renes, however, has led to speculation that they are a different species.
+304	Hippos are large animals that like to spend their days in water and their nights on land. You can find them in Courcle.
+305	These half-cat, half-human creatures are extremely intelligent. Sometimes they appear as knights or wizards. They even have the ability to speak. You can find them in Rundal Dungeon.
+306	Incubi seduce explorers with their good looks and quick talk. Eventually though, they reveal their true nature. You can find them at the end of the Castle Underground Dungeon.
+307	Alligators are giant amphibious reptiles. They can be found near the Courcle river. Giant Alligators can be found at Erkey Falls.
+308	This creature has guarded the Mirror of Memory for a long time. You can see it by entering the Par Ruins with a Snow Crystal.
+309	Mummies are bandaged corpses that can't find peace. You can find them in the Longa Desert Ruins.
+310	These creatures are strong enough to enslave Ghosts. They are immensely powerful. Find them in the Longa Desert Ruins. Approach only when well prepared.
+311	These monsters have the skin of a snake and the head of a man. Such mysterious creatures are just another oddity of the Longa Desert Ruins.
+312	Argos is a giant with eyes covering his body. His 360 degree vision makes him a tough foe to surprise. You can find him in Rundal Advanced Dungeon and Fiodh Intermediate Dungeon.
+313	The thread wrapped around their bodies make them appear to be larvae spinning cocoons. They will probably grow into something large and monstrous. You can find them in Alby Advanced Dungeon.
+314	Lions are often called the king of beasts. These large cats live in prides on the Cenae Meadows of Courcle.
+315	The fearsome Balrogs have the wings of a dragon, the horns of a buffalo, and the mane of a horse. They carry massive swords and can be found in volcanic regions.
+316	These giant Cyclops resist normal attacks. They're found at the end of the Rundal Dungeon.
+317	These monsters looks like Bats, but have a bear-like body and stubby limbs. They can be found in the Alby advanced Dungeon.
+318	These monsters appear to be a cross between Spiders and Goblins. It's likely they are goblins that have been transformed into the monsters they are now.
+319	These monsters are similar to Trolls, but are stronger and uglier. They devour everything in sight, including humans. Find them in the Ciar Advanced Dungeon.
+320	Named after their flapping cloaks, Cloakers are aggressive undead monsters.
+321	These vengeful spirits come into the world by sealing themselves to corpses. They can be found only in Peaca dungeon.
+322	Moths have an attraction to light, including campfires. Large Moths can be found deep within Peaca Dungeon.
+323	These embalmed body have been possessed by evil spirits. They look like they're wrapped in cobwebs. They're found in the Alby Advanced Dungeon.
+324	These undead monsters are extremely powerful. Banshees appears as beautiful women with magical powers. A Banshee is the boss of Peaca Basic Dungeon and can only be hurt through special methods. Prepare thoroughly before facing her.
+325	Hollow Knights are headless soldiers that continue to fight. No one knows what power allows them to exist. Find them in the Peaca Intermediate Dungeon.
+326	Liches have reached the extreme limits of dark power over the undead. Such an incredibly strong monster requires several people to defeat. Taming a Lich is a monumental challenge. Find them in Peaca.
+327	Be careful when you meet someone in the desert of Connous. The desert claims many victims, and not all of their souls find peace.
+328	These creatures have the head of a fish and can even speak. You can find them in the mines of Barri. They can self-destruct to defend themselves.
+329	Anteaters use their long tongues to feed on ants. You can find them in Zardine.
+330	Blue-footed Booby
+331	Iguana
+332	A bird named for its blue legs. This is one of the few birds that lives on Belvast Island. Maybe you can get a glimpse of its wobbly walk before its flies away!
+333	A type of lizard with thick legs and tail. Many people are enamored with iguanas since they look like little dinosaurs when they are young.
+334	Saturos, a half-human, half-goat monster, lives in the underground cave that connects Rano and Vales. Be careful. This monster is known to be extremely brutal.

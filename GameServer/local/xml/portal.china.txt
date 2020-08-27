@@ -1,0 +1,95 @@
+﻿1	Tir Chonaill
+2	Dunbarton
+3	Bangor
+4	Alby Dungeon Lobby
+5	Ciar Dungeon Lobby
+6	Rabbie Dungeon Lobby
+7	Math Dungeon Lobby
+8	Barri Dungeon Lobby
+9	Albey Dungeon Lobby
+10	Fiodh Dungeon Lobby
+11	Coill Dungeon Lobby
+12	Emain Macha
+13	Ancient Castle of Dugald
+14	Ancient Castle of Sen Mag
+15	Event Arena Lobby 1
+16	Event Arena Lobby 2
+17	Qilla Base Camp
+18	Maiz Flower Mark
+19	Maiz Human Mark
+20	Muyu Bird Mark
+21	Muyu Sheep Mark
+22	Karu Snake Mark
+23	Karu Tree Mark
+24	Kaypi Sun Mark
+25	Filia
+26	Spider Mark
+27	Lizard Mark
+28	Scolpion Mark
+29	Rhinoceros Mark
+30	Sandworm Mark
+31	Fish Mark
+32	Fruited Tree Mark
+33	Unflyable Bird Mark
+34	Reindeer Mark
+35	Pegasus Mark
+36	Whirlpool Mark
+37	Star Mark
+38	Vales
+39	Monkey Mark
+40	Cor
+41	Dragon Mark
+42	Dragonfly Mark
+43	Mountain Mark
+44	Jungle Tree Mark
+45	Rundal Dungeon Lobby
+46	Peaca Dungeon Lobby
+47	Karu Forest Ruins Lobby
+48	Maiz Prairie Ruins Lobby
+49	Longa Ruins Lobby
+50	Par Ruins Lobby
+51	Cor
+52	Dragon Mark
+53	Dragonfly Mark.
+54	Mountain Mark
+55	Jungle Tree Mark
+56	Calida Exploration Camp
+57	Raspa Volcano Mana Tunnel
+58	Pera Mana Tunnel
+59	Taillteann
+60	Ancient Castle of Abb Neagh
+61	Tara
+62	Doki Doki Island
+63	Taillteann Stonehenge
+64	Tara Stonehenge
+65	Renes Entrance
+66	Filia Outskirt
+67	Vales Outskirt
+68	Cuilin Castle Area
+69	Mabinogi Quiz Show Area (Near Vales Mana Tunnel)
+70	Maiz Prairie Convoy Area
+71	Port Cobh
+72	Belvast
+73	Southern Maiz Prairie Caravan Event Area
+74	Cor
+75	가이레흐 언덕
+77	Scathach Beach
+78	Scathach Caverns
+79	Avon
+81	West Courcle
+82	Zardine Hot Springs
+83	Tara Jousting Arena Lileas
+84	Tara Auction House Cliona
+85	Tara Fashion Contest
+86	Poulnabrone
+87	Festia
+88	Bard Camp
+89	Front of Rath Royal Castle
+90	Peaca Dungeon Entrance in Sen Mag Plains
+91	Tory Ravine Blackstone Beach
+92	Tory Ravine Broken Bridge
+93	Tory Ravine Altar of Doubhca
+94	Oasis
+95	Library
+96	Port
+97	Plains

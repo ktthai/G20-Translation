@@ -1,0 +1,313 @@
+﻿0	Tailoring Dan 1
+1	Tailoring Dan 2
+2	Tailoring Dan 3
+3	Tailoring Dan 3
+4	Blacksmithing Dan 1
+5	Blacksmithing Dan 2
+6	Blacksmithing Dan 3
+7	Blacksmithing Dan 3
+8	Magic Craft Dan 1
+9	Magic Craft Dan 2
+10	Magic Craft Dan 3
+11	Magic Craft Dan 3
+12	Hillwen Engineering Dan 1
+13	Hillwen Engineering Dan 2
+14	Hillwen Engineering Dan 3
+15	Hillwen Engineering Dan 3
+16	Potion Making Dan 1
+17	Potion Making Dan 2
+18	Potion Making Dan 3
+19	Potion Making Dan 3
+20	Combat Mastery Dan 1
+21	Combat Mastery Dan 2
+22	Combat Mastery Dan 3
+23	Combat Mastery Dan 3
+24	Defense Dan 1
+25	Defense Dan 2
+26	Defense Dan 3
+27	Defense Dan 3
+28	Smash Dan 1
+29	Smash Dan 2
+30	Smash Dan 3
+31	Smash Dan 3
+32	Counterattack Dan 1
+33	Counterattack Dan 2
+34	Counterattack Dan 3
+35	Counterattack Dan 3
+36	Windmill Dan 1
+37	Windmill Dan 2
+38	Windmill Dan 3
+39	Windmill Dan 3
+40	Charge Dan 1
+41	Charge Dan 2
+42	Charge Dan 3
+43	Charge Dan 3
+44	Assault Slash Dan 1
+45	Assault Slash Dan 2
+46	Assault Slash Dan 3
+47	Assault Slash Dan 3
+48	Ranged Attack Dan 1
+49	Ranged Attack Dan 2
+50	Ranged Attack Dan 3
+51	Ranged Attack Dan 3
+52	Magnum Shot Dan 1
+53	Magnum Shot Dan 2
+54	Magnum Shot Dan 3
+55	Magnum Shot Dan 3
+56	Crash Shot Dan 1
+57	Crash Shot Dan 2
+58	Crash Shot Dan 3
+59	Crash Shot Dan 3
+60	Lance Charge Dan 1
+61	Lance Charge Dan 2
+62	Lance Charge Dan 3
+63	Lance Charge Dan 3
+64	Icebolt Dan 1
+65	Icebolt Dan 2
+66	Icebolt Dan 3
+67	Icebolt Dan 3
+68	Lightning Bolt Dan 1
+69	Lightning Bolt Dan 2
+70	Lightning Bolt Dan 3
+71	Lightning Bolt Dan 3
+72	Firebolt Dan 1
+73	Firebolt Dan 2
+74	Firebolt Dan 3
+75	Firebolt Dan 3
+76	Ice Spear Dan 1
+77	Ice Spear Dan 2
+78	Ice Spear Dan 3
+79	Ice Spear Dan 3
+80	Thunder Dan 1
+81	Thunder Dan 2
+82	Thunder Dan 3
+83	Thunder Dan 3
+84	Fireball Dan 1
+85	Fireball Dan 2
+86	Fireball Dan 3
+87	Fireball Dan 3
+88	Lightning Rod Dan 1
+89	Lightning Rod Dan 2
+90	Lightning Rod Dan 3
+91	Lightning Rod Dan 3
+92	Healing Dan 1
+93	Healing Dan 2
+94	Healing Dan 3
+95	Healing Dan 3
+96	Water Cannon Dan 1
+97	Water Cannon Dan 2
+98	Water Cannon Dan 3
+99	Water Cannon Dan 3
+100	Sand Burst Dan 1
+101	Sand Burst Dan 2
+102	Sand Burst Dan 3
+103	Sand Burst Dan 3
+104	Flame Burst Dan 1
+105	Flame Burst Dan 2
+106	Flame Burst Dan 3
+107	Flame Burst Dan 3
+108	Combo: Charging Strike Dan 1
+109	Combo: Charging Strike Dan 2
+110	Combo: Charging Strike Dan 3
+111	Combo: Charging Strike Dan 3
+112	Combo: Spinning Uppercut Dan 1
+113	Combo: Spinning Uppercut Dan 2
+114	Combo: Spinning Uppercut Dan 3
+115	Combo: Spinning Uppercut Dan 3
+116	Combo: Pummel Dan 1
+117	Combo: Pummel Dan 2
+118	Combo: Pummel Dan 3
+119	Combo: Pummel Dan 3
+120	Act 4: Rising Action Dan 1
+121	Act 4: Rising Action Dan 2
+122	Act 4: Rising Action Dan 3
+123	Act 4: Rising Action Dan 3
+124	Act 6: Crisis Dan 1
+125	Act 6: Crisis Dan 2
+126	Act 6: Crisis Dan 3
+127	Act 6: Crisis Dan 3
+128	Flash Launcher Dan 1
+129	Flash Launcher Dan 2
+130	Flash Launcher Dan 3
+131	Flash Launcher Dan 3
+132	Shooting Rush Dan 1
+133	Shooting Rush Dan 2
+134	Shooting Rush Dan 3
+135	Shooting Rush Dan 3
+136	Shuriken Charge Dan 1
+137	Shuriken Charge Dan 2
+138	Shuriken Charge Dan 3
+139	Shuriken Charge Dan 3
+140	Kunai Storm Dan 1
+141	Kunai Storm Dan 2
+142	Kunai Storm Dan 3
+143	Kunai Storm Dan 3
+144	Use Tailoring to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the score is decided according to the items' quality. As the test rank increases, so too does the score needed to pass the test.
+145	Use Tailoring to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the score is decided according to the items' quality. As the test rank increases, so too does the score needed to pass the test.
+146	Use Tailoring to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the score is decided according to the items' quality. As the test rank increases, so too does the score needed to pass the test.
+147	Use Tailoring to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the score is decided according to the items' quality. As the test rank increases, so too does the score needed to pass the test.
+148	Use Blacksmithing to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the score is decided according to the items' quality. As the test rank increases, so too does the score needed to pass the test.
+149	Use Blacksmithing to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the score is decided according to the items' quality. As the test rank increases, so too does the score needed to pass the test.
+150	Use Blacksmithing to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the score is decided according to the items' quality. As the test rank increases, so too does the score needed to pass the test.
+151	Use Blacksmithing to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the score is decided according to the items' quality. As the test rank increases, so too does the score needed to pass the test.
+152	Use Magic Craft to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the faster you go, the higher your score. As the test rank increases, so too does the score needed to pass the test.
+153	Use Magic Craft to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the faster you go, the higher your score. As the test rank increases, so too does the score needed to pass the test.
+154	Use Magic Craft to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the faster you go, the higher your score. As the test rank increases, so too does the score needed to pass the test.
+155	Use Magic Craft to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the faster you go, the higher your score. As the test rank increases, so too does the score needed to pass the test.
+156	Use Hillwen Engineering to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the faster you go, the higher your score. As the test rank increases, so too does the score needed to pass the test.
+157	Use Hillwen Engineering to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the faster you go, the higher your score. As the test rank increases, so too does the score needed to pass the test.
+158	Use Hillwen Engineering to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the faster you go, the higher your score. As the test rank increases, so too does the score needed to pass the test.
+159	Use Hillwen Engineering to make and deliver as many items as you can within the time limit. The items to be delivered are specified, and the faster you go, the higher your score. As the test rank increases, so too does the score needed to pass the test.
+160	Use Potion Making to create the potion and deliver it to a character who needs it within the time limit. Keeping the character in good condition results in a higher score. As the test rank increases, so too does the score needed to pass the test.
+161	Use Potion Making to create the potion and deliver it to a character who needs it within the time limit. Keeping the character in good condition results in a higher score. As the test rank increases, so too does the score needed to pass the test.
+162	Use Potion Making to create the potion and deliver it to a character who needs it within the time limit. Keeping the character in good condition results in a higher score. As the test rank increases, so too does the score needed to pass the test.
+163	Use Potion Making to create the potion and deliver it to a character who needs it within the time limit. Keeping the character in good condition results in a higher score. As the test rank increases, so too does the score needed to pass the test.
+164	Use Melee skills to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+165	Use Melee skills to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+166	Use Melee skills to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+167	Use Melee skills to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+168	Use Defense against as many monster attacks as you can within the time limit. Destroying a monster's own Defense results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+169	Use Defense against as many monster attacks as you can within the time limit. Destroying a monster's own Defense results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+170	Use Defense against as many monster attacks as you can within the time limit. Destroying a monster's own Defense results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+171	Use Defense against as many monster attacks as you can within the time limit. Destroying a monster's own Defense results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+172	Use Smash to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+173	Use Smash to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+174	Use Smash to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+175	Use Smash to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+176	Use Counterattack to defeat as many monsters as you can within the time limit. Destroying a monster's own Counterattack results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+177	Use Counterattack to defeat as many monsters as you can within the time limit. Destroying a monster's own Counterattack results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+178	Use Counterattack to defeat as many monsters as you can within the time limit. Destroying a monster's own Counterattack results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+179	Use Counterattack to defeat as many monsters as you can within the time limit. Destroying a monster's own Counterattack results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+180	Use Windmill to defeat monsters as many monsters as you can within the time limit. Defeating many monsters at once results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+181	Use Windmill to defeat monsters as many monsters as you can within the time limit. Defeating many monsters at once results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+182	Use Windmill to defeat monsters as many monsters as you can within the time limit. Defeating many monsters at once results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+183	Use Windmill to defeat monsters as many monsters as you can within the time limit. Defeating many monsters at once results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+184	Use Charge to defeat as many monsters as you can within the time limit. Stopping a monster's Ranged Attack with Charge results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+185	Use Charge to defeat as many monsters as you can within the time limit. Stopping a monster's Ranged Attack with Charge results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+186	Use Charge to defeat as many monsters as you can within the time limit. Stopping a monster's Ranged Attack with Charge results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+187	Use Charge to defeat as many monsters as you can within the time limit. Stopping a monster's Ranged Attack with Charge results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+188	Use Assault Slash to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+189	Use Assault Slash to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+190	Use Assault Slash to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+191	Use Assault Slash to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+192	Use Ranged Attack to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+193	Use Ranged Attack to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+194	Use Ranged Attack to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+195	Use Ranged Attack to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+196	Use Magnum Shot to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+197	Use Magnum Shot to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+198	Use Magnum Shot to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+199	Use Magnum Shot to defeat as many monsters as you can within the time limit. Dealing major damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+200	Use Crash Shot to defeat as many monsters as you can within the time limit. Defeating many monsters at once results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+201	Use Crash Shot to defeat as many monsters as you can within the time limit. Defeating many monsters at once results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+202	Use Crash Shot to defeat as many monsters as you can within the time limit. Defeating many monsters at once results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+203	Use Crash Shot to defeat as many monsters as you can within the time limit. Defeating many monsters at once results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+204	Use Lance Charge to defeat as many monsters as you can within the time limit. Defeating many monsters at once results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+205	Use Lance Charge to defeat as many monsters as you can within the time limit. Defeating many monsters at once results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+206	Use Lance Charge to defeat as many monsters as you can within the time limit. Defeating many monsters at once results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+207	Use Lance Charge to defeat as many monsters as you can within the time limit. Defeating many monsters at once results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+208	Use Icebolt to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+209	Use Icebolt to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+210	Use Icebolt to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+211	Use Icebolt to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+212	Use Lightning Bolt to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+213	Use Lightning Bolt to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+214	Use Lightning Bolt to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+215	Use Lightning Bolt to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+216	Use Firebolt to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+217	Use Firebolt to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+218	Use Firebolt to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+219	Use Firebolt to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+220	Use Ice Spear to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+221	Use Ice Spear to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+222	Use Ice Spear to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+223	Use Ice Spear to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+224	Use Thunder to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+225	Use Thunder to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+226	Use Thunder to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+227	Use Thunder to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+228	Use Fireball to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+229	Use Fireball to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+230	Use Fireball to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+231	Use Fireball to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+232	Use Lightning Rod to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+233	Use Lightning Rod to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+234	Use Lightning Rod to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+235	Use Lightning Rod to defeat as many monsters as you can within the time limit. Defeating many monsters at once or dealing higher total damage results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+236	Use Healing to help allies as many times as possible within the time limit. Finishing the battle faster results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+237	Use Healing to help allies as many times as possible within the time limit. Finishing the battle faster results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+238	Use Healing to help allies as many times as possible within the time limit. Finishing the battle faster results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+239	Use Healing to help allies as many times as possible within the time limit. Finishing the battle faster results in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+240	Use Water Cannon to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+241	Use Water Cannon to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+242	Use Water Cannon to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+243	Use Water Cannon to defeat as many monsters as you can within the time limit. Dealing more damage will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+244	Use Sand Burst to defeat as many monsters as you can within the time limit. Blocking the enemy's sight with Sand Burst will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+245	Use Sand Burst to defeat as many monsters as you can within the time limit. Blocking the enemy's sight with Sand Burst will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+246	Use Sand Burst to defeat as many monsters as you can within the time limit. Blocking the enemy's sight with Sand Burst will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+247	Use Sand Burst to defeat as many monsters as you can within the time limit. Blocking the enemy's sight with Sand Burst will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+248	Use Flame Burst to defeat as many monsters as you can within the time limit. The higher the damage from a single Flame Burst, the higher your score will be. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+249	Use Flame Burst to defeat as many monsters as you can within the time limit. The higher the damage from a single Flame Burst, the higher your score will be. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+250	Use Flame Burst to defeat as many monsters as you can within the time limit. The higher the damage from a single Flame Burst, the higher your score will be. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+251	Use Flame Burst to defeat as many monsters as you can within the time limit. The higher the damage from a single Flame Burst, the higher your score will be. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+252	Use Charging Strike to defeat as many monsters as you can within the time limit. Dealing a lot of damage via this skill's super-fast approach will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+253	Use Charging Strike to defeat as many monsters as you can within the time limit. Dealing a lot of damage via this skill's super-fast approach will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+254	Use Charging Strike to defeat as many monsters as you can within the time limit. Dealing a lot of damage via this skill's super-fast approach will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+255	Use Charging Strike to defeat as many monsters as you can within the time limit. Dealing a lot of damage via this skill's super-fast approach will result in a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+256	Use Spinning Uppercut to defeat as many monsters as you can within the time limit. A higher score will result from dealing a lot of damage by using this skill to decrease enemy defense and protection. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+257	Use Spinning Uppercut to defeat as many monsters as you can within the time limit. A higher score will result from dealing a lot of damage by using this skill to decrease enemy defense and protection. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+258	Use Spinning Uppercut to defeat as many monsters as you can within the time limit. A higher score will result from dealing a lot of damage by using this skill to decrease enemy defense and protection. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+259	Use Spinning Uppercut to defeat as many monsters as you can within the time limit. A higher score will result from dealing a lot of damage by using this skill to decrease enemy defense and protection. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+260	Use Pummel to defeat as many monsters as you can within the time limit. A higher score will result from the use of this skill to mount and deal damage to an enemy that's been knocked down. Performing said damage by tapping on the hotkey consecutively will also contribute to a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+261	Use Pummel to defeat as many monsters as you can within the time limit. A higher score will result from the use of this skill to mount and deal damage to an enemy that's been knocked down. Performing said damage by tapping on the hotkey consecutively will also contribute to a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+262	Use Pummel to defeat as many monsters as you can within the time limit. A higher score will result from the use of this skill to mount and deal damage to an enemy that's been knocked down. Performing said damage by tapping on the hotkey consecutively will also contribute to a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+263	Use Pummel to defeat as many monsters as you can within the time limit. A higher score will result from the use of this skill to mount and deal damage to an enemy that's been knocked down. Performing said damage by tapping on the hotkey consecutively will also contribute to a higher score. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+264	Use Rising Action to deal as much damage to monsters as you can within the time limit. A higher score will result from using this skill to make ranged attacks on surrounding enemies. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+265	Use Rising Action to deal as much damage to monsters as you can within the time limit. A higher score will result from using this skill to make ranged attacks on surrounding enemies. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+266	Use Rising Action to deal as much damage to monsters as you can within the time limit. A higher score will result from using this skill to make ranged attacks on surrounding enemies. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+267	Use Rising Action to deal as much damage to monsters as you can within the time limit. A higher score will result from using this skill to make ranged attacks on surrounding enemies. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+268	Use Crisis to defeat a set number of monsters and put them inside a circle. A higher score will result if you use this skill to pull all the enemies around with threads. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+269	Use Crisis to defeat a set number of monsters and put them inside a circle. A higher score will result if you use this skill to pull all the enemies around with threads. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+270	Use Crisis to defeat a set number of monsters and put them inside a circle. A higher score will result if you use this skill to pull all the enemies around with threads. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+271	Use Crisis to defeat a set number of monsters and put them inside a circle. A higher score will result if you use this skill to pull all the enemies around with threads. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+272	Use Flash Launcher to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to inflict explosive damage and knock down an enemy. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+273	Use Flash Launcher to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to inflict explosive damage and knock down an enemy. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+274	Use Flash Launcher to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to inflict explosive damage and knock down an enemy. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+275	Use Flash Launcher to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to inflict explosive damage and knock down an enemy. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+276	Use Shooting Rush to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to knock down all surrounding enemies with a brutal charge. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+277	Use Shooting Rush to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to knock down all surrounding enemies with a brutal charge. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+278	Use Shooting Rush to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to knock down all surrounding enemies with a brutal charge. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+279	Use Shooting Rush to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to knock down all surrounding enemies with a brutal charge. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+280	Use Shuriken Charge to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to concentrate energy and thus increase damage. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+281	Use Shuriken Charge to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to concentrate energy and thus increase damage. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+282	Use Shuriken Charge to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to concentrate energy and thus increase damage. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+283	Use Shuriken Charge to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to concentrate energy and thus increase damage. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+284	Use Kunai Storm to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to subdue many enemies at once. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+285	Use Kunai Storm to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to subdue many enemies at once. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+286	Use Kunai Storm to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to subdue many enemies at once. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+287	Use Kunai Storm to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to subdue many enemies at once. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+288	Life
+289	Combat
+290	Magic
+291	Alchemy
+292	Martial Arts
+293	Puppetry
+294	Dual Gun
+295	Ninja
+304	Chain Slash
+313	Spinning Slasher Dan 1
+314	Spinning Slasher Dan 2
+315	Spinning Slasher Dan 3
+316	Spinning Slasher Dan 3
+317	Death Mark Dan 1
+318	Death Mark Dan 2
+319	Death Mark Dan 3
+320	Death Mark Dan 3
+321	Use Spinning Slasher to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to pull in and attack many enemies at once. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+322	Use Spinning Slasher to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to pull in and attack many enemies at once. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+323	Use Spinning Slasher to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to pull in and attack many enemies at once. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+324	Use Spinning Slasher to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to pull in and attack many enemies at once. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+325	Use Death Mark to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to attract enemies in quick succession. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+326	Use Death Mark to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to attract enemies in quick succession. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+327	Use Death Mark to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to attract enemies in quick succession. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.
+328	Use Death Mark to defeat as many monsters as you can within the time limit. A higher score will result if you use this skill to attract enemies in quick succession. As the test rank increases, stronger monsters will appear and you will need a higher score to pass the test.

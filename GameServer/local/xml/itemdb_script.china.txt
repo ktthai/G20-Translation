@@ -1,0 +1,396 @@
+﻿22	미완성의 뿔피리
+23	적염화룡의 뿔피리 완성 직전 단계. \n몸에 지니고 1시간 동안 접속을 유지하면 주변의 마나를 흡수하여 적염화룡의 뿔피리로 변화한다고 한다.\n사용 시, 경과시간을 15분 단위로 확인할 수 있다.\n(로그오프, 채널이동 시 초기화)
+24	레트로 박스
+25	레트로 월드에서 놀러온 친구들이 보내주는 상자. 사용하면 레트로 장갑, 레트로 모자를 비롯한 다양한 아이템을 얻을 수 있다.
+26	출석 체크 스크롤
+27	매일 매일 에린 세계에 들어오자! 특별한 선물을 받을 수 있다!
+28	KEMONO FRIENDS Box
+29	KEMONO FRIENDS Handkerchief
+30	KEMONO FRIENDS Handkerchief Package
+31	KEMONO FRIENDS Handkerchief Packages (11)
+32	KEMONO FRIENDS Handkerchief Packages (25)
+33	KEMONO FRIENDS Handkerchief Packages (60)
+34	KEMONO FRIENDS Doll Bag Box
+35	KEMONO FRIENDS Doll Bag Handkerchief
+36	KEMONO FRIENDS Doll Bag Handkerchief Package
+37	KEMONO FRIENDS Doll Bag Handkerchief Packages (5)
+38	KEMONO FRIENDS Doll Bag Handkerchief Packages (11)
+39	A box containing a variety of items popular among the KEMONO FRIENDS. Open it for a chance to obtain an item related to one of the Friends.
+40	A handkerchief containing a variety of items popular among the KEMONO FRIENDS. Open it to obtain an item related to one of the Friends.
+41	A package that contains a KEMONO FRIENDS Handkerchief and Manus's Potion. Rub magic lamps with a handkerchief to obtain all kinds of items.
+42	A package containing 11 vials of Manus's Potion and a KEMONO FRIENDS Handkerchief. Rub magic lamps with a handkerchief to obtain all kinds of items.
+43	A package containing 25 vials of Manus's Potion and a KEMONO FRIENDS Handkerchief. Rub magic lamps with a handkerchief to obtain all kinds of items.
+44	A package containing 60 vials of Manus's Potion and a KEMONO FRIENDS Handkerchief. Rub magic lamps with a handkerchief to obtain all kinds of items.
+45	A special box that contains handy doll bags that give you more inventory space AND let you take characters from KEMONO FRIENDS along on your adventures. Use it to obtain one of a variety of doll bags, including the Serval Doll Bag, Caracal Doll Bag, and more!
+46	A special handkerchief that contains handy doll bags that give you more inventory space AND let you take characters from KEMONO FRIENDS along on your adventures. Rub magic lamps with a handkerchief to obtain one of a variety of doll bags, including the Serval Doll Bag, Caracal Doll Bag, and more!
+47	A package that contains a KEMONO FRIENDS Doll Bag Handkerchief and an Enhanced Manus's Potion. Rub magic lamps with a handkerchief to obtain all kinds of items.
+48	A package containing 5 vials of Enhanced Manus's Potion and a KEMONO FRIENDS Doll Bag Handkerchief. Rub magic lamps with the handkerchief to obtain all kinds of items.
+49	A package containing 11 vials of Enhanced Manus's Potion and a KEMONO FRIENDS Doll Bag Handkerchief. Rub magic lamps with a handkerchief to obtain all kinds of items.
+50	레트로 월드에서 온 친구들 2차 타이틀 획득 쿠폰
+51	레트로 월드의 승리자 2차 타이틀 획득 쿠폰
+52	레트로 월드에서 온 친구들 2차 타이틀을 얻을 수 있는 쿠폰. 타이틀 활성화 시 행운 30이 증가한다.
+53	레트로 월드의 승리자 2차 타이틀을 얻을 수 있는 쿠폰. 타이틀 활성화 시 행운 30이 증가한다.
+54	특별한 선물 상자
+55	다양한 아이템 중 한 가지를 얻을 수 있는 선물 상자. 한 번 열어보자.
+56	Far Darrig Event Reward Box
+57	A box obtained as a reward from the event. Use it to obtain a Floaty Far Darrig Hot-Air Balloon and a Far Darrig Speech Bubble Sticker (30 Days).
+58	기억의 선율
+59	어디선가 들어본 기억의 선율. 15개를 모두 모으면 특별한 선물을 받을 수 있다.
+60	Carasek's Adventure Chest
+61	A treasure chest containing items that Captain Carasek acquired during his adventures. Inside, one can find a variety of charming and useful items such as the Soldier's Combat Gear, Mercenary's Combat Gear, Soldier's Automatic Pistol Appearance Scroll, and more. While the contents of the chest may have been bumped and jostled thanks to their lengthy voyage, shops will still give you a fair deal if you try to sell them.
+62	Crow Feather Box
+63	A Crow Feather box as mysterious as the night sky. Contains one of a variety of items, such as the Special Crow Feather Suit (M), Special Crow Feather Dress (F), Abyssal Crow Wings, Abyssal Raven Wings, Abyssal Crow Feather Halo, and more.
+66	Crow Feather Outfit Dye Ampoule Set
+67	Homestead White Chess Piece Package Box
+68	Homestead Black Chess Piece Package Box
+69	Homestead Black Chess Board Package Box
+70	Homestead White Chess Board Package Box
+72	매지컬 블리츠 빙고 스페셜 보상상자
+73	A set that contains 13 fixed color dye ampoules. The colors match those used in the Crow Feather Outfit. Make sure you have plenty of space in your inventory!
+74	A special package that contains 16 White Chess Pieces, such as the Homestead Chess Piece - White King and Black Square and the Homestead Chess Piece - White Queen and White Square so you can decorate your homestead as a chess game. Make sure you have plenty of space in your inventory!
+75	A special package that contains 16 Black Chess Pieces, such as the Homestead Chess Piece - Black King and White Square and the Homestead Chess Piece - Black Queen and Black Square so you can decorate your homestead as a chess game. Make sure you have plenty of space in your inventory!
+76	A special package that contains 16 Homestead Chess Board - Black Squares, which form a chess board so you can decorate your homestead as a chess game. Make sure you have plenty of space in your inventory!
+77	A special package that contains 16 Homestead Chess Board - White Squares, which form a chess board so you can decorate your homestead as a chess game. Make sure you have plenty of space in your inventory!
+79	빙고를 모두 달성하면 얻을 수 있는 스페셜 보상 상자.
+88	스위트 로즈 2차 타이틀 획득 쿠폰
+89	스위트 로즈 2차 타이틀을 얻을 수 있는 쿠폰. 타이틀 활성화 시 발 밑에서 만개하는 스위트 로즈를 볼 수 있다. 타이틀 활성화 시 행운 35가 증가한다.
+90	스위트 로즈 코르플레의 나팔
+91	음악의 신 코르플레의 축복이 깃든 나팔. 음악에 취한 상태에서 나팔을 불면 만개한 스위트 로즈의 환상과 함께 코르플레의 축복을 받을 수 있다.
+94	어린이날 기념 솜사탕 상자
+96	어린이날 기념으로 지급된 솜사탕 상자. 사용하면 다양한 색상의 어린이날 솜사탕 중 하나를 얻을 수 있다.
+98	어서와 5월에 이런 연휴는 처음이지 온타임 이벤트 상자
+99	어서와 5월에 이런 연휴는 처음이지 온타임 이벤트 상자(스킬)
+100	어서와 5월에 이런 연휴는 처음이지 온타임 이벤트 상자(전투)
+101	`어서와~ 5월에 이런 연휴는 처음이지` 이벤트를 맞이하여 지급하는 온타임 선물 상자. 사용하면 돌아온 기분이 드는 밀레시안 타이틀과 환생물약(이벤트)를 획득할 수 있다. 상자 속 아이템들엔 유효기간이 존재하니 유의하여 사용하자.(돌아온 기분이 드는 밀레시안 타이틀은 돌아온 밀레시안 및 로나의 특별 지원 타이틀과 효과가 중복되지 않습니다.)
+102	`어서와~ 5월에 이런 연휴는 처음이지` 이벤트를 맞이하여 지급하는 온타임 선물 상자. 사용하면 정제된 새도우 크리스탈(이벤트), 종합 스킬 수련 포션 (1시간)과 전투, 마법, 연금술, 격투술, 인형술, 듀얼건, 인술, 체인 스킬의 승단 인정권 중 하나를 획득할 수 있다. 상자 속 아이템들엔 유효기간이 존재하니 유의하여 사용하자.
+103	`어서와~ 5월에 이런 연휴는 처음이지` 이벤트를 맞이하여 지급하는 온타임 선물 상자. 사용하면 정제된 새도우 크리스탈(이벤트), 벨테인 미션 엘리트 통행증 선택 박스, 강화된 전투 경험치 포션(30분)를 획득할 수 있다. 상자 속 아이템들엔 유효기간이 존재하니 유의하여 사용하자.
+104	Secret Garden Box
+105	Secret Garden Handkerchief
+106	Secret Garden Handkerchief Package
+107	Secret Garden Handkerchief Package (11)
+108	Secret Garden Handkerchief Package (25)
+109	Secret Garden Handkerchief Package (60)
+110	A box with a mysterious aura, as if it's been holding a secret for a long, long time. Contains one of a variety of items, such as the Special Secret Garden Wings (Enchantable), Special Secret Garden Outfit (M), Special Secret Garden Dress (F), and more.
+111	A handkerchief with a mysterious aura, as if it's been holding a secret for a long, long time. Rub magic lamps with a handkerchief to obtain one of a variety of items, such as the Special Secret Garden Wings (Enchantable), Special Secret Garden Outfit (M), Special Secret Garden Dress (F), and more.
+112	A package that contains a Secret Garden Handkerchief and Manus's Potion. Rub magic lamps with this handkerchief to obtain a variety of items.
+113	A package that contains 11 Secret Garden Handkerchiefs and Manus's Potion. Rub magic lamps with this handkerchief to obtain a variety of items.
+114	A package that contains 25 Secret Garden Handkerchiefs and Manus's Potion. Rub magic lamps with this handkerchief to obtain a variety of items.
+115	A package that contains 60 Secret Garden Handkerchiefs and Manus's Potion. Rub magic lamps with this handkerchief to obtain a variety of items.
+134	벨테인 엘리트 미션 통행증 선택 박스
+135	벨테인 미션 엘리트 통행증이 들어있는 특별한 상자. 벨테인 미션 엘리트 통행증 중 한 개를 선택하여 획득할 수 있다. 상자 속 아이템은 14일의 유효 기간이 있으니 유효 기간이 지나기 전에 사용하자.
+136	럭키비스트 플라잉 퍼핏 선택 상자
+137	럭키비스트 플라잉 퍼핏 선택할 수 있는 상자. 사용 시 럭키비스트-I형 플라잉 퍼핏, 럭키비스트-I형-차장타입 플라잉 퍼핏, 럭키비스트-I형-연주타입 플라잉 퍼핏, 럭키비스트-형식번호불명-커맨드 플라잉 퍼핏 중 하나를 선택하여 받을 수 있다.
+138	케모노 프렌즈 플라잉 퍼핏 선택 상자1
+139	케모노 프렌즈 플라잉 퍼핏 선택 상자2
+140	제휴 기념 아이템을 선택할 수 있는 상자. 럭키비스트-I형 플라잉 퍼핏, 럭키비스트-I형-차장타입 플라잉 퍼핏, 경험치 상승의 황금 열매(500%)가 들어있다. 선택한 아이템 1개를 받을 수 있다.
+141	제휴 기념 아이템을 선택할 수 있는 상자. 럭키비스트-I형-연주타입 플라잉 퍼핏, 럭키비스트-형식번호불명-커맨드 플라잉 퍼핏, 경험치 상승의 황금 열매(500%)가 들어있다. 선택한 아이템 1개를 받을 수 있다.
+142	장마 대비 용품 선물 상자
+143	테루테루보즈 조각을 10개 모아서 획득한 상자. 사용 시 테루테루보즈 풍선, 성별에 맞는 판다 레인 코트 쇼핑백을 얻을 수 있다.
+144	매지컬 블리츠 손수건
+145	매지컬 블리츠 손수건 패키지
+146	매지컬 블리츠 손수건 번들 패키지(11)
+147	매지컬 블리츠 손수건 번들 패키지(25)
+148	매지컬 블리츠 손수건 번들 패키지(60)
+149	크로우 페더즈 손수건
+150	크로우 페더즈 손수건 패키지
+151	크로우 페더즈 손수건 번들 패키지(11)
+152	크로우 페더즈 손수건 번들 패키지(25)
+153	크로우 페더즈 손수건 번들 패키지(60)
+154	에린을 수호하는 매지컬 블리츠의 의지가 담겨 있는 손수건. 이 손수건으로 램프를 소중하게 닦아내면 매지컬 블리츠 엔젤릭 날개, 매지컬 블리츠 큐어 날개, 매지컬 블리츠 큐어 헤일로, 매지컬 블리츠 엔젤릭 헤일로, 스페셜 매지컬 블리츠 의상 등 등 다양한 아이템 중 한 가지를 얻을 수 있다.
+155	매지컬 블리츠 손수건과 마누스의 비약을 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+156	매지컬 블리츠 손수건과 마누스의 비약을 11개 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+157	매지컬 블리츠 손수건과 마누스의 비약을 25개 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+158	매지컬 블리츠 손수건과 마누스의 비약을 60개 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+159	칠흑 같은 밤과 어울리는 손수건. 이 손수건으로 램프를 소중하게 닦아내면 스페셜 크로우 페더즈 수트(남성용), 스페셜 크로우 페더즈 드레스(여성용), 어비스 크로우 윙, 어비스 레이븐 윙, 어비스 크로우 페더즈 헤일로 등 다양한 아이템 중 한 가지를 얻을 수 있다.
+160	크로우 페더즈 손수건과 마누스의 비약을 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+161	크로우 페더즈손수건과 마누스의 비약을 11개 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+162	크로우 페더즈 손수건과 마누스의 비약을 25개 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+163	크로우 페더즈 손수건과 마누스의 비약을 60개 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+164	자파리 트랙터 동물 캐릭터 카드
+165	자파리 트랙터 동물 캐릭터를 얻을 수 있는 카드. 사용 시 자파리 트랙터 동물 캐릭터를 획득할 수 있다. 획득한 카드는 로비를 통해 확인할 수 있다.
+166	Forgotten Tomb Key Exchange Ticket (Event)
+168	A ticket that you can exchange for a Forgotten Tomb Treasure Chest Key (Event). It can only be used inside the Forgotten Tomb. The key will be reverted back into a ticket when you exit the Forgotten Tomb.
+179	Hot and Sweaty Gesture Card
+180	Shade Eyes Gesture Card
+181	Precious Gesture Card
+182	Stretching Gesture Card
+183	Beach Lifeguard Gesture Card
+184	Pineapple Juice Gesture Card
+185	Munch Munch Gesture Card
+186	Slurp Gesture Card
+187	Selfie Gesture Card
+188	Yearning 2 Gesture Card
+189	A card you can use to learn the Hot and Sweaty Gesture. (Tradable)
+190	A card you can use to learn the Shade Eyes Gesture. (Tradable)
+191	A card you can use to learn the Precious Gesture. (Tradable)
+192	A card you can use to learn the Stretching Gesture. (Tradable)
+193	A card you can use to learn the Beach Lifeguard Gesture. (Tradable)
+194	A card you can use to learn the Pineapple Juice Gesture. (Tradable)
+195	A card you can use to learn the Munch Munch Gesture. (Tradable)
+196	A card you can use to learn the Slurp Gesture. (Tradable)
+197	A card you can use to learn the Selfie Gesture. (Tradable)
+198	A card you can use to learn the Yearning 2 Gesture. (Tradeable)
+211	세인츠 가디언 손수건
+212	세인츠 가디언 손수건 패키지
+213	세인츠 가디언 손수건 번들 패키지(11)
+214	세인츠 가디언 손수건 번들 패키지(25)
+215	세인츠 가디언 손수건 번들 패키지(60)
+216	특별하고 세련된 분위기를 발산하는 매력적인 세인트 가디언 손수건. 이 손수건으로 램프를 소중하게 닦아내면 슈프림 세인츠 가디언 소드 윙, 슈프림 세인츠 가디언 스프레드 소드 윙, 세인츠 가디언 소드와 세인츠 가디언 풀 아머 등 다양한 아이템 중 한 가지를 얻을 수 있다.
+217	세인츠 가디언 손수건과 마누스의 비약을 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+218	세인츠 가디언 손수건과 마누스의 비약을 11개씩 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+219	세인츠 가디언 손수건과 마누스의 비약을 25개씩 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+220	세인츠 가디언 손수건과 마누스의 비약을 60개씩 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+225	신성 서브 스킬 수련 인장 (100)
+226	사용 하면 보유하고 있는 신성 서브 스킬 중 하나를 선택하여 1레벨 상승시켜주는 인장.\n신성 스킬이 없으면 사용할 수 없다.(1회 거래 가능)
+227	케모노 인형 가방의 선물 상자
+228	케모노 프렌즈의 주인공들을 인형 가방으로 만날 수 있는 특별한 상자. 사용하면 서벌 인형 가방, 카라칼 인형 가방 등 다양한 가방 중 한 가지를 얻을 수 있다.
+229	Marine Basket
+230	Marine Handkerchief
+231	Marine Handkerchief Package
+232	Bundle: Marine Handkerchief Packages (11)
+233	Bundle: Marine Handkerchief Packages (25)
+234	Bundle: Marine Handkerchief Packages (60)
+235	A rattan basket made to match the Marine outfits. Open it to obtain one of a variety of items such as the Special Tidy Marine Wear (M), Special Breezy Marine One Piece (F), Plain Sparkling Halo, Baby Chinchilla Doll, and more.
+236	A Marine-themed handkerchief decorated with charming flowers. Rub magic lamps with this handkerchief to obtain one from a variety of items such as the Special Tidy Marine Wear (M), Special Breezy Marine One Piece (F), Plain Sparkling Halo, Baby Chinchilla Doll, and more.
+237	A package that contains a Marine Handkerchief and Manus's Potion. Rub magic lamps with this handkerchief to obtain a variety of items.
+238	A package that contains 11 vials of Manus's Potion and a Marine Handkerchief. Rub magic lamps with this handkerchief to obtain a variety of items.
+239	A package that contains 25 vials of Manus's Potion and a Marine Handkerchief. Rub magic lamps with this handkerchief to obtain a variety of items.
+240	A package that contains 60 vials of Manus's Potion and a Marine Handkerchief. Rub magic lamps with this handkerchief to obtain a variety of items.
+241	재빠른 서큐버스 인형 가방 상자
+242	재빠른 인큐버스 인형 가방 상자
+243	재빠른 다람쥐 인형 가방 상자
+244	재빠른 토끼 인형 가방 상자
+245	재빠른 사막여우 인형 가방 상자
+246	재빠른 곰 인형 가방 상자
+247	재빠른 호랑이 인형 가방 상자
+248	재빠른 서큐버스 인형 가방을 얻을 수 있는 상자. 가방이므로 인벤토리를 충분히 확보한 후 사용하도록 하자. 가방을 사용하기 위해 일반 인벤토리 2x3의 공간이 필요하며, 가방의 크기는 7x7이다.
+249	재빠른 인큐버스 인형 가방을 얻을 수 있는 상자. 가방이므로 인벤토리를 충분히 확보한 후 사용하도록 하자. 가방을 사용하기 위해 일반 인벤토리 2x3의 공간이 필요하며, 가방의 크기는 7x7이다.
+250	재빠른 다람쥐 인형 가방을 얻을 수 있는 상자. 가방이므로 인벤토리를 충분히 확보한 후 사용하도록 하자. 가방을 사용하기 위해 일반 인벤토리 2x3의 공간이 필요하며, 가방의 크기는 6x6이다.
+251	재빠른 토끼 인형 가방을 얻을 수 있는 상자. 가방이므로 인벤토리를 충분히 확보한 후 사용하도록 하자. 가방을 사용하기 위해 일반 인벤토리 2x3의 공간이 필요하며, 가방의 크기는 6x6이다.
+252	재빠른 사막여우 인형 가방을 얻을 수 있는 상자. 가방이므로 인벤토리를 충분히 확보한 후 사용하도록 하자. 가방을 사용하기 위해 일반 인벤토리 2x3의 공간이 필요하며, 가방의 크기는 6x6이다.
+253	재빠른 곰 인형 가방을 얻을 수 있는 상자. 가방이므로 인벤토리를 충분히 확보한 후 사용하도록 하자. 가방을 사용하기 위해 일반 인벤토리 2x3의 공간이 필요하며, 가방의 크기는 6x6이다.
+254	재빠른 호랑이 인형 가방을 얻을 수 있는 상자. 가방이므로 인벤토리를 충분히 확보한 후 사용하도록 하자. 가방을 사용하기 위해 일반 인벤토리 2x3의 공간이 필요하며, 가방의 크기는 6x6이다.
+255	다람쥐 인형 의상 세트 상자
+256	이벤트 보상으로 받은 상자이다. 사용하면 다람쥐 인형 의상, 다람쥐 인형 장갑, 다람쥐 인형 신발, 다람쥐 인형 꼬리 쿠폰(20일) 쿠폰을 각각 1개씩 얻을 수 있다.
+259	Cute Date Outfit Box (M)
+260	Cute Date Outfit Box (F)
+261	Lorna's Summer Support Box
+262	Cotton Candy Flower Whistle Box
+263	Housing Hot-Air Balloon Box
+264	An outfit box that contains all of the Cute Date outfits for males. Open it to obtain the Cute Date Wear (M), Cute Date Slip-ons (M), Cute Date Wig (M), Cute Date Wig and Hairpiece (M), and Cute Date Balloon Headband (M).
+265	An outfit box that contains all of the Cute Date outfits for females. Open it to obtain the Cute Date Wear (F), Cute Date Shoes (F), Cute Date Wig (F), Cute Date Wig and Hairpiece (F), and Cute Date Balloon Headband (F).
+266	Contains a Sealed Lorna's Growth Support Charm (14 Days) and Ice Party Popper Kit x20. Use before expiration.
+267	Contains a Cotton Candy Flower Whistle. The item inside will expire.
+268	Contains a Housing Hot-Air Balloon. The item inside will expire.
+271	던바튼 불꽃놀이 키트
+272	던바튼 불꽃놀이를 위해 제작된 키트. 네 가지 중 하나의 불꽃이 쏘아올려지는 게 특징이다. 메시지를 담아 하늘에 쏘아 올려보자. 한 번 사용하면 10초 간 사용이 불가능하다.\n키트를 사용하고 선물을 받기 전에 접속을 끊으면 다시 받을 수 없으니 주의하자.
+273	벨테인 미션 크리스탈(1.5배) 업그레이드 쿠폰(10개)
+274	벨테인 미션 크리스탈(2배) 업그레이드 쿠폰(10개)
+275	거래 가능한 벨테인 미션 크리스탈을 업그레이드할 수 있는 쿠폰. 벨테인 미션 크리스탈(1.5배) 10개를 소지한 상태에서 사용 시 같은 수량의 벨테인 미션 크리스탈(2배)로 변환된다.
+276	거래 가능한 벨테인 미션 크리스탈을 업그레이드할 수 있는 쿠폰. 벨테인 미션 크리스탈(2배) 10개를 소지한 상태에서 사용 시 같은 수량의 벨테인 미션 크리스탈(3배)로 변환된다.
+277	스팀 엔지니어 툴 박스
+278	스팀 엔지니어들이 소지품을 보관하는 툴 박스. 사용 시 스페셜 스팀 엔지니어 웨어(남성용), 스페셜 스팀 엔지니어 웨어(여성용), 테크니컬 기어 윙, 테크니컬 디바이스 윙, 톱니 장식 돋보기 안경(얼굴 장식 슬롯 전용), 스팀펑크 기계 마스크(얼굴 장식 슬롯 전용) 등 다양한 아이템 중 한 가지를 얻을 수 있다.
+279	파댜루루의 작은 상자
+280	무료 수리 키트 상자
+281	던바튼 불꽃놀이 키트를 사용하고 획득한 보상 상자. 사용하면 불꽃놀이 공연 무대, 물리 공격력 증가 포션(2시간), 장비 숙련도 상승의 녹슨 망치, 다이렉트 염색 앰플 중 1개를 얻을 수 있다.
+282	다양한 무료 수리 키트가 들어 있는 상자. 사용하면 무료 수리 키트 1개를 랜덤하게 획득할 수 있다.
+283	보호의 달빛 개조석 패키지
+284	빠른 성장을 도와주는 특별한 패키지. 사용하면 보호의 달빛 개조석 선택 상자, 주황빛 프리즘 박스 5개, 퍼펙트 무료 수리 키트 3개, 장비 숙련도 상승의 녹슨 망치 3개, 인챈트 보호 포션, 전용 해제 포션을 모두 얻을 수 있다.
+299	16주년 기념 선물 상자
+300	16주년 특별한 선물 상자
+301	16단계 증명의 상자
+302	16주년 이벤트를 진행하면 얻을 수 있는 기념 상자. 16주년 페스티아 엑스트라 미니어처, 스위트 로즈 체어, 풍선 검을 포함한 다양한 아이템이 들어있다.
+303	16주년 이벤트를 진행하면 얻을 수 있는 특별한 상자. 냉혹한 권능의 서리꽃 날개, 큐트 데이트 룩 의상 세트를 포함한 다양한 아이템이 들어있다.
+304	시험의 동굴 16단계에서 스스로를 증명한 밀레시안에게 주어지는 보상 상자. 사용 시 다양한 인챈트 스크롤, 장비 아이템을 획득할 수 있으며 언홀리 글루미 선데이, 언홀리 일루젼 핸들을 포함한 모든 종류의 언홀리 무기를 상당한 확률로 획득할 수 있다.
+305	16주년 기념 솜사탕
+306	먹으면 경험치, 탐험 경험치, 신성 경험치, AP 중 한 가지를 받을 수 있는 솜사탕.
+307	Talented Artist Title Coupon
+308	A coupon that can be used to obtain "the Talented Artist" title.
+311	글래디에이터 의상 쇼핑백(남성용)
+312	글래디에이터 의상 쇼핑백(여성용)
+313	글래디에이터 의상이 담긴 쇼핑백.\n사용 시 스페셜 글래디에이터 아머(남성용), 글래디에이터 건틀렛(남성용), 글래디에이터 그리브(남성용), 글래디에이터 가발(남성용)을 얻을 수 있다.
+314	글래디에이터 의상이 담긴 쇼핑백.\n사용 시 스페셜 글래디에이터 아머(여성용), 글래디에이터 건틀렛(여성용), 글래디에이터 그리브(여성용), 글래디에이터 가발(여성용)을 얻을 수 있다.
+315	매지컬 블리츠 박스 x11
+316	매지컬 블리츠 박스 박스 x30
+317	매지컬 블리츠 박스 박스 x58
+318	마린 룩 바구니 x11
+319	마린 룩 바구니 x30
+320	마린 룩 바구니 x58
+321	매지컬 블리츠 박스 박스 11개와 별 조각 35개가 들어있는 박스.\n*별 조각은 이벤트 기간에만 획득할 수 있습니다.
+322	매지컬 블리츠 박스 박스 30개와 별 조각 95개가 들어있는 박스.\n*별 조각은 이벤트 기간에만 획득할 수 있습니다.
+323	매지컬 블리츠 박스 박스 58개와 별 조각 175개가 들어있는 박스.\n*별 조각은 이벤트 기간에만 획득할 수 있습니다.
+324	마린 룩 바구니 11개와 별 조각 35개가 들어있는 박스.\n*별 조각은 이벤트 기간에만 획득할 수 있습니다.
+325	마린 룩 바구니 30개와 별 조각 95개가 들어있는 박스.\n*별 조각은 이벤트 기간에만 획득할 수 있습니다.
+326	마린 룩 바구니 58개와 별 조각 175개가 들어있는 박스.\n*별 조각은 이벤트 기간에만 획득할 수 있습니다.
+329	16주년 고급 의류 가방 상자
+330	16주년 고급 의류 가방이 담겨 있는 상자. 상점에 판매하면 은행 수수료 없이 100만 골드를 얻을 수 있다.\n이 아이템을 사용하면 장비 아이템만 보관할 수 있는 16주년 고급 의류 가방(10X15)으로 교환할 수 있다.
+331	16주년 판타지스타 2차 타이틀 획득 쿠폰
+332	번개보다 타자가 빠른 타이틀 획득 쿠폰
+333	에린에서 타자 좀 치는 타이틀 획득 쿠폰
+334	독수리 타법으로 승리한 타이틀 획득 쿠폰
+335	16주년 판타지스타 2차 타이틀을 얻을 수 있는 쿠폰. 타이틀 활성화 시 최대 대미지 16, 마법 공격력 16, 4대 속성 연금술 대미지 10, 체력 16, 지력 16, 솜씨 16, 의지 16, 행운 16, 이동 속도 1%가 증가한다.\n(거래 불가)
+336	번개보다 타자가 빠른 타이틀을 얻을 수 있는 쿠폰. 타이틀 활성화 시 행운 30이 증가한다.\n(거래 불가)
+337	에린에서 타자 좀 치는 타이틀을 얻을 수 있는 쿠폰. 타이틀 활성화 시 행운 25이 증가한다.\n(거래 불가)
+338	독수리 타법으로 승리한 타이틀을 얻을 수 있는 쿠폰. 타이틀 활성화 시 행운 20이 증가한다.\n(거래 불가)
+339	16주년 온타임 선물 상자(1주차)
+340	16주년 온타임 선물 상자(2주차)
+341	16주년 온타임 선물 상자(3주차)
+342	16주년 행운의 코인 상자
+343	풍선 터트리기 1등 선물 상자
+344	풍선 터트리기 2등 선물 상자
+345	풍선 터트리기 3등 선물 상자
+346	풍선 터트리기 골드 선물 상자
+347	풍선 터트리기 실버 선물 상자
+348	풍선 터트리기 브론즈 선물 상자
+349	16주년 이벤트 기간 중 1주 차 기간에 받을 수 있는 선물 상자. 사용 시 16주년 행운의 코인 상자와 16주년 기념 솜사탕을 얻을 수 있다. 은행을 통해 계정 내 다른 캐릭터에게 옮길 수 있다.
+350	16주년 이벤트 기간 중 2주 차 기간에 받을 수 있는 선물 상자. 사용 시 플라워 캔디플로스 호루라기와 16주년 기념 솜사탕 2개를 얻을 수 있다. 은행을 통해 계정 내 다른 캐릭터에게 옮길 수 있다.
+351	16주년 이벤트 기간 중 3주 차 기간에 받을 수 있는 선물 상자. 사용 시 16주년 판타지스타 2차 타이틀 획득 쿠폰과 환생물약을 얻을 수 있다. 은행을 통해 계정 내 다른 캐릭터에게 옮길 수 있다.
+352	여러 개의 16주년 코인을 한 번에 획득할 수 있는 행운의 상자. 사용 시 랜덤한 개수의 16주년 코인을 획득할 수 있다.\n*해당 아이템은 이벤트 종료 후 삭제됩니다.
+353	풍선 터트리기 1등 선물 상자. 사용 시 번개보다 타자가 빠른 타이틀 획득 쿠폰과 16주년 특별한 선물 상자 3개, 16주년 즉석 경품권 6개를 획득 할 수 있다.
+354	풍선 터트리기 2등 선물 상자. 사용 시 에린에서 타자 좀 치는 타이틀 획득 쿠폰과 16주년 특별한 선물 상자 2개, 16주년 즉석 경품권 5개를 획득 할 수 있다.
+355	풍선 터트리기 3등 선물 상자. 사용 시 독수리 타법으로 승리한 타이틀 획득 쿠폰과 16주년 특별한 선물 상자 1개, 16주년 즉석 경품권 4개를 획득 할 수 있다.
+356	풍선 터트리기 골드 선물 상자. 사용 시 16주년 기념 선물 상자 3개, 16주년 즉석 경품권 3개를 획득 할 수 있다.
+357	풍선 터트리기 실버 선물 상자. 사용 시 16주년 기념 선물 상자 2개, 16주년 즉석 경품권 2개를 획득 할 수 있다.
+358	풍선 터트리기 브론즈 선물 상자. 사용 시 16주년 기념 선물 상자 1개, 16주년 즉석 경품권 1개를 획득 할 수 있다.
+359	16주년 부착식 파우치(상점 가방용)
+360	16주년 부착식 파우치(버먼 가방용)
+361	16주년 부착식 파우치(인형 가방용)
+362	16주년을 기념하여 출시된 특별한 부착식 파우치 아이템. 사용하면 보유한 상점 가방 중 하나를 선택하여 부착시킬 수 있다.\n파우치가 부착된 상점 가방은 내부 공간 맨 아래 1줄이 확장된다.\n하나의 가방에는 하나의 파우치만 부착할 수 있다.
+363	16주년을 기념하여 출시된 특별한 부착식 파우치 아이템. 사용하면 보유한 버먼 가방 중 하나를 선택하여 부착시킬 수 있다.\n파우치가 부착된 버먼 가방은 내부 공간 맨 아래 1줄이 확장된다.\n하나의 가방에는 하나의 파우치만 부착할 수 있다.
+364	16주년을 기념하여 출시된 특별한 부착식 파우치 아이템. 사용하면 보유한 인형 가방 중 하나를 선택하여 부착시킬 수 있다. \n파우치가 부착된 인형 가방은 내부 공간 맨 아래 1줄이 확장된다.\n하나의 가방에는 하나의 파우치만 부착할 수 있다.
+365	Bold Battling Dice
+366	A widely enjoyed dice game anyone can pick up. Use it to play the Dice Battle mini-game. You'll earn a Golden Dice when you win a match!
+367	Pet Trainer Update Gift Box
+368	Pet Trainer Update Gift Box
+369	A gift box given as a reward for the Pet Trainer Update Event. Open it to receive one of a variety of items.
+370	A second gift box given as a reward for the Pet Trainer Update Event. Open it to receive one of a variety of items.
+371	Pet Incubator
+372	An incubator inside which is nestled a dormant new life. It seems like providing it Warm Energy will help this young life to grow in health and vigor.
+373	Golden Dice
+374	A fancy golden dice.\nEquip it in your right hand, and perform the Dice Tossing action to prime yourself to make your roll. Then, click the place where you want to throw the dice, though take care not to throw them too far. These dice can grant you a wide variety of rewards, dependent on the number you roll.
+375	다시 만난 밀레시안 1차 타이틀 쿠폰
+376	다시 만난 밀레시안 1차 타이틀을 얻을 수 있는 쿠폰. 타이틀 활성화 시 최대 대미지 10, 체력,지력,솜씨,의지,행운이 각 5씩 증가하고 이동 속도 1%와 모든 스킬 수련치 2배 효과가 증가하며, 던전 플레이 시 전투 경험치 2배, 파티원은 전투 경험치 1.5배 효과가 추가로 적용된다. (돌아온 밀레시안 및 로나의 특별 지원 타이틀 효과와 중복 불가)
+377	Kenny's Reward Box
+378	Small Pet Selection Box
+379	A gift box Kenny gave you in return for taking good care of the Pet Incubator. He says it contains items that will be useful to those training up the new Pet Trainer Talent. Make sure you have enough room in your inventory before using it.
+380	A box containing a cute Small Pet Whistle. Use it to choose one of the following whistles: Small Cocker Spaniel, Small Lovely Siamese, Small Beyaya, Small Silver Fox, or Small White Seal.
+431	Kenny's Appreciation Box
+432	Kenny's Gift Box
+433	A box purchased from Kenny's Coin Shop. Use this to receive one from a variety of items.
+434	A box received by combining 3 Gift Coupons. Use this to get one of a variety of items.
+435	Spring 2020 Hair Dye Ampoule Selection Box
+436	A box containing a Fixed Color Hair Dye Ampoule of your choice. Use it to obtain one Hair Dye Ampoule of your choosing.
+437	Corgi Leash Selection Box
+438	A box from which you can select one of a variety of leash color coupons. Use it to receive a coupon for a leash in your choice of color.
+439	Red Leash Coupon
+440	Orange Leash Coupon
+441	Yellow Leash Coupon
+442	Green Leash Coupon
+443	Blue Leash Coupon
+444	Navy Leash Coupon
+445	Purple Leash Coupon
+446	White Leash Coupon
+447	Black Leash Coupon
+448	Pink Leash Coupon
+449	Mint Leash Coupon
+450	A coupon that changes the color of the Corgi's leash. Take care when using it, as it will disappear after being used once. The color applied from using the coupon will remain until overwritten by another color coupon.
+451	A coupon that changes the color of the Corgi's leash. Take care when using it, as it will disappear after being used once. The color applied from using the coupon will remain until overwritten by another color coupon.
+452	A coupon that changes the color of the Corgi's leash. Take care when using it, as it will disappear after being used once. The color applied from using the coupon will remain until overwritten by another color coupon.
+453	A coupon that changes the color of the Corgi's leash. Take care when using it, as it will disappear after being used once. The color applied from using the coupon will remain until overwritten by another color coupon.
+454	A coupon that changes the color of the Corgi's leash. Take care when using it, as it will disappear after being used once. The color applied from using the coupon will remain until overwritten by another color coupon.
+455	A coupon that changes the color of the Corgi's leash. Take care when using it, as it will disappear after being used once. The color applied from using the coupon will remain until overwritten by another color coupon.
+456	A coupon that changes the color of the Corgi's leash. Take care when using it, as it will disappear after being used once. The color applied from using the coupon will remain until overwritten by another color coupon.
+457	A coupon that changes the color of the Corgi's leash. Take care when using it, as it will disappear after being used once. The color applied from using the coupon will remain until overwritten by another color coupon.
+458	A coupon that changes the color of the Corgi's leash. Take care when using it, as it will disappear after being used once. The color applied from using the coupon will remain until overwritten by another color coupon.
+459	A coupon that changes the color of the Corgi's leash. Take care when using it, as it will disappear after being used once. The color applied from using the coupon will remain until overwritten by another color coupon.
+460	A coupon that changes the color of the Corgi's leash. Take care when using it, as it will disappear after being used once. The color applied from using the coupon will remain until overwritten by another color coupon.
+461	Summer Lovely Pet Box
+462	A box containing a variety of pets, along with some cute Corgi pets sure to fill your summer with huggable fun. Open it to obtain one from a variety of Pet Whistles such as the Warrior Corgi, Wizard Corgi, Vacation Scooter Imp, Young Ceraunus, and more.
+465	Together with Pinkie 2nd Title Coupon
+466	Together with Katell 2nd Title Coupon
+467	Together with Pinkie and Katell 2nd Title Coupon
+468	A coupon that can be used to obtain the Together with Pinkie 2nd Title. When set as your 2nd Title, grants Max ATT +28 and Movement Speed +3%.
+469	A coupon that can be used to obtain the Together with Katell 2nd Title. When set as your 2nd Title, grants Max ATT +10 and Music Buff Skill Effect +9.
+470	A coupon that can be used to obtain the Together with Pinkie and Katell 2nd Title. When set as your 2nd Title, grants Max ATT +20, Magic Attack +10, Magic Defense +10, Magic Protection +8, Critical +10%, and Movement Speed +3%.
+471	나오 특파원 2차 타이틀 획득 쿠폰
+472	나오 특파원 2차 타이틀을 얻을 수 있는 쿠폰. 타이틀 활성화 시 최대 공격력 23, 마법 공격력 15, 행운 20, 크리티컬 5%, 이동속도 3%, 음악 버프 스킬 효과 7, 제련 성공률3%, 블랙스미스 성공률 3%, 블랙스미스 완성도가 증가한다.
+473	역사학자의 오래된 트렁크
+474	역사학자의 물품들을 보관한 오래된 트렁크. 사용 시 스페셜 스콜라 웨어 롱타입(남성용), 스페셜 스콜라 웨어 롱타입(여성용), 스콜라 윙, 스콜라 듀얼 윙, 등 다양한 아이템 중 한 가지를 얻을 수 있다.
+475	세인츠 가디언 풀 아머 쇼핑백
+476	세인츠 가디언 레더 아머 쇼핑백
+477	세인츠 가디언 풀 아머 세트가 담긴 쇼핑백.\n세인츠 가디언 풀 아머, 세인츠 가디언 건틀렛, 세인츠 가디언 부츠, 세인츠 가디언 풀 헬맷을 얻을 수 있다.\n사용 시 성별에 따른 의상 세트가 나오므로 열기 전에 성별을 확인하도록 하자.
+478	세인츠 가디언 레더 아머 세트가 담긴 쇼핑백.\n세인츠 가디언 레더 아머, 세인츠 가디언 건틀렛, 세인츠 가디언 부츠, 세인츠 가디언 레더 헬맷을 얻을 수 있다.\n사용 시 성별에 따른 의상 세트가 나오므로 열기 전에 성별을 확인하도록 하자.
+479	특별한 보석 선택 상자
+480	다양한 보석들 중 원하는 것을 선택할 수 있는 상자. 선택한 보석 1개를 받을 수 있다.\n*획득한 보석은 거래가 불가능하다.
+481	Pinkie's Note Box
+482	Katell's Small Rock Box
+483	Use this to obtain Pinkie's Note, a Movement Speed totem.
+484	Use this to obtain Katell's Small Rock, a Max Damage totem.
+485	Marine Basket x11
+486	Marine Basket x45
+487	Use this item to receive 11 Marine Baskets and 1 Tropical Escape Box.
+488	Use this item to receive 45 Marine Baskets and 5 Tropical Escape Boxes.
+491	역사학자의 오래된 트렁크 x20
+492	역사학자의 오래된 트렁크 x30
+493	역사학자의 오래된 트렁크 x40
+494	역사학자의 오래된 트렁크 20개와 별 조각 75개가 들어있는 박스. \n*별 조각은 이벤트 기간에만 획득할 수 있습니다.
+495	역사학자의 오래된 트렁크 30개와 별 조각 115개가 들어있는 박스. \n*별 조각은 이벤트 기간에만 획득할 수 있습니다.
+496	역사학자의 오래된 트렁크 40개와 별 조각 160개가 들어있는 박스. \n*별 조각은 이벤트 기간에만 획득할 수 있습니다.
+497	배틀 메이드 웨어 롱타입 쇼핑백(여성용)
+498	배틀 버틀러 웨어 롱타입 쇼핑백(남성용)
+499	배틀 메이드 웨어 숏타입 쇼핑백(여성용)
+500	배틀 버틀러 웨어 숏타입 쇼핑백(남성용)
+501	샤이의 보석 선택 상자
+502	도일리 배틀 메이드 윙 선택 상자
+503	매지컬 배틀 메이드 윙 선택 상자
+504	배틀 메이드 웨어 롱타입 의상이 담긴 쇼핑백.\n사용 시 스페셜 배틀 메이드 웨어 롱타입(여성용), 배틀 메이드 가발과 장식(여성용), 배틀 메이드 건틀렛(여성용), 배틀 메이드 슈즈(여성용)을 얻을 수 있다.
+505	배틀 버틀러 웨어 롱타입 의상이 담긴 쇼핑백.\n사용 시 스페셜 배틀 버틀러 웨어 롱타입(남성용), 배틀 버틀러 가발과 장식(남성용), 배틀 버틀러 건틀렛(남성용), 배틀 버틀러 슈즈(남성용)을 얻을 수 있다.
+506	배틀 메이드 웨어 숏타입 의상이 담긴 쇼핑백.\n사용 시 스페셜 배틀 메이드 웨어 숏타입(여성용), 배틀 메이드 가발과 장식(여성용), 배틀 메이드 건틀렛(여성용), 배틀 메이드 슈즈(여성용)을 얻을 수 있다.
+507	배틀 버틀러 웨어 숏타입 의상이 담긴 쇼핑백.\n사용 시 스페셜 배틀 버틀러 웨어 숏타입(남성용), 배틀 버틀러 가발과 장식(남성용), 배틀 버틀러 건틀렛(남성용), 배틀 버틀러 슈즈(남성용)을 얻을 수 있다.
+508	10cm 크기의 21개의 보석 들 중 1개를 선택할 수 있는 상자. 선택한 보석 1개를 받을 수 있다.
+509	도일리 배틀 메이드 윙을 선택할 수 있는 상자. 러블리 도일리 배틀 메이드 윙, 소프트 도일리 배틀 메이드 윙, 프레쉬 도일리 배틀 메이드 윙, 스위트 도일리 배틀 메이드 윙, 마일드 도일리 배틀 메이드 윙  중 하나를 고를 수 있다.
+510	매지컬 배틀 메이드 윙을 선택할 수 있는 상자. 러블리 매지컬 배틀 메이드 윙, 소프트 매지컬 배틀 메이드 윙, 프레쉬 매지컬 배틀 메이드 윙, 스위트 매지컬 배틀 메이드 윙, 마일드 매지컬 배틀 메이드 윙  중 하나를 고를 수 있다.
+513	하이퍼노바 넥슨캐시 박스
+514	하이퍼노바 사전 등록 이벤트에 참여한 분들께 드리는 선물 상자. 사용하면 천원부터 백만원 사이의 넥슨캐시 교환권 중 한 가지를 얻을 수 있다.\n*7월 23일 점검 전까지 사용하지 않은 박스는 점검 시 삭제됩니다.
+515	Lorna's Growth Package
+516	A growth package put together by Lorna. Open the package to get a variety of items that ought to prove helpful, including the Receiver of Nao's Blessing Title Coupon.
+523	깊은 바다의 인어 어항
+524	깊은 바다의 손수건
+525	깊은 바다의 손수건 패키지
+526	깊은 바다의 손수건 번들 패키지(11)
+527	깊은 바다의 손수건 번들 패키지(25)
+528	깊은 바다의 손수건 번들 패키지(60)
+529	깊은 바다의 인어 꼬리(1년) 쿠폰
+530	깊은 바다의 친구들 2차 타이틀 획득 쿠폰
+531	깊은 바닷속에서 건져올린 신비로운 어항. 스페셜 깊은 바다의 날개(인챈트), 스페셜 깊은 바다의 인어 수트(남성용), 스페셜 깊은 바다의 인어 드레스(여성용) 등 다양한 아이템 중 한 가지를 얻을 수 있다.
+532	깊은 바닷속에서 건져올린 신비로운 손수건. 이 손수건으로 램프를 소중하게 닦아내면 스페셜 깊은 바다의 날개(인챈트), 스페셜 깊은 바다의 인어 수트(남성용), 스페셜 깊은 바다의 인어 드레스(여성용) 등 다양한 아이템 중 한 가지를 얻을 수 있다.
+533	깊은 바다의 인어 손수건과 마누스의 비약을 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+534	깊은 바다의 인어 손수건과 마누스의 비약을 11개 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+535	깊은 바다의 인어 손수건과 마누스의 비약을 25개 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+536	깊은 바다의 인어 손수건과 마누스의 비약을 60개 얻을 수 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+537	사용하면 1년 기간제 꼬리를 획득할 수 있는 쿠폰. 획득한 꼬리는 쿠폰 사용 시점으로부터 1년 동안 유지되므로 기간을 주의하여 신중하게 사용하도록 하자.
+538	깊은 바다의 친구들 2차 타이틀을 얻을 수 있는 쿠폰. 타이틀 활성화 시 행운 30이 증가한다.
+539	레벨업 서포트 상자
+540	전투에 도움을 주는 다양한 물품들이 담긴 상자. 상자 속 물품들엔 유효기간이 존재하니 유의하여 사용하자.
+543	하데스(프리시즌용) 호루라기
+544	프리시즌 이벤트 기간에만 사용할 수 있는 대여용 호루라기. 사용 시, 200레벨의 하데스 펫을 획득할 수 있다. 호루라기로 생성할 수 있는 하데스(프리시즌용)는 기존 하데스와 동일한 능력치를 가지고 있다.\n대여용 펫은 펫 인벤토리 사용이 불가능하며, 프리시즌 이벤트 기간에만 소환할 수 있으며 호루라기를 파기해도 재지급 받을 수 없다.
+545	썸머 러블리 펫 박스 x5
+546	썸머 러블리 펫 박스 x10
+547	겟잇 뷰티 박스 x11
+548	겟잇 뷰티 박스 x30
+549	썸머 러블리 펫 박스 5개와 별 조각 88개가 들어있는 박스.\n*별 조각은 이벤트 기간에만 획득할 수 있습니다.
+550	썸머 러블리 펫 박스 10개와 별 조각 170개가 들어있는 박스.\n*별 조각은 이벤트 기간에만 획득할 수 있습니다.
+551	겟잇 뷰티 박스 11개와 별 조각 47개가 들어있는 박스.\n*별 조각은 이벤트 기간에만 획득할 수 있습니다.
+552	겟잇 뷰티 박스 30개와 별 조각 125개가 들어있는 박스.\n*별 조각은 이벤트 기간에만 획득할 수 있습니다.
+553	카트라이더 펫 손수건
+554	카트라이더 펫 손수건 패키지
+555	카트라이더 펫 손수건 번들 패키지(3)
+556	카트라이더 펫 손수건 번들 패키지(6)
+557	카트라이더 펫들을 포함한 다양한 펫들을 만날 수 있는 특별한 손수건. 이 손수건으로 램프를 소중하게 닦아내면 카트 스마트키 5종을 비롯하여 케라우노스, 잭 등 다양한 동물 친구 호루라기 중 한 가지를 얻을 수 있다.
+558	카트라이더 펫 손수건과 강화된 마누스의 비약 1개, 별 조각 18개가 들어 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+559	카트라이더 펫 손수건과 강화된 마누스의 비약 3개, 별 조각 54개가 들어 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+560	카트라이더 펫 손수건과 강화된 마누스의 비약 6개, 별 조각 98개가 들어 있는 패키지. 이 손수건으로 램프를 소중하게 닦아내면 다양한 아이템들을 얻을 수 있다.
+563	에린의 사자 2차 타이틀 획득 쿠폰
+564	에린의 수호자 2차 타이틀 획득 쿠폰
+565	에린의 사자 2차 타이틀을 얻을 수 있는 쿠폰. 타이틀 활성화 시 최대 대미지 18, 마법 공격력 18, 체력 5, 지력 5, 의지 5, 행운 5, 이동 속도 증가 1%, 전투 경험치 증가 10%가 증가한다. 옵션 효과는 쿠폰을 사용한 시점부터 30일간 사용 가능하며, 이후에는 옵션 효과 없이 장착만 가능하다.
+566	에린의 수호자 2차 타이틀을 얻을 수 있는 쿠폰. 타이틀 활성화 시 최대 대미지 18, 마법 공격력 18, 체력 5, 지력 5, 의지 5, 행운 5, 이동 속도 증가 1%, 전투 경험치 증가 10%가 증가한다.

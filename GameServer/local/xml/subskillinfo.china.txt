@@ -1,0 +1,87 @@
+﻿0	Giving Heart
+1	Healing Hands
+2	Magic Dampening
+3	Guarded Footsteps
+4	Recovering Touch
+5	Deepening Trust
+6	Spreading Faith
+7	Wounding Soul
+8	Weighed Conscience
+9	Sinful Thorns
+10	Stronger Power
+11	Binding Needle
+12	Breaking Lies
+13	Christening Blades
+14	Holy Vitality
+15	Increases the range of Shield of Trust, allowing you to more effectively protect party members who get separated from you.
+16	Recovers some HP for any members under the Shield of Trust to increase survivability.
+17	Adds a Magic Defense boost to the Shield of Trust. This affects all party members and squad members. If another member uses this skill, only the most powerful effect will be applied.
+18	Adds a Movement Speed Increase to Shield of Trust. This affects all party members and squad members. If another member uses this skill, only the most powerful effect will be applied.
+19	Increases the possibility of survival when using the Shield of Trust by healing some wounds of party members under the effect.
+20	Restores some MP when someone uses Celestial Spike.
+21	Increases the range of Celestial Spike. Useful for pinning down an Apostle.
+22	Increases Divine damage over time for Celestial Spike.
+23	Celestial Spike will now affect a wider area. Enemies near the target will also have hindered movement speed.
+24	Increases the range of Celestial Spike's effects. Enemies near the target will take extra Divine damage.
+25	Increases the attack range of Judgment Blade. Train this up to increase attack range and damage.
+26	Judgment Blade is most effective against an Apostle under the effect of a Binding skill. This skill begins with a short stun duration which can be increased through training. Stunned Apostles are extremely vulnerable to damage, so coordinate your attack with the rest of your team. Can be stacked up to 5 times. 
+27	Use Judgment Blade at the right time to temporarily reduce an Apostle's powerful defense. Train this skill to make the debuff more effective.
+28	Increases the critical damage of Judgment Blade.
+29	Recovers some Stamina for the caster of Judgment Blade.
+30	Eliminate an Apostle without using Judgment Blade or Celestial Spike.
+31	During the The Divine Knights main storyline, complete the "Not Over Yet" quest.
+32	Successfully block Mineral Hail with Shield of Trust 50 times.
+33	Eliminate an Apostle as the Squad Captain 10 times.
+34	All-clear Weekly Orders 4 times.
+35	Eliminate an Apostle on normal difficulty or harder (party of 3 or less).
+36	Eliminate an Apostle without any help from pets.
+37	Reach Rank 5 in Shield of Trust, Celestial Spike, and Judgment Blade.
+38	Successfully counter an Apostle's Mineral Hail attack with Celestial Spike 50 times. 
+39	Eliminate an Apostle without using Shield of Trust or Judgment Blade.
+40	Eliminate an Apostle without the squad failing any skill combo of Shield of Trust, Celestial Spike, and Judgment Blade.
+41	Smite a fully-bound Apostle 50 times.
+42	Obtain 14 types of Crusader sub-skills.
+43	Eliminate an Apostle and use its remnants to craft a Divine Weapon. 
+44	Eliminate an Apostle without using Shield of Trust or Celestial Spike.
+45	Enlightened Vision
+46	Divine Liberty
+47	Guardian Oath
+48	Soul Restoration
+49	Sacred Revival
+50	While the souls are linked with Divine Link, the caster obtains additional EXP.
+51	While the souls are linked with Divine Link, the pet's attack increases.
+52	While the souls are linked with Divine Link, the pet's Stun Resistance increases.
+53	While the souls are linked with Divine Link, pet's HP Recovery Speed increases. Wounds are recovered equal to the amount of HP Recovery.
+54	While the souls are linked with Divine Link, the pet is revived instantly when it falls unconscious.
+55	Successfully use the Divine Link skill more than 50 times.
+56	Successfully defeat 300 or more enemies with the pet while the souls are linked.
+57	Your pet is hit 100 or more times while the souls are linked.
+58	Your pet's HP falls below 10% while the souls are linked.
+59	Your pet falls unconscious 10 times or more while the souls are linked.
+60	Magic Dampening
+61	Adds a Magic Defense and Magic Protection boost to the Shield of Trust. This affects all party members and squad members. If another member uses this skill, only the most powerful effect will be applied.
+62	Successfully block Mineral Hail with Shield of Trust 50 times.
+63	Deepening Trust
+64	Restores some MP when someone uses Celestial Spike.
+65	Eliminate an Apostle on normal difficulty or harder in a Solo Mission.
+66	Giving Heart
+67	Guarded Footsteps
+68	Deepening Trust
+69	Spreading Faith
+70	Sinful Thorns
+72	Holy Vitality
+73	Increases the range of Shield of Trust, allowing you to more effectively protect party members who get separated from you.
+74	Adds a Movement Speed Increase to Shield of Trust. This affects all party members and squad members. If another member uses this skill, only the most powerful effect will be applied.
+75	Restores some of the caster's MP when Celestial Spike is used.
+76	Increases the range of Celestial Spike. Useful for pinning down an Apostle.
+77	Increases the range of Celestial Spike's effects. Enemies near the target will be dealt extra Divine damage.
+79	Recovers some of the caster's Stamina when Judgment Blade is used.
+80	Defeat an Apostle without using Judgment Blade or Celestial Spike.
+81	Defeat an Apostle as the Squad Captain 10 times.
+82	Defeat an Apostle on normal difficulty or harder in a Solo Mission.
+83	Defeat an Apostle without any assistance from pets.
+84	Defeat an Apostle without using Shield of Trust or Judgment Blade.
+86	Defeat an Apostle without using Shield of Trust or Celestial Spike.
+87	Recovering Touch
+88	Increases the possibility of survival when using Shield of Trust by healing party members under its effect by a moderate amount.
+89	Obtain the Mid-Bonus 4 times or more during Weekly Orders

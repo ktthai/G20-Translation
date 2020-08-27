@@ -1,0 +1,291 @@
+﻿0	Hillwen Mining Technology Union
+1	Shyllien Nature Research Society
+2	Giant Undercover Agent
+3	Elven Undercover Agent
+5	Hillwen Mining Technology Union Member
+6	Hillwen Mining Technology Union Member
+7	Hillwen Mining Technology Union Member
+8	Hillwen Mining Technology Union Member
+9	Hillwen Mining Technology Union Member
+10	Shyllien Ecology Researcher
+11	Shyllien Ecology Researcher
+12	Shyllien Ecology Researcher
+13	Shyllien Ecology Researcher
+14	Shyllien Ecology Researcher
+15	Secret Agent
+16	Secret Agent
+17	Secret Agent
+18	Royal Guard
+19	Royal Guard
+20	Royal Guard
+74	Archaeological Exploration Party (Rano)
+75	Archaeological Exploration Party
+76	Archaeological Exploration Party
+77	Archaeological Exploration Party
+78	Hillwen Mining Technology Union
+79	Hillwen Mining Technology Union
+80	Hillwen Mining Technology Union
+81	Hillwen Mining Technology Union
+82	Hillwen Mining Technology Union
+83	Hillwen Mining Technology Union
+84	Hillwen Mining Technology Union
+85	Hillwen Mining Technology Union
+86	Hillwen Mining Technology Union
+87	Hillwen Mining Technology Union
+88	Hillwen Mining Technology Union
+89	Hillwen Mining Technology Union
+90	Hillwen Mining Technology Union
+91	Hillwen Mining Technology Union
+92	Grandmaster Engineer
+93	Shyllien Nature Research Society
+94	Shyllien Nature Research Society
+95	Shyllien Nature Research Society
+96	Shyllien Nature Research Society
+97	Shyllien Nature Research Society
+98	Shyllien Nature Research Society
+99	Shyllien Nature Research Society
+100	Shyllien Nature Research Society
+101	Shyllien Nature Research Society
+102	Grandmaster Magic Scholar
+103	Master Botanist
+104	Black Raven
+105	Black Raven
+106	Black Raven
+107	Black Raven
+108	Black Raven
+109	Castanea Royal Guard
+110	Castanea Royal Guard
+111	Castanea Royal Guard
+112	Castanea Royal Guard
+113	Castanea Royal Guard
+114	Castanea Royal Guard
+115	Castanea Royal Guard
+116	Castanea Royal Guard
+117	Castanea Royal Guard
+118	Archaeological Exploration Party
+119	Archaeological Exploration Party
+120	Archaeological Exploration Party
+121	Archaeological Exploration Party
+122	Archaeological Exploration Party
+123	Archaeological Exploration Party
+124	Archaeological Exploration Party
+125	Archaeological Exploration Party
+126	Archaeological Exploration Party
+127	Archaeological Exploration Party
+128	Archaeological Exploration Party
+129	Archaeological Exploration Party
+130	Archaeological Exploration Party
+131	Archaeological Exploration Party
+132	Archaeological Exploration Party
+133	Archaeological Exploration Party
+134	Archaeological Exploration Party
+135	Archaeological Exploration Party
+136	Archaeological Exploration Party
+137	Archaeological Exploration Party
+138	Archaeological Exploration Party
+139	Archaeological Exploration Party
+140	Archaeological Exploration Party
+141	Archaeological Exploration Party
+142	Archaeological Exploration Party
+143	Hillwen Mining Technology Union
+144	Hillwen Mining Technology Union
+145	Hillwen Mining Technology Union
+146	Hillwen Mining Technology Union
+147	Hillwen Mining Technology Union
+148	Hillwen Mining Technology Union
+149	Hillwen Mining Technology Union
+150	Hillwen Mining Technology Union
+151	Hillwen Mining Technology Union
+152	Hillwen Mining Technology Union
+153	Hillwen Mining Technology Union
+154	Hillwen Mining Technology Union
+155	Hillwen Mining Technology Union
+156	Hillwen Mining Technology Union
+157	Grandmaster Engineer
+158	Shyllien Nature Research Society
+159	Shyllien Nature Research Society
+160	Shyllien Nature Research Society
+161	Shyllien Nature Research Society
+162	Shyllien Nature Research Society
+163	Shyllien Nature Research Society
+164	Shyllien Nature Research Society
+165	Shyllien Nature Research Society
+166	Shyllien Nature Research Society
+167	Grandmaster Magic Scholar
+168	Master Botanist
+169	Hillwen Mining Technology Union
+170	Hillwen Mining Technology Union
+171	Hillwen Mining Technology Union
+172	Hillwen Mining Technology Union
+173	Hillwen Mining Technology Union
+174	Hillwen Mining Technology Union
+175	Hillwen Mining Technology Union
+176	Hillwen Mining Technology Union
+177	Hillwen Mining Technology Union
+178	Hillwen Mining Technology Union
+179	Hillwen Mining Technology Union
+180	Hillwen Mining Technology Union
+181	Hillwen Mining Technology Union
+182	Hillwen Mining Technology Union
+183	Grandmaster Engineer
+184	Shyllien Nature Research Society
+185	Shyllien Nature Research Society
+186	Shyllien Nature Research Society
+187	Shyllien Nature Research Society
+188	Shyllien Nature Research Society
+189	Shyllien Nature Research Society
+190	Shyllien Nature Research Society
+191	Shyllien Nature Research Society
+192	Shyllien Nature Research Society
+193	Grandmaster Magic Scholar
+194	Master Botanist
+195	Black Raven
+196	Black Raven
+197	Black Raven
+198	Black Raven
+199	Black Raven
+200	Castanea Royal Guard
+201	Castanea Royal Guard
+202	Castanea Royal Guard
+203	Castanea Royal Guard
+204	Castanea Royal Guard
+205	Castanea Royal Guard
+206	Castanea Royal Guard
+207	Castanea Royal Guard
+208	Castanea Royal Guard
+209	Archaeological Exploration Party
+210	Archaeological Exploration Party
+211	Archaeological Exploration Party
+212	Archaeological Exploration Party
+213	Archaeological Exploration Party
+214	Archaeological Exploration Party
+215	Archaeological Exploration Party
+216	Archaeological Exploration Party
+217	Archaeological Exploration Party
+218	Archaeological Exploration Party
+219	Archaeological Exploration Party
+220	Archaeological Exploration Party
+221	Archaeological Exploration Party
+222	Archaeological Exploration Party
+223	Archaeological Exploration Party
+224	Archaeological Exploration Party
+225	Archaeological Exploration Party
+226	Archaeological Exploration Party
+227	Archaeological Exploration Party
+228	Archaeological Exploration Party
+229	Archaeological Exploration Party
+230	Archaeological Exploration Party
+231	Archaeological Exploration Party
+232	Archaeological Exploration Party
+233	Archaeological Exploration Party
+234	Hillwen Mining Technology Union
+235	Hillwen Mining Technology Union
+236	Hillwen Mining Technology Union
+237	Hillwen Mining Technology Union
+238	Hillwen Mining Technology Union
+239	Hillwen Mining Technology Union
+240	Hillwen Mining Technology Union
+241	Hillwen Mining Technology Union
+242	Hillwen Mining Technology Union
+243	Hillwen Mining Technology Union
+244	Hillwen Mining Technology Union
+245	Hillwen Mining Technology Union
+246	Hillwen Mining Technology Union
+247	Hillwen Mining Technology Union
+248	Grandmaster Engineer
+249	Shyllien Nature Research Society
+250	Shyllien Nature Research Society
+251	Shyllien Nature Research Society
+252	Shyllien Nature Research Society
+253	Shyllien Nature Research Society
+254	Shyllien Nature Research Society
+255	Shyllien Nature Research Society
+256	Shyllien Nature Research Society
+257	Shyllien Nature Research Society
+258	Grandmaster Magic Scholar
+259	Master Botanist
+260	Hillwen Mining Technology Union
+261	Hillwen Mining Technology Union
+262	Hillwen Mining Technology Union
+263	Hillwen Mining Technology Union
+264	Hillwen Mining Technology Union
+265	Hillwen Mining Technology Union
+266	Hillwen Mining Technology Union
+267	Hillwen Mining Technology Union
+268	Hillwen Mining Technology Union
+269	Hillwen Mining Technology Union
+270	Hillwen Mining Technology Union
+271	Hillwen Mining Technology Union
+272	Hillwen Mining Technology Union
+273	Hillwen Mining Technology Union
+274	Grandmaster Engineer
+275	Shyllien Nature Research Society
+276	Shyllien Nature Research Society
+277	Shyllien Nature Research Society
+278	Shyllien Nature Research Society
+279	Shyllien Nature Research Society
+280	Shyllien Nature Research Society
+281	Shyllien Nature Research Society
+282	Shyllien Nature Research Society
+283	Shyllien Nature Research Society
+284	Grandmaster Magic Scholar
+285	Master Botanist
+286	Black Raven
+287	Black Raven
+288	Black Raven
+289	Black Raven
+290	Black Raven
+291	Castanea Royal Guard
+292	Castanea Royal Guard
+293	Castanea Royal Guard
+294	Castanea Royal Guard
+295	Castanea Royal Guard
+296	Castanea Royal Guard
+297	Castanea Royal Guard
+298	Castanea Royal Guard
+299	Castanea Royal Guard
+300	Archaeological Exploration Party
+301	Archaeological Exploration Party
+302	Archaeological Exploration Party
+303	Archaeological Exploration Party
+304	Archaeological Exploration Party
+305	Archaeological Exploration Party
+306	Archaeological Exploration Party
+307	Archaeological Exploration Party
+308	Archaeological Exploration Party
+309	Archaeological Exploration Party
+310	Archaeological Exploration Party
+311	Archaeological Exploration Party
+312	Archaeological Exploration Party
+313	Archaeological Exploration Party
+314	Archaeological Exploration Party
+315	Archaeological Exploration Party
+316	Archaeological Exploration Party
+317	Archaeological Exploration Party
+318	Archaeological Exploration Party
+319	Archaeological Exploration Party
+320	Archaeological Exploration Party
+321	Archaeological Exploration Party
+322	Archaeological Exploration Party
+323	Archaeological Exploration Party
+324	Archaeological Exploration Party
+325	Explorers League
+326	Explorers League
+327	Explorers League
+328	Explorers League
+329	Explorers League
+330	Explorers League
+331	Explorers League
+332	Explorers League
+333	Explorers League
+334	Explorers League
+335	Fate/stay night Event Mage's Association npc
+336	Mage's Association Executive Committee Member
+337	Mage's Association Executive Committee Member
+338	Mage's Association Executive Committee Member
+339	Mage's Association Executive Committee Member
+340	Mage's Association Executive Committee Member
+341	Mage's Association Executive Committee Member
+342	Mage's Association Executive Committee Member
+343	Mage's Association Executive Committee Member
+344	Mage's Association Executive Committee Member

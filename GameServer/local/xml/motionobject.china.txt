@@ -1,0 +1,16 @@
+﻿10	Possess Windmill
+11	Dragon
+12	Bone Dragon
+13	Flamemare
+14	Seal
+15	Broom
+16	Pegasus
+17	Phoenix
+18	Bear
+19	Little Hopper
+20	Fez, Tia
+21	Alto, Lento, Gio
+22	Puppy
+23	Bird
+24	Griffin
+25	Ostrich

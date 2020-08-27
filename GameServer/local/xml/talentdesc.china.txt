@@ -1,0 +1,105 @@
+﻿0	Adventure
+1	Close Combat
+2	Magic
+3	Archery
+4	Mercantile
+5	Battle Alchemy
+6	Martial Arts
+7	Music
+9	Lance Combat
+10	Holy Arts
+11	Transmutation
+12	Cooking
+13	Smithing
+14	Tailoring
+15	Medicine
+16	Carpentry
+19	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.\n\nWhen Magic is your active Talent, you'll gain Intelligence and Mana more quickly. You'll also earn more EXP for Magic skills.
+20	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.\n\nWhen Archery is your active Talent,  you'll gain Dexterity more quickly. You'll also earn more EXP for Archery skills.
+23	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting with knuckles.\n\nWhen you make Martial Arts your active Talent, you'll gain Will more quickly. You'll also earn more EXP for Martial Arts skills.
+26	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.\n\nWhen you make the Holy Arts your active Talent, you'll gain Intelligence and Mana more quickly. You'll also earn more EXP for Holy Arts skills. Since this talent can only be ranked up with a party, it is not recommended for beginners.
+27	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.\n\nWhen Transmutation is your active Talent, you'll gain Mana and Stamina more quickly. You'll also earn more EXP for Transmutation skills.
+29	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.\n\nWhen Smithing is your active Talent, you'll gain Dexterity and Stamina more quickly. You'll also earn more EXP for Smithing skills.
+30	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments. \n\nWhen Tailoring is your active Talent, you'll gain Dexterity and Stamina more quickly. You'll also earn more EXP for Tailoring skills.
+31	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.\n\nWhen Medicine is your active Talent, you'll gain Dexterity and Stamina more quickly. You'll also earn more EXP for Medicine skills.
+33	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.\n\nWhen Close Combat is your active Talent, you'll gain Strength more quickly. You'll also earn more EXP for Close Combat skills.
+34	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals. \n\nWhen Battle Alchemy is your active Talent, you'll gain Mana and Stamina more quickly. You'll also earn more EXP for Battle Alchemy skills.
+52	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time. \n\nWhen Adventure is your active Talent, you'll gain Will and HP more quickly. You'll also earn more EXP for Adventure skills. Since this talent encourages travel but doesn't grant combat bonuses, it is not recommended for beginners.
+53	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.\n\nWhen Mercantile is your active Talent, you'll gain Luck more quickly. You'll also earn more EXP for Mercantile skills. Since this talent encourages travel but doesn't grant combat bonuses, it is not recommended for beginners.
+54	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies. \n\nWhen Music is your active Talent, you'll gain Strength and Stamina more quickly. You'll also earn more EXP for Music skills.
+55	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds. \n\nWhen Lance Combat is your active Talent, you'll gain Strength and HP more quickly. You'll also earn more EXP for Lance Combat skills.
+56	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.\n\nWhen Cooking is your active Talent, you'll gain Dexterity and Stamina more quickly. You'll also earn more EXP for Cooking skills.
+57	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows. \n\nWhen Carpentry is your active Talent, you'll gain Stamina more quickly. You'll also earn more EXP for Carpentry skills.
+58	Exploration, Fishing
+59	Melee Combat
+60	Ranged Combat
+61	Ranged Combat
+62	Commerce
+63	Ranged Combat
+64	Melee Combat
+65	Party Support
+66	Mid-range Combat
+67	Party Healing, Defense
+68	Manipulating Materials
+69	Gathering Ingredients, Cooking
+70	Gathering Ore, Crafting Equipment
+71	Weaving Cloth, Making Clothing
+72	Gathering Herbs, Crafting Potions
+73	Gathering and Shaping Wood
+74	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time. \n\nWhen Adventure is your active Talent, you'll gain Will and HP more quickly. You'll also earn more EXP for Adventure skills. Since this talent encourages travel but doesn't grant combat bonuses, it is not recommended for beginners.
+75	Puppetry
+76	Ranged Combat, Defense
+78	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.\n\nWhen you make Puppetry your active Talent, you'll gain Dexterity, Stamina, and Strength more quickly. You'll also earn more EXP for Puppetry skills.
+79	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.\nWhen Adventure is your active Talent, you'll gain Will and HP more quickly. You'll also earn more EXP for Adventure skills. You will have a 150% greater chance to collect transformations.\nSince this talent encourages travel but doesn't grant combat bonuses, it is not recommended for beginners.
+80	Exploration, Fishing
+82	Adventure
+83	Adventure
+84	Close Combat
+85	Magic
+86	Archery
+87	Mercantile
+88	Battle Alchemy
+89	Martial Arts
+90	Music
+91	Puppetry
+92	Lance Combat
+93	Holy Arts
+94	Transmutation
+95	Cooking
+96	Smithing
+97	Tailoring
+98	Medicine
+99	Carpentry
+100	Feature Test
+101	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.\nWhen Adventure is your active Talent, you'll gain Will and HP more quickly. You'll also earn more EXP for Adventure skills.\nSince this talent encourages travel but doesn't grant combat bonuses, it is not recommended for beginners.
+103	Gunslinger
+104	Ranged Combat
+105	The Gunslinging talent transforms Shyllien Mana Bullets into powerful projectiles with the power of Mana and then uses those Mana Bullets in battles.\n\nWhen Gunslinging is your active Talent, you'll gain HP and Gunslinger skill ATT more quickly. You'll also earn more EXP for Gunslinger skills.
+109	All Types of Magic
+112	All Types of Music
+114	Merlin
+115	Starlet
+117	Starlet was acknowledged as the new master of music after performing only once.\n\nIf you choose to walk the path of Starlet, you'll gain Intelligence, Dexterity, and Stamina more quickly. You'll also earn more EXP for Music, Holy Arts, and Puppetry skills. Use an Ace Character Card to start with the Song, Chorus, and Encore skills by default. Use a free Basic Character Card to start with the Encore skill.
+118	Professor J
+119	All Types of Alchemy
+120	Merlin is the greatest master of magic.\n\nIf you choose to walk the path of Merlin, you'll gain Will, Intelligence, and MP more quickly. You'll also earn more EXP for Magic, Holy Arts, and Medicine skills. Use an Ace Character Card to start with the Spellwalk, Snap Cast, and Meteor Strike skills by default. Use a free Basic Character Card to start with the Snap Cast skill.
+121	Starlet was acknowledged as the new master of music after performing only once.\n\nIf you choose to walk the path of Starlet, you'll gain Intelligence, Dexterity, and Stamina more quickly. You'll also earn more EXP for Music, Holy Arts, and Puppetry skills. Use an Ace Character Card to start with the Song, Chorus, and Encore skills by default. Use a free Basic Character Card to start with the Encore skill.
+122	Professor J is the greatest practitioner of Alchemy the world has ever known.\n\nIf you choose to walk the path of Professor J, you'll gain Strength, Intelligence, HP, MP, and Stamina more quickly. You'll also earn more EXP for Battle Alchemy, Transmutation, and Close Combat skills. Use an Ace Character Card to start with the Elemental Wave, Golden Time, and Hydra Transmutation skills by default. Use a free Basic Character Card to start with the Hydra Transmutation skill.
+123	Culinary Artist
+124	Gathering, Cooking
+125	The Culinary Artist was acknowledged as the master of all chefs across Erinn.\n\nIf you choose to walk the path of the Culinary Artist, you'll gain Strength, Dexterity, HP, and Stamina more quickly. You'll also earn more EXP for Cooking, Herbalism, and Warrior skills. Use an Ace Character Card to start with the Tasting, Ingredient Hunting, and Catering skills by default. Use a free Basic Character Card to start with the Catering skill.
+126	Treasure Hunter
+127	Excavation
+130	The Treasure Hunter was renowned across the land of Erinn as the ultimate explorer.\n\nIf you choose to walk the path of the Treasure Hunter, you'll gain Intelligence, Luck, and Will more quickly. You'll also earn more EXP for Adventure, Mercantile, and Gunslinger skills.
+131	Ninja
+132	Ranged Combat
+133	The Ninja talent boasts lightweight moves and swift attacks. It emphasizes the use of secret weapons, spirit-based skills, and clever surprises during combat.\n\nWhen Ninja is your active talent, you'll gain Strength and Will more quickly. You'll also earn more EXP for Ninja skills.
+134	Novice
+135	A Talent only available to Erinn's new arrivals. Novices don't have a specialization, and have restrictions on training and obtaining skills.
+136	Chain Slash
+137	Ranged Combat
+138	Chain Slash uses the remarkable weapon known as a Chain Blade.\nWith the traits of both a chain and a whip, this talent allows truly dynamic combat and a variety of skills.\nTraining is quick, and the best part of all is that the energy used in each skill gets built up with each hit you land!
+139	Pet Training
+140	Pet Raising and Bonding
+141	Pet Training is a Talent that uses the power of Fynn to acquire and bond with pets.\nUse a Fynn Bell to channel the power of the Fynn.\nAllows you to draw Fynni out of monsters and enables them to awaken as pets. Bond with your pets to grow them into much stronger Fynn Pet.\nThe Pet Training Talent lets you gain Will and Luck more quickly. You'll also train skills related to Pet Training more quickly.
+142	Pet Training is a Talent that uses the power of Fynn to acquire and bond with pets.\nUse a Fynn Bell to channel the power of the Fynn.\nAllows you to draw Fynni out of monsters and enables them to awaken as pets. Bond with your pets to grow them into much stronger Fynn Pet.\nThe Pet Training Talent lets you gain Will and Luck more quickly. You'll also train skills related to Pet Training more quickly.

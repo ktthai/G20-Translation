@@ -1,0 +1,10 @@
+﻿0	[Spirit Personality]&#xA;All right, now. Hurry up and feed me.&#xA;Got something to say? Go on then.
+1	[Spirit Personality]&#xA;I don't have much appetite these days. Can't you feed me something tastier?&#xA;Not all these cheap items, you miser!
+2	[Spirit Personality]&#xA;I'm at your service whenever you desire. Are you in need of my assistance?&#xA;I rejoice in your attention.
+3	[Spirit Personality]&#xA;Is there... anything I can help with...?&#xA;I'd like to... be of help...
+4	[Spirit Personality]&#xA;Whoa! Thanks for calling me!&#xA;Oh boy! I leveled up!
+5	[Spirit Personality]&#xA;Is something bothering you? &#xA;I suppose thanks are in order for not forgetting about me...
+6	[Spirit Personality]&#xA;Whoo! How you doin', mate?&#xA;A what now? Sure! Ask away. Just ask something I know!
+7	[Spirit Personality]&#xA;Time for a conversation? Very well. Feel free to ask me anything.&#xA;Oh, look. I leveled up. Ahh... Scintillating...
+8	[Spirit Personality]&#xA;Oh, you wish to have a conversation? Ha, fine with me.&#xA;I feel such pleasure every time I level up.
+9	[Spirit Personality]&#xA;I love to chat with you anytime. It's the whole reason I want to grow stronger.&#xA;I have faith in you, and your plans.

@@ -1,0 +1,5 @@
+﻿0	Normal
+1	Positive
+2	Laughing
+3	Denial
+4	Angry

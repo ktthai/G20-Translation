@@ -1,0 +1,56 @@
+﻿1	Alby Dungeon
+2	Tir Chonaill
+3	Ciar Dungeon
+4	Dugald Aisle
+5	Rabbie Dungeon
+6	Dunbarton
+7	Math Dungeon
+8	Fiodh Dungeon
+9	Gairech
+10	Bangor
+11	Emain Macha
+12	Ceo Island
+13	Coill Dungeon
+14	Ladeca
+15	Peaca Dungeon
+16	Qilla Base Camp Mana Tunnel
+17	Kaypi Canyon Mana Tunnel
+18	North Maiz Prairie Mana Tunnel
+19	Northeast Maiz Prairie Mana Tunnel
+20	South Muyu Desert Mana Tunnel
+21	North Karu Forest Mana Tunnel
+22	South Karu Forest Mana Tunnel
+23	Port Ceann
+24	Filia Region
+25	Errans Gorge Region
+26	Nares Plateau Region
+27	East Region of Longa Desert
+28	Rupes Desert Region
+29	South Region of Longa Desert
+30	North Region of Longa Desert
+31	Silva Forest Mana Tunnel
+32	Sella Beach Coast Mana Tunnel
+33	Vales Mana Tunnel
+34	Barba Basin Mana Tunnel
+35	Lunae Valley Mana Tunnel
+36	Cor Village Mana Tunnel
+37	East Pantay Swamp Mana Tunnel
+38	Cenae Meadows Mana Tunnel
+39	Destroyed Mana Tunnel of Lappa Town
+40	La Terra Highlands Mana Tunnel
+41	South Cenae Meadow Mana Tunnel
+42	Erkey Falls Destroyed Mana Tunnel
+43	Erkey Falls Destroyed Mana Tunnel
+44	Calida Mana Tunnel
+45	Raspa Volcano Mana Tunnel
+46	Pera Mana Tunnel
+47	Renes Mana Tunnel
+48	Taillteann
+49	Tara
+50	Hot Springs Mana Tunnel
+51	Outskirts of Avalon
+52	Yggdrasil
+53	Forgotten Shore
+54	Berg Mesa
+55	Decaying Swamp
+56	Blackstone Beach

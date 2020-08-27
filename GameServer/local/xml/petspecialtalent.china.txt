@@ -1,0 +1,113 @@
+﻿1	Retain Soul Link for {0} mins
+2	Defend against an attack using Mana Shield alongside your pet
+3	Apply the Enduring Melody effect
+4	Consume a Mana Potion
+5	Keep pet summoned for {0} mins
+6	Use Healing
+7	Use Party Healing alongside your pet
+8	Apply the Life Anthem effect
+9	Stay mounted for {0} mins
+10	Obtain Combat EXP
+11	Have your pet deliver the finishing blow to an enemy
+12	Increases summoned pet's Magic Defense by 1
+13	Increases summoned pet's Magic Defense by 1\nIncreases summoned pet's Magic Protection by 1
+14	Summoned pet's Magic Defense +2\nSummoned pet's Magic Protection +1
+15	Increases summoned pet's Magic Defense by 2\nIncreases summoned pet's Magic Protection by 2
+16	Increases summoned pet's Magic Defense by 3\nIncreases summoned pet's Magic Protection by 2
+17	Increases summoned pet's Magic Defense by 4\nIncreases summoned pet's Magic Protection by 2
+18	Increases summoned pet's Magic Defense by 5\nIncreases summoned pet's Magic Protection by 2
+19	Increases summoned pet's Magic Defense by 6\nIncreases summoned pet's Magic Protection by 2
+20	Increases summoned pet's Magic Defense by 7\nIncreases summoned pet's Magic Protection by 2
+21	Increases summoned pet's Magic Defense by 7\nIncreases summoned pet's Magic Protection by 3
+22	Increases summoned pet's Magic Defense by 8\nIncreases summoned pet's Magic Protection by 3
+23	Increases summoned pet's Magic Defense by 9\nIncreases summoned pet's Magic Protection by 3
+24	Increases summoned pet's Magic Defense by 9\nIncreases summoned pet's Magic Protection by 4
+25	Increases summoned pet's Magic Defense by 10\nIncreases summoned pet's Magic Protection by 4
+26	Increases summoned pet's Magic Defense by 11\nIncreases summoned pet's Magic Protection by 5
+27	Delay between AoE heals -0.1 sec\nMax number of heals +1
+28	Delay between AoE heals -0.12 sec\nMax number of heals +1
+29	Delay between AoE heals -0.14 sec\nMax number of heals +1
+30	Delay between AoE heals -0.16 sec\nMax number of heals +2
+31	Delay between AoE heals -0.18 sec\nMax number of heals +2
+32	Delay between AoE heals -0.2 sec\nMax number of heals +2
+33	Delay between AoE heals -0.25 sec\nMax number of heals +3
+34	Delay between AoE heals -0.3 sec\nMax number of heals +3
+35	Delay between AoE heals -0.4 sec\nMax number of heals +3
+36	Delay between AoE heals -0.5 sec\nMax number of heals +4
+37	Delay between AoE heals -0.6 sec\nMax number of heals +4
+38	Delay between AoE heals -0.7 sec\nMax number of heals +4
+39	Delay between AoE heals -0.8 sec\nMax number of heals +4
+40	Delay between AoE heals -0.9 sec\nMax number of heals +4
+41	Delay between AoE heals -1 sec\nMax number of heals +5
+42	Grants pet an additional 5% Completion EXP\nGrants party members' pets an additional 0.5% Completion EXP
+43	Grants pet an additional 5.5% Completion EXP\nGrants party members' pets an additional 0.7% Completion EXP
+44	Grants pet an additional 6% Completion EXP\nGrants party members' pets an additional 0.8% Completion EXP
+45	Grants pet an additional 6.5% Completion EXP\nGrants party members' pets an additional 0.9% Completion EXP
+46	Grants pet an additional 7% Completion EXP\nGrants party members' pets an additional 1% Completion EXP
+47	Grants pet an additional 7.5% Completion EXP\nGrants party members' pets an additional 1.1% Completion EXP
+48	Grants pet an additional 8% Completion EXP\nGrants party members' pets an additional 1.2% Completion EXP
+49	Grants pet an additional 8.2% Completion EXP\nGrants party members' pets an additional 1.3% Completion EXP
+50	Grants pet an additional 8.5% Completion EXP\nGrants party members' pets an additional 1.4% Completion EXP
+51	Grants pet an additional 8.8% Completion EXP\nGrants party members' pets an additional 1.5% Completion EXP
+52	Grants pet an additional 9% Completion EXP\nGrants party members' pets an additional 1.6% Completion EXP
+53	Grants pet an additional 9.2% Completion EXP\nGrants party members' pets an additional 1.7% Completion EXP
+54	Grants pet an additional 9.5% Completion EXP\nGrants party members' pets an additional 1.8% Completion EXP
+55	Grants pet an additional 9.8% Completion EXP\nGrants party members' pets an additional 1.9% Completion EXP
+56	Grants pet an additional 10% Completion EXP\nGrants party members' pets an additional 2% Completion EXP
+57	Blue Shield
+58	Healing Rays
+59	Bonding Ties
+60	Recharge {1}% every {0} seconds of pet's summon duration
+61	Recharge {0}% each time the pet attacks an enemy
+62	Recharge {0}% each time the pet takes damage from an enemy
+63	Blue Shield
+64	Healing Rays
+65	Bonding Ties
+66	Wild Frenzy
+67	Frozen Earth
+68	Wings of Haste
+69	Reduces summoned pet's attack delay by 1%.
+70	Reduces summoned pet's attack delay by 2%.
+71	Reduces summoned pet's attack delay by 3%.
+72	Reduces summoned pet's attack delay by 4%.
+73	Reduces summoned pet's attack delay by 5%.
+74	Reduces summoned pet's attack delay by 6%.
+75	Reduces summoned pet's attack delay by 7%.
+76	Reduces summoned pet's attack delay by 8%.
+77	Reduces summoned pet's attack delay by 9%.
+78	Reduces summoned pet's attack delay by 10%.
+79	Reduces summoned pet's attack delay by 11%.
+80	Reduces summoned pet's attack delay by 12%.
+81	Reduces summoned pet's attack delay by 13%.
+82	Reduces summoned pet's attack delay by 14%.
+83	Reduces summoned pet's attack delay by 15%.
+84	Deals damage and stuns\nany enemies on the ice every 3 sec.
+85	Deals damage and stuns\nany enemies on the ice every 3 sec.
+86	Deals damage and stuns\nany enemies on the ice every 3 sec.
+87	Deals damage and stuns\nany enemies on the ice every 3 sec.
+88	Deals damage and stuns\nany enemies on the ice every 3 sec.
+89	Deals damage and stuns\nany enemies on the ice every 2.5 sec.
+90	Deals damage and stuns\nany enemies on the ice every 2.5 sec.
+91	Deals damage and stuns\nany enemies on the ice every 2.5 sec.
+92	Deals damage and stuns\nany enemies on the ice every 2.5 sec.
+93	Deals damage and stuns\nany enemies on the ice every 2.5 sec.
+94	Deals damage and stuns\nany enemies on the ice every 2 sec.
+95	Deals damage and stuns\nany enemies on the ice every 2 sec.
+96	Deals damage and stuns\nany enemies on the ice every 2 sec.
+97	Deals damage and stuns\nany enemies on the ice every 2 sec.
+98	Deals damage and stuns\nany enemies on the ice every 2 sec.
+99	Increases Master's speed by 0.1%.
+100	Increases Master's speed by 0.1%.
+101	Increases Master's speed by 0.1%.
+102	Increases Master's speed by 0.1%.
+103	Increases Master's speed by 0.1%.
+104	Increases Master's speed by 0.5%.
+105	Increases Master's speed by 0.5%.
+106	Increases Master's speed by 0.5%.
+107	Increases Master's speed by 0.5%.
+108	Increases Master's speed by 0.5%.
+109	Increases Master's speed by 1%.
+110	Increases Master's speed by 1%.
+111	Increases Master's speed by 1%.
+112	Increases Master's speed by 1%.
+113	Increases Master's speed by 1.5%.

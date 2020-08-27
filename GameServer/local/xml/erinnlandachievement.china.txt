@@ -1,0 +1,653 @@
+﻿0	Hammer Slam
+1	Martial Darts
+2	Shooting Gallery
+3	Clobbermeister
+4	Tail Chasers
+5	Lorraine's Nightmare
+6	Crystal Defender
+7	AchievementPoint
+8	RegionEnter
+9	UseRoulette
+10	QuestComplete
+11	UseLandmarkexp
+12	UseLandmarkcondition
+13	PlayCount
+14	WinPlay
+15	LosePlay
+16	WinScore
+17	LoseScore
+18	GetAchievement
+19	UseItem
+20	NotUseItem
+21	JobSelect
+22	BuyItem
+23	BuySkill
+24	OnePlayBuyItem
+25	OnePlayBuySkill
+26	OverScore
+27	FestiaEnter
+28	TotalPlayCount
+29	WinningRate
+30	MaxRankScore
+31	ConditionValue
+32	Fortune
+33	DartSuccessScore
+34	DartFailScore
+35	Welcome to Festia!
+36	Ugh, Too Lazy...
+37	Don't Sit Around All Day!
+38	Music to Your Eyes
+39	Spin to Win!
+40	Spin Me Right Round
+41	Getting Dizzy
+42	Gambling Addict
+43	Never Forget the Roulette
+44	Quests for Days
+45	EXP Magnet
+46	Advanced Questing
+47	Give it 110%!
+48	Official Poltergeist
+49	Here Goes Nothing!
+50	With Flying Colors
+51	Piece of Cake
+52	Rampaging Milletian
+53	Unstoppable Milletian!
+54	Beyond Legendary
+55	Mythical Mini-Gamer
+56	God of Festia
+57	Difficulty: Hardcore
+58	Difficulty: MLG
+59	I Voted!
+60	Ballot Stuffer
+61	Thank-You Notes
+62	I Never Miss a Meal
+63	5-Star Chef
+64	Out of this World!
+65	Hammer Slammer
+66	Got Hammered
+67	Hammering Harder
+68	Nailed it!
+69	The World's Greatest Hammer?
+70	I Need More Hammers!
+71	Hammer Like You Mean It
+72	Stop! Hammer Time!
+73	Hammer Brother... Or Sister
+74	The Mighty Hammer
+75	Hammer Out the Details
+76	My Soul is a Hammer
+77	Mind Over Matter
+78	One Year Too Late
+79	It Ain't Over till it's Over
+80	Oops! My Hand Slipped
+81	What's a Hammer?
+82	Get On My Level!
+83	Point Machine
+84	Bow to Your Sensei!
+85	Try Trying Hard Harder
+86	Sad but Legendary
+87	I Don't Believe in Legends
+88	If You Play Them, Points Will Come
+89	The Points Won't Stop
+90	How Do You Like Them Hammers?
+91	The Hammer Shall Find You
+92	My Hands NEVER Slip!
+93	Feel the Wind
+94	A Little Finesse
+95	Invincible Dartboard
+96	Wild Toss
+97	The Last Resort
+98	Fly to the Center!
+99	Sting Like a Hornet!
+100	I'm Too Busy Darting
+101	Engaging Dart Missiles
+102	Eye for the Bullseye
+103	Champagne for My 100th Victory!
+104	Midas Touch
+105	Feel the Fury
+106	I'll Be Back
+107	I'm Letting You Win!
+108	Win Some, Lose Some
+109	Not Quite Second
+110	Whhhyyyy!
+111	God's Dice
+112	Close Call
+113	I... Have... Fury!
+114	So Close, Yet So Far
+115	I Meant to Aim There
+116	Supportive Left Hand
+117	Definitely a Perfect Score
+118	What Do YOU Know About Darts?
+119	I Got Disqualified?
+120	My Cat Threw that Dart
+121	Dart Overlord
+122	Blam! Blam! Blam!
+123	I've Got My Eye on You
+125	Boom! Head Shot!
+126	Master Marksman
+127	I Saw, I Shot, I Conquered
+128	Festia Strike Online
+129	End of the Line
+130	Leave Me Alone!
+131	Losing Motivates Me
+132	No More Losing
+133	We're Finished
+134	Don't Blink!
+135	Let it Go
+136	Don't Compare Yourself to Me
+137	I Lost?
+138	Failure Forges Heroes!
+139	The Sniper
+140	Deadeye
+141	The Fastest Draw in Erinn
+142	Milletian Hobbyist
+143	Up, Up, Down, Down... Wait...
+144	Doll Master
+145	I've Done What I Can
+146	Channel Your Inner Power
+147	Wreck-It Milletian
+148	Right in the Kisser!
+149	Fist to the Ribcage
+150	Get Back Here!
+151	Grabbing Tails Never Fails
+152	Spin Until You Puke!
+153	Too Busy Chasin' Tails
+154	I Will Find You, and I Will Get Your Tail
+155	Touch Tails, Go to Jail
+156	Bringing People Together
+157	The Thrill of the Chase
+158	Big Beautiful Tail
+159	Pick Your Poison!
+160	One Way or Another
+161	Running Man
+162	Dream Team
+163	Technically Pulling One's Spine
+164	Morrighan Called and Wants Your Tail
+165	Texas Chaintail Massacre
+166	Hoarder
+167	Limitless
+168	Bodies are Temporary
+169	A Shot from Heaven
+170	Close in for the Kill
+171	Ultimate Archer
+172	Arrow to the Knee
+173	Never Underestimate Archers
+174	PhD in Magic
+175	Contractual Magic
+176	25 Years Until I'm a Magician
+177	Spiky Tail
+178	Night Terrors
+179	Dreaming of Zombies
+180	Phantasm Lorraine Dungeon
+181	Lorraine Breaker
+182	Lorraine's Eternal Nightmare
+183	Who Ordered This?
+184	Buy Something!
+185	In Fact, Buy Two!
+186	Bring in the Haul
+187	Just Do It!
+188	One Skill, Coming Right Up!
+189	Do it Better!
+190	Gold Comes In, Gold Goes Out
+191	Give Me Decent Skill Potions
+192	TAKE MY GOLD!
+193	Milletian's Dirty Work - Close Combat Talent
+194	Milletian's Dirty Work - Mage Talent
+195	Stay Right Here
+196	Shut 'Em Down
+197	Shock and Awe
+198	The Milletian Hungers
+199	Defense! Defense!
+200	What Grace!
+201	Festia Entry Count
+202	Tarot Cards Read
+203	Sun Cards Pulled
+204	Queen Cards Pulled
+205	Fickle Fate Cards Pulled
+206	Star Cards Pulled
+207	Moon Cards Pulled
+208	EXP Obtained from the Landmark
+209	Conditions Obtained from the Landmark
+210	NPC Performances Watched
+211	Play Hammer Slam
+212	Play Martial Darts
+213	Play Shooting Gallery
+214	Play Clobbermeister
+215	Play Tail Chasers
+216	Play Lorraine's Nightmare
+217	Play Crystal Defender
+218	Hammer Slam Win Percentage
+219	Martial Darts Win Percentage
+220	Shooting Gallery Win Percentage
+221	Tail Chasers Win Percentage
+222	Hammer Slam Ranked High Score
+223	Martial Darts Ranked High Score
+224	Shooting Gallery Ranked High Score
+225	Clobbermeister Ranked High Score (Single)
+226	Clobbermeister Ranked High Score (Multi)
+227	Lorraine's Nightmare Ranked High Score
+228	Crystal Defender Ranked High Score
+229	You entered Festia for the first time!
+230	You got 100 EXP for resting near the Landmark.
+231	You received a condition for resting near the Landmark.
+232	You watched the NPC band play on stage.
+233	You spun the Roulette Board using Roulette Coins 10 times.
+234	You spun the Roulette Board using Roulette Coins 50 times.
+235	You spun the Roulette Board using Roulette Coins 100 times.
+236	You spun the Roulette Board using Roulette Coins 200 times.
+237	You spun the Roulette Board using Roulette Coins 300 times.
+238	You completed the Festia Daily Quest 10 times.
+239	You completed the Festia Daily Quest 50 times.
+240	You completed the Festia Daily Quest 100 times.
+241	You completed the Festia Daily Quest 200 times.
+242	You completed the Festia Daily Quest 300 times.
+243	Achieve an overall score of 100 points in Festia's mini-games and attractions
+244	Achieve an overall score of 300 points in Festia's mini-games and attractions
+245	Achieve an overall score of 500 points in Festia's mini-games and attractions
+246	Achieve an overall score of 1000 points in Festia's mini-games and attractions
+247	Achieve an overall score of 2000 points in Festia's mini-games and attractions
+248	Achieve an overall score of 3000 points in Festia's mini-games and attractions
+249	Achieve an overall score of 4000 points in Festia's mini-games and attractions
+250	Achieve an overall score of 5000 points in Festia's mini-games and attractions
+251	You played the Cave of Trials during the anniversary event 10 times.
+252	You played the Cave of Trials during the anniversary event 20 times.
+253	You voted in the popularity contest during the anniversary event 10 times.
+254	You voted in the popularity contest during the anniversary event 20 times.
+255	You completed The Suspicious Milletian quest during the anniversary event.
+256	You completed The Fattening during the anniversary event 10 times.
+257	You completed The Fattening during the anniversary event 20 times.
+258	You earned all achievements during the anniversary event!
+259	Play free-for-all (2 players) Hammer Slam 10 times
+260	Play free-for-all (2 players) Hammer Slam 50 times
+261	Play free-for-all (2 players) Hammer Slam 100 times
+262	Play free-for-all (2 players) Hammer Slam 150 times
+263	Play free-for-all (2 players) Hammer Slam 200 times
+264	Play free-for-all (4 players) Hammer Slam 10 times
+265	Play free-for-all (4 players) Hammer Slam 50 times
+266	Play free-for-all (4 players) Hammer Slam 100 times
+267	Win free-for-all (2 players) Hammer Slam 10 times
+268	Win free-for-all (2 players) Hammer Slam 50 times
+269	Win free-for-all (2 players) Hammer Slam 100 times
+270	Win free-for-all (4 players) Hammer Slam 10 times
+271	Win free-for-all (4 players) Hammer Slam 50 times
+272	Lose free-for-all (2 players) Hammer Slam 10 times
+273	Lose free-for-all (2 players) Hammer Slam 50 times
+274	Lose free-for-all (4 players) Hammer Slam 10 times
+275	Win Hammer Slam by 100 points 10 times
+276	Win Hammer Slam by 100 points 30 times
+277	Win Hammer Slam by 100 points 60 times
+278	Win Hammer Slam by 100 points 100 times
+279	Lose Hammer Slam by 100 points 10 times
+280	Lose Hammer Slam by 100 points 30 times
+281	Lose Hammer Slam by 100 points 60 times
+282	Achieve 1,000+ points In Hammer Slam 10 times
+283	Achieve 1,000+ points In Hammer Slam 30 times
+284	Achieve 1,000+ points In Hammer Slam 60 times
+285	Achieve 1,000+ points In Hammer Slam 100 times
+286	You earned all the achievements for Hammer Slam!
+287	Play free-for-all (2 players) Martial Darts 10 times
+288	Play free-for-all (2 players) Martial Darts 50 times
+289	Play free-for-all (2 players) Martial Darts 100 times
+290	Play free-for-all (2 players) Martial Darts 150 times
+291	Play free-for-all (2 players) Martial Darts 200 times
+292	Play free-for-all (4 players) Martial Darts 10 times
+293	Play free-for-all (4 players) Martial Darts 50 times
+294	Play free-for-all (4 players) Martial Darts 100 times
+295	Win free-for-all (2 players) Martial Darts 10 times
+296	Win free-for-all (2 players) Martial Darts 50 times
+297	Win free-for-all (2 players) Martial Darts 100 times
+298	Win free-for-all (4 players) Martial Darts 10 times
+299	Win free-for-all (4 players) Martial Darts 50 times
+300	Lose free-for-all (2 players) Martial Darts 10 times
+301	Lose free-for-all (2 players) Martial Darts 50 times
+302	Lose free-for-all (4 players) Martial Darts 10 times
+303	Win Martial Darts by 1 point 10 times
+304	Win Martial Darts by 1 point 30 times
+305	Win Martial Darts by 1 point 60 times
+306	Win Martial Darts by 1 point 100 times
+307	Lose Martial Darts by 1 point 10 times
+308	Lose Martial Darts by 1 point 30 times
+309	Lose Martial Darts by 1 point 60 times
+310	Achieve the goal score in Martial Darts 10 times
+311	Achieve the goal score in Martial Darts 30 times
+312	Achieve the goal score in Martial Darts 60 times
+313	Disqualified from Martial Darts for exceeding the goal score 10 times
+314	Disqualified from Martial Darts for exceeding the goal score 30 times
+315	You earned all the achievements for the Martial Darts!
+316	Play free-for-all (2 players) Shooting Gallery 10 times
+317	Play free-for-all (2 players) Shooting Gallery 50 times
+318	Play free-for-all (2 players) Shooting Gallery 100 times
+319	Play free-for-all (2 players) Shooting Gallery 200 times
+320	Play free-for-all (2 players) Shooting Gallery 300 times
+321	Win free-for-all (2 players) Shooting Gallery 10 times
+322	Win free-for-all (2 players) Shooting Gallery 50 times
+323	Win free-for-all (2 players) Shooting Gallery 100 times
+324	Win free-for-all (2 players) Shooting Gallery 150 times
+325	Lose free-for-all (2 players) Shooting Gallery 10 times
+326	Lose free-for-all (2 players) Shooting Gallery 50 times
+327	Lose free-for-all (2 players) Shooting Gallery 100 times
+328	Win Shooting Gallery by 100 points 10 times
+329	Win Shooting Gallery by 100 points 30 times
+330	Win Shooting Gallery by 100 points 100 times
+331	Lose Shooting Gallery by 100 points 10 times
+332	Lose Shooting Gallery by 100 points 60 times
+333	Achieve 1,900+ points In Shooting Gallery 10 times
+334	Achieve 1,900+ points In Shooting Gallery 30 times
+335	You earned all the achievements for the Shooting Gallery!
+336	Play single-target Clobbermeister 50 times
+337	Play single-target Clobbermeister 100 times
+338	Play single-target Clobbermeister 150 times
+339	Play single-target Clobbermeister 200 times
+340	Play multi-target Clobbermeister 10 times
+341	Play multi-target Clobbermeister 50 times
+342	Play multi-target Clobbermeister 100 times
+343	You earned all the achievements for Clobbermeister!
+344	Play free-for-all Tail Chasers 10 times
+345	Play free-for-all Tail Chasers 50 times
+346	Play free-for-all Tail Chasers 100 times
+347	Play free-for-all Tail Chasers 150 times
+348	Play free-for-all Tail Chasers 200 times
+349	Play team Tail Chasers 10 times
+350	Play team Tail Chasers 50 times
+351	Play team Tail Chasers 100 times
+352	Win free-for-all Tail Chasers 10 times
+353	Win free-for-all Tail Chasers 50 times
+354	Win free-for-all Tail Chasers 100 times
+355	Win team Tail Chasers 10 times
+356	Win team Tail Chasers 50 times
+357	Lose free-for-all Tail Chasers 10 times
+358	Lose free-for-all Tail Chasers 50 times
+359	Lose team Tail Chasers 10 times
+360	Use each of the items below at least once in Tail Chasers across any number of plays
+361	Win Tail Chasers without using any of the items below across any number of plays
+362	Play Tail Chasers with the Close Combat Talent 10 times
+363	Play Tail Chasers with the Close Combat Talent 30 times
+364	Play Tail Chasers with the Close Combat Talent 60 times
+365	Play Tail Chasers with the Archer Talent 10 times
+366	Play Tail Chasers with the Archer Talent 30 times
+367	Play Tail Chasers with the Archer Talent 60 times
+368	Play Tail Chasers with the Mage Talent 10 times
+369	Play Tail Chasers with the Mage Talent 30 times
+370	Play Tail Chasers with the Mage Talent 60 times
+371	You earned all the achievements for Tail Chasers!
+372	Play Lorraine's Nightmare 10 times
+373	Play Lorraine's Nightmare 50 times
+374	Play Lorraine's Nightmare 100 times
+375	Play Lorraine's Nightmare 200 times
+376	Play Lorraine's Nightmare 300 times
+377	Purchase 10 items in Lorraine's Nightmare
+378	Purchase 50 items in Lorraine's Nightmare
+379	Purchase 100 items in Lorraine's Nightmare
+380	Purchase 300 items in Lorraine's Nightmare
+381	Purchase 500 items in Lorraine's Nightmare
+382	Purchase 10 skills in Lorraine's Nightmare
+383	Purchase 50 skills in Lorraine's Nightmare
+384	Purchase 100 skills in Lorraine's Nightmare
+385	Purchase 300 skills in Lorraine's Nightmare
+386	Purchase 500 skills in Lorraine's Nightmare
+387	Play Lorraine's Nightmare with the Close Combat Talent
+388	Play Lorraine's Nightmare with the Mage Talent
+389	Play Crystal Defender 10 times
+390	Play Crystal Defender 50 times
+391	Play Crystal Defender 100 times
+392	Play Crystal Defender 200 times
+393	Play Crystal Defender 300 times
+394	You earned all the achievements for Crystal Defender!
+395	Times Accessed with Enter Button
+396	Play Count
+397	Play Count
+398	Play Count
+399	Play Count
+400	Play Count
+401	Play Count
+402	Play Count
+403	Win Percentage
+404	Win Percentage
+405	Win Percentage
+406	Win Percentage
+407	Highest Ranked Score
+408	Highest Ranked Score
+409	Highest Ranked Score
+410	Highest Ranked Score
+411	Highest Ranked Score
+412	Highest Ranked Score
+413	Highest Ranked Score
+414	RegionEnter(5017);
+415	UseLandmarkexp(100);
+416	UseLandmarkcondition(385);
+417	PlayCount(1);
+418	UseRoulette(10);
+419	UseRoulette(50);
+420	UseRoulette(100);
+421	UseRoulette(200);
+422	UseRoulette(300);
+423	QuestComplete(30554,10);
+424	QuestComplete(30554,50);
+425	QuestComplete(30554,100);
+426	QuestComplete(30554,200);
+427	QuestComplete(30554,300);
+428	AchievementPoint(100);
+429	AchievementPoint(300);
+430	AchievementPoint(500);
+431	AchievementPoint(1000);
+432	AchievementPoint(2000);
+433	AchievementPoint(3000);
+434	AchievementPoint(4000);
+435	AchievementPoint(5000);
+436	PlayCount(10);
+437	PlayCount(20);
+438	PlayCount(10);
+439	PlayCount(20);
+440	QuestComplete(30550,1);
+441	QuestComplete(30548,10);
+442	QuestComplete(30548,20);
+443	GetAchievement(1000);GetAchievement(1001);GetAchievement(1002);GetAchievement(1003);GetAchievement(1004);GetAchievement(1005);GetAchievement(1006)
+444	PlayCount(10);
+445	PlayCount(50);
+446	PlayCount(100);
+447	PlayCount(150);
+448	PlayCount(200);
+449	PlayCount(10);
+450	PlayCount(50);
+451	PlayCount(100);
+452	WinPlay(10);
+453	WinPlay(50);
+454	WinPlay(100);
+455	WinPlay(10);
+456	WinPlay(50);
+457	LosePlay(10);
+458	LosePlay(50);
+459	LosePlay(10);
+460	WinScore(100, 10);
+461	WinScore(100, 30);
+462	WinScore(100, 60);
+463	WinScore(100, 100);
+464	LoseScore(100, 10);
+465	LoseScore(100, 30);
+466	LoseScore(100, 60);
+467	OverScore(1000, 10);
+468	OverScore(1000, 30);
+469	OverScore(1000, 60);
+470	OverScore(1000, 100);
+471	GetAchievement(2100);GetAchievement(2101);GetAchievement(2102);GetAchievement(2103);GetAchievement(2104);GetAchievement(2105);GetAchievement(2106);GetAchievement(2107);GetAchievement(2108);GetAchievement(2109);GetAchievement(2110);GetAchievement(2111);GetAchievement(2112);GetAchievement(2113);GetAchievement(2114);GetAchievement(2115);GetAchievement(2116);GetAchievement(2117);GetAchievement(2118);GetAchievement(2119);GetAchievement(2120);GetAchievement(2121);GetAchievement(2122);GetAchievement(2123);GetAchievement(2124);GetAchievement(2125);GetAchievement(2126)
+472	PlayCount(10);
+473	PlayCount(50);
+474	PlayCount(100);
+475	PlayCount(150);
+476	PlayCount(200);
+477	PlayCount(10);
+478	PlayCount(50);
+479	PlayCount(100);
+480	WinPlay(10);
+481	WinPlay(50);
+482	WinPlay(100);
+483	WinPlay(10);
+484	WinPlay(50);
+485	LosePlay(10);
+486	LosePlay(50);
+487	LosePlay(10);
+488	WinScore(1, 10);
+489	WinScore(1, 30);
+490	WinScore(1, 60);
+491	WinScore(1, 100);
+492	LoseScore(1, 10);
+493	LoseScore(1, 30);
+494	LoseScore(1, 60);
+495	DartSuccessScore(10);
+496	DartSuccessScore(30);
+497	DartSuccessScore(60);
+498	DartFailScore(10);
+499	DartFailScore(30);
+500	GetAchievement(2200);GetAchievement(2201);GetAchievement(2202);GetAchievement(2203);GetAchievement(2204);GetAchievement(2205);GetAchievement(2206);GetAchievement(2207);GetAchievement(2208);GetAchievement(2209);GetAchievement(2210);GetAchievement(2211);GetAchievement(2212);GetAchievement(2213);GetAchievement(2214);GetAchievement(2215);GetAchievement(2216);GetAchievement(2217);GetAchievement(2218);GetAchievement(2219);GetAchievement(2220);GetAchievement(2221);GetAchievement(2222);GetAchievement(2223);GetAchievement(2224);GetAchievement(2225);GetAchievement(2226);GetAchievement(2227)
+501	PlayCount(10);
+502	PlayCount(50);
+503	PlayCount(100);
+504	PlayCount(200);
+505	PlayCount(300);
+506	WinPlay(10);
+507	WinPlay(50);
+508	WinPlay(100);
+509	WinPlay(150);
+510	LosePlay(10);
+511	LosePlay(50);
+512	LosePlay(100);
+513	WinScore(100, 10);
+514	WinScore(100, 30);
+515	WinScore(100, 100);
+516	LoseScore(100, 10);
+517	LoseScore(100, 60);
+518	OverScore(1900, 10);
+519	OverScore(1900, 30);
+520	GetAchievement(2300);GetAchievement(2301);GetAchievement(2302);GetAchievement(2303);GetAchievement(2304);GetAchievement(2305);GetAchievement(2306);GetAchievement(2307);GetAchievement(2308);GetAchievement(2309);GetAchievement(2310);GetAchievement(2311);GetAchievement(2312);GetAchievement(2313);GetAchievement(2314);GetAchievement(2315);GetAchievement(2316);GetAchievement(2317);GetAchievement(2318)
+521	PlayCount(50);
+522	PlayCount(100);
+523	PlayCount(150);
+524	PlayCount(200);
+525	PlayCount(10);
+526	PlayCount(50);
+527	PlayCount(100);
+528	GetAchievement(2400);GetAchievement(2401);GetAchievement(2402);GetAchievement(2403);GetAchievement(2404);GetAchievement(2405);GetAchievement(2406)
+529	PlayCount(10);
+530	PlayCount(50);
+531	PlayCount(100);
+532	PlayCount(150);
+533	PlayCount(200);
+534	PlayCount(10);
+535	PlayCount(50);
+536	PlayCount(100);
+537	WinPlay(10);
+538	WinPlay(50);
+539	WinPlay(100);
+540	WinPlay(10);
+541	WinPlay(50);
+542	LosePlay(10);
+543	LosePlay(50);
+544	LosePlay(10);
+545	UseItem(65062,"Infinite Dungeon Magic Trap Mine");UseItem(65063,"Infinite Dungeon Magic Trap Bomb B");UseItem(73246,"Infinite Dungeon Speed Walk Potion");UseItem(73247,"Infinite Dungeon Super Speed Walk Potion");UseItem(73248,"Infinite Dungeon Power Potion");UseItem(73249,"Infinite Dungeon Defense Boost Potion");UseItem(73250,"Infinite Dungeon Potential Boost Potion");
+546	NotUseItem(65062,"Infinite Dungeon Magic Trap Mine");NotUseItem(65063,"Infinite Dungeon Magic Trap Bomb B");NotUseItem(73246,"Infinite Dungeon Speed Walk Potion");NotUseItem(73247,"Infinite Dungeon Super Speed Walk Potion");NotUseItem(73248,"Infinite Dungeon Power Potion");NotUseItem(73249,"Infinite Dungeon Defense Boost Potion");NotUseItem(73250,"Infinite Dungeon Potential Boost Potion");
+547	JobSelect(1, 10);
+548	JobSelect(1, 30);
+549	JobSelect(1, 60);
+550	JobSelect(2, 10);
+551	JobSelect(2, 30);
+552	JobSelect(2, 60);
+553	JobSelect(3, 10);
+554	JobSelect(3, 30);
+555	JobSelect(3, 60);
+556	GetAchievement(2500);GetAchievement(2501);GetAchievement(2502);GetAchievement(2503);GetAchievement(2504);GetAchievement(2505);GetAchievement(2506);GetAchievement(2507);GetAchievement(2508);GetAchievement(2509);GetAchievement(2510);GetAchievement(2511);GetAchievement(2512);GetAchievement(2513);GetAchievement(2514);GetAchievement(2515);GetAchievement(2516);GetAchievement(2518);GetAchievement(2519);GetAchievement(2520);GetAchievement(2521);GetAchievement(2522);GetAchievement(2523);GetAchievement(2524);GetAchievement(2525);GetAchievement(2526)
+557	PlayCount(10);
+558	PlayCount(50);
+559	PlayCount(100);
+560	PlayCount(200);
+561	PlayCount(300);
+562	BuyItem(10);
+563	BuyItem(50);
+564	BuyItem(100);
+565	BuyItem(300);
+566	BuyItem(500);
+567	BuySkill(10);
+568	BuySkill(50);
+569	BuySkill(100);
+570	BuySkill(300);
+571	BuySkill(500);
+572	JobSelect(1, 1);
+573	JobSelect(2, 1);
+574	PlayCount(10);
+575	PlayCount(50);
+576	PlayCount(100);
+577	PlayCount(200);
+578	PlayCount(300);
+579	GetAchievement(2700);GetAchievement(2701);GetAchievement(2702);GetAchievement(2703);GetAchievement(2704)
+580	FestiaEnter;
+581	ConditionValue(26,10,1);ConditionValue(26,10,2);ConditionValue(26,10,3);ConditionValue(26,10,4);ConditionValue(26,10,5);
+582	Fortune;
+583	Fortune;
+584	Fortune;
+585	Fortune;
+586	Fortune;
+587	ConditionValue(5,999,999);
+588	ConditionValue(6,999,999,385);
+589	ConditionValue(7,999,999);
+590	ConditionValue(29,1,0);
+591	ConditionValue(29,2,0);
+592	ConditionValue(29,3,1);
+593	ConditionValue(29,4,0);
+594	ConditionValue(29,5,0);
+595	ConditionValue(29,6,1);
+596	ConditionValue(29,7,0);
+597	WinningRate(1,1);WinningRate(1,2);
+598	WinningRate(2,1);WinningRate(2,2);
+599	WinningRate(3,1);
+600	WinningRate(5,1);WinningRate(5,2);
+601	ConditionValue(24,1,0);
+602	ConditionValue(24,2,0);
+603	ConditionValue(24,3,0);
+604	ConditionValue(24,4,1);
+605	ConditionValue(24,4,2);
+606	ConditionValue(24,6,0);
+607	ConditionValue(24,7,0);
+608	Milletian's Dirty Work - Archery Talent Episode
+609	Milletian's Dirty Work - Battle Alchemy Talent Episode
+610	Milletian's Dirty Work - Martial Arts Talent Episode
+611	Milletian's Dirty Work - Music Talent Episode
+612	Milletian's Dirty Work - Puppetry Talent Episode
+613	Milletian's Dirty Work - Lance Combat Talent Episode
+614	Milletian's Dirty Work - Gunslinger Talent Episode
+615	Milletian's Dirty Work - Ninja Talent Episode
+616	A Dream Within a Dream
+617	Play Lorraine's Nightmare with the Archery Talent
+618	Play Lorraine's Nightmare with the Battle Alchemy Talent
+619	Play Lorraine's Nightmare with the Martial Arts Talent
+620	Play Lorraine's Nightmare with the Music Talent
+621	Play Lorraine's Nightmare with the Puppetry Talent
+622	Play Lorraine's Nightmare with the Lance Combat Talent
+623	Play Lorraine's Nightmare with the Gunslinger Talent
+624	Play Lorraine's Nightmare with the Ninja Talent
+625	You earned all the achievements for Lorraine's Nightmare!
+626	JobSelect(3, 1);
+627	JobSelect(4, 1);
+628	JobSelect(5, 1);
+629	JobSelect(6, 1);
+630	JobSelect(7, 1);
+631	JobSelect(8, 1);
+632	JobSelect(9, 1);
+633	JobSelect(10, 1);
+634	GetAchievement(2600);GetAchievement(2601);GetAchievement(2602);GetAchievement(2603);GetAchievement(2604);GetAchievement(2605);GetAchievement(2606);GetAchievement(2607);GetAchievement(2608);GetAchievement(2609);GetAchievement(2610);GetAchievement(2611);GetAchievement(2612);GetAchievement(2613);GetAchievement(2614);GetAchievement(2615);GetAchievement(2616);GetAchievement(2617);GetAchievement(2618);GetAchievement(2619);GetAchievement(2620);GetAchievement(2621);GetAchievement(2622);GetAchievement(2623);GetAchievement(2624);
+635	HistoryPlayCount
+636	HistoryWinPlay
+637	HistoryLosePlay
+638	Shoot! Shoot! Shoot!
+639	Reward: AP 50 Potion\nwho Took the Plunge 1st Title
+640	Reward: AP 100 Potion\nthe Point Hunter 1st Title
+641	Reward: Fez Whistle\nthe Most Determined 1st Title
+642	Reward: Tia Whistle\nthe Rambunctious 1st Title
+643	Reward: Festia Merchant Outfit (M)\nthe Relentless 1st Title
+644	Reward: Festia Merchant Outfit (F)\nthe Legendariest 1st Title
+645	Reward: Festia Merchant Wig (M)\nwho Knows No Bounds 1st Title
+646	Reward: Festia Merchant Wig (F)\nthe Champion of Festia 1st Title
+647	Reward: Festia Merchant Gloves (F)\nwith an Iron Grip 1st Title
+648	Reward: Festia Merchant Shoes (M)\nwho Rides the Wind 1st Title
+649	Reward: Festia Merchant Shoes (F)\nthe Crackshot 1st Title
+650	Reward: Festia Merchant Hat and Wig (F)\nthe Fist Puncher 1st Title
+651	Reward: Festia Merchant Hat and Wig (M)\nwith Grabby Hands 1st Title
+652	Reward: Fez Doll Bag Coupon\nthe Dreamcatcher 1st Title
+653	Reward: Tia Doll Bag Coupon\nthe Defender of the Galaxy 1st Title

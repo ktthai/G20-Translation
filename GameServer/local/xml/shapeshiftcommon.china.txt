@@ -1,0 +1,2118 @@
+﻿0	White Seal
+1	Fox
+2	Raccoon
+3	Armadillo
+4	Spider
+5	Rat
+6	Kiwi
+7	Chick
+8	White Rabbit
+9	Wolf
+10	Jindo
+11	Hen
+12	Bat
+13	Mimic
+14	Wild Horse
+15	Wisp
+16	Dire Wolf
+17	Goblin
+18	Coyote
+19	Kobold
+20	Plateau Wild Boar
+21	Shadow Fighter
+22	Bandit Imp
+23	Bear
+24	Pumpkin
+25	Lost Cat
+26	Physis Fox
+27	Boar
+28	Imp
+29	Gremlin
+30	Shadow Lancer
+31	Bandit Goblin
+32	Labrador Retriever
+33	Wicked Penguin
+34	Skeleton
+35	Aardvark
+36	Rat Man
+37	Bandit Human
+38	Lightning Sprite
+39	Flying Sword
+40	Grizzly Bear
+41	Jackal
+42	Porcupine
+43	Mongoose
+44	Shadow Shire
+45	Bone Fighter
+46	Mini Skeleton
+47	Dog
+48	Blue-footed Booby
+49	Bandit Giant
+50	Crag Cow
+51	Ice Sprite
+52	Water Buffalo
+53	Grumbill
+55	Sahagin Fighter
+56	Zombie
+57	Shadow Warrior
+58	Bone Lancer
+59	Golden Retriever
+61	Iguana
+62	Arat Deer
+63	Fennec Fox
+64	Stripeless Hyena
+65	Fire Sprite
+66	Zebra
+67	Snake
+68	Poisonous Snake
+69	Corrupt Alchemist
+70	Zombie Soldier
+71	Sahagin Warrior
+72	Eagle Owl
+73	Stone Mimic
+74	Unicorn
+75	Stone Bison
+76	Pot Warrior
+77	Werewolf
+78	Spiked Worm
+79	Ghoul
+80	Skeleton Wolf
+81	Ant Lion
+82	Fighter Slate
+83	Hellhound
+84	Alligator
+85	Snowfield Bear
+86	Spider Wasp
+87	Gnoll
+88	Dalmatian
+89	Snowy Owl
+90	Milk Cow
+91	Dingo
+92	Cave Rat
+93	Capybara
+94	Otter
+95	Bush Boar
+96	Stone Zombie
+97	Short Horn Gnu
+99	Desert Rhino
+100	Beetle
+101	Shadow Commander
+102	Basilisk
+103	Snowfield Spider
+104	Maned Hyena
+105	Phantom Mask
+106	Tarantula
+107	Jungle Millipede
+108	Shadow Ghost
+109	Python Shaman
+110	Desert Spider
+111	Trade Assistant Goblin
+112	Bull
+113	Pot-Belly Spider
+114	Sand Millipede
+115	Ostrich
+116	Sulfur Spider
+117	Python Soldier
+118	Ghost Armor
+119	Striped Hyena
+120	Spike Laghodessa
+121	Stone Imp
+123	Pawn
+124	Long Horn Gnu
+125	Light Gargoyle
+126	Mummy Servant
+127	Hobgoblin Warrior
+128	Ghost Cloaker
+129	Golem
+130	Rooster
+131	Masked Goblin
+132	Aonbharr
+133	Blind Crab
+134	Cave Millipede
+135	Llama
+136	Stone Hound
+137	Forest Mushroom Spider
+138	Goblin Keeper
+139	Doe
+140	Shadow Dog
+141	Dragonfly
+142	Coffin Mimic
+143	Cactus Lizard
+144	Cobra
+145	Hobgoblin Grenadier
+146	Specter Fighter
+147	Lion
+148	Bandit Boss Ogre
+149	Cloaker
+150	Bandersnatch
+151	Scorpion
+152	Ice Hyena
+153	Snowfield Ostrich
+154	Phantom Tableware
+155	Buck
+156	Sand Mimic
+157	Candle Spider
+158	Reindeer
+159	Ice Mimic
+160	Chon Chon
+161	Ice Bison
+162	Buffalo
+163	Ice Bear
+164	Bandit Boss Human
+165	Goblin Swordsman
+166	Bishop
+167	Gold Mask Ghost
+168	Armored Skeleton
+169	Queen Slate
+170	Specter Warrior
+171	Ornata Spider
+172	Glowing Stone Hound
+173	Glowing Stone Imp
+174	Spider Fighter
+175	Grendel
+176	Wight
+177	New Gremlin
+179	"Zippy" Nipmore
+180	Wild Troll
+181	Tiger
+182	Mountain Sheep
+183	Forest Lizard
+184	Prison Ghost
+185	Anteater
+186	Scarecrow
+187	Stone Mask
+188	Chandelier Spider
+189	Sickle Laghodessa
+190	Lynx
+191	Python
+192	Candle Warrior
+193	Gorgon
+194	Stone Horse
+195	Shrieker
+196	Forest Golem
+197	Connous Lizard
+198	Sheep Wolf
+199	Volcano Horned Wild Boar
+200	Horse Sprite
+201	Piked Horn Deer
+202	Lost Sahagin
+203	Snow Zombie
+204	Skeleton Laghodessa
+205	King Slate
+206	Hobgoblin Exorcist
+207	Goblin Sword Master
+208	Brown Ghost Servant
+209	Stone Gargoyle
+210	Guardian Horse of Ruins
+211	Feral Boar
+212	Beetle Wolf
+213	Giant Hornet
+214	Sea Troll
+215	Cobweb Mummy
+216	River Sahagin Fighter
+217	Salamander
+218	Giant Firefly
+219	Hellcat
+220	Bomb Steed
+221	Ghost
+222	Prison Zombie
+223	Tabhartas
+224	White Tiger Cub
+225	Nubes Wild Dog
+226	Snow Imp
+227	Sarracenia
+228	Armor Hound
+229	Stag Beetle
+230	Skeleton Hellhound
+231	Desert Bear
+232	Pack Elephant
+233	Skeleton Ghost
+234	Saturos
+235	Bear Sprite
+236	Stone Horse Keeper
+237	Manchurian Bear
+238	Fenrir
+239	Troll
+240	Volcano Lizard
+241	Horn Cobra
+242	Skeleton Armor Ogre
+243	Lycanthrope
+244	Black Panther
+246	Skeleton Full Armor Ogre
+247	Ogre Executioner
+248	Rook
+249	Glowing Pot-Belly Spider
+250	Mirror Witch
+251	Feral Wolf
+252	Lizard Witch
+253	Glowing Stone Zombie
+254	Heavy Gargoyle
+255	Panther
+256	Cyclops
+257	Argus
+258	Bug Bear
+259	Ogre Warrior
+260	Cave Sahagin Warrior
+261	Hollow Knight
+262	Glowing Stone Gargoyle
+263	Ruins Guardian
+264	Giant Gold Spider
+265	Blue Dragon
+266	"Horrifying" Herbert
+267	Little Ghost
+269	Leprechaun
+270	Cave Masked Goblin
+271	Snow Troll
+272	Hell Steed
+273	Keep Hound
+274	Big-Horned Deer
+275	Goblin Hunter
+276	Wolf Sprite
+277	Skeleton Ogre
+278	Hippo
+279	Skeleton Squad
+280	Pirate Skeleton
+281	Magic Golem
+282	Snow Golem
+283	Castle Wall Golem
+284	Specter Leader
+285	Dullahan
+286	Sulfur Golem
+287	Balrog
+288	Head Hyena
+289	Arachne
+290	Armored Bear
+291	Crystal Golem
+292	"No-Face" Nelson
+293	Incubus
+294	Wendigo
+295	Succubus
+296	Glowing Stone Bison
+297	Ruins Gargoyle
+298	Siren
+299	Giant Headless
+300	Ghast
+301	Amethyst Golem
+302	Banshee
+303	Demi Lich
+304	Prairie Dragon
+305	Giant Alligator
+306	Desert Dragon
+307	Arc Lich
+308	Master Lich
+618	Portia
+619	Eirawen
+620	Huw
+621	Ferghus
+622	Human Scathach
+623	Portia
+624	Eirawen
+625	Huw
+626	Ferghus
+627	Human Scathach
+701	Shadow Wizard (F)
+702	Elsinore Rat
+703	Ixion
+704	Shadow Wizard (M)
+705	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+706	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+707	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+708	Frequently found in the fields of Tir Chonaill. They live in herds.
+709	Frequently found in the fields of Tir Chonaill. They live in herds.
+710	Frequently found in Connous. They live in herds.
+711	Frequently found in the fields and dungeons of Tir Chonaill. They can also produce cobwebs.
+712	Can be easily encountered in any dungeon.
+713	Roams the fields and forests of Iria. It can also be found on the coasts of Connous.
+714	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+715	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+716	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+717	Found throughout Uladh.
+718	Can be easily encountered in any dungeon.
+719	Can be easily encountered in any dungeon.
+720	Can be easily encountered in any dungeon.
+721	Found throughout Uladh.
+722	Can be easily encountered in any dungeon.
+723	Found throughout Uladh.
+724	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+725	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+726	Can be easily encountered in any dungeon.
+727	Found throughout Uladh.
+728	Easily found in the Shadow Realm of Taillteann.
+729	An unwelcome guest you can encounter while engaging in Commerce. They lie in wait along common trade routes.
+730	Found throughout Uladh.
+731	Easily found in the Physis snowfield.
+732	Found throughout Uladh.
+733	The most common Imp. You can encounter it at Barri Dungeon in Bangor.
+734	Can be easily encountered in any dungeon.
+735	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+736	Easily found in the Shadow Realm of Taillteann.
+737	An unwelcome guest you can encounter while engaging in Commerce. They lie in wait along common trade routes.
+738	You can encounter it in the Par Ruins.
+739	Can be easily encountered in any dungeon.
+740	Includes all the animals of the Aardvark group. Frequently encountered at the Rano plains near Port Qilla. Aardvarks such as the Big-eared Aardvark can be found near the Maiz Prairie Ruins.
+741	Though it can be found throughout the dungeons of Uladh, they say that it is especially common at Ciar Dungeon.
+742	An unwelcome guest you can encounter while engaging in Commerce. They lie in wait along common trade routes.
+743	They say that you can frequently encounter it at Coill Dungeon in Emain Macha.
+744	You can frequently encounter it at dungeons such as Rundal, Barri, and Coill.
+745	Found throughout Uladh.
+746	Can be mainly seen at Fiodh Dungeon in Gairech. It is also known to live in Courcle.
+747	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+748	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+749	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+750	Known to inhabit the areas around the coast and towns of Connous.
+751	Inhabits the Rano Plains and Connous.
+752	Easily found in the Shadow Realm of Taillteann.
+753	Easily found in the Shadow Realm of Tara.
+754	An unwelcome guest you can encounter while engaging in Commerce. They lie in wait along common trade routes.
+755	Found in the Shadow Realm of Taillteann.
+756	Frequently encountered at Math Dungeon and Coill Dungeon.
+757	Inhabits Courcle.
+758	Easily found in the Shadow Realm of Taillteann.
+759	Encountered at Rundal Dungeon in Emain Macha.
+760	The most common zombie. Encountered at the Shadow Realm of Tara.
+761	Easily found in the Shadow Realm of Taillteann.
+762	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+763	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+764	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+765	Easily found in the Shadow Realm of Taillteann.
+766	Easily found in the Shadow Realm of Tara.
+767	Encountered during Avon Theatre Missions.
+768	Found in the Shadow Realm of Taillteann.
+769	Generally inhabits Connous and the Rano Plains.
+770	Known to inhabit Iria's deserts.
+771	They say that you can frequently encounter it at Coill Dungeon in Emain Macha.
+772	Frequently encountered in every dungeon.
+773	Encountered at Fiodh and Coill Dungeon.
+774	Found in the Shadow Realm of Tara.
+775	Found in the Shadow Realm of Tara.
+776	Encountered at Rundal Dungeon in Emain Macha.
+777	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+778	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+779	Can be encountered at the Karu Forest Ruins.
+780	Encountered at the Karu Forest Ruins.
+781	Encountered at the Dugald Castle Dungeon.
+782	Encountered at Alby, Fiodh, and Coill Dungeons.
+783	Inhabits Barri Dungeon in Bangor.
+784	Frequently encountered at Peaca Dungeon on the Sen Mag Plains.
+785	Encountered in the southern parts of Gairech, as well as at Rundal and Rabbie Dungeons.
+786	Encountered in the Underground Maze and the tunnel system of Nubes.
+787	Encountered at the Maiz Prairie Ruins.
+788	Encountered at Math Dungeon in Dunbarton.
+789	Inhabits Courcle.
+790	Encountered in Physis.
+791	Encountered at Alby Dungeon.
+792	Encountered at Rundal Dungeon.
+793	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+794	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+795	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+796	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+797	Encountered in Physis.
+798	Encountered at Fiodh Advanced Dungeon.
+799	Encountered in the volcanic region.
+800	Inhabits the deserts and forests of Iria.
+801	Encountered at the Karu Forest Ruins.
+802	Inhabits the Rano Plains.
+803	Encountered in the fields of Zardine.
+804	Encountered in Connous.
+805	Can be encountered at the Longa Desert Ruins.
+806	Easily found in the Shadow Realm of Taillteann.
+807	Easily found in the Shadow Realm of Taillteann.
+808	Encountered during Avon Theatre Missions.
+809	Inhabits the Iria's deserts and Courcle.
+810	Encountered at the Dugald Castle Dungeon.
+811	Inhabits Courcle.
+812	Inhabits Courcle.
+813	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+814	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+815	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+816	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+818	Easily found in the Shadow Realm of Tara.
+819	Easily found in the Shadow Realm of Tara.
+820	Easily found in the Shadow Realm of Tara.
+821	Known to inhabit Iria's deserts.
+822	Encountered at the Karu Forest Ruins.
+823	Encountered in Connous.
+824	Easily found in the Shadow Realm of Tara.
+825	Easily found in the Shadow Realm of Tara.
+826	Inhabits the Iria's deserts and Courcle.
+827	Encountered at Ciar Dungeon.
+828	Encountered at the Karu Forest Ruins.
+829	Encountered at the Cuilin Castle Dungeon.
+830	Encountered at the Maiz Prairie Ruins.
+831	Encountered at the Longa Desert Ruins.
+832	Encountered at the Workshop of Courcle River.
+833	Encountered at Peaca Dungeon.
+834	Encountered at Ciar Dungeon.
+835	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+836	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+837	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+838	Encountered at the Karu Forest Ruins.
+839	Encountered in Falias.
+840	Encountered in the volcanic region.
+841	Inhabits the underground maze.
+842	Encountered in the Nubes Mountains.
+843	Encountered at the Karu Forest Ruins.
+844	Inhabits Iria's forests.
+845	Encountered in the Nubes tunnel system.
+846	Inhabits Courcle.
+847	Encountered at Peaca Dungeon.
+848	Inhabits Rano's fields and Iria's deserts.
+849	Inhabits Courcle.
+850	Encountered at the river workshop.
+851	Encountered in Castle Dungeons.
+852	Inhabits Courcle.
+853	An unwelcome guest you can encounter while engaging in Commerce. They lie in wait along common trade routes.
+854	Encountered at Peaca Dungeon.
+855	Encountered in the Par Ruins.
+856	Encountered in Connous.
+857	Encountered in the Par Ruins.
+858	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+859	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+860	Encountered in Physis.
+861	Encountered at the Sen Mag Castle Dungeon.
+862	Encountered at the Longa Desert Ruins.
+863	Encountered at the Sen Mag Castle Dungeon.
+864	Encountered in Physis.
+865	You can encounter it in the Par Ruins.
+866	Encountered at Barri Dungeon.
+867	Encountered in the Par Ruins.
+868	Inhabits Physis and Courcle.
+869	Encountered in the Par Ruins.
+870	An unwelcome guest you can encounter while engaging in Commerce. They lie in wait along common trade routes.
+871	Encountered at the Cuilin Castle Dungeon.
+872	Encountered at the Karu Forest Ruins.
+873	Encountered during Avon Theatre Missions.
+874	Encountered at the Maiz Prairie Ruins.
+875	Encountered in Castle Dungeons.
+876	Inhabits Scathach Beach.
+877	Encountered at the Karu Forest Ruins.
+878	Encountered at the Maiz Prairie Ruins.
+879	Encountered at Alby Dungeon.
+880	Encountered at Alby Dungeon.
+881	Encountered at Peaca Dungeon.
+882	Encountered at Barri Dungeon.
+883	An unwelcome guest you can encounter while engaging in Commerce. They lie in wait along common trade routes.
+884	Can be encountered at Scathach Beach.
+885	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+886	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+887	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+888	Encountered in the Nubes Mountains.
+889	Inhabits Rano Plains and Iria's forests.
+890	Occasionally witnessed in Iria.
+891	Encountered in the volcanic region.
+892	Encountered at the Longa Desert Ruins.
+893	Encountered at the Dugald Castle Dungeon.
+894	Encountered at Ciar Dungeon.
+895	Nubes Mountains, Courcle
+896	Encountered at the Longa Desert Ruins.
+897	Encountered at the Sen Mag Castle Dungeon.
+898	Encountered at Fiodh Dungeon.
+899	Encountered at the Karu Forest Ruins.
+900	Encountered in the Par Ruins.
+901	Found in the Shadow Realm of Tara.
+902	Encountered in Connous.
+903	Many have witnessed it at Osna Sail.
+904	Encountered in the volcanic region.
+905	Encountered at the Dugald Castle Dungeon.
+906	Encountered in the volcanic region.
+907	Encountered in Barri Dungeon.
+908	Encountered in the Par Ruins.
+909	Encountered at Rabbie Dungeon.
+910	Encountered at the Maiz Prairie Ruins.
+911	Encountered at the Workshop of Courcle River.
+912	Encountered at the Longa Desert Ruins.
+913	Encountered at the Maiz Prairie Ruins.
+914	Encountered at the Longa Desert Ruins.
+915	Can be encountered at Scathach Beach.
+916	Encountered at Alby Dungeon.
+917	Encountered at Scathach Beach.
+918	Encountered at Scathach Beach.
+919	Encountered at Alby Dungeon.
+920	Encountered at Scathach Beach.
+921	Encountered in the underground maze.
+922	Encountered at Peaca Dungeon.
+923	Encountered at Peaca Dungeon.
+924	Many stories have surfaced about this rare creature appearing in Iria. The one consistent part of the legend is that there was an Arc Lich next to a Bomb Steed...
+925	Encountered at Peaca Dungeon.
+926	Occasionally witnessed in Iria.
+927	Encountered during Avon Theatre Missions.
+928	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+929	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+930	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+931	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+932	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+933	Many stories have surfaced about this rare creature appearing in Iria.
+934	Encountered in the Nubes Mountains.
+935	Encountered in the Par Ruins.
+936	Encountered at the Magic Bean Dungeon.
+937	Encountered at the Longa Desert Ruins.
+938	Encountered in the volcanic region.
+939	Encountered at Math Fomor Dungeon.
+940	Encountered in Connous.
+941	Inhabits Courcle.
+942	Encountered at the Maiz Prairie Ruins.
+943	Encountered in the Nubes tunnel system.
+944	Encountered in Castle Dungeons.
+945	Encountered at the Karu Forest Ruins.
+946	Inhabits the Rano plains and Iria's deserts.
+947	Encountered at Math Fomor Dungeon.
+948	Encountered in the volcanic region.
+949	Encountered in Connous.
+950	Encountered during Avon Theatre Missions.
+951	Encountered at Rabbie Dungeon.
+952	Encountered in the volcanic region.
+953	Encountered at the Cuilin, Sen Mag, and Abb Neagh Castle Dungeons.
+954	Encountered at the Cuilin Castle Dungeon.
+955	Encountered at the Karu Forest Ruins.
+956	Encountered at Par Dungeon.
+957	Encountered at Scathach Beach.
+958	Encountered at the Longa Desert Ruins.
+959	Encountered at the Karu Forest Ruins.
+960	Encountered at Rundal Dungeon.
+961	Encountered at Rundal Dungeon and Fiodh Dungeons.
+962	Encountered at Ciar Dungeon.
+963	Encountered at Barri Dungeon.
+964	Encountered at Scathach Caverns.
+965	Encountered at Peaca Dungeon.
+966	Encountered at the Maiz Prairie Ruins.
+967	Encountered at the Longa Desert Ruins.
+968	Encountered at Alby Dungeon.
+969	An unwelcome guest you can encounter while engaging in Commerce. They lie in wait along common trade routes.
+970	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+971	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+972	Encountered during Avon Theatre Missions.
+973	Occasionally found in the Shadow Realm of Tara.
+974	Encountered in the underground maze.
+975	Encountered during Avon Theatre Missions.
+976	Found in the Shadow Realm of Tara.
+977	Encountered at the Dugald, Sen Mag, and Abb Neagh Castle Dungeons.
+978	Encountered in the volcanic region.
+979	Encountered at Barri Dungeon.
+980	Encountered in Castle Dungeons.
+981	Encountered at Rabbie Fomor Dungeon.
+982	Encountered at Rundal Dungeon.
+983	Encountered at Emerald Ruins, Topaz Ruins, and Amethyst Ruins Dungeon in Longa Desert.
+984	Easily found in the Shadow Realm of Tara.
+985	Encountered during Avon Theatre Missions.
+986	Encountered in Castle Dungeons.
+987	Found in the Shadow Realm of Tara.
+988	Easily found in the Shadow Realm of Tara.
+989	Encountered in the volcanic region.
+990	Inhabits Rano Muyu Desert.
+991	Rumored to appear at Alby Dungeon.
+992	Rumored to appear at Fiodh Dungeon.
+993	Rumored to appear at Scathach Beach.
+994	An unwelcome guest you can encounter while engaging in Commerce. They lie in wait along common trade routes.
+995	Rumored to appear in Castle Dungeons.
+996	Many stories have surfaced about this rare creature appearing in Iria.
+997	Many stories have surfaced about this rare creature appearing in Iria.
+998	Many stories have surfaced about this rare creature appearing in Iria.
+999	Rumored to appear in Par Dungeon.
+1000	Rumored to appear in Rabbie Dungeon.
+1001	Can be encountered at the Karu Forest Ruins.
+1002	Can be encountered at the Longa Desert Ruins.
+1003	Can be encountered at Rundal Siren Dungeon.
+1004	Rumored to appear at Coill Dungeon.
+1005	Can be encountered at Peaca Dungeon.
+1006	Can be encountered at Scathach Beach.
+1007	Can be encountered at Peaca Dungeon.
+1008	Can be encountered at Peaca Dungeon.
+1009	Occasionally witnessed in Iria.
+1010	Rumored to appear at Peaca Dungeon.
+1011	[Default Monster] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1452	Admiral Owen
+1453	Aeira
+1454	Aer
+1455	Agnes
+1456	Ailionoa
+1457	Aisling
+1458	Alexina
+1459	Alissa
+1460	Alpin
+1461	Andras
+1462	Annick
+1463	Antonio
+1464	Aodhan
+1465	Aranwen
+1466	Arenen
+1467	Arzhela
+1468	Ascon
+1469	Atrata
+1470	Austeyn
+1471	Trade Helper Goblin
+1472	Bassanio
+1473	Bebhinn
+1474	Belita
+1475	Bella
+1476	Berched
+1477	Bernardo
+1478	Beirnes
+1479	Brenda
+1480	Briana
+1481	Bryce
+1482	Buchanan
+1483	Cai
+1484	Caitin
+1485	Carasek
+1486	Castanea
+1487	Cichol
+1488	Claudius
+1489	Cliona
+1490	Collen
+1491	Colm
+1492	Comgan
+1493	Corentin
+1494	Craig
+1495	Mad Paris
+1497	Deian
+1498	Del
+1499	Delen
+1500	Devi
+1501	Dilys
+1502	Dorren
+1503	Dougal
+1504	Duncan
+1505	Eabha
+1506	Falias Gatekeeper
+1507	Eavan
+1508	Edern
+1509	Effie
+1510	Elain
+1511	Elatha
+1512	Elen
+1513	Eluned
+1514	Emain Macha Beggar
+1515	Endelyon
+1516	Eirawen
+1517	Erhard
+1518	Esras
+1519	Ethna
+1520	Fallon
+1521	Ferghus
+1522	Ffion
+1523	Finola
+1524	Fleta
+1525	Fraser
+1526	Galvin
+1527	Gertrude
+1528	Gilmore
+1529	Glenis
+1530	Glewyas
+1531	Golvan
+1532	Gordon
+1533	Goro
+1534	Granat
+1535	Granites
+1536	Trefor
+1537	Guildenstern
+1538	Hagel
+1539	Hamlet
+1540	Hans
+1541	Heledd
+1542	Helvetius
+1543	Heulfryn
+1544	Horatio
+1545	Huw
+1546	Ibbie
+1547	Ilsa
+1548	James
+1549	Jarlath
+1550	Jennifer
+1551	Jenna
+1552	Outdoorsy Jenna
+1553	Jocelin
+1554	Juliet
+1555	Karpfen
+1556	Kousai
+1557	Keith
+1558	Kelpie
+1559	Kirine
+1560	Kristell
+1561	Krug
+1562	Kusina
+1563	Laertes
+1564	Lanier
+1565	Lassar
+1566	Laurence
+1567	Lennox
+1568	Lepus
+1569	Leslie
+1570	Leymore
+1571	Lezarro
+1572	Lileas
+1573	Lorraine
+1574	Lucas
+1575	Lugh
+1576	Malcolm
+1577	Manus
+1578	Marcellus
+1579	Mari
+1580	Marlowe
+1581	Black Commander
+1582	Meles
+1583	Mercutio
+1584	Meriel
+1585	Meven
+1586	Mont
+1587	Morc
+1588	Mores
+1589	Morgant
+1590	Morrighan
+1591	Open-Eyed Morrighan
+1592	Muro
+1593	Myrddin
+1594	Nao
+1595	Neamhain
+1596	Nele
+1597	Nerys
+1598	Nessa
+1599	Nicca
+1600	Nora
+1601	Nuadha
+1602	Odran
+1603	Ophelia
+1604	Osla
+1605	Padan
+1606	Count Paris
+1607	Pencast
+1608	Pero
+1609	Petra
+1610	Coco
+1611	Piaras
+1612	Pierrick
+1613	Polonius
+1614	Portia
+1615	Price
+1616	Ranald
+1617	Redire
+1618	Rian
+1619	Riocard
+1620	Romeo
+1621	Rosencrantz
+1622	Rua
+1623	Ruairi
+1624	Robed Ruairi
+1625	Dark Ruairi
+1626	Shanon
+1627	Seumas
+1628	Skeleton Python Knight
+1629	Masked Python Knight
+1630	Shakespeare
+1631	Shena
+1632	Shylock
+1633	Sinead
+1634	Sion
+1635	Human Scathach
+1636	Witch Scathach
+1637	Stewart
+1638	Succubus Kristell
+1639	Transport Helper Ogre
+1640	Tarlach
+1641	Taunes
+1642	Tethra
+1643	Master Tin
+1644	Merchant Imp
+1645	Tracy
+1646	Triona
+1647	Tupai
+1648	Tybalt
+1649	Tyron
+1650	Vena
+1651	Voight
+1652	Walter
+1653	Waboka
+1654	Wyllow
+1655	Yoff
+1656	Yvona
+1657	Zeder
+1658	Use an NPC appearance card to collect this form.
+1659	Use an NPC appearance card to collect this form.
+1660	Use an NPC appearance card to collect this form.
+1661	Use an NPC appearance card to collect this form.
+1662	Use an NPC appearance card to collect this form.
+1663	Use an NPC appearance card to collect this form.
+1664	Use an NPC appearance card to collect this form.
+1665	Use an NPC appearance card to collect this form.
+1666	Use an NPC appearance card to collect this form.
+1667	Use an NPC appearance card to collect this form.
+1668	Use an NPC appearance card to collect this form.
+1669	Use an NPC appearance card to collect this form.
+1670	Use an NPC appearance card to collect this form.
+1671	Use an NPC appearance card to collect this form.
+1672	Use an NPC appearance card to collect this form.
+1673	Use an NPC appearance card to collect this form.
+1674	Use an NPC appearance card to collect this form.
+1675	Use an NPC appearance card to collect this form.
+1676	Use an NPC appearance card to collect this form.
+1677	Use an NPC appearance card to collect this form.
+1678	Use an NPC appearance card to collect this form.
+1679	Use an NPC appearance card to collect this form.
+1680	Use an NPC appearance card to collect this form.
+1681	Use an NPC appearance card to collect this form.
+1682	Use an NPC appearance card to collect this form.
+1683	Use an NPC appearance card to collect this form.
+1684	Use an NPC appearance card to collect this form.
+1685	Use an NPC appearance card to collect this form.
+1686	Use an NPC appearance card to collect this form.
+1687	Use an NPC appearance card to collect this form.
+1688	Use an NPC appearance card to collect this form.
+1689	Use an NPC appearance card to collect this form.
+1690	Use an NPC appearance card to collect this form.
+1691	Use an NPC appearance card to collect this form.
+1692	Use an NPC appearance card to collect this form.
+1693	Use an NPC appearance card to collect this form.
+1694	Use an NPC appearance card to collect this form.
+1695	Use an NPC appearance card to collect this form.
+1696	Use an NPC appearance card to collect this form.
+1697	Use an NPC appearance card to collect this form.
+1698	Use an NPC appearance card to collect this form.
+1699	Use an NPC appearance card to collect this form.
+1700	Use an NPC appearance card to collect this form.
+1701	Use an NPC appearance card to collect this form.
+1702	Use an NPC appearance card to collect this form.
+1703	Use an NPC appearance card to collect this form.
+1704	Use an NPC appearance card to collect this form.
+1705	Use an NPC appearance card to collect this form.
+1706	Use an NPC appearance card to collect this form.
+1707	Use an NPC appearance card to collect this form.
+1708	Use an NPC appearance card to collect this form.
+1709	Use an NPC appearance card to collect this form.
+1710	Use an NPC appearance card to collect this form.
+1711	Use an NPC appearance card to collect this form.
+1712	Use an NPC appearance card to collect this form.
+1713	Use an NPC appearance card to collect this form.
+1714	Use an NPC appearance card to collect this form.
+1715	Use an NPC appearance card to collect this form.
+1716	Use an NPC appearance card to collect this form.
+1717	Use an NPC appearance card to collect this form.
+1718	Use an NPC appearance card to collect this form.
+1719	Use an NPC appearance card to collect this form.
+1720	Use an NPC appearance card to collect this form.
+1721	Use an NPC appearance card to collect this form.
+1722	Use an NPC appearance card to collect this form.
+1723	Use an NPC appearance card to collect this form.
+1724	Use an NPC appearance card to collect this form.
+1725	Use an NPC appearance card to collect this form.
+1726	Use an NPC appearance card to collect this form.
+1727	Use an NPC appearance card to collect this form.
+1728	Use an NPC appearance card to collect this form.
+1729	Use an NPC appearance card to collect this form.
+1730	Use an NPC appearance card to collect this form.
+1731	Use an NPC appearance card to collect this form.
+1732	Use an NPC appearance card to collect this form.
+1733	Use an NPC appearance card to collect this form.
+1734	Use an NPC appearance card to collect this form.
+1735	Use an NPC appearance card to collect this form.
+1736	Use an NPC appearance card to collect this form.
+1737	Use an NPC appearance card to collect this form.
+1738	Use an NPC appearance card to collect this form.
+1739	Use an NPC appearance card to collect this form.
+1740	Use an NPC appearance card to collect this form.
+1741	Use an NPC appearance card to collect this form.
+1742	Use an NPC appearance card to collect this form.
+1743	Use an NPC appearance card to collect this form.
+1744	Use an NPC appearance card to collect this form.
+1745	Use an NPC appearance card to collect this form.
+1746	Use an NPC appearance card to collect this form.
+1747	Use an NPC appearance card to collect this form.
+1748	Use an NPC appearance card to collect this form.
+1749	Use an NPC appearance card to collect this form.
+1750	Use an NPC appearance card to collect this form.
+1751	Use an NPC appearance card to collect this form.
+1752	Use an NPC appearance card to collect this form.
+1753	Use an NPC appearance card to collect this form.
+1754	Use an NPC appearance card to collect this form.
+1755	Use an NPC appearance card to collect this form.
+1756	Use an NPC appearance card to collect this form.
+1757	Use an NPC appearance card to collect this form.
+1758	Use an NPC appearance card to collect this form.
+1759	Use an NPC appearance card to collect this form.
+1760	Use an NPC appearance card to collect this form.
+1761	Use an NPC appearance card to collect this form.
+1762	Use an NPC appearance card to collect this form.
+1763	Use an NPC appearance card to collect this form.
+1764	Use an NPC appearance card to collect this form.
+1765	Use an NPC appearance card to collect this form.
+1766	Use an NPC appearance card to collect this form.
+1767	Use an NPC appearance card to collect this form.
+1768	Use an NPC appearance card to collect this form.
+1769	Use an NPC appearance card to collect this form.
+1770	Use an NPC appearance card to collect this form.
+1771	Use an NPC appearance card to collect this form.
+1772	Use an NPC appearance card to collect this form.
+1773	Use an NPC appearance card to collect this form.
+1774	Use an NPC appearance card to collect this form.
+1775	Use an NPC appearance card to collect this form.
+1776	Use an NPC appearance card to collect this form.
+1777	Use an NPC appearance card to collect this form.
+1778	Use an NPC appearance card to collect this form.
+1779	Use an NPC appearance card to collect this form.
+1780	Use an NPC appearance card to collect this form.
+1781	Use an NPC appearance card to collect this form.
+1782	Use an NPC appearance card to collect this form.
+1783	Use an NPC appearance card to collect this form.
+1784	Use an NPC appearance card to collect this form.
+1785	Use an NPC appearance card to collect this form.
+1786	Use an NPC appearance card to collect this form.
+1787	Use an NPC appearance card to collect this form.
+1788	Use an NPC appearance card to collect this form.
+1789	Use an NPC appearance card to collect this form.
+1790	Use an NPC appearance card to collect this form.
+1791	Use an NPC appearance card to collect this form.
+1792	Use an NPC appearance card to collect this form.
+1793	Use an NPC appearance card to collect this form.
+1794	Use an NPC appearance card to collect this form.
+1795	Use an NPC appearance card to collect this form.
+1796	Use an NPC appearance card to collect this form.
+1797	Use an NPC appearance card to collect this form.
+1798	Use an NPC appearance card to collect this form.
+1799	Use an NPC appearance card to collect this form.
+1800	Use an NPC appearance card to collect this form.
+1801	Use an NPC appearance card to collect this form.
+1802	Use an NPC appearance card to collect this form.
+1803	Use an NPC appearance card to collect this form.
+1804	Use an NPC appearance card to collect this form.
+1805	Use an NPC appearance card to collect this form.
+1806	Use an NPC appearance card to collect this form.
+1807	Use an NPC appearance card to collect this form.
+1808	Use an NPC appearance card to collect this form.
+1809	Use an NPC appearance card to collect this form.
+1810	Use an NPC appearance card to collect this form.
+1811	Use an NPC appearance card to collect this form.
+1812	Use an NPC appearance card to collect this form.
+1813	Use an NPC appearance card to collect this form.
+1814	Use an NPC appearance card to collect this form.
+1815	Use an NPC appearance card to collect this form.
+1816	Use an NPC appearance card to collect this form.
+1817	Use an NPC appearance card to collect this form.
+1818	Use an NPC appearance card to collect this form.
+1819	Use an NPC appearance card to collect this form.
+1820	Use an NPC appearance card to collect this form.
+1821	Use an NPC appearance card to collect this form.
+1822	Use an NPC appearance card to collect this form.
+1823	Use an NPC appearance card to collect this form.
+1824	Use an NPC appearance card to collect this form.
+1825	Use an NPC appearance card to collect this form.
+1826	Use an NPC appearance card to collect this form.
+1827	Use an NPC appearance card to collect this form.
+1828	Use an NPC appearance card to collect this form.
+1829	Use an NPC appearance card to collect this form.
+1830	Use an NPC appearance card to collect this form.
+1831	Use an NPC appearance card to collect this form.
+1832	Use an NPC appearance card to collect this form.
+1833	Use an NPC appearance card to collect this form.
+1834	Use an NPC appearance card to collect this form.
+1835	Use an NPC appearance card to collect this form.
+1836	Use an NPC appearance card to collect this form.
+1837	Use an NPC appearance card to collect this form.
+1838	Use an NPC appearance card to collect this form.
+1839	Use an NPC appearance card to collect this form.
+1840	Use an NPC appearance card to collect this form.
+1841	Use an NPC appearance card to collect this form.
+1842	Use an NPC appearance card to collect this form.
+1843	Use an NPC appearance card to collect this form.
+1844	Use an NPC appearance card to collect this form.
+1845	Use an NPC appearance card to collect this form.
+1846	Use an NPC appearance card to collect this form.
+1847	Use an NPC appearance card to collect this form.
+1848	Use an NPC appearance card to collect this form.
+1849	Use an NPC appearance card to collect this form.
+1850	Use an NPC appearance card to collect this form.
+1851	Use an NPC appearance card to collect this form.
+1852	Use an NPC appearance card to collect this form.
+1853	Use an NPC appearance card to collect this form.
+1854	Use an NPC appearance card to collect this form.
+1855	Use an NPC appearance card to collect this form.
+1856	Use an NPC appearance card to collect this form.
+1857	Use an NPC appearance card to collect this form.
+1858	Use an NPC appearance card to collect this form.
+1859	Use an NPC appearance card to collect this form.
+1860	Use an NPC appearance card to collect this form.
+1861	Use an NPC appearance card to collect this form.
+1862	Use an NPC appearance card to collect this form.
+1863	Use an NPC appearance card to collect this form.
+1864	Sheep
+1865	Pig
+1866	Warg
+1867	Paper Sheep
+1868	Desert Ghost Fanatic
+1869	Desert Warrior Ghost
+1870	Dark Commander
+1871	Santa
+1872	Ghost Servant
+1873	Grim Reaper
+1874	Red Dragon
+1875	Turtle
+1876	Merrow
+1877	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1878	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1879	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1880	Foxes can be found all over Uladh. Foxes live in packs.
+1881	A cute, chubby animal that lives in central Uladh.
+1882	The armadillo's shell is hard like stone. Common in Connous.
+1883	The spider's web can be used with the Weaving skill. Spiders of all colors can be found throughout Uladh.
+1884	An animal found anywhere there are people. Since they're also common in dungeons, they probably live with the Fomors, too.
+1885	The Kiwi's short, stubby wings and long thin beak make it unique. Occasionally found in the remote parts of Rano and Connous. Lately, however, the Kiwi has been appearing near Cor Village.
+1886	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1887	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1888	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1889	Wolves are carnivorous pack animals. They can be found almost anywhere in Uladh. Likely to attack without provocation.
+1890	Bats are found deep in dungeons and caves. Do they fly or crawl?
+1891	The Mimic disguises itself as a treasure chest and attacks unsuspecting adventurers. Always open your treasure with care! Quite common in basic dungeons.
+1892	Just because you see a light in the forest, doesn't mean it's a person. Wisps float through the air and glow, but lack the wings of Sprites.
+1893	A common animal of Uladh. Hunts in packs.
+1894	Goblins are some of the weakest Fomors around. But don't underestimate them. There are a few that are abnormally powerful.
+1895	Found throughout Uladh, especially in Sidhe Sneachta.
+1896	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1897	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1898	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1899	A common dungeon enemy. Sometimes they form bandit gangs to attack towns. Occasionally work in the mines to earn an honest living. In spite of their lack of intelligence, they're very social.
+1900	Found throughout Uladh. Strong enough to thrive in the highlands.
+1901	Deals devastating damage with its well developed muscles. Commonly found in the Shadow Realm of Taillteann.
+1902	Giant carnivorous animals of varying size and colors. Common throughout the world, and one of the biggest land animals in existence.
+1903	It has thick fur to endure the cold. Common in the Physis Snowfield.
+1904	An ordinary Boar found throughout Uladh.
+1905	While Imps seem to exist with the sole purpose of irritating humans, they're difficult to hate. They're easily found in dungeons, and occasionally on the outskirts of Dunbarton.
+1906	A small, human-like monster with wings. They are rivals to the Imps and servants of the Golems. Regular Gremlins can be encountered in almost any dungeon.
+1907	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1908	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1909	Battles with a long lance. Easily found in the Shadow Realm of Taillteann.
+1910	Though the penguin cannot fly, it is a phenomenal swimmer. In the past, they could be found off the coast of Physis. Now they are only in the Par Ruins.
+1911	Unlike zombies, skeletons are propelled by evil magic since they have no muscles. Common in most dungeons.
+1912	Similar to a rat, but it walks on two legs. It can also talk and cast magic. Found in the dungeons of Uladh. Reports indicate that they're more common in Ciar Dungeon.
+1913	Sprites are similar to Wisps, but they usually have an elemental alignment. Lightning Sprites occasionally appear in Coill Dungeon near Emain Macha.
+1914	Flying swords are controlled by dark magic. They also cast spells, so stay alert! Occasionally encountered at Rundal, Barri, Coill, and other dungeons.
+1915	A huge, frightening bear. Found throughout Uladh.
+1916	Jackals are carnivores similar to foxes, and can be found in dense forests such as Courcle or Fiodh Dungeon.
+1917	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1918	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1919	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1920	A little creature that protects itself with sharp quills. It inhabits some parts of Connous.
+1921	The Mongoose is so fierce and fast that it can even catch a snake. You can find them in Iria.
+1922	A horse that only exists in the Shadow Realm. You can find them in the Shadow Realm of Taillteann.
+1923	Even though it's only bones, it fights with ferocity. Easily found in the Shadow Realm of Tara.
+1924	A bizarre creature of the Shadow Realm. You can find it in the Shadow Realm of Taillteann.
+1925	Sprites are similar to Wisps, but they usually have an elemental alignment. You can occasionally encounter Ice Sprites in Math and Coill Dungeon.
+1926	It has a huge, menacing horn. It currently inhabits Courcle.
+1927	They're similar to Gremlins, but cuter. They're almost always grumpy and lazy. Also, they see Imps as rivals. You can find them easily in the Shadow Realm of Taillteann.
+1928	It has a fish head paired with arms and legs. It can even speak. You can encounter it at Rundal Dungeon near Emain Macha.
+1929	Zombies are bodies that have come back from the grave. Only direct physical attacks affect them, so Rangers and Mages must exercise caution. You can find them in the Shadow Realm of Tara.
+1930	A female mage of the Shadow Realm. You can find her easily in the Shadow Realm of Taillteann.
+1931	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1932	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1933	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1934	Its body is completely covered with heavy armor. You can find it easily in the Shadow Realm of Taillteann.
+1935	Though it may just be bones, its spear is a real threat. You can find it easily in the Shadow Realm of Tara.
+1936	A shaggy rat. You can encounter it in the Avon Theatre Missions.
+1937	A deer of the Shadow Realm. It has a small horn sticking out of its head. You can find it in the Shadow Realm of Taillteann.
+1938	A hearty desert fox. Generally found in Connous and Rano.
+1939	Hyenas feed on the leftover carcasses from other predators. They are known as the cleaning crew of the wild, but they are actually amazing hunters. They are known to inhabit Muyu Desert.
+1940	Sprites are similar to Wisps, but they usually have an elemental alignment. You can encounter Fire Sprites occasionally in Coill Dungeon near Emain Macha.
+1941	Despite its lack of legs, snakes can move pretty freely. Occasionally encountered in dungeons.
+1942	Snake poison is deadly. Encountered at Fiodh and Coill Dungeons.
+1943	A group of Corrupt Alchemists. You can find them in the Shadow Realm of Tara.
+1944	In their past lives, they must have been in the military. Found in the Shadow Realm of Tara.
+1945	It has a fish head paired with arms and legs. It can even speak. You can encounter it at Rundal Dungeon near Emain Macha.
+1946	You can find Wargs in Physis.
+1947	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1948	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1949	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1950	The Mimic disguises itself as a treasure chest and attacks unsuspecting adventurers. You can encounter it at Karu Forest Ruins.
+1951	If you dream of being charged by a cow made of stone, your dreams will come true at Karu Forest Ruins.
+1952	Its body is a jar. You can encounter it in the Dugald Castle Dungeon.
+1953	Half-human, half-wolf, he's given into his beast instincts. Found in Alby, Fiodh, and Coill Dungeons.
+1954	Covered in dangerous thorns. It inhabits Barri Dungeon in Bangor.
+1955	An undead monster that hungers for human flesh. It can be found inside Peaca dungeon.
+1956	A skeletal wolf. You can meet them in southern Gairech, Rundal Dungeon, Rabbie Dungeon, and some other places.
+1957	You can encounter these small Ant Lions in Connous underground maze and the Nubes tunnel system.
+1958	A stone slab with arms and legs. You can encounter it at Maiz Prairie Ruins.
+1959	Hellhounds are creatures that guard the gates of hell. They can be found in Math Dungeon. What is beyond the gate they guard?
+1960	A huge reptile that lives on both water and land. Found in the Pantay Swamp region of Courcle.
+1961	It has thick fur to endure the cold. You can encounter it in Physis.
+1962	Is it a wasp with 8 legs? Or is it a spider with wings? You can find them in Alby Dungeon, so see if you can figure it out.
+1963	Gnolls have the head of a dog and the body of a human. They appear to have a low level of intelligence and can be frequently found in Rundal Basic Dungeon.
+1964	Be careful when you meet someone in the desert of Connous. The desert claims many victims, and not all their souls find peace.
+1965	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1966	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1967	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1968	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1969	The dingo looks very similar to a wolf. They used to be native to Uladh, but now they can be found at Physis in Iria.
+1970	Dungeon rats are common in Fiodh Advanced Dungeon.
+1971	The Capybara is a large rodent. You can encounter it in Zardine.
+1972	Bush boars can be located in Karu Forest.
+1973	Its stone body moves slowly. Encountered in Karu Forest Ruins.
+1974	A Gnu with short horns. It inhabits Rano Plains.
+1975	The frightening Ixion can be found in Zardine.
+1976	The Rhino is distinguished by the horn that protrudes from its snout. Despite its appearance, they're more like horses than cows. Though usually calm, Rhinos will turn into unstoppable monsters when agitated. Encountered in Connous.
+1977	Beetles are common in Longa Desert Ruins.
+1978	The Shadow Commander in heavy golden armor can be found in the Shadow Realm of Taillteann.
+1979	You can find Basilisks in the Shadow Realm of Taillteann.
+1980	The white-bodied Snowfield Spider can be encountered during the Avon Theatre Missions.
+1981	Hyenas feed on the leftover carcasses from other predators. They are known as the cleaning crew of the wild, but they are actually amazing hunters. They inhabit Iria's desert and Courcle.
+1982	You can encounter Phantom Masks in Dugald Castle Dungeon.
+1983	A spider well-known for its aggressiveness. Tarantulas inhabit Courcle.
+1984	Millipedes may look disgusting, but they're not that great of a threat. Jungle Millipedes inhabit Courcle.
+1985	Be careful when you meet someone in the desert of Connous. The desert claims many victims, and not all their souls find peace.
+1986	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1987	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1988	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1989	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1990	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+1991	A male mage of the Shadow Realm. Common in the Shadow Realm of Tara.
+1992	Threatening beings of the Shadow Realm. You can find them easily in the Shadow Realm of Tara.
+1993	Threatening beings of the Shadow Realm. You can find them easily in the Shadow Realm of Tara.
+1994	The Desert Spider is known to inhabit Iria's desert.
+1995	A spider with a jar-shaped body. Common in Karu Forest Ruins.
+1996	The millipede might look disgusting, but it's not that great of a threat. You can encounter the Sand Millipede in Connous.
+1997	Sulfur Spiders are common in the Shadow Realm of Tara.
+1998	Python Soldier are common in the Shadow Realm of Tara.
+1999	Striped Hyenas feed on the leftover carcasses from other predators. They are known as the cleaning crew of the wild, but they are actually amazing hunters. They are known to inhabit Muyu Desert.
+2000	The Laghodessa is more fearsome than your average spider. They say that some people have the power to speak with them. You can encounter Spike Laghodessas at Ciar Dungeon.
+2001	Stone Imps appear in Karu Forest Ruins.
+2002	They look like chess pawns. Found in Cuilin Castle Dungeon.
+2003	A Gnu with huge horns. Found in Maiz Prairie Ruins.
+2004	A Corpse that have been preserved through bandage-wrapping but could not rest in peace. You can find these mummies guarding Longa Desert Ruins.
+2005	You can encounter Hobgoblin Warriors at Courcle.
+2006	It's obvious how this floating cloak got the name 'Cloaker.' It seems to be powered by the strength of the undead. Found in Peaca Dungeon.
+2007	Normally, it looks like a pile of rocks. However, when an uninvited visitor approaches, it transforms itself into a giant and attacks. You can encounter it in Ciar Dungeon.
+2008	It is suited up in black armor. You can find it in the Shadow Realm of Tara.
+2009	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2010	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2011	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2012	You can encounter Masked Goblins in Karu Forest Ruins.
+2013	Aonbharrs are characterized by their huge wings. You can encounter them in Falias.
+2014	You can encounter Blind Crabs in Zardine.
+2015	The millipede might look disgusting, but it's not that great of a threat. Cave Millipedes inhabit the underground mazes throughout Iria.
+2016	Loves to gallop all over the place. Encountered at Nubes Mountains.
+2017	You can encounter Stone Hounds in Karu Forest Ruins.
+2018	Forest Mushroom Spiders inhabit Iria's forests.
+2019	They wear special outfits for the hunt. Found in Nubes's underground system.
+2020	Dragonflies have excellent flying skills. You can find giant dragonflies in the jungles of Courcle.
+2021	The Mimic disguises itself as a treasure chest and attacks unsuspecting adventurers. You can encounter it at Peaca Dungeon.
+2022	Approach this ferocious beast with caution. It inhabits Rano Plains and Iria's desert area.
+2023	Cobras inhabit Courcle.
+2024	To find these, take a raft ride in Iria.
+2025	You can't quite see these soldiers' true forms. Found in castle dungeons.
+2026	Giant carnivores from the felidae family that live in prides in the Cenae Meadows of Courcle.Within these prides, there lives the true king of the animals.
+2027	It's obvious how this floating cloak got the name 'Cloaker.' It seems to be powered by the strength of the undead. Found in Peaca Dungeon.
+2028	You can encounter the Bandersnatch in Par Ruins, located northeast of Vales.
+2029	A scorpion uses dangerous poison to attack and defend itself. It can be found in extreme environments such as the deserts of Connous or the volcanic region of Zardine.
+2030	Hyenas feed on the leftover carcasses from other predators. They are known as the cleaning crew of the wild, but they are actually amazing hunters. You can encounter them in the Par Ruins.
+2031	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2032	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2033	Although the Ostrich can't fly, it can run at extremely fast speeds. You can encounter it in Physis.
+2034	You can encounter Phantom Tableware in Sen Mag Castle Dungeon.
+2035	The Mimic disguises itself as a treasure chest and attacks unsuspecting adventurers. You can encounter it in Longa Desert Ruins.
+2036	It lights the surrounding area with its large candle. Encountered in Sen Mag Castle Dungeon.
+2037	A Reindeer is similar to a deer, but larger and with longer fur. You can find Reindeer in the Snowfields of Physis.
+2038	The Mimic disguises itself as a treasure chest and attacks unsuspecting adventurers. Encountered in Par Ruins.
+2039	You can encounter Chon Chon in Barri Dungeon.
+2040	You can encounter Ice Bison in Par Ruins, located northeast of Vales.
+2041	This massive beast is nothing to be trifled with. It inhabits Physis and Courcle.
+2042	Looks like a bishop chess piece. Encountered at Cuilin Castle Dungeon.
+2043	You can encounter Gold Mask Ghosts at Karu Forest Ruins.
+2044	Unlike zombies, skeletons are propelled by evil magic since they have no muscles. Encountered in Avon Theatre Missions.
+2045	A stone slab with arms and legs. You can encounter it at Maiz Prairie Ruins.
+2046	You can't quite see these soldiers' true forms. Found in castle dungeons.
+2047	This sharp-legged spider lives on Scathach Beach.
+2048	Unlike other Stone Hounds, its body glows. Encountered at Karu Forest Ruins.
+2049	Unlike other Stone Imps, its body glows. Encountered at Karu Forest Ruins.
+2050	A disgusting cross between spider and goblin. Encountered at Alby Dungeon.
+2051	Even though it looks bat-like, it probably can't fly. Found in Alby Advanced Dungeon.
+2052	This vengeful spirit is created by cursing a corpse. Only found in Peaca dungeon...and the afterlife.
+2053	A small, human-like monster with wings. They are rivals to the Imps and servants of the Golems. New Gremlins can be encountered at Barri Dungeon.
+2054	Trolls are big, powerful brutes that prey on Humans. You can encounter them on Scathach Beach.
+2055	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2056	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2057	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2058	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2059	Mountain Goats live in the Nubes Mountains.
+2060	Approach these ferocious creatures with caution. They inhabit Rano Plains and Iria's forests.
+2061	These rare beings occasionally appear in Iria.
+2062	Anteaters use their long tongues to feed on ants. You can meet them in Zardine.
+2063	Vaguely chandelier-shaped. Encountered at Dugald Castle Dungeon.
+2064	The Laghodessa is more fearsome than your average spider. They say that some people have the power to speak with them. You can encounter Sickle Laghodessas at Ciar Dungeon.
+2065	It may look like a giant cat, but it's actually fiercely violent. Found in Courcle and the Nubes Mountains.
+2066	Threatening thorns stick out from its body. Encountered at Longa Desert Ruins.
+2067	A candle-shaped soldier. Encountered at Sen Mag Castle Dungeon.
+2068	This huge, cow-like beast features one eye, a huge body, and brute strength. Encountered at Fiodh Dungeon.
+2069	You can encounter Stone Horses at Karu Forest Ruins.
+2070	Normally, it looks like a pile of rocks. However, when an uninvited visitor approaches, it transforms itself into a giant and attacks. You can find Forest Golems in the Shadow Realm of Tara.
+2071	It is very ferocious so approach with caution. You can encounter it in Connous.
+2072	A wolf in sheep's clothing. Someone spotted it at Osna Sail.
+2073	You can encounter Volcano Horned Wild Boars at the volcanic region.
+2074	Sprites are similar to Wisps, but they usually have an elemental alignment. You can encounter Horse Sprites at Dugald Castle Dungeon.
+2075	As expected, it has a deadly sharp horn. Encountered at the volcanic region.
+2076	It has a fish head paired with arms and legs. It can even speak. You can encounter it at Barri Dungeon.
+2077	Maybe Snow Zombies walk slowly because the place is too cold. Encountered in the Par Ruins.
+2078	The Laghodessa is more fearsome than your average spider. They say that some people have the power to speak with them. You can encounter Skeleton Laghodessas at Rabbie Dungeon.
+2079	A stone slab with arms and legs. You can encounter it at Maiz Prairie Ruins.
+2080	You can encounter Hobgoblin Exorcists in Courcle.
+2081	This creature is able to take control of powerful ghosts. It isn't yet known who owns the Longa Desert Ruins, but this proves the immense power this creature has.
+2082	If you see a half-human, half-animal statue with wings, it's likely a Gargoyle. They disguise themselves in order to surprise intruders. You can encounter it at Maiz Prairie Ruins.
+2083	The horse that the Ruins Guardian rides. You can encounter it at Longa Desert Ruins.
+2084	You can encounter Feral Boars at Scathach Beach.
+2085	It has a sharp snout. Encountered at Alby Dungeon.
+2086	A huge wasp. You can encounter it at Scathach Beach.
+2087	Trolls are big, powerful brutes that prey on Humans. You can encounter them on Scathach Beach.
+2088	Is it slow because it's covered in spider webs? You can encounter it at Alby Dungeon.
+2089	It has a fish head paired with arms and legs. It can even speak. You can encounter it at Scathach Beach.
+2090	Flame leaks from its body. You can encounter it in the underground maze.
+2091	It flies in if you start a campfire. You can encounter it at Peaca Dungeon.
+2092	You can encounter Hell Cats at Peaca Dungeon.
+2093	Many stories have surfaced about this rare creature appearing in Iria. The one consistent part of the legend is that there was an Arc Lich next to a Bomb Steed...
+2094	Even though it has physical form, no one knows what it's made of. You can encounter it at Peaca Dungeon.
+2095	A rare entity that appears in Iria.
+2096	This Ogre is all bones. You can encounter it during the Avon Theatre Missions.
+2097	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2098	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2099	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2100	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2101	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2102	Huge Blue Dragon. Witnessed in Iria.
+2103	You can encounter Wild Dogs at Nubes Mountains.
+2104	You can encounter Snow Imps in the Par Ruins.
+2105	You can encounter Sarracenia at Magic Bean Dungeon.
+2106	Who could have made such sturdy armor for these hounds? Encountered at Longa Desert Ruins.
+2107	You can encounter Stag Beetles at the volcanic region.
+2108	This Hellhound is all bones. You can encounter it at Math Fomor Dungeon.
+2109	You can encounter Desert Bears in Connous.
+2110	These huge creatures, with their long noses and menacing tusks, can be found in Cenae Meadows in Courcle.
+2111	You can encounter Skeleton Ghosts at Maiz Prairie Ruins.
+2112	Saturos, the half-human half-goat, lives in the cave that connects Rano and Vales. Be careful; this monster is especially brutal.
+2113	Sprites are similar to Wisps, but they usually have an elemental alignment. You can encounter Bear Sprites in Castle Dungeons.
+2114	Watches over Stone Horses. He might know the secret of the ruins, but he won't tell you. Encountered at Karu Forest Ruins.
+2115	Distinguished by the half moon mark on its chest. It inhabits the Rano Plains and Iria desert.
+2116	Trolls are big, powerful brutes that prey on Humans. You can encounter them at Math Fomor Dungeon.
+2117	It is very ferocious so approach it with caution. You can encounter it at the volcanic region.
+2118	You can encounter Horn Cobras in Connous.
+2119	It covered up its bones with a few pieces of armor. You can encounter it during the Avon Theatre Missions.
+2120	Lycanthropes gave up their humanity in exchange for bestial power. What kind of people were they when they were Human? They can be found in Rabbie Basic Dungeon.
+2121	Many people have claimed that Black Panthers are simply leopards with dark fur. However, that claim has been challenged since a pack of Black Leopards were discovered in the volcanic region of Renes. What is the truth behind these Black Leopards?
+2122	Looks like a chess rook. You can encounter it at Cuilin Castle Dungeon.
+2123	Unlike other Pot-Belly Spiders, its body glows. You can encounter it at Karu Forest Ruins.
+2124	As the creature that has guarded the Mirror of Memory for a long time, it can be seen but not approached when you enter Par Ruins by offering a Snow Crystal.
+2125	You can encounter Feral Wolves at Scathach Beach.
+2126	This giant lizard has the skin of a snake, but its head almost looks Human. Where did this creature come from? That is one of the mysteries of Longa Desert Ruins.
+2127	Unlike other Stone Zombies, its body glows. You can encounter it at Karu Forest Ruins.
+2128	This giant cyclops is resistant to average attacks. It can be found at the end of Rundal Dungeon.
+2129	A giant covered in eyeballs. It may be hard to get the jump on it. It can be found in Rundal Advanced and Fiodh Intermediate Dungeon.
+2130	Like a troll, but more aggressive and imposing. This giant monster eats anything and everything, including animals...and Humans. You can find it in Ciar Advanced Dungeon.
+2131	Ogres crush everything in their path. You can encounter them at Barri Dungeon.
+2132	It has a fish head paired with arms and legs. It can even speak. You can encounter Cave Sahagin Warriors at Scathach Caverns.
+2133	Although it lost its head, its body still moves. Nobody knows what kind of power moves the Hollow Knight. They can only be found in the Peaca Intermediate Dungeon.
+2134	Unlike other Stone Gargoyles, its body glows. You can encounter it at Maiz Prairie Ruins.
+2135	It patrols the ruins atop a Guardian Horse of Ruins. You can encounter it at Longa Desert Ruins.
+2136	Its entire body flashes with golden light. It is rather threatening. You can encounter it at Alby Dungeon.
+2137	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2138	[Automatic Collection] If your Transformation Mastery rank is high enough, you can transform into this without collecting it.
+2139	This undead Ogre covers its bones with heavy armor. You can encounter it during the Avon Theatre Missions.
+2140	It's surprisingly nimble. Occasionally encountered in the Shadow Realm of Tara.
+2141	You can encounter Cave Masked Goblins at the underground maze.
+2142	Trolls are big, powerful brutes that prey on Humans. You can encounter them during Avon Theatre Missions.
+2143	Its flaming eyes make you think of hell. You can find it in the Shadow Realm of Tara.
+2144	You can encounter Big-Horned Deer at the volcanic region.
+2145	You can encounter Goblin Hunters at Barri Dungeon.
+2146	Sprites are similar to Wisps, but they usually have an elemental alignment. You can encounter Wolf Sprites in Castle Dungeons.
+2147	You can encounter Skeleton Squads at Rabbie Fomor Dungeon.
+2148	Did it become a pirate after death? Or did it die as a pirate? You can encounter Pirate Skeletons at Rundal Dungeon.
+2149	Normally, it looks like a pile of rocks. However, when an uninvited visitor approaches, it transforms itself into a giant and attacks. You can encounter Magic Golems at Emerald, Topaz, and Amethyst Ruins Dungeon in Longa Desert.
+2150	Normally, it looks like a pile of rocks. However, when an uninvited visitor approaches, it transforms itself into a giant and attacks. You can easily find Snow Golems in the Shadow Realm of Tara.
+2151	Normally, it looks like a pile of rocks. However, when an uninvited visitor approaches, it transforms itself into a giant and attacks. You can encounter Castle Wall Golem during Avon Theatre Missions.
+2152	You can't quite see these soldiers' true forms. Found in castle dungeons.
+2153	A horrifying knight without a head. You can find it in the Shadow Realm of Tara.
+2154	Normally, it looks like a pile of rocks. However, when an uninvited visitor approaches, it transforms itself into a giant and attacks. You can easily find Sulfur Golems in the Shadow Realm of Tara.
+2155	This creature has a perplexing appearance. Its tails and wings are reminiscent of a dragon, but it also has buffalo horns and a long, flowing mane. It wields a giant sword and can be found in volcanic regions.
+2156	Hyenas feed on the leftover carcasses from other predators. They are known as the cleaning crew of the wild, but they are actually amazing hunters. They inhabit the Rano Muyu Desert.
+2157	A terrifying, gray-haired thing. Someone saw it at Alby Dungeon.
+2158	As if normal bears weren't bad enough. According to a rumor, it has been spotted at Fiodh Dungeon.
+2159	Normally, it looks like a pile of rocks. However, when an uninvited visitor approaches, it transforms itself into a giant and attacks. Crystal Golems are occasionally spotted at Scathach Beach.
+2160	Can be encountered at the end of the Castle Dungeons. It seduces explorers with its beauty and charm, revealing its true nature when least expected.
+2161	Carries a sickle for reaping the souls of the dead. You can encounter it during the Avon Theatre Missions.
+2162	A huge Prairie Dragon. Last witnessed in Iria.
+2163	A huge reptile that lives on both water and land. Spotted in Iria.
+2164	A huge Desert Dragon. Witnessed in Iria.
+2165	Its massive size belies a devastating strength. Rumored to appear at Par Dungeon.
+2166	The Succubus resides deep inside dungeons and seduces adventurers with her feminine wiles. Rumor has it she was spotted in Rabbie Dungeon.
+2167	Unlike other Stone Bisons, its body glows. You can encounter it at Karu Forest Ruins.
+2168	If you see a half-human, half-animal statue with wings, it's likely a Gargoyle. They disguise themselves in order to surprise intruders. You can encounter it at Longa Desert Ruins.
+2169	Don't be fooled by her cute glasses! You can encounter her at Rundal Siren Dungeon.
+2170	This monster lurking deep within Coill Dungeon has a giant mouth instead of a head. But what about its eyes, nose, and ears?
+2171	If its massive eye spots you, you'd better run. You can encounter it at Peaca Dungeon.
+2172	Normally, it looks like a pile of rocks. However, when an uninvited visitor approaches, it transforms itself into a giant and attacks. You can encounter Amethyst Golems at Scathach Beach.
+2173	Though the Banshee looks like a beautiful woman,  this powerful undead being is the boss of the Peaca Basic Dungeon. She can't be harmed through normal means.
+2174	A Lich with mastery over the powers of darkness. Death follows wherever it goes. No ordinary adventurer can stand against it. Encountered at Peaca Dungeon.
+2175	Nothing is known about the mysterious Arc Lich. Believed to reside in Iria.
+2176	Nothing is known about the mysterious Master Lich. Believed to reside in Peaca Dungeon.
+2177	A huge Red Dragon. Witnessed in Iria.
+2178	It appears during Lord Rank Shadow Missions. Don't be fooled by its appearance!
+2179	A beautiful creature that possesses ghastly power. It appears during Lord Rank Shadow Missions.
+2180	Dark Lord
+2199	Lugh Lavada
+2200	Shenon
+2201	Insane Paris
+2393	Shamala
+2395	<Ancient Warrior> A mysterious warrior. Use Shamala's Transformation Medal to collect.
+2396	[Emain Macha Southern Observatory] He manages the Observatory and sells general goods. He is cheerful and a hard worker. Use Shamala's Transformation Medal to collect.
+2397	<Goddess of War> Not much is known about her. Use Shamala's Transformation Medal to collect.
+2398	<The Weakling> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2399	[Emain Macha Restaurant] The senior chef of Loch Lios, a restaurant in Emain Macha. He has had many setbacks, but he continues to strive to be the best chef around. Use Shamala's Transformation Medal to collect.
+2400	[Alby Battle Arena] A goblin that guards the entrance of Alby Battle Area. It is intelligent enough to sell Arena entry tickets and potions. Use Shamala's Transformation Medal to collect.
+2401	<The Flimsy> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2402	<Trade Helper> One of the Trade Helpers at the Trading Post who are always busy calculating Ducats and browsing through trading accounts. Use Shamala's Transformation Medal to collect.
+2403	[Taillteann Elf Headquarters] He repairs Elf-exclusive weapons at the Taillteann Elf Headquarters. He is gentle and friendly unlike his twin brother, Granites. Use Shamala's Transformation Medal to collect.
+2404	[Filia General Shop] He runs the General Shop in Filia. He is a narcissistic elf who always has something to complain about. He participated in the war against the Giants. Use Shamala's Transformation Medal to collect.
+2405	[Royal Castle Kitchen] A chef of the Rath Royal Castle. He is a highly passionate chef who is even willing to sell his own soul for his cooking. He is also notorious for his crooked personality and biting tongue. Use Shamala's Transformation Medal to collect.
+2406	[Dunbarton Restaurant] Glenis's restaurant is popular for its delicious dishes. She also sells extra cooking ingredients to travelers. Use Shamala's Transformation Medal to collect.
+2407	<Virtuous Courtier> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2408	[Bangor General Shop] The landlord and owner of Bangor General Shop. He is a native who has been running the General Shop for ages, but his moodiness and bad temper often annoy the people around him. Use Shamala's Transformation Medal to collect.
+2409	<The Woman in the Cage> Not that much is known about her. Use Shamala's Transformation Medal to collect.
+2410	[Dunbarton Weapons Shop] The owner of the Weapons Shop. A lady who has traveled throughout Uladh since childhood and consequently had many experiences. Use Shamala's Transformation Medal to collect.
+2411	<Goddess of Sorrows> Not that much is known about her. Use Shamala's Transformation Medal to collect.
+2412	[Tara Healer's House] The Healer of Tara. She looks innocent and naive. Use Shamala's Transformation Medal to collect.
+2413	[Emain Macha Fountain] A wandering Bard. He always presents beautiful music to travelers with a big smile on his face. Use Shamala's Transformation Medal to collect.
+2414	[Tir Chonaill Inn] She lost her parents at a young age and has been running an inn with her uncle, Piaras. She is a cheerful and lively girl who also happens to be a great singer. Use Shamala's Transformation Medal to collect.
+2415	<The King of the Gods> The most powerful god. He has an irresistible and powerful charisma. Use Shamala's Transformation Medal to collect.
+2416	[Qilla Base Camp] He runs the Weapons Shop at Qilla Base Camp. He may repulse you with his lecherous glance and haughty attitude, but you must deal with him to purchase weapons in Iria. He dreams of finding treasure in the ancient ruins. Although he's never admit it, he seems grateful to his friend, Heulfryn, for following him all the way to here. Use Shamala's Transformation Medal to collect.
+2417	<One of the Three...> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2418	<Warrior of Darkness> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2419	[Tir Chonaill Chief's House] The Chief of Tir Chonaill. It sounds like he had great accomplishments as a youth. His eyes have sunken more deeply after staying up all night. Use Shamala's Transformation Medal to collect.
+2420	[Taillteann Bank] He is in charge of the Bank in Taillteann. As a member of a reputable noble family, he is technically in line for the throne. However, he's so far down the line that he'll likely never take the crown, especially given his terrible reputation. Use Shamala's Transformation Medal to collect.
+2421	[Tir Chonaill Pasture] A shepherd who idles away his time next to the pen at the pasture near Tir Chonaill. Use Shamala's Transformation Medal to collect.
+2422	[Emain Macha Town Square] A girl who sells flowers at the Town Square. She and her twin sister, Delen, are known as 'the beauties of the Town Square.' Use Shamala's Transformation Medal to collect.
+2423	[Emain Macha Town Square] A girl who sells flowers at the Town Square. She and her twin sister, Del, are known as 'the beauties of the Town Square.' Use Shamala's Transformation Medal to collect.
+2424	[Taillteann Alchemist's House] She handles the Alchemy materials in Taillteann. As the world's greatest authority on Alchemy, she is refined and intellectually active for her age. Use Shamala's Transformation Medal to collect.
+2425	<The Man from Another World> Not that much is known about him. Use Shamala's Transformation Medal to collect.
+2426	[Tir Chonaill Healer's House] A mature lady with a husky voice. Use Shamala's Transformation Medal to collect.
+2427	[Avon] A mysterious lady whose face is covered with a mask. She has impressive theatrical costume and way of speaking. Use Shamala's Transformation Medal to collect.
+2428	[Tir Chonaill School] A teacher of Tir Chonaill. She has exceptional magic skills in spite of her young age. Use Shamala's Transformation Medal to collect.
+2429	<Elder Alchemist> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2430	[Sen Mag Marketplace Bank] He works as the manager of Sen Mag Marketplace Bank, serving as the guide to the Marketplace as well. He appears to be a shy newlywed groom, but in truth, he's just playing innocent. He's actually a cultured man whose hobbies include painting, reading, and music. Use Shamala's Transformation Medal to collect.
+2431	<Tragic Siblings> Not that much is known about them. You can collect them by using Shamala's Transformation Medal.
+2432	[Tir Chonaill School] A weapons instructor who teaches in the schoolyard. He claims that his love for Endelyon is purely platonic. Use Shamala's Transformation Medal to collect.
+2433	<Alchemist> He used to be a scholar, but he's informal and carefree. Use Shamala's Transformation Medal to collect.
+2434	[Tara Royal Castle Entrance] The Duke of Tara who manages the Town Office. He always maintains a brusque attitude. Use Shamala's Transformation Medal to collect.
+2435	[Filia Clothing Shop] A Tailor who runs the Clothing Shop in Filia. He was put in charge of the shop in spite of his young age due to a labor shortage. He is particularly tenderhearted, so he has difficulties with running the business. However, he's working at getting better. Use Shamala's Transformation Medal to collect.
+2436	[Dugald Marketplace General Shop] Owner of Dugald Marketplace's General Shop. She grew up in Emain Macha, but moved to the Dugald Marketplace district due to her fondness for adventurers and life in the countryside. She wears non-prescription glasses and is highly interested in fashion. Use Shamala's Transformation Medal to collect.
+2437	<Witness of Love> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2438	<Emblem of Tragic Love> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2439	<One of the Three...> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2440	<Unimportant Courtier> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2441	<Shiny Armor> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2442	[Emain Macha Pub] A beautiful lady with a gorgeous body that enchants most men she meets. She also tells the fortune of her customers. Use Shamala's Transformation Medal to collect.
+2443	<One of the Three> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2444	[Emain Macha Pub] The owner and bartender of the Pub in Emain Macha. Although he is arrogant and menacing, he actually takes good care of others. He is particularly kind to women. Use Shamala's Transformation Medal to collect.
+2445	<Knight of Atrocity> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2446	[Tara Jousting Arena] The Manager of the Tara Jousting Arena. She is a sociable tomboy who has done very well for herself in spite of her young age. Use Shamala's Transformation Medal to collect.
+2447	[Emain Macha Royal Castle] The Lord of Emain Macha. He stutters as if he has some kind of illness. Use Shamala's Transformation Medal to collect.
+2448	[Bangor Pub] A boy who works at the Pub in Bangor. He helps Jennifer run the Pub. Although people worry about him for working at the Pub at such a young age, he does not mind it at all. He is interested in travelers more than drink. Use Shamala's Transformation Medal to collect.
+2449	<Tragic Witch> Not that much is known about her. Use Shamala's Transformation Medal to collect.
+2450	[Dunbarton Healer's House] The Healer of Dunbarton. Some people hate him for treating everyone informally as if they are all his close friends. He is a highly competent Healer nonetheless. Use Shamala's Transformation Medal to collect.
+2451	<One of the Three> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2452	[Cuilin Marketplace General Shop] Serves as the manager of Cuilin Marketplace's General Shop. Even now, he holds on tightly to his dream of becoming a renowned theatrical actor. He has an excellent, magisterial diction in spite of his small physique. Use Shamala's Transformation Medal to collect.
+2453	<Master> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2454	<Hero...?> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2455	[Avon] A mysterious man whose face is covered with a mask. He has an impressive theatrical costume and way of speaking. Use Shamala's Transformation Medal to collect.
+2456	[Tir Chonaill General Shop] He runs a small General Shop near the Town Square. Use Shamala's Transformation Medal to collect.
+2457	[Southern Rano] The Chief Mate of the Petra Marine Transportation Corp. He went into this line of business to get rich quick. He works calmly even in the face of all excitement. Use Shamala's Transformation Medal to collect.
+2458	<His Friend> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2459	[Physis] She instructs people on Physis and Giants. She has a charming forehead and round, red cheeks. Use Shamala's Transformation Medal to collect.
+2460	[Tir Chonaill Lymilark Church] A Cleric who was assigned to Tir Chonaill when she was still young. She has taken care of various social events and affairs of the town for a long time. Use Shamala's Transformation Medal to collect.
+2461	[Filia Weapons Shop] She is running the Weapons Shop in Filia. She is mature for her age. She views the conflict with Giants in a realistic and objective perspective. She believes that the racial conflict can be resolved by diplomatic means. She is exceptional at handling and repairing weapons. Use Shamala's Transformation Medal to collect.
+2462	<Knight of Darkness> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2463	<Goddess of Love> Not that much is known about her. Use Shamala's Transformation Medal to collect.
+2464	<The Man of That World> Not that much is known about him. Use Shamala's Transformation Medal to collect.
+2465	[Belvast Bank] The Manager of Belvast Bank. He wears an exquisite, refined garment unlike other Imps. He constantly whispers to him self as he balances the books. Use Shamala's Transformation Medal to collect.
+2466	[Ceo Island] A Goblin that settled down on Ceo Island. He is as intelligent as a Human. Use Shamala's Transformation Medal to collect.
+2467	<Credible Man> Not that much is known about him. Use Shamala's Transformation Medal to collect.
+2468	[Dunbarton General Shop] The owner of the General Shop who used to be a carpenter. He is cold and curt. Use Shamala's Transformation Medal to collect.
+2469	[Cuilin Marketplace Bank] The Banker of Cuilin Marketplace. He leaves quite the impression with his glasses and shoulder-length silver hair. Use Shamala's Transformation Medal to collect.
+2470	[Tir Chonaill Erskin Bank] A cute Clerk who works at the Tir Chonaill branch of Erskin Bank, which is the largest bank in Erinn. Use Shamala's Transformation Medal to collect.
+2471	[Belvast Church]The caretaker and Healer of Belvast Church. He looks calm and generous. Use Shamala's Transformation Medal to collect.
+2472	[Taillteann Druid's House] He sells all kinds of magic items in Taillteann. He lives alone in a deserted area of Taillteann, but he socializes with people well and loves animals. Use Shamala's Transformation Medal to collect.
+2473	<Lover in the Past> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2474	[Calida Exploration Camp] A volcanologist dispatched to explore the Volcanic Region. She also works as a Healer. She studies fossils and special items from travelers. She is inapproachable since she looks cold-hearted, but she never turns her back on injured people. Use Shamala's Transformation Medal to collect.
+2475	[Cor Village Relic Appraiser's House] The Relic Appraiser of Cor Village who also manages the Bank. He settled down in the village after fleeing from Iria due to gambling debts. He appraises relics with the skills he learned from Arenen. Use Shamala's Transformation Medal to collect.
+2476	<Book Collector> The Book Dealer who is in charge of the distribution of books. He spends most of his income on collecting rare books. Use Shamala's Transformation Medal to collect.
+2477	[Bangor] He handles clerical work for the Bank. He always gets his work done perfectly in spite of his unfortunate history. Use Shamala's Transformation Medal to collect.
+2478	[Taillteann Clothing Shop] She works at the Clothing Shop in Taillteann. Taillteann Guardsmen adore her because of her cheerful personality and charming face. Use Shamala's Transformation Medal to collect.
+2479	[Tara Royal Castle 2F Music Room] The Senior Musician of Aliech's Royal Castle. She also trades various Instruments and Music Scores. She wears her hair in two braids. Use Shamala's Transformation Medal to collect.
+2480	<Spear Expert> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2481	<Trade Helper> One of the Trade Helpers at the Trading Post. When it trades with players, it always reveals its adorable teeth that look exactly like rabbit teeth. Use Shamala's Transformation Medal to collect.
+2482	<Sad Merchant> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2483	<Love of Fomor> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2484	[Emain Macha Restaurant] An employee of Loch Lios, the restaurant in Emain Macha. She is very popular because of her friendly attitude and cleverness. She always gets her job done perfectly, so even the strict Chef pays attention to what she says. Use Shamala's Transformation Medal to collect.
+2485	[Port Ceann Dock] An apprentice sailor in Port Ceann. He is a typical sailor. Use Shamala's Transformation Medal to collect.
+2486	[Gairech Dragon Relic Excavation Site] The superintendent and workman of the Dragon Relic Excavation Site. He excavates relics alone after everyone else left the area. However, he always wear a big smile on his face like his son, Sion. Use Shamala's Transformation Medal to collect.
+2487	<History of Ups and Downs> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2488	[Water Mill near Bangor Iron Barri Dungeon] He helps manage the water mill in Bangor. He has a crush on Ibbie. Use Shamala's Transformation Medal to collect.
+2489	[Dunbarton School] The magic teacher at the Dunbarton School. Although he did not study magic in a big city, he is well-versed in high level magic. Use Shamala's Transformation Medal to collect.
+2490	[Tara Royal Castle 2F Reception Room] The secretary of the Tara royal household. Her red ribbon and brown suit fit her really well. She is a discrete and prudent secretary from head to toe. Use Shamala's Transformation Medal to collect.
+2491	<Victim of Love> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2492	[Emain Macha Healer's House] The Healer of Emain Macha. She is known for her beautiful and adorable face. People say that she's prettier than the flower bed near her house. Use Shamala's Transformation Medal to collect.
+2493	[Port Cobh Pub] She sells foods and drinks at the Port Cobh Pub. She is always moving around busily with a big smile on her face. She is also very talkative. Use Shamala's Transformation Medal to collect.
+2494	[Dunbarton School] A rigid combat teacher in Dunbarton. She wears a fitted suit of silver armor and a dark navy surcoat. Use Shamala's Transformation Medal to collect.
+2495	<Water Spirit> She is always floating in the air, swaying her fragile fins. Her deep, crystal clear eyes steals people's hearts. Use Shamala's Transformation Medal to collect.
+2496	[Calida Exploration Camp] The Adventure Guide and Manager of the Bank in Zardine. Belita hired him for discovering Zardine during the exploration of Iria. He was Voight's dearest friend, but they drifted apart after getting into a love triangle. Use Shamala's Transformation Medal to collect.
+2497	[Tara Royal Castle 2F Royal Library] The manager of the Royal Library. Her refined garment and eloquent speech convey how dignified and graceful she is. Use Shamala's Transformation Medal to collect.
+2498	[Port Cobh Lighthouse] The keeper of the Port Cobh Lighthouse. An old furrow on his forehead reflects a life filled with ups and downs. Use Shamala's Transformation Medal to collect.
+2499	[Front of Emain Macha Lord's Castle] The captain of the royal guard who protect the lord and residents of Emain Macha. He has exceptional skills for his young age. Use Shamala's Transformation Medal to collect.
+2500	[Bangor Blacksmith's Shop] He was fascinated by iron ever since he was young. Since then, he pursued the path of the Blacksmith. He is known for his outstanding skills as well as great self-confidence and pride. Use Shamala's Transformation Medal to collect.
+2501	[Dunbarton Bookstore] A cute lady who sells books at a small Bookstore near the School. She is known for her horn-rimmed glasses and slightly childish dress. Use Shamala's Transformation Medal to collect.
+2502	[Taillteann Alchemist's House] He helps Dorren with the Taillteann Alchemist's House. He is so gifted in Alchemy that Dorren, who is known for her picky personality, chose him as her pupil. Use Shamala's Transformation Medal to collect.
+2503	[Filia Healer's House] The Healer in Filia. She helped injured Elves on the front line back in the war against the Giants. She was greatly disheartened after witnessing numerous deaths. She is working as a Healer again with help from Castanea. Use Shamala's Transformation Medal to collect.
+2504	[Taillteann Headquarters] A member of the Tara Royal Guard. She is currently in charge of Town Office-related work in Taillteann. Use Shamala's Transformation Medal to collect.
+2505	<True Friend> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2506	[Qilla Base Camp] The leader of the Iria Expedition. An old illness flared up again in the middle of the expedition, so she had to resign. However, she is still heavily committed to expedition. Use Shamala's Transformation Medal to collect.
+2507	[Tir Chonaill Windmill] A young lady who started working for the windmill when she was still a little child. She is working to pay for her elder sister's tuition. Use Shamala's Transformation Medal to collect.
+2508	[Tara Royal Castle] The gardener of Tara Royal Castle. He is Lileas's brother, but he is much more shy than his sociable sister. Use Shamala's Transformation Medal to collect.
+2509	<Paper Man> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2510	<Beautiful Princess> Not that much is known about her. Use Shamala's Transformation Medal to collect.
+2511	[Dugald Marketplace Bank] He's a part-time employee at the Bank in Dugald Marketplace. Sociable and amiable, he admires the bravery and inquisitive spirit of adventurers as well. Use Shamala's Transformation Medal to collect.
+2512	[Dunbarton Town Office] An employee of the Town Office. She is a highly capable employee who handles all sorts of tasks meticulously, but nothing is known about her private life. Use Shamala's Transformation Medal to collect.
+2513	[Emain Macha Castle] A Druid who also happens to be the Prime Minister of Emain Macha. His bright and slant eyes look very peculiar. Use Shamala's Transformation Medal to collect.
+2514	[Bangor Blacksmith's Shop] An apprentice Blacksmith with tanned skin and beautiful blond hair. She holds a hammer that is way too gigantic for her slender physique. Use Shamala's Transformation Medal to collect.
+2515	[Qilla Base Camp] The one in charge of the Bank in Iria. She was the only daughter of a prestigious family, but she joined a gang. After she became a notorious gangster,  her father sent her to Iria and ordered her to work for the Bank. Use Shamala's Transformation Medal to collect.
+2516	[Qilla Base Camp] She runs the General Shop in Qilla Base Camp. Her slender figure and calm voice seem to be alien to Iria. She settled down in the area to find signs of her brother who ran away from home a long time ago. Use Shamala's Transformation Medal to collect.
+2517	[Tir Chonaill Lymilark Church] A highly religious Priestess who assists Maven at the Church. Use Shamala's Transformation Medal to collect.
+2518	<Incubus> Not that much is known about him. Use Shamala's Transformation Medal to collect.
+2519	[Emain Macha Clothing Shop] The Senior Designer and Manager of Tre'imhse Cairde, a famous boutique in Emain Macha. She started her career as a part-time employee. With her great talents, she soon rose to her current position. She shows a particularly strong attachment to clothes. Use Shamala's Transformation Medal to collect.
+2520	[Tara Clothing Shop] The General Manager of Erskin Emporium in Tara. She is a prominent figure in high society. She is also known for having affairs with numerous men. Use Shamala's Transformation Medal to collect.
+2521	[Scathach Patrol Camp] He protects the Scathach Patrol Camp. His patrol uniform is disheveled and bloodstained, and his long-neglected hair reflects his lifestyle. Use Shamala's Transformation Medal to collect.
+2522	[Dunbarton Erskin Bank] The Manager of the Dunbarton branch of Erskin bank. No one wanted to be in charge of the Dunbarton branch. However, Dunbarton has been developing at an unbelievably rapid rate ever since he was appointed as the manager of the branch. Use Shamala's Transformation Medal to collect.
+2523	[Emain Macha Weapons Shop] She runs the Weapons Shop in Emain Macha. She is highly skilled and fast with her hands, but her off-putting demeanor prevents people from recognizing her skill. Use Shamala's Transformation Medal to collect.
+2524	[Belvast Admiral's Residence] The Admiral of Belvast. He drove the pirates out of Belvast Island and restored peace. Use Shamala's Transformation Medal to collect.
+2525	<Tragic Love> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2526	[Connous Battle Arena] He trades Connous Battle Arena Coins. He looks like a Desert Ghost, but his face is veiled. There is no way to learn about his past. Use Shamala's Transformation Medal to collect.
+2527	<Trade Helper> One of the Trade Helpers at the Trading Post. It eats a gigantic piece of meat that is as big as its own head. Use Shamala's Transformation Medal to collect.
+2528	[Cor Village Weapons Shop] A native warrior who also happens to be the owner of the Weapons Shop in Cor Village. He has a poignant memory of losing his brother to a Hobgoblin. He is vengeful towards the Hobgoblins that pose a threat to the tribe. Use Shamala's Transformation Medal to collect.
+2529	[Iria] She tells people a lot about Iria. She is a beautiful girl with an absolutely bright smile. Use Shamala's Transformation Medal to collect.
+2530	[Emain Macha Cathedral] The Bishop of Emain Macha Cathedral. He moved to Emain Macha from the capital during the Second Battle of Mag Tuireadh. He is a generous man who tries to avoid conflict. He is not fond of change. Use Shamala's Transformation Medal to collect.
+2531	[Near Emain Macha Town Square] A beggar in Emain Macha. Use Shamala's Transformation Medal to collect.
+2532	[Abb Neagh Bard Camp] An emotionless Bard. She is an Elf with jet-black hair. Her sharp eyes and tight-lipped mouth show that she is cold-hearted. Use Shamala's Transformation Medal to collect.
+2533	[Bangor] A girl leaning against a tree at the entrance to town. She is the only child of Bryce. She is so delicate and vulnerable that she stirs up the protective instinct of people she meets. Use Shamala's Transformation Medal to collect.
+2534	<Tragic Woman> Not that much is known about her. Use Shamala's Transformation Medal to collect.
+2535	[Sen Mag Marketplace General Shop] The owner of the General Shop in Sen Mag Marketplace. She's the twin sister of Lorraine, who runs the General Shop in the distant Dugald Marketplace district. Use Shamala's Transformation Medal to collect.
+2536	[Tara General Shop] The manager of Tara Emporium General Shop. She has impressive, charming cat eyes. Use Shamala's Transformation Medal to collect.
+2537	<Senior Alchemist> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2538	<Temple Knights> The one who was trained in the ascetic Pontiff's Court from childhood. An elite agent of the Temple Knights who can suppress and control her emotions perfectly. Use Shamala's Transformation Medal to collect.
+2539	[Bangor Pub] The beautiful owner of the Pub in Bangor. She greets her customers in a Healer dress. She claims that her job is to heal people's wounded minds and relieve their stress. Use Shamala's Transformation Medal to collect.
+2540	[Vales General Shop] He runs the General Shop in Vales that also functions as the Clothing Shop. He is a young Giant who is not even 10 years old yet, but he is still much bigger than people of the other races. He has to work in the shop as punishment for past mischief. Use Shamala's Transformation Medal to collect.
+2541	[Emain Macha Cathedral] The Cleric of Emain Macha Cathedral. He uses his friendships to spread his religion. Use Shamala's Transformation Medal to collect.
+2542	[Emain Macha Erskin Bank] The manager of the Emain Macha branch of Erskin Bank. She is a professional woman who is considerable, elegant, refined, cold-hearted, and beautiful. She is known for her fine, meticulous work. Hence, she is held in high regard by everyone around her. Use Shamala's Transformation Medal to collect.
+2543	<Emblem of Tragic Love> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2544	[Dock between Port Ceann and Port Qilla] The two-faced captain of the ship. He usually speaks slowly and incoherently, but sometimes he explodes in fury. When he was young, he was a famous Bard touring the country. However, he returned to his family business after a potion addiction scandal.
+2545	[Taillteann Giant Headquarters] She repairs weapons exclusively for Giants at the Taillteann Giant Headquarters. She has been pampered by Krug, who is her brother and the king of Giants, since she was young. Hence, she is arrogant and impolite. Use Shamala's Transformation Medal to collect.
+2546	[Filia Chief's House] The leader of the Filia Elves. She supports all the Elves emotionally and psychologically. She went through rigorous training since childhood to become the leader of her race. She is conservative and assumes the most inflexible, hard-line attitude toward Giants. Use Shamala's Transformation Medal to collect.
+2547	[Tara Weapons Shop] The manager of the Tara Emporium Weapons Shop. He is an ordinary-looking, approachable man. Use Shamala's Transformation Medal to collect.
+2548	[Bangor] A Cleric who was sent to Bangor alone. He has been striving to build a Church in the town. Use Shamala's Transformation Medal to collect.
+2549	<Alchemist> Cai's friend and fellow Alchemist. Use Shamala's Transformation Medal to collect.
+2550	[Tir Chonaill Grocery Store] She runs the Grocery Store in Tir Chonaill. Use Shamala's Transformation Medal to collect.
+2551	[Calida Exploration Camp] He runs the General Shop in the Calida Exploration Camp. He had already crossed Irinid's Barrier before it broke up. However, his memories related to that incident are completely gone. He was barely able to figure out that his name is Kelpie, thanks to a note found among his belongings. Use Shamala's Transformation Medal to collect.
+2552	[Tara Pontiff's Court] The Priestess of the Pontiff's Court in Tara. She is the heavyweight of the Pontiff's Court. She never gets ruffled. She always acts in moderation. Use Shamala's Transformation Medal to collect.
+2553	[Cor Village Chieftain's House] The Chieftain who leads the natives of Courcle. He is able to see the threads of the past, present, and future. He is fatalistic about everything. He has a very important clue on the Elves, Giants and Ancient Irinid, but he remains neutral. The younger natives oppose his doctrine of nonviolence. Use Shamala's Transformation Medal to collect.
+2554	[Beauty Shop] The beautiful manager of the Beauty Shop. As the manager of a place that seeks the absolute beauty, she is exceptionally beautiful and fashionable. Use Shamala's Transformation Medal to collect.
+2555	[Taillteann Church] The Cleric of Taillteann Church. His muscular body is covered by his robe. Use Shamala's Transformation Medal to collect.
+2556	[Cor Village Clothing Shop] The owner of the Clothing Shop in Cor Village. A beautiful woman who represents the raw beauty of a fruitful jungle. She is very shy in front of strangers, but she gets much more cheerful and frank once she becomes friends with you. She is highly skilled in weaving clothes. She is also very knowledgeable in natural Dyes. Use Shamala's Transformation Medal to collect.
+2557	[Emain Macha Training Ground] The Captain of the Paladin Knights. His dignified nose, strong jaw, and neat hair reflect his manliness and honesty. Use Shamala's Transformation Medal to collect.
+2558	[Vales City Hall] The king of Giants. He takes a strong stance against Elves. He seems to be heavily influenced by the death of his father, Gepard. His father died as a result of failing to conquer Connous. He is decisive and manly. However, he is also imprudent and narrow-minded, so he often mismanages his people's affairs. He has blind faith in his wife, Kirine. Use Shamala's Transformation Medal to collect.
+2559	[Dunbarton Lymilark Church] The Cleric who works at the Church in Dunbarton. He was assigned to Dunbarton after receiving education and ordination in Emain Macha. Use Shamala's Transformation Medal to collect.
+2560	<Ugly Younger Sibling> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2561	[Tara Auction House] She is in charge of Tara Auction House. She is a confident, beautiful lady with big ambitions. Use Shamala's Transformation Medal to collect.
+2562	[Vales City Hall] The Queen of Giants (and part-time Healer). Even Krug, the dignified King of Physis, is at his wits end with her. Although she is absolutely gorgeous, her cold eyes make people call her by her nickname, 'Queen of Winter.' Use Shamala's Transformation Medal to collect.
+2563	[Tara Erskin Bank Main Branch] The president of Erskin Bank. He is the wealthiest man in all of Erinn in spite of his young age. He made his debut in high society at a young age. Consequently, he is infamous for his carefree lifestyle. Use Shamala's Transformation Medal to collect.
+2564	<Tragic Being> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2565	<One of the Three> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2566	[Vales Weapons Shop] An outstanding warrior of Physis who is currently running the Weapons Shop. He is extremely knowledgeable about weapons. There is not a single weapon that he cannot handle. He is also known for his heroic accomplishments as a vanguard. He fought the Elves with his sword, Vastian, during the war. Use Shamala's Transformation Medal to collect.
+2567	<Fomor> It wears gold armor and wields a heavy sword to deal devastating damage. Use Shamala's Transformation Medal to collect.
+2568	[Cor Village General Shop] A boy who is gifted in training animals. He was raised by wolves when he was a baby, so he behaves like a wild animal. He has been gradually adjusting to human society. Use Shamala's Transformation Medal to collect.
+2569	[North of Tir Chonaill] A member of the town's militia. He is an outstanding warrior who trained under Ranald. Use Shamala's Transformation Medal to collect.
+2570	[Dugald Aisle Logging Camp] A lumberjack who lives in Dunbarton. He looks irresistibly charming when he cuts down a tree. Use Shamala's Transformation Medal to collect.
+2571	<Her Second Advent> Not that much is known about her. Use Shamala's Transformation Medal to collect.
+2572	[Paladin Training Grounds] A young guard trainee who protects the lord and residents of Emain Macha. He does not look like a veteran warrior in spite of his worn armor and cloth. Use Shamala's Transformation Medal to collect.
+2573	<Unfortunate One> Not that much is known about this one. You can collect the one by using Shamala'a Transformation Medal.
+2574	<War Hero> He is known for playing a significant role in the Second Battle of Mag Tuireadh with Lugh, the Knight of Light. Use Shamala's Transformation Medal to collect.
+2575	<Gatekeeper of that Place> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2576	<Victim of Love> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2577	[Tir Chonaill Blacksmith's Shop] The Blacksmith of Tir Chonaill. He gained fame for his skills, so a lot of adventurers come and entrust him with a task.  Use Shamala's Transformation Medal to collect.
+2578	[Rabbie Battle Arena] A goblin that guards the entrance of Rabbie Battle Area. It is intelligent for a Goblin. It can also speak even though it stutters. Use Shamala's Transformation Medal to collect.
+2579	[Tara Temporary Headquarters] A member of Tara Royal Guard who protects the Temporary Headquarters. He is manly and determined, and never gets distracted. Use Shamala's Transformation Medal to collect.
+2580	[Off the Iria Coast] The Captain of the ship 'Petra,' which she named after herself. She is the youngest daughter of a family whose members were fishermen for generations. She grew up with her brothers, so she is tomboyish and tough. She went through numerous hardships. Her family died in the sea, but she buried her heartbreak. She is bold enough to continue working in the sea that she both loves and hates. Use Shamala's Transformation Medal to collect.
+2581	[Tara Pontiff's Court] The Cardinal of the Pontiff's Court in Tara. He is highly religious in spite of his old age. Use Shamala's Transformation Medal to collect.
+2582	<Beautiful Elf> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2583	<Tragic Courtier> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2584	[Dunbarton Outskirts] A wandering Merchant on the outskirts of Dunbarton. You can recognize him even from a distance, thanks to his muscular body, thick neck, and big arms and legs. His constant smile makes him look harmless and friendly. When he speaks, his mustache twitches. Use Shamala's Transformation Medal to collect.
+2585	[Emain Macha Restaurant] An apprentice Chef at the Restaurant in Emain Macha. Although he is a fairly good chef, he still works as an apprentice since his master is a perfectionist. He is a native of Emain Macha and has a lot of friends. Use Shamala's Transformation Medal to collect.
+2586	[Sen Mag Plains] A mysterious girl who occasionally comes outside to play. Fleta gives people a strange fear when she stares at them with her stoic face. Use Shamala's Transformation Medal to collect.
+2587	[Tara Magic Shop] She trades various magic items at the Magic Shop in Tara. Her glasses are way too big for her face. Use Shamala's Transformation Medal to collect.
+2588	[Tir Chonaill Inn] He runs the Inn with Nora. He knows about all sorts of things. Use Shamala's Transformation Medal to collect.
+2589	[Taillteann General Shop] A trader who travels back and forth between Taillteann and Tara. He becomes close with people easily by taking advantage of his cheerful personality and friendliness. Use Shamala's Transformation Medal to collect.
+2590	[Iria] A young, mysterious girl who knows a lot about Iria. Her youthful appearance seems to be her way of concealing her actual age. Use Shamala's Transformation Medal to collect.
+2591	[Filia Bank] The manager of the Filia branch of Erskin Bank. He has a strong sense of purpose to regain the lost memory of the ancient Elves. He is an open-minded and liberal Elf who is interested in all of the races. For that reason, he is in a bitter conflict with his close friend, Castanea. Use Shamala's Transformation Medal to collect.
+2592	[Tara Town Square] A street artist in Tara who is very passionate about the arts. He stubbornly sticks to the world of his works. Use Shamala's Transformation Medal to collect.
+2593	<Ancient Warrior> A mysterious warrior. Use Shamala's Transformation Medal to collect.
+2594	<Tragic Main Character> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2595	[Tara Alchemy Shop] The manager of the Tara Emporium Alchemy Shop. She has cheerful green eyes. Use Shamala's Transformation Medal to collect.
+2596	<Noble Alchemist> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2597	<Faithful Friend> Not that much is known about this one. Use Shamala's Transformation Medal to collect.
+2598	<Temple Knights> The one who was trained in the ascetic Pontiff's Court from childhood. An elite agent of the Temple Knights who can suppress and control her emotions perfectly. Use Shamala's Transformation Medal to collect.
+2599	[Emain Macha Puppet Shop] The Puppeteer in Emain Macha. A young man with a slender body and dark purple hair. Although he looks cold-hearted, he often wears a heart-warming smile. Use Shamala's Transformation Medal to collect.
+2600	[Qilla Base Camp] The Healer of the Qilla Base Camp. He grasps people's attention with his lovely face and calm voice. He moved to Iria with his old friend, Nicca. Use Shamala's Transformation Medal to collect.
+2601	[Cor Village] A mysterious lady who can transform into various creatures. Her past is veiled in mystery. She is reticent. When she talks with others, she just throws blunt words at them. Use Shamala's Transformation Medal to collect.
+2602	Like Zombies, Skeletons are undead raised by the power of the dead. Unlike Zombies, Skeletons are only bones. Encountered in Rabbie Basic Dungeon.
+2603	Wild Boar
+2604	Wild Boar can be found in Fiodh Dungeon.
+2605	Basilisks can be found in the Shadow Realm of Tara.
+2606	A hobgoblin with a massive bomb. Appears in Grandmaster 4-player Missions.
+2607	[Calida Exploration Camp] The Adventure Guide and Manager of the Bank in Zerdine. Belita hired him after he discovered Zardine. He was Voight's dearest friend, but they drifted apart after getting into a love triangle. Use Shamala's Transformation Medal to collect.
+2608	13th Champion Lota
+2609	4th Champion Gornevez
+2610	7th Champion Melor
+2611	Shop Brownie
+2612	Viewscope
+2613	Telescope
+2614	Nona
+2615	Hot Spring Monkey
+2616	Devon
+2617	Red Panda
+2618	Legatus
+2619	Roden
+2620	Rumon
+2621	Ringo
+2622	Manolin
+2623	Monatte
+2624	Monkey Man
+2625	Golden Monkey
+2626	Vanalen
+2627	Flirty Guy
+2628	Bean Rua Doorman
+2629	Bean Rua Employee
+2630	Vekurd
+2631	Shy
+2632	Wishing Tree
+2633	Crystal Ball
+2634	Innocent Girl
+2635	Simon
+2636	Siobhanin
+2637	Sieve
+2638	Mysterious Cat
+2639	Sym
+2640	Lonely Aristocrat
+2641	Austell
+2642	Art
+2643	Augustine
+2644	Little Huw
+2645	Urman
+2646	Quest Board
+2647	Ailla
+2648	House Manager Brownie
+2649	Adair
+2650	Tegau
+2651	Tibbie
+2652	Hamelin
+2653	Colossus Marionette
+2654	Pierrot Marionette
+2655	Claimh Solas
+2656	Adniel
+2657	Glas Ghaibhleann
+2658	Cromm Cruaich
+2710	Awakened Claimh Solas
+2712	[Tara Jousting Arena] A courageous Elf and the winner of the 13th Tara Jousting Tournament. Underestimate her at your own peril. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2713	[Tara Jousting Arena] The mysterious winner of the 4th Tara Jousting Tournament. Use Shamala's Transformation Medal to collect (Limited NPC)
+2714	[Tara Jousting Arena] A modest Giant who won the 7th Tara Jousting Tournament. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2715	<Shop Helper> A Brownie who sells items for its master. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2716	<Observatory> For a few gold, this Viewscope will give you a grand view. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2717	<Observatory> For a few gold, this Telescope will show you faraway lands. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2718	[Emain Macha Puppet Shop] This person is agonizing over which puppet to buy for a gift. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2719	< Hot Spring> A monkey that loves to bathe in the Belly Boom Hot Spring. It is very gluttonous. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2720	<Event> An astrologer with masterful command over Mana. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2721	< Event> This Red Panda is adorable when it waddles. And oh, how it loves to dance! Use Shamala's Transformation Medal to collect. (Limited NPC)
+2722	[Lake Caldera] This timeless dragon shimmers with the same serene blue of the lake. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2723	< Cooking Contest > A true chef is passionate about food. Use Shamala's Transformation Medal to collect. (Limtied NPC)
+2724	[Blago Prairie] The manager of Lezarro Winery. He wants to see Edana, who works at the Winery of Countess Eluned to the south. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2725	<Martial Arts Competition> Ringo's battle spirit is infectious. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2726	[Port Cobh] Come rain or shine, this man is always fishing at Port Cobh. One day he'll catch that shark! (Limited NPC)
+2727	[Belvast Port] He's constantly writing in his books as he oversees the workers of the port. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2728	<Hot Spring> This...monkey (?!) panhandles at the Hot Spring. Use Shamala's Transformation Medal to collect (Limited NPC)
+2729	<Event> A gourmet monkey with golden fur. He won't even glance at ordinary foods. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2730	[Belvast General Shop] A girl with fiery red hair and a smile as wide as the sea. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2731	[Tara Rath Royal Castle] What girl can resist this guy's cheesy pick-up lines? Use Shamala's Transformation Medal to collect. (Limited NPC)
+2732	[Emain Macha Pub] He helps the customers in and keeps the rabble out. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2733	[Emain Macha Pub] She's no Rua, but she's a beauty nonetheless. Helps the customers of the Pub relax. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2734	[Scathach Patrol Camp] All of the arrogance of the Royal Alchemists is concentrated in this man. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2735	<Event> This bob-haired beauty sells special items. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2736	[Belvast Garden] This tree will make your wishes come true...if you're willing to cough up its fee. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2737	<Crystal Ball> Visions of your past and future swirl within its crystal core. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2738	[Tara Rath Royal Castle] She's blinded by love for the Flirty Guy. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2739	[Dunbarton Clothing Shop] You can't look away from this guy's fancy dance. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2740	[Port Cobh General Shop] He's constantly fussing over his clothes. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2741	[Scathach Patrol Camp] She's supposed to be in charge of the camp's supplies, though sometimes he feels like a shopkeeper. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2742	<Mysterious Cat> A white cat with some splashes of color. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2743	[Emain Macha Puppet Shop] He needs THAT puppet! And THAT one! And THAT one! Use Shamala's Transformation Medal to collect. (Limited NPC)
+2744	[Tara Rath Royal Castle] He likes to wander the gardens for hours, alone with his thoughts. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2745	[Bard Camp] This golden-haired bard is quite skilled with the mandolin. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2746	[Bard Camp] Stand clear when he gets excited, or you'll take a hammer to the face. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2747	[Port Cobh Bank] The manager of Port Cobh's bank does his best to avoid his customers. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2748	<Puppeteer> This is how Huw, the puppet maker in Emain Macha, looked when he was little. Something about that hair... Use Shamala's Transformation Medal to collect. (Limited NPC)
+2749	[Scathach Patrol Camp] He's bright, straightforward, and knows his way around an anvil. Just don't ask him to get along with the Royal Alchemists... Use Shamala's Transformation Medal to collect. (Limited NPC)
+2750	<Board> All kinds of missions are posted to this door. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2751	[Bard Camp] This dancing bard is looking for love, and she's set her sights on Austell. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2752	<House Helper> This Brownie will keep your house in tip top shape. Look at those tiny glasses! Use Shamala's Transformation Medal to collect. (Limited NPC)
+2753	[Tara Jousting Arena] The winner of the first Tara Jousting Tournament now acts as an advisor for competitors. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2754	[Bard Camp] A gorgeous old lady with a benevolent smile. Her soft laugh puts people at ease. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2755	[Emain Macha Puppet Shop] This poor woman doesn't know what to do about her son's tantrums. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2756	[Bard Camp] When he starts playing his flute, nothing can grab his attention. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2757	<Puppeteer> It may just be a puppet, but that won't stop it from smashing your face in. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2758	<Puppeteer> The movements of this puppet are elegant, beautiful, and deadly. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2759	<???> After a series of experiments by corrupt Alchemists, Claimh Solas has become...this. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2760	<???> Adniel the Gold Dragon. It's waiting for the fated Milletian. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2761	<???> The giant of legend. Glas Ghaibhleann's soul has been taken away, and all that's left is a desire to destroy. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2762	<???> Cromm Cruaich is the Dragon of Death and the Devil of Destruction. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2763	<???> The corrupt Alchemists' experiments have awakened Claimh Solas. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2764	<Goddess of War> Not much is known about her. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2765	<Our Lady> Not that much is known about her. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2766	<Tragic Goddess> Not much is known about her. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2767	<One of the Three...> Not that much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2768	<Warrior of Darkness> Not that much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2769	<One of the Three...> Not that much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2770	<One of the Three...> Not that much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2771	<Knight of Darkness> Not that much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2772	<Goddess of Love> Not much is known about her. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2773	<History of Ups and Downs> Not that much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2774	<Tragic Being> Not that much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2775	Sprites are similar to Wisps, but they usually have an elemental alignment. You can encounter Wolf Sprites in Castle Dungeons.
+2776	Mount
+2778	<???>
+2779	Snowfield Slayer
+2780	Blade Wyvern
+2781	Korsek Raptor
+2782	White Dragon
+2783	A member of the White Dragon's army. It plays a defensive role in the army with its high Strength and Defense.
+2784	A member of the White Dragon's army. It plays an offensive role in the army, thanks to its sharp teeth and gliding ability.
+2786	The leader of the White Dragon's army. It despises everything except itself and other dragons. Although it's usually cool-headed, it will rampage violently once agitated.
+2787	Manus
+2788	Bebhinn
+2789	[Dunbarton Healer's House] The Healer of Dunbarton. Some people hate him for treating everyone informally as if they are all his close friends. He is a highly competent Healer nonetheless. Use Shamala's Transformation Medal to collect.
+2790	[Tir Chonaill Erskin Bank] A cute Clerk who works at the Tir Chonaill branch of Erskin Bank, which is the largest bank in Erinn. Use Shamala's Transformation Medal to collect.
+2791	A member of the Black Dragon's army. It tortures enemies just like a Hyena.
+2792	Black Dragon Knight
+2794	Vagabond\nRuairi
+2795	Millia
+2796	Winter Millia
+2797	Monkey Mask\nAkule
+2798	Eagle Mask\nAkule
+2800	Black Mask
+2801	Cessair's Heart
+2802	Dowra
+2803	Maike
+2804	<Saga> The Black Dragon Knight in full dark regalia. His identity is hidden behind his ornate mask. Use Shamala's Transformation Medal to collect. (Iria Saga NPC)
+2806	<Saga> Ruairi's long journey is drawing to a close, and his appearance reflects his hardships. Use Shamala's Transformation Medal to collect. (Iria Saga NPC)
+2807	<Saga> Millia was orphaned by a demon attack, and later was taken in by Akule. He trains her so she can become a shaman and take revenge. (Iria Saga NPC)
+2808	<Saga> Millia travelled far to find her lost teacher, braving even the icy lands in her quest. Use Shamala's Transformation Medal to collect. (Iria Saga NPC)
+2809	<Saga> Akule favors his monkey mask when he's in a jovial mood. Which is pretty much all the time. Use Shamala's Transformation Medal to collect. (Iria Saga NPC)
+2810	<Saga> For more serious outings, Akule switches to his eagle mask to aid his focus. Use Shamala's Transformation Medal to collect. (Iria Saga NPC)
+2812	<Saga> The enigmatic Black Mask has left no hint of his identity. What could his purpose in Iria be? Use Shamala's Transformation Medal to collect. (Iria Saga NPC)
+2813	<Saga> The Cessair answer to only one master. Use Shamala's Transformation Medal to collect. (Iria Saga NPC)
+2814	<Saga> Dowra is the mainstay of the Giant forces. Never backing down from a battle, her accomplishments have become the stuff of legends. Use Shamala's Transformation Medal to collect. (Iria Saga NPC)
+2815	<Saga> Maike might not be the most plesant company, but he's a very capable commander in the Elven army. Use Shamala's Transformation Medal to collect. (Iria Saga NPC)
+2816	Unmasked\nBlack Dragon Knight
+2817	Lelach
+2818	<Saga> At last, the identity of the Black Dragon Knight is revealed! And he looks awfully familiar... Use Shamala's Transformation Medal to collect. (Iria Saga NPC)
+2819	<Saga> Lelach went mad after botching an important ritual. He still has moments of clarity, especially around Millia. Use Shamala's Transformation Medal to collect. (Iria Saga NPC)
+2820	Undercover\nDowra
+2821	Undercover\nMaike
+2822	Unmasked\nCessair's Heart
+2823	Unmasked\nBlack Mask
+2824	Awakened\nTarlach
+2825	Revived Ruairi
+2826	Young Tarlach
+2827	Macha
+2828	Party Ruairi
+2829	Party Tarlach
+2830	Party Millia
+2831	Party Shamala
+2832	Party Lelach
+2833	Party Dowra
+2834	Party Maike
+2835	Party\nCessair's Heart
+2836	<Saga> There's a rumor that Dowra was once an elite secret agent for the Giants. Could there be any truth to this notion? Use Shamala's Transformation Medal to collect. (Sage Only NPC)
+2837	<Saga> Few people know that Maike is also the commander of the Elven Special Forces, a shadowy group that spies on the enemies of the Elves. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2838	<Saga> The woman behind the mask of Cessair's Heart is finally revealed. Her talent with Dual Guns is second to none. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2839	<Saga> Black Mask finally unmasks, and his identity is shocking to say the least. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2840	<Saga> Tarlach has been preparing for this moment for ages. But how did he gather the power to do such a thing? Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2841	<Saga> After the final battle, Ruairi's wounds were treated and he was fitted with a mechanical arm. His journey is not yet over. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2842	<Saga> This child introduces himself as Tarlach. He's shy and downright adorable, but there's something in his eyes... Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2843	<Goddess of Destruction> Macha is a terrifying mystery. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2844	<Saga> Ruairi is celebrating the Saga Wrap Party in a gorgeous outfit. A rumor has it that he's nominated for the Best Leading Actor award, thanks to his incredible revenge play. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2845	<Saga> Tarlach is celebrating the Saga Wrap Party in a gorgeous outfit. A rumor has it that he's nominated for the Best Leading Actor award, thanks to his handsome face. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2846	<Saga> Millia is celebrating the Saga Wrap Party in a beautiful party dress. A rumor has it that she's nominated for the Best Leading Actress award since she played the role of an annoying, naughty child so well.
+2847	<Saga> Shamala is celebrating the Saga Wrap Party in a beautiful party dress. A rumor has it that she's nominated for the Best Leading Actress award for transforming into various animals. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2848	<Saga> Lelach is celebrating the Saga Wrap Party in a gorgeous outfit. A rumor has it that he's nominated for the Best Leading Actor award since he played a lunatic so well, adding some great twists to the Saga. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2849	<Saga> Dowra is celebrating the Saga Wrap Party in a beautiful party dress. A rumor has it that she's nominated for the Best Supporting Actress award for pulling off the battle scenes without a stunt double. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2850	<Saga> Maike is celebrating the Saga Wrap Party in a gorgeous outfit. A rumor has it that he's nominated for the Best Supporting Actor award for playing the cold-hearted, cool-headed character so well. Use Shamala's Transformation Medal to collect.
+2851	<Saga> Cessair is celebrating the Saga Wrap Party in a gorgeous party dress. A rumor has it that she's nominated for the Rookie of the Year award for playing the cold-hearted and cool Gunslinger character so well. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2852	Nun
+2853	Johnny Rockstar
+2854	Giant Wolf
+2855	The Human Spider
+2856	Don Quixote
+2857	Male Ghostly \nEastern Vampire
+2858	Female Ghostly \nEastern Vampire
+2859	Male Vampire Hunter
+2860	Female \nVampire Hunter
+2861	Halloween \nRuairi
+2862	Halloween \nTarlach
+2863	Halloween\nMillia
+2864	Halloween \nDowra
+2865	Halloween \nMaike
+2866	Halloween \nMabinogi Manager
+2867	Halloween Imp
+2868	<Halloween> Nun. A bubbly nun from the Church of Lymilark. The character can only be collected using the Halloween Transformation Medal.
+2869	<Halloween> Johnny Rockstar. A rockin' bard that loves to party. The character can only be collected using the Halloween Transformation Medal.
+2870	<Halloween> Giant Wolf. An ordinary giant by day, and a vicious wolf under the full moon. The character can only be collected using the Halloween Transformation Medal.
+2871	<Halloween> The Human Spider. Does whatever a spider can. The character can only be collected using the Halloween Transformation Medal.
+2873	<Halloween> Male Ghostly Eastern Vampire. A ghostly vampire that has awoken from a long slumber. The character can only be collected using the Halloween Transformation Medal.
+2874	<Halloween> Female Ghostly Eastern Vampire. A ghostly vampire that has awoken from a long slumber. The character can only be collected using the Halloween Transformation Medal.
+2875	<Halloween> Male Vampire Hunter. A dark, mysterious hunter who uses a bow to hunt vampires. The character can only be collected using the Halloween Transformation Medal.
+2876	<Halloween> Female Vampire Hunter. A dark, mysterious hunter who uses a gun to hunt vampires. The character can only be collected using the Halloween Transformation Medal.
+2877	<Halloween> Ruairi, dressed up for Halloween. Not that much is known about him. The character can only be collected using the Halloween Transformation Medal.
+2878	<Halloween> Tarlach, dressed up for Halloween. Not that much is known about him. The character can only be collected using the Halloween Transformation Medal.
+2879	<Halloween> Millia, dressed up for Halloween. She seems more focused on her outfit than battle. The character can only be collected using the Halloween Transformation Medal.
+2880	<Halloween> Dowra, dressed up for Halloween. Even in constume, she looks strong and ready for a fight. The character can only be collected using the Halloween Transformation Medal.
+2881	<Halloween> Maike, dressed up for Halloween. He's wearing cute pajamas that do not fit his cold personality. The character can only be collected using the Halloween Transformation Medal.
+2882	<Halloween> Mabinogi Manger, dressed up for Halloween. He has a straw hat and is holding a fishing pole. The character can only be collected using the Halloween Transformation Medal.
+2883	<Halloween> Imp, dressed up for Halloween. The character can only be collected using the Halloween Transformation Medal.
+2884	< Halloween> Don Quixote. A knight with an unusual personality. He's equipped with a donkey floaty and charges headlong into his foes. The character can only be collected using the Halloween Transformation Medal.
+2885	<Halloween> Dowra, all dolled up for Halloween. Check out her cute dress and heart-shaped glasses. The character can only be collected using the Halloween Transformation Medal.
+2886	<Halloween> The Mabinogi Manger, decked out for Halloween. He can still hear you despite the headphones. The character can only be collected using the Halloween Transformation Medal.
+2887	스파이더티맨
+2888	스파이더티맨
+2889	스파이더티맨
+2890	스파이더티맨
+2891	< 할로윈 > 스파이더티맨. 거미줄을 이용하여 적을 상대하며 날렵하게 움직인다. 더러운 거미 의상을 입고 있다. 할로윈 변신 메달을 통해서만 수집할 수 있다.
+2892	< 할로윈 > 스파이더티맨. 거미줄을 이용하여 적을 상대하며 날렵하게 움직인다. 더러운 거미 의상을 입고 있다. 할로윈 변신 메달을 통해서만 수집할 수 있다.
+2893	Caravan Joe
+2894	<Caravan Joe> The professional event NPC. If you clear the Find Caravan Joe Now mission within 1 minute you can collect the NPC through the medal that is given as a reward. (Limited NPC)
+2895	Merlin
+2896	Starlet
+2905	<Saga Season 2> Merlin, one of the Ace heroes. He is a rare genius among geniuses, but his personality can be rather abrasive. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2906	<Saga Season 2> Starlet, one of the Ace heroes. With an explosive singing voice and amazing charisma, she is the ultimate performer. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2910	Professor J
+2911	Culinary Artist
+2912	Treasure Hunter
+2913	<Saga Season 2> Professor J, one of the Ace heroes. He is a transcendental being who has lead the the endless exploration of the alchemical sciences. He is known to be extremely stern and strict in his manner. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2914	<Saga Season 2> Culinary Artist, one of the Ace heroes. He is a chef with as much fire in his heart as the stoves he operates. No man, woman, or child can match his dishes or his passion. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2915	<Saga Season 2> Treasure Hunter, one of the Ace heroes. He is a mystic wanderer, an expert in the lost and found, and a true adventurer to the core. Use Shamala's Transformation Medal to collect. (Saga Only NPC)
+2916	Ghost Cat
+2917	Transforms you into a magical cat with arrogant eyes after receiving the Halloween moonlight. Use the Outfit Action while wearing the Night Witch Outfit.
+2918	Ghost Leopard
+2919	Transforms you into a muscular and magical black leopard in the Halloween moonlight. Use the Outfit Action while wearing the Night Witch Outfit.
+2929	<Constellation> One of the constellations that decorates Erinn's night sky. It has lost its light and fallen from the heavens. Can be collected using the Constellation Transformation Medal.
+2930	<Constellation> One of the constellations that decorates Erinn's night sky. It has lost its light and fallen from the heavens. Can be collected using the Constellation Transformation Medal.
+2931	<Constellation> One of the constellations that decorates Erinn's night sky. It has lost its light and fallen from the heavens. Can be collected using the Constellation Transformation Medal.
+2932	<Constellation> One of the constellations that decorates Erinn's night sky. It has lost its light and fallen from the heavens. Can be collected using the Constellation Transformation Medal.
+2933	<Constellation> One of the constellations that decorates Erinn's night sky. It has lost its light and fallen from the heavens. Can be collected using the Constellation Transformation Medal.
+2934	<Constellation> One of the constellations that decorates Erinn's night sky. It has lost its light and fallen from the heavens. Can be collected using the Constellation Transformation Medal.
+2935	<Constellation> One of the constellations that decorates Erinn's night sky. It has lost its light and fallen from the heavens. Can be collected using the Constellation Transformation Medal.
+2936	<Constellation> One of the constellations that decorates Erinn's night sky. It has lost its light and fallen from the heavens. Can be collected using the Constellation Transformation Medal.
+2937	<Constellation> One of the constellations that decorates Erinn's night sky. It has lost its light and fallen from the heavens. Can be collected using the Constellation Transformation Medal.
+2938	Lost Arachne
+2939	Lost Golem
+2940	Lost Ursa Minor
+2941	Lost Aries
+2942	Lost Vulpecula
+2943	Lost Monoceros
+2944	Lost Serpens
+2945	Lost Lynx
+2946	Lost Draco
+2947	Altam
+2948	Avelin
+2949	Talvish
+2953	A member of the Arthuan Unit of the Alban Knights. The youngest knight in history, he holds tremendous potential, but his overzealousness often leads to mistakes. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2954	The leader of the Arthuan Unit of the Alban Knights. She not only follows regulations but ensures others do as well. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2955	The leader of the Elved Unit of the Alban Knights. He's known for his courage, and he's the most famous member of the Alban Knights. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2956	Pihne
+2957	Caswyn
+2958	Meryl
+2959	Laighlinne
+2962	Laighlinne of Samhain disguised as Meryl. A lively adventurer with a fun and outgoing personality. Lover of ships and the sea. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2964	The leader of the Eiler Unit of the Alban Knights. She is warm and welcoming. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2966	Leader of the Alban Knights' Alban Heruin Unit, Caswyn. From a glance he doesn't seem to do much, but he carries out his leader's duty perfectly. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2967	<Samhain> Laighlinne, a spirit of the forgotten tribe. With a warm heart, she has an undying devotion to protecting her people. Use Shamala's Transformation Medal to collect her. (Limited NPC)
+2968	Caravan Joe
+2970	<Caravan Joe> The professional event NPC who's dressed up in a Halloween costume! If you clear the Find Caravan Joe Now mission within 1 minute you can collect the NPC through the medal that is given as a reward. (Limited NPC)
+2971	Little Ghost
+2972	Kyle
+2973	Colton
+2974	William
+2975	<Halloween> A ghost who dreams of becoming the scariest ghost of all. Collect it by using the medal you obtain from completing the Little Ghost's Story. (Limited NPC)
+2976	<Halloween> The Little Ghost's oldest brother, Kyle. Collect it by using the medal you obtain from completing the Little Ghost's Story. (Limited NPC)
+2977	<Halloween> The Little Ghost's second-oldest brother, Colton. Collect it by using the medal you obtain from completing the Little Ghost's Story. (Limited NPC)
+2978	<Halloween> The Little Ghost's third-oldest brother, William. Collect it by using the medal you obtain from completing the Little Ghost's Story. (Limited NPC)
+2979	Succubus Fiend
+2980	Succubus Queen
+2981	Kupa
+2983	Cookie Witch
+2984	Belisha
+2986	Trickster
+2988	Fez
+2989	Tia
+2990	< ??? > Succubus Fiend. She may look dainty, but she can also be deadly. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2991	< ??? > Succubus Queen. This queen has a deceptively non-threatening demeanor. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2992	< ??? > Kupa. This darling little star is as sweet as it looks! Use Shamala's Transformation Medal to collect. (Limited NPC)
+2994	< ??? > Cookie Witch. This shy enchantress isn't as aloof as she lets on. She's always looking for new friends! Use Shamala's Transformation Medal to collect. (Limited NPC)
+2995	< Halloween > Belisha. As a youngster, she was such a polite girl. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2997	< Halloween > Trickster. This troublemaker is always looking for ways to cause problems. Use Shamala's Transformation Medal to collect. (Limited NPC)
+2999	< Festia > Fez, the mascot of Festia. He may be a bit clumsy, but he always gives his best effort. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3000	< Festia > Tia, the mascot of Festia. She always looks out for Fez, even though she pretends otherwise. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3001	Red-eyed Belisha
+3002	< Halloween > Red-eyed Belisha. Her eyes twinkle at the prospect of an amazing Halloween party. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3003	-
+3004	-
+3005	-
+3006	-
+3007	-
+3008	-
+3009	-
+3010	Song of Grief
+3011	Armored Girgashiy
+3012	Zebach
+3013	Unnamed Apostle
+3014	Girgashiy
+3015	Duke
+3016	Sephirot
+3017	Black Wizard
+3018	Marcan
+3019	Pennar
+3021	Lament of Agony
+3022	Gargoyle Idol
+3023	Gigantic Sheep Wolf
+3024	Runaway Gingerman
+3025	Rainbow Sheep (Red)
+3026	Rainbow Sheep (Orange)
+3027	Rainbow Sheep (Yellow)
+3028	Rainbow Sheep (Green)
+3029	Rainbow Sheep (Blue)
+3030	Rainbow Sheep (Navy)
+3031	Rainbow Sheep (Purple)
+3032	Rainbow Sheep (White)
+3033	Rainbow Sheep (Black)
+3034	Mischievous Kanna
+3035	Mischievous Logan
+3036	Mischievous Eirlys
+3037	Mischievous Dai
+3038	Mischievous Elsie
+3039	Mischievous Kaour
+3040	Mischievous Shuan
+3041	Student Kanna
+3042	Student Logan
+3043	Student Eirlys
+3044	Student Dai
+3045	Student Elsie
+3046	Student Kaour
+3047	Student Shuan
+3048	< ??? > Song of Grief. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3049	<???> Armored Girgashiy. One of the destructive Apostles that have appeared all over the continent of Uladh. This one is much more powerful than other Girgashiy specimens. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3050	<???> Zebach. An Apostle born of the dead's desire to live again. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3051	< ??? > Unamed Apostle. A mysterious Apostle emanating a powerful, Gothic aura. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3052	<???> Girgashiy. One of the destructive Apostles that have appeared all over the continent of Uladh. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3053	< ??? > Duke. A vampire dressed in the garb of ancient nobility. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3054	< ??? > Sephirot. Grave peril awaits those who dare approach this beautiful but evil gigantic tree. To approach it is truly to go out on a limb! Use Shamala's Transformation Medal to collect. (Limited NPC)
+3055	< ??? > Black Wizard. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3056	< ??? > Marcan. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3057	< ??? > Pennar. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3059	< ??? > Lament of Agony. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3060	< ??? > Gargoyle Idol. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3061	< ??? > Gigantic Sheep Wolf. The Gigantic Sheep Wolf is worse than any other big, baaaaad wolf! Its only weakness is against magic. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3062	< ??? > Runaway Gingerman. This guy is one tough cookie. Take him out before the town is destroyed! Use Shamala's Transformation Medal to collect. (Limited NPC)
+3063	<???> Red Rainbow Sheep. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3064	<???> Orange Rainbow Sheep. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3065	<???> Yellow Rainbow Sheep. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3066	<???> Green Rainbow Sheep. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3067	<???> Blue Rainbow Sheep. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3068	<???> Navy Rainbow Sheep. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3069	<???> Purple Rainbow Sheep. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3070	<???> White Rainbow Sheep. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3071	<???> Black Rainbow Sheep. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3072	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3073	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3074	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3075	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3076	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3077	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3078	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3079	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3080	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3081	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3082	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3083	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3084	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3085	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3086	Preschooler Kanna
+3087	Preschooler Logan
+3088	Preschooler Eirlys
+3089	Preschooler Dai
+3090	Preschooler Elsie
+3091	Preschooler Kaour
+3092	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3093	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3094	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3095	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3096	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3097	< ??? > To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3098	Enn
+3099	< ??? > Enn. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3100	Eiren
+3101	< ??? > Eiren. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3104	Possessed Eiren
+3105	< ??? > Possessed Eiren. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3106	Llywelyn
+3108	Hasidim
+3109	Creag
+3110	Archelon
+3111	Sylvan Dragon
+3124	< ??? > Llywelyn. To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3126	< ??? > Hasidim. To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3127	< ??? > Creag. To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3128	< ??? > Archelon. To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3129	< ??? > Sylvan Dragon. To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3136	Altam the Energetic
+3137	Talvish the Middle Manager
+3138	Caswyn the Listless
+3139	Avelin the Wrap Artist
+3140	Pihne the Seller of Souvenirs
+3141	Llywelyn the Perpetually Unimpressed
+3142	< ??? > Altam the Energetic. To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3143	< ??? > Talvish the Middle Manager. To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3144	< ??? > Caswyn the Listless. To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3145	< ??? > Avelin the Wrap Artist. To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3146	< ??? > Pihne the Seller of Souvenirs. To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3147	< ??? > Llywelyn the Perpetually Unimpressed. To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3148	Determined Avelin
+3149	< ??? > Determined Avelin. To collect this NPC, use Shamala's Transformation Medal! (Limited NPC)
+3150	Ancient Desert Guardian
+3151	Ancient Desert Warrior
+3152	You can channel the power of the ancient temple to transform into the Ancient Desert Guardian spoken of in the legends. Use the Ancient Desert Guardian action to transform.
+3153	You can channel the power of the ancient temple to transform into the Ancient Desert Warrior spoken of in the legends. Use the Ancient Desert Warrior action to transform.
+3154	Vayne
+3155	Piran
+3156	Cethlenn
+3157	Marleid
+3158	Balor
+3159	Tathlum
+3160	Illusion Salamander
+3161	Illusion Zombie
+3162	Fire Slime
+3163	Ice Slime
+3164	Lightning Slime
+3165	Tech Duinn Geata
+3166	Evil Eye Monolith
+3167	Brielle
+3168	Gillach
+3169	< ??? > Vayne. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3170	< ??? > Piran. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3171	< ??? > Cethlenn. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3172	< ??? > Marleid. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3173	< ??? > Balor. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3174	< ??? > Tathlum. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3175	< ??? > Illusion Salamander. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3176	< ??? > Illusion Zombie. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3177	< ??? > Fire Slime. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3178	< ??? > Ice Slime. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3179	< ??? > Lightning Slime. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3180	< ??? > Tech Duinn Geata. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3181	< ??? > Evil Eye Monolith. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3182	< ??? > Brielle. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3183	< ??? > Gillach. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3184	[센마이 상점가 은행] 센마이 상점가 은행의 지점장 겸 상점가 안내원. 부끄러움이 많은 새신랑이지만 알고보면 능청스럽고 센스도 좋다. 음악이나 독서, 그림그리기 등을 취미로 할 만큼 기본 교양도 높다. 샤말라의 변신 메달을 이용해 수집할 수 있다.
+3185	[두갈드 상점가 잡화점] 두갈드 상점가 잡화점의 주인. 이멘 마하가 고향이지만 전원적인 생활과 모험가들에 대한 동경으로 이곳 두갈드 상점가로 옮겨왔다. 도수가 없는 안경을 쓰고 있고 패션에 관심이 많다. 샤말라의 변신 메달을 이용해 수집할 수 있다.
+3186	[퀼린 상점가 잡화점] 퀼린 상점가 잡화점의 관리인. 연극 무대를 향한 꿈을 잊지 않고 살아간다. 여린 체구에서 나오는 무게있는 발성이 놀랍다. 샤말라의 변신 메달을 이용해 수집할 수 있다.
+3187	[퀼린 상점가 은행] 퀼린 상점가의 은행원. 어깨까지 땋은 긴 은발 머리와 안경이 돋보인다. 샤말라의 변신 메달을 이용해 수집할 수 있다.
+3188	[두갈드 상점가 은행] 두갈드 상점가의 은행 출장 지점에서 아르바이트 중이다. 싹싹하고 붙임성이 좋으며 모험가들을 동경한다. 샤말라의 변신 메달을 이용해 수집할 수 있다.
+3189	[센마이 상점가 잡화점] 센마이 상점가 잡화점의 주인. 저 멀리 두갈드 상점가 잡화점을 운영하는 로레인의 쌍둥이 동생이다. 로레인과 비교당하는 것을 상당히 싫어한다. 샤말라의 변신 메달을 이용해 수집할 수 있다.
+3190	Master Plan \nHelper Summer
+3191	< ??? > Master Plan Helper Summer. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3192	Mysterious Snowman Robe
+3193	A robe woven in the appearance of a cute snowman, and enchanted with a peculiar magic that allows you to transform into one!
+3195	Morfydrianas
+3196	Murielle
+3197	Bhatair
+3199	Talek
+3201	< ??? > Morfydrianas. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3202	< ??? > Murielle. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3203	< ??? > Bhatair. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3205	< ??? > Talek. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3206	Coral Golem
+3207	Proficient Far Darrig
+3208	Pathfinding Far Darrig
+3209	Courageous Far Darrig
+3210	Blackened Darrig
+3211	Barrier Guardian Spirit
+3212	Kraken Rex
+3213	Kraken Leg
+3214	Manannan's Servant
+3215	< ??? > Coral Golem. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3216	< ??? > Proficient Far Darrig. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3217	< ??? > Pathfinding Far Darrig. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3218	< ??? > Courageous Far Darrig. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3219	< ??? > Blackened Darrig. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3220	< ??? > Barrier Guardian Spirit. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3221	< ??? > Kraken Rex. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3222	< ??? > Kraken Leg. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3223	< ??? > Manannan's Servant. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3224	Morfydrianas
+3225	Murielle
+3226	Bhatair
+3227	Talek
+3228	< ??? > Morfydrianas. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3229	< ??? > Murielle. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3230	< ??? > Bhatair. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3231	< ??? > Talek. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3232	Civil Militia Altam
+3233	Chief Talvish
+3234	Healer Pihne
+3235	Inn Owner Llywelyn
+3236	Innkeeper Avelin
+3237	Shepherd Caswyn
+3238	< ??? > Civil Militia Altam. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3239	< ??? > Chief Talvish. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3240	< ??? > Healer Pihne. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3241	< ??? > Inn Owner Llywelyn. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3242	< ??? > Innkeeper Avelin. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3243	< ??? > Shepherd Caswyn. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3244	Fodla
+3245	Deirbhile
+3246	Sera
+3247	Black Moon Cromm Cruaich
+3248	Incubus King
+3249	< ??? > Fodla. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3250	< ??? > Deirbhile. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3251	< ??? > Sera. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3252	< ??? > Black Moon Cromm Cruaich. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3253	< ??? > Incubus King. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3254	Mokkurkalfi
+3255	< ??? > Mokkurkalfi. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3256	Roaming Roaster
+3257	< ??? > Roaming Roaster. Not much is known about this one. Use Shamala's Transformation Medal to collect. (Limited NPC)
+3258	Cellien Quest Board
+3259	Cellien Crystal Ball
+3260	Cellien Viewscope
+3261	Kaban Hat
+3262	Japari Bread
+3263	Lucky Beast
+3264	Rockhopper Penguin Cutout Display
+3265	Humboldt Penguin Cutout Display
+3266	Royal Penguin Cutout Display
+3267	Emperor Penguin Cutout Display
+3268	Gentoo Penguin Cutout Display
+3269	< ??? > Not much is known about this one. Unable to collect this transformation.
+3270	< ??? > Not much is known about this one. Unable to collect this transformation.
+3271	< ??? > Not much is known about this one. Unable to collect this transformation.
+3272	< ??? > Not much is known about this one. Unable to collect this transformation.
+3273	< ??? > Not much is known about this one. Unable to collect this transformation.
+3274	< ??? > Not much is known about this one. Unable to collect this transformation.
+3275	< ??? > Not much is known about this one. Unable to collect this transformation.
+3276	< ??? > Not much is known about this one. Unable to collect this transformation.
+3277	< ??? > Not much is known about this one. Unable to collect this transformation.
+3278	< ??? > Not much is known about this one. Unable to collect this transformation.
+3279	< ??? > Not much is known about this one. Unable to collect this transformation.

@@ -1,0 +1,4 @@
+﻿1	Recover master's HP when there's a target
+2	Run away when there's a target
+3	Use Healing when the master's attacked
+4	Use Healing when the master's knocked down

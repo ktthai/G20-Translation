@@ -1,0 +1,1340 @@
+﻿0	Practice mode.
+1	add(10, 10, "Attack anything you can");
+2	Objects are able to be attacked by left-clicking on the mouse!  You will know that an object is attackable if the cursor shape changes to a sword when you place it over the object. Why don't you try practicing on the practice dummy at the School?  Unfortunately, no matter how much you practice on the dummy, this skill will not advance.
+4	STR +2
+5	STR +3
+6	STR +3
+7	STR +3
+8	STR +4
+9	STR +4
+10	STR +4
+11	STR +4
+12	STR +4
+13	STR +2, DEX +2
+14	STR +2, DEX +2
+15	STR +2, DEX +2
+16	STR +2, DEX +2
+18	DEX +1
+19	DEX +1
+20	DEX +1
+21	DEX +1
+22	DEX +1
+23	DEX +1
+24	DEX +1
+25	DEX +1
+26	DEX +1
+27	DEX +1
+28	DEX +1
+29	DEX +1
+30	DEX +1
+31	DEX +1
+32	DEX +1
+33	WILL +3
+34	WILL +3
+35	WILL +3
+36	WILL +3
+37	WILL +3
+38	WILL +3
+39	WILL +3
+40	WILL +3
+41	WILL +3
+42	WILL +3
+43	WILL +3
+44	WILL +3
+45	WILL +3
+46	WILL +3
+47	WILL +3
+48	HP +2
+49	HP +2
+50	HP +2
+51	HP +2
+52	HP +2
+53	HP +2
+54	HP +2
+55	HP +2
+56	HP +2
+57	HP +2
+58	HP +2
+59	HP +3
+60	HP +3
+61	HP +3
+62	HP +10
+63	INT +3
+64	INT +3
+65	INT +3
+66	INT +3
+67	INT +4
+68	INT +4
+69	INT +4
+70	INT +5
+71	INT +5
+72	INT +5
+73	INT +5
+74	INT +5, STR +2
+75	INT +5, STR +2
+76	INT +5, STR +2
+77	INT +5, STR +2
+78	INT +1
+79	INT +2
+80	INT +2
+81	INT +2
+82	INT +3
+83	INT +3
+84	INT +3
+85	INT +4
+86	INT +4
+87	INT +4
+88	INT +4
+89	INT +5
+90	INT +5
+91	INT +5
+92	INT +5
+93	INT +1
+94	INT +2
+95	INT +2
+96	INT +2
+97	INT +3
+98	INT +3
+99	INT +3
+100	INT +4
+101	INT +4
+102	INT +4
+103	INT +4
+104	INT +5
+105	INT +5
+106	INT +5
+107	INT +5
+108	INT +1
+109	INT +1
+110	INT +1
+111	INT +1
+112	INT +1
+113	INT +1
+114	INT +2
+115	INT +2
+116	INT +2
+117	INT +2
+118	INT +3, MP +5
+119	INT +3, MP +5
+120	INT +3, MP +5
+121	INT +3, MP +5
+122	INT +3, MP +5
+123	INT +1
+124	INT +2
+125	INT +2
+126	INT +2
+127	INT +3
+128	INT +3
+129	INT +3
+130	INT +4
+131	INT +4
+132	INT +4
+133	INT +4
+134	INT +5
+135	INT +5
+136	INT +5
+137	INT +5
+138	MP +10
+139	MP +10
+140	MP +10
+141	MP +10
+144	MP +10, INT +1
+145	MP +10, INT +1
+146	MP +10, INT +1
+147	MP +10, INT +1
+152	MP +10, INT +5
+153	STR +1, WILL +1
+154	STR +1, WILL +1
+155	STR +1, WILL +1
+156	STR +1, WILL +1
+157	STR +1, WILL +1
+158	STR +1, WILL +1
+159	STR +1, WILL +1
+160	STR +1, WILL +1
+161	MP +5, WILL +1
+162	MP +5, WILL +1
+163	MP +5, WILL +1
+164	MP +6, WILL +1
+165	MP +6, WILL +1
+166	MP +6, WILL +1
+167	MP +7, WILL +2
+168	MP +7, WILL +2
+169	MP +8, WILL +2
+170	MP +10, WILL +2
+171	MP +5, WILL +3
+172	MP +5, WILL +3
+173	MP +5, WILL +3
+174	MP +5, WILL +3
+175	MP +5, WILL +3
+176	WILL +3, STR +1
+177	WILL +3, STR +1
+178	WILL +3, STR +1
+179	WILL +3, STR +1
+180	WILL +3, STR +1
+181	WILL +3, STR +2
+182	WILL +3, STR +2
+183	WILL +3, STR +2
+184	WILL +3, STR +2
+185	WILL +3, STR +2
+186	WILL +4, STR +3
+187	WILL +4, STR +3
+188	WILL +4, STR +3
+189	WILL +4, STR +3
+190	WILL +4, STR +3
+195	+5 Max Damage added to Melee attack\n+5 Min Damage to Melee attack\nHP +50
+206	Close Counter-attack Practice
+207	Counterattack uses 50% of the enemy's attack combined with 100% of your attack.\nCritical Hit +5%
+222	Practicing Critical Hit
+223	Deals +50% damage when you get a Critical Hit.
+224	Deals 55% damage when you get a Critical Hit.
+225	Deals 60% damage when you get a Critical Hit.
+226	Deals 65% damage when you get a Critical Hit.
+227	Deals 70% damage when you get a Critical Hit.
+228	Deals 75% damage when you get a Critical Hit.
+229	Deals 90% damage when you get a Critical Hit.
+230	Deals 95% damage when you get a Critical Hit.
+231	Deals 100% damage when you get a Critical Hit.
+232	Deals 105% damage when you get a Critical Hit.
+233	Deals 110% damage when you get a Critical Hit.
+234	Deals 120% damage when you get a Critical Hit.
+235	Deals 130% damage when you get a Critical Hit.
+236	Deals 140% damage when you get a Critical Hit.
+237	Deals 150% damage when you get a Critical Hit.
+238	Practice using the Defense skill.
+254	Fire Damage: 100-300
+255	Fire Damage: 200-500
+256	Fire Damage: 300-800
+257	Fire Damage: 400-1000
+258	Fire Damage: 500-1200
+259	Fire Damage: 700-1300
+260	Fire Damage: 900-1500
+261	Fire Damage: 1300-2000
+262	Fire Damage: 1400-2100
+263	Fire Damage: 1500-2200
+264	Fire Damage: 1550-2300
+265	Fire Damage: 1800-2500
+266	Fire Damage: 1800-2600
+267	Fire Damage: 1800-2700
+268	Fire Damage: 1800-2800
+269	Fire Damage: 2000-3000
+270	Practice using the Firebolt skill. \n(During practice - Damage: 4-10.)
+271	Fire Damage: 7-25
+272	Fire Damage: 8-27
+273	Fire Damage: 9-28
+274	Fire Damage: 11-30
+275	Fire Damage: 13-35
+276	Fire Damage: 15-40
+277	Fire Damage: 18-45
+278	Fire Damage: 21-50
+279	Fire Damage: 25-55
+280	Fire Damage: 29-60
+281	Fire Damage: 40-80
+282	Fire Damage: 45-85
+283	Fire Damage: 50-90
+284	Fire Damage: 55-95
+285	Fire Damage: 60-120
+286	Practice using the Icebolt skill. \n(During practice - Damage: 4-10.)
+287	Ice Damage: 10-20
+288	Ice Damage: 11-21
+289	Ice Damage: 13-23
+290	Ice Damage: 15-25
+291	Ice Damage: 18-27
+292	Ice Damage: 21-30
+293	Ice Damage: 24-35
+294	Ice Damage: 28-40
+295	Ice Damage: 32-45
+296	Ice Damage: 37-48
+297	Ice Damage: 48-54
+298	Ice Damage: 53-59
+299	Ice Damage: 59-65
+300	Ice Damage: 63-72
+301	Ice Damage: 70-80
+302	Ice Damage: 50-100
+303	Ice Damage: 100-110
+304	Ice Damage: 105-120
+305	Ice Damage: 110-130
+306	Ice Damage: 115-140
+307	Ice Damage: 120-150
+308	Ice Damage: 125-160
+309	Ice Damage: 140-180
+310	Ice Damage: 145-190
+311	Ice Damage: 150-200
+312	Ice Damage: 155-210
+313	Ice Damage: 170-230
+314	Ice Damage: 175-240
+315	Ice Damage: 180-250
+316	Ice Damage: 185-260
+317	Ice Damage: 200-300
+318	Practice using the Lightning Bolt skill. \n(During practice - Damage: 1-10.)
+319	Lightning Damage: 1-40
+320	Lightning Damage: 2-46
+321	Lightning Damage: 3-52
+322	Lightning Damage: 4-58
+323	Lightning Damage: 5-65
+324	Lightning Damage: 6-72
+325	Lightning Damage: 7-79
+326	Lightning Damage: 9-86
+327	Lightning Damage: 11-93
+328	Lightning Damage: 13-100
+329	Lightning Damage: 20-110
+330	Lightning Damage: 24-120
+331	Lightning Damage: 28-130
+332	Lightning Damage: 32-140
+333	Lightning Damage: 40-150
+334	Practice using the Smash skill.\n(During practice - Damage: 150%.)
+335	Damage: 200%
+336	Damage: 210%
+337	Damage: 220%
+338	Damage: 230%
+339	Damage: 240%
+340	Damage: 250%
+341	Damage: 300%
+342	Damage: 310%
+343	Damage: 320%
+344	Damage: 330%
+345	Damage: 400%
+346	Damage: 420%
+347	Damage: 440%
+348	Damage: 460%
+349	Damage: 500%
+350	Lightning Damage: 7-50
+351	Lightning Damage: 13-83
+352	Lightning Damage: 20-133
+353	Lightning Damage: 27-167
+354	Lightning Damage: 33-200
+355	Lightning Damage: 47-217
+356	Lightning Damage: 60-250
+357	Lightning Damage: 87-333
+358	Lightning Damage: 93-350
+359	Lightning Damage: 100-367
+360	Lightning Damage: 103-383
+361	Lightning Damage: 110-417
+362	Lightning Damage: 117-433
+363	Lightning Damage: 120-450
+364	Lightning Damage: 127-467
+365	Lightning Damage: 133-500
+366	An area melee attack that does 100% of your base damage to surrounding enemies. \nHP Cost: -10%.
+367	An area melee attack that does 110% of your base damage to surrounding enemies. \nHP Cost: -10%.
+368	An area melee attack that does 120% of your base damage to surrounding enemies. \nHP Cost: -10%.
+369	An area melee attack that does 130% of your base damage to surrounding enemies. \nHP Cost: -10%.
+370	An area melee attack that does 140% of your base damage to surrounding enemies. \nHP Cost: -10%.
+371	An area melee attack that does 150% of your base damage to surrounding enemies. \nHP Cost: -10%.
+372	An area melee attack that does 160% of your base damage to surrounding enemies. \nHP Cost: -10%.
+373	An area melee attack that does 170% of your base damage to surrounding enemies. \nHP Cost: -10%.
+374	An area melee attack that does 180% of your base damage to surrounding enemies. \nHP Cost: -10%.
+375	An area melee attack that does 190% of your base damage to surrounding enemies. \nHP Cost: -10%.
+376	An area melee attack that does 200% of your base damage to surrounding enemies. \nHP Cost: -10%.
+377	An area melee attack that does 210% of your base damage to surrounding enemies. \nHP Cost: -10%.
+378	An area melee attack that does 220% of your base damage to surrounding enemies. \nHP Cost: -10%.
+379	An area melee attack that does 230% of your base damage to surrounding enemies. \nHP Cost: -10%.
+380	An area melee attack that does 250% of your base damage to surrounding enemies. \nHP Cost: -10%.
+383	add(0.05, 200, "Attack an enemy");\nadd(0.1, 100, "Knock down an enemy with multiple hits");\nadd(0.2, 50, "Defeat an enemy");\nadd(0.5, 50, "Attack a similar ranked enemy");\nadd(1, 100, "Knock down a similar ranked enemy");\nadd(2, 50, "Defeat a similar-ranked enemy");\nadd(5, 10, "Knock down a powerful enemy", false);\nadd(10, 10, "Defeat a powerful enemy",
+384	add(0.03, 1000, "Attack a similar ranked enemy");\nadd(0.06, 320, "Knock down a similar ranked enemy");\nadd(2, 160, "Defeat a similar-ranked enemy");\nadd(3, 16, "Knock down a powerful enemy");\nadd(6, 16, "Defeat a powerful enemy");\nadd(6, 11, "Knock down a very powerful enemy", false);\nadd(13, 8, "Defeat a very powerful enemy", false);
+385	add(0.01, 1600, "Attack a similar ranked enemy");\nadd(0.03, 640, "Knock down a similar ranked enemy");\nadd(1, 320, "Defeat a similar-ranked enemy");\nadd(3, 32, "Knock down a powerful enemy");\nadd(6, 32, "Defeat a powerful enemy");\nadd(6, 16, "Knock down a very powerful enemy", false);\nadd(13, 13, "Defeat a very powerful enemy", false);
+386	add(0.03, 1400, "Knock down a similar ranked enemy");\nadd(0.06, 480, "Defeat a similar-ranked enemy");\nadd(2, 160, "Knock down a powerful enemy");\nadd(3, 80, "Defeat a powerful enemy");\nadd(3, 32, "Knock down a very powerful enemy", false);\nadd(6, 16, "Defeat a very powerful enemy", false);
+387	add(0.02, 2000, "Knock down a similar ranked enemy");\nadd(0.25, 800, "Defeat a similar-ranked enemy");\nadd(1.5, 100, "Knock down a powerful enemy");\nadd(2.5, 200, "Defeat a powerful enemy");\nadd(2.5, 40, "Knock down a very powerful enemy", false);\nadd(5, 100, "Defeat a very powerful enemy", false);
+388	add(0.05, 800, "Defeat a similar-ranked enemy");\nadd(0.1, 400, "Knock down a powerful enemy");\nadd(0.25, 400, "Defeat a powerful enemy");\nadd(1, 200, "Knock down a very powerful enemy");\nadd(2.5, 200, "Defeat a very powerful enemy");\nadd(2.5, 20, "Knock down a Boss-level enemy", false);\nadd(5, 10, "Defeat a Boss-level enemy", false);
+389	add(0.05, 800, "Defeat a similar-ranked enemy");\nadd(0.1, 400, "Knock down a powerful enemy");\nadd(0.25, 400, "Defeat a powerful enemy");\nadd(1, 200, "Knock down a very powerful enemy");\nadd(2.5, 200, "Defeat a very powerful enemy");\nadd(2.5, 20, "Knock down a Boss-level enemy", false);\nadd(5, 10, "Defeat a Boss-level enemy", false);
+390	add(0.05, 800, "Knock down a powerful enemy");\nadd(0.15, 600, "Defeat a powerful enemy");\nadd(1, 240, "Knock down a very powerful enemy");\nadd(2.5, 240, "Defeat a very powerful enemy");\nadd(2.5, 20, "Knock down a Boss-level enemy", false);\nadd(5, 10, "Defeat a Boss-level enemy", false);
+391	add(0.03, 1500, "Knock down a powerful enemy");\nadd(0.06, 900, "Defeat a powerful enemy");\nadd(0.06, 450, "Knock down a very powerful enemy");\nadd(1.6, 450, "Defeat a very powerful enemy");\nadd(1.6, 45, "Knock down a Boss-level enemy", false);\nadd(3.3, 15, "Defeat a Boss-level enemy", false);
+392	add(0.02, 3000, "Knock down a powerful enemy");\nadd(0.03, 2400, "Defeat a powerful enemy");\nadd(0.03, 600, "Knock down a very powerful enemy");\nadd(1.6, 600, "Defeat a very powerful enemy");\nadd(1.6, 45, "Knock down a Boss-level enemy", false);\nadd(3.3, 15, "Defeat a Boss-level enemy", false);
+393	add(0.02, 3000, "Knock down a powerful enemy");\nadd(0.03, 3000, "Defeat a powerful enemy");\nadd(0.3, 1150, "Knock down a very powerful enemy");\nadd(1, 1050, "Defeat a very powerful enemy");\nadd(1, 45, "Knock down a Boss-level enemy", false);\nadd(2.6, 15, "Defeat a Boss-level enemy", false);
+394	add(0.01, 5000, "Knock down a powerful enemy");\nadd(0.01, 5000, "Defeat a powerful enemy");\nadd(0.25, 2000, "Knock down a very powerful enemy");\nadd(0.25, 2000, "Defeat a very powerful enemy");\nadd(0.5, 120, "Knock down a Boss-level enemy", false);\nadd(1.25, 60, "Defeat a Boss-level enemy", false);
+395	add(0.01, 5000, "Knock down a powerful enemy");\nadd(0.01, 5000, "Defeat a powerful enemy");\nadd(0.25, 2000, "Knock down a very powerful enemy");\nadd(0.25, 2000, "Defeat a very powerful enemy");\nadd(0.5, 120, "Knock down a Boss-level enemy", false);\nadd(1.25, 60, "Defeat a Boss-level enemy", false);
+396	add(100, 1, "Learn a better method from a book or person");
+412	add(100, 1, "Learn a better method from a book or person");
+413	add(4, 20, "Critical Hit activated");\nadd(5, 5, "Learn from opponent's Critical attack", false);\nadd(5, 10, "Finish with the final strike using Critical Hit", false);
+414	add(3, 15, "Critical Hit activated");\nadd(4, 10, "Learn from opponent's Critical attack", false);\nadd(4, 20, "Finish with the final strike using Critical Hit", false);
+415	add(3, 15, "Critical Hit activated");\nadd(2, 20, "Learn from opponent's Critical attack", false);\nadd(4, 30, "Finish with the final strike using Critical Hit", false);
+416	add(1.2, 50, Critical Hit activated);\nadd(0.6, 35, Learn from opponent's Critical attack, false);\nadd(1.8, 65, Finish with the final strike using Critical Hit, false);
+417	add(0.6, 65, Critical Hit activated);\nadd(0.6, 65, Learn from opponent's Critical attack, false);\nadd(1.25, 80, Finish with the final strike using Critical Hit, false);
+418	add(0.45, 125, Critical Hit activated);\nadd(0.45, 125, Learn from opponent's Critical attack, false);\nadd(1, 105, Finish with the final strike using Critical Hit, false);
+419	add(0.25, 240, Critical Hit activated);\nadd(0.25, 240, Learn from opponent's Critical attack, false);\nadd(0.5, 160, Finish with the final strike using Critical Hit, false);
+420	add(0.1, 500, Critical Hit activated);\nadd(0.1, 500, Learn from opponent's Critical attack, false);\nadd(0.35, 300, Finish with the final strike using Critical Hit, false);
+421	add(0.05, 1000, Critical Hit activated);\nadd(0.05, 1000, Learn from opponent's Critical attack, false);\nadd(0.25, 600, Finish with the final strike using Critical Hit, false);
+422	add(0.05, 1000, Critical Hit activated);\nadd(0.05, 1000, Learn from opponent's Critical attack, false);\nadd(0.25, 600, Finish with the final strike using Critical Hit, false);
+423	add(0.02, 2400, Critical Hit activated);\nadd(0.02, 2400, Learn from opponent's Critical attack, false);\nadd(0.1, 1200, Finish with the final strike using Critical Hit, false);
+424	add(0.02, 2000, Critical Hit activated);\nadd(0.02, 2000, Learn from opponent's Critical attack, false);\nadd(0.06, 1700, Finish with the final strike using Critical Hit, false);
+425	add(0.01, 4500, Critical Hit activated);\nadd(0.01, 4500, Learn from opponent's Critical attack, false);\nadd(0.03, 3300, Finish with the final strike using Critical Hit, false);
+426	add(0.005, 6000, Critical Hit activated);\nadd(0.005, 6000, Learn from opponent's Critical attack, false);\nadd(0.025, 4000, Finish with the final strike using Critical Hit, false);
+427	add(0.005, 8000, Critical Hit activated);\nadd(0.005, 8000, Learn from opponent's Critical attack, false);\nadd(0.025, 4000, Finish with the final strike using Critical Hit, false);
+428	add(100, 1, "Learn a better method from a book or person");
+444	add(100, 1, "Charge the Fireball to the max");
+445	add(3, 20, "Attack enemy");\nadd(10, 5, "Defeat enemy");
+446	add(1, 40, "Attack enemy");\nadd(2, 5, "Defeat enemy");\nadd(1, 20, "Attack similar ranked enemy");\nadd(2, 10, "Knock down similar ranked enemy");\nadd(2.5, 5, "Defeat similar ranked enemy");\nadd(5, 2, "Knock down a powerful enemy", false);\nadd(10, 1, "Defeat a powerful enemy", false);
+447	add(0.5, 80, "Attack enemy");\nadd(1, 10, "Defeat enemy");\nadd(0.5, 50, "Attack similar ranked enemy");\nadd(1, 20, "Knock down similar ranked enemy");\nadd(2, 10, "Defeat similar ranked enemy");\nadd(5, 2, "Knock down a powerful enemy", false);\nadd(10, 1, "Defeat a powerful enemy", false);
+448	add(0.5, 160, "Attack similar ranked enemy");\nadd(1, 40, "Knock down similar ranked enemy");\nadd(2, 20, "Defeat similar ranked enemy");\nadd(3, 15, "Knock down a powerful enemy");\nadd(6, 10, "Defeat a powerful enemy");\nadd(6, 6, "Knock down a very powerful enemy", false);\nadd(10, 3, "Defeat a very powerful enemy", false);
+449	add(0.1, 640, "Attack similar ranked enemy");\nadd(0.3, 320, "Knock down similar ranked enemy");\nadd(1, 160, "Defeat similar -ranked enemy");\nadd(3, 32, "Knock down a powerful enemy");\nadd(6, 32, "Defeat a powerful enemy");\nadd(6, 16, "Knock down a very powerful enemy", false);\nadd(13, 13, "Defeat a very powerful enemy", false);
+450	add(0.05, 800, "Knock down similar ranked enemy");\nadd(0.1, 400, "Defeat similar ranked enemy");\nadd(2, 160, "Knock down a powerful enemy");\nadd(3, 80, "Defeat a powerful enemy");\nadd(3, 32, "Knock down a very powerful enemy", false);\nadd(6, 16, "Defeat a very powerful enemy", false);
+451	add(0.02, 2000, "Knock down similar ranked enemy");\nadd(0.05, 800, "Defeat similar ranked enemy");\nadd(1.5, 100, "Knock down a powerful enemy");\nadd(2.5, 200, "Defeat a powerful enemy");\nadd(2.5, 40, "Knock down a very powerful enemy", false);\nadd(5, 100, "Defeat a very powerful enemy", false);
+452	add(0.02, 2000, "비슷한 급의 적을 다운시킨다");\nadd(0.05, 800, "비슷한 급의 적과의 전투에서 승리");\nadd(1.5, 100, "강한 적을 다운시킨다");\nadd(2.5, 200, "강한 적과의 전투에서 승리");\nadd(2.5, 40, "매우 강한 적을 다운시킨다");\nadd(5, 100, "매우 강한 적과의 전투에서 승리");\nadd(5, 20, "보스급의 적을 다운시킨다", false);\nadd(10, 4, "보스급의
+453	add(0.02, 800, "Defeat similar ranked enemy");\nadd(0.1, 400, "Knock down a powerful enemy");\nadd(0.25, 400, "Defeat a powerful enemy");\nadd(1, 200, "Knock down a very powerful enemy");\nadd(2.5, 200, "Defeat a very powerful enemy");\nadd(2.5, 20, "Knock down a Boss-level enemy", false);\nadd(5, 10, "Defeat a Boss-level enemy", false);
+454	add(0.05, 800, "Knock down a powerful enemy");\nadd(0.15, 600, "Defeat a powerful enemy");\nadd(1, 240, "Knock down a very powerful enemy");\nadd(2.5, 240, "Defeat a very powerful enemy");\nadd(2.5, 20, "Knock down a Boss-level enemy", false);\nadd(5, 10, "Defeat a Boss-level enemy", false);
+455	add(0.03, 1500, "Knock down a powerful enemy");\nadd(0.06, 900, "Defeat a powerful enemy");\nadd(0.06, 450, "Knock down a very powerful enemy");\nadd(1.6, 450, "Defeat a very powerful enemy");\nadd(1.6, 45, "Knock down a Boss-level enemy", false);\nadd(3.3, 15, "Defeat a Boss-level enemy", false);
+456	add(0.02, 3000, "Knock down a powerful enemy");\nadd(0.03, 2400, "Defeat a powerful enemy");\nadd(0.03, 600, "Knock down a very powerful enemy");\nadd(1.6, 600, "Defeat a very powerful enemy");\nadd(1.6, 45, "Knock down a Boss-level enemy", false);\nadd(3.3, 15, "Defeat a Boss-level enemy", false);
+457	add(0.02, 3000, "Knock down a powerful enemy");\nadd(0.03, 3000, "Defeat a powerful enemy");\nadd(0.3, 1150, "Knock down a very powerful enemy");\nadd(1, 1050, "Defeat a very powerful enemy");\nadd(1, 45, "Knock down a Boss-level enemy", false);\nadd(2.6, 15, "Defeat a Boss-level enemy", false);
+458	add(0.01, 5000, "Knock down a powerful enemy");\nadd(0.01, 5000, "Defeat a powerful enemy");\nadd(0.25, 2000, "Knock down a very powerful enemy");\nadd(0.25, 2000, "Defeat a very powerful enemy");\nadd(0.5, 120, "Knock down a Boss-level enemy", false);\nadd(1.25, 60, "Defeat a Boss-level enemy", false);
+459	add(0.01, 5000, "Knock down a powerful enemy");\nadd(0.01, 5000, "Defeat a powerful enemy");\nadd(0.25, 2000, "Knock down a very powerful enemy");\nadd(0.25, 2000, "Defeat a very powerful enemy");\nadd(0.5, 120, "Knock down a Boss-level enemy", false);\nadd(1.25, 60, "Defeat a Boss-level enemy", false);
+460	add(100, 1, "Learn a better method from a book or person");
+461	add(1, 20, "Attack anything you can");\nadd(3, 10, "Attack an enemy");\nadd(3, 10, "Knock down an enemy with multiple hits");\nadd(5, 5, "Defeat an enemy");
+462	add(0.5, 10, "Knock down an enemy with multiple hits");\nadd(1, 10, "Defeat an enemy");\nadd(1, 30, "Attack a similar ranked enemy");\nadd(2, 30, "Knock down a similar ranked enemy");\nadd(2.5, 20, "Defeat a similar-ranked enemy");\nadd(5, 10, "Knock down a powerful enemy", false);\nadd(10, 5, "Defeat a powerful enemy", false);
+463	add(0.05, 200, "Attack an enemy");\nadd(0.1, 100, "Knock down an enemy with multiple hits");\nadd(0.2, 50, "Defeat an enemy");\nadd(0.5, 50, "Attack a similar ranked enemy");\nadd(1, 100, "Knock down a similar ranked enemy");\nadd(2, 50, "Defeat a similar-ranked enemy");\nadd(5, 10, "Knock down a powerful enemy", false);\nadd(10, 10, "Defeat a powerful enemy",
+464	add(0.03, 1000, "Attack a similar ranked enemy");\nadd(0.06, 320, "Knock down a similar ranked enemy");\nadd(2, 160, "Defeat a similar-ranked enemy");\nadd(3, 16, "Knock down a powerful enemy");\nadd(6, 16, "Defeat a powerful enemy");\nadd(6, 11, "Knock down a very powerful enemy", false);\nadd(13, 8, "Defeat a very powerful enemy", false);
+465	add(0.01, 1600, "Attack a similar ranked enemy");\nadd(0.03, 640, "Knock down a similar ranked enemy");\nadd(1, 320, "Defeat a similar-ranked enemy");\nadd(3, 32, "Knock down a powerful enemy");\nadd(6, 32, "Defeat a powerful enemy");\nadd(6, 16, "Knock down a very powerful enemy", false);\nadd(13, 13, "Defeat a very powerful enemy", false);
+466	add(0.03, 1400, "Knock down a similar ranked enemy");\nadd(0.06, 480, "Defeat a similar-ranked enemy");\nadd(2, 160, "Knock down a powerful enemy");\nadd(3, 80, "Defeat a powerful enemy");\nadd(3, 32, "Knock down a very powerful enemy", false);\nadd(6, 16, "Defeat a very powerful enemy", false);
+467	add(0.02, 2000, "Knock down a similar ranked enemy");\nadd(0.25, 800, "Defeat a similar-ranked enemy");\nadd(1.5, 100, "Knock down a powerful enemy");\nadd(2.5, 200, "Defeat a powerful enemy");\nadd(2.5, 40, "Knock down a very powerful enemy", false);\nadd(5, 100, "Defeat a very powerful enemy", false);
+468	add(0.02, 2000, "비슷한 급의 적을 다운시킨다");\nadd(0.25, 800, "비슷한 급의 적과의 전투에서 승리");\nadd(1.5, 100, "강한 적을 다운시킨다");\nadd(2.5, 200, "강한 적과의 전투에서 승리");\nadd(2.5, 40, "매우 강한 적을 다운시킨다");\nadd(5, 100, "매우 강한 적과의 전투에서 승리");\nadd(5, 20, "보스급의 적을 다운시킨다", false);\nadd(10, 4, "보스급의
+469	add(0.05, 800, "Defeat a similar-ranked enemy");\nadd(0.1, 400, "Knock down a powerful enemy");\nadd(0.25, 400, "Defeat a powerful enemy");\nadd(1, 200, "Knock down a very powerful enemy");\nadd(2.5, 200, "Defeat a very powerful enemy");\nadd(2.5, 20, "Knock down a Boss-level enemy", false);\nadd(5, 10, "Defeat a Boss-level enemy", false);
+470	add(0.05, 800, "Knock down a powerful enemy");\nadd(0.15, 600, "Defeat a powerful enemy");\nadd(1, 240, "Knock down a very powerful enemy");\nadd(2.5, 240, "Defeat a very powerful enemy");\nadd(2.5, 20, "Knock down a Boss-level enemy", false);\nadd(5, 10, "Defeat a Boss-level enemy", false);
+471	add(0.03, 1500, "Knock down a powerful enemy");\nadd(0.06, 900, "Defeat a powerful enemy");\nadd(0.06, 450, "Knock down a very powerful enemy");\nadd(1.6, 450, "Defeat a very powerful enemy");\nadd(1.6, 45, "Knock down a Boss-level enemy", false);\nadd(3.3, 15, "Defeat a Boss-level enemy", false);
+472	add(0.02, 3000, "Knock down a powerful enemy");\nadd(0.03, 2400, "Defeat a powerful enemy");\nadd(0.03, 600, "Knock down a very powerful enemy");\nadd(1.6, 600, "Defeat a very powerful enemy");\nadd(1.6, 45, "Knock down a Boss-level enemy", false);\nadd(3.3, 15, "Defeat a Boss-level enemy", false);
+473	add(0.02, 3000, "Knock down a powerful enemy");\nadd(0.03, 3000, "Defeat a powerful enemy");\nadd(0.3, 1150, "Knock down a very powerful enemy");\nadd(1, 1050, "Defeat a very powerful enemy");\nadd(1, 45, "Knock down a Boss-level enemy", false);\nadd(2.6, 15, "Defeat a Boss-level enemy", false);
+474	add(0.01, 5000, "Knock down a powerful enemy");\nadd(0.01, 5000, "Defeat a powerful enemy");\nadd(0.25, 2000, "Knock down a very powerful enemy");\nadd(0.25, 2000, "Defeat a very powerful enemy");\nadd(0.5, 120, "Knock down a Boss-level enemy", false);\nadd(1.25, 60, "Defeat a Boss-level enemy", false);
+475	add(0.01, 5000, "Knock down a powerful enemy");\nadd(0.01, 5000, "Defeat a powerful enemy");\nadd(0.25, 2000, "Knock down a very powerful enemy");\nadd(0.25, 2000, "Defeat a very powerful enemy");\nadd(0.5, 120, "Knock down a Boss-level enemy", false);\nadd(1.25, 60, "Defeat a Boss-level enemy", false);
+476	add(100, 1, "Learn a better method from a book or person");
+477	add(1, 20, "Attack anything you can");\nadd(3, 10, "Attack an enemy");\nadd(3, 10, "Knock down an enemy with multiple hits");\nadd(5, 5, "Defeat an enemy");
+478	add(0.5, 10, "Knock down an enemy with multiple hits");\nadd(1, 10, "Defeat an enemy");\nadd(1, 30, "Attack a similar ranked enemy");\nadd(2, 30, "Knock down a similar ranked enemy");\nadd(2.5, 20, "Defeat a similar-ranked enemy");\nadd(5, 10, "Knock down a powerful enemy", false);\nadd(10, 5, "Defeat a powerful enemy", false);
+479	add(0.05, 200, "Attack an enemy");\nadd(0.1, 100, "Knock down an enemy with multiple hits");\nadd(0.2, 50, "Defeat an enemy");\nadd(0.5, 50, "Attack a similar ranked enemy");\nadd(1, 100, "Knock down a similar ranked enemy");\nadd(2, 50, "Defeat a similar-ranked enemy");\nadd(5, 10, "Knock down a powerful enemy", false);\nadd(10, 10, "Defeat a powerful enemy",
+480	add(0.03, 1000, "Attack a similar ranked enemy");\nadd(0.06, 320, "Knock down a similar ranked enemy");\nadd(2, 160, "Defeat a similar-ranked enemy");\nadd(3, 16, "Knock down a powerful enemy");\nadd(6, 16, "Defeat a powerful enemy");\nadd(6, 11, "Knock down a very powerful enemy", false);\nadd(13, 8, "Defeat a very powerful enemy", false);
+481	add(0.01, 1600, "Attack a similar ranked enemy");\nadd(0.03, 640, "Knock down a similar ranked enemy");\nadd(1, 320, "Defeat a similar-ranked enemy");\nadd(3, 32, "Knock down a powerful enemy");\nadd(6, 32, "Defeat a powerful enemy");\nadd(6, 16, "Knock down a very powerful enemy", false);\nadd(13, 13, "Defeat a very powerful enemy", false);
+482	add(0.03, 1400, "Knock down a similar ranked enemy");\nadd(0.06, 480, "Defeat a similar-ranked enemy");\nadd(2, 160, "Knock down a powerful enemy");\nadd(3, 80, "Defeat a powerful enemy");\nadd(3, 32, "Knock down a very powerful enemy", false);\nadd(6, 16, "Defeat a very powerful enemy", false);
+483	add(0.02, 2000, "Knock down a similar ranked enemy");\nadd(0.25, 800, "Defeat a similar-ranked enemy");\nadd(1.5, 100, "Knock down a powerful enemy");\nadd(2.5, 200, "Defeat a powerful enemy");\nadd(2.5, 40, "Knock down a very powerful enemy", false);\nadd(5, 100, "Defeat a very powerful enemy", false);
+484	add(0.02, 2000, "비슷한 급의 적을 다운시킨다");\nadd(0.25, 800, "비슷한 급의 적과의 전투에서 승리");\nadd(1.5, 100, "강한 적을 다운시킨다");\nadd(2.5, 200, "강한 적과의 전투에서 승리");\nadd(2.5, 40, "매우 강한 적을 다운시킨다");\nadd(5, 100, "매우 강한 적과의 전투에서 승리");\nadd(5, 20, "보스급의 적을 다운시킨다", false);\nadd(10, 4, "보스급의
+485	add(0.05, 800, "Defeat a similar-ranked enemy");\nadd(0.1, 400, "Knock down a powerful enemy");\nadd(0.25, 400, "Defeat a powerful enemy");\nadd(1, 200, "Knock down a very powerful enemy");\nadd(2.5, 200, "Defeat a very powerful enemy");\nadd(2.5, 20, "Knock down a Boss-level enemy", false);\nadd(5, 10, "Defeat a Boss-level enemy", false);
+486	add(0.05, 800, "Knock down a powerful enemy");\nadd(0.15, 600, "Defeat a powerful enemy");\nadd(1, 240, "Knock down a very powerful enemy");\nadd(2.5, 240, "Defeat a very powerful enemy");\nadd(2.5, 20, "Knock down a Boss-level enemy", false);\nadd(5, 10, "Defeat a Boss-level enemy", false);
+487	add(0.03, 1500, "Knock down a powerful enemy");\nadd(0.06, 900, "Defeat a powerful enemy");\nadd(0.06, 450, "Knock down a very powerful enemy");\nadd(1.6, 450, "Defeat a very powerful enemy");\nadd(1.6, 45, "Knock down a Boss-level enemy", false);\nadd(3.3, 15, "Defeat a Boss-level enemy", false);
+488	add(0.02, 3000, "Knock down a powerful enemy");\nadd(0.03, 2400, "Defeat a powerful enemy");\nadd(0.03, 600, "Knock down a very powerful enemy");\nadd(1.6, 600, "Defeat a very powerful enemy");\nadd(1.6, 45, "Knock down a Boss-level enemy", false);\nadd(3.3, 15, "Defeat a Boss-level enemy", false);
+489	add(0.02, 3000, "Knock down a powerful enemy");\nadd(0.03, 3000, "Defeat a powerful enemy");\nadd(0.3, 1150, "Knock down a very powerful enemy");\nadd(1, 1050, "Defeat a very powerful enemy");\nadd(1, 45, "Knock down a Boss-level enemy", false);\nadd(2.6, 15, "Defeat a Boss-level enemy", false);
+490	add(0.01, 5000, "Knock down a powerful enemy");\nadd(0.01, 5000, "Defeat a powerful enemy");\nadd(0.25, 2000, "Knock down a very powerful enemy");\nadd(0.25, 2000, "Defeat a very powerful enemy");\nadd(0.5, 120, "Knock down a Boss-level enemy", false);\nadd(1.25, 60, "Defeat a Boss-level enemy", false);
+491	add(0.01, 5000, "Knock down a powerful enemy");\nadd(0.01, 5000, "Defeat a powerful enemy");\nadd(0.25, 2000, "Knock down a very powerful enemy");\nadd(0.25, 2000, "Defeat a very powerful enemy");\nadd(0.5, 120, "Knock down a Boss-level enemy", false);\nadd(1.25, 60, "Defeat a Boss-level enemy", false);
+492	add(100, 1, "Charge the Ice Spear to the max");
+493	add(5, 20, "Attack an enemy");\nadd(10, 5, "Defeat an enemy");
+494	add(2, 20, "Attack an enemy");\nadd(3, 5, "Defeat an enemy");\nadd(3, 20, "Attack a similar ranked enemy");\nadd(4, 5, "Defeat a similar-ranked enemy");\nadd(10, 1, "Defeat a powerful enemy", false);
+495	add(1, 40, "Attack an enemy");\nadd(1.5, 10, "Defeat an enemy");\nadd(1.5, 50, "Attack a similar ranked enemy");\nadd(2, 10, "Defeat a similar-ranked enemy");\nadd(10, 1, "Defeat a powerful enemy", false);
+496	add(1, 80, "Attack a similar ranked enemy");\nadd(1.5, 20, "Defeat a similar-ranked enemy");\nadd(6, 10, "Defeat a powerful enemy");\nadd(10, 3, "Defeat a very powerful enemy", false);
+497	add(0.5, 320, "Attack a similar ranked enemy");\nadd(1, 80, "Defeat a similar-ranked enemy");\nadd(6, 32, "Defeat a powerful enemy");\nadd(13, 13, "Defeat a very powerful enemy", false);
+498	add(0.5, 400, "Defeat a similar-ranked enemy");\nadd(3, 80, "Defeat a powerful enemy");\nadd(6, 16, "Defeat a very powerful enemy", false);
+499	add(0.1, 800, "Defeat a similar-ranked enemy");\nadd(2.5, 200, "Defeat a powerful enemy");\nadd(5, 100, "Defeat a very powerful enemy", false);
+500	add(0.05, 800, "Defeat a similar-ranked enemy");\nadd(2.5, 200, "Defeat a powerful enemy");\nadd(5, 100, "Defeat a very powerful enemy");\nadd(10, 4, "Defeat a Boss-level enemy", false);
+501	add(0.02, 800, "Defeat a similar-ranked enemy");\nadd(0.25, 400, "Defeat a powerful enemy");\nadd(2.5, 200, "Defeat a very powerful enemy");\nadd(5, 10, "Defeat a Boss-level enemy", false);
+502	add(0.15, 600, "Defeat a powerful enemy");\nadd(2.5, 240, "Defeat a very powerful enemy");\nadd(5, 10, "Defeat a Boss-level enemy", false);
+503	add(0.06, 900, "Defeat a powerful enemy");\nadd(1.6, 450, "Defeat a very powerful enemy");\nadd(3.3, 15, "Defeat a Boss-level enemy", false);
+504	add(0.03, 2400, "Defeat a powerful enemy");\nadd(1.6, 600, "Defeat a very powerful enemy");\nadd(3.3, 15, "Defeat a Boss-level enemy", false);\nadd(5, 2, "Hit 3 or more enemies with one hit", false);
+505	add(0.03, 3000, "Defeat a powerful enemy");\nadd(1, 1050, "Defeat a very powerful enemy");\nadd(2.6, 15, "Defeat a Boss-level enemy", false);\nadd(3, 10, "Hit 3 or more enemies with one hit", false);
+506	add(0.01, 5000, "Defeat a powerful enemy");\nadd(0.25, 2000, "Defeat a very powerful enemy");\nadd(1.25, 60, "Defeat a Boss-level enemy", false);\nadd(2, 20, "Hit 3 or more enemies with one hit", false);
+507	add(0.01, 5000, "Defeat a powerful enemy");\nadd(0.25, 2000, "Defeat a very powerful enemy");\nadd(1.25, 60, "Defeat a Boss-level enemy", false);\nadd(1, 40, "Hit 3 or more enemies with one hit", false);
+508	add(100, 1, "Learn a better method from a book or person");
+509	add(1, 20, "Attack anything you can");\nadd(3, 10, "Attack an enemy");\nadd(3, 10, "Knock down an enemy with multiple hits");\nadd(5, 5, "Defeat an enemy");
+510	add(0.5, 10, "Knock down an enemy with multiple hits");\nadd(1, 10, "Defeat an enemy");\nadd(1, 30, "Attack a similar ranked enemy");\nadd(2, 30, "Knock down a similar ranked enemy");\nadd(2.5, 20, "Defeat a similar-ranked enemy");\nadd(5, 10, "Knock down a powerful enemy", false);\nadd(10, 5, "Defeat a powerful enemy", false);
+518	add(0.05, 800, "Knock down a powerful enemy");\nadd(0.15, 600, "Defeat a powerful enemy");\nadd(1, 240, "Knock down a very powerful enemy");\nadd(2.5, 240, "Defeat a very powerful enemy");\nadd(2.5, 20, "Knock down a Boss-level enemy", false);\nadd(5, 10, "Defeat a Boss-level enemy", false);
+519	add(0.03, 1500, "Knock down a powerful enemy");\nadd(0.06, 900, "Defeat a powerful enemy");\nadd(0.06, 450, "Knock down a very powerful enemy");\nadd(1.6, 450, "Defeat a very powerful enemy");\nadd(1.6, 45, "Knock down a Boss-level enemy", false);\nadd(3.3, 15, "Defeat a Boss-level enemy", false);
+520	add(0.02, 3000, "Knock down a powerful enemy");\nadd(0.03, 2400, "Defeat a powerful enemy");\nadd(0.03, 600, "Knock down a very powerful enemy");\nadd(1.6, 600, "Defeat a very powerful enemy");\nadd(1.6, 45, "Knock down a Boss-level enemy", false);\nadd(3.3, 15, "Defeat a Boss-level enemy", false);
+521	add(0.02, 3000, "Knock down a powerful enemy");\nadd(0.03, 3000, "Defeat a powerful enemy");\nadd(0.3, 1150, "Knock down a very powerful enemy");\nadd(1, 1050, "Defeat a very powerful enemy");\nadd(1, 45, "Knock down a Boss-level enemy", false);\nadd(2.6, 15, "Defeat a Boss-level enemy", false);
+522	add(0.01, 5000, "Knock down a powerful enemy");\nadd(0.01, 5000, "Defeat a powerful enemy");\nadd(0.25, 2000, "Knock down a very powerful enemy");\nadd(0.25, 2000, "Defeat a very powerful enemy");\nadd(0.5, 120, "Knock down a Boss-level enemy", false);\nadd(1.25, 60, "Defeat a Boss-level enemy", false);
+523	add(0.01, 5000, "Knock down a powerful enemy");\nadd(0.01, 5000, "Defeat a powerful enemy");\nadd(0.25, 2000, "Knock down a very powerful enemy");\nadd(0.25, 2000, "Defeat a very powerful enemy");\nadd(0.5, 120, "Knock down a Boss-level enemy", false);\nadd(1.25, 60, "Defeat a Boss-level enemy", false);
+524	add(1, 100, "Attack an enemy using the Bolt magic");
+525	add(5, 50, "Attack an enemy using the Bolt magic"); \nadd(6, 20, "Knock down an enemy using the Bolt magic"); \nadd(7, 20, "Defeat an enemy using the Bolt magic"); \nadd(3, 60, "Use Healing"); \nadd(5, 20, "Use Healing on a person in critical condition");
+526	add(4, 60, "Attack an enemy using the Bolt magic"); \nadd(5, 25, "Knock down an enemy using the Bolt magic"); \nadd(6, 25, "Defeat an enemy using the Bolt magic"); \nadd(2, 80, "Use Healing"); \nadd(4, 25, "Use Healing on a person in critical condition");
+527	add(3, 70, "Attack an enemy using the Bolt magic"); \nadd(4, 30, "Knock down an enemy using the Bolt magic"); \nadd(5, 30, "Defeat an enemy using the Bolt magic"); \nadd(2, 100, "Use Healing"); \nadd(3, 30, "Use Healing on a person in critical condition");
+528	add(2.5, 80, "Attack a similar ranked enemy using the Bolt magic"); \nadd(3.5, 35, "Defeat a similar-ranked enemy using the Bolt magic"); \nadd(1.5, 120, "Use Healing"); \nadd(2.5, 35, "Use Healing on a person in critical condition");
+529	add(2, 90, "Attack a similar ranked enemy using the Bolt magic"); \nadd(3, 40, "Defeat a similar-ranked enemy using the Bolt magic"); \nadd(1, 140, "Use Healing"); \nadd(2, 40, "Use Healing on a person in critical condition");
+530	add(1.5, 30, "Attack a powerful enemy using the Bolt magic"); \nadd(2.5, 10, "Defeat a powerful enemy using the Bolt magic"); \nadd(0.8, 50, "Use Healing"); \nadd(1.5, 10, "Use Healing on a person in critical condition");
+531	add(1, 60, "Attack a powerful enemy using the Bolt magic"); \nadd(2, 10, "Defeat a powerful enemy using the Bolt magic"); \nadd(0.6, 60, "Use Healing"); \nadd(1, 10, "Use Healing on a person in critical condition");
+532	add(0.8, 60, "Attack a very powerful enemy using the Bolt magic"); \nadd(1.5, 20, "Defeat a very powerful enemy using the Bolt magic"); \nadd(0.5, 60, "Use Healing"); \nadd(0.8, 20, "Use Healing on a person in critical condition");
+533	add(0.6, 100, "Attack a very powerful enemy using the Bolt magic"); \nadd(1, 20, "Defeat a very powerful enemy using the Bolt magic"); \nadd(0.4, 100, "Use Healing"); \nadd(0.6, 20, "Use Healing on a person in critical condition");
+534	add(0.6, 120, "Attack a Boss-level enemy using the Bolt magic"); \nadd(1, 20, "Defeat a Boss-level enemy using the Bolt magic"); \nadd(0.3, 120, "Use Healing"); \nadd(0.5, 20, "Use Healing on a person in critical condition");
+535	add(0.5, 200, "Attack a Boss-level enemy using the Bolt magic"); \nadd(0.8, 100, "Defeat a Boss-level enemy using the Bolt magic"); \nadd(5, 40, "Attack a powerful enemy using Thunder"); \nadd(5, 40, "Defeat a powerful enemy using Thunder");
+536	add(0.4, 240, "Attack a Boss-level enemy using the Bolt magic"); \nadd(0.6, 120, "Defeat a Boss-level enemy using the Bolt magic"); \nadd(4, 40, "Attack a powerful enemy using Thunder"); \nadd(4, 40, "Defeat a powerful enemy using Firebolt");
+537	add(0.3, 300, "Attack a Boss-level enemy using the Bolt magic"); \nadd(0.5, 160, "Defeat a Boss-level enemy using the Bolt magic"); \nadd(3, 50, "Attack a very powerful enemy Thunder"); \nadd(3, 50, "Defeat a very powerful enemy using Firebolt");
+538	add(0.2, 400, "Defeat a Boss-level enemy using the Bolt magic"); \nadd(0.4, 200, "Defeat a Boss-level enemy using the Bolt magic"); \nadd(2, 60, "Attack a Boss-level enemy using Thunder"); \nadd(2, 60, "Defeat a Boss-level enemy using Firebolt");
+539	add(0.1, 500, "Attack a Boss-level enemy using the Bolt magic"); \nadd(0.3, 300, "Defeat a Boss-level enemy using the Bolt magic"); \nadd(1, 100, "Attack a boss less enemy using Thunder"); \nadd(1, 100, "Defeat a Boss-level enemy using Firebolt");
+540	add(100, 1, "Learn a better method from a book or person");
+556	add(100, 1, "Charge Thunder to the max");
+557	add(3, 20, "Attack an enemy");\nadd(10, 5, "Defeat an enemy");
+558	add(1, 40, "Attack an enemy");\nadd(2, 5, "Defeat an enemy");\nadd(1, 20, "Attack a similar ranked enemy");\nadd(2, 10, "Knock down a similar ranked enemy");\nadd(2.5, 5, "Defeat a similar-ranked enemy");\nadd(5, 2, "Knock down a powerful enemy", false);\nadd(10, 1, "Defeat a powerful enemy", false);
+559	add(0.5, 80, "Attack an enemy");\nadd(1, 10, "Defeat an enemy");\nadd(0.5, 50, "Attack a similar ranked enemy");\nadd(1, 20, "Knock down a similar ranked enemy");\nadd(2, 10, "Defeat a similar-ranked enemy");\nadd(5, 2, "Knock down a powerful enemy", false);\nadd(10, 1, "Defeat a powerful enemy", false);
+560	add(0.5, 160, "Attack a similar ranked enemy");\nadd(1, 40, "Knock down a similar ranked enemy");\nadd(2, 20, "Defeat a similar-ranked enemy");\nadd(3, 15, "Knock down a powerful enemy");\nadd(6, 10, "Defeat a powerful enemy");\nadd(6, 6, "Knock down a very powerful enemy", false);\nadd(10, 3, "Defeat a very powerful enemy", false);
+561	add(0.1, 640, "Attack a similar ranked enemy");\nadd(0.3, 320, "Knock down a similar ranked enemy");\nadd(1, 160, "Defeat a similar-ranked enemy");\nadd(3, 32, "Knock down a powerful enemy");\nadd(6, 32, "Defeat a powerful enemy");\nadd(6, 16, "Knock down a very powerful enemy", false);\nadd(13, 13, "Defeat a very powerful enemy", false);
+562	add(0.05, 800, "Knock down a similar ranked enemy");\nadd(0.1, 400, "Defeat a similar-ranked enemy");\nadd(2, 160, "Knock down a powerful enemy");\nadd(3, 80, "Defeat a powerful enemy");\nadd(3, 32, "Knock down a very powerful enemy", false);\nadd(6, 16, "Defeat a very powerful enemy", false);
+563	add(0.02, 2000, "Knock down a similar ranked enemy");\nadd(0.05, 800, "Defeat a similar-ranked enemy");\nadd(1.5, 100, "Knock down a powerful enemy");\nadd(2.5, 200, "Defeat a powerful enemy");\nadd(2.5, 40, "Knock down a very powerful enemy", false);\nadd(5, 100, "Defeat a very powerful enemy", false);
+564	add(0.02, 2000, "비슷한 급의 적을 다운시킨다");\nadd(0.05, 800, "비슷한 급의 적과의 전투에서 승리");\nadd(1.5, 100, "강한 적을 다운시킨다");\nadd(2.5, 200, "강한 적과의 전투에서 승리");\nadd(2.5, 40, "매우 강한 적을 다운시킨다");\nadd(5, 100, "매우 강한 적과의 전투에서 승리");\nadd(5, 20, "보스급의 적을 다운시킨다", false);\nadd(10, 4, "보스급의
+565	add(0.02, 800, "Defeat a similar-ranked enemy");\nadd(0.1, 400, "Knock down a powerful enemy");\nadd(0.25, 400, "Defeat a powerful enemy");\nadd(1, 200, "Knock down a very powerful enemy");\nadd(2.5, 200, "Defeat a very powerful enemy");\nadd(2.5, 20, "Knock down a Boss-level enemy", false);\nadd(5, 10, "Defeat a Boss-level enemy", false);
+572	add(100, 1, "Learn a better method from a book or person");
+588	Train against weak monsters or animals.  If this is your first time, I would recommend fighting against Raccoons and Brown Foxes near the Logging Camp!  There's no significant benefit for you to fight against powerful enemies right now, so don't put yourself in danger by getting too greedy.  Don't focus too much on winning.  Failing is part of the training as well.
+589	From now on, you need the ability to read your opponents.  Try going against an opponent that has similar strength to you.  You can determine an enemy's strength by the color of their name.
+590	Continue to train hard and get better.  You need the ability to find opponents that have similar strength as you.
+591	It's okay to go against opponents.
+592	Be confident in your close combats.  Defeating weak opponents won't help you much.
+593	There are enemies everywhere.  You will learn most by fighting powerfuler opponents.
+594	Engaging in real-life combat is the only way to train!  Fighting against a powerful opponent only makes you powerfuler.
+595	You can get more items by fighting powerfuler enemies than before.
+596	You can get more items by fighting powerfuler enemies than before.
+597	You can get more items by fighting powerfuler enemies than before.
+598	You are almost on your way to become a close combat master.  It's time to train on your own.
+599	You are almost on your way to become a close combat master.  It's time to train on your own.
+600	You are almost on your way to become a close combat master.  It's time to train on your own.
+601	You are a Combat Master!  Only Boss-level enemies are a worthy match for you.
+602	You have reached the highest level of this skill.\nOnce you satisfy all the training requirements of rank 1, you will receive a title that proves you are at the highest level.
+603	Use the Counter-attack skill by pressing the (Use) button.  Once the icon is fixed above your head, you are ready to counter an opponent's attack.  If you click the icon above your head again, the skill will be canceled.  There's no use of using it on an opponent now.  All you need to know is that you are in a counter position.
+604	Right now, you're just simply trying to learn how to use the Counter-attack skill.  Click on the (Use) button to use the skill.  Once the icon is fixed above your head, you are ready to an enemy's attack.  If you click the icon above your head again, the skill will be canceled.  Observing an opponent counter your attack can be good training as well.
+605	Counter-attack becomes more effective when an opponent's attack is powerful.  It is extremely effective when used against an enemy's special attack.
+606	Counter-attack becomes more effective when the opponent's attack is powerful. A Critical Hit counter is specially powerful, potentially a one hit knock out.  When you can predict an enemy's special attack, respond with a Counter-attack.
+607	Counter-attack becomes more effective when the opponent's attack is powerful. A Critical Hit counter is specially powerful, potentially a one hit knock out.  When you can predict an enemy's special attack, respond with a Counter-attack.
+608	Counter-attack becomes more effective when the opponent's attack is powerful. A Critical Hit counter is specially powerful, potentially a one hit knock out. When you can predict an enemy's special attack, respond with a Counter-attack.
+609	Counter-attack becomes more effective when the opponent's attack is powerful. A Critical Hit counter is specially powerful, potentially a one hit knock out.  When you can predict an enemy's special attack, respond with a Counter-attack.
+610	Counter-attack becomes more effective when the opponent's attack is powerful. A Critical Hit counter is specially powerful, potentially a one hit knock out. When you can predict an enemy's special attack, respond with a Counter-attack.
+611	Counter-attack becomes more effective when the opponent's attack is powerful. A Critical Hit counter is specially powerful, potentially a one hit knock out. When you can predict an enemy's special attack, respond with a Counter-attack.
+612	Counter-attack becomes more effective when the opponent's attack is powerful. A Critical Hit counter is specially powerful, potentially a one hit knock out. When you can predict an enemy's special attack, respond with a Counter-attack.
+613	Counter-attack becomes more effective when the opponent's attack is powerful. A Critical Hit counter is specially powerful, potentially a one hit knock out. When you can predict an enemy's special attack, respond with a Counter-attack.
+614	Predict an enemy's attack and respond with a Counter-attack.\nOnce you become rank 5, you will have higher chances of inflicting deadly blows to your opponents .
+615	Predict an enemy's attack and respond with a Counter-attack.\nOnce you become rank 5, you will have higher chances of inflicting deadly blows to your opponents .
+616	Predict an enemy's attack and respond with a Counter-attack.\nOnce you become rank 5, you will have higher chances of inflicting deadly blows to your opponents .
+617	Predict an enemy's attack and respond with a Counter-attack.\nOnce you become rank 5, you will have higher chances of inflicting deadly blows to your opponents .
+618	You have reached the highest level of the Counter-attack skill.  You have more opportunities to give critical injuries to your enemies.\nOnce you satisfy all the training requirements of rank 1, you will receive a title that proves you are at the highest level.
+619	Critical Hit skill, a skill learned randomly during combat. You will naturally learn more about this skill as you engage in more combat, giving and receiving Critical Hits.
+620	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+621	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+622	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+623	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+624	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+625	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+626	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+627	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+628	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+629	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+630	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+631	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+632	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+633	The Critical Hit skill inflicts a much higher rate of damage than normal attacks, so it is very useful when fighting powerful opponents. The chance of a Critical Hit is influenced by the opponent's (Will). You can train this skill by successfully delivering a Critical Hit.
+634	You have reached the highest level of this skill.\nOnce you satisfy all the training requirements of rank 1, you will receive a title that proves you are at the highest level.
+635	Try practicing your Defense skill against weak opponents. Even if you aren't successful right now, it's just practice so don't worry.
+636	When you successfully defend an attack, notice that you have a short window of opportunity to attack your opponent. Also, think about when you should use the Defense skill during a combat.  For now, your purpose is to successfully use the skill.
+637	Defense is a hard skill to train. Practicing it every time you get a chance is the best way to train it.
+638	Defense is a hard skill to train. Practicing it every time you get a chance is the best way to train it.
+639	Defense is a hard skill to train. Practicing it every time you get a chance is the best way to train it.
+640	Defense is a hard skill to train. Practicing it every time you get a chance is the best way to train it.
+641	Defense is a hard skill to train. Practicing it every time you get a chance is the best way to train it.
+642	Defense is a hard skill to train. Practicing it every time you get a chance is the best way to train it.
+643	Defense is a hard skill to train. Practicing it every time you get a chance is the best way to train it.
+644	Defense is a hard skill to train. Practicing it every time you get a chance is the best way to train it.
+645	Defense is a hard skill to train. Practicing it every time you get a chance is the best way to train it.
+646	Block an enemy's attack using the Defense skill.\nStarting from rank 5, you can use the Defense skill to protect even those around you.
+647	Block an enemy's attack using the Defense skill.\nStarting from rank 5, you can use the Defense skill to protect even those around you.
+648	Block an enemy's attack using the Defense skill.\nStarting from rank 5, you can use the Defense skill to protect even those around you.
+649	Block an enemy's attack using the Defense skill.\nStarting from rank 5, you can use the Defense skill to protect even those around you.
+650	You have reached the highest level of the Defense skill.  Now, you can use the skill to provide protection even to those around you.\nOnce you satisfy all the training requirements of rank 1, you will receive a title that proves you are at the highest level.
+651	Charge the magic and throw a ball of fire at an enemy. You can only use the Fireball when you are fully charged.
+652	Charge the magic and throw a ball of fire at an enemy. You can only use the Fireball when you are fully charged.
+653	Charge the magic and throw a ball of fire at an enemy. You can only use the Fireball when you are fully charged.
+654	Charge the magic and throw a ball of fire at an enemy. You can only use the Fireball when you are fully charged.
+655	Charge the magic and throw a ball of fire at an enemy. You can only use the Fireball when you are fully charged.
+656	Charge the magic and throw a ball of fire at an enemy. You can only use the Fireball when you are fully charged.
+657	Charge the magic and throw a ball of fire at an enemy. You can only use the Fireball when you are fully charged.
+658	Charge the magic and throw a ball of fire at an enemy. You can only use the Fireball when you are fully charged.
+659	Charge the magic and throw a ball of fire at an enemy. You can only use the Fireball when you are fully charged.
+660	Charge the magic and throw a ball of fire at an enemy. You can only use the Fireball when you are fully charged.
+661	Charge the magic and throw a ball of fire at an enemy. You can only use the Fireball when you are fully charged.
+662	Charge the Fireball to the max and give powerful damage to an enemy.\nStarting from rank 5, the damage rate will increase.
+663	Charge the Fireball to the max and give a powerful damage to an enemy.\nStarting from rank 5, the damage rate will increase.
+664	Charge the Fireball to the max and give a powerful damage to an enemy.\nStarting from rank 5, the damage rate will increase.
+665	Charge the Fireball to the max and give a powerful damage to an enemy.\nStarting from rank 5, the damage rate will increase.
+666	You have reached the highest level of the Fireball skill.  Now, when you are attacked by an enemy while you are charged, you will not completely lose all of your charge.  Instead, you will only lose 1 of your charges.\nOnce you satisfy all the training requirements of rank 1, you will receive a title that proves you are at the highest level.
+667	Charge the magic and blast a fire bullet to an enemy. Remember that with Fire magic you can store up to 5 charges for a more powerful blast.
+668	Charge the magic and blast a fire bullet to an enemy. Remember that with Fire magic you can store up to 5 charges for a more powerful blast.
+669	Charge the magic and blast a fire bullet to an enemy. Remember that with Fire magic you can store up to 5 charges for a more powerful blast.
+670	Charge the magic and blast a fire bullet to an enemy. Remember that with Fire magic you can store up to 5 charges for a more powerful blast.
+671	Charge the magic and blast a fire bullet to an enemy. Remember that with Fire magic you can store up to 5 charges for a more powerful blast.
+672	Charge the magic and blast a fire bullet to an enemy. Remember that with Fire magic you can store up to 5 charges for a more powerful blast.
+673	Charge the magic and blast a fire bullet to an enemy. Remember that with Fire magic you can store up to 5 charges for a more powerful blast.
+674	Charge the magic and blast a fire bullet to an enemy. Remember that with Fire magic you can store up to 5 charges for a more powerful blast.
+675	Charge the magic and blast a fire bullet to an enemy. Remember that with Fire magic you can store up to 5 charges for a more powerful blast.
+676	Charge the magic and blast a fire bullet to an enemy. Remember that with Fire magic you can store up to 5 charges for a more powerful blast.
+677	Charge the magic and blast a fire bullet to an enemy. Remember that with Fire magic you can store up to 5 charges for a more powerful blast.
+678	Remember that the Firebolt becomes powerfuler with every charge.\nStarting from rank 5, the damage rate will increase.
+679	Remember that the Firebolt becomes powerfuler with every charge.\nStarting from rank 5, the damage rate will increase.
+680	Remember that the Firebolt becomes powerfuler with every charge.\nStarting from rank 5, the damage rate will increase.
+681	Remember that the Firebolt becomes powerfuler with every charge.\nStarting from rank 5, the damage rate will increase.
+682	You have reached the highest level of the Firebolt skill.\nOnce you satisfy all the training requirements of rank 1, you will receive a title that proves you are at the highest level.
+683	Charge the magic and fire the ice bullet to an enemy. Remember that with Ice magic you can charge up to 5 times in advance.
+684	Charge the magic and fire the ice bullet to an enemy. Remember that with Ice magic you can charge up to 5 times in advance.
+685	Charge the magic and fire the ice bullet to an enemy. Remember that with Ice magic you can charge up to 5 times in advance.
+686	Charge the magic and fire the ice bullet to an enemy. Remember that with Ice magic you can charge up to 5 times in advance.
+687	Charge the magic and fire the ice bullet to an enemy. Remember that with Ice magic you can charge up to 5 times in advance.
+688	Charge the magic and fire the ice bullet to an enemy. Remember that with Ice magic you can charge up to 5 times in advance.
+689	Charge the magic and fire the ice bullet to an enemy. Remember that with Ice magic you can charge up to 5 times in advance.
+690	Charge the magic and fire the ice bullet to an enemy. Remember that with Ice magic you can charge up to 5 times in advance.
+691	Charge the magic and fire the ice bullet to an enemy. Remember that with Ice magic you can charge up to 5 times in advance.
+692	Charge the magic and fire the ice bullet to an enemy. Remember that with Ice magic you can charge up to 5 times in advance.
+693	Charge the magic and fire the ice bullet to an enemy. Remember that with Ice magic you can charge up to 5 times in advance.
+694	Charge the Icebolt and fire an ice bullet to an enemy.\nStarting from rank 5, the damage rate will increase.
+695	Charge the Icebolt and fire an ice bullet to an enemy.\nStarting from rank 5, the damage rate will increase.
+696	Charge the Icebolt and fire an ice bullet to an enemy.\nStarting from rank 5, the damage rate will increase.
+697	Charge the Icebolt and fire an ice bullet to an enemy.\nStarting from rank 5, the damage rate will increase.
+698	You have reached the highest level of the Icebolt skill.  Now, when you are attacked by an enemy while you are charged, you will not completely lose all of your charge.  Instead, you will only lose 1 of your charges.\nOnce you satisfy all the training requirements of rank 1, you will receive a title that proves you are at the highest level.
+699	Charge your magic and throw the Ice Spear to an enemy.
+700	Charge your magic and throw the Ice Spear to an enemy.
+701	Charge your magic and throw the Ice Spear to an enemy.
+702	Charge your magic and throw the Ice Spear to an enemy.
+703	Charge your magic and throw the Ice Spear to an enemy.
+704	Charge your magic and throw the Ice Spear to an enemy.
+705	Charge your magic and throw the Ice Spear to an enemy.
+706	Charge your magic and throw the Ice Spear to an enemy.
+707	Charge your magic and throw the Ice Spear to an enemy.
+708	Charge your magic and throw the Ice Spear to an enemy.
+709	Charge your magic and throw the Ice Spear to an enemy.
+710	Charge your magic and throw the Ice Spear to an enemy.
+711	Charge your magic and throw the Ice Spear to an enemy.
+712	Charge your magic and throw the Ice Spear to an enemy.
+713	Charge your magic and throw the Ice Spear to an enemy.
+714	You have reached the highest level of this skill.  There is nothing more you can train.
+715	Charge the magic and fire a Lightning arrow to an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+716	Charge the magic and fire a Lightning arrow to an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+717	Charge the magic and fire a Lightning arrow to an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+718	Charge the magic and fire a Lightning arrow to an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+719	Charge the magic and fire a Lightning arrow to an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+720	Charge the magic and fire a Lightning arrow to an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+721	Charge the magic and fire a Lightning arrow to an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+722	Charge the magic and fire a Lightning arrow to an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+723	Charge the magic and fire a Lightning arrow to an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+724	Charge the magic and fire a Lightning arrow to an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+725	Charge the magic and fire a Lightning arrow to an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+726	Charge the Lightning bolt and fire an Lightning arrow to an enemy.\nStarting from rank 5, the damage rate will increase.
+727	Charge the Lightning bolt and fire an Lightning arrow to an enemy.\nStarting from rank 5, the damage rate will increase.
+728	Charge the Lightning bolt and fire an Lightning arrow to an enemy.\nStarting from rank 5, the damage rate will increase.
+729	Charge the Lightning bolt and fire an Lightning arrow to an enemy.\nStarting from rank 5, the damage rate will increase.
+730	You have reached the highest level of the Lightning bolt skill.  Now, if you are attacked by an enemy while you are charged, you will not completely lose all of your charge.  Instead, you will only lose 1 of your charges.\nOnce you satisfy all the training requirements of rank 1, you will receive a title that proves you are at the highest level.
+731	Charge your magic and simply left-click on any attackable object!  You will know that an object is attackable if the cursor shape changes to a wand when you place it on the object. 
+732	Train against weak monsters or animals.  If it's your first time, I would recommend fighting against the Raccoons and Brown Foxes that are near the Logging Camp!  There's no significant benefit for you to fight against powerful enemies right now, so don't put yourself in danger by getting greedy. On the other hand, if you like doing volunteer work, help those you see that are in dangerous situations.
+733	Train against weak monsters or animals.  If it's your first time, I would recommend fighting against the Raccoons and Brown Foxes that are near the Logging Camp!  There's no significant benefit for you to fight against powerful enemies right now, so don't put yourself in danger by getting greedy. On the other hand, if you like doing volunteer work, help those you see that are in dangerous situations.
+734	Train against weak monsters or animals.  If it's your first time, I would recommend fighting against the Raccoons and Brown Foxes that are near the Logging Camp!  There's no significant benefit for you to fight against powerful enemies right now, so don't put yourself in danger by getting greedy. On the other hand, if you like doing volunteer work, help those you see that are in dangerous situations.
+735	From now on, you need the ability to read your opponents. Find an opponent with a similar level of strength. There are 6 different levels of strength which you can check by pressing the Alt key.
+736	From now on, you need the ability to read your opponents. Find an opponent with a similar level of strength. There are 6 different levels of strength which you can check by pressing the Alt key.
+737	There are enemies everywhere.  You will learn more by fighting powerfuler opponents. Also, as a person who studies magic, you can advance your training by helping those in dire situations .
+738	There are enemies everywhere.  You will learn more by fighting powerfuler opponents. Also, as a person who studies magic, you can advance your training by helping those in dire situations .
+739	You will learn more by fighting powerfuler opponents. Also, as a person who studies magic, you can advance your training by helping those in dire situations .
+740	You will learn more by fighting powerfuler opponents. Also, as a person who studies magic, you can advance your training by helping those in dire situations .
+741	You are well on your way to becoming a Magic Master. Now, only Boss-level enemies are a worthy match for you
+742	Now let's research a way to creating a more powerful magic attack together.
+743	Now let's research a way to creating a more powerful magic attack together.
+744	Now let's research a way to creating a more powerful magic attack together.
+745	Now let's research a way to creating a more powerful magic attack together.
+746	You have reached the highest level of this skill.\nOnce you satisfy all the training requirements of rank 1, you will receive a title that proves you are at the highest level.
+747	Try using Smash by clicking on the (Use) button.  Once the icon above your head if fixed, you are ready to attack.  If you then click on an opponent, you will perform a Smash attack as oppose to a regular attack. If you click the icon above your head once more, the skill will get canceled.
+748	Try using Smash by clicking on the (Use) button.  Once the icon above your head if fixed, you are ready to attack.  If you then click on an opponent, you will perform a Smash attack as oppose to a regular attack. If you click the icon above your head once more, the skill will get canceled.
+749	Use the Smash to attack an enemy and knock it down.
+750	Use the Smash to attack an enemy and knock it down.
+751	Use the Smash to attack an enemy and knock it down.
+752	Use the Smash to attack an enemy and knock it down.
+753	Use the Smash to attack an enemy and knock it down.
+754	Use the Smash to attack an enemy and knock it down.
+755	Use the Smash to attack an enemy and knock it down.
+756	Use the Smash to attack an enemy and knock it down.
+757	Use the Smash to attack an enemy and knock it down.
+758	Use the Smash to attack an enemy and knock it down.\nStarting from rank 5, you can also attack enemies nearby along with the targeted enemy at the same time.
+759	Use the Smash to attack an enemy and knock it down.\nStarting from rank 5, you can also attack enemies nearby along with the targeted enemy at the same time.
+760	Use the Smash to attack an enemy and knock it down.\nStarting from rank 5, you can also attack enemies nearby along with the targeted enemy at the same time.
+761	Use the Smash to attack an enemy and knock it down.\nStarting from rank 5, you can also attack enemies nearby along with the targeted enemy at the same time.
+762	You have reached the highest level of the Smash attack.  You can now inflict damage to nearby enemies as well as the targeted opponent.\nOnce you satisfy all the training requirements of rank 1, you will receive a title that proves you are at the highest level.
+763	Call on the cloud and perform a lightning attack on an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+764	Call on the cloud and perform a lightning attack on an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+765	Call on the cloud and perform a lightning attack on an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+766	Call on the cloud and perform a lightning attack on an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+767	Call on the cloud and perform a lightning attack on an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+768	Call on the cloud and perform a lightning attack on an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+769	Call on the cloud and perform a lightning attack on an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+770	Call on the cloud and perform a lightning attack on an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+771	Call on the cloud and perform a lightning attack on an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+772	Call on the cloud and perform a lightning attack on an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+773	Call on the cloud and perform a lightning attack on an enemy. Remember that with Lightning magic you can store your charge up to 5 times and inflict damage onto more enemies at once.
+774	Charge the Thunder attack to the max and perform a powerful lightning attack.\nStarting from rank 5, the damage rate will increase.
+775	Charge the Thunder attack to the max and perform a powerful lightning attack.\nStarting from rank 5, the damage rate will increase.
+776	Charge the Thunder attack to the max and perform a powerful lightning attack.\nStarting from rank 5, the damage rate will increase.
+777	Charge the Thunder attack to the max and perform a powerful lightning attack.\nStarting from rank 5, the damage rate will increase.
+778	You have reached the highest level of the Thunder attack.  Now, when you are attacked by an enemy while you are charged, you will not completely lose all of your charge.  Instead, you will only lose 1 of your charges.\nOnce you satisfy all the training requirements of rank 1, you will receive a title that proves you are at the highest level.
+779	The Windmill skill, taught by teacher Ranald.  Go to the Dunbarton combat teacher and learn it in detail.
+780	As many as the advantages the Windmill skill has, it is like a double-edged sword because it uses up your HP.  Make sure to use it wisely.
+781	As many as the advantages the Windmill skill has, it is like a double-edged sword because it uses up your HP.  Make sure to use it wisely.
+782	As many as the advantages the Windmill skill has, it is like a double-edged sword because it uses up your HP.  Make sure to use it wisely.
+783	As many as the advantages the Windmill skill has, it is like a double-edged sword because it uses up your HP.  Make sure to use it wisely.
+784	As many as the advantages the Windmill skill has, it is like a double-edged sword because it uses up your HP.  Make sure to use it wisely.
+785	As many as the advantages the Windmill skill has, it is like a double-edged sword because it uses up your HP.  Make sure to use it wisely.
+786	As many as the advantages the Windmill skill has, it is like a double-edged sword because it uses up your HP.  Make sure to use it wisely.
+787	As many as the advantages the Windmill skill has, it is like a double-edged sword because it uses up your HP.  Make sure to use it wisely.
+788	As many as the advantages the Windmill skill has, it is like a double-edged sword because it uses up your HP.  Make sure to use it wisely.
+789	As many as the advantages the Windmill skill has, it is like a double-edged sword because it uses up your HP.  Make sure to use it wisely.
+790	Use the Windmill to attack an enemy and knock it down.\nStarting from rank 5, you will have a larger range of attack.
+791	Use the Windmill to attack an enemy and knock it down.\nStarting from rank 5, you will have a larger range of attack.
+792	Use the Windmill to attack an enemy and knock it down.\nStarting from rank 5, you will have a larger range of attack.
+793	Use the Windmill to attack an enemy and knock it down.\nStarting from rank 5, you will have a larger range of attack.
+794	You have reached the highest level of the Windmill attack.  Now you can attack enemies at a further distance.\nOnce you satisfy all the training requirements of rank 1, you will receive a title that proves you are at the highest level.
+795	STR +3
+796	STR +5, DEX +5
+797	Max Melee Attack Damage: +1\nHP: +10
+798	Max Melee Attack Damage: +2\nMin Melee Attack Damage: +1\HP: +20
+799	Max Melee Attack Damage: +3\nMin Melee Attack Damage: +1\HP: +30
+800	Max Melee Attack Damage: +4\nMin Melee Attack Damage: +2\HP: +40
+801	Max Melee Attack Damage: +6\nMin Melee Attack Damage: +3\HP: +60
+802	Max Melee Attack Damage: +7\nMin Melee Attack Damage: +3\HP: +70
+803	Max Melee Attack Damage: +8\nMin Melee Attack Damage: +4\HP: +80
+804	Max Melee Attack Damage: +9\nMin Melee Attack Damage: +4\HP: +90
+805	Max Melee Attack Damage: +10\nMin Melee Attack Damage: +5\HP: +100
+806	Max Melee Attack Damage: +12\nMin Melee Attack Damage: +6\HP: +110
+807	Max Melee Attack Damage: +14\nMin Melee Attack Damage: +7\HP: +120
+808	Max Melee Attack Damage: +16\nMin Melee Attack Damage: +8\HP: +130
+809	Max Melee Attack Damage: +18\nMin Melee Attack Damage: +9\HP: +140
+810	Max Melee Attack Damage: +20\nMin Melee Attack Damage: +10\HP: +150
+811	The Counter-attack uses 60% of the enemy's attack combined with 105% of your attack.\nCritical Hit +5%
+812	Counter-attack uses 70% of the enemy's attack combined with 110% of your attack.\nCritical Hit +5%
+813	Counter-attack uses 80% of the enemy's attack combined with 115% of your attack.\nCritical Hit +5%
+814	Counter-attack uses 90% of the enemy's attack combined with 120% of your attack.\nCritical Hit +5%
+815	Counter-attack uses 100% of the enemy's attack combined with 125% of your attack.\nCritical Hit +5%
+816	Counter-attack uses 120% of the enemy's attack combined with 135% of your attack.\nCritical Hit +5%
+817	Counter-attack uses 130% of the enemy's attack combined with 140% of your attack.\nCritical Hit +5%
+818	Counter-attack uses 140% of the enemy's attack combined with 145% of your attack.\nCritical Hit +5%
+819	Counter-attack uses 150% of the enemy's attack combined with 150% of your attack.\nCritical Hit +5%
+820	Counter-attack uses 160% of the enemy's attack combined with 160% of your attack.\nCritical Hit +7%
+821	Counter-attack uses 170% of the enemy's attack combined with 170% of your attack.\nCritical Hit +7%
+822	Counter-attack uses 180% of the enemy's attack combined with 180% of your attack.\nCritical Hit +7%
+823	Counter-attack uses 190% of the enemy's attack combined with 190% of your attack.\nCritical Hit +7%
+824	Counter-attack uses 200% of the enemy's attack combined with 200% of your attack.\nCritical Hit +10%
+825	Basic Defense +1\When you successfully defend, an additional Defense +30, Protection +10% will apply
+826	Basic Defense +2\When you successfully defend, an additional Defense +31, Protection +11% will apply
+827	Basic Defense +3\When you successfully defend, an additional Defense +32, Protection +12% will apply
+828	Basic Defense +4\When you successfully defend, an additional Defense +33, Protection +13% will apply
+829	Basic Defense +5\When you successfully defend, an additional Defense +35, Protection +15% will apply
+830	Basic Defense +6\When you successfully defend, an additional Defense +37, Protection +17% will apply
+831	Basic Defense +7\When you successfully defend, an additional Defense +39, Protection +19% will apply
+832	Basic Defense +8\When you successfully defend, an additional Defense +41, Protection +21% will apply
+833	Basic Defense +9\When you successfully defend, an additional Defense +43, Protection +23% will apply
+834	Basic Defense +10\When you successfully defend, an additional Defense +45, Protection +25% will apply
+835	Basic Defense +11\When you successfully defend, an additional Defense +48, Protection +28% will apply
+836	Basic Defense +12\When you successfully defend, an additional Defense +51, Protection +31% will apply
+837	Basic Defense +13\When you successfully defend, an additional Defense +54, Protection +34% will apply
+838	Basic Defense +14\When you successfully defend, an additional Defense +57, Protection +37% will apply
+839	Basic Defense +15\When you successfully defend, an additional Defense +60, Protection +40% will apply
+840	add(1, 50, "Attack anything you can");\nadd(5, 20, "Attack an enemy");\nadd(10, 10, "Knock down an enemy with multiple hits");\nadd(10, 10, "Defeat an enemy");\nadd(30, 5, "You learn something even when you fall", false);\nadd(50, 1, "Things you learn from defeat", false);
+841	add(5, 20, "Knock down an enemy with multiple hits");\nadd(3, 50, "Defeat an enemy");\nadd(5, 30, "Attack a similar ranked enemy");\nadd(10, 10, "Knock down a similar ranked enemy");\nadd(30, 5, "You learn something even when you fall");\nadd(20, 5, "Defeat a similar-ranked enemy");\nadd(30, 4, "Knock down a powerful enemy", false);\nadd(50, 3, "Defeat a powerful enemy", false);
+842	add(0.5, 200, "Attack an enemy");\nadd(1, 100, "Knock down an enemy with multiple hits");\nadd(2, 60, "Defeat an enemy");\nadd(3, 50, "Attack a similar ranked enemy");\nadd(5, 20, "Knock down a similar ranked enemy");\nadd(10, 10, "Defeat a similar-ranked enemy");\nadd(10, 10, "Knock down a powerful enemy", false);\nadd(30, 4, "Defeat a powerful enemy", false);\nadd(50, 1, "Feel the power of a powerful attack", false);
+843	add(1, 100, "Attack a similar ranked enemy");\nadd(3, 40, "Knock down a similar ranked enemy");\nadd(5, 30, "Defeat a similar-ranked enemy");\nadd(5, 30, "Knock down a powerful enemy");\nadd(10, 10, "Defeat a powerful enemy");\nadd(10, 10, "Knock down a very powerful enemy", false);\nadd(30, 5, "Defeat a very powerful enemy", false);
+844	add(0.5, 300, "Attack a similar ranked enemy");\nadd(1, 100, "Knock down a similar ranked enemy");\nadd(3, 40, "Defeat a similar-ranked enemy");\nadd(3, 40, "Knock down a powerful enemy");\nadd(5, 20, "Defeat a powerful enemy");\nadd(8, 15, "Knock down a very powerful enemy", false);\nadd(20, 8, "Defeat a very powerful enemy", false);
+845	add(0.5, 300, "Knock down a similar ranked enemy");\nadd(1, 100, "Defeat a similar-ranked enemy");\nadd(2, 60, "Knock down a powerful enemy");\nadd(3, 40, "Defeat a powerful enemy");\nadd(5, 20, "Knock down a very powerful enemy", false);\nadd(15, 8, "Defeat a very powerful enemy", false);
+846	add(0.3, 500, "Knock down a similar ranked enemy");\nadd(0.5, 300, "Defeat a similar-ranked enemy");\nadd(1, 100, "Knock down a powerful enemy");\nadd(2, 60, "Defeat a powerful enemy");\nadd(3, 40, "Knock down a very powerful enemy", false);\nadd(10, 10, "Defeat a very powerful enemy", false);
+847	add(0.1, 1000, "Knock down a similar ranked enemy");\nadd(0.3, 500, "Defeat a similar-ranked enemy");\nadd(0.8, 200, "Knock down a powerful enemy");\nadd(1, 100, "Defeat a powerful enemy");\nadd(2, 60, "Knock down a very powerful enemy");\nadd(8, 15, "Defeat a very powerful enemy");\nadd(20, 5, "Knock down a Boss-level enemy", false);\nadd(40, 2, "Defeat a Boss-level enemy", false);
+848	add(0.1, 1000, "Defeat a similar-ranked enemy");\nadd(0.5, 300, "Knock down a powerful enemy");\nadd(0.8, 200, "Defeat a powerful enemy");\nadd(1, 100, "Knock down a very powerful enemy");\nadd(5, 30, "Defeat a very powerful enemy");\nadd(15, 8, "Knock down a Boss-level enemy", false);\nadd(30, 2, "Defeat a Boss-level enemy", false);
+849	add(0.3, 400, "Knock down a powerful enemy");\nadd(0.5, 300, "Defeat a powerful enemy");\nadd(0.8, 200, "Knock down a very powerful enemy");\nadd(3, 50, "Defeat a very powerful enemy");\nadd(10, 10, "Knock down a Boss-level enemy", false);\nadd(20, 4, "Defeat a Boss-level enemy", false);
+850	add(0.2, 800, "Knock down a powerful enemy");\nadd(0.3, 400, "Defeat a powerful enemy");\nadd(0.5, 300, "Knock down a very powerful enemy");\nadd(2, 60, "Defeat a very powerful enemy");\nadd(8, 20, "Knock down a Boss-level enemy", false);\nadd(15, 6, "Defeat a Boss-level enemy", false);
+851	add(0.1, 1000, "Knock down a powerful enemy");\nadd(0.2, 800, "Defeat a powerful enemy");\nadd(0.3, 400, "Knock down a very powerful enemy");\nadd(1, 100, "Defeat a very powerful enemy");\nadd(5, 30, "Knock down a Boss-level enemy", false);\nadd(10, 10, "Defeat a Boss-level enemy", false);
+852	add(0.05, 1500, "Knock down a powerful enemy");\nadd(0.1, 1000, "Defeat a powerful enemy");\nadd(0.2, 600, "Knock down a very powerful enemy");\nadd(0.8, 200, "Defeat a very powerful enemy");\nadd(3, 40, "Knock down a Boss-level enemy", false);\nadd(8, 10, "Defeat a Boss-level enemy", false);
+853	add(0.03, 2000, "Knock down a powerful enemy");\nadd(0.05, 1500, "Defeat a powerful enemy");\nadd(0.1, 1000, "Knock down a very powerful enemy");\nadd(0.5, 300, "Defeat a very powerful enemy");\nadd(2, 50, "Knock down a Boss-level enemy", false);\nadd(5, 10, "Defeat a Boss-level enemy", false);
+854	add(0.01, 3000, "Knock down a powerful enemy");\nadd(0.03, 2000, "Defeat a powerful enemy");\nadd(0.05, 1500, "Knock down a very powerful enemy");\nadd(0.1, 500, "Defeat a very powerful enemy");\nadd(1, 100, "Knock down a Boss-level enemy", false);\nadd(3, 30, "Defeat a Boss-level enemy", false);
+855	add(5, 20, "Use Counter-attack");\nadd(20, 3, "Successfully counter an opponent's attack");\nadd(30, 2, "Learn from an enemy's counter-attack");\nadd(50, 1, "Counter an enemy's special attack", false);\nadd(10, 5, "Counter-attack activated to Critical Hit", false);
+856	add(15, 4, "Successfully counter an opponent's attack");\nadd(30, 2, "Counter an enemy's special attack");\nadd(20, 3, "Learn from enemy's counter-attack");\nadd(9, 6, "Counter-attack activated to Critical Hit", false);
+857	add(10, 5, "Successfully counter an opponent's attack");\nadd(20, 3, "Counter an enemy's special attack");\nadd(15, 4, "Learn from enemy's counter-attack");\nadd(8, 7, "Counter-attack activated to Critical Hit");
+858	add(8, 6, Successfully counter an opponent's attack);\nadd(15, 4, Counter an enemy's special attack);\nadd(10, 5, Learn from enemy's counter-attack);\nadd(7, 8, Counter-attack activated to Critical Hit);
+859	add(6, 8, Successfully counter an opponent's attack);\nadd(10, 5, Counter an enemy's special attack);\nadd(8, 7, Learn from enemy's counter-attack);\nadd(6, 9, Counter-attack activated to Critical Hit);
+860	add(5, 10, Successfully counter an opponent's attack);\nadd(8, 6, Counter an enemy's special attack);\nadd(6, 8, Learn from enemy's counter-attack);\nadd(5, 10, Counter-attack activated to Critical Hit);
+861	add(3, 15, Successfully counter an opponent's attack);\nadd(6, 8, Counter an enemy's special attack);\nadd(5, 10, Learn from enemy's counter-attack);\nadd(4, 12, Counter-attack activated to Critical Hit);
+862	add(2, 20, Successfully counter an opponent's attack);\nadd(5, 10, Counter an enemy's special attack);\nadd(3, 15, Learn from enemy's counter-attack);\nadd(3, 15, Counter-attack activated to Critical Hit);
+863	add(1, 40, Successfully counter an opponent's attack);\nadd(3, 15, Counter an enemy's special attack);\nadd(2, 20, Learn from enemy's counter-attack);\nadd(2, 20, Counter-attack activated to Critical Hit);
+864	add(0.8, 50, Successfully counter an opponent's attack);\nadd(2, 20, Counter an enemy's special attack);\nadd(1, 40, Learn from enemy's counter-attack);\nadd(1, 40, Counter-attack activated to Critical Hit);
+865	add(0.6, 60, Successfully counter an opponent's attack);\nadd(1.5, 30, Counter an enemy's special attack);\nadd(0.8, 50, Learn from enemy's counter-attack);\nadd(0.8, 50, Counter-attack activated to Critical Hit);
+866	add(0.5, 80, Successfully counter an opponent's attack);\nadd(1, 40, Counter an enemy's special attack);\nadd(0.6, 70, Learn from enemy's counter-attack);\nadd(0.6, 60, Counter-attack activated to Critical Hit);
+867	add(0.3, 140, Successfully counter an opponent's attack);\nadd(0.8, 50, Counter an enemy's special attack);\nadd(0.4, 100, Learn from enemy's counter-attack);\nadd(0.4, 80, Counter-attack activated to Critical Hit);
+868	add(0.2, 200, Successfully counter an opponent's attack);\nadd(0.6, 70, Counter an enemy's special attack);\nadd(0.2, 400, Learn from enemy's counter-attack);\nadd(0.2, 150, Counter-attack activated to Critical Hit);
+869	add(0.1, 400, Successfully counter an opponent's attack);\nadd(0.5, 80, Counter an enemy's special attack);\nadd(0.1, 500, Learn from enemy's counter-attack);\nadd(0.1, 200, Counter-attack activated to Critical Hit);
+870	add(5, 30, "Use Defense");\nadd(30, 10, "Receive enemy's attack using the Defense skill");\nadd(10, 5, "Observe an opponent use the Defense skill", false);
+871	add(20, 10, "Receive enemy's attack using the Defense skill");\nadd(8, 6, "Observe an opponent use the Defense skill");
+872	add(15, 12, "Receive enemy's attack using the Defense skill");\nadd(6, 8, "Observe an opponent use the Defense skill");\nadd(50, 1, "Successfully use special attack on an enemy using Defense", false);
+873	add(10, 15, Receive enemy's attack using the Defense skill);\nadd(5, 10, Observe an opponent use the Defense skill);\nadd(30, 2, Successfully use special attack on an enemy using Defense, false);
+874	add(8, 20, Receive enemy's attack using the Defense skill);\nadd(3, 12, Observe an opponent use the Defense skill);\nadd(15, 3, Successfully use special attack on an enemy using Defense, false);
+875	add(6, 30, Receive enemy's attack using the Defense skill);\nadd(2, 15, Observe an opponent use the Defense skill);\nadd(10, 5, Successfully use special attack on an enemy using Defense, false);
+876	add(5, 36, Receive enemy's attack using the Defense skill);\nadd(1, 30, Observe an opponent use the Defense skill);\nadd(8, 6, Successfully use special attack on an enemy using Defense, false);
+877	add(3, 50, Receive enemy's attack using the Defense skill);\nadd(0.8, 40, Observe an opponent use the Defense skill);\nadd(6, 7, Successfully use special attack on an enemy using Defense, false);
+878	add(2, 80, Receive enemy's attack using the Defense skill);\nadd(0.6, 50, Observe an opponent use the Defense skill);\nadd(4, 8, Successfully use special attack on an enemy using Defense, false);
+879	add(1, 150, Receive enemy's attack using the Defense skill);\nadd(0.5, 60, Observe an opponent use the Defense skill);\nadd(3, 10, Successfully use special attack on an enemy using Defense, false);
+880	add(0.8, 200, Receive enemy's attack using the Defense skill);\nadd(0.3, 80, Observe an opponent use the Defense skill);\nadd(2, 15, Successfully use special attack on an enemy using Defense, false);
+881	add(0.6, 300, Receive enemy's attack using the Defense skill);\nadd(0.1, 100, Observe an opponent use the Defense skill);\nadd(1, 30, Successfully use special attack on an enemy using Defense, false);
+882	add(0.5, 400, Receive enemy's attack using the Defense skill);\nadd(0.08, 120, Observe an opponent use the Defense skill);\nadd(0.8, 40, Successfully use special attack on an enemy using Defense, false);
+883	add(0.3, 600, Receive enemy's attack using the Defense skill);\nadd(0.06, 150, Observe an opponent use the Defense skill);\nadd(0.6, 50, Successfully use special attack on an enemy using Defense, false);
+884	add(0.1, 1000, Receive enemy's attack using the Defense skill);\nadd(0.05, 200, Observe an opponent use the Defense skill);\nadd(0.5, 80, Successfully use special attack on an enemy using Defense, false);
+885	MP +5
+886	MP +5
+887	MP +5
+888	MP +7
+889	MP +7
+890	MP +7
+891	add(5, 40, "Use the skill successfully.");\nadd(30, 5, "Successfully use Smash as Critical Hit");\nadd(50, 1, "Finishing blow with Smash", false);
+892	add(4, 60, "Use the skill successfully.");\nadd(20, 8, "Successfully use Smash as Critical Hit");\nadd(30, 2, "Finishing blow with Smash", false);
+893	add(3, 80, "Use the skill successfully.");\nadd(15, 10, "Successfully use Smash as Critical Hit");\nadd(20, 3, "Finishing blow with Smash", false);\nadd(50, 1, "Use Critical Hit as the final blow", false);
+894	add(2, 100, Use the skill successfully.);\nadd(12, 12, Successfully use Smash as Critical Hit);\nadd(15, 4, Finishing blow with Smash, false);\nadd(30, 2, Use Critical Hit as the final blow, false);
+895	add(1, 150, Use the skill successfully.);\nadd(10, 15, Successfully use Smash as Critical Hit);\nadd(12, 5, Finishing blow with Smash, false);\nadd(20, 2, Use Critical Hit as the final blow, false);
+896	add(0.8, 180, Use the skill successfully.);\nadd(8, 18, Successfully use Smash as Critical Hit);\nadd(10, 6, Finishing blow with Smash, false);\nadd(15, 3, Use Critical Hit as the final blow, false);
+897	add(0.5, 200, Use the skill successfully.);\nadd(6, 20, Successfully use Smash as Critical Hit);\nadd(8, 7, Finishing blow with Smash, false);\nadd(10, 4, Use Critical Hit as the final blow, false);
+898	add(0.3, 200, Use the skill successfully.);\nadd(5, 30, Successfully use Smash as Critical Hit);\nadd(6, 9, Finishing blow with Smash, false);\nadd(8, 5, Use Critical Hit as the final blow, false);
+899	add(0.1, 200, Use the skill successfully.);\nadd(3, 40, Successfully use Smash as Critical Hit);\nadd(5, 12, Finishing blow with Smash, false);\nadd(6, 6, Use Critical Hit as the final blow, false);
+900	add(2, 60, Successfully use the Smash Critical Hit);\nadd(3, 15, Use Smash attack as the final blow, false);\nadd(5, 8, Use Critical Hit as the final blow, false);
+901	add(1, 80, Successfully use the Smash Critical Hit);\nadd(2, 25, Use Smash attack as the final blow, false);\nadd(3, 15, Use Critical Hit as the final blow, false);
+902	add(0.8, 100, Successfully use the Smash Critical Hit);\nadd(1.5, 30, Use Smash attack as the final blow, false);\nadd(2, 20, Use Critical Hit as the final blow, false);
+903	add(0.5, 120, Successfully use the Smash Critical Hit);\nadd(1, 50, Use Smash attack as the final blow, false);\nadd(1.6, 30, Use Critical Hit as the final blow, false);
+904	add(0.3, 150, Successfully use the Smash Critical Hit);\nadd(0.8, 60, Use Smash attack as the final blow, false);\nadd(1.3, 40, Use Critical Hit as the final blow, false);
+905	add(0.1, 200, Successfully use the Smash Critical Hit);\nadd(0.5, 80, Use Smash attack as the final blow, false);\nadd(1, 50, Use Critical Hit as the final blow, false);
+906	add(1,50,"Attack an enemy");\nadd(5,10,"Defeat an enemy");\nadd(10,2,"Use the Windmill to counter");\nadd(30,1,"Attack multiple enemies",false);\nadd(50,1,"Successfully defeat multiple enemies",false);
+907	add(0.5,80,"Attack an enemy");\nadd(2.5,15,"Defeat an enemy");\nadd(2,15,"Attack a similar ranked enemy");\nadd(5,4,"Defeat a similar-ranked enemy");\nadd(10,10,"Defeat a powerful enemy");\nadd(8,2,"Use the Windmill to counter");\nadd(20,1,"Attack multiple similar ranked enemies",false);\nadd(40,1,"Defeat multiple similar ranked enemies",false);
+908	add(0.1,250,"Attack an enemy");\nadd(1,25,"Defeat an enemy");\nadd(1.5,20,"Attack a similar ranked enemy");\nadd(3,6,"Defeat a similar-ranked enemy");\nadd(5,25,"Defeat a powerful enemy");\nadd(6,3,"Use the Windmill to counter");\nadd(15,1,"Attack multiple powerful  enemies",false);\nadd(30,1,"Defeat multiple similar ranked enemies",false);
+909	add(1, 30, Attack a similar ranked enemy);\nadd(2, 10, Defeat a similar-ranked enemy);\nadd(3, 35, Defeat a powerful enemy);\nadd(5, 24, Defeat a very powerful enemy);\nadd(4, 5, Use the Windmill to counter);\nadd(10, 2, Attack multiple powerful  enemies, false);\nadd(20, 2, Defeat multiple powerful  enemies, false);
+910	add(0.6, 60, Attack a similar ranked enemy);\nadd(1.5, 20, Defeat a similar-ranked enemy);\nadd(2, 60, Defeat a powerful enemy);\nadd(3, 40, Defeat a very powerful enemy);\nadd(3, 6, Use the Windmill to counter);\nadd(8, 2, Attack multiple powerful  enemies, false);\nadd(15, 2, Defeat multiple powerful  enemies, false);
+911	add(1, 80, Defeat a similar-ranked enemy);\nadd(1.5, 80, Defeat a powerful enemy);\nadd(2, 60, Defeat a very powerful enemy);\nadd(2, 10, Use the Windmill to counter);\nadd(5, 2, Attack multiple powerful  enemies);\nadd(10, 2, Defeat multiple powerful  enemies);
+912	add(0.6, 100, Defeat a similar-ranked enemy);\nadd(1, 50, Defeat a powerful enemy);\nadd(1.5, 80, Defeat a very powerful enemy);\nadd(1.5, 6, Use the Windmill to counter);\nadd(4, 2, Attack multiple powerful  enemies);\nadd(8, 2, Defeat multiple powerful  enemies);
+913	add(0.3, 200, Defeat a similar-ranked enemy);\nadd(0.6, 100, Defeat a powerful enemy);\nadd(1, 120, Defeat a very powerful enemy);\nadd(10, 3, Defeat a Boss-level enemy);\nadd(1, 10, Use the Windmill to counter);\nadd(3, 4, Attack multiple powerful  enemies);\nadd(6, 2, Defeat multiple powerful  enemies);
+914	add(0.1, 500, Defeat a similar-ranked enemy);\nadd(0.3, 170, Defeat a powerful enemy);\nadd(0.6, 200, Defeat a very powerful enemy);\nadd(5, 6, Defeat a Boss-level enemy);\nadd(2, 8, Attack multiple powerful  enemies);\nadd(4, 4, Defeat multiple powerful  enemies);
+915	add(0.1, 500, Defeat a powerful enemy);\nadd(0.3, 400, Defeat a very powerful enemy);\nadd(3, 10, Defeat a Boss-level enemy);\nadd(1, 10, Attack multiple powerful  enemies);\nadd(2, 10, Defeat multiple powerful  enemies);
+916	add(0.08, 400, Defeat a powerful enemy);\nadd(0.1, 300, Defeat a very powerful enemy);\nadd(1, 50, Defeat a Boss-level enemy);\nadd(0.9, 15, Attack multiple powerful  enemies);\nadd(1.8, 15, Defeat multiple powerful  enemies);
+917	add(0.06, 400, Defeat a powerful enemy);\nadd(0.08, 300, Defeat a very powerful enemy);\nadd(0.5, 100, Defeat a Boss-level enemy);\nadd(0.8, 10, Attack multiple powerful  enemies);\nadd(1.6, 10, Defeat multiple powerful  enemies);
+918	add(0.04, 600, Defeat a powerful enemy);\nadd(0.06, 400, Defeat a very powerful enemy);\nadd(0.1, 500, Defeat a Boss-level enemy);\nadd(0.7, 16, Attack multiple powerful  enemies);\nadd(1.4, 12, Defeat multiple powerful  enemies);
+919	add(0.02, 1300, Defeat a powerful enemy);\nadd(0.04, 600, Defeat a very powerful enemy);\nadd(0.07, 700, Defeat a Boss-level enemy);\nadd(0.6, 20, Attack multiple powerful  enemies);\nadd(1.2, 16, Defeat multiple powerful  enemies);
+920	add(0.01, 2500, Defeat a powerful enemy);\nadd(0.02, 1250, Defeat a very powerful enemy);\nadd(0.05, 1000, Defeat a Boss-level enemy);\nadd(0.5, 40, Attack multiple powerful  enemies);\nadd(1, 20, Defeat multiple powerful  enemies);
+921	add(0.02, 2000, "비슷한 급의 적을 다운시킨다");\nadd(0.25, 800, "비슷한 급의 적과의 전투에서 승리");\nadd(1.5, 100, "강한 적을 다운시킨다");\nadd(2.5, 200, "강한 적과의 전투에서 승리");\nadd(2.5, 40, "매우 강한 적을 다운시킨다");\nadd(5, 100, "매우 강한 적과의 전투에서 승리");\nadd(5, 20, "보스급의 적을 다운시킨다", false);\nadd(10, 4, "보스급의 적에게 승리", false);
+922	add(0.02, 2000, "Knock down a similar ranked enemy");\nadd(0.05, 800, "Defeat a similar-ranked enemy");\nadd(1.5, 100, "Knock down a powerful enemy");\nadd(2.5, 200, "Defeat a powerful enemy");\nadd(2.5, 40, "Knock down a very powerful enemy");\nadd(5, 100, "Defeat a very powerful enemy");\nadd(5, 20, "Knock down a Boss-level enemy", false);\nadd(10, 4, "Defeat a Boss-level enemy", false);
+923	add(0.02, 2000, "Knock down a similar ranked enemy");\nadd(0.25, 800, "Defeat a similar-ranked enemy");\nadd(1.5, 100, "Knock down a powerful enemy");\nadd(2.5, 200, "Defeat a powerful enemy");\nadd(2.5, 40, "Knock down a very powerful enemy");\nadd(5, 100, "Defeat a very powerful enemy");\nadd(5, 20, "Knock down a Boss-level enemy", false);\nadd(10, 4, "Defeat a Boss-level enemy", false);
+924	add(0.02, 2000, "Knock down a similar ranked enemy");\nadd(0.25, 800, "Defeat a similar-ranked enemy");\nadd(1.5, 100, "Knock down a powerful enemy");\nadd(2.5, 200, "Defeat a powerful enemy");\nadd(2.5, 40, "Knock down a very powerful enemy");\nadd(5, 100, "Defeat a very powerful enemy");\nadd(5, 20, "Knock down a Boss-level enemy", false);\nadd(10, 4, "Defeat a Boss-level enemy", false);
+925	add(0.02, 2000, "Knock down a similar ranked enemy");\nadd(0.05, 800, "Defeat a similar-ranked enemy");\nadd(1.5, 100, "Knock down a powerful enemy");\nadd(2.5, 200, "Defeat a powerful enemy");\nadd(2.5, 40, "Knock down a very powerful enemy");\nadd(5, 100, "Defeat a very powerful enemy");\nadd(5, 20, "Knock down a Boss-level enemy", false);\nadd(10, 4, "Defeat a Boss-level enemy", false);
+926	Stamina +2
+927	Stamina +2
+928	Stamina +2
+929	Stamina +2
+930	Stamina +2
+931	Stamina +2
+932	Stamina +2, STR +1
+933	Stamina +2, STR +1
+934	Stamina +2, STR +1
+935	Stamina +2, STR +1
+936	Stamina +5, STR +1
+937	Stamina +5, STR +1
+938	Stamina +5, STR +1
+939	Stamina +5, STR +1
+940	Stamina +5, STR +5
+957	add(100, 1, "Learn a better method from a person or a book.");
+958	add(1, 20, "Attack an enemy using the skill.");\nadd(5, 10, "Hit an enemy using the skill.");\nadd(10, 5, "Block long-ranged attacks using the skill.");\nadd(20, 1, "Successfully block long-ranged attacks using the skill.");
+959	add(0.8, 30, "Attack an enemy using the skill.");\nadd(3, 10, "Hit an enemy using the skill.");\nadd(8, 5, "Block long-ranged attacks using the skill.");\nadd(15, 2, "Successfully block long-ranged attacks using the skill.");
+960	add(0.6, 40, "Attack an enemy using the skill.");\nadd(2, 15, "Hit an enemy using the skill.");\nadd(6, 6, "Block long-ranged attacks using the skill.");\nadd(10, 3, "Successfully block long-ranged attacks using the skill.");
+961	add(0.5, 50, "Attack an enemy using the skill.");\nadd(1, 20, "Hit an enemy using the skill.");\nadd(5, 10, "Block long-ranged attacks using the skill.");\nadd(8, 4, "Successfully block long-ranged attacks using the skill.");
+962	add(0.3, 70, "Attack an enemy using the skill.");\nadd(0.8, 30, "Hit an enemy using the skill.");\nadd(3, 15, "Block long-ranged attacks using the skill.");\nadd(6, 5, "Successfully block long-ranged attacks using the skill.");
+963	add(0.1, 100, "Attack an enemy using the skill.");\nadd(0.6, 40, "Hit an enemy using the skill.");\nadd(2, 20, "Block long-ranged attacks using the skill.");\nadd(5, 7, "Successfully block long-ranged attacks using the skill.");
+964	add(0.08, 120, "Attack an enemy using the skill.");\nadd(0.5, 50, "Hit an enemy using the skill.");\nadd(1, 35, "Block long-ranged attacks using the skill.");\nadd(3, 15, "Successfully block long-ranged attacks using the skill.");
+965	add(0.05, 200, "Attack an enemy using the skill.");\nadd(0.3, 70, "Hit an enemy using the skill.");\nadd(0.8, 50, "Block long-ranged attacks using the skill.");\nadd(2, 20, "Successfully block long-ranged attacks using the skill.");
+966	add(0.03, 300, "Attack an enemy using the skill.");\nadd(0.2, 100, "Hit an enemy using the skill.");\nadd(0.6, 70, "Block long-ranged attacks using the skill.");\nadd(1, 40, "Successfully block long-ranged attacks using the skill.");
+967	add(0.01, 500, "Attack an enemy using the skill.");\nadd(0.1, 200, "Hit an enemy using the skill.");\nadd(0.5, 80, "Block long-ranged attacks using the skill.");\nadd(0.8, 50, "Successfully block long-ranged attacks using the skill.");
+968	add(0.08, 300, "Hit an enemy using the skill.");\nadd(0.3, 100, "Block long-ranged attacks using the skill.");\nadd(0.6, 70, "Successfully block long-ranged attacks using the skill.");\nadd(5, 5, "Hit a Charging enemy.", false);
+969	add(0.06, 400, "Hit an enemy using the skill.");\nadd(0.2, 150, "Block long-ranged attacks using the skill.");\nadd(0.5, 80, "Successfully block long-ranged attacks using the skill.");\nadd(4, 6, "Hit a Charging enemy.", false);
+970	add(0.05, 500, "Hit an enemy using the skill.");\nadd(0.3, 300, "Block long-ranged attacks using the skill.");\nadd(0.3, 100, "Successfully block long-ranged attacks using the skill.");\nadd(3, 8, "Hit a Charging enemy.", false);
+971	add(0.03, 800, "Hit an enemy using the skill.");\nadd(0.8, 400, "Block long-ranged attacks using the skill.");\nadd(0.2, 200, "Successfully block long-ranged attacks using the skill.");\nadd(2, 10, "Hit a Charging enemy.", false);
+972	add(0.01, 1000, "Hit an enemy using the skill.");\nadd(0.5, 500, "Block long-ranged attacks using the skill.");\nadd(0.1, 400, "Successfully block long-ranged attacks using the skill.");\nadd(1, 15, "Hit a Charging enemy.", false);
+989	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 60% Attack Strength while receiving 50% less damage.\nIncreases the distance of Charge.
+990	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 70% Attack Strength while receiving 50% less damage.\nIncreases the distance of Charge.
+991	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 80% Attack Strength while receiving 50% less damage.\nIncreases the distance of Charge.
+992	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 90% Attack Strength while receiving 50% less damage.\nIncreases the distance of Charge.
+993	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 100% Attack Strength while receiving 50% less damage.\nIncreases the distance of Charge.
+994	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 110% Attack Strength while receiving 50% less damage.\nIncreases the distance of Charge.
+995	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 120% Attack Strength while receiving 50% less damage.\nIncreases the distance of Charge.
+996	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 130% Attack Strength while receiving 50% less damage.\nIncreases the distance of Charge.
+997	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 140% Attack Strength while receiving 50% less damage.\nIncreases the distance of Charge.
+998	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 150% Attack Strength while receiving 50% less damage.\nIncreases the distance of Charge.
+999	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 160% Attack Strength while receiving 60% less damage.\nIncreases the distance of Charge.
+1000	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 170% Attack Strength while receiving 60% less damage.\nIncreases the distance of Charge.
+1001	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 180% Attack Strength while receiving 60% less damage.\nIncreases the distance of Charge.
+1002	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 190% Attack Strength while receiving 60% less damage.\nIncreases the distance of Charge.
+1003	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 200% Attack Strength while receiving 70% less damage.\nIncreases the distance of Charge.
+1005	Charge Practice:\nEnables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 50% Attack Strength while receiving 30% less damage.
+1006	This skill enables you to fiercely charge at an enemy. First, let's practice the skill.
+1007	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.
+1008	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.
+1009	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.
+1010	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.
+1011	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.
+1012	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.
+1013	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.
+1014	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.
+1015	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.
+1016	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.
+1017	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.\nThis skill reduces a greater amount of long-ranged attack damage at rank 5 or higher.
+1018	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.\nThis skill reduces a greater amount of long-ranged attack damage at rank 5 or higher.
+1019	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.\nThis skill reduces a greater amount of long-ranged attack damage at rank 5 or higher.
+1020	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to attacks during a Charge, and will be in danger without enough HP.\nThis skill reduces a greater amount of long-ranged attack damage at rank 5 or higher.
+1021	You have mastered the maximum level of Charge. You can now close the distance between you and enemies more safely than ever.\nYou will be rewarded with a title for mastering the skill if you satisfy the training conditions of the skill at rank 1.
+1022	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 100% Attack Strength while receiving 40% less damage.\nIncreases the distance of Charge.
+1023	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 110% Attack Strength while receiving 42% less damage.\nIncreases the distance of Charge.
+1024	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 120% Attack Strength while receiving 44% less damage.\nIncreases the distance of Charge.
+1025	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 130% Attack Strength while receiving 46% less damage.\nIncreases the distance of Charge.
+1026	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 140% Attack Strength while receiving 48% less damage.\nIncreases the distance of Charge.
+1027	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 180% Attack Strength while receiving 55% less damage.\nIncreases the distance of Charge.
+1028	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 190% Attack Strength while receiving 57% less damage.\nIncreases the distance of Charge.
+1029	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 200% Attack Strength while receiving 59% less damage.\nIncreases the distance of Charge.
+1030	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 210% Attack Strength while receiving 61% less damage.\nIncreases the distance of Charge.
+1031	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 240% Attack Strength while receiving 66% less damage.\nIncreases the distance of Charge.
+1032	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 250% Attack Strength while receiving 69% less damage.\nIncreases the distance of Charge.
+1033	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 260% Attack Strength while receiving 72% less damage.\nIncreases the distance of Charge.
+1034	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 270% Attack Strength while receiving 75% less damage.\nIncreases the distance of Charge.
+1035	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 300% Attack Strength while receiving 80% less damage.\nIncreases the distance of Charge.
+1036	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 50% Attack Strength while receiving 20% less damage.\nIncreases the distance of Charge.
+1037	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 100% Attack Strength while receiving 30% less damage.\nIncreases the distance of Charge.
+1038	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 110% Attack Strength while receiving 32% less damage.\nIncreases the distance of Charge.
+1039	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 120% Attack Strength while receiving 34% less damage.\nIncreases the distance of Charge.
+1040	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 130% Attack Strength while receiving 36% less damage.\nIncreases the distance of Charge.
+1041	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 140% Attack Strength while receiving 38% less damage.\nIncreases the distance of Charge.
+1042	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 150% Attack Strength while receiving 40% less damage.\nIncreases the distance of Charge.
+1043	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 180% Attack Strength while receiving 42% less damage.\nIncreases the distance of Charge.
+1044	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 190% Attack Strength while receiving 44% less damage.\nIncreases the distance of Charge.
+1045	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 200% Attack Strength while receiving 46% less damage.\nIncreases the distance of Charge.
+1046	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 210% Attack Strength while receiving 48% less damage.\nIncreases the distance of Charge.
+1047	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 240% Attack Strength while receiving 50% less damage.\nIncreases the distance of Charge.
+1048	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 250% Attack Strength while receiving 52% less damage.\nIncreases the distance of Charge.
+1049	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 260% Attack Strength while receiving 55% less damage.\nIncreases the distance of Charge.
+1050	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 270% Attack Strength while receiving 57% less damage.\nIncreases the distance of Charge.
+1051	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 300% Attack Strength while receiving 60% less damage.\nIncreases the distance of Charge.
+1052	add(10, 10, "Attack an enemy with the skill.");
+1053	add(1, 30, "Attack an enemy using the skill.");\nadd(5, 15, "Hit an enemy using the skill.");\nadd(10, 5, "Block long-ranged attacks using the skill.");\nadd(20, 1, "Successfully block long-ranged attacks using the skill.");
+1054	add(0.8, 40, "Attack an enemy using the skill.");\nadd(3, 20, "Hit an enemy using the skill.");\nadd(8, 5, "Block long-ranged attacks using the skill.");\nadd(15, 2, "Successfully block long-ranged attacks using the skill.");
+1055	add(0.6, 50, "Attack an enemy using the skill.");\nadd(2, 30, "Hit an enemy using the skill.");\nadd(6, 6, "Block long-ranged attacks using the skill.");\nadd(10, 3, "Successfully block long-ranged attacks using the skill.");
+1056	add(0.5, 60, "Attack an enemy using the skill.");\nadd(1, 40, "Hit an enemy using the skill.");\nadd(5, 10, "Block long-ranged attacks using the skill.");\nadd(8, 4, "Successfully block long-ranged attacks using the skill.");
+1057	add(0.3, 100, "Attack an enemy using the skill.");\nadd(0.8, 50, "Hit an enemy using the skill.");\nadd(3, 15, "Block long-ranged attacks using the skill.");\nadd(6, 5, "Successfully block long-ranged attacks using the skill.");
+1058	add(0.1, 200, "Attack an enemy using the skill.");\nadd(0.6, 60, "Hit an enemy using the skill.");\nadd(2, 20, "Block long-ranged attacks using the skill.");\nadd(5, 7, "Successfully block long-ranged attacks using the skill.");
+1059	add(0.08, 300, "Attack an enemy using the skill.");\nadd(0.5, 70, "Hit an enemy using the skill.");\nadd(1, 35, "Block long-ranged attacks using the skill.");\nadd(3, 15, "Successfully block long-ranged attacks using the skill.");
+1060	add(0.05, 400, "Attack an enemy using the skill.");\nadd(.3, 100, "Hit an enemy using the skill.");\nadd(0.8, 50, "Block long-ranged attacks using the skill.");\nadd(2, 20, "Successfully block long-ranged attacks using the skill.");
+1061	add(0.03, 500, "Attack an enemy using the skill.");\nadd(0.2, 150, "Hit an enemy using the skill.");\nadd(0.6, 70, "Block long-ranged attacks using the skill.");\nadd(1, 40, "Successfully block long-ranged attacks using the skill.");
+1062	add(0.01, 600, "Attack an enemy using the skill.");\nadd(0.1, 300, "Hit an enemy using the skill.");\nadd(0.5, 80, "Block long-ranged attacks using the skill.");\nadd(0.8, 50, "Successfully block long-ranged attacks using the skill.");
+1066	add(0.08, 400, "Hit an enemy using the skill.");\nadd(0.3, 100, "Block long-ranged attacks using the skill.");\nadd(0.6, 70, "Successfully block long-ranged attacks using the skill.");\nadd(5, 10, "Hit a Charging enemy.", false);
+1067	add(0.06, 500, "Hit an enemy using the skill.");\nadd(0.2, 150, "Block long-ranged attacks using the skill.");\nadd(0.5, 80, "Successfully block long-ranged attacks using the skill.");\nadd(4, 12, "Hit a Charging enemy.", false);
+1068	add(0.05, 600, "Hit an enemy using the skill.");\nadd(00.1, 300, "Block long-ranged attacks using the skill.");\nadd(0.3, 100, "Successfully block long-ranged attacks using the skill.");\nadd(3, 15, "Hit a Charging enemy.", false);
+1069	add(0.03, 800, "Hit an enemy using the skill.");\nadd(0.08, 400, "Block long-ranged attacks using the skill.");\nadd(0.2, 200, "Successfully block long-ranged attacks using the skill.");\nadd(2, 20, "Hit a Charging enemy.", false);
+1070	add(0.01, 1000, "Hit an enemy using the skill.");\nadd(0.05, 500, "Block long-ranged attacks using the skill.");\nadd(0.1, 400, "Successfully block long-ranged attacks using the skill.");\nadd(1, 30, "Hit a Charging enemy.", false);
+1071	Counterattack an attacker with Attack Strength equal to 200% of his Attack Strength plus 200% of your Attack Strength.\nCritical +10%
+1072	Counterattack an attacker with Attack Strength equal to 200% of his Attack Strength plus 200% of your Attack Strength.\nCritical +10%
+1073	Counterattack an attacker with Attack Strength equal to 200% of his Attack Strength plus 200% of your Attack Strength.\nCritical +10%
+1074	Basic Defense +15\nDefense +60, Protection +40% when Defense succeeds
+1075	Basic Defense +15\nDefense +60, Protection +40% when Defense succeeds
+1076	Basic Defense +15\nDefense +60, Protection +40% when Defense succeeds
+1077	Fire Damage: 60-120
+1078	Fire Damage: 60-120
+1079	Fire Damage: 60-120
+1080	Ice Damage: 70-80
+1081	Ice Damage: 70-80
+1082	Ice Damage: 70-80
+1083	Lightning Damage: 40-150
+1084	Lightning Damage: 40-150
+1085	Lightning Damage: 40-150
+1086	500% Damage
+1087	500% Damage
+1088	500% Damage
+1089	Inflicts 250% short-ranged damage to all surrounding enemies.\nConsumes 10% HP.
+1090	Inflicts 250% short-ranged damage to all surrounding enemies.\nConsumes 10% HP.
+1091	Inflicts 250% short-ranged damage to all surrounding enemies.\nConsumes 10% HP.
+1113	Now that you've attained the master level of Counterattack, you have a greater chance of inflicting critical injury to your opponents.\nYour rank at Dan 1 certifies your excellent proficiency in performing Counterattack.
+1114	Now that you've attained the master level of Counterattack, you have a greater chance of inflicting critical injury to your opponents.\nYour rank at Dan 2 certifies your excellent proficiency in performing Counterattack.
+1115	Now that you've attained the master level of Counterattack, you have a greater chance of inflicting critical injury to your opponents.\nYour rank at Dan 3 certifies your excellent proficiency in performing Counterattack.
+1116	Now that you've attained the master level of Defense, you can share the high Defense effect with surrounding party members upon casting the skill.\nYour rank at Dan 1 certifies your excellent proficiency in performing Defense.
+1117	Now that you've attained the master level of Defense, you can share the high Defense effect with surrounding party members upon casting the skill.\nYour rank at Dan 2 certifies your excellent proficiency in performing Defense.
+1118	Now that you've attained the master level of Defense, you can share the high Defense effect with surrounding party members upon casting the skill.\nYour rank at Dan 3 certifies your excellent proficiency in performing Defense.
+1119	Now that you've attained the master level of Fire Bolt, you will not lose charged Fire Bolts when attacked.\nYour rank at Dan 1 certifies your excellent proficiency in casting Fire Bolt.
+1120	Now that you've attained the master level of Fire Bolt, you will not lose charged Fire Bolts when attacked.\nYour rank at Dan 2 certifies your excellent proficiency in casting Fire Bolt.
+1121	Now that you've attained the master level of Fire Bolt, you will not lose charged Fire Bolts when attacked.\nYour rank at Dan 3 certifies your excellent proficiency in casting Fire Bolt.
+1122	Now that you've attained the master level of Ice Bolt, you will not be interrupted by an enemy's attack, but will only lose one of your charged Ice Bolts.\nYour rank at Dan 1 certifies your excellent proficiency in casting Ice Bolt.
+1123	Now that you've attained the master level of Ice Bolt, you will not be interrupted by an enemy's attack, but will only lose one of your charged Ice Bolts.\nYour rank at Dan 2 certifies your excellent proficiency in casting Ice Bolt.
+1124	Now that you've attained the master level of Ice Bolt, you will not be interrupted by an enemy's attack, but will only lose one of your charged Ice Bolts.\nYour rank at Dan 3 certifies your excellent proficiency in casting Ice Bolt.
+1125	Now that you've attained the master level of Lightning Bolt, you will not be interrupted by an enemy's attack, but will only lose one of your charged Lightning Bolts.\nYour rank at Dan 1 certifies your excellent proficiency in casting Lightning Bolt.
+1126	Now that you've attained the master level of Lightning Bolt, you will not be interrupted by an enemy's attack, but will only lose one of your charged Lightning Bolts.\nYour rank at Dan 2 certifies your excellent proficiency in casting Lightning Bolt.
+1127	Now that you've attained the master level of Lightning Bolt, you will not be interrupted by an enemy's attack, but will only lose one of your charged Lightning Bolts.\nYour rank at Dan 3 certifies your excellent proficiency in casting Lightning Bolt.
+1128	Now that you've attained the master level of Smash, you can inflict a great amount of damage not only to your target, but also to other enemies surrounding it.\nYour rank at Dan 1 certifies your excellent proficiency in performing Smash.
+1129	Now that you've attained the master level of Smash, you can inflict a great amount of damage not only to your target, but also to other enemies surrounding it.\nYour rank at Dan 2 certifies your excellent proficiency in performing Smash.
+1130	Now that you've attained the master level of Smash, you can inflict a great amount of damage not only to your target, but also to other enemies surrounding it.\nYour rank at Dan 3 certifies your excellent proficiency in performing Smash.
+1131	Now that you've attained the master level of Windmill, you can inflict damage to enemies in a wider area.\nYour rank at Dan 1 certifies your excellent proficiency in performing Windmill.
+1132	Now that you've attained the master level of Windmill, you can inflict damage to enemies in a wider area.\nYour rank at Dan 2 certifies your excellent proficiency in performing Windmill.
+1133	Now that you've attained the master level of Windmill, you can inflict damage to enemies in a wider area.\nYour rank at Dan 3 certifies your excellent proficiency in performing Windmill.
+1158	+20 bonus points to Max Short-Ranged Attack Damage\n+10 bonus points to Min. Short-Ranged Attack Damage\nHP +150
+1159	+20 bonus points to Max Short-Ranged Attack Damage\n+10 bonus points to Min. Short-Ranged Attack Damage\nHP +150
+1160	+20 bonus points to Max Short-Ranged Attack Damage\n+10 bonus points to Min. Short-Ranged Attack Damage\nHP +150
+1161	add(0.01, 3000, "Knock down a strong enemy.");\nadd(0.03, 2000, "Win a fight against a strong enemy.");\nadd(0.05, 1500, "Knock down a very strong enemy.");\nadd(0.1, 500, "Win a fight against a very strong enemy.");\nadd(1, 100, "Knock down a boss enemy.", false);\nadd(3, 30, "Win a fight against a boss enemy.", false);
+1162	add(0.01, 3000, "Knock down a strong enemy.");\nadd(0.03, 2000, "Win a fight against a strong enemy.");\nadd(0.05, 1500, "Knock down a very strong enemy.");\nadd(0.1, 500, "Win a fight against a very strong enemy.");\nadd(1, 100, "Knock down a boss enemy.", false);\nadd(3, 30, "Win a fight against a boss enemy.", false);
+1163	add(0.01, 3000, "Knock down a strong enemy.");\nadd(0.03, 2000, "Win a fight against a strong enemy.");\nadd(0.05, 1500, "Knock down a very strong enemy.");\nadd(0.1, 500, "Win a fight against a very strong enemy.");\nadd(1, 100, "Knock down a boss enemy.", false);\nadd(3, 30, "Win a fight against a boss enemy.", false);
+1164	add(0.1, 400, Counterattack an enemy successfully.);\nadd(0.5, 80, Counterattack a special attack);\nadd(0.1, 500, Learn from an enemy's Counterattack.);\nadd(0.1, 200, Inflict Critical damage with Counterattack.);
+1165	add(0.1, 400, Counterattack an enemy successfully.);\nadd(0.5, 80, Counterattack a special attack);\nadd(0.1, 500, Learn from an enemy's Counterattack.);\nadd(0.1, 200, Inflict Critical damage with Counterattack.);
+1166	add(0.1, 400, Counterattack an enemy successfully.);\nadd(0.5, 80, Counterattack a special attack);\nadd(0.1, 500, Learn from an enemy's Counterattack.);\nadd(0.1, 200, Inflict Critical damage with Counterattack.);
+1167	add(0.1, 1000, Fight while in the Defense status.);\nadd(0.05, 200, Let’s watch how your target Defends itself.);\nadd(0.5, 80, Successfully hit a Defending enemy with a special skill., false);
+1168	add(0.1, 1000, Fight while in the Defense status.);\nadd(0.05, 200, Let’s watch how your target Defends itself.);\nadd(0.5, 80, Successfully hit a Defending enemy with a special skill., false);
+1169	add(0.1, 1000, Fight while in the Defense status.);\nadd(0.05, 200, Let’s watch how your target Defends itself.);\nadd(0.5, 80, Successfully hit a Defending enemy with a special skill., false);
+1170	add(0.01, 5000, "Knock down a strong enemy.");\nadd(0.01, 5000, "Win a fight against a strong enemy.");\nadd(0.25, 2000, "Knock down a very strong enemy.");\nadd(0.25, 2000, "Win a fight against a very strong enemy.");\nadd(0.5, 120, "Knock down a boss enemy.", false);\nadd(1.25, 60, "Win a fight against a boss enemy.", false);
+1171	add(0.01, 5000, "Knock down a strong enemy.");\nadd(0.01, 5000, "Win a fight against a strong enemy.");\nadd(0.25, 2000, "Knock down a very strong enemy.");\nadd(0.25, 2000, "Win a fight against a very strong enemy.");\nadd(0.5, 120, "Knock down a boss enemy.", false);\nadd(1.25, 60, "Win a fight against a boss enemy.", false);
+1172	add(0.01, 5000, "Knock down a strong enemy.");\nadd(0.01, 5000, "Win a fight against a strong enemy.");\nadd(0.25, 2000, "Knock down a very strong enemy.");\nadd(0.25, 2000, "Win a fight against a very strong enemy.");\nadd(0.5, 120, "Knock down a boss enemy.", false);\nadd(1.25, 60, "Win a fight against a boss enemy.", false);
+1173	add(0.01, 5000, "Knock down a strong enemy.");\nadd(0.01, 5000, "Win a fight against a strong enemy.");\nadd(0.25, 2000, "Knock down a very strong enemy.");\nadd(0.25, 2000, "Win a fight against a very strong enemy.");\nadd(0.5, 120, "Knock down a boss enemy.", false);\nadd(1.25, 60, "Win a fight against a boss enemy.", false);
+1174	add(0.01, 5000, "Knock down a strong enemy.");\nadd(0.01, 5000, "Win a fight against a strong enemy.");\nadd(0.25, 2000, "Knock down a very strong enemy.");\nadd(0.25, 2000, "Win a fight against a very strong enemy.");\nadd(0.5, 120, "Knock down a boss enemy.", false);\nadd(1.25, 60, "Win a fight against a boss enemy.", false);
+1175	add(0.01, 5000, "Knock down a strong enemy.");\nadd(0.01, 5000, "Win a fight against a strong enemy.");\nadd(0.25, 2000, "Knock down a very strong enemy.");\nadd(0.25, 2000, "Win a fight against a very strong enemy.");\nadd(0.5, 120, "Knock down a boss enemy.", false);\nadd(1.25, 60, "Win a fight against a boss enemy.", false);
+1176	add(0.01, 5000, "Knock down a strong enemy.");\nadd(0.01, 5000, "Win a fight against a strong enemy.");\nadd(0.25, 2000, "Knock down a very strong enemy.");\nadd(0.25, 2000, "Win a fight against a very strong enemy.");\nadd(0.5, 120, "Knock down a boss enemy.", false);\nadd(1.25, 60, "Win a fight against a boss enemy.", false);
+1177	add(0.1, 200, Inflict Critical Hit with Smash.);\nadd(0.5, 80, Deliver a finishing blow with Smash, false);\nadd(1, 50, Inflict Critical damage with a finishing blow., false);
+1178	add(0.1, 200, Inflict Critical Hit with Smash.);\nadd(0.5, 80, Deliver a finishing blow with Smash, false);\nadd(1, 50, Inflict Critical damage with a finishing blow., false);
+1179	add(0.1, 200, Inflict Critical Hit with Smash.);\nadd(0.5, 80, Deliver a finishing blow with Smash, false);\nadd(1, 50, Inflict Critical damage with a finishing blow., false);
+1180	add(0.01, 5000, "Knock down a strong enemy.");\nadd(0.01, 5000, "Win a fight against a strong enemy.");\nadd(0.25, 2000, "Knock down a very strong enemy.");\nadd(0.25, 2000, "Win a fight against a very strong enemy.");\nadd(0.5, 120, "Knock down a boss enemy.", false);\nadd(1.25, 60, "Win a fight against a boss enemy.", false);
+1181	add(0.01, 5000, "Knock down a strong enemy.");\nadd(0.01, 5000, "Win a fight against a strong enemy.");\nadd(0.25, 2000, "Knock down a very strong enemy.");\nadd(0.25, 2000, "Win a fight against a very strong enemy.");\nadd(0.5, 120, "Knock down a boss enemy.", false);\nadd(1.25, 60, "Win a fight against a boss enemy.", false);
+1182	add(0.01, 2500, Win a fight against a strong enemy.);\nadd(0.02, 1250, Win a fight against a very strong enemy.);\nadd(0.05, 1000, Win a fight against a boss enemy.);\nadd(0.5, 40, Attack a multiple number of strong enemies.);\nadd(1, 20, Win a fight against a multiple number of strong enemies.);
+1183	add(0.01, 2500, Win a fight against a strong enemy.);\nadd(0.02, 1250, Win a fight against a very strong enemy.);\nadd(0.05, 1000, Win a fight against a boss enemy.);\nadd(0.5, 40, Attack a multiple number of strong enemies.);\nadd(1, 20, Win a fight against a multiple number of strong enemies.);
+1184	add(0.01, 2500, Win a fight against a strong enemy.);\nadd(0.02, 1250, Win a fight against a very strong enemy.);\nadd(0.05, 1000, Win a fight against a boss enemy.);\nadd(0.5, 40, Attack a multiple number of strong enemies.);\nadd(1, 20, Win a fight against a multiple number of strong enemies.);
+1185	You have attained the zenith of this skill.\nYour rank at Dan 1 certifies your excellent proficiency in performing Combat Mastery.
+1186	You have attained the zenith of this skill.\nYour rank at Dan 2 certifies your excellent proficiency in performing Combat Mastery.
+1187	You have attained the zenith of this skill.\nYour rank at Dan 3 certifies your excellent proficiency in performing Combat Mastery.
+1188	(1, 100, Pass an advancement test.)
+1189	(4,50, Pass an advancement test.)
+1190	(6,34, Pass an advancement test.)
+1191	(8,25, Pass an advancement test.)
+1192	(1, 100, Pass an advancement test.)
+1193	(4,50, Pass an advancement test.)
+1194	(6,34, Pass an advancement test.)
+1195	(8,25, Pass an advancement test.)
+1196	(1, 100, Pass an advancement test.)
+1197	(4,50, Pass an advancement test.)
+1198	(6,34, Pass an advancement test.)
+1199	(8,25, Pass an advancement test.)
+1200	(1, 100, Pass an advancement test.)
+1201	(4,50, Pass an advancement test.)
+1202	(6,34, Pass an advancement test.)
+1203	(8,25, Pass an advancement test.)
+1204	(1, 100, Pass an advancement test.)
+1205	(4,50, Pass an advancement test.)
+1206	(6,34, Pass an advancement test.)
+1207	(8,25, Pass an advancement test.)
+1208	(1, 100, Pass an advancement test.)
+1209	(4,50, Pass an advancement test.)
+1210	(6,34, Pass an advancement test.)
+1211	(8,25, Pass an advancement test.)
+1212	(1, 100, Pass an advancement test.)
+1213	(4,50, Pass an advancement test.)
+1214	(6,34, Pass an advancement test.)
+1215	(8,25, Pass an advancement test.)
+1216	(1, 100, Pass an advancement test.)
+1217	(4,50, Pass an advancement test.)
+1218	(6,34, Pass an advancement test.)
+1219	(8,25, Pass an advancement test.)
+1220	INT +3
+1221	INT +3
+1222	INT +3
+1223	INT +3
+1224	INT +4
+1225	INT +4
+1226	INT +4
+1227	INT +5
+1228	INT +5
+1229	INT +5
+1230	INT +5
+1231	INT +5, STR +2
+1232	INT +5, STR +2
+1233	INT +5, STR +2
+1234	INT +5, STR +2
+1235	INT +1
+1236	INT +1
+1237	INT +1
+1238	INT +1
+1239	INT +1
+1240	INT +1
+1241	INT +2
+1242	INT +2
+1243	INT +2
+1244	INT +2
+1245	INT +3, MP +5
+1246	INT +3, MP +5
+1247	INT +3, MP +5
+1248	INT +3, MP +5
+1249	INT +3, MP +5
+1250	MP +5, WILL +1
+1251	MP +5, WILL +1
+1252	MP +5, WILL +1
+1253	MP +6, WILL +1
+1254	MP +6, WILL +1
+1255	MP +6, WILL +1
+1256	MP +7, WILL +2
+1257	MP +7, WILL +2
+1258	MP +8, WILL +2
+1259	MP +10, WILL +2
+1260	MP +5, WILL +3
+1261	MP +5, WILL +3
+1262	MP +5, WILL +3
+1263	MP +5, WILL +3
+1264	MP +5, WILL +3
+1265	80-240 Fire Damage
+1266	160-400 Fire Damage
+1267	240-640 Fire Damage
+1268	320-800 Fire Damage
+1269	400-960 Fire Damage
+1270	560-1040 Fire Damage
+1271	720-1200 Fire Damage
+1272	1040-1600 Fire Damage
+1273	1120-1680 Fire Damage
+1274	1200-1760 Fire Damage
+1275	1240-1840 Fire Damage
+1276	1440-2000 Fire Damage
+1277	1440-2080 Fire Damage
+1278	1440-2160 Fire Damage
+1279	1440-2240 Fire Damage
+1280	1600-2400 Fire Damage
+1281	40-80 Ice Damage
+1282	80-88 Ice Damage
+1283	84-96 Ice Damage
+1284	88-104 Ice Damage
+1285	92-112 Ice Damage
+1286	96-120 Ice Damage
+1287	100-128 Ice Damage
+1288	112-144 Ice Damage
+1289	116-152 Ice Damage
+1290	120-160 Ice Damage
+1291	124-168 Ice Damage
+1292	136-184 Ice Damage
+1293	140-192 Ice Damage
+1294	144-200 Ice Damage
+1295	148-208 Ice Damage
+1296	160-240 Ice Damage
+1297	5-40 Lightning Damage
+1298	10-66 Lightning Damage
+1299	16-106 Lightning Damage
+1300	21-133 Lightning Damage
+1301	26-160 Lightning Damage
+1302	37-173 Lightning Damage
+1303	48-200 Lightning Damage
+1304	69-266 Lightning Damage
+1305	74-280 Lightning Damage
+1306	80-293 Lightning Damage
+1307	82-306 Lightning Damage
+1308	88-333 Lightning Damage
+1309	93-346 Lightning Damage
+1310	96-360 Lightning Damage
+1311	101-373 Lightning Damage
+1312	106-400 Lightning Damage
+1313	add(100, 1, "Fully charge Fireball.");
+1314	add(3, 20, "Attack an enemy");\nadd(10, 5, "Defeat an enemy");
+1315	add(1, 40, "Attack an enemy.");\nadd(2, 5, "Defeat an enemy.");\nadd(1, 20, "Attack a similar-ranked enemy.");\nadd(2, 10, "Knock down a similar-ranked enemy.");\nadd(2.5, 5, "Defeat a similar ranked enemy.");\nadd(5, 2, "Knock down a powerful enemy.", false);\nadd(10, 1, "Defeat a powerful enemy.", false);
+1316	add(0.5, 80, "Attack an enemy.");\nadd(1, 10, "Defeat an enemy.");\nadd(0.5, 50, "Attack a similar-ranked enemy.");\nadd(1, 20, "Knock down a similar-ranked enemy.");\nadd(2, 10, "Defeat a similar ranked enemy.");\nadd(5, 2, "Knock down a powerful enemy.", false);\nadd(10, 1, "Defeat a powerful enemy.", false);
+1317	add(0.5, 160, "Attack a similar-ranked enemy.");\nadd(1, 40, "Knock down a similar-ranked enemy.");\nadd(2, 20, "Defeat a similar ranked enemy.");\nadd(3, 15, "Knock down a powerful enemy.");\nadd(6, 10, "Defeat a powerful enemy.");\nadd(6, 6, "Knock down a very powerful enemy.", false);\nadd(10, 3, "Defeat a very powerful enemy.", false);
+1318	add(0.1, 640, "Attack a similar-ranked enemy.");\nadd(0.3, 320, "Knock down a similar-ranked enemy.");\nadd(1, 160, "Defeat a similar ranked enemy.");\nadd(3, 32, "Knock down a powerful enemy.");\nadd(6, 32, "Defeat a powerful enemy.");\nadd(6, 16, "Knock down a very powerful enemy.", false);\nadd(13, 13, "Defeat a very powerful enemy.", false);
+1319	add(0.05, 800, "Knock down a similar-ranked enemy.");\nadd(0.1, 400, "Defeat an enemy at similar level.");\nadd(2, 160, "Knock down a powerful enemy.");\nadd(3, 80, "Defeat a powerful enemy.");\nadd(3, 32, "Knock down a very powerful enemy.");\nadd(6, 16, "Defeat a very powerful enemy.", false);
+1320	add(0.02, 2000, "Knock down a similar-ranked enemy.");\nadd(0.05, 800, "Defeat an enemy at similar level.");\nadd(1.5, 100, "Knock down a powerful enemy.");\nadd(2.5, 200, "Defeat a powerful enemy.");\nadd(2.5, 40, "Knock down a very powerful enemy.");\nadd(5, 100, "Defeat a very powerful enemy.", false);
+1321	add(0.02, 2000, "Knock down a similar-ranked enemy.");\nadd(0.05, 800, "Defeat a similar ranked enemy.");\nadd(1.5, 100, "Knock down a powerful enemy.");\nadd(2.5, 200, "Defeat a powerful enemy.");\nadd(2.5, 40, "Knock down a very powerful enemy.");\nadd(5, 100, "Defeat a very powerful enemy.");\nadd(5, 20, "Knock down a boss-level enemy.", false);\nadd(10, 4, "Defeat a boss-level enemy.", false);
+1322	add(0.02, 800, "Defeat a similar ranked enemy.");\nadd(0.1, 400, "Knock down a powerful enemy.");\nadd(0.25, 400, "Defeat a powerful enemy.");\nadd(1, 200, "Knock down a very powerful enemy.");\nadd(2.5, 200, "Defeat a very powerful enemy.");\nadd(2.5, 20, "Knock down a boss-level enemy.", false);\nadd(5, 10, "Defeat a boss-level enemy.", false);
+1323	add(0.05, 800, "Knock down a powerful enemy.");\nadd(0.15, 600, "Defeat a powerful enemy.");\nadd(1, 240, "Knock down a very powerful enemy.");\nadd(2.5, 240, "Defeat a very powerful enemy.");\nadd(2.5, 20, "Knock down a boss-level enemy.", false);\nadd(5, 10, "Defeat a boss-level enemy.", false);
+1324	add(0.03, 1500, "Knock down a powerful enemy.");\nadd(0.06, 900, "Defeat a powerful enemy.");\nadd(0.06, 450, "Knock down a very powerful enemy.");\nadd(1.6, 450, "Defeat a very powerful enemy.");\nadd(1.6, 45, "Knock down a boss-level enemy.", false);\nadd(3.3, 15, "Defeat a boss-level enemy.", false);
+1325	add(0.02, 3000, "Knock down a powerful enemy.");\nadd(0.03, 2400, "Defeat a powerful enemy.");\nadd(0.03, 600, "Knock down a very powerful enemy.");\nadd(1.6, 600, "Defeat a very powerful enemy.");\nadd(1.6, 45, "Knock down a boss-level enemy.", false);\nadd(3.3, 15, "Defeat a boss-level enemy.", false);
+1326	add(0.02, 3000, "Knock down a powerful enemy.");\nadd(0.03, 3000, "Defeat a powerful enemy.");\nadd(0.3, 1150, "Knock down a very powerful enemy.");\nadd(1, 1050, "Defeat a very powerful enemy.");\nadd(1, 45, "Knock down a boss-level enemy.", false);\nadd(2.6, 15, "Defeat a boss-level enemy.", false);
+1327	add(0.01, 5000, "Knock down a powerful enemy.");\nadd(0.01, 5000, "Defeat a powerful enemy.");\nadd(0.25, 2000, "Knock down a very powerful enemy.");\nadd(0.25, 2000, "Defeat a very powerful enemy.");\nadd(0.5, 120, "Knock down a boss-level enemy.", false);\nadd(1.25, 60, "Defeat a boss-level enemy.", false);
+1328	add(0.01, 5000, "Knock down a powerful enemy.");\nadd(0.01, 5000, "Defeat a powerful enemy.");\nadd(0.25, 2000, "Knock down a very powerful enemy.");\nadd(0.25, 2000, "Defeat a very powerful enemy.");\nadd(0.5, 120, "Knock down a boss-level enemy.", false);\nadd(1.25, 60, "Defeat a boss-level enemy.", false);
+1329	add(100, 1, "Fully charge Ice Spear.");
+1330	add(5, 20, "Attack an enemy");\nadd(10, 5, "Defeat an enemy");
+1331	add(2, 20, "Attack an enemy.");\nadd(3, 5, "Defeat an enemy.");\nadd(3, 20, "Attack a similar-ranked enemy.");\nadd(4, 5, "Defeat a similar ranked enemy.");\nadd(10, 1, "Defeat a powerful enemy.", false);
+1332	add(1, 40, "Attack an enemy.");\nadd(1.5, 10, "Defeat an enemy.");\nadd(1.5, 50, "Attack a similar-ranked enemy.");\nadd(2, 10, "Defeat a similar ranked enemy.");\nadd(10, 1, "Defeat a powerful enemy.", false);
+1333	add(1, 80, "Attack a similar-ranked enemy.");\nadd(1.5, 20, "Defeat a similar ranked enemy.");\nadd(6, 10, "Defeat a powerful enemy.");\nadd(10, 3, "Defeat a very powerful enemy.", false);
+1334	add(0.5, 320, "Attack a similar-ranked enemy.");\nadd(1, 80, "Defeat a similar ranked enemy.");\nadd(6, 32, "Defeat a powerful enemy.");\nadd(13, 13, "Defeat a very powerful enemy.", false);
+1335	add(0.5, 400, "Defeat a similar ranked enemy.");\nadd(3, 80, "Defeat a powerful enemy.");\nadd(6, 16, "Defeat a very powerful enemy.", false);
+1336	add(0.1, 800, "Defeat a similar ranked enemy.");\nadd(2.5, 200, "Defeat a powerful enemy.");\nadd(5, 100, "Defeat a very powerful enemy.", false);
+1337	add(0.05, 800, "Defeat a similar ranked enemy.");\nadd(2.5, 200, "Defeat a powerful enemy.");\nadd(5, 100, "Defeat a very powerful enemy.");\nadd(10, 4, "Defeat a boss-level enemy.", false);
+1338	add(0.02, 800, "Defeat a similar ranked enemy.");\nadd(0.25, 400, "Defeat a powerful enemy.");\nadd(2.5, 200, "Defeat a very powerful enemy.");\nadd(5, 10, "Defeat a boss-level enemy.", false);
+1339	add(0.15, 600, "Defeat a powerful enemy.");\nadd(2.5, 240, "Defeat a very powerful enemy.");\nadd(5, 10, "Defeat a boss-level enemy.", false);
+1340	add(0.06, 900, "Defeat a powerful enemy.");\nadd(1.6, 450, "Defeat a very powerful enemy.");\nadd(3.3, 15, "Defeat a boss-level enemy.", false);
+1341	add(0.03, 2400, "Defeat a powerful enemy.");\nadd(1.6, 600, "Defeat a very powerful enemy.");\nadd(3.3, 15, "Defeat a boss-level enemy.", false);\nadd(5, 2, "Hit 3 enemies or more with a single attack.", false);
+1342	add(0.03, 3000, "Defeat a powerful enemy.");\nadd(1, 1050, "Defeat a very powerful enemy.");\nadd(2.6, 15, "Defeat a boss-level enemy.", false);\nadd(3, 10, "Hit 3 enemies or more with a single attack.", false);
+1343	add(0.01, 5000, "Defeat a powerful enemy.");\nadd(0.25, 2000, "Defeat a very powerful enemy.");\nadd(1.25, 60, "Defeat a boss-level enemy.", false);\nadd(2, 20, "Hit 3 enemies or more with a single attack.", false);
+1344	add(0.01, 5000, "Defeat a powerful enemy.");\nadd(0.25, 2000, "Defeat a very powerful enemy.");\nadd(1.25, 60, "Defeat a boss-level enemy.", false);\nadd(1, 40, "Hit 3 enemies or more with a single attack.", false);
+1345	add(100, 1, "Fully charge Thunder.");
+1346	add(3, 20, "Attack an enemy");\nadd(10, 5, "Defeat an enemy");
+1347	add(1, 40, "Attack an enemy.");\nadd(2, 5, "Defeat an enemy.");\nadd(1, 20, "Attack a similar-ranked enemy.");\nadd(2, 10, "Knock down a similar-ranked enemy.");\nadd(2.5, 5, "Defeat a similar ranked enemy.");\nadd(5, 2, "Knock down a powerful enemy.", false);\nadd(10, 1, "Defeat a powerful enemy.", false);
+1348	add(0.5, 80, "Attack an enemy.");\nadd(1, 10, "Defeat an enemy.");\nadd(0.5, 50, "Attack a similar-ranked enemy.");\nadd(1, 20, "Knock down a similar-ranked enemy.");\nadd(2, 10, "Defeat a similar ranked enemy.");\nadd(5, 2, "Knock down a powerful enemy.", false);\nadd(10, 1, "Defeat a powerful enemy.", false);
+1349	add(0.5, 160, "Attack a similar-ranked enemy.");\nadd(1, 40, "Knock down a similar-ranked enemy.");\nadd(2, 20, "Defeat a similar ranked enemy.");\nadd(3, 15, "Knock down a powerful enemy.");\nadd(6, 10, "Defeat a powerful enemy.");\nadd(6, 6, "Knock down a very powerful enemy.", false);\nadd(10, 3, "Defeat a very powerful enemy.", false);
+1350	add(0.1, 640, "Attack a similar-ranked enemy.");\nadd(0.3, 320, "Knock down a similar-ranked enemy.");\nadd(1, 160, "Defeat a similar ranked enemy.");\nadd(3, 32, "Knock down a powerful enemy.");\nadd(6, 32, "Defeat a powerful enemy.");\nadd(6, 16, "Knock down a very powerful enemy.", false);\nadd(13, 13, "Defeat a very powerful enemy.", false);
+1351	add(0.05, 800, "Knock down a similar-ranked enemy.");\nadd(0.1, 400, "Defeat an enemy at similar level.");\nadd(2, 160, "Knock down a powerful enemy.");\nadd(3, 80, "Defeat a powerful enemy.");\nadd(3, 32, "Knock down a very powerful enemy.");\nadd(6, 16, "Defeat a very powerful enemy.", false);
+1352	add(0.02, 2000, "Knock down a similar-ranked enemy.");\nadd(0.05, 800, "Defeat an enemy at similar level.");\nadd(1.5, 100, "Knock down a powerful enemy.");\nadd(2.5, 200, "Defeat a powerful enemy.");\nadd(2.5, 40, "Knock down a very powerful enemy.");\nadd(5, 100, "Defeat a very powerful enemy.", false);
+1353	add(0.02, 2000, "Knock down a similar-ranked enemy.");\nadd(0.05, 800, "Defeat a similar ranked enemy.");\nadd(1.5, 100, "Knock down a powerful enemy.");\nadd(2.5, 200, "Defeat a powerful enemy.");\nadd(2.5, 40, "Knock down a very powerful enemy.");\nadd(5, 100, "Defeat a very powerful enemy.");\nadd(5, 20, "Knock down a boss-level enemy.", false);\nadd(10, 4, "Defeat a boss-level enemy.", false);
+1354	add(0.02, 800, "Defeat a similar ranked enemy.");\nadd(0.1, 400, "Knock down a powerful enemy.");\nadd(0.25, 400, "Defeat a powerful enemy.");\nadd(1, 200, "Knock down a very powerful enemy.");\nadd(2.5, 200, "Defeat a very powerful enemy.");\nadd(2.5, 20, "Knock down a boss-level enemy.", false);\nadd(5, 10, "Defeat a boss-level enemy.", false);
+1355	add(0.05, 800, "Knock down a powerful enemy.");\nadd(0.15, 600, "Defeat a powerful enemy.");\nadd(1, 240, "Knock down a very powerful enemy.");\nadd(2.5, 240, "Defeat a very powerful enemy.");\nadd(2.5, 20, "Knock down a boss-level enemy.", false);\nadd(5, 10, "Defeat a boss-level enemy.", false);
+1356	add(0.03, 1500, "Knock down a powerful enemy.");\nadd(0.06, 900, "Defeat a powerful enemy.");\nadd(0.06, 450, "Knock down a very powerful enemy.");\nadd(1.6, 450, "Defeat a very powerful enemy.");\nadd(1.6, 45, "Knock down a boss-level enemy.", false);\nadd(3.3, 15, "Defeat a boss-level enemy.", false);
+1357	add(0.02, 3000, "Knock down a powerful enemy.");\nadd(0.03, 2400, "Defeat a powerful enemy.");\nadd(0.03, 600, "Knock down a very powerful enemy.");\nadd(1.6, 600, "Defeat a very powerful enemy.");\nadd(1.6, 45, "Knock down a boss-level enemy.", false);\nadd(3.3, 15, "Defeat a boss-level enemy.", false);
+1358	add(0.02, 3000, "Knock down a powerful enemy.");\nadd(0.03, 3000, "Defeat a powerful enemy.");\nadd(0.3, 1150, "Knock down a very powerful enemy.");\nadd(1, 1050, "Defeat a very powerful enemy.");\nadd(1, 45, "Knock down a boss-level enemy.", false);\nadd(2.6, 15, "Defeat a boss-level enemy.", false);
+1359	add(0.01, 5000, "Knock down a powerful enemy.");\nadd(0.01, 5000, "Defeat a powerful enemy.");\nadd(0.25, 2000, "Knock down a very powerful enemy.");\nadd(0.25, 2000, "Defeat a very powerful enemy.");\nadd(0.5, 120, "Knock down a boss-level enemy.", false);\nadd(1.25, 60, "Defeat a boss-level enemy.", false);
+1360	add(0.01, 5000, "Knock down a powerful enemy.");\nadd(0.01, 5000, "Defeat a powerful enemy.");\nadd(0.25, 2000, "Knock down a very powerful enemy.");\nadd(0.25, 2000, "Defeat a very powerful enemy.");\nadd(0.5, 120, "Knock down a boss-level enemy.", false);\nadd(1.25, 60, "Defeat a boss-level enemy.", false);
+1361	Summon magical power to launch a Fireball toward an enemy. Fireball can only be used when fully charged.
+1362	Summon magical power to launch a Fireball toward an enemy. Fireball can only be used when fully charged.
+1363	Summon magical power to launch a Fireball toward an enemy. Fireball can only be used when fully charged.
+1364	Summon magical power to launch a Fireball toward an enemy. Fireball can only be used when fully charged.
+1365	Summon magical power to launch a Fireball toward an enemy. Fireball can only be used when fully charged.
+1366	Summon magical power to launch a Fireball toward an enemy. Fireball can only be used when fully charged.
+1367	Summon magical power to launch a Fireball toward an enemy. Fireball can only be used when fully charged.
+1368	Summon magical power to launch a Fireball toward an enemy. Fireball can only be used when fully charged.
+1369	Summon magical power to launch a Fireball toward an enemy. Fireball can only be used when fully charged.
+1370	Summon magical power to launch a Fireball toward an enemy. Fireball can only be used when fully charged.
+1371	Summon magical power to launch a Fireball toward an enemy. Fireball can only be used when fully charged.
+1372	Throw a fully charged Fireball at an enemy for massive damage.\nFireball damage dramatically increases starting at Rank 5.
+1373	Throw a fully charged Fireball at an enemy for massive damage.\nFireball damage dramatically increases starting at Rank 5.
+1374	Throw a fully charged Fireball at an enemy for massive damage.\nFireball damage dramatically increases starting at Rank 5.
+1375	Throw a fully charged Fireball at an enemy for massive damage.\nFireball damage dramatically increases starting at Rank 5.
+1376	You have reached the highest level of the Fireball spell. Now, if you are attacked while you have the spell charged, you will only lose one charge of the spell instead of all charges. \nOnce you meet the training requirements to reach Rank 1, you will get a title to prove your expertise in this skill.
+1377	Summon magical power to launch a spear formed of ice at an enemy.
+1378	Summon magical power to launch a spear formed of ice at an enemy.
+1379	Summon magical power to launch a spear formed of ice at an enemy.
+1380	Summon magical power to launch a spear formed of ice at an enemy.
+1381	Summon magical power to launch a spear formed of ice at an enemy.
+1382	Summon magical power to launch a spear formed of ice at an enemy.
+1383	Summon magical power to launch a spear formed of ice at an enemy.
+1384	Summon magical power to launch a spear formed of ice at an enemy.
+1385	Summon magical power to launch a spear formed of ice at an enemy.
+1386	Summon magical power to launch a spear formed of ice at an enemy.
+1387	Summon magical power to launch a spear formed of ice at an enemy.
+1388	Summon magical power to launch a spear formed of ice at an enemy.
+1389	Summon magical power to launch a spear formed of ice at an enemy.
+1390	Summon magical power to launch a spear formed of ice at an enemy.
+1391	Summon magical power to launch a spear formed of ice at an enemy.
+1392	You have reached the highest level of this skill. There is no higher level.
+1393	Summons thunderous clouds that attack enemies. All Lightning spells can be charged up to 5 times, allowing you to attack multiple enemies at once.
+1394	Summons thunderous clouds that attack enemies. All Lightning spells can be charged up to 5 times, allowing you to attack multiple enemies at once.
+1395	Summons thunderous clouds that attack enemies. All Lightning spells can be charged up to 5 times, allowing you to attack multiple enemies at once.
+1396	Summons thunderous clouds that attack enemies. All Lightning spells can be charged up to 5 times, allowing you to attack multiple enemies at once.
+1397	Summons thunderous clouds that attack enemies. All Lightning spells can be charged up to 5 times, allowing you to attack multiple enemies at once.
+1398	Summons thunderous clouds that attack enemies. All Lightning spells can be charged up to 5 times, allowing you to attack multiple enemies at once.
+1399	Summons thunderous clouds that attack enemies. All Lightning spells can be charged up to 5 times, allowing you to attack multiple enemies at once.
+1400	Summons thunderous clouds that attack enemies. All Lightning spells can be charged up to 5 times, allowing you to attack multiple enemies at once.
+1401	Summons thunderous clouds that attack enemies. All Lightning spells can be charged up to 5 times, allowing you to attack multiple enemies at once.
+1402	Summons thunderous clouds that attack enemies. All Lightning spells can be charged up to 5 times, allowing you to attack multiple enemies at once.
+1403	Summons thunderous clouds that attack enemies. All Lightning spells can be charged up to 5 times, allowing you to attack multiple enemies at once.
+1404	Overwhelm enemies with a fully charged Thunder spell for a powerful Lightning attack.\nThunder damage dramatically increases starting at Rank 5.
+1405	Overwhelm enemies with a fully charged Thunder spell for a powerful Lightning attack.\nThunder damage dramatically increases starting at Rank 5.
+1406	Overwhelm enemies with a fully charged Thunder spell for a powerful Lightning attack.\nThunder damage dramatically increases starting at Rank 5.
+1407	Overwhelm enemies with a fully charged Thunder spell for a powerful Lightning attack.\nThunder damage dramatically increases starting at Rank 5.
+1408	You have reached the highest level of the Thunder spell. Now, if you are attacked while you have the spell charged, you will only lose one charge of the spell instead of all charges. \nOnce you meet the training requirements to reach Rank 1, you will get a title to prove your expertise in this skill.
+1409	WILL +3, STR +1
+1410	WILL +3, STR +1
+1411	WILL +3, STR +1
+1412	WILL +3, STR +1
+1413	WILL +3, STR +1
+1414	WILL +3, STR +2
+1415	WILL +3, STR +2
+1416	WILL +3, STR +2
+1417	WILL +3, STR +2
+1418	WILL +3, STR +2
+1419	WILL +4, STR +3
+1420	WILL +4, STR +3
+1421	WILL +4, STR +3
+1422	WILL +4, STR +3
+1423	WILL +4, STR +3
+1424	An area melee attack that does 100% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1425	An area melee attack that does 110% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1426	An area melee attack that does 120% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1427	An area melee attack that does 130% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1428	An area melee attack that does 140% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1429	An area melee attack that does 150% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1430	An area melee attack that does 160% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1431	An area melee attack that does 170% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1432	An area melee attack that does 180% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1433	An area melee attack that does 190% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1434	An area melee attack that does 200% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1435	An area melee attack that does 210% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1436	An area melee attack that does 220% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1437	An area melee attack that does 230% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1438	An area melee attack that does 250% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1439	An area melee attack that does 250% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1440	An area melee attack that does 250% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1441	An area melee attack that does 250% of your base damage to surrounding enemies. \nHP Cost: -10%.
+1442	add(100, 1, "Learn more skill info from people or books.");
+1443	add(1,50,"Attack an enemy.");\nadd(5,10,"Defeat an enemy.");\nadd(10,2,"Counterattack with Windmill.");\nadd(30,1,"Attack several enemies at once.",false);\nadd(50,1,"Defeat several enemies at once.",false);
+1444	add(0.5,80,"Attack an enemy.");\nadd(2.5,15,"Defeat an enemy.");\nadd(2,15,"Attack a similarly-ranked enemy.");\nadd(5,4,"Defeat a similarly-ranked enemy.");\nadd(10,10,"Defeat a powerful enemy.");\nadd(8,2,"Counterattack with Windmill.");\nadd(20,1,"Attack several similarly-ranked enemies at once.",false);\nadd(40,1,"Defeat several similarly-ranked enemies at once.",false);
+1445	add(0.1,250,"Attack an enemy.");\nadd(1,25,"Defeat an enemy.");\nadd(1.5,20,"Attack a similarly-ranked enemy.");\nadd(3,6,"Defeat a similarly-ranked enemy.");\nadd(5,25,"Defeat a powerful enemy.");\nadd(6,3,"Counterattack with Windmill.");\nadd(15,1,"Attack several powerful enemies.",false);\nadd(30,1,"Defeat several enemies of similar level.",false);
+1446	add(1, 30, Attack a similarly-ranked enemy.);\nadd(2, 10, Defeat a similarly-ranked enemy.);\nadd(3, 35, Defeat a powerful enemy.);\nadd(5, 24, Defeat a very powerful enemy.);\nadd(4, 5, Counterattack with Windmill.);\nadd(10, 2, Attack several powerful enemies at once., false);\nadd(20, 2, Defeat several powerful enemies at once., false);
+1447	add(0.6, 60, Attack a similarly-ranked enemy.);\nadd(1.5, 20, Defeat a similarly-ranked enemy.);\nadd(2, 60, Defeat a powerful enemy.);\nadd(3, 40, Defeat a very powerful enemy.);\nadd(3, 6, Counterattack with Windmill.);\nadd(8, 2, Attack several powerful enemies at once., false);\nadd(15, 2, Defeat several powerful enemies at once., false);
+1448	add(1, 80, Defeat a similarly-ranked enemy.);\nadd(1.5, 80, Defeat a powerful enemy.);\nadd(2, 60, Defeat a very powerful enemy.);\nadd(2, 10, Counterattack with Windmill.);\nadd(5, 2, Attack several powerful enemies at once.);\nadd(10, 2, Defeat several powerful enemies at once.);
+1449	add(0.6, 100, Defeat a similarly-ranked enemy.);\nadd(1, 50, Defeat a powerful enemy.);\nadd(1.5, 80, Defeat a very powerful enemy.);\nadd(1.5, 6, Counterattack with Windmill.);\nadd(4, 2, Attack several powerful enemies at once.);\nadd(8, 2, Defeat several powerful enemies at once.);
+1450	add(0.3, 200, Defeat a similarly-ranked enemy.);\nadd(0.6, 100, Defeat a powerful enemy.);\nadd(1, 120, Defeat a very powerful enemy.);\nadd(10, 3, Defeat a boss-level enemy.);\nadd(1, 10, Counterattack with Windmill.);\nadd(3, 4, Attack several powerful enemies at once.);\nadd(6, 2, Defeat several powerful enemies at once.);
+1451	add(0.1, 500, Defeat a similarly-ranked enemy.);\nadd(0.3, 170, Defeat a powerful enemy.);\nadd(0.6, 200, Defeat a very powerful enemy.);\nadd(5, 6, Defeat a boss-level enemy.);\nadd(2, 8, Attack several powerful enemies at once.);\nadd(4, 4, Defeat several powerful enemies at once.);
+1452	add(0.1, 500, Defeat a powerful enemy.);\nadd(0.3, 400, Defeat a very powerful enemy.);\nadd(3, 10, Defeat a boss-level enemy.);\nadd(1, 10, Attack several powerful enemies at once.);\nadd(2, 10, Defeat several powerful enemies at once.);
+1453	add(0.08, 400, Defeat a powerful enemy.);\nadd(0.1, 300, Defeat a very powerful enemy.);\nadd(1, 50, Defeat a boss-level enemy.);\nadd(0.9, 15, Attack several powerful enemies at once.);\nadd(1.8, 15, Defeat several powerful enemies at once.);
+1454	add(0.06, 400, Defeat a powerful enemy.);\nadd(0.08, 300, Defeat a very powerful enemy.);\nadd(0.5, 100, Defeat a boss-level enemy.);\nadd(0.8, 10, Attack several powerful enemies at once.);\nadd(1.6, 10, Defeat several powerful enemies at once.);\nadd(0.06, 400, Defeat an enemy.);
+1455	add(0.04, 600, Defeat a powerful enemy.);\nadd(0.06, 400, Defeat a very powerful enemy.);\nadd(0.1, 500, Defeat a boss-level enemy.);\nadd(0.7, 16, Attack several powerful enemies at once.);\nadd(1.4, 12, Defeat several powerful enemies at once.);\nadd(0.04, 600, Defeat an enemy.);
+1456	add(0.02, 1300, Defeat a powerful enemy.);\nadd(0.04, 600, Defeat a very powerful enemy.);\nadd(0.07, 700, Defeat a boss-level enemy.);\nadd(0.6, 20, Attack several powerful enemies at once.);\nadd(1.2, 16, Defeat several powerful enemies at once.);\nadd(0.02, 1300, Defeat an enemy.);
+1457	add(0.01, 2500, Defeat a powerful enemy.);\nadd(0.02, 1250, Defeat a very powerful enemy.);\nadd(0.05, 1000, Defeat a boss-level enemy.);\nadd(0.5, 40, Attack several powerful enemies at once.);\nadd(1, 20, Defeat several powerful enemies at once.);
+1458	add(0.01, 2500, Defeat a powerful enemy.);\nadd(0.02, 1250, Defeat a very powerful enemy.);\nadd(0.05, 1000, Defeat a boss-level enemy.);\nadd(0.5, 40, Attack several powerful enemies at once.);\nadd(1, 20, Defeat several powerful enemies at once.);
+1459	add(0.01, 2500, Defeat a powerful enemy.);\nadd(0.02, 1250, Defeat a very powerful enemy.);\nadd(0.05, 1000, Defeat a boss-level enemy.);\nadd(0.5, 40, Attack several powerful enemies at once.);\nadd(1, 20, Defeat several powerful enemies at once.);
+1460	add(0.01, 2500, Defeat a powerful enemy.);\nadd(0.02, 1250, Defeat a very powerful enemy.);\nadd(0.05, 1000, Defeat a boss-level enemy.);\nadd(0.5, 40, Attack several powerful enemies at once.);\nadd(1, 20, Defeat several powerful enemies at once.);
+1461	The Windmill skill, taught by Ranald the combat instructor. The Dunbarton combat instructor can teach it in detail.
+1462	As many advantages as the Windmill skill has, it is a double-edged sword because it uses your HP.  Make sure to use it wisely.
+1463	As many advantages as the Windmill skill has, it is a double-edged sword because it uses your HP.  Make sure to use it wisely.
+1464	As many advantages as the Windmill skill has, it is a double-edged sword because it uses your HP.  Make sure to use it wisely.
+1465	As many advantages as the Windmill skill has, it is a double-edged sword because it uses your HP.  Make sure to use it wisely.
+1466	As many advantages as the Windmill skill has, it is a double-edged sword because it uses your HP.  Make sure to use it wisely.
+1467	As many advantages as the Windmill skill has, it is a double-edged sword because it uses your HP.  Make sure to use it wisely.
+1468	As many advantages as the Windmill skill has, it is a double-edged sword because it uses your HP.  Make sure to use it wisely.
+1469	As many advantages as the Windmill skill has, it is a double-edged sword because it uses your HP.  Make sure to use it wisely.
+1470	As many advantages as the Windmill skill has, it is a double-edged sword because it uses your HP.  Make sure to use it wisely.
+1471	As many advantages as the Windmill skill has, it is a double-edged sword because it uses your HP.  Make sure to use it wisely.
+1472	Use Windmill to attack an enemy and knock it down.\nStarting from rank 5, you will have a larger range of attack.
+1473	Use Windmill to attack an enemy and knock it down.\nStarting from rank 5, you will have a larger range of attack.
+1474	Use Windmill to attack an enemy and knock it down.\nStarting from rank 5, you will have a larger range of attack.
+1475	Use Windmill to attack an enemy and knock it down.\nStarting from rank 5, you will have a larger range of attack.
+1476	You have reached the highest level of Windmill, allowing you to attack enemies at even greater range.\nMeet all the training requirements of Rank 1, and you will receive the title that proves you have achieved the highest level.
+1477	Now that you've attained the master level of Windmill, you can inflict damage to enemies in a wider area.\nYour rank of Dan 1 certifies your excellent proficiency in performing Windmill.
+1478	Now that you've attained the master level of Windmill, you can inflict damage to enemies in a wider area.\nYour rank of Dan 2 certifies your excellent proficiency in performing Windmill.
+1479	Now that you've attained the master level of Windmill, you can inflict damage to enemies in a wider area.\nYour rank of Dan 3 certifies your excellent proficiency in performing Windmill.
+1480	(1, 100, Pass an advancement test.)
+1481	(4.50, Pass an advancement test.)
+1482	(6,34, Pass an advancement test.)
+1483	(8,25, Pass an advancement test.)
+1484	Stamina +2
+1485	Stamina +2
+1486	Stamina +2
+1487	Stamina +2
+1488	Stamina +2
+1489	Stamina +2
+1490	Stamina +2, STR +1
+1491	Stamina +2, STR +1
+1492	Stamina +2, STR +1
+1493	Stamina +2, STR +1
+1494	Stamina +5, STR +1
+1495	Stamina +5, STR +1
+1496	Stamina +5, STR +1
+1497	Stamina +5, STR +1
+1498	Stamina +5, STR +5
+1499	Charge Practice:\nEnables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 50% Attack Strength while receiving 20% less damage.
+1500	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 100% Attack Strength while receiving 30% less damage.\nIncreases the distance of Charge.
+1501	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 110% Attack Strength while receiving 32% less damage.\nIncreases the distance of Charge.
+1502	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 120% Attack Strength while receiving 34% less damage.\nIncreases the distance of Charge.
+1503	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 130% Attack Strength while receiving 36% less damage.\nIncreases the distance of Charge.
+1504	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 140% Attack Strength while receiving 38% less damage.\nIncreases the distance of Charge.
+1505	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 150% Attack Strength while receiving 40% less damage.\nIncreases the distance of Charge.
+1506	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 180% Attack Strength while receiving 42% less damage.\nIncreases the distance of Charge.
+1507	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 190% Attack Strength while receiving 44% less damage.\nIncreases the distance of Charge.
+1508	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 200% Attack Strength while receiving 46% less damage.\nIncreases the distance of Charge.
+1509	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 210% Attack Strength while receiving 48% less damage.\nIncreases the distance of Charge.
+1510	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 240% Attack Strength while receiving 50% less damage.\nIncreases the distance of Charge.
+1511	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 250% Attack Strength while receiving 52% less damage.\nIncreases the distance of Charge.
+1512	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 260% Attack Strength while receiving 55% less damage.\nIncreases the distance of Charge.
+1513	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 270% Attack Strength while receiving 57% less damage.\nIncreases the distance of Charge.
+1514	Enables you to quickly close the distance to an enemy using long-ranged attacks.\nAttacks the enemy with 300% Attack Strength while receiving 60% less damage.\nIncreases the distance of Charge.
+1515	add(10, 10, "Attack an enemy using the skill.");
+1516	add(1, 30, "Attack an enemy using the skill.");\nadd(5, 15, "Hit an enemy using the skill.");\nadd(10, 5, "Block long-ranged attacks using the skill.");\nadd(20, 1, "Successfully block long-ranged attacks using the skill.");
+1517	add(0.8, 40, "Attack an enemy using the skill.");\nadd(3, 20, "Hit an enemy using the skill.");\nadd(8, 5, "Block long-ranged attacks using the skill.");\nadd(15, 2, "Successfully block long-ranged attacks using the skill.");
+1518	add(0.6, 50, "Attack an enemy using the skill.");\nadd(2, 30, "Hit an enemy using the skill.");\nadd(6, 6, "Block long-ranged attacks using the skill.");\nadd(10, 3, "Successfully block long-ranged attacks using the skill.");
+1519	add(0.5, 60, "Attack an enemy using the skill.");\nadd(1, 40, "Hit an enemy using the skill.");\nadd(5, 10, "Block long-ranged attacks using the skill.");\nadd(8, 4, "Successfully block long-ranged attacks using the skill.");
+1520	add(0.3, 100, "Attack an enemy using the skill.");\nadd(0.8, 50, "Hit an enemy using the skill.");\nadd(3, 15, "Block long-ranged attacks using the skill.");\nadd(6, 5, "Successfully block long-ranged attacks using the skill.");
+1521	add(0.1, 200, "Attack an enemy using the skill.");\nadd(0.6, 60, "Hit an enemy using the skill.");\nadd(2, 20, "Block long-ranged attacks using the skill.");\nadd(5, 7, "Successfully block long-ranged attacks using the skill.");
+1522	add(0.08, 300, "Attack an enemy using the skill.");\nadd(0.5, 70, "Hit an enemy using the skill.");\nadd(1, 35, "Block long-ranged attacks using the skill.");\nadd(3, 15, "Successfully block long-ranged attacks using the skill.");
+1523	add(0.05, 400, "Attack an enemy using the skill.");\nadd(0.3, 100, "Hit an enemy using the skill.");\nadd(0.8, 50, "Block long-ranged attacks using the skill.");\nadd(2, 20, "Successfully block long-ranged attacks using the skill.");
+1524	add(0.03, 500, "Attack an enemy using the skill.");\nadd(0.2, 150, "Hit an enemy using the skill.");\nadd(0.6, 70, "Block long-ranged attacks using the skill.");\nadd(1, 40, "Successfully block long-ranged attacks using the skill.");
+1525	add(0.01, 600, "Attack an enemy using the skill.");\nadd(0.1, 300, "Hit an enemy using the skill.");\nadd(0.5, 80, "Block long-ranged attacks using the skill.");\nadd(0.8, 50, "Successfully block long-ranged attacks using the skill.");
+1526	add(0.1, 400, "Hit an enemy using the skill.");\nadd(0.4, 100, "Block long-ranged attacks using the skill.");\nadd(0.7, 70, "Successfully block long-ranged attacks using the skill.");\nadd(5, 10, "Hit a Charging enemy.", false);
+1527	add(0.07, 500, "Hit an enemy using the skill.");\nadd(0.25, 150, "Block long-ranged attacks using the skill.");\nadd(0.6, 80, "Successfully block long-ranged attacks using the skill.");\nadd(4, 12, "Hit a Charging enemy.", false);
+1528	add(0.06, 600, "Hit an enemy using the skill.");\nadd(0.12, 300, "Block long-ranged attacks using the skill.");\nadd(0.4, 100, "Successfully block long-ranged attacks using the skill.");\nadd(3, 15, "Hit a Charging enemy.", false);
+1529	add(0.04, 800, "Hit an enemy using the skill.");\nadd(0.1, 400, "Block long-ranged attacks using the skill.");\nadd(0.25, 200, "Successfully block long-ranged attacks using the skill.");\nadd(2, 20, "Hit a Charging enemy.", false);
+1530	add(0.03, 1000, "Hit an enemy using the skill.");\nadd(0.07, 500, "Block long-ranged attacks using the skill.");\nadd(0.15, 400, "Successfully block long-ranged attacks using the skill.");\nadd(1, 30, "Hit a Charging enemy.", false);
+1531	This skill enables you to charge fiercely at an enemy. First, let's practice the skill.
+1532	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.
+1533	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.
+1534	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.
+1535	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.
+1536	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.
+1537	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.
+1538	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.
+1539	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.
+1540	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.
+1541	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.
+1542	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.\nThis skill is much more effective against long-ranged attack damage at rank 5 or higher.
+1543	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.\nThis skill is much more effective against long-ranged attack damage at rank 5 or higher.
+1544	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.\nThis skill is much more effective against long-ranged attack damage at rank 5 or higher.
+1545	Charge enables you to quickly approach an enemy while blocking long-ranged bow and crossbow attacks from enemies. You become vulnerable to other attacks during a Charge, so it is risky without enough HP.\nThis skill is much more effective against long-ranged attack damage at rank 5 or higher.
+1546	You have mastered the maximum level of Charge. You can now close the distance between you and enemies more safely than ever.\nYou will be rewarded with a title for mastering the skill if you satisfy the training conditions of the skill at rank 1.

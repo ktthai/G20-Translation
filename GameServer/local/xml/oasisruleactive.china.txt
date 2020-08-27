@@ -1,0 +1,33 @@
+﻿1	Counter if attacked
+2	Counter if knocked down
+3	After being recognized by a monster, attack the target with smash if the target is either walking or standing still.
+4	Successful Icebolt - Melee Attack
+5	Successful Lightning Bolt - Melee Attack
+6	If the target is running after triggering the skill, use melee attack to combat it
+7	If the target is walking after triggering the skill, use Smash
+8	If the target stopped after triggering the skill, use Windmill
+9	If the target stopped after triggering the skill, use Lightning Bolt
+10	If the target stopped after triggering the skill, use Counter
+11	If recognized by the enemy, use Melee Attack
+12	If the enemy is walking while on alert, use Smash
+13	If the enemy is running while on alert, use Melee Attack
+14	If the enemy is on alert, use Melee Attack
+15	If recognized by the enemy, use Melee Attack
+16	If the enemy is on alert, use Melee Attack
+17	Targeting - If the enemy is running, use Melee Attack
+18	Targeting - If the enemy stops, and is far away, use lightning bolt
+19	Targeting - If the enemy is walking, use Smash
+20	Targeting - If the enemy is close, use melee attack
+21	Targeting - If the target has stopped, use Windmill
+22	Targeting - If the enemy has stopped, use Lightning Bolt
+23	Targeting - Roam Around
+24	If the enemy's range-attacking, use melee attack
+25	After locating the target, use Icebolt if the target is standing still
+26	After locating the target, use Lightning Bolt if the target is standing still
+27	After locating the target, use Firebolt if the target is standing still
+28	If the target is located, use Smash
+29	If the target is located, use Melee Attack
+30	If Firebolt is successful, use counterattack
+31	Use Defense to stop the enemy's attack
+32	Knock down the enemy
+33	Targeting - Melee Attack

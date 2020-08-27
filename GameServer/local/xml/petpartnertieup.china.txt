@@ -1,0 +1,18 @@
+﻿0	Basic
+14	Anohana Menma Partner
+15	Basic
+16	Commerce Partner [Click Here!]
+17	기본
+18	교역 파트너 캐릭터 [여기를 클릭!]
+19	기본
+20	라그린네 파트너
+21	Basic
+22	Commerce Partner [Click Here!]
+23	Basic
+25	Rem Partner
+26	Basic
+27	Ram Partner
+28	기본
+29	기본
+30	렘 파트너
+31	람 파트너

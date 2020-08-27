@@ -1,0 +1,276 @@
+﻿0	Gate
+1	Flower Planter
+2	Remodeling Door
+4	Window Shutters
+5	Decorative Vine Molding
+6	Wooden Pastoral Mural
+7	Pin-Striped Pattern
+8	Meadow Pattern
+9	Diagonal Pattern
+10	Petite Rose Pattern
+11	Knotwork Pattern
+12	Rich Orchid Pattern
+13	Filigree Plant Pot
+14	Decorative Jar
+15	Rustic Table
+16	Rustic Chair
+17	Greek Flower Pot
+18	Rooster Pitcher and Stool
+19	Flower Pot and Stool
+20	Owl Pedestal
+21	Grape Bucket
+22	Brownie (Clothesline)
+23	A Filigree Plant Pot that can be placed in your Homestead House. Give your home a breath of fresh air!
+24	A Decorative Jar that can be placed in your Homestead House. How classy!
+26	A Rustic Chair that can be placed in your Homestead House. Sit back and relax!
+27	A Greek Flower Pot that can be placed in your Homestead House. What bright and beautiful blooms!
+28	A Rooster Pitcher and Stool that can be placed in your Homestead House. This ought to liven up any corner of your home!
+29	A Flower Pot and Stool that can be placed in your Homestead House. Enjoy nature's beauty both inside and outside your home!
+30	An Owl Pedestal that can be placed in your Homestead House. Perhaps it will inspire wisdom!
+31	A Grape Bucket that can be placed in your Homestead House. Freshly harvested grapes are a wonderful treat to have at the ready!
+32	Temporarily use the Clothesline ID on the Brownie!
+33	A Rustic Table that can be placed in your Homestead House. It's perfect for enjoying a relaxing cup of tea with friends.
+34	A Flower Planter that can be placed in your Homestead House. Smell those wonderfully fresh blossoms!
+35	Cooking Bench (LV 1)
+36	Cooking Bench (LV 2)
+37	Cooking Bench (LV 3)
+38	Cooking Bench (LV 4)
+39	Smithing Bench (LV 1)
+40	Smithing Bench (LV 2)
+41	Smithing Bench (LV 3)
+42	Smithing Bench (LV 4)
+43	Tailoring Bench (LV 1)
+44	Tailoring Bench (LV 2)
+45	Tailoring Bench (LV 3)
+46	Tailoring Bench (LV 4)
+47	Medicine Bench (LV 1)
+48	Medicine Bench (LV 2)
+49	Medicine Bench (LV 3)
+50	Medicine Bench (LV 4)
+51	Carpentry Bench (LV 1)
+52	Carpentry Bench (LV 2)
+53	Carpentry Bench (LV 3)
+54	Carpentry Bench (LV 4)
+55	Engineering Bench (LV 1)
+56	Engineering Bench (LV 2)
+57	Engineering Bench (LV 3)
+58	Engineering Bench (LV 4)
+59	Magic Bench (LV 1)
+60	Magic Bench (LV 2)
+61	Magic Bench (LV 3)
+62	Magic Bench (LV 4)
+63	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Cooking Expertise.
+64	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Cooking Expertise.
+65	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Cooking Expertise.
+66	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Cooking Expertise.
+67	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Smithing Expertise.
+68	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Smithing Expertise.
+69	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Smithing Expertise.
+70	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Smithing Expertise.
+71	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Tailoring Expertise.
+72	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Tailoring Expertise.
+73	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Tailoring Expertise.
+74	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Tailoring Expertise.
+75	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Medicine Expertise.
+76	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Medicine Expertise.
+77	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Medicine Expertise.
+78	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Medicine Expertise.
+79	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Carpentry Expertise.
+80	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Carpentry Expertise.
+81	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Carpentry Expertise.
+82	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Carpentry Expertise.
+83	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Engineering Expertise.
+84	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Engineering Expertise.
+85	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Engineering Expertise.
+86	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Engineering Expertise.
+87	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Magic Expertise.
+88	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Magic Expertise.
+89	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Magic Expertise.
+90	A workshop bench that can be placed in your Homestead Housing. Maid Brownies can use it to research Magic Expertise.
+91	5-Door Hallway
+92	7-Door Hallway
+93	Main Door (Opaque)
+94	Main Door (Transparent)
+95	Hallway Door (Opaque)
+96	Hallway Door (Transparent)
+98	The main door of the house that opens onto the Homestead.
+99	The main door of the house that opens onto the Homestead.
+100	A door that separates a room from the hallway.
+101	A door that separates a room from the hallway.
+103	Window Shutters
+104	Decorative Vine Molding
+105	Wooden Pastoral Mural
+106	Pin-Striped Pattern
+107	Meadow Pattern
+108	Diagonal Pattern
+109	Petite Rose Pattern
+110	Knotwork Pattern
+111	Rich Orchid Pattern
+112	Room Door
+113	A room door that opens into the hallway.
+114	Cooking Research Effect - Level 1
+115	Cooking Research Effect - Level 1
+116	Cooking Research Effect - Level 2
+117	Cooking Research Effect - Level 2
+118	Smithing Research Effect - Level 1
+119	Smithing Research Effect - Level 1
+120	Smithing Research Effect - Level 2
+121	Smithing Research Effect - Level 2
+122	Tailoring Research Effect - Level 1
+123	Tailoring Research Effect - Level 1
+124	Tailoring Research Effect - Level 2
+125	Tailoring Research Effect - Level 2
+126	Medicine Research Effect - Level 1
+127	Medicine Research Effect - Level 1
+128	Medicine Research Effect - Level 2
+129	Medicine Research Effect - Level 2
+130	Carpentry Research Effect - Level 1
+131	Carpentry Research Effect - Level 1
+132	Carpentry Research Effect - Level 2
+133	Carpentry Research Effect - Level 2
+134	Nao Figure
+135	Ruairi Figure
+136	Mari Figure
+137	Young Tarlach Figure
+138	Ogre Figure
+139	Kristell Figure
+140	Tarlach Figure
+141	Ferghus Figure
+142	Sparkling Candy Tree
+143	Gardening Shelf
+144	Garden Workbench
+145	Flower Pot Shelf
+146	Laddered Flower Pot Shelf
+147	Reno Figure
+148	Vay Figure
+149	Tion Figure
+150	Red Rose Flower Planter
+151	Red Rose Flower Pot
+152	White Rose Flower Pot
+153	Tall Flower Pot
+154	Medium Flower Pot
+155	Short Flower Pot
+156	Pile of Small Gift Boxes
+157	Pile of Large Gift Boxes
+158	Tall Lamp
+159	Short Lamp
+160	Small Hydrangea Box
+161	Hydrangea Planter
+162	Tulip and Morning Glory Trellis Box
+163	Tulip and Morning Glory Flower Box
+164	Hyacinth Flower Pot
+165	Flower Pot
+166	Morning Glory Flower Basket
+167	Wooden Barrel Duo
+168	Wooden Barrel Trio
+169	Wooden Box
+170	Wooden Box Duo
+171	Firewood
+172	Wooden Trash Can
+173	Green Flower-Embroidered Bed
+174	White Flower-Embroidered Bed
+175	Navy Flower-Embroidered Bed
+176	Wooden Desk
+177	Pastoral Spring Picture Frame
+178	Sweethearts Flight Picture Frame
+179	Wooden Wardrobe
+180	Wooden Vanity
+181	A cute miniature figure of Nao that can be placed in your Homestead House. Let Nao give your home a unique flavor!
+182	A cute miniature figure of Ruairi that can be placed in your Homestead House. Let Ruairi give your home a unique flavor!
+183	A cute miniature figure of Mari that can be placed in your Homestead House. Let Mari give your home a unique flavor!
+184	A cute miniature figure of Young Tarlach that can be placed in your Homestead House. Let Young Tarlach give your home a unique flavor!
+185	A cute miniature figure of an Ogre that can be placed in your Homestead House. Let this Ogre give your home a unique flavor!
+186	A cute miniature figure of Kristell that can be placed in your Homestead House. Let Kristell give your home a unique flavor!
+187	A cute miniature figure of Tarlach that can be placed in your Homestead House. Let Tarlach give your home a unique flavor!
+188	A cute miniature figure of Ferghus that can be placed in your Homestead House. Let Ferghus give your home a unique flavor!
+189	A Sparkling Candy Tree that can be placed in your Homestead House. Let the sweet scent waft from room to room!
+190	A Gardening Shelf that can be placed in your Homestead House. Expand your home's storage space!
+191	A Garden Workbench that can be placed in your Homestead House. Expand your home's storage space!
+192	A Flower Pot Shelf that can be placed in your Homestead House. Expand your home's storage space!
+193	A Laddered Flower Pot Shelf that can be placed in your Homestead House. Expand your home's storage space!
+194	A cute miniature figure of Reno that can be placed in your Homestead House. Let Reno give your home a unique flavor!
+195	A cute miniature figure of Vay that can be placed in your Homestead House. Let Vay give your home a unique flavor!
+196	A cute miniature figure of Tion that can be placed in your Homestead House. Let Tion give your home a unique flavor!
+197	A Red Rose Flower Planter that can be placed in your Homestead House. Catch a whiff of those fragrant blossoms whenever you pass by!
+198	A Red Rose Flower Pot that can be placed in your Homestead House. Catch a whiff of those fragrant blossoms whenever you pass by!
+199	A White Rose Flower Pot that can be placed in your Homestead House. Catch a whiff of those fragrant blossoms whenever you pass by!
+200	A Tall Flower Pot that can be placed in your Homestead House. Catch a whiff of those fragrant blossoms whenever you pass by!
+201	A Medium Flower Pot that can be placed in your Homestead House. Catch a whiff of those fragrant blossoms whenever you pass by!
+202	A Short Flower Pot that can be placed in your Homestead House. Catch a whiff of those fragrant blossoms whenever you pass by!
+203	A pile of small, carefully wrapped gifts that can be placed in your Homestead House. Someone's sure to be very happy to see them!
+204	A pile of large, neatly wrapped gifts that can be placed in your Homestead House. Someone's sure to be very happy to see them!
+205	A Tall Lamp that can be placed in your Homestead House. Use it to brighten up your living space!
+206	A Short Lamp that can be placed in your Homestead House. Use it to brighten up your living space!
+207	A Small Hydrangea Box that can be placed in your Homestead House. Catch a whiff of those fragrant blossoms whenever you pass by!
+208	A Hydrangea Planter that can be placed in your Homestead House. Catch a whiff of those fragrant blossoms whenever you pass by!
+209	A Tulip and Morning Glory Trellis Box that can be placed in your Homestead House. Catch a whiff of those fragrant blossoms whenever you pass by!
+210	A Tulip and Morning Glory Flower Box that can be placed in your Homestead House. Catch a whiff of those fragrant blossoms whenever you pass by!
+211	A Hyacinth Flower Pot that can be placed in your Homestead House. Catch a whiff of those fragrant blossoms whenever you pass by!
+212	A Flower Pot that can be placed in your Homestead House. Catch a whiff of those fragrant blossoms whenever you pass by!
+213	A Morning Glory Flower Basket that can be placed in your Homestead House. Catch a whiff of those fragrant blossoms whenever you pass by!
+214	A Wooden Barrel Duo that can be placed in your Homestead House. Decorate your home just the way you like it!
+215	A Wooden Barrel Trio that can be placed in your Homestead House. Decorate your home just the way you like it!
+216	A Wooden Box that can be placed in your Homestead House. Decorate your home just the way you like it!
+217	A Wooden Box Duo that can be placed in your Homestead House. Decorate your home just the way you like it!
+218	A stack of Firewood that can be placed in your Homestead House. Decorate your home just the way you like it!
+219	A Wooden Trash Can that can be placed in your Homestead House. Decorate your home just the way you like it!
+220	A Green Flower-Embroidered Bed that can be placed in your Homestead House. Great for taking a nice, long rest when you're tired.
+221	A White Flower-Embroidered Bed that can be placed in your Homestead House. Great for taking a nice, long rest when you're tired.
+222	A Navy Flower-Embroidered Bed that can be placed in your Homestead House. Great for taking a nice, long rest when you're tired.
+223	A Wooden Desk that can be placed in your Homestead House. Sit down, organize your thoughts, and get some work done!
+224	A Pastoral Spring Picture Frame that can be placed in your Homestead House. Decorate your home just the way you like it!
+225	A Sweethearts Flight Picture Frame that can be placed in your Homestead House. Decorate your home just the way you like it!
+226	A Wooden Wardrobe that can be placed in your Homestead House. Expand your home's storage space!
+227	A Wooden Vanity that can be placed in your Homestead House. Expand your home's storage space!
+228	Bear Rug and Wildflower Pattern
+229	Wooden Floor and Cherry Blossom Pattern
+230	Checkered Floor and Apricot Pattern
+231	Halloween Witch's Cauldron
+232	Halloween Strange Wardrobe
+233	Halloween Puppet Altar
+234	Halloween Shelf of Oddities
+235	Halloween Brielle's Bed
+236	Halloween Eccentric Workshop Bench
+237	A Witch's Cauldron that can be placed in your Homestead House. Expand your home's storage space!
+238	A Strange Wardrobe that can be placed in your Homestead House. Expand your home's storage space!
+239	A Puppet Altar that can be placed in your Homestead House. Expand your home's storage space!
+240	A Shelf of Oddities that can be placed in your Homestead House. Expand your home's storage space!
+241	Brielle's Bed, which can be placed in your Homestead House. Expand your home's storage space!
+242	An Eccentric Workshop Bench that can be placed in your Homestead House. Expand your home's storage space!
+243	Crazy Rich Milletian Fireplace
+244	Crazy Rich Milletian Piano
+245	Crazy Rich Milletian Chair
+246	Crazy Rich Milletian Loveseat
+247	Crazy Rich Milletian Dresser
+248	Crazy Rich Milletian Candelabra
+249	Crazy Rich Milletian Screen
+250	A well-made fireplace, perfectly tailored for the crazy rich.
+251	A well-made piano, perfectly tailored for the crazy rich.
+252	A well-made chair, perfectly tailored for the crazy rich.
+253	A well-made loveseat, perfectly tailored for the crazy rich.
+254	A well-made dresser, perfectly tailored for the crazy rich.
+255	A well-made candelabra, perfectly tailored for the crazy rich.
+256	A well-made screen, perfectly tailored for the crazy rich.
+257	Crazy Rich Milletian Floor and Wall
+258	White Christmas Tree
+259	Christmas Tree
+260	Christmas Wreath
+261	Rudolph
+262	Snowflake Flurry
+263	A White Christmas Tree that can be placed in your Homestead House. Is this what you're dreaming of?
+264	A Christmas Tree that can be placed in your Homestead House. All it needs now are some presents!
+265	A Christmas Wreath that can be placed in your Homestead House. There's no place like homestead for the holidays!
+266	A Rudolph that can be placed in your Homestead House. You'll let him join in your reindeer games, right?
+267	A Snowflake Flurry that can be placed in your Homestead House. Don't worry; it's a gentle flurry.
+268	Comfortable Rocking Chair
+269	A comfortable rocking chair that can be placed in your Homestead House. Sit back and relax!
+270	Bookshelf with Ladder
+271	Small Magic Library Bookshelf
+272	Multi-use Magic Library Bookshelf
+273	Magic Library Carpet
+274	Large Magic Library Carpet
+275	A bookshelf with a ladder that can be placed in your Homestead House. Decorate your home to your heart's content!
+276	A bookshelf that can be placed in your Homestead House. Decorate your home to your heart's content!
+277	A multi-use bookshelf that can be placed in your Homestead House. Decorate your home to your heart's content!
+278	A carpet that can be placed in your Homestead House. Decorate your home to your heart's content!
+279	A large carpet that can be placed in your Homestead House. Decorate your home to your heart's content!

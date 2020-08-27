@@ -1,0 +1,200 @@
+﻿0	Sharp teeth from mutant animals were found near Ciar Dungeon.
+1	You secured testimony that the Apostle's wings were seen in the northern pasture.
+2	You retrieved damaged Light Armor and Broadswords and asked Ferghus to repair them.
+3	Northwest of Dugald Aisle seems to be the most probable place.
+4	You delivered the supplies from Manus to the injured.
+5	You collected parts of the log while chasing after the Mage.
+6	You finished reading the manuscript.
+7	You secured testimony that the farmer's livestock has disappeared.
+8	You retrieved the Magic Tool without being seen by the residents.
+9	Someone suspicious was spotted in a pub in Bangor.
+10	You got Holy Water of Lymilark from the stock in the Tara Healer's House.
+11	You healed the injured knights.
+12	The stolen Topaz was traced to Rabbie Dungeon.
+13	Footprints and a piece of a mysterious note were found around the Dragon Ruins. They look like traces of the Apostles.
+14	You learned about herbalism from Manus for effective injury treatment.
+15	According to Duncan, suspicious experiments are taking place around the graveyard.
+16	You created a storage closet with drawers.
+17	You discovered something from the message the girl left behind.
+18	You witnessed one of the Tir Chonaill residents receiving something from a man wearing a bandanna.
+19	Training went as planned.
+20	You gave the trackers from Belvast the slip.
+21	Prophets were found in Fiodh Forest at dawn, poaching subjects for their experiments.
+22	According to Endelyon, some merchants that frequent Tir Chonaill have spoken ill of the Churches of Lymilark.
+23	You found evidence of the experiments on living bodies near Barri Dungeon.
+24	You tracked down and rescued an Eiler unit member.
+25	You requested additional military support.
+26	All areas of Dugald Aisle have been patrolled.
+27	You were able to launch a surprise attack, but you encountered no Prophets.
+28	You tamed the wild horse.
+29	You learned how to hunt the mutant animals more effectively.
+30	You convinced Lassar to return to Tir Chonaill right before arriving at the ruins.
+31	You destroyed the altar.
+32	You decoded the message and discovered a new order, 'Emergency, lack of subjects for experiment'.
+33	You found that parts were missing in the log from the old woman near Sen Mag Plains.
+34	The blonde girl couldn't remember much, but grew scared when the name Pennar was mentioned.
+35	You restored the Prophet's artifact.
+36	You found the cargo along the shore.
+37	You learned how to fight the mutant monsters more effectively.
+38	After giving useful herbs to the old woman, she explained that she found the log near the excavation site in Bangor.
+39	You witnessed someone secretly speaking about a document in the pub in Bangor.
+40	You found a shining diamond near Karu Forest.
+41	You found a leaf that only grows in Corrib Valley on the mutant animal's corpse.
+42	You found base herbs, antidote herbs, and water.
+43	After checking the handwriting, the letter was determined to be from a man in Emain Macha.
+44	You eliminated Kobold Bandits and retrieved the stolen goods.
+45	The supply unit arrived safely in Tara.
+46	You rescued the patrolman from the mutant monsters near Taillteann Beacon Mound.
+47	You restored the graveyard and played music to comfort the injured souls.
+48	You mopped up the bandits and retrieved the supplies.
+49	You eliminated mutant monsters near Taillteann Farm.
+50	You rescued some residents in the storage.
+51	You got some clues from talking to Ethna.
+52	You repaired the equipment.
+53	You collected samples from the mutant monsters.
+54	You delivered the remedy potions to injured knights in Karu Forest.
+55	You cleared out the mutant monsters around Abb Neagh Lake.
+56	You collected leather for light armor.
+57	You asked an Alchemist to drop the temperature of the swarming lake.
+58	You recovered parts of the lost memories.
+59	You performed the ancient ritual by dodging the Prophet's attacks and eliminating evil spirits, all to protect Cor Village.
+60	You obtained testimony that rats started to rage after the events at Emain Macha Lake.
+61	You eliminated the mutant rats.
+62	You eliminated the Mutant Stone Gargoyle.
+63	A shadow suspected to be a Prophet was spotted near the Assembly Area.
+64	You acquired five special Arat Berries.
+65	You protected the river from being further contaminated by removing the mutant monster.
+66	You protected the Crusaders until they recovered.
+67	You collected clues to uncover the Prophet's identity.
+87	There was no special information.
+88	There was nothing special. I bet you had to pull a few strings for this, right? Thank you so much, captain.
+89	Thank you, captain!
+90	There's nothing to report... By the way, thank you, captain!
+91	Back then, I didn't know that there were stories kept secret from me. I... now realize that I never really understood my father.
+92	The first mission was successful.
+93	The first mission was successful.
+94	I've acquired the Medal of Victory!
+95	I've brought back the Medal of Dignity you asked for. It wasn't too difficult.
+96	I... I brought back the Medal of Will.
+97	I've acquired the Medal of Wisdom as you ordered.
+98	I've acquired the Medal of Protection. Are you set now?
+99	This is it, right? Medal of Honor? Ha ha! It was a piece of cake!
+100	All dungeons around Tir Chonaill were checked, but no pollutant was found.
+101	You couldn't collect testimonies about the rumor.
+102	You failed to find the remaining equipment.
+103	You didn't find any places where Apostles appear.
+104	In the middle of the delivery, suspicious robed figures stole the supplies.
+105	You failed to pursue the Mage.
+106	You couldn't finish reading the manuscript.
+107	There were no witnesses.
+108	You weren't able to retrieve the Magic Tool.
+109	You couldn't find the Mad Seer's altar.
+110	You didn't obtain enough Holy Water of Lymilark.
+111	You failed to heal the injured knights. Their injuries grew worse.
+112	Digo's ledger had no record of a suspicious trader that headed to Dunbarton.
+113	There was nothing suspicious around Bangor.
+114	You didn't learn anything about herbalism from Manus.
+115	There was nothing special recently.
+116	You failed to create a storage closet.
+117	You failed to decode the girl's message.
+118	There was nothing suspicious.
+119	Additional training failed.
+120	You couldn't slip away from the trackers at Belvast.
+121	There were no suspicious intruders.
+122	No villagers spoke of suspicious outsiders.
+123	You found no evidence of the experiment.
+124	You couldn't find traces of the Eiler unit member.
+125	You failed to request military support.
+126	You didn't have enough time to patrol everywhere.
+127	You failed to find the secret location.
+128	You couldn't tame the wild horse.
+129	You couldn't learn how to hunt the mutant animals effectively.
+130	You warned Lassar, but couldn't stop her from heading to the ruins.
+131	You failed to find the altar.
+132	You failed to decode the message.
+133	You surveyed all parts of Bangor, but couldn't find the original log.
+134	The blonde girl couldn't remember what happened to her while she was missing.
+135	You failed to restore the Prophet's artifact.
+136	You failed to recover the cargo from the shore.
+137	You couldn't learn how to fight the mutant monsters effectively.
+138	The old woman refused to talk.
+139	You hid in the pub in Bangor, but there was no one preaching.
+140	You failed to find a shining diamond.
+141	You checked the corpse, but found no special clues.
+142	You found base herbs and antidote herbs, but failed to find water.
+143	You failed to find the writer of the letter.
+144	You failed to eliminate the Kobold Bandits.
+145	The supply unit was plundered and couldn't make it to Tara.
+146	You couldn't find the patrolman in Taillteann.
+147	You failed to restore the graveyard.
+148	You mopped up the bandits but failed to retrieve the supplies.
+149	You failed to eliminate the mutant monsters near Taillteann Farm.
+150	The residents were taken by the Prophets before you could rescue them.
+151	You talked to Ethna, but failed to gather any clues.
+152	You failed to repair the equipment. They're far too broken to use.
+153	You failed to collect mutant samples.
+154	You failed to find the injured knights in Karu Forest.
+155	You failed to eliminate all of the mutant monsters around Abb Neagh Lake.
+156	You couldn't collect leather for light armor.
+157	You couldn't check on Emain Macha Lake.
+158	You failed to recover any of the lost memories.
+159	The Prophets interrupted the ancient ritual.
+160	You eliminated some of the rats, but couldn't uncover the reason behind their rise.
+161	You failed to eliminate the mutant rats.
+162	You couldn't eliminate the Mutant Stone Gargoyle.
+163	You found no one near the Assembly Area.
+164	You couldn't acquire the special Arat Berries.
+165	Due to the strong currents, you couldn't get the monster out of the river.
+166	The Apostle attacked before the Crusaders could recover.
+167	You couldn't find any clues to the Prophet's identity.
+187	You couldn't find the informant.
+188	Due to bad weather, I wasn't able to reach my destination.
+189	They were all out of strawberry milk... And told me to come back later... *Sob*
+190	I... I wasn't able to get what I wanted.
+191	I wasn't able to get the information I wanted.
+192	I'm sorry. I failed the mission.
+193	I'm sorry. I failed the mission.
+194	Hrng, I'm sorry. I couldn't get the Medal of Victory.
+195	I couldn't get hold of the Medal of Dignity.\nI-I make mistakes too, you know!
+197	I'm sorry. I couldn't get ahold of the Medal of Wisdom.
+199	Oh! I'm sorry... I couldn't get the Medal of Honor.\nShucks... Maybe I should've listened to Kaour and trained harder.
+200	You transported the Special Supply Box.
+201	You transported the Special Supply Box.
+202	You transported the Special Supply Box.
+203	You transported the Special Supply Box.
+204	You transported the Special Supply Box.
+205	You transported the Special Supply Box.
+206	You transported the Special Supply Box.
+207	You transported the Special Supply Box.
+208	You transported the Special Supply Box.
+209	You transported the Special Supply Box.
+210	You transported the Special Supply Box.
+211	You transported the Special Supply Box.
+212	You transported the Special Supply Box.
+213	You transported the Special Supply Box.
+214	You transported the Special Supply Box.
+215	You transported the Special Supply Box.
+216	You transported the Special Supply Box.
+217	You transported the Special Supply Box.
+218	You transported the Special Supply Box.
+219	You couldn't transport the Special Supply Box.
+220	You couldn't transport the Special Supply Box.
+221	You couldn't transport the Special Supply Box.
+222	You couldn't transport the Special Supply Box.
+223	You couldn't transport the Special Supply Box.
+224	You couldn't transport the Special Supply Box.
+225	You couldn't transport the Special Supply Box.
+226	You couldn't transport the Special Supply Box.
+227	You couldn't transport the Special Supply Box.
+228	You couldn't transport the Special Supply Box.
+229	You couldn't transport the Special Supply Box.
+230	You couldn't transport the Special Supply Box.
+231	You couldn't transport the Special Supply Box.
+232	You couldn't transport the Special Supply Box.
+233	You couldn't transport the Special Supply Box.
+234	You couldn't transport the Special Supply Box.
+235	You couldn't transport the Special Supply Box.
+236	You couldn't transport the Special Supply Box.
+237	You couldn't transport the Special Supply Box.
+238	I couldn't get the Medal of Protection.\nI won't make excuses. I apologize for my lack of skills.
+239	I'm sorry. I couldn't acquire the Medal of Will. I was so scared...

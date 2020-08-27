@@ -1,0 +1,157 @@
+﻿0	Caster-in-Training Wig Box
+1	Hurry, or wolves will get all the animals!
+2	Red Bears are violent animals. Be careful!
+3	Fomors are scaring the Townspeople. Help out!
+4	The Shadow Realm is dangerous. Please help.
+5	White Spiders make cobweb gathering hard.
+6	I'm so tired of those mimics...bats too!
+7	Fomors plague so many towns. Please help.
+8	Deian says it's important to help a friend in need.
+9	Spiders are really only good for cobwebs...
+10	All that wheat will rot if it's not harvested...
+11	Erinn has a severe firewood shortage.
+12	Herbs are crucial for medicine. Stay stocked!
+13	Some farmers asked us to help harvest corn.
+14	Those berries are more elusive than expected...
+15	This calls for someone with real stamina.
+16	You can use firewood you chopped last week!
+17	It's good to stockpile Wheat Flour just in case.
+18	This is cake for someone good with their hands.
+19	It's always a good idea to have potions ready.
+20	If it's too difficult, you can try again tomorrow.
+21	Few who claim to be good cooks actually are.
+22	Just let the rhythm flow through you.
+23	It's important to help those in need.
+24	We urgently need some Trade Goods delivered.
+25	We need to clear the roads to keep trading.
+26	There's no place like Homestead!
+27	Slevin has a special request for you...
+28	The Awakening of Light skill will make this easy.
+29	It's a bit murder-y, but I like your enthusiasm!
+30	I wonder how bear-steak tastes...
+31	Great, kid. Don't get cocky.
+32	Hmm... Are you sure you didn't have help?
+33	I'm glad you didn't mind trivial chores.
+34	They're really gone? I'm so glad to hear it!
+35	You already got them? Fomors are a bit weak...
+36	You're pretty good with your hands.
+37	Nice work. Nobody like a dirty town.
+38	Looks like you reaped what they sowed? Heh.
+39	Wow, you're really doing everything I ask!
+40	You're a pretty hard worker.
+41	Mmm...Corn.
+42	Everyone knows fruit doesn't count on a diet.
+43	Wow! You've gone above and beyond!
+44	Lumber can be used for all sorts of things.
+45	I'd be happy to take that off your hands.
+46	With enough resolve, nothing can stop you!
+47	If you don't need it now, you can save it for later.
+48	I can see I had nothing to worry about.
+49	You're not gonna eat all that yourself, are you?
+50	Next time you should go for a 5-combo streak!
+51	You can never be too prepared.
+52	I'm glad those traders could sell their wares.
+53	Fewer bandits means safer roads.
+54	How did it go?
+55	You're a Jack-of-all-trades, aren't you?
+56	Did you find anything worthwhile?
+57	내추럴 헤어 가발 상자
+58	축복의 포션을 얻었다면 장비 아이템에 사용해봐.
+59	늑대들에게 스매시의 무서움을 알려줘야겠어.
+60	카운터 어택이라도 다 같은 카운터 어택이 아니지.
+61	마족들 때문에 마을 주민들이 불안한 모양이야.
+62	거미줄 채집에 흰거미들이 위협이 되고 있어.
+63	그림자 세계라고... 혹시 알아?
+64	요즘 마을마다 근처 마족들 때문에 난리야.
+65	데이안의 부탁이기도 하지만, 연습해두면 굶어 죽진 않을 거야.
+66	거미줄을 끊임없이 만들어내는 게 거미들의 일생 목표일지도…
+67	누군가 수확하지 않으면 금세 썩어버리지.
+68	에린은 지금 어느 때보다도 장작 패는 사람이 필요해.
+69	주변에 누군가가 아플 수도 있으니 상비하는 게 좋아.
+70	자! 이번엔 옥수수 채집이다! 이번에도 나서줄 거지?
+71	생각보다 나무열매 구하기가 쉽지 않더라.
+72	지치지 않고 일할 수 있는 일꾼... 아니 체력이 필요한 때지.
+73	전에 얻은 나무장작을 이용하면 일이 단축되겠지.
+74	천재지변에 대비해 밀가루는 항상 비축해 둬야 해.
+75	손재주만 있다면 만드는 게 크게 어렵진 않을 거야.
+76	만들어두면 누군가 행동불능에 빠지기 전에 구해줄 수 있어.
+77	정 어려우면 내일쯤 다시 시도해 보는 게 어때?
+78	상큼한 요리가 먹고 싶은데?
+79	리듬에 몸을 맡긴다면 전혀 어려울 거 없어.
+80	경매장에서 물건을 사고파는 재미가 쏠쏠해.
+81	요즘 쌓인 교역품을 운반할 사람을 찾지 못해 골치인가 봐.
+82	가끔은 낭만 농장이 집처럼 느껴진단 말이야.
+83	내게 필요한 음악을 찾아서 떠나볼까.
+84	이 세상에 하나뿐인 나만의 옷을 만들자.
+85	부비새를 찾으러 가기 전 슬레빈이 부탁하고 싶은 게 있다는데?
+86	축복받은 장비는 여러 가지 이로운 효과가 생기지.
+87	스매시 폼이 예사롭지 않은데?
+88	반격했을 때 크티리컬의 짜릿함이란!
+89	겨우 이런 일로 너무 우쭐대는 건 좀...
+90	이런 소소한 일도 군말 없이 해주다니... 너 보기보다 착하구나?
+91	이상하고 신기한 세계였어.
+92	벌써 해치웠다고? 쳇, 마족 녀석들 생각보다 부실한걸…
+93	다행히 제법 손재주가 있나 보군.
+94	항상 마을 미화에 신경 쓰라고.
+95	잘 드는 낫에 튼튼한 허리만 있다면 문제없는 일이지.
+96	시키는 일은 그래도 곧잘 해내는걸?
+97	나름 성실하구나.
+98	이게 정말 의미 있는 일이냐고? 믿어... 믿으면 이루어져.
+99	다이어트 중이라면 지금 먹어보는 건 어때?
+100	그렇게까지 열심히 할 필요는 없었는데…
+101	나무장작은 쓰임새가 여러 곳이니 더 고민해 보라고.
+102	어딘가 보관할 거라면 이 근처가 좋을 것 같아.
+103	의지만 있다면 뭐든 자급자족할 수 있어.
+104	내키지 않으면 쓰지 않고 아껴두는 것도 좋지.
+105	괜한 걱정을 했군.
+106	혹시 그거... 혼자만 먹을 건 아니지?
+107	이번엔 5콤보 도전?
+108	너무 비싸게 파는 건 아니야?
+109	악성 재고가 해결됐다니 반가운 소식이네.
+110	넌 어떤 기분이 들었어?
+111	기회가 된다면 작곡에 도전해봐.
+112	인물이 좋으니 옷도 사는걸?
+113	생각보다 정말 다재다능하구나.
+114	내추럴 헤어 가발 상자
+115	축복의 포션을 얻었다면 장비 아이템에 사용해봐.
+116	늑대들에게 스매시의 무서움을 알려줘야겠어.
+117	카운터 어택이라도 다 같은 카운터 어택이 아니지.
+118	마족들 때문에 마을 주민들이 불안한 모양이야.
+119	거미줄 채집에 흰거미들이 위협이 되고 있어.
+120	그림자 세계라고... 혹시 알아?
+121	요즘 마을마다 근처 마족들 때문에 난리야.
+122	지치지 않고 일할 수 있는 일꾼... 아니 체력이 필요한 때지.
+123	전에 얻은 나무장작을 이용하면 일이 단축되겠지.
+124	천재지변에 대비해 밀가루는 항상 비축해 둬야 해.
+125	손재주만 있다면 만드는 게 크게 어렵진 않을 거야.
+126	만들어두면 누군가 행동불능에 빠지기 전에 구해줄 수 있어.
+127	정 어려우면 내일쯤 다시 시도해 보는 게 어때?
+128	상큼한 요리가 먹고 싶은데?
+129	리듬에 몸을 맡긴다면 전혀 어려울 거 없어.
+130	경매장에서 물건을 사고파는 재미가 쏠쏠해.
+131	요즘 쌓인 교역품을 운반할 사람을 찾지 못해 골치인가 봐.
+132	가끔은 낭만 농장이 집처럼 느껴진단 말이야.
+133	내게 필요한 음악을 찾아서 떠나볼까.
+134	마을 주민들을 위해 한 번 더 부탁해.
+135	부비새를 찾으러 가기 전 슬레빈이 부탁하고 싶은 게 있다는데?
+136	축복받은 장비는 여러 가지 이로운 효과가 생기지.
+137	스매시 폼이 예사롭지 않은데?
+138	반격했을 때 크티리컬의 짜릿함이란!
+139	겨우 이런 일로 너무 우쭐대는 건 좀...
+140	이런 소소한 일도 군말 없이 해주다니... 너 보기보다 착하구나?
+141	이상하고 신기한 세계였어.
+142	벌써 해치웠다고? 쳇, 마족 녀석들 생각보다 부실한걸…
+143	그렇게까지 열심히 할 필요는 없었는데…
+144	나무장작은 쓰임새가 여러 곳이니 더 고민해 보라고.
+145	어딘가 보관할 거라면 이 근처가 좋을 것 같아.
+146	의지만 있다면 뭐든 자급자족할 수 있어.
+147	내키지 않으면 쓰지 않고 아껴두는 것도 좋지.
+148	괜한 걱정을 했군.
+149	혹시 그거... 혼자만 먹을 건 아니지?
+150	이번엔 5콤보 도전?
+151	너무 비싸게 파는 건 아니야?
+152	악성 재고가 해결됐다니 반가운 소식이네.
+153	넌 어떤 기분이 들었어?
+154	기회가 된다면 작곡에 도전해봐.
+155	마을 사람들이 고맙다고 하던걸.
+156	생각보다 정말 다재다능하구나.

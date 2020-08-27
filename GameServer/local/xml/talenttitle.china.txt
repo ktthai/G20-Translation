@@ -1,0 +1,1717 @@
+﻿0	Fledgling Adventurer
+1	Novice Adventurer
+2	Amateur Adventurer
+3	Green Adventurer
+4	Naive Adventurer
+5	Apprentice Adventurer
+6	Senior Adventurer
+7	Advanced Adventurer
+8	Seasoned Adventurer
+9	Skilled Adventurer
+10	Expert Adventurer
+11	Great Adventurer
+12	Champion Adventurer
+13	Wise Adventurer
+14	Master Adventurer
+15	Grandmaster Adventurer
+16	Fledgling Warrior
+17	Novice Warrior
+18	Amateur Warrior
+19	Green Warrior
+20	Naive Warrior
+21	Apprentice Warrior
+22	Senior Warrior
+23	Advanced Warrior
+24	Seasoned Warrior
+25	Skilled Warrior
+26	Expert Warrior
+27	Great Warrior
+28	Champion Warrior
+29	Wise Warrior
+30	Master Warrior
+31	Grandmaster Warrior
+32	Fledgling Mage
+33	Novice Mage
+34	Amateur Mage
+35	Green Mage
+36	Naive Mage
+37	Apprentice Mage
+38	Senior Mage
+39	Advanced Mage
+40	Seasoned Mage
+41	Skilled Mage
+42	Expert Mage
+43	Great Mage
+44	Champion Mage
+45	Wise Mage
+46	Master Mage
+47	Grandmaster Mage
+48	Fledgling Archer
+49	Novice Archer
+50	Amateur Archer
+51	Green Archer
+52	Naive Archer
+53	Apprentice Archer
+54	Senior Archer
+55	Advanced Archer
+56	Seasoned Archer
+57	Skilled Archer
+58	Expert Archer
+59	Great Archer
+60	Champion Archer
+61	Wise Archer
+62	Master Archer
+63	Grandmaster Archer
+64	Fledgling Merchant
+65	Novice Merchant
+66	Amateur Merchant
+67	Green Merchant
+68	Naive Merchant
+69	Apprentice Merchant
+70	Senior Merchant
+71	Advanced Merchant
+72	Seasoned Merchant
+73	Skilled Merchant
+74	Expert Merchant
+75	Great Merchant
+76	Champion Merchant
+77	Wise Merchant
+78	Master Merchant
+79	Grandmaster Merchant
+80	Fledgling Battle Alchemist
+81	Novice Battle Alchemist
+82	Amateur Battle Alchemist
+83	Green Battle Alchemist
+84	Naive Battle Alchemist
+85	Apprentice Battle Alchemist
+86	Senior Battle Alchemist
+87	Advanced Battle Alchemist
+88	Seasoned Battle Alchemist
+89	Skilled Battle Alchemist
+90	Expert Battle Alchemist
+91	Great Battle Alchemist
+92	Champion Battle Alchemist
+93	Wise Battle Alchemist
+94	Master Battle Alchemist
+95	Grandmaster Battle Alchemist
+96	Fledgling Fighter
+97	Novice Fighter
+98	Amateur Fighter
+99	Green Fighter
+100	Naive Fighter
+101	Apprentice Fighter
+102	Senior Fighter
+103	Advanced Fighter
+104	Seasoned Fighter
+105	Skilled Fighter
+106	Expert Fighter
+107	Great Fighter
+108	Champion Fighter
+109	Wise Fighter
+110	Master Fighter
+111	Grandmaster Fighter
+112	Fledgling Bard
+113	Novice Bard
+114	Amateur Bard
+115	Green Bard
+116	Naive Bard
+117	Apprentice Bard
+118	Senior Bard
+119	Advanced Bard
+120	Seasoned Bard
+121	Skilled Bard
+122	Expert Bard
+123	Great Bard
+124	Champion Bard
+125	Wise Bard
+126	Master Bard
+127	Grandmaster Bard
+144	Fledgling Knight
+145	Novice Knight
+146	Amateur Knight
+147	Green Knight
+148	Naive Knight
+149	Apprentice Knight
+150	Senior Knight
+151	Advanced Knight
+152	Seasoned Knight
+153	Skilled Knight
+154	Expert Knight
+155	Great Knight
+156	Champion Knight
+157	Wise Knight
+158	Master Knight
+159	Grandmaster Knight
+160	Fledgling Cleric
+161	Novice Cleric
+162	Amateur Cleric
+163	Green Cleric
+164	Naive Cleric
+165	Apprentice Cleric
+166	Senior Cleric
+167	Advanced Cleric
+168	Seasoned Cleric
+169	Skilled Cleric
+170	Expert Cleric
+171	Great Cleric
+172	Champion Cleric
+173	Wise Cleric
+174	Master Cleric
+175	Grandmaster Cleric
+176	Fledgling Construct Alchemist
+177	Novice Construct Alchemist
+178	Amateur Construct Alchemist
+179	Green Construct Alchemist
+180	Naive Construct Alchemist
+181	Apprentice Construct Alchemist
+182	Senior Construct Alchemist
+183	Advanced Construct Alchemist
+184	Seasoned Construct Alchemist
+185	Skilled Construct Alchemist
+186	Expert Construct Alchemist
+187	Great Construct Alchemist
+188	Champion Construct Alchemist
+189	Wise Construct Alchemist
+190	Master Construct Alchemist
+191	Grandmaster Construct Alchemist
+192	Fledgling Chef
+193	Novice Chef
+194	Amateur Chef
+195	Green Chef
+196	Naive Chef
+197	Apprentice Chef
+198	Senior Chef
+199	Advanced Chef
+200	Seasoned Chef
+201	Skilled Chef
+202	Expert Chef
+203	Great Chef
+204	Champion Chef
+205	Wise Chef
+206	Master Chef
+207	Grandmaster Chef
+208	Fledgling Blacksmith
+209	Novice Blacksmith
+210	Amateur Blacksmith
+211	Green Blacksmith
+212	Naive Blacksmith
+213	Apprentice Blacksmith
+214	Senior Blacksmith
+215	Advanced Blacksmith
+216	Seasoned Blacksmith
+217	Skilled Blacksmith
+218	Expert Blacksmith
+219	Great Blacksmith
+220	Champion Blacksmith
+221	Wise Blacksmith
+222	Master Blacksmith
+223	Grandmaster Blacksmith
+224	Fledgling Tailor
+225	Novice Tailor
+226	Amateur Tailor
+227	Green Tailor
+228	Naive Tailor
+229	Apprentice Tailor
+230	Senior Tailor
+231	Advanced Tailor
+232	Seasoned Tailor
+233	Skilled Tailor
+234	Expert Tailor
+235	Great Tailor
+236	Champion Tailor
+237	Wise Tailor
+238	Master Tailor
+239	Grandmaster Tailor
+240	Fledgling Apothecary
+241	Novice Apothecary
+242	Amateur Apothecary
+243	Green Apothecary
+244	Naive Apothecary
+245	Apprentice Apothecary
+246	Senior Apothecary
+247	Advanced Apothecary
+248	Seasoned Apothecary
+249	Skilled Apothecary
+250	Expert Apothecary
+251	Great Apothecary
+252	Champion Apothecary
+253	Wise Apothecary
+254	Master Apothecary
+255	Grandmaster Apothecary
+256	Fledgling Carpenter
+257	Novice Carpenter
+258	Amateur Carpenter
+259	Green Carpenter
+260	Naive Carpenter
+261	Apprentice Carpenter
+262	Senior Carpenter
+263	Advanced Carpenter
+264	Seasoned Carpenter
+265	Skilled Carpenter
+266	Expert Carpenter
+267	Great Carpenter
+268	Champion Carpenter
+269	Wise Carpenter
+270	Master Carpenter
+271	Grandmaster Carpenter
+272	Apprentice Spellsword
+273	Senior Spellsword
+274	Advanced Spellsword
+275	Seasoned Spellsword
+276	Skilled Spellsword
+277	Expert Spellsword
+278	Champion Spellsword
+279	Great Spellsword
+280	Wise Spellsword
+281	Master Spellsword
+282	Apprentice Magic Knight
+283	Senior Magic Knight
+284	Advanced Magic Knight
+285	Seasoned Magic Knight
+286	Skilled Magic Knight
+287	Expert Magic Knight
+288	Champion Magic Knight
+289	Great Magic Knight
+290	Wise Magic Knight
+291	Master Magic Knight
+292	Apprentice Ranger
+293	Senior Ranger
+294	Advanced Ranger
+295	Seasoned Ranger
+296	Skilled Ranger
+297	Expert Ranger
+298	Champion Ranger
+299	Great Ranger
+300	Wise Ranger
+301	Master Ranger
+303	Apprentice Scholar
+304	Senior Scholar
+305	Advanced Scholar
+306	Seasoned Scholar
+307	Skilled Scholar
+308	Expert Scholar
+309	Champion Scholar
+310	Great Scholar
+311	Wise Scholar
+312	Master Scholar
+313	Apprentice Slayer
+314	Senior Slayer
+315	Advanced Slayer
+316	Seasoned Slayer
+317	Skilled Slayer
+318	Expert Slayer
+319	Champion Slayer
+320	Great Slayer
+321	Wise Slayer
+322	Master Slayer
+323	Apprentice Vanguard
+324	Senior Vanguard
+325	Advanced Vanguard
+326	Seasoned Vanguard
+327	Skilled Vanguard
+328	Expert Vanguard
+329	Champion Vanguard
+330	Great Vanguard
+331	Wise Vanguard
+332	Master Vanguard
+333	Apprentice Vagabond
+334	Senior Vagabond
+335	Advanced Vagabond
+336	Seasoned Vagabond
+337	Skilled Vagabond
+338	Master Vagabond
+339	Champion Vagabond
+340	Great Vagabond
+341	Wise Vagabond
+342	Master Vagabond
+343	Apprentice Sage
+344	Senior Sage
+345	Advanced Sage
+346	Seasoned Sage
+347	Skilled Sage
+348	Expert Sage
+349	Champion Sage
+350	Great Sage
+351	Wise Sage
+352	Master Sage
+359	Champion Doctor
+360	Great Doctor
+361	Wise Doctor
+362	Master Doctor
+369	Champion Artisan
+370	Great Artisan
+371	Wise Artisan
+372	Master Artisan
+373	Apprentice Holy Warrior
+374	Senior Holy Warrior
+375	Advanced Holy Warrior
+376	Seasoned Holy Warrior
+377	Skilled Holy Warrior
+378	Expert Holy Warrior
+379	Champion Holy Warrior
+380	Great Holy Warrior
+381	Wise Holy Warrior
+382	Master Holy Warrior
+383	Apprentice Monk
+384	Senior Monk
+385	Advanced Monk
+386	Seasoned Monk
+387	Skilled Monk
+388	Expert Monk
+389	Champion Monk
+390	Great Monk
+391	Wise Monk
+392	Master Monk
+399	Champion Gourmet
+400	Great Gourmet
+401	Wise Gourmet
+402	Master Gourmet
+409	Champion Home Economist
+410	Great Home Economist
+411	Wise Home Economist
+412	Master Home Economist
+413	Apprentice Choirmaster
+414	Senior Choirmaster
+415	Advanced Choirmaster
+416	Seasoned Choirmaster
+417	Skilled Choirmaster
+418	Expert Choirmaster
+419	Champion Choirmaster
+420	Great Choirmaster
+421	Wise Choirmaster
+422	Master Choirmaster
+429	Champion Food Fighter
+430	Great Food Fighter
+431	Wise Food Fighter
+432	Master Food Fighter
+433	Apprentice Battle Mage
+434	Senior Battle Mage
+435	Advanced Battle Mage
+436	Seasoned Battle Mage
+437	Skilled Battle Mage
+438	Expert Battle Mage
+439	Champion Battle Mage
+440	Great Battle Mage
+441	Wise Battle Mage
+442	Master Battle Mage
+443	Apprentice Bombardier
+444	Senior Bombardier
+445	Advanced Bombardier
+446	Seasoned Bombardier
+447	Skilled Bombardier
+448	Expert Bombardier
+449	Champion Bombardier
+450	Great Bombardier
+451	Wise Bombardier
+452	Master Bombardier
+453	Apprentice Elementalist
+454	Senior Elementalist
+455	Advanced Elementalist
+456	Seasoned Elementalist
+457	Skilled Elementalist
+458	Expert Elementalist
+459	Champion Elementalist
+460	Great Elementalist
+461	Wise Elementalist
+462	Master Elementalist
+463	Apprentice Holy Knight
+464	Senior Holy Knight
+465	Advanced Holy Knight
+466	Seasoned Holy Knight
+467	Skilled Holy Knight
+468	Expert Holy Knight
+469	Champion Holy Knight
+470	Great Holy Knight
+471	Wise Holy Knight
+472	Apprentice Tracker
+473	Senior Tracker
+474	Advanced Tracker
+475	Seasoned Tracker
+476	Skilled Tracker
+477	Expert Tracker
+478	Champion Tracker
+479	Great Tracker
+480	Wise Tracker
+481	Master Tracker
+482	Apprentice Battle Bard
+483	Senior Battle Bard
+484	Advanced Battle Bard
+485	Seasoned Battle Bard
+486	Skilled Battle Bard
+487	Expert Battle Bard
+488	Champion Battle Bard
+489	Great Battle Bard
+490	Wise Battle Bard
+491	Master Battle Bard
+498	Champion Polymath
+499	Great Polymath
+500	Wise Polymath
+501	Master Polymath
+508	Champion Wandering Bard
+509	Great Wandering Bard
+510	Wise Wandering Bard
+511	Master Wandering Bard
+512	Apprentice Executioner
+513	Senior Executioner
+514	Advanced Executioner
+515	Seasoned Executioner
+516	Skilled Executioner
+517	Expert Executioner
+518	Champion Executioner
+519	Great Executioner
+520	Wise Executioner
+521	Master Executioner
+548	Champion Troubadour
+549	Great Troubadour
+550	Wise Troubadour
+551	Master Troubadour
+558	Champion Peddler
+559	Great Peddler
+560	Wise Peddler
+561	Master Peddler
+568	Champion Nutritionist
+569	Great Nutritionist
+570	Wise Nutritionist
+571	Master Nutritionist
+578	Champion Philosopher
+579	Great Philosopher
+580	Wise Philosopher
+581	Master Philosopher
+588	Champion Missionary
+589	Great Missionary
+590	Wise Missionary
+591	Master Missionary
+592	Apprentice Brawler
+593	Senior Brawler
+594	Advanced Brawler
+595	Seasoned Brawler
+596	Skilled Brawler
+597	Expert Brawler
+598	Champion Brawler
+599	Great Brawler
+600	Wise Brawler
+601	Master Brawler
+602	Apprentice Full Alchemist
+603	Senior Full Alchemist
+604	Advanced Full Alchemist
+605	Seasoned Full Alchemist
+606	Skilled Full Alchemist
+607	Expert Full Alchemist
+608	Champion Full Alchemist
+609	Great Full Alchemist
+610	Wise Full Alchemist
+611	Master Full Alchemist
+612	Apprentice Holy Archer
+613	Senior Holy Archer
+614	Advanced Holy Archer
+615	Seasoned Holy Archer
+616	Skilled Holy Archer
+617	Expert Holy Archer
+618	Champion Holy Archer
+619	Great Holy Archer
+620	Wise Holy Archer
+621	Master Holy Archer
+628	Champion Knight Errant
+629	Great Knight Errant
+630	Wise Knight Errant
+631	Master Knight Errant
+638	Champion Iron Fist
+639	Great Iron Fist
+640	Wise Iron Fist
+641	Master Iron Fist
+648	Champion Challenger
+649	Great Challenger
+650	Wise Challenger
+651	Master Challenger
+658	Champion Hawker
+659	Great Hawker
+660	Wise Hawker
+661	Master Hawker
+668	Champion Miner
+669	Great Miner
+670	Wise Miner
+671	Master Miner
+678	Champion Lumberjack
+679	Great Lumberjack
+680	Wise Lumberjack
+681	Master Lumberjack
+842	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+843	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+844	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+845	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+846	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+847	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+848	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+849	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+850	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+851	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+852	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+853	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+854	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+855	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+856	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+857	The Holy Arts talent focuses on using holy power to aid a party, healing and shielding allies during moments of crisis.
+890	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+891	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+892	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+893	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+894	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+895	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+896	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+897	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+898	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+899	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+900	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+901	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+902	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+903	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+904	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+905	The Smithing talent focuses on gathering ore to smelt and craft into tools, weapons, and armor.
+922	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+923	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+924	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+925	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+926	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+927	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+928	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+929	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+930	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+931	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+932	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+933	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+934	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+935	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+936	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+937	The Medicine talent focuses on gathering herbs, studying them to learn their effects, and combining them to create various potions.
+1025	This hidden talent is a result of proficiency in Magic and the Holy Arts. Develop it further by continuing to train both those talents.
+1026	This hidden talent is a result of proficiency in Magic and the Holy Arts. Develop it further by continuing to train both those talents.
+1027	This hidden talent is a result of proficiency in Magic and the Holy Arts. Develop it further by continuing to train both those talents.
+1028	This hidden talent is a result of proficiency in Magic and the Holy Arts. Develop it further by continuing to train both those talents.
+1029	This hidden talent is a result of proficiency in Magic and the Holy Arts. Develop it further by continuing to train both those talents.
+1030	This hidden talent is a result of proficiency in Magic and the Holy Arts. Develop it further by continuing to train both those talents.
+1031	This hidden talent is a result of proficiency in Magic and the Holy Arts. Develop it further by continuing to train both those talents.
+1032	This hidden talent is a result of proficiency in Magic and the Holy Arts. Develop it further by continuing to train both those talents.
+1034	This hidden talent is a result of proficiency in Magic and the Holy Arts.
+1145	For becoming adept at Lance Combat and the Holy arts, the path of Holy Knight has opened to you.
+1146	For becoming adept at Lance Combat and the Holy arts, the path of Holy Knight has opened to you.
+1147	For becoming adept at Lance Combat and the Holy arts, the path of Holy Knight has opened to you.
+1148	For becoming adept at Lance Combat and the Holy arts, the path of Holy Knight has opened to you.
+1149	For becoming adept at Lance Combat and the Holy arts, the path of Holy Knight has opened to you.
+1150	For becoming adept at Lance Combat and the Holy arts, the path of Holy Knight has opened to you.
+1151	For becoming adept at Lance Combat and the Holy arts, the path of Holy Knight has opened to you.
+1152	For becoming adept at Lance Combat and the Holy arts, the path of Holy Knight has opened to you.
+1153	For becoming adept at Lance Combat and the Holy arts, the path of Holy Knight has opened to you.
+1174	You're quite the Polymath. You've tried your hand at all sorts of different talents! If you haven't spread yourself too thin, this could lead to wild success!
+1175	You're quite the Polymath. You've tried your hand at all sorts of different talents! If you haven't spread yourself too thin, this could lead to wild success!
+1176	You're quite the Polymath. You've tried your hand at all sorts of different talents! If you haven't spread yourself too thin, this could lead to wild success!
+1274	By training in both Martial Arts and Close Combat, you've become quite the Brawler.
+1275	By training in both Martial Arts and Close Combat, you've become quite the Brawler.
+1276	By training in both Martial Arts and Close Combat, you've become quite the Brawler.
+1277	By training in both Martial Arts and Close Combat, you've become quite the Brawler.
+1278	By training in both Martial Arts and Close Combat, you've become quite the Brawler.
+1279	By training in both Martial Arts and Close Combat, you've become quite the Brawler.
+1280	By training in both Martial Arts and Close Combat, you've become quite the Brawler.
+1281	By training in both Martial Arts and Close Combat, you've become quite the Brawler.
+1282	By training in both Martial Arts and Close Combat, you've become quite the Brawler.
+1283	By training in both Martial Arts and Close Combat, you've become quite the Brawler.
+1284	By developing your skills in Battle Alchemy and Transmutation, you've become a Full Alchemist.
+1285	By developing your skills in Battle Alchemy and Transmutation, you've become a Full Alchemist.
+1286	By developing your skills in Battle Alchemy and Transmutation, you've become a Full Alchemist.
+1287	By developing your skills in Battle Alchemy and Transmutation, you've become a Full Alchemist.
+1288	By developing your skills in Battle Alchemy and Transmutation, you've become a Full Alchemist.
+1289	By developing your skills in Battle Alchemy and Transmutation, you've become a Full Alchemist.
+1290	By developing your skills in Battle Alchemy and Transmutation, you've become a Full Alchemist.
+1291	By developing your skills in Battle Alchemy and Transmutation, you've become a Full Alchemist.
+1292	By developing your skills in Battle Alchemy and Transmutation, you've become a Full Alchemist.
+1293	By developing your skills in Battle Alchemy and Transmutation, you've become a Full Alchemist.
+1294	You've discovered a hidden talent for training in both the Holy Arts and Archery.
+1295	You've discovered a hidden talent for training in both the Holy Arts and Archery.
+1296	You've discovered a hidden talent for training in both the Holy Arts and Archery.
+1297	You've discovered a hidden talent for training in both the Holy Arts and Archery.
+1298	You've discovered a hidden talent for training in both the Holy Arts and Archery.
+1299	You've discovered a hidden talent for training in both the Holy Arts and Archery.
+1300	You've discovered a hidden talent for training in both the Holy Arts and Archery.
+1301	You've discovered a hidden talent for training in both the Holy Arts and Archery.
+1302	You've discovered a hidden talent for training in both the Holy Arts and Archery.
+1303	You've discovered a hidden talent for training in both the Holy Arts and Archery.
+1304	You've unlocked a new talent for developing your skills in Adventure and Lance Combat. Wander the world, Knight Errant! Just don't attack any windmills.
+1305	You've unlocked a new talent for developing your skills in Adventure and Lance Combat. Wander the world, Knight Errant! Just don't attack any windmills.
+1306	You've unlocked a new talent for developing your skills in Adventure and Lance Combat. Wander the world, Knight Errant! Just don't attack any windmills.
+1307	You've unlocked a new talent for developing your skills in Adventure and Lance Combat. Wander the world, Knight Errant! Just don't attack any windmills.
+1314	You've developed a fist of iron for training in both Smithing and Martial Arts! If anything stands in your way, just smash it!
+1315	You've developed a fist of iron for training in both Smithing and Martial Arts! If anything stands in your way, just smash it!
+1316	You've developed a fist of iron for training in both Smithing and Martial Arts! If anything stands in your way, just smash it!
+1317	You've developed a fist of iron for training in both Smithing and Martial Arts! If anything stands in your way, just smash it!
+1324	A Fighter who develops their Adventure talent by wandering from place to place seeking opponents to fight deserves the hidden talent of Challenger.
+1325	A Fighter who develops their Adventure talent by wandering from place to place seeking opponents to fight deserves the hidden talent of Challenger.
+1326	A Fighter who develops their Adventure talent by wandering from place to place seeking opponents to fight deserves the hidden talent of Challenger.
+1327	A Fighter who develops their Adventure talent by wandering from place to place seeking opponents to fight deserves the hidden talent of Challenger.
+1334	You've unlocked the Hawker talent for your ability to produce and trade various goods through the crafting and Mercantile talents.
+1335	You've unlocked the Hawker talent for your ability to produce and trade various goods through the crafting and Mercantile talents.
+1336	You've unlocked the Hawker talent for your ability to produce and trade various goods through the crafting and Mercantile talents.
+1337	You've unlocked the Hawker talent for your ability to produce and trade various goods through the crafting and Mercantile talents.
+1369	Champion Striker
+1370	Great Striker
+1371	Wise Striker
+1372	Master Striker
+1373	Master Holy Knight
+1374	For becoming adept at Lance Combat and the Holy arts, the path of Holy Knight has opened to you.
+1375	Fledgling Trend
+1376	Novice Trend
+1377	Amateur Trend
+1378	Green Trend
+1379	Naive Trend
+1380	Apprentice Trend
+1381	Senior Trend
+1382	Advanced Trend
+1383	Seasoned Trend
+1384	Skilled Trend
+1385	Expert Trend
+1386	Great Trend
+1387	Champion Trend
+1388	Wise Trend
+1389	Master Trend
+1390	Grandmaster Trend
+1392	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1393	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1394	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1395	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1396	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1397	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1398	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1399	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1400	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1401	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1402	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1403	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1404	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1405	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1406	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1407	The Adventure talent focuses on exploring the world, one campsite or fishing spot at a time.
+1408	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1409	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1410	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1411	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1412	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1413	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1414	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1415	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1416	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1417	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1418	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1419	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1420	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1421	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1422	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1423	The Close Combat talent focuses on rushing boldly into the heat of battle with a stout heart and a solemn spirit. It emphasizes the use of swords, blunt weapons, axes, and shields.
+1424	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1425	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1426	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1427	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1428	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1429	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1430	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1431	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1432	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1433	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1434	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1435	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1436	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1437	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1438	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1439	The Magic talent focuses on the essence and use of Mana. It emphasizes casting powerful magic on enemies from afar and dealing damage over a wide area.
+1440	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1441	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1442	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1443	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1444	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1445	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1446	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1447	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1448	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1449	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1450	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1451	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1452	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1453	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1454	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1455	The Archery talent focuses on using precise ranged attacks to subdue enemies from a distance. It emphasizes fighting with ranged weapons, such as bows and crossbows.
+1456	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1457	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1458	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1459	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1460	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1461	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1462	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1463	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1464	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1465	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1466	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1467	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1468	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1469	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1470	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1471	The Mercantile talent focuses on studying the flow of goods through participation in the Commerce system.
+1472	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals. 
+1473	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1474	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1475	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1476	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1477	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1478	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1479	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1480	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1481	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1482	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1483	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1484	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1485	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1486	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1487	The Battle Alchemy talent focuses on using alchemical elements to manipulate enemies. It emphasizes fighting from afar, using a Cylinder loaded with elemental crystals.
+1488	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1489	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1490	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1491	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1492	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1493	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1494	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1495	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1496	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1497	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1498	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1499	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1500	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1501	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1502	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1503	The Martial Arts talent unites the mind and the body, encouraging strength in both. It emphasizes fighting up close and personal using knuckles.
+1504	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies. 
+1505	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1506	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1507	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1508	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1509	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1510	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1511	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1512	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1513	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1514	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1515	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1516	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1517	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1518	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1519	The Music talent focuses on making the world a more harmonious place through the playing of instruments and the composition of new songs. In combat, it emphasizes granting buffs to allies.
+1520	Fledgling Trend
+1521	Novice Trend
+1522	Amateur Trend
+1523	Green Trend
+1524	Naive Trend
+1525	Apprentice Trend
+1526	Senior Trend
+1527	Advanced Trend
+1528	Seasoned Trend
+1529	Skilled Trend
+1530	Expert Trend
+1531	Great Trend
+1532	Champion Trend
+1533	Wise Trend
+1534	Master Trend
+1535	Grandmaster Trend
+1536	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds. 
+1537	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1538	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1539	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1540	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1541	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1542	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1543	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1544	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1545	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1546	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1547	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1548	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1549	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1550	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1551	The Lance Combat talent focuses on using lances to perform powerful thrusts and charges during battle and to barrel forward, despite the odds.
+1552	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1553	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1554	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1555	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1556	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1557	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1558	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1559	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1560	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1561	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1562	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1563	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1564	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1565	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1566	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1567	The Transmutation talent focuses on studying the construction of objects, using Synthesis and Fragmentation to reshape the world. Golems can even be constructed to aid in battles.
+1568	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1569	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1570	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1571	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1572	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1573	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1574	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1575	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1576	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1577	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1578	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1579	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1580	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1581	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1582	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1583	The Cooking talent focuses on gathering ingredients and using them to cook a variety of tasty dishes that grant buffs.
+1584	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments. 
+1585	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1586	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1587	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1588	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1589	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1590	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1591	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1592	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1593	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1594	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1595	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1596	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1597	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1598	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1599	The Tailoring talent focuses on gathering materials to weave into fabric and craft into gorgeous garments.
+1600	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1601	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1602	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1603	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1604	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1605	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1606	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1607	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1608	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1609	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1610	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1611	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1612	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1613	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1614	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1615	The Carpentry talent focuses on gathering the finest wood to craft into furniture and bows.
+1616	This hidden talent is a result of proficiency in Close Combat and Magic.
+1617	This hidden talent is a result of proficiency in Close Combat and Magic.
+1618	This hidden talent is a result of proficiency in Close Combat and Magic.
+1619	This hidden talent is a result of proficiency in Close Combat and Magic.
+1620	This hidden talent is a result of proficiency in Close Combat and Magic.
+1621	This hidden talent is a result of proficiency in Close Combat and Magic.
+1622	This hidden talent is a result of proficiency in Close Combat and Magic.
+1623	This hidden talent is a result of proficiency in Close Combat and Magic.
+1624	This hidden talent is a result of proficiency in Close Combat and Magic.
+1625	This hidden talent is a result of proficiency in Close Combat and Magic.
+1626	This hidden talent is a result of proficiency in Lance Combat and Magic.
+1627	This hidden talent is a result of proficiency in Lance Combat and Magic.
+1628	This hidden talent is a result of proficiency in Lance Combat and Magic.
+1629	This hidden talent is a result of proficiency in Lance Combat and Magic.
+1630	This hidden talent is a result of proficiency in Lance Combat and Magic.
+1631	This hidden talent is a result of proficiency in Lance Combat and Magic.
+1632	This hidden talent is a result of proficiency in Lance Combat and Magic.
+1633	This hidden talent is a result of proficiency in Lance Combat and Magic.
+1634	This hidden talent is a result of proficiency in Lance Combat and Magic.
+1635	This hidden talent is a result of proficiency in Lance Combat and Magic.
+1636	This hidden talent is a result of proficiency in Close Combat and Archery.
+1637	This hidden talent is a result of proficiency in Close Combat and Archery.
+1638	This hidden talent is a result of proficiency in Close Combat and Archery.
+1639	This hidden talent is a result of proficiency in Close Combat and Archery.
+1640	This hidden talent is a result of proficiency in Close Combat and Archery.
+1641	This hidden talent is a result of proficiency in Close Combat and Archery.
+1642	This hidden talent is a result of proficiency in Close Combat and Archery.
+1643	This hidden talent is a result of proficiency in Close Combat and Archery.
+1644	This hidden talent is a result of proficiency in Close Combat and Archery.
+1645	This hidden talent is a result of proficiency in Close Combat and Archery.
+1646	This hidden talent is a result of proficiency in Magic and Transmutation.
+1647	This hidden talent is a result of proficiency in Magic and Transmutation.
+1648	This hidden talent is a result of proficiency in Magic and Transmutation.
+1649	This hidden talent is a result of proficiency in Magic and Transmutation.
+1650	This hidden talent is a result of proficiency in Magic and Transmutation.
+1651	This hidden talent is a result of proficiency in Magic and Transmutation.
+1652	This hidden talent is a result of proficiency in Magic and Transmutation.
+1653	This hidden talent is a result of proficiency in Magic and Transmutation.
+1654	This hidden talent is a result of proficiency in Magic and Transmutation.
+1655	This hidden talent is a result of proficiency in Magic and Transmutation.
+1656	This hidden talent is a result of proficiency in Close Combat and Lance Combat.
+1657	This hidden talent is a result of proficiency in Close Combat and Lance Combat.
+1658	This hidden talent is a result of proficiency in Close Combat and Lance Combat.
+1659	This hidden talent is a result of proficiency in Close Combat and Lance Combat.
+1660	This hidden talent is a result of proficiency in Close Combat and Lance Combat.
+1661	This hidden talent is a result of proficiency in Close Combat and Lance Combat.
+1662	This hidden talent is a result of proficiency in Close Combat and Lance Combat.
+1663	This hidden talent is a result of proficiency in Close Combat and Lance Combat.
+1664	This hidden talent is a result of proficiency in Close Combat and Lance Combat.
+1665	This hidden talent is a result of proficiency in Close Combat and Lance Combat.
+1666	This hidden talent is a result of proficiency in Martial Arts and Lance Combat. It's focus is on Charge. Develop this hidden talent further by continuing to train Martial Arts and Lance Combat.
+1667	This hidden talent is a result of proficiency in Martial Arts and Lance Combat. It's focus is on Charge. Develop this hidden talent further by continuing to train Martial Arts and Lance Combat.
+1668	This hidden talent is a result of proficiency in Martial Arts and Lance Combat. It's focus is on Charge. Develop this hidden talent further by continuing to train Martial Arts and Lance Combat.
+1669	This hidden talent is a result of proficiency in Martial Arts and Lance Combat. It's focus is on Charge. Develop this hidden talent further by continuing to train Martial Arts and Lance Combat.
+1670	This hidden talent is a result of proficiency in Martial Arts and Lance Combat. It's focus is on Charge. Develop this hidden talent further by continuing to train Martial Arts and Lance Combat.
+1671	This hidden talent is a result of proficiency in Martial Arts and Lance Combat. It's focus is on Charge. Develop this hidden talent further by continuing to train Martial Arts and Lance Combat.
+1672	This hidden talent is a result of proficiency in Martial Arts and Lance Combat. It's focus is on Charge. Develop this hidden talent further by continuing to train Martial Arts and Lance Combat.
+1673	This hidden talent is a result of proficiency in Martial Arts and Lance Combat. It's focus is on Charge. Develop this hidden talent further by continuing to train Martial Arts and Lance Combat.
+1674	This hidden talent is a result of proficiency in Martial Arts and Lance Combat. It's focus is on Charge. Develop this hidden talent further by continuing to train Martial Arts and Lance Combat.
+1686	This hidden talent is a result of proficiency in Magic and the Holy Arts. Develop it further by continuing to train both those talents.
+1687	This hidden talent is a result of proficiency in Smithing, Tailoring, and Carpentry. Your creativity knows no bounds! Develop this hidden talent further by continuing to train Smithing, Tailoring, and Carpentry.
+1688	This hidden talent is a result of proficiency in Smithing, Tailoring, and Carpentry. Your creativity knows no bounds! Develop this hidden talent further by continuing to train Smithing, Tailoring, and Carpentry.
+1689	This hidden talent is a result of proficiency in Smithing, Tailoring, and Carpentry. Your creativity knows no bounds! Develop this hidden talent further by continuing to train Smithing, Tailoring, and Carpentry.
+1697	This hidden talent is a result of proficiency in Close Combat and the Holy Arts. Your attacks are infused with the power of the divine!
+1698	This hidden talent is a result of proficiency in Close Combat and the Holy Arts. Your attacks are infused with the power of the divine!
+1699	This hidden talent is a result of proficiency in Close Combat and the Holy Arts. Your attacks are infused with the power of the divine!
+1700	This hidden talent is a result of proficiency in Close Combat and the Holy Arts. Your attacks are infused with the power of the divine!
+1701	This hidden talent is a result of proficiency in Close Combat and the Holy Arts. Your attacks are infused with the power of the divine!
+1702	This hidden talent is a result of proficiency in Close Combat and the Holy Arts. Your attacks are infused with the power of the divine!
+1703	This hidden talent is a result of proficiency in Close Combat and the Holy Arts. Your attacks are infused with the power of the divine!
+1704	This hidden talent is a result of proficiency in Close Combat and the Holy Arts. Your attacks are infused with the power of the divine!
+1705	This hidden talent is a result of proficiency in Close Combat and the Holy Arts. Your attacks are infused with the power of the divine!
+1706	This hidden talent is a result of proficiency in Close Combat and the Holy Arts. Your attacks are infused with the power of the divine!
+1707	This hidden talent is a result of proficiency in both Martial Arts and the Holy Arts. Your attacks are infused with the power of the divine!
+1708	This hidden talent is a result of proficiency in both Martial Arts and the Holy Arts. Your attacks are infused with the power of the divine!
+1709	This hidden talent is a result of proficiency in both Martial Arts and the Holy Arts. Your attacks are infused with the power of the divine!
+1710	This hidden talent is a result of proficiency in both Martial Arts and the Holy Arts. Your attacks are infused with the power of the divine!
+1711	This hidden talent is a result of proficiency in both Martial Arts and the Holy Arts. Your attacks are infused with the power of the divine!
+1712	This hidden talent is a result of proficiency in both Martial Arts and the Holy Arts. Your attacks are infused with the power of the divine!
+1713	This hidden talent is a result of proficiency in both Martial Arts and the Holy Arts. Your attacks are infused with the power of the divine!
+1714	This hidden talent is a result of proficiency in both Martial Arts and the Holy Arts. Your attacks are infused with the power of the divine!
+1715	This hidden talent is a result of proficiency in both Martial Arts and the Holy Arts. Your attacks are infused with the power of the divine!
+1716	This hidden talent is a result of proficiency in both Martial Arts and the Holy Arts. Your attacks are infused with the power of the divine!
+1737	This hidden talent is a result of proficiency in Music and the Holy Arts. Calm people's spirits by singing a hymn.
+1738	This hidden talent is a result of proficiency in Music and the Holy Arts. Calm people's spirits by singing a hymn.
+1739	This hidden talent is a result of proficiency in Music and the Holy Arts. Calm people's spirits by singing a hymn.
+1740	This hidden talent is a result of proficiency in Music and the Holy Arts. Calm people's spirits by singing a hymn.
+1741	This hidden talent is a result of proficiency in Music and the Holy Arts. Calm people's spirits by singing a hymn.
+1742	This hidden talent is a result of proficiency in Music and the Holy Arts. Calm people's spirits by singing a hymn.
+1743	This hidden talent is a result of proficiency in Music and the Holy Arts. Calm people's spirits by singing a hymn.
+1744	This hidden talent is a result of proficiency in Music and the Holy Arts. Calm people's spirits by singing a hymn.
+1745	This hidden talent is a result of proficiency in Music and the Holy Arts. Calm people's spirits by singing a hymn.
+1746	This hidden talent is a result of proficiency in Music and the Holy Arts. Calm people's spirits by singing a hymn.
+1747	This hidden talent is a result in proficiency in offensive combat abilities. Only those well-versed in Close Combat, Martial Arts, and Magic can unlock this talent.
+1748	This hidden talent is a result in proficiency in offensive combat abilities. Only those well-versed in Close Combat, Martial Arts, and Magic can unlock this talent.
+1749	This hidden talent is a result in proficiency in offensive combat abilities. Only those well-versed in Close Combat, Martial Arts, and Magic can unlock this talent.
+1750	This hidden talent is a result in proficiency in offensive combat abilities. Only those well-versed in Close Combat, Martial Arts, and Magic can unlock this talent.
+1751	This hidden talent is a result in proficiency in offensive combat abilities. Only those well-versed in Close Combat, Martial Arts, and Magic can unlock this talent.
+1752	This hidden talent is a result in proficiency in offensive combat abilities. Only those well-versed in Close Combat, Martial Arts, and Magic can unlock this talent.
+1753	This hidden talent is a result in proficiency in offensive combat abilities. Only those well-versed in Close Combat, Martial Arts, and Magic can unlock this talent.
+1754	This hidden talent is a result in proficiency in offensive combat abilities. Only those well-versed in Close Combat, Martial Arts, and Magic can unlock this talent.
+1755	This hidden talent is a result in proficiency in offensive combat abilities. Only those well-versed in Close Combat, Martial Arts, and Magic can unlock this talent.
+1756	This hidden talent is a result in proficiency in offensive combat abilities. Only those well-versed in Close Combat, Martial Arts, and Magic can unlock this talent.
+1757	Individuals who really enjoy shooting things, with both a bow and a cylinder, can unlock this talent.
+1758	Individuals who really enjoy shooting things, with both a bow and a cylinder, can unlock this talent.
+1759	Individuals who really enjoy shooting things, with both a bow and a cylinder, can unlock this talent.
+1760	Individuals who really enjoy shooting things, with both a bow and a cylinder, can unlock this talent.
+1761	Individuals who really enjoy shooting things, with both a bow and a cylinder, can unlock this talent.
+1762	Individuals who really enjoy shooting things, with both a bow and a cylinder, can unlock this talent.
+1763	Individuals who really enjoy shooting things, with both a bow and a cylinder, can unlock this talent.
+1764	Individuals who really enjoy shooting things, with both a bow and a cylinder, can unlock this talent.
+1765	Individuals who really enjoy shooting things, with both a bow and a cylinder, can unlock this talent.
+1766	Individuals who really enjoy shooting things, with both a bow and a cylinder, can unlock this talent.
+1767	Those who've extensively studied the elements by practicing both Battle Alchemy and Magic can unlock this talent.
+1768	Those who've extensively studied the elements by practicing both Battle Alchemy and Magic can unlock this talent.
+1769	Those who've extensively studied the elements by practicing both Battle Alchemy and Magic can unlock this talent.
+1770	Those who've extensively studied the elements by practicing both Battle Alchemy and Magic can unlock this talent.
+1771	Those who've extensively studied the elements by practicing both Battle Alchemy and Magic can unlock this talent.
+1772	Those who've extensively studied the elements by practicing both Battle Alchemy and Magic can unlock this talent.
+1773	Those who've extensively studied the elements by practicing both Battle Alchemy and Magic can unlock this talent.
+1774	Those who've extensively studied the elements by practicing both Battle Alchemy and Magic can unlock this talent.
+1775	Those who've extensively studied the elements by practicing both Battle Alchemy and Magic can unlock this talent.
+1776	Those who've extensively studied the elements by practicing both Battle Alchemy and Magic can unlock this talent.
+1777	Those with skill in both Martial Arts and Archery have better tracking sense than others.
+1778	Those with skill in both Martial Arts and Archery have better tracking sense than others.
+1779	Those with skill in both Martial Arts and Archery have better tracking sense than others.
+1780	Those with skill in both Martial Arts and Archery have better tracking sense than others.
+1781	Those with skill in both Martial Arts and Archery have better tracking sense than others.
+1782	Those with skill in both Martial Arts and Archery have better tracking sense than others.
+1783	Those with skill in both Martial Arts and Archery have better tracking sense than others.
+1784	Those with skill in both Martial Arts and Archery have better tracking sense than others.
+1785	Those with skill in both Martial Arts and Archery have better tracking sense than others.
+1786	Those with skill in both Martial Arts and Archery have better tracking sense than others.
+1787	This hidden talent is for musically gifted individuals who aren't afraid to march into battle wielding close combat weapons.
+1788	This hidden talent is for musically gifted individuals who aren't afraid to march into battle wielding close combat weapons.
+1789	This hidden talent is for musically gifted individuals who aren't afraid to march into battle wielding close combat weapons.
+1790	This hidden talent is for musically gifted individuals who aren't afraid to march into battle wielding close combat weapons.
+1791	This hidden talent is for musically gifted individuals who aren't afraid to march into battle wielding close combat weapons.
+1792	This hidden talent is for musically gifted individuals who aren't afraid to march into battle wielding close combat weapons.
+1793	This hidden talent is for musically gifted individuals who aren't afraid to march into battle wielding close combat weapons.
+1794	This hidden talent is for musically gifted individuals who aren't afraid to march into battle wielding close combat weapons.
+1795	This hidden talent is for musically gifted individuals who aren't afraid to march into battle wielding close combat weapons.
+1796	This hidden talent is for musically gifted individuals who aren't afraid to march into battle wielding close combat weapons.
+1797	No one can dispute it. You're adept in every field!
+1818	This hidden talent is a result of proficiency in Archery and Carpentry. Nothing beats wielding a bow that you carved and whittled with your own two hands.
+1819	This hidden talent is a result of proficiency in Archery and Carpentry. Nothing beats wielding a bow that you carved and whittled with your own two hands.
+1820	This hidden talent is a result of proficiency in Archery and Carpentry. Nothing beats wielding a bow that you carved and whittled with your own two hands.
+1821	This hidden talent is a result of proficiency in Archery and Carpentry. Nothing beats wielding a bow that you carved and whittled with your own two hands.
+1828	This hidden talent can only be used by individuals who are well-versed in every type of melee weapon--close combat weapons, lances, and knuckles.
+1829	This hidden talent can only be used by individuals who are well-versed in every type of melee weapon--close combat weapons, lances, and knuckles.
+1830	This hidden talent can only be used by individuals who are well-versed in every type of melee weapon--close combat weapons, lances, and knuckles.
+1831	This hidden talent can only be used by individuals who are well-versed in every type of melee weapon--close combat weapons, lances, and knuckles.
+1838	This hidden talent is a result of proficiency in Music, Adventure, and Cooking.
+1839	This hidden talent is a result of proficiency in Music, Adventure, and Cooking.
+1840	This hidden talent is a result of proficiency in Music, Adventure, and Cooking.
+1841	This hidden talent is a result of proficiency in Music, Adventure, and Cooking.
+1848	This hidden talent is for individuals who wander the world, buying and selling goods.
+1849	This hidden talent is for individuals who wander the world, buying and selling goods.
+1850	This hidden talent is for individuals who wander the world, buying and selling goods.
+1851	This hidden talent is for individuals who wander the world, buying and selling goods.
+1858	This hidden talent is a result of proficiency in Cooking, Transmutation, and Medicine. And don't worry about the calories in that HP Potion... It's good for you!
+1859	This hidden talent is a result of proficiency in Cooking, Transmutation, and Medicine. And don't worry about the calories in that HP Potion... It's good for you!
+1860	This hidden talent is a result of proficiency in Cooking, Transmutation, and Medicine. And don't worry about the calories in that HP Potion... It's good for you!
+1861	This hidden talent is a result of proficiency in Cooking, Transmutation, and Medicine. And don't worry about the calories in that HP Potion... It's good for you!
+1868	This hidden talent is a result of proficiency in Transmutation and Medicine.
+1869	This hidden talent is a result of proficiency in Transmutation and Medicine.
+1870	This hidden talent is a result of proficiency in Transmutation and Medicine.
+1871	This hidden talent is a result of proficiency in Transmutation and Medicine.
+1872	Champion Bowyer
+1873	Great Bowyer
+1874	Wise Bowyer
+1875	Master Bowyer
+1876	Champion Artiste
+1877	Great Artiste
+1878	Wise Artiste
+1879	Master Artiste
+1880	Champion Cheerleader
+1881	Great Cheerleader
+1882	Wise Cheerleader
+1883	Master Cheerleader
+1884	For honing your aesthetic sensibilities through fashion design, music, and wood crafting, you're not just an artist, you're an artiste!
+1885	For honing your aesthetic sensibilities through fashion design, music, and wood crafting, you're not just an artist, you're an artiste!
+1886	For honing your aesthetic sensibilities through fashion design, music, and wood crafting, you're not just an artist, you're an artiste!
+1887	For honing your aesthetic sensibilities through fashion design, music, and wood crafting, you're not just an artist, you're an artiste!
+1888	For developing your skills in the Holy Arts and Music, you've discovered a hidden talent, one that focuses on lifting spirits and inspiring others.
+1889	For developing your skills in the Holy Arts and Music, you've discovered a hidden talent, one that focuses on lifting spirits and inspiring others.
+1890	For developing your skills in the Holy Arts and Music, you've discovered a hidden talent, one that focuses on lifting spirits and inspiring others.
+1891	For developing your skills in the Holy Arts and Music, you've discovered a hidden talent, one that focuses on lifting spirits and inspiring others.
+1892	You've discovered the hidden Vagabond talent for wandering the world as you honed your close combat skills. This hidden talent can be developed by continuing to train in Close Combat and Adventure.
+1893	You've discovered the hidden Vagabond talent for wandering the world as you honed your close combat skills. This hidden talent can be developed by continuing to train in Close Combat and Adventure.
+1894	You've discovered the hidden Vagabond talent for wandering the world as you honed your close combat skills. This hidden talent can be developed by continuing to train in Close Combat and Adventure.
+1895	You've discovered the hidden Vagabond talent for wandering the world as you honed your close combat skills. This hidden talent can be developed by continuing to train in Close Combat and Adventure.
+1896	You've discovered the hidden Vagabond talent for wandering the world as you honed your close combat skills. This hidden talent can be developed by continuing to train in Close Combat and Adventure.
+1897	You've discovered the hidden Vagabond talent for wandering the world as you honed your close combat skills. This hidden talent can be developed by continuing to train in Close Combat and Adventure.
+1898	You've discovered the hidden Vagabond talent for wandering the world as you honed your close combat skills. This hidden talent can be developed by continuing to train in Close Combat and Adventure.
+1899	You've discovered the hidden Vagabond talent for wandering the world as you honed your close combat skills. This hidden talent can be developed by continuing to train in Close Combat and Adventure.
+1900	You've discovered the hidden Vagabond talent for wandering the world as you honed your close combat skills. This hidden talent can be developed by continuing to train in Close Combat and Adventure.
+1901	You've discovered the hidden Vagabond talent for wandering the world as you honed your close combat skills.
+1902	You've discovered the hidden Doctor talent for your proficiency in Medicine and Mercantile. Develop if further by continuing to train both those talents.
+1903	You've discovered the hidden Doctor talent for your proficiency in Medicine and Mercantile. Develop if further by continuing to train both those talents.
+1904	You've discovered the hidden Doctor talent for your proficiency in Medicine and Mercantile. Develop if further by continuing to train both those talents.
+1905	You've discovered the hidden Doctor talent for your proficiency in Medicine and Mercantile.
+1906	You've traveled far and wide, tasting the different foods the world has to offer. You're palate is quite honed, but you can still refine it further.
+1907	You've traveled far and wide, tasting the different foods the world has to offer. You're palate is quite honed, but you can still refine it further.
+1908	You've traveled far and wide, tasting the different foods the world has to offer. You're palate is quite honed, but you can still refine it further.
+1910	You've discovered this hidden talent for devoting yourself to domestic crafts, like cooking and sewing.
+1911	You've discovered this hidden talent for devoting yourself to domestic crafts, like cooking and sewing.
+1912	You've discovered this hidden talent for devoting yourself to domestic crafts, like cooking and sewing.
+1913	You've discovered this hidden talent for devoting yourself to domestic crafts, like cooking and sewing.
+1914	By studying Cooking and Martial Arts, you've learned the secret to...food fighting!
+1915	By studying Cooking and Martial Arts, you've learned the secret to...food fighting!
+1916	By studying Cooking and Martial Arts, you've learned the secret to...food fighting!
+1917	By studying Cooking and Martial Arts, you've learned the secret to...food fighting!
+1918	You wander... You sing... You've unlocked the Wandering Bard talent!
+1919	You wander... You sing... You've unlocked the Wandering Bard talent!
+1920	You wander... You sing... You've unlocked the Wandering Bard talent!
+1921	You wander... You sing... You've unlocked the Wandering Bard talent!
+1922	You've discovered a hidden talent for wandering the world, practicing healing and medicine, constructing buildings, and opening new trade routes.
+1923	You've discovered a hidden talent for wandering the world, practicing healing and medicine, constructing buildings, and opening new trade routes.
+1924	You've discovered a hidden talent for wandering the world, practicing healing and medicine, constructing buildings, and opening new trade routes.
+1925	You've discovered a hidden talent for wandering the world, practicing healing and medicine, constructing buildings, and opening new trade routes.
+1926	You've discovered the Miner talent for gathering ore as you wandered the world.
+1927	You've discovered the Miner talent for gathering ore as you wandered the world.
+1928	You've discovered the Miner talent for gathering ore as you wandered the world.
+1929	You've discovered the Miner talent for gathering ore as you wandered the world.
+1930	You've discovered the Lumberjack talent for chopping wood from trees as you wandered the world.
+1931	You've discovered the Lumberjack talent for chopping wood from trees as you wandered the world.
+1932	You've discovered the Lumberjack talent for chopping wood from trees as you wandered the world.
+1933	You've discovered the Lumberjack talent for chopping wood from trees as you wandered the world.
+1934	This hidden talent is a result of proficiency in Martial Arts and Lance Combat. It's focus is on Charge.
+1935	This hidden talent is a result of proficiency in Smithing, Tailoring, and Carpentry. Your creativity knows no bounds!
+1936	You've traveled far and wide, tasting the different foods the world has to offer. Your palate is unparalleled!
+1937	This hidden talent is available to those who are adept at using ALL sorts of melee weapons, including Lumber Axes.
+1938	This hidden talent is available to those who are adept at using ALL sorts of melee weapons, including Lumber Axes.
+1939	This hidden talent is available to those who are adept at using ALL sorts of melee weapons, including Lumber Axes.
+1940	This hidden talent is available to those who are adept at using ALL sorts of melee weapons, including Lumber Axes.
+1941	This hidden talent is available to those who are adept at using ALL sorts of melee weapons, including Lumber Axes.
+1942	This hidden talent is available to those who are adept at using ALL sorts of melee weapons, including Lumber Axes.
+1943	This hidden talent is available to those who are adept at using ALL sorts of melee weapons, including Lumber Axes.
+1944	This hidden talent is available to those who are adept at using ALL sorts of melee weapons, including Lumber Axes.
+1945	This hidden talent is available to those who are adept at using ALL sorts of melee weapons, including Lumber Axes.
+1946	This hidden talent is available to those who are adept at using ALL sorts of melee weapons, including Lumber Axes.
+1947	For developing your skills in the Holy Arts and Music as you wandered the world, you've discovered a hidden talent, one that focuses on lifting spirits and inspiring others.
+1948	For developing your skills in the Holy Arts and Music as you wandered the world, you've discovered a hidden talent, one that focuses on lifting spirits and inspiring others.
+1949	For developing your skills in the Holy Arts and Music as you wandered the world, you've discovered a hidden talent, one that focuses on lifting spirits and inspiring others.
+1950	For developing your skills in the Holy Arts and Music as you wandered the world, you've discovered a hidden talent, one that focuses on lifting spirits and inspiring others.
+1951	Fledgling Puppeteer
+1952	Novice Puppeteer
+1953	Amateur Puppeteer
+1954	Green Puppeteer
+1955	Naive Puppeteer
+1956	Apprentice Puppeteer
+1957	Senior Puppeteer
+1958	Advanced Puppeteer
+1959	Seasoned Puppeteer
+1960	Skilled Puppeteer
+1961	Expert Puppeteer
+1962	Great Puppeteer
+1963	Champion Puppeteer
+1964	Wise Puppeteer
+1965	Master Puppeteer
+1966	Grandmaster Puppeteer
+1967	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1968	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1969	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1970	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1971	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1972	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1973	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1974	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1975	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1976	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1977	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1978	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1979	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1980	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1981	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1982	The Puppetry talent allows the puppeteer and puppet act as one to overcome any challenge. It emphasizes fighting with Pierrot and Colossus Marionettes to defeat the enemy.
+1983	Amateur Idol
+1984	Green Idol
+1985	Naive Idol
+1986	Apprentice Idol
+1987	Senior Idol
+1988	Advanced Idol
+1989	Seasoned Idol
+1990	Skilled Idol
+1991	Expert Idol
+1992	Great Idol
+1993	Champion Idol
+1994	Wise Idol
+1995	Master Idol
+1996	Apprentice Puppetmancer
+1997	Senior Puppetmancer
+1998	Advanced Puppetmancer
+1999	Seasoned Puppetmancer
+2000	Skilled Puppetmancer
+2001	Expert Puppetmancer
+2002	Great Puppetmancer
+2003	Champion Puppetmancer
+2004	Wise Puppetmancer
+2005	Master Puppetmancer
+2006	Senior Costume Designer
+2007	Advanced Costume Designer
+2008	Seasoned Costume Designer
+2009	Skilled Costume Designer
+2010	Expert Costume Designer
+2011	Great Costume Designer
+2012	Champion Costume Designer
+2013	Wise Costume Designer
+2014	Master Costume Designer
+2015	Apprentice Toy Maker
+2016	Senior Toy Maker
+2017	Advanced Toy Maker
+2018	Seasoned Toy Maker
+2019	Skilled Toy Maker
+2020	Expert Toy Maker
+2021	Great Toy Maker
+2022	Champion Toy Maker
+2023	Wise Toy Maker
+2024	Master Toy Maker
+2025	Green Joy Spreader
+2026	Naive Joy Spreader
+2027	Apprentice Joy Spreader
+2028	Senior Joy Spreader
+2029	Advanced Joy Spreader
+2030	Seasoned Joy Spreader
+2031	Skilled Joy Spreader
+2032	Expert Joy Spreader
+2033	Great Joy Spreader
+2034	Champion Joy Spreader
+2035	Wise Joy Spreader
+2036	Master Joy Spreader
+2037	Green Trouper
+2038	Naive Trouper
+2039	Apprentice Trouper
+2040	Senior Trouper
+2041	Advanced Trouper
+2042	Seasoned Trouper
+2043	Skilled Trouper
+2044	Expert Trouper
+2045	Great Trouper
+2046	Champion Trouper
+2047	Wise Trouper
+2048	Master Trouper
+2049	Your irresistible charm and love of music have made you an idol. Do you sign autographs?
+2050	Your irresistible charm and love of music have made you an idol. Do you sign autographs?
+2051	Your irresistible charm and love of music have made you an idol. Do you sign autographs?
+2052	Your irresistible charm and love of music have made you an idol. Do you sign autographs?
+2053	Your irresistible charm and love of music have made you an idol. Do you sign autographs?
+2054	Your irresistible charm and love of music have made you an idol. Do you sign autographs?
+2055	Your irresistible charm and love of music have made you an idol. Do you sign autographs?
+2056	Your irresistible charm and love of music have made you an idol. Do you sign autographs?
+2057	Your irresistible charm and love of music have made you an idol. Do you sign autographs?
+2058	Your irresistible charm and love of music have made you an idol. Do you sign autographs?
+2059	Your irresistible charm and love of music have made you an idol. Do you sign autographs?
+2060	Your irresistible charm and love of music have made you an idol. Do you sign autographs?
+2061	Your irresistible charm and love of music have made you an idol. Do you sign autographs?
+2062	People look down on you because you surround yourself with toys. But who will be laughing when you crush them with your special, one-of-a-kind transmuted puppets?
+2063	People look down on you because you surround yourself with toys. But who will be laughing when you crush them with your special, one-of-a-kind transmuted puppets?
+2064	People look down on you because you surround yourself with toys. But who will be laughing when you crush them with your special, one-of-a-kind transmuted puppets?
+2065	People look down on you because you surround yourself with toys. But who will be laughing when you crush them with your special, one-of-a-kind transmuted puppets?
+2066	People look down on you because you surround yourself with toys. But who will be laughing when you crush them with your special, one-of-a-kind transmuted puppets?
+2067	People look down on you because you surround yourself with toys. But who will be laughing when you crush them with your special, one-of-a-kind transmuted puppets?
+2068	People look down on you because you surround yourself with toys. But who will be laughing when you crush them with your special, one-of-a-kind transmuted puppets?
+2069	People look down on you because you surround yourself with toys. But who will be laughing when you crush them with your special, one-of-a-kind transmuted puppets?
+2070	People look down on you because you surround yourself with toys. But who will be laughing when you crush them with your special, one-of-a-kind transmuted puppets?
+2071	People look down on you because you surround yourself with toys. But who will be laughing when you crush them with your special, one-of-a-kind transmuted puppets?
+2072	Your puppets are on the cutting edge of fashion!
+2073	Your puppets are on the cutting edge of fashion!
+2074	Your puppets are on the cutting edge of fashion!
+2075	Your puppets are on the cutting edge of fashion!
+2076	Your puppets are on the cutting edge of fashion!
+2077	Your puppets are on the cutting edge of fashion!
+2078	Your puppets are on the cutting edge of fashion!
+2079	Your puppets are on the cutting edge of fashion!
+2080	Your puppets are on the cutting edge of fashion!
+2081	Your allies may try to rush you, but you know the secret to crafting a good puppet: take your time and do it right the first time.
+2082	Your allies may try to rush you, but you know the secret to crafting a good puppet: take your time and do it right the first time.
+2083	Your allies may try to rush you, but you know the secret to crafting a good puppet: take your time and do it right the first time.
+2084	Your allies may try to rush you, but you know the secret to crafting a good puppet: take your time and do it right the first time.
+2085	Your allies may try to rush you, but you know the secret to crafting a good puppet: take your time and do it right the first time.
+2086	Your allies may try to rush you, but you know the secret to crafting a good puppet: take your time and do it right the first time.
+2087	Your allies may try to rush you, but you know the secret to crafting a good puppet: take your time and do it right the first time.
+2088	Your allies may try to rush you, but you know the secret to crafting a good puppet: take your time and do it right the first time.
+2089	Your allies may try to rush you, but you know the secret to crafting a good puppet: take your time and do it right the first time.
+2090	Your allies may try to rush you, but you know the secret to crafting a good puppet: take your time and do it right the first time.
+2091	Joy follows you wherever you go. You are the light that shines in the darkness of the world.
+2092	Joy follows you wherever you go. You are the light that shines in the darkness of the world.
+2093	Joy follows you wherever you go. You are the light that shines in the darkness of the world.
+2094	Joy follows you wherever you go. You are the light that shines in the darkness of the world.
+2095	Joy follows you wherever you go. You are the light that shines in the darkness of the world.
+2096	Joy follows you wherever you go. You are the light that shines in the darkness of the world.
+2097	Joy follows you wherever you go. You are the light that shines in the darkness of the world.
+2098	Joy follows you wherever you go. You are the light that shines in the darkness of the world.
+2099	Joy follows you wherever you go. You are the light that shines in the darkness of the world.
+2100	Joy follows you wherever you go. You are the light that shines in the darkness of the world.
+2101	Joy follows you wherever you go. You are the light that shines in the darkness of the world.
+2102	Joy follows you wherever you go. You are the light that shines in the darkness of the world.
+2103	They told you you'd amount to nothing. But look at you now, traveling the world and showing off your art!
+2104	They told you you'd amount to nothing. But look at you now, traveling the world and showing off your art!
+2105	They told you you'd amount to nothing. But look at you now, traveling the world and showing off your art!
+2106	They told you you'd amount to nothing. But look at you now, traveling the world and showing off your art!
+2107	They told you you'd amount to nothing. But look at you now, traveling the world and showing off your art!
+2108	They told you you'd amount to nothing. But look at you now, traveling the world and showing off your art!
+2109	They told you you'd amount to nothing. But look at you now, traveling the world and showing off your art!
+2110	They told you you'd amount to nothing. But look at you now, traveling the world and showing off your art!
+2111	They told you you'd amount to nothing. But look at you now, traveling the world and showing off your art!
+2112	They told you you'd amount to nothing. But look at you now, traveling the world and showing off your art!
+2113	They told you you'd amount to nothing. But look at you now, traveling the world and showing off your art!
+2114	They told you you'd amount to nothing. But look at you now, traveling the world and showing off your art!
+2115	Apprentice Costume Designer
+2116	Your puppets are on the cutting edge of fashion!
+2117	Apprentice Trapper
+2118	Senior Trapper
+2119	Advanced Trapper
+2120	Seasoned Trapper
+2121	Skilled Trapper
+2122	Expert Trapper
+2123	Great Trapper
+2124	Champion Trapper
+2125	Wise Trapper
+2126	Master Trapper
+2127	Weaving and Handicraft don't seem like formidable skills...until you find yourself in the Trapper's snare.
+2128	Weaving and Handicraft don't seem like formidable skills...until you find yourself in the Trapper's snare.
+2129	Weaving and Handicraft don't seem like formidable skills...until you find yourself in the Trapper's snare.
+2130	Weaving and Handicraft don't seem like formidable skills...until you find yourself in the Trapper's snare.
+2131	Weaving and Handicraft don't seem like formidable skills...until you find yourself in the Trapper's snare.
+2132	Weaving and Handicraft don't seem like formidable skills...until you find yourself in the Trapper's snare.
+2133	Weaving and Handicraft don't seem like formidable skills...until you find yourself in the Trapper's snare.
+2134	Weaving and Handicraft don't seem like formidable skills...until you find yourself in the Trapper's snare.
+2135	Weaving and Handicraft don't seem like formidable skills...until you find yourself in the Trapper's snare.
+2136	Weaving and Handicraft don't seem like formidable skills...until you find yourself in the Trapper's snare.
+2137	Apprentice Researcher
+2138	Senior Researcher
+2139	Advanced Researcher
+2140	Seasoned Researcher
+2141	Skilled Researcher
+2142	Expert Researcher
+2143	Great Researcher
+2144	Champion Researcher
+2145	Wise Researcher
+2146	Master Researcher
+2157	After arduous study, you've attained recognition as a top Researcher.
+2158	After arduous study, you've attained recognition as a top Researcher.
+2159	After arduous study, you've attained recognition as a top Researcher.
+2160	After arduous study, you've attained recognition as a top Researcher.
+2161	After arduous study, you've attained recognition as a top Researcher.
+2162	After arduous study, you've attained recognition as a top Researcher.
+2163	After arduous study, you've attained recognition as a top Researcher.
+2164	After arduous study, you've attained recognition as a top Researcher.
+2165	After arduous study, you've attained recognition as a top Researcher.
+2166	After arduous study, you've attained recognition as a top Researcher.
+2183	Fledgling Gunslinger
+2184	Novice Gunslinger
+2185	Amateur Gunslinger
+2186	Green Gunslinger
+2187	Naive Gunslinger
+2188	Apprentice Gunslinger
+2189	Senior Gunslinger
+2190	Advanced Gunslinger
+2191	Seasoned Gunslinger
+2192	Skilled Gunslinger
+2193	Expert Gunslinger
+2194	Great Gunslinger
+2195	Champion Gunslinger
+2196	Wise Gunslinger
+2197	Master Gunslinger
+2198	Grandmaster Gunslinger
+2215	This hidden talent is a result of proficiency in Close Combat and Magic.
+2231	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2232	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2233	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2234	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2235	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2236	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2237	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2238	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2239	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2240	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2241	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2242	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2243	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2244	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2245	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2246	The Gunslinger talent takes down enemies using Mana to transform Shyllien Mana Bullets into powerful weapons.\nThe Gunslinger talent exhibits devastating power by using two Magic weapons that are made of Hillwen Ore.
+2247	Druid
+2248	The great sage who achieved spiritual enlightenment.
+2251	Soul Star
+2252	The Soul Star is a master of music. Even without an instrument, her songs can melt the coldest of hearts.
+2253	Vates
+2254	The Vates uses the power of darkness to punish the people who are corrupted by the very same power.
+2255	Culinary Artist
+2256	A wizard of cooking, who brings out the absolute best in all dishes. A true Culinary Artist.
+2257	Treasure Hunter
+2258	The Treasure Hunter is a wandering hero; the explorer of mysteries, conqueror of dreams, and discoverer of wonders.
+2259	Fledgling Ninja
+2260	Novice Ninja
+2261	Amateur Ninja
+2262	Green Ninja
+2263	Naive Ninja
+2264	Apprentice Ninja
+2265	Senior Ninja
+2266	Advanced Ninja
+2267	Seasoned Ninja
+2268	Skilled Ninja
+2269	Expert Ninja
+2270	Great Ninja
+2271	Champion Ninja
+2272	Wise Ninja
+2273	Master Ninja
+2274	Grandmaster Ninja
+2275	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets. 
+2276	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2277	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2278	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2279	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2280	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2281	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2282	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2283	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2284	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2285	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2286	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2287	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2288	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2289	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2290	The Ninja talent focuses on confusing enemies with a mixture of ranged attacks, ancient magic, and hidden gadgets.
+2291	Fledgling Chain Slasher
+2292	Novice Chain Slasher
+2293	Amateur Slasher
+2294	Green Chain Slasher
+2295	Naive Chain Slasher
+2296	Apprentice Chain Slasher
+2297	Senior Chain Slasher
+2298	Advanced Chain Slasher
+2299	Seasoned Chain Slasher
+2300	Skilled Chain Slasher
+2301	Expert Chain Slasher
+2302	Great Chain Slasher
+2303	Champion Chain Slasher
+2304	Wise Chain Slasher
+2305	Master Chain Slasher
+2306	Chain Slash Grandmaster
+2307	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2308	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2309	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2310	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2311	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2312	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2313	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2314	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2315	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2316	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2317	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2318	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2319	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2320	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2321	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2322	The Chain Slash Talent uses the mysterious metaphysical powers of Dorcha and Bachram to control an epic Chain Blade weapon.\nSince these powers build with each attack, you must strategically decide when to consume them to be at your most devastating.
+2323	Apprentice Black Knight
+2324	Senior Black Knight
+2325	Advanced Black Knight
+2326	Seasoned Black Knight
+2327	Skilled Black Knight
+2328	Expert Black Knight
+2329	Great Black Knight
+2330	Champion Black Knight
+2331	Wise Black Knight
+2332	Master Black Knight
+2333	Apprentice Black Magician
+2334	Senior Black Magician
+2335	Advanced Black Magician
+2336	Seasoned Black Magician
+2337	Skilled Black Magician
+2338	Expert Black Magician
+2339	Great Black Magician
+2340	Champion Black Magician
+2341	Wise Black Magician
+2342	Master Black Magician
+2343	Apprentice Ringmaster
+2344	Senior Ringmaster
+2345	Advanced Ringmaster
+2346	Seasoned Ringmaster
+2347	Skilled Ringmaster
+2348	Expert Ringmaster
+2349	Great Ringmaster
+2350	Champion Ringmaster
+2351	Wise Ringmaster
+2352	Master Ringmaster
+2353	Apprentice Ranged Weaponeer
+2354	Senior Ranged Weaponeer
+2355	Advanced Ranged Weaponeer
+2356	Seasoned Ranged Weaponeer
+2357	Skilled Ranged Weaponeer
+2358	Expert Ranged Weaponeer
+2359	Great Ranged Weaponeer
+2360	Champion Ranged Weaponeer
+2361	Wise Ranged Weaponeer
+2362	Master Ranged Weaponeer
+2363	Great Trader
+2364	Champion Trader
+2365	Wise Trader
+2366	Master Trader
+2367	Great Friar
+2368	Champion Friar
+2369	Wise Friar
+2370	Master Friar
+2371	Great Occultist
+2372	Champion Occultist
+2373	Wise Occultist
+2374	Master Occultist
+2375	Great Assassin
+2376	Champion Assassin
+2377	Wise Assassin
+2378	Master Assassin
+2379	Great Gaoler
+2380	Champion Gaoler
+2381	Wise Gaoler
+2382	Master Gaoler
+2383	This hidden talent is a result of proficiency in Lance Combat and Chain Slash. You are a master with not only the medieval weapons of old, but also the most modern, cutting-edge weapon ever seen in Erinn.
+2384	This hidden talent is a result of proficiency in Lance Combat and Chain Slash. You are a master with not only the medieval weapons of old, but also the most modern, cutting-edge weapon ever seen in Erinn.
+2385	This hidden talent is a result of proficiency in Lance Combat and Chain Slash. You are a master with not only the medieval weapons of old, but also the most modern, cutting-edge weapon ever seen in Erinn.
+2386	This hidden talent is a result of proficiency in Lance Combat and Chain Slash. You are a master with not only the medieval weapons of old, but also the most modern, cutting-edge weapon ever seen in Erinn.
+2387	This hidden talent is a result of proficiency in Lance Combat and Chain Slash. You are a master with not only the medieval weapons of old, but also the most modern, cutting-edge weapon ever seen in Erinn.
+2388	This hidden talent is a result of proficiency in Lance Combat and Chain Slash. You are a master with not only the medieval weapons of old, but also the most modern, cutting-edge weapon ever seen in Erinn.
+2389	This hidden talent is a result of proficiency in Lance Combat and Chain Slash. You are a master with not only the medieval weapons of old, but also the most modern, cutting-edge weapon ever seen in Erinn.
+2390	This hidden talent is a result of proficiency in Lance Combat and Chain Slash. You are a master with not only the medieval weapons of old, but also the most modern, cutting-edge weapon ever seen in Erinn.
+2391	This hidden talent is a result of proficiency in Lance Combat and Chain Slash. You are a master with not only the medieval weapons of old, but also the most modern, cutting-edge weapon ever seen in Erinn.
+2392	This hidden talent is a result of proficiency in Lance Combat and Chain Slash. You are a master with not only the medieval weapons of old, but also the most modern, cutting-edge weapon ever seen in Erinn.
+2393	This hidden talent is a result of proficiency in Magic and Chain Slash. You bind your enemies with chains even as you keep them spellbound.
+2394	This hidden talent is a result of proficiency in Magic and Chain Slash. You bind your enemies with chains even as you keep them spellbound.
+2395	This hidden talent is a result of proficiency in Magic and Chain Slash. You bind your enemies with chains even as you keep them spellbound.
+2396	This hidden talent is a result of proficiency in Magic and Chain Slash. You bind your enemies with chains even as you keep them spellbound.
+2397	This hidden talent is a result of proficiency in Magic and Chain Slash. You bind your enemies with chains even as you keep them spellbound.
+2398	This hidden talent is a result of proficiency in Magic and Chain Slash. You bind your enemies with chains even as you keep them spellbound.
+2399	This hidden talent is a result of proficiency in Magic and Chain Slash. You bind your enemies with chains even as you keep them spellbound.
+2400	This hidden talent is a result of proficiency in Magic and Chain Slash. You bind your enemies with chains even as you keep them spellbound.
+2401	This hidden talent is a result of proficiency in Magic and Chain Slash. You bind your enemies with chains even as you keep them spellbound.
+2402	This hidden talent is a result of proficiency in Magic and Chain Slash. You bind your enemies with chains even as you keep them spellbound.
+2403	This hidden talent is a result of proficiency in Chain Slash and Adventure. After traveling the world and meeting all of its animals, you learned how to train them with positive reinforcement only, and no whips! Of course, you still like to crack your Chain Blade like a whip, just for show.
+2404	This hidden talent is a result of proficiency in Chain Slash and Adventure. After traveling the world and meeting all of its animals, you learned how to train them with positive reinforcement only, and no whips! Of course, you still like to crack your Chain Blade like a whip, just for show.
+2405	This hidden talent is a result of proficiency in Chain Slash and Adventure. After traveling the world and meeting all of its animals, you learned how to train them with positive reinforcement only, and no whips! Of course, you still like to crack your Chain Blade like a whip, just for show.
+2406	This hidden talent is a result of proficiency in Chain Slash and Adventure. After traveling the world and meeting all of its animals, you learned how to train them with positive reinforcement only, and no whips! Of course, you still like to crack your Chain Blade like a whip, just for show.
+2407	This hidden talent is a result of proficiency in Chain Slash and Adventure. After traveling the world and meeting all of its animals, you learned how to train them with positive reinforcement only, and no whips! Of course, you still like to crack your Chain Blade like a whip, just for show.
+2408	This hidden talent is a result of proficiency in Chain Slash and Adventure. After traveling the world and meeting all of its animals, you learned how to train them with positive reinforcement only, and no whips! Of course, you still like to crack your Chain Blade like a whip, just for show.
+2409	This hidden talent is a result of proficiency in Chain Slash and Adventure. After traveling the world and meeting all of its animals, you learned how to train them with positive reinforcement only, and no whips! Of course, you still like to crack your Chain Blade like a whip, just for show.
+2410	This hidden talent is a result of proficiency in Chain Slash and Adventure. After traveling the world and meeting all of its animals, you learned how to train them with positive reinforcement only, and no whips! Of course, you still like to crack your Chain Blade like a whip, just for show.
+2411	This hidden talent is a result of proficiency in Chain Slash and Adventure. After traveling the world and meeting all of its animals, you learned how to train them with positive reinforcement only, and no whips! Of course, you still like to crack your Chain Blade like a whip, just for show.
+2412	This hidden talent is a result of proficiency in Chain Slash and Adventure. After traveling the world and meeting all of its animals, you learned how to train them with positive reinforcement only, and no whips! Of course, you still like to crack your Chain Blade like a whip, just for show.
+2413	This hidden talent is a result of proficiency in Chain Slash, Dual Gun, and Archery. Whips, knives, bows and guns... You've got every weapon covered.
+2414	This hidden talent is a result of proficiency in Chain Slash, Dual Gun, and Archery. Whips, knives, bows and guns... You've got every weapon covered.
+2415	This hidden talent is a result of proficiency in Chain Slash, Dual Gun, and Archery. Whips, knives, bows and guns... You've got every weapon covered.
+2416	This hidden talent is a result of proficiency in Chain Slash, Dual Gun, and Archery. Whips, knives, bows and guns... You've got every weapon covered.
+2417	This hidden talent is a result of proficiency in Chain Slash, Dual Gun, and Archery. Whips, knives, bows and guns... You've got every weapon covered.
+2418	This hidden talent is a result of proficiency in Chain Slash, Dual Gun, and Archery. Whips, knives, bows and guns... You've got every weapon covered.
+2419	This hidden talent is a result of proficiency in Chain Slash, Dual Gun, and Archery. Whips, knives, bows and guns... You've got every weapon covered.
+2420	This hidden talent is a result of proficiency in Chain Slash, Dual Gun, and Archery. Whips, knives, bows and guns... You've got every weapon covered.
+2421	This hidden talent is a result of proficiency in Chain Slash, Dual Gun, and Archery. Whips, knives, bows and guns... You've got every weapon covered.
+2422	This hidden talent is a result of proficiency in Chain Slash, Dual Gun, and Archery. Whips, knives, bows and guns... You've got every weapon covered.
+2423	This hidden talent is a result of proficiency in Chain Slash and Mercantile. You are a sharp-minded negotiator in all things business, able to strike deals as quickly as your Chain Blade strikes your enemies.
+2424	This hidden talent is a result of proficiency in Chain Slash and Mercantile. You are a sharp-minded negotiator in all things business, able to strike deals as quickly as your Chain Blade strikes your enemies.
+2425	This hidden talent is a result of proficiency in Chain Slash and Mercantile. You are a sharp-minded negotiator in all things business, able to strike deals as quickly as your Chain Blade strikes your enemies.
+2426	This hidden talent is a result of proficiency in Chain Slash and Mercantile. You are a sharp-minded negotiator in all things business, able to strike deals as quickly as your Chain Blade strikes your enemies.
+2427	This hidden talent is a result of proficiency in Chain Slash, Holy Arts, and Cooking. You are a spiritual person who believes that divine power lies in the giving and taking of life. So, you have imbued your culinary skills and fighting prowess with the might of the sacrosanct.
+2428	This hidden talent is a result of proficiency in Chain Slash, Holy Arts, and Cooking. You are a spiritual person who believes that divine power lies in the giving and taking of life. So, you have imbued your culinary skills and fighting prowess with the might of the sacrosanct.
+2429	This hidden talent is a result of proficiency in Chain Slash, Holy Arts, and Cooking. You are a spiritual person who believes that divine power lies in the giving and taking of life. So, you have imbued your culinary skills and fighting prowess with the might of the sacrosanct.
+2430	This hidden talent is a result of proficiency in Chain Slash, Holy Arts, and Cooking. You are a spiritual person who believes that divine power lies in the giving and taking of life. So, you have imbued your culinary skills and fighting prowess with the might of the sacrosanct.
+2431	This hidden talent is a result of proficiency in Chain Slash, Puppetry, and Transmutation. You have discovered the secret to unlocking and controlling the souls deep inside dolls and toys. Now, you are an occult puppeteer who controls these once-empty vessels to achieve your own dark ends.
+2432	This hidden talent is a result of proficiency in Chain Slash, Puppetry, and Transmutation. You have discovered the secret to unlocking and controlling the souls deep inside dolls and toys. Now, you are an occult puppeteer who controls these once-empty vessels to achieve your own dark ends.
+2433	This hidden talent is a result of proficiency in Chain Slash, Puppetry, and Transmutation. You have discovered the secret to unlocking and controlling the souls deep inside dolls and toys. Now, you are an occult puppeteer who controls these once-empty vessels to achieve your own dark ends.
+2434	This hidden talent is a result of proficiency in Chain Slash, Puppetry, and Transmutation. You have discovered the secret to unlocking and controlling the souls deep inside dolls and toys. Now, you are an occult puppeteer who controls these once-empty vessels to achieve your own dark ends.
+2435	This hidden talent is a result of proficiency in Chain Slash, Martial Arts, Medicine, and Ninja. You hide in the dark before sneaking up on targets. This style of physical fighting is reflected in your other talent -- poisoning. In either method, you prefer to kill your prey before it even knows it's being attacked.
+2436	This hidden talent is a result of proficiency in Chain Slash, Martial Arts, Medicine, and Ninja. You hide in the dark before sneaking up on targets. This style of physical fighting is reflected in your other talent -- poisoning. In either method, you prefer to kill your prey before it even knows it's being attacked.
+2437	This hidden talent is a result of proficiency in Chain Slash, Martial Arts, Medicine, and Ninja. You hide in the dark before sneaking up on targets. This style of physical fighting is reflected in your other talent -- poisoning. In either method, you prefer to kill your prey before it even knows it's being attacked.
+2438	This hidden talent is a result of proficiency in Chain Slash, Martial Arts, Medicine, and Ninja. You hide in the dark before sneaking up on targets. This style of physical fighting is reflected in your other talent -- poisoning. In either method, you prefer to kill your prey before it even knows it's being attacked.
+2439	This hidden talent is a result of proficiency in Chain Slash, Close Combat, Smithing, Tailoring, and Ninja. In your youth, you were drawn to glinting blades. Now, in your prime, you can wield any bladed tool whatsoever, from weapons to needles!
+2440	This hidden talent is a result of proficiency in Chain Slash, Close Combat, Smithing, Tailoring, and Ninja. In your youth, you were drawn to glinting blades. Now, in your prime, you can wield any bladed tool whatsoever, from weapons to needles!
+2441	This hidden talent is a result of proficiency in Chain Slash, Close Combat, Smithing, Tailoring, and Ninja. In your youth, you were drawn to glinting blades. Now, in your prime, you can wield any bladed tool whatsoever, from weapons to needles!
+2442	This hidden talent is a result of proficiency in Chain Slash, Close Combat, Smithing, Tailoring, and Ninja. In your youth, you were drawn to glinting blades. Now, in your prime, you can wield any bladed tool whatsoever, from weapons to needles!
+2443	Great Occultist
+2444	Champion Occultist
+2445	Wise Occultist
+2446	Master Occultist
+2447	This hidden talent is a result of proficiency in Chain Slash, Puppetry, and Transmutation. You have discovered the secret to unlocking and controlling the souls deep inside dolls and toys. Now, you are an occult puppeteer who controls these once-empty vessels to achieve your own dark ends.
+2448	This hidden talent is a result of proficiency in Chain Slash, Puppetry, and Transmutation. You have discovered the secret to unlocking and controlling the souls deep inside dolls and toys. Now, you are an occult puppeteer who controls these once-empty vessels to achieve your own dark ends.
+2449	This hidden talent is a result of proficiency in Chain Slash, Puppetry, and Transmutation. You have discovered the secret to unlocking and controlling the souls deep inside dolls and toys. Now, you are an occult puppeteer who controls these once-empty vessels to achieve your own dark ends.
+2450	This hidden talent is a result of proficiency in Chain Slash, Puppetry, and Transmutation. You have discovered the secret to unlocking and controlling the souls deep inside dolls and toys. Now, you are an occult puppeteer who controls these once-empty vessels to achieve your own dark ends.
+2451	Fledgling Pet Trainer
+2452	Novice Pet Trainer
+2453	Amateur Pet Trainer
+2454	Green Pet Trainer
+2455	Naive Pet Trainer
+2456	Apprentice Pet Trainer
+2457	Senior Pet Trainer
+2458	Advanced Pet Trainer
+2459	Seasoned Pet Trainer
+2460	Skilled Pet Trainer
+2461	Expert Pet Trainer
+2462	Great Pet Trainer
+2463	Champion Pet Trainer
+2464	Wise Pet Trainer
+2465	Master Pet Trainer
+2466	Grandmaster Pet Trainer
+2467	Apprentice Pet Parade Leader
+2468	Senior Pet Parade Leader
+2469	Advanced Pet Parade Leader
+2470	Seasoned Pet Parade Leader
+2471	Skilled Pet Parade Leader
+2472	Expert Pet Parade Leader
+2473	Great Pet Parade Leader
+2474	Champion Pet Parade Leader
+2475	Wise Pet Parade Leader
+2476	Master Pet Parade Leader
+2477	Apprentice Fynn-Friend
+2478	Senior Fynn-Friend
+2479	Advanced Fynn-Friend
+2480	Seasoned Fynn-Friend
+2481	Skilled Fynn-Friend
+2482	Expert Fynn-Friend
+2483	Great Fynn-Friend
+2484	Champion Fynn-Friend
+2485	Wise Fynn-Friend
+2486	Master Fynn-Friend
+2487	Apprentice Performer of the Century
+2488	Senior Performer of the Century
+2489	Advanced Performer of the Century
+2490	Seasoned Performer of the Century
+2491	Skilled Performer of the Century
+2492	Expert Performer of the Century
+2493	Great Performer of the Century
+2494	Champion Performer of the Century
+2495	Wise Performer of the Century
+2496	Master Performer of the Century
+2497	Great Guardian Angel
+2498	Champion Guardian Angel
+2499	Wise Guardian Angel
+2500	Master Guardian Angel
+2501	Great Vagabond
+2502	Champion Vagabond
+2503	Wise Vagabond
+2504	Master Vagabond
+2505	Great Fence-Fixer
+2506	Champion Fence-Fixer
+2507	Wise Fence-Fixer
+2508	Master Fence-Fixer
+2509	Great Handmade Snack Expert
+2510	Champion Handmade Snack Expert
+2511	Wise Handmade Snack Expert
+2512	Master Handmade Snack Expert
+2513	Great Pet Butler
+2514	Champion Pet Butler
+2515	Wise Pet Butler
+2516	Master Pet Butler
+2517	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2518	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2519	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2520	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2521	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2522	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2523	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2524	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2525	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2526	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2527	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2528	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2529	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2530	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2531	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2532	The Pet Training Talent channels Fynn's power through a Fynn Bell to help pets become more powerful.\nPet Training uses skills to acquire pets and bonding to help them grow stronger.
+2533	This hidden talent is a result of proficiency in both Pet Training and Adventure. Whenever you walk down the street, animals seem to appear out of nowhere and trail behind you, as though you're leading a pet parade.
+2534	This hidden talent is a result of proficiency in both Pet Training and Adventure. Whenever you walk down the street, animals seem to appear out of nowhere and trail behind you, as though you're leading a pet parade.
+2535	This hidden talent is a result of proficiency in both Pet Training and Adventure. Whenever you walk down the street, animals seem to appear out of nowhere and trail behind you, as though you're leading a pet parade.
+2536	This hidden talent is a result of proficiency in both Pet Training and Adventure. Whenever you walk down the street, animals seem to appear out of nowhere and trail behind you, as though you're leading a pet parade.
+2537	This hidden talent is a result of proficiency in both Pet Training and Adventure. Whenever you walk down the street, animals seem to appear out of nowhere and trail behind you, as though you're leading a pet parade.
+2538	This hidden talent is a result of proficiency in both Pet Training and Adventure. Whenever you walk down the street, animals seem to appear out of nowhere and trail behind you, as though you're leading a pet parade.
+2539	This hidden talent is a result of proficiency in both Pet Training and Adventure. Whenever you walk down the street, animals seem to appear out of nowhere and trail behind you, as though you're leading a pet parade.
+2540	This hidden talent is a result of proficiency in both Pet Training and Adventure. Whenever you walk down the street, animals seem to appear out of nowhere and trail behind you, as though you're leading a pet parade.
+2541	This hidden talent is a result of proficiency in both Pet Training and Adventure. Whenever you walk down the street, animals seem to appear out of nowhere and trail behind you, as though you're leading a pet parade.
+2542	This hidden talent is a result of proficiency in both Pet Training and Adventure. Whenever you walk down the street, animals seem to appear out of nowhere and trail behind you, as though you're leading a pet parade.
+2543	This hidden talent is a result of proficiency in both Pet Training and Magic. Well done! You can wield Fynn's power freely! Congratulations on becoming a true friend of Fynn!
+2544	This hidden talent is a result of proficiency in both Pet Training and Magic. Well done! You can wield Fynn's power freely! Congratulations on becoming a true friend of Fynn!
+2545	This hidden talent is a result of proficiency in both Pet Training and Magic. Well done! You can wield Fynn's power freely! Congratulations on becoming a true friend of Fynn!
+2546	This hidden talent is a result of proficiency in both Pet Training and Magic. Well done! You can wield Fynn's power freely! Congratulations on becoming a true friend of Fynn!
+2547	This hidden talent is a result of proficiency in both Pet Training and Magic. Well done! You can wield Fynn's power freely! Congratulations on becoming a true friend of Fynn!
+2548	This hidden talent is a result of proficiency in both Pet Training and Magic. Well done! You can wield Fynn's power freely! Congratulations on becoming a true friend of Fynn!
+2549	This hidden talent is a result of proficiency in both Pet Training and Magic. Well done! You can wield Fynn's power freely! Congratulations on becoming a true friend of Fynn!
+2550	This hidden talent is a result of proficiency in both Pet Training and Magic. Well done! You can wield Fynn's power freely! Congratulations on becoming a true friend of Fynn!
+2551	This hidden talent is a result of proficiency in both Pet Training and Magic. Well done! You can wield Fynn's power freely! Congratulations on becoming a true friend of Fynn!
+2552	This hidden talent is a result of proficiency in both Pet Training and Magic. Well done! You can wield Fynn's power freely! Congratulations on becoming a true friend of Fynn!
+2553	This hidden talent is a result of proficiency in both Pet Training and Music. Your performances have touched not only the hearts of people but those of animals as well. No one in Erinn can deny that you're the performer of the century.
+2554	This hidden talent is a result of proficiency in both Pet Training and Music. Your performances have touched not only the hearts of people but those of animals as well. No one in Erinn can deny that you're the performer of the century.
+2555	This hidden talent is a result of proficiency in both Pet Training and Music. Your performances have touched not only the hearts of people but those of animals as well. No one in Erinn can deny that you're the performer of the century.
+2556	This hidden talent is a result of proficiency in both Pet Training and Music. Your performances have touched not only the hearts of people but those of animals as well. No one in Erinn can deny that you're the performer of the century.
+2557	This hidden talent is a result of proficiency in both Pet Training and Music. Your performances have touched not only the hearts of people but those of animals as well. No one in Erinn can deny that you're the performer of the century.
+2558	This hidden talent is a result of proficiency in both Pet Training and Music. Your performances have touched not only the hearts of people but those of animals as well. No one in Erinn can deny that you're the performer of the century.
+2559	This hidden talent is a result of proficiency in both Pet Training and Music. Your performances have touched not only the hearts of people but those of animals as well. No one in Erinn can deny that you're the performer of the century.
+2560	This hidden talent is a result of proficiency in both Pet Training and Music. Your performances have touched not only the hearts of people but those of animals as well. No one in Erinn can deny that you're the performer of the century.
+2561	This hidden talent is a result of proficiency in both Pet Training and Music. Your performances have touched not only the hearts of people but those of animals as well. No one in Erinn can deny that you're the performer of the century.
+2562	This hidden talent is a result of proficiency in both Pet Training and Music. Your performances have touched not only the hearts of people but those of animals as well. No one in Erinn can deny that you're the performer of the century.
+2563	Now that you've become proficient in both Holy Arts and Medicine, even animals can benefit from your aid. You're like a guardian angel to your pets, and their health is always of the utmost concern.
+2564	Now that you've become proficient in both Holy Arts and Medicine, even animals can benefit from your aid. You're like a guardian angel to your pets, and their health is always of the utmost concern.
+2565	Now that you've become proficient in both Holy Arts and Medicine, even animals can benefit from your aid. You're like a guardian angel to your pets, and their health is always of the utmost concern.
+2566	Now that you've become proficient in both Holy Arts and Medicine, even animals can benefit from your aid. You're like a guardian angel to your pets, and their health is always of the utmost concern.
+2567	You've met many rare animals while traveling. At times, you wish you could take them with you, but that's impossible for someone whose journeys take them all across the land. They may be cute, but alas, you must resist giving in to your nurturing side for both their sake and yours.
+2568	You've met many rare animals while traveling. At times, you wish you could take them with you, but that's impossible for someone whose journeys take them all across the land. They may be cute, but alas, you must resist giving in to your nurturing side for both their sake and yours.
+2569	You've met many rare animals while traveling. At times, you wish you could take them with you, but that's impossible for someone whose journeys take them all across the land. They may be cute, but alas, you must resist giving in to your nurturing side for both their sake and yours.
+2570	You've met many rare animals while traveling. At times, you wish you could take them with you, but that's impossible for someone whose journeys take them all across the land. They may be cute, but alas, you must resist giving in to your nurturing side for both their sake and yours.
+2571	With your newfound skillset, repairing a fence is a piece of cake. And once you have a good, sturdy fence, why not hide yourself behind it?
+2572	With your newfound skillset, repairing a fence is a piece of cake. And once you have a good, sturdy fence, why not hide yourself behind it?
+2573	With your newfound skillset, repairing a fence is a piece of cake. And once you have a good, sturdy fence, why not hide yourself behind it?
+2574	With your newfound skillset, repairing a fence is a piece of cake. And once you have a good, sturdy fence, why not hide yourself behind it?
+2575	You've become skilled at hand-making artisanal snacks, free of any chemical additives, using only naturally-grown ingredients! Who'd eat something so healthy? You might have a hard time selling humans on it...
+2576	You've become skilled at hand-making artisanal snacks, free of any chemical additives, using only naturally-grown ingredients! Who'd eat something so healthy? You might have a hard time selling humans on it...
+2577	You've become skilled at hand-making artisanal snacks, free of any chemical additives, using only naturally-grown ingredients! Who'd eat something so healthy? You might have a hard time selling humans on it...
+2578	You've become skilled at hand-making artisanal snacks, free of any chemical additives, using only naturally-grown ingredients! Who'd eat something so healthy? You might have a hard time selling humans on it...
+2579	You've become able to tell what your pets want simply by discerning the slightest differences in their cries, and cherish this earnest connection with your pets above all else. Is there any finer pet butler in all of Erinn? Surely not!
+2580	You've become able to tell what your pets want simply by discerning the slightest differences in their cries, and cherish this earnest connection with your pets above all else. Is there any finer pet butler in all of Erinn? Surely not!
+2581	You've become able to tell what your pets want simply by discerning the slightest differences in their cries, and cherish this earnest connection with your pets above all else. Is there any finer pet butler in all of Erinn? Surely not!
+2582	You've become able to tell what your pets want simply by discerning the slightest differences in their cries, and cherish this earnest connection with your pets above all else. Is there any finer pet butler in all of Erinn? Surely not!

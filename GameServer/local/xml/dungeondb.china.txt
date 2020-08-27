@@ -1,0 +1,357 @@
+﻿1	Alby Dungeon
+2	Alby Basic Dungeon
+3	Alby Dungeon
+4	Alby Intermediate Fomor Dungeon
+5	Alby Intermediate Fomor Dungeon
+6	Alby Intermediate Fomor Dungeon
+7	Ciar Dungeon
+8	Ciar Dungeon
+9	Ciar Basic Dungeon
+10	Ciar Intermediate Fomor Dungeon
+11	Ciar Intermediate Fomor Dungeon
+12	Ciar Intermediate Fomor Dungeon
+13	Rabbie Dungeon
+14	Rabbie Basic Dungeon
+15	Math Dungeon
+16	Math Basic Dungeon
+17	Math Advanced Fomor Dungeon
+18	Math Advanced Fomor Dungeon
+19	Math Advanced Fomor Dungeon
+20	Fiodh Dungeon
+21	Fiodh Intermediate Fomor Dungeon
+22	Fiodh Intermediate Fomor Dungeon
+23	Fiodh Intermediate Fomor Dungeon
+24	Barri Dungeon
+25	Barri Basic Dungeon
+26	Coill Dungeon
+27	Rundal Dungeon
+28	Rundal Advanced Fomor Dungeon
+29	Rundal Advanced Fomor Dungeon
+30	Rundal Advanced Fomor Dungeon
+31	Una Dungeon
+32	Albey Dungeon
+33	IF YOU SEE THIS DUNGEON, PLEASE REPORT to devCAT
+34	Alby Dungeon
+35	Barri Dungeon
+36	Rabbie Dungeon
+37	Math Dungeon
+38	Ciar Dungeon
+39	Albey Dungeon
+40	Barri Dungeon
+41	Math Dungeon
+42	Albey Dungeon
+43	Albey Dungeon
+44	Albey Dungeon
+45	Albey Dungeon
+46	Albey Dungeon
+47	Albey Dungeon
+48	Albey Dungeon
+49	Rabbie Dungeon
+50	Ciar Dungeon
+51	Alby Dungeon
+52	Alby Dungeon
+53	Alby Dungeon
+54	Math Dungeon
+55	Math Dungeon
+56	Math Dungeon
+57	Alby Dungeon
+58	Alby Dungeon
+59	Herb Dungeon
+60	Math Dungeon
+61	Fiodh Dungeon
+62	Coill Dungeon
+63	Barri Mythril Dungeon
+64	Ciar Dungeon
+65	Barri Dungeon
+66	Barri Dungeon
+67	Rundal Basic Dungeon
+68	Rundal Siren Dungeon
+69	Barri Spirit Dungeon
+70	Peaca Dungeon
+71	Alby Beginner Dungeon
+72	Ciar Advanced Fomor Dungeon
+73	Ciar Advanced Fomor Dungeon
+74	Ciar Advanced Fomor Dungeon
+75	Barri Advanced Fomor Dungeon
+76	Barri Advanced Fomor Dungeon
+77	Barri Advanced Fomor Dungeon
+78	Coill Dungeon
+79	Baol Dungeon
+80	Baol Dungeon
+81	바올던전테스트
+82	Ciar Beginner Dungeon
+83	Rabbie Advanced Fomor Dungeon
+84	Rabbie Advanced Fomor Dungeon
+85	Rabbie Advanced Fomor Dungeon
+86	페카 초급 던전
+87	Peaca Basic Fomor Dungeon
+88	Elemental Dungeon
+89	Dugald Castle Dungeon
+90	Sen Mag Castle Dungeon
+91	Magic Bean Dungon
+92	알비 초보자 이벤트 던전
+93	마스 초보자 이벤트 던전
+94	바리 초보자 이벤트 던전
+95	Ciar Boss Trial 
+96	Rundal Boss Trial 
+97	Alby Advanced Fomor Dungeon
+98	Alby Advanced Fomor Dungeon
+99	Alby Advanced Fomor Dungeon
+100	Hidden Mine
+101	Hard Mode Alby Dungeon
+102	Hard Mode Alby Basic Dungeon
+103	Hard Mode Alby Intermediate Dungeon
+104	Hard Mode Alby Advanced Dungeon
+105	알비 황금쥐 던전
+106	Hard Mode Ciar Dungeon
+107	Hard Mode Ciar Basic Dungeon
+108	Hard Mode Ciar Intermediate Dungeon
+109	Hard Mode Ciar Advanced Dungeon
+110	라비 황금쥐 던전
+111	룬다 황금쥐 던전
+112	Hard Mode Rundal Dungeon
+113	Hard Mode Rundal Basic Dungeon
+114	Hard Mode Rundal Siren Dungeon
+115	Hard Mode Rundal Advanced Dungeon
+116	마법 카카오 던전
+117	Ciar Dungeon
+118	라비 모험 던전
+119	Barri Shadow Dungeon
+120	Barri Shadow Dungeon
+121	Barri Shadow Dungeon
+122	Coil Elatha RP Dungeon
+123	Temple Knights Lair
+124	Temple Knights Lair
+125	Temple Knights Lair
+126	Rabbie Dungeon
+127	Fiodh Dungeon, Where Violets Bloom
+128	Abb Neagh Castle Dungeon
+129	Ciar Dungeon
+130	고양이 던전
+131	고양이 던전
+132	Alby Basic Dungeon
+133	Alby Intermediate 1-Person Fomor Dungeon
+134	Alby Intermediate 2-Person Fomor Dungeon
+135	Alby Intermediate 4-Person Fomor Dungeon
+136	Alby Advanced 1-Person Fomor Dungeon
+137	Alby Advanced 3-Person Fomor Dungeon
+138	Alby Advanced Fomor Dungeon
+139	Hard Mode Alby Basic Dungeon
+140	Hard Mode Alby Intermediate Dungeon
+141	Hard Mode Alby Advanced Dungeon
+142	Ciar Basic Dungeon
+143	Ciar Intermediate 1-Person Fomor Dungeon
+144	Ciar Intermediate 2-Person Fomor Dungeon
+145	Ciar Intermediate 4-Person Fomor Dungeon
+146	Ciar Advanced 2-Person Fomor Dungeon
+147	Ciar Advanced 3-Person Fomor Dungeon
+148	Ciar Advanced Fomor Dungeon
+149	Ciar Boss Trial
+150	Hard Mode Ciar Basic Dungeon
+151	Hard Mode Ciar Intermediate Dungeon
+152	Hard Mode Ciar Advanced Dungeon
+153	Rabbie Basic Dungeon
+154	Rabbie Advanced 2-Person Fomor Dungeon
+155	Rabbie Advanced 3-Person Fomor Dungeon
+156	Rabbie Advanced Fomor Dungeon
+157	Math Advanced 2-Person Fomor Dungeon
+158	Math Advanced 3-Person Fomor Dungeon
+159	Math Advanced Fomor Dungeon
+160	Fiodh Intermediate 1-Person Fomor Dungeon
+161	Fiodh Intermediate 2-Person Fomor Dungeon
+162	Fiodh Intermediate 4-Person Fomor Dungeon
+163	Barri Basic Dungeon
+164	Barri Advanced 2-Person Fomor Dungeon
+165	Barri Advanced 3-Person Fomor Dungeon
+166	Barri Advanced Fomor Dungeon
+167	Rundal Basic Dungeon
+168	Rundal Siren Dungeon
+169	Rundal Advanced 2-Person Fomor Dungeon
+170	Rundal Advanced 3-Person Fomor Dungeon
+171	Rundal Advanced Fomor Dungeon
+172	Rundal Boss Trial
+173	Hard Mode Rundal Basic Dungeon
+174	Hard Mode Rundal Siren Dungeon
+175	Hard Mode Rundal Advanced Dungeon
+176	Peaca Basic Fomor Dungeon
+177	Albey Green Gem Fomor Dungeon
+178	Albey Blue Gem Fomor Dungeon
+179	Albey Red Gem Fomor Dungeon
+180	Albey Silver Gem Fomor Dungeon
+181	Ciar Dungeon
+182	Lucas's Peaca Dungeon
+183	Ciar Dungeon
+184	마스 개들의 천국
+185	룬다 던전
+186	Temple Knights Lair
+187	Temple Knights Lair
+188	Temple Knights Lair
+189	Peaca Dungeon
+190	Peaca Dungeon
+191	Peaca Dungeon
+192	Albey Dungeon
+193	Albey Dungeon
+194	Special Four-Leaf Clover Dungeon
+195	Peaca Intermediate Fomor Dungeon
+196	Peaca Intermediate Fomor Dungeon
+197	솔로 천국 커플 지옥 던전
+198	Alby Dungeon
+199	Alby Dungeon
+200	Alby Dungeon
+201	Ciar Dungeon
+202	Ciar Dungeon
+203	Ciar Dungeon
+204	Fiodh Advanced Fomor Dungeon
+205	Rundal Dungeon
+206	Rundal Dungeon
+207	Cuilin Castle Dungeon
+208	Fiodh Advanced Fomor Dungeon
+209	Ciar Event Dungeon
+210	Alby PC Cafe Dungeon
+211	Alby PC Cafe Advanced Fomor Dungeon
+212	Ciar PC Cafe Advanced Fomor Dungeon
+213	Rabbie PC Cafe Advanced Fomor Dungeon
+214	Barri PC Cafe Advanced Dungeon
+215	Coill Dungeon
+216	Coill Dungeon
+217	Coill Dungeon
+218	Coill Dungeon
+219	Coill Dungeon
+220	Coill Dungeon
+221	Coill Dungeon
+222	Coill Dungeon
+223	Coill Dungeon
+224	Paul's Secret Laboratory
+225	Rundal Dungeon
+226	Rundal Dungeon
+227	Rundal Dungeon
+228	Alby Dungeon
+229	Alby Dungeon
+230	Alby Dungeon
+231	Alby Dungeon
+232	Alby Dungeon
+233	Alby Dungeon
+234	Horrifying Skeleton Dungeon
+235	Horrifying Skeleton Dungeon
+236	Horrifying Skeleton Dungeon
+237	Alby Dungeon
+238	Math Dungeon
+239	Mysterious Rundal Dungeon
+240	Mysterious Rundal Dungeon
+241	Mysterious Rundal Dungeon
+242	SAO Dungeon Capture: Alby Zone 1
+243	SAO Dungeon Capture: Alby Zone 2
+244	SAO Dungeon Capture: Alby Zone 3
+245	SAO Dungeon Capture: Alby Zone 4
+246	SAO Dungeon Capture: Alby Zone 5
+247	SAO Dungeon Capture: Math Zone 1
+248	SAO Dungeon Capture: Math Zone 2
+249	SAO Dungeon Capture: Math Zone 3
+250	SAO Dungeon Capture: Math Zone 4
+251	SAO Dungeon Capture: Math Zone 5
+252	SAO Dungeon Capture: Fiodh Zone 1
+253	SAO Dungeon Capture: Fiodh Zone 2
+254	SAO Dungeon Capture: Fiodh Zone 3
+255	SAO Dungeon Capture: Fiodh Zone 4
+256	SAO Dungeon Capture: Fiodh Zone 5
+257	SAO Dungeon Capture: Peaca Zone 1
+258	SAO Dungeon Capture: Peaca Zone 2
+259	SAO Dungeon Capture: Peaca Zone 3
+260	SAO Dungeon Capture: Peaca Zone 4
+261	SAO Dungeon Capture: Peaca Zone 5
+262	Sword Art Online Alby Dungeon Capture
+263	Sword Art Online Alby Dungeon Capture
+264	Sword Art Online Alby Dungeon Capture
+265	Sword Art Online Alby Dungeon Capture
+266	Sword Art Online Math Dungeon Capture
+267	Sword Art Online Math Dungeon Capture
+268	Sword Art Online Fiodh Dungeon Capture
+269	Sword Art Online Fiodh Dungeon Capture
+270	Sword Art Online Fiodh Dungeon Capture
+271	Sword Art Online Fiodh Dungeon Capture
+272	Sword Art Online Peaca Dungeon Capture
+273	Sword Art Online Peaca Dungeon Capture
+274	Sword Art Online Peaca Dungeon Capture
+275	Ninja Skill Training Dungeon
+276	Shinobi Dungeon
+278	Alby Constellation Dungeon
+279	Ciar Constellation Dungeon
+280	Rabbie Constellation Dungeon
+281	Math Constellation Dungeon
+282	Fiodh Constellation Dungeon
+283	Barri Constellation Dungeon
+284	Coill Constellation Dungeon
+285	Rundal Constellation Dungeon
+286	Peaca Constellation Dungeon
+288	Samhain Shenon RP Dungeon
+289	Samhain Dungeon
+290	Samhain Dungeon
+292	Alby Dungeon
+293	Alby Basic Fomor Dungeon
+294	Alby Intermediate Fomor Dungeon
+295	Alby Advanced Fomor Dungeon
+296	Hard Mode Alby Advanced Fomor Dungeon
+297	Ciar Dungeon
+298	Ciar Basic Fomor Dungeon
+299	Ciar Intermediate Fomor Dungeon
+300	Ciar Advanced Fomor Dungeon
+301	Hard Mode Ciar Advanced Fomor Dungeon
+302	Rabbie Dungeon
+303	Rabbie Basic Fomor Dungeon
+304	Rabbie Advanced Fomor Dungeon
+305	Math Dungeon
+306	Math Basic Fomor Dungeon
+307	Math Advanced Fomor Dungeon
+308	Fiodh Dungeon
+309	Fiodh Intermediate Fomor Dungeon
+310	Fiodh Advanced Fomor Dungeon
+311	Barri Dungeon
+312	Barri Basic Fomor Dungeon
+313	Barri Advanced Fomor Dungeon
+314	Coill Dungeon
+315	Coill Basic Fomor Dungeon
+316	Coill Intermediate Fomor Dungeon
+317	Rundal Dungeon
+318	Rundal Basic Fomor Dungeon
+319	Rundal Advanced Fomor Dungeon
+320	Hard Mode Rundal Advanced Fomor Dungeon
+321	Peaca Dungeon
+322	Peaca Basic Fomor Dungeon
+323	Peaca Intermediate Fomor Dungeon
+324	Alby Basic Fomor Dungeon
+325	Alby Intermediate Fomor Dungeon
+326	Alby Advanced Fomor Dungeon
+327	Hard Mode Alby Advanced Fomor Dungeon
+328	Ciar Basic Fomor Dungeon
+329	Ciar Intermediate Fomor Dungeon
+330	Ciar Advanced Fomor Dungeon
+331	Hard Mode Ciar Advanced Fomor Dungeon
+332	Rabbie Basic Fomor Dungeon
+333	Rabbie Advanced Fomor Dungeon
+334	Math Basic Fomor Dungeon
+335	Math Advanced Fomor Dungeon
+336	Fiodh Intermediate Fomor Dungeon
+337	Fiodh Advanced Fomor Dungeon
+338	Barri Basic Fomor Dungeon
+339	Barri Advanced Fomor Dungeon
+340	Coill Basic Fomor Dungeon
+341	Coill Intermediate Fomor Dungeon
+342	Rundal Basic Fomor Dungeon
+343	Rundal Advanced Fomor Dungeon
+344	Hard Mode Rundal Advanced Fomor Dungeon
+345	Peaca Basic Fomor Dungeon
+346	Peaca Intermediate Fomor Dungeon
+349	Musical Math Dungeon
+356	Alby Veteran Fomor Dungeon
+357	Ciar Veteran Fomor Dungeon
+358	Rabbie Veteran Fomor Dungeon
+359	Math Veteran Fomor Dungeon
+360	Fiodh Veteran Fomor Dungeon
+361	Barri Veteran Fomor Dungeon
+362	Coill Veteran Fomor Dungeon
+363	Rundal Veteran Fomor Dungeon
+364	Peaca Veteran Fomor Dungeon
+365	전설의 알비 던전
+366	전설의 키아 던전
+367	전설의 라비 던전
+368	전설의 바리 던전

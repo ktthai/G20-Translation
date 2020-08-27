@@ -1,0 +1,113 @@
+﻿1	Poison Immunity
+2	Petrification Immunity
+3	마나 절약
+4	스태미나 절약
+5	폭탄 전문가
+6	스톰프 방어
+7	마나 낭비
+8	스태미나 낭비
+9	Attack Speed Increase
+10	Mana Usage Reduction
+11	Stamina Usage Reduction
+12	Explosion Defense
+13	Stomp Defense
+14	Mana Usage Increase
+15	Stamina Usage Increase
+16	Demigod Enhancement
+17	Smash Enhancement
+18	Assault Slash Enhancement
+19	Charge Enhancement
+20	Icebolt Enhancement
+21	Firebolt Enhancement
+22	Healing Enhancement
+23	Flame Burst Enhancement
+24	Water Cannon Enhancement
+25	Life Drain Enhancement
+26	Magnum Shot Enhancement
+27	Support Shot Enhancement
+28	Fishing Enhancement
+29	Refining Enhancement
+30	Blacksmith Enhancement
+31	Metallurgy Enhancement
+32	Gold Strike Enhancement
+33	Increased chance of obtaining transformation information.
+34	Windmill Enhancement
+35	Absorption Enhancement
+36	Quest Experience Enhancement
+37	Assault Slash Enhancement
+38	Transport Speed
+39	Cooking Production EXP Boost
+40	Increases Movement Speed
+41	This effect prevents you from going off-key
+42	Shadow Mission EXP boost
+43	Aquarius Sign Effect
+44	Pisces Sign Effect
+45	Aries Sign Effect
+46	Taurus Sign Effect
+47	Gemini Sign Effect
+48	Cancer Sign Effect
+49	Leo Sign Effect
+50	Virgo Sign Effect
+51	Libra Sign Effect
+52	Scorpio Sign Effect
+53	Sagittarius Sign Effect
+54	Capricorn Sign Effect
+55	Increases critical damage
+56	Enhanced Bash
+57	Decrease durability loss
+58	Cooking Training EXP
+59	Cooking Training EXP
+60	Cooking Quality
+61	Cooking Buff Duration
+62	Judgment Blade Enhancement
+63	Lance Charge Enhancement
+64	달콤한 향기
+65	사랑스러운 향기
+66	쌉싸름한 향기
+67	Increases Movement Speed
+68	Increases Attack Delay
+69	Increases Max Damage
+70	Increases Magic ATT
+71	MP Consumption Decrease
+72	Stamina Consumption Decrease
+73	Critical Increase
+74	Exploration EXP Bonus
+75	Dorcha Snatch Leeching Rate Increase
+76	Death Mark Damage Increase
+77	물병자리 효과
+78	물고기자리 효과
+79	양자리 효과
+80	황소자리 효과
+81	쌍둥이자리 효과
+82	게자리 효과
+83	사자자리 효과
+84	처녀자리 효과
+85	천칭자리 효과
+86	전갈자리 효과
+87	사수자리 효과
+88	염소자리 효과
+89	Crusader EXP
+90	Defiance Activation Boost
+91	Iron Will Duration Boost
+92	Vital Surge Duration Boost
+93	Redoubled Offensive Activation Boost
+94	Exploit Weakness Duration Boost
+95	Relentless Assault Duration Boost
+96	Defiance Activation Boost
+97	Iron Will Duration Boost
+98	Vital Surge Duration Boost
+99	Redoubled Offensive Activation Boost
+100	Exploit Weakness Duration Boost
+101	Relentless Assault Duration Boost
+102	Gathering Success Rate Boost
+103	Stampede Enhancement
+104	Final Strike Enhancement
+105	Battle Alchemy Enhancement
+106	Transmutation Enhancement
+107	Hero Alchemy Enhancement
+108	Marionette Stun Resistance Rate
+109	Marionette Critical Damage
+110	Puppetry skill cooldown decreased
+111	Combat EXP Increase
+112	Lightning Rod Enhancement
+113	Effective Range Increase

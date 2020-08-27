@@ -1,0 +1,504 @@
+﻿0	Spirit Training
+1	Spirit Attunement
+2	Spirit Control
+3	Spirit Unleashing
+4	One-handed Sword: Amplitude
+5	One-handed Sword: Analysis
+6	One-handed Sword: Lucky Strike
+7	One-handed Sword: Enrage
+8	Ultimate One-handed Sword
+9	Awakening Attack Enhancement
+10	Awakening Range Enhancement
+11	Awakening Duration Enhancement
+12	Awakening Buff Enhancement
+13	Awakening Acceleration
+14	Spirit Training
+15	Spirit Attunement
+16	Spirit Control
+17	Spirit Unleashing
+18	One-handed Blunt Weapon: Amplitude
+19	One-handed Blunt Weapon: Analysis
+20	One-handed Blunt Weapon: Lucky Strike
+21	One-handed Blunt Weapon: Enrage
+22	Ultimate One-handed Blunt Weapon
+23	Awakening Attack Enhancement
+24	Awakening Range Enhancement
+25	Awakening Duration Enhancement
+26	Awakening Buff Enhancement
+27	Awakening Acceleration
+28	Spirit Training
+29	Spirit Attunement
+30	Spirit Control
+31	Spirit Unleashing
+32	One-handed Axe: Amplitude
+33	One-handed Axe: Analysis
+34	One-handed Axe: Lucky Strike
+35	One-handed Axe: Enrage
+36	Ultimate One-handed Axe
+37	Awakening Attack Enhancement
+38	Awakening Range Enhancement
+39	Awakening Duration Enhancement
+40	Awakening Buff Enhancement
+41	Awakening Acceleration
+42	Spirit Training
+43	Spirit Attunement
+44	Spirit Control
+45	Spirit Unleashing
+46	Two-handed Sword: Amplitude
+47	Two-handed Sword: Analysis
+48	Two-handed Sword: Lucky Strike
+49	Two-handed Sword: Enrage
+50	Ultimate Two-handed Sword
+51	Awakening Attack Enhancement
+52	Awakening Range Enhancement
+53	Awakening Duration Enhancement
+54	Awakening Buff Enhancement
+55	Awakening Acceleration
+56	Spirit Training
+57	Spirit Attunement
+58	Spirit Control
+59	Spirit Unleashing
+60	Two-handed Blunt Weapon: Amplitude
+61	Two-handed Blunt Weapon: Weakness Analysis
+62	Two-handed Blunt Weapon: Lucky Strike
+63	Two-handed Blunt Weapon: Enrage
+64	Ultimate Two-handed Blunt Weapon
+65	Awakening Attack Enhancement
+66	Awakening Range Enhancement
+67	Awakening Duration Enhancement
+68	Awakening Buff Enhancement
+69	Awakening Acceleration
+70	Spirit Training
+71	Spirit Attunement
+72	Spirit Control
+73	Spirit Unleashing
+74	Two-handed Axe: Amplitude
+75	Two-handed Axe: Analysis
+76	Two-handed Axe: Lucky Strike
+77	Two-handed Axe: Enrage
+78	Ultimate Two-handed Axe
+79	Awakening Attack Enhancement
+80	Awakening Range Enhancement
+81	Awakening Duration Enhancement
+82	Awakening Buff Enhancement
+83	Awakening Acceleration
+84	Spirit Training
+85	Spirit Attunement
+86	Spirit Control
+87	Spirit Unleashing
+88	Lance: Amplitude
+89	Lance: Analysis
+90	Lance: Lucky Strike
+91	Lance: Enrage
+92	Ultimate Lance
+93	Awakening Attack Enhancement
+94	Awakening Range Enhancement
+95	Awakening Duration Enhancement
+96	Awakening Buff Enhancement
+97	Awakening Acceleration
+98	Spirit Training
+99	Spirit Attunement
+100	Spirit Control
+101	Spirit Unleashing
+102	Atlatl: Amplitude
+103	Atlatl: Analysis
+104	Atlatl: Lucky Strike
+105	Atlatl: Enrage
+106	Ultimate Atlatl
+107	Awakening Attack Enhancement
+108	Awakening Range Enhancement
+109	Awakening Duration Enhancement
+110	Awakening Buff Enhancement
+111	Awakening Acceleration
+112	Spirit Training
+113	Spirit Attunement
+114	Spirit Control
+115	Spirit Unleashing
+116	Bow: Amplitude
+117	Bow: Analysis
+118	Bow: Lucky Strike
+119	Bow: Enrage
+120	Ultimate Bow
+121	Awakening Attack Enhancement
+122	Awakening Range Enhancement
+123	Awakening Duration Enhancement
+124	Awakening Buff Enhancement
+125	Awakening Acceleration
+126	Spirit Training
+127	Spirit Attunement
+128	Spirit Control
+129	Spirit Unleashing
+130	Crossbow: Amplitude
+131	Crossbow: Weakness Analysis
+132	Crossbow: Lucky Strike
+133	Crossbow: Enrage
+134	Ultimate Crossbow
+135	Awakening Attack Enhancement
+136	Awakening Range Enhancement
+137	Awakening Duration Enhancement
+138	Awakening Buff Enhancement
+139	Awakening Acceleration
+140	Spirit Training
+141	Spirit Attunement
+142	Spirit Control
+143	Spirit Unleashing
+144	Wand: Amplitude
+145	Wand: Analysis
+146	Wand: Lucky Strike
+147	Wand: Enrage
+148	Ultimate Wand
+149	Awakening Attack Enhancement
+150	Awakening Range Enhancement
+151	Awakening Duration Enhancement
+152	Awakening Buff Enhancement
+153	Awakening Acceleration
+154	Spirit Training
+155	Spirit Attunement
+156	Spirit Control
+157	Spirit Unleashing
+158	Staff: Amplitude
+159	Staff: Analysis
+160	Staff: Lucky Strike
+161	Staff: Enrage
+162	Ultimate Staff
+163	Awakening Attack Enhancement
+164	Awakening Range Enhancement
+165	Awakening Duration Enhancement
+166	Awakening Buff Enhancement
+167	Awakening Acceleration
+168	Spirit Training
+169	Spirit Attunement
+170	Spirit Control
+171	Spirit Unleashing
+172	Cylinder: Water Wave
+173	Cylinder: Analysis
+174	Cylinder: Christening Earth
+175	Cylinder: Enrage
+176	Ultimate Cylinder
+177	Awakening Attack Enhancement
+178	Awakening Range Enhancement
+179	Awakening Duration Enhancement
+180	Awakening Buff Enhancement
+181	Awakening Acceleration
+182	Spirit Training
+183	Spirit Attunement
+184	Spirit Control
+185	Spirit Unleashing
+186	Knuckle: Amplitude
+187	Knuckle: Analysis
+188	Knuckle: Lucky Strike
+189	Knuckle: Enrage
+190	Ultimate Knuckle
+191	Awakening Attack Enhancement
+192	Awakening Range Enhancement
+193	Awakening Duration Enhancement
+194	Awakening Buff Enhancement
+195	Awakening Acceleration
+196	Spirit Training
+197	Spirit Attunement
+198	Spirit Control
+199	Spirit Unleashing
+200	Control Bar: Amplitude
+201	Control Bar: Analysis
+202	Control Bar: Lucky Strike
+203	Control Bar: Enrage
+204	Ultimate Control Bar
+205	Awakening Attack Enhancement
+206	Awakening Range Enhancement
+207	Awakening Duration Enhancement
+208	Awakening Buff Enhancement
+209	Awakening Acceleration
+210	Spirit Training
+211	Spirit Attunement
+212	Spirit Control
+213	Spirit Unleashing
+214	Shuriken: Amplitude
+215	Shuriken: Analysis
+216	Shuriken: Lucky Strike
+217	Shuriken: Enrage
+218	Ultimate Shuriken
+219	Awakening Attack Enhancement
+220	Awakening Range Enhancement
+221	Awakening Duration Enhancement
+222	Awakening Buff Enhancement
+223	Awakening Acceleration
+224	Spirit Training
+225	Spirit Attunement
+226	Spirit Control
+227	Spirit Unleashing
+228	Dual Gun: Amplitude
+229	Dual Gun: Analysis
+230	Dual Gun: Lucky Strike
+231	Dual Gun: Enrage
+232	Ultimate Dual Gun
+233	Awakening Attack Enhancement
+234	Awakening Range Enhancement
+235	Awakening Duration Enhancement
+236	Awakening Buff Enhancement
+237	Awakening Acceleration
+238	Spirit Training
+239	Spirit Attunement
+240	Spirit Control
+241	Spirit Unleashing
+242	Chain Blade: Amplitude
+243	Chain Blade: Analysis
+244	Chain Blade: Lucky Strike
+245	Chain Blade: Enrage
+246	Ultimate Chain Blade
+247	Awakening Attack Enhancement
+248	Awakening Range Enhancement
+249	Awakening Duration Enhancement
+250	Awakening Buff Enhancement
+251	Awakening Acceleration
+252	Weapon Damage +[*3]
+253	Weapon Critical Damage +[*3%]
+254	Weapon Damage +[2%] of owner's base HP (Maximum [*5])
+255	Weapon's Maximum Critical Rate +[5%]
+256	Bash Hit Damage +[*4%]
+257	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+258	Grants a [10%] chance to inflict bleed for [*6 seconds] upon performing a Talent attack ([30%] of owner's damage)
+259	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+260	Grants a [50%] chance to recover [10%] of Max HP upon performing a Talent attack
+261	One-handed Spirit Sword Awakening Damage +[*180%]
+262	One-handed Spirit Sword Awakening Attack Range +[*50cm]
+263	One-handed Spirit Sword Awakening Buff Duration +[*3 seconds]
+264	One-handed Spirit Sword Awakening Buff Bonus Damage +[*3%]
+265	One-handed Spirit Sword Awakening Energy Increase Rate x[2]
+266	Weapon Damage +[*3]
+267	Weapon Critical Damage +[*3%]
+268	Weapon Damage +[2%] of owner's base HP (Maximum [*5])
+269	Weapon's Maximum Critical Rate +[5%]
+270	Bash Hit Damage +[*4%]
+271	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+272	Grants a [10%] chance to inflict bleed for [*6 seconds] upon performing a Talent attack ([30%] of owner's damage)
+273	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+274	Grants a [50%] chance to recover [10%] of Max HP upon performing a Talent attack
+275	One-handed Spirit Blunt Awakening Damage +[*180%]
+276	One-handed Spirit Blunt Awakening Attack Range +[*50cm]
+277	One-handed Spirit Blunt Awakening Buff Duration +[*3 seconds]
+278	One-handed Spirit Blunt Awakening Buff Bonus Damage +[*3%]
+279	One-handed Spirit Blunt Awakening Energy Increase Rate x[2]
+280	Weapon Damage +[*3]
+281	Weapon Critical Damage +[*3%]
+282	Weapon Damage +[2%] of owner's base HP (Maximum [*5])
+283	Weapon's Maximum Critical Rate +[5%]
+284	Bash Hit Damage +[*4%]
+285	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+286	Grants a [10%] chance to inflict bleed for [*6 seconds] upon performing a Talent attack ([30%] of owner's damage)
+287	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+288	Grants a [50%] chance to recover [10%] of Max HP upon performing a Talent attack
+289	One-handed Spirit Axe Awakening Damage +[*180%]
+290	One-handed Spirit Axe Awakening Attack Range +[*50cm]
+291	One-handed Spirit Axe Awakening Buff Duration +[*3 seconds]
+292	One-handed Spirit Axe Awakening Buff Bonus Damage +[*3%]
+293	One-handed Spirit Axe Awakening Energy Increase Rate x[2]
+294	Weapon Damage +[*4]
+295	Weapon Critical Damage +[*3%]
+296	Weapon Damage +[2%] of owner's base HP (Maximum [*6])
+297	Weapon's Maximum Critical Rate +[5%]
+298	Cooldown reset rate for Rage Impact upon landing a critical hit +[*6%]
+299	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+300	Grants a [10%] chance to inflict bleed for [*6 seconds] upon performing a Talent attack ([30%] of owner's damage)
+301	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+302	Movement Speed +[300] for [10 seconds] upon killing an enemy
+303	Two-handed Spirit Sword Awakening Damage +[*120%]
+304	Two-handed Spirit Sword Awakening Attack Range +[*50cm]
+305	Two-handed Spirit Sword Awakening Buff Duration +[*3 seconds]
+306	Two-handed Spirit Sword Awakening Buff Bonus Damage +[*3%]
+307	Two-handed Spirit Sword Awakening Energy Increase Rate x[2]
+308	Weapon Damage +[*4]
+309	Weapon Critical Damage +[*3%]
+310	Weapon Damage +[2%] of owner's base HP (Maximum [*6])
+311	Weapon's Maximum Critical Rate +[5%]
+312	Cooldown reset rate for Rage Impact upon landing a critical hit +[*6%]
+313	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+314	Grants a [10%] chance to inflict bleed for [*6 seconds] upon performing a Talent attack ([30%] of owner's damage)
+315	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+316	Movement Speed +[300] for [10 seconds] upon killing an enemy
+317	Two-handed Spirit BW Awakening Damage +[*150%]
+318	Two-handed Spirit BW Awakening Attack Range +[*50cm]
+319	Two-handed Spirit BW Awakening Buff Duration +[*3 seconds]
+320	Two-handed Spirit BW Awakening Buff Bonus Damage +[*3%]
+321	Two-handed Spirit BW Awakening Energy Increase Rate x[2]
+322	Weapon Damage +[*4]
+323	Weapon Critical Damage +[*3%]
+324	Weapon Damage +[2%] of owner's base HP (Maximum [*6])
+325	Weapon's Maximum Critical Rate +[5%]
+326	Cooldown reset rate for Rage Impact upon landing a critical hit +[*6%]
+327	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+328	Grants a [10%] chance to inflict bleed for [*6 seconds] upon performing a Talent attack ([30%] of owner's damage)
+329	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+330	Movement Speed +[300] for [10 seconds] upon killing an enemy
+331	Two-handed Spirit Axe Awakening Damage +[*150%]
+332	Two-handed Spirit Axe Awakening Attack Range +[*50cm]
+333	Two-handed Spirit Axe Awakening Buff Duration +[*3 seconds]
+334	Two-handed Spirit Axe Awakening Buff Bonus Damage +[*3%]
+335	Two-handed Spirit Axe Awakening Energy Increase Rate x[2]
+336	Weapon Damage +[*4]
+337	Weapon Critical Damage +[*3%]
+338	Weapon Damage +[2%] of owner's base HP (Maximum [*6])
+339	Weapon's Maximum Critical Rate +[5%]
+340	Lance Charge Cooldown -[*0.5 seconds]
+341	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+342	Grants a [10%] chance to inflict bleed for [*6 seconds] upon performing a Talent attack ([30%] of owner's damage)
+343	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+344	Minimum Range required to use Lance removed / Charge Distance adjusted to [7m] when calculating Lance Charge damage
+345	Spirit Lance Awakening Damage +[*150%]
+346	Spirit Lance Awakening Attack Range +[*50cm]
+347	Spirit Lance Awakening Buff Duration +[*3 seconds]
+348	Spirit Lance Awakening Buff Bonus Damage +[*3%]
+349	Spirit Lance Awakening Energy Increase Rate x[2]
+350	Weapon Damage +[*2]
+351	Weapon Critical Damage +[*3%]
+352	Weapon Damage +[1%] of owner's base HP (Maximum [*3])
+353	Weapon's Maximum Critical Rate +[5%]
+354	Performs additional attack to [*100cm] radius with [*4%] damage of the base attack of Throwing Attack
+355	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+356	Grants a [10%] chance to inflict bleed for [*6 seconds] upon performing a Talent attack ([30%] of owner's damage)
+357	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+358	Attacks without consuming Javelins when equipped with a Javelin
+359	Spirit Atlatl Awakening Damage +[*240%]
+360	Spirit Atlatl Awakening Attack Range +[*50cm]
+361	Spirit Atlatl Awakening Buff Duration +[*3 seconds]
+362	Spirit Atlatl Awakening Buff Bonus Damage +[*3%]
+363	Spirit Atlatl Awakening Energy Increase Rate x[2]
+364	Weapon Damage +[*2]
+365	Weapon Critical Damage +[*3%]
+366	Weapon Damage +[1%] of owner's base Stamina (Max [*4])
+367	Weapon's Maximum Critical Rate +[5%]
+368	Increases Splash Damage by [*4%] of Magnum Shot skill
+369	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+370	Grants a [10%] chance to inflict bleed for [*6 seconds] upon performing a Talent attack ([30%] of owner's damage)
+371	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+372	Attacks without consuming Arrows when equipped with Arrows
+373	Spirit Bow Awakening Damage +[*180%]
+374	Spirit Bow Awakening Attack Range +[*50cm]
+375	Spirit Bow Awakening Buff Duration +[*3 seconds]
+376	Spirit Bow Awakening Buff Bonus Damage +[*3%]
+377	Spirit Bow Awakening Energy Increase Rate x[2]
+378	Weapon Damage +[*2]
+379	Weapon Critical Damage +[*3%]
+380	Weapon Damage +[1%] of owner's base Stamina (Max [*4])
+381	Weapon's Maximum Critical Rate +[5%]
+382	Increases Splash Damage by [*4%] of Magnum Shot skill
+383	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+384	Grants a [10%] chance to inflict bleed for [*6 seconds] upon performing a Talent attack ([30%] of owner's damage)
+385	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+386	Attacks without consuming Bolts when equipped with Bolts
+387	Spirit Crossbow Awakening Damage +[*210%]
+388	Spirit Crossbow Awakening Attack Range +[*50cm]
+389	Spirit Crossbow Awakening Buff Duration +[*3 seconds]
+390	Spirit Crossbow Awakening Buff Bonus Damage +[*3%]
+391	Spirit Crossbow Awakening Energy Increase Rate x[2]
+392	Weapon Magic Damage +[*4]
+393	Weapon Critical Damage +[*3%]
+394	Weapon Magic Damage +[2%] of base MP (Max [*6])
+395	Weapon's Maximum Critical Rate +[5%]
+396	Performs an additional attack to a [*25cm] radius with [*4%] damage of the base attack of Firebolt
+397	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+398	Recovers [20%] of Max MP at [*2%] chance upon performing a Talent attack
+399	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+400	Activates Fusion Bolt chain casting [+2]
+401	Spirit Wand Awakening Damage +[*500%]
+402	Spirit Wand Awakening Attack Range +[*50cm]
+403	Spirit Wand Awakening Buff Duration +[*3 seconds]
+404	Spirit Wand Awakening Buff Bonus Damage +[*3%]
+405	Spirit Wand Awakening Energy Increase Rate x[2]
+406	Weapon Magic Damage +[*4]
+407	Weapon Critical Damage +[*3%]
+408	Weapon Magic Damage +[2%] of base MP (Max [*6])
+409	Weapon's Maximum Critical Rate +[5%]
+410	Hail Storm splash damage radius +[*40cm] / Charge time -[*0.1 seconds]
+411	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+412	Recovers [20%] of Max MP at [*2%] chance upon performing a Talent attack
+413	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+414	Activates Intermediate Magic chain casting [+2]
+415	Spirit Staff Awakening Damage +[*500%]
+416	Spirit Staff Awakening Attack Range +[*50cm]
+417	Spirit Staff Awakening Buff Duration +[*3 seconds]
+418	Spirit Staff Awakening Buff Bonus Damage +[*3%]
+419	Spirit Staff Awakening Energy Increase Rate x[2]
+420	Fire/Wind/Earth/Water Alchemic Damage +[*2]
+421	Weapon Critical Damage +[*3%]
+422	Fire/Wind/Earth/Water Alchemic Damage +[2%] of owner's base HP (Maximum [*4])
+423	Weapon's Maximum Critical Rate +[5%]
+424	Casting time for Rain Casting -[*1 seconds]
+425	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+426	Hydra Damage +[*20]
+427	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+428	Delay after attack for Water Cannon and Wind Blast -[1 seconds]
+429	Spirit Cylinder Awakening Damage +[*150%]
+430	Spirit Cylinder Awakening Attack Range +[*50cm]
+431	Spirit Cylinder Awakening Buff Duration +[*3 seconds]
+432	Spirit Cylinder Awakening Buff Bonus Damage +[*3%]
+433	Spirit Cylinder Awakening Energy Increase Rate x[2]
+434	Weapon Damage +[*6]
+435	Weapon Critical Damage +[*3%]
+436	Weapon Damage +[4%] of owner's base Strength (Maximum [*8])
+437	Weapon's Maximum Critical Rate +[5%]
+438	Performs additional attack to [*100cm] radius with [*4%] damage of the base attack of Focused Fist
+439	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+440	Defense -[15] and Protection -[10] for [*6 seconds] at [10%] chance upon performing a Talent attack
+441	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+442	Combo Skill Attack Speed for Stages 2 and 3 x[1.5]
+443	Spirit Knuckle Awakening Damage +[*240%]
+444	Spirit Knuckle Awakening Attack Range +[*50cm]
+445	Spirit Knuckle Awakening Buff Duration +[*3 seconds]
+446	Spirit Knuckle Awakening Buff Bonus Damage +[*3%]
+447	Spirit Knuckle Awakening Energy Increase Rate x[2]
+448	Marionette Damage +[*6]
+449	Weapon Critical Damage +[*3%]
+450	Marionette Damage +[4%] of owner's base Intelligence (Maximum [*8])
+451	Weapon's Maximum Critical Rate +[5%]
+452	Casting time for Act 7: Climactic Crash -[*0.2 seconds]
+453	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+454	Defense -[15] and Protection -[10] for [*6 seconds] at [10%] chance upon performing a Talent attack
+455	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+456	Marionette Movement Speed +[200] / Invincible for [15 seconds] when Marionette is summoned or revived
+457	Spirit Control Bar Awakening Damage +[*150%]
+458	Spirit Control Bar Awakening Attack Range +[*50cm]
+459	Spirit Control Bar Awakening Buff Duration +[*3 seconds]
+460	Spirit Control Bar Awakening Buff Bonus Damage +[*3%]
+461	Spirit Control Bar Awakening Energy Increase Rate x[2]
+462	Weapon Damage +[*2]
+463	Weapon Critical Damage +[*3%]
+464	Weapon Damage +[2%] of owner's base Dexterity (Maximum [*3])
+465	Weapon's Maximum Critical Rate +[5%]
+466	Cooldown reset rate for Kunai Storm upon landing a critical hit +[*6%]
+467	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+468	Increases Cast Range for [*6 seconds] at [10%] chance upon performing a Talent attack
+469	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+470	Maximum charge complete after 1 sec for Sakura Abyss
+471	Spirit Shuriken Awakening Damage +[*150%]
+472	Spirit Shuriken Awakening Attack Range +[*50cm]
+473	Spirit Shuriken Awakening Buff Duration +[*3 seconds]
+474	Spirit Shuriken Awakening Buff Bonus Damage +[*3%]
+475	Spirit Shuriken Awakening Energy Increase Rate x[2]
+476	Weapon Damage +[*2]
+477	Weapon Critical Damage +[*3%]
+478	Weapon Damage +[2%] of owner's base Luck (Maximum [*3])
+479	Weapon's Maximum Critical Rate +[5%]
+480	Cooldown reset rate for Shooting Rush upon landing a critical hit +[*4%]
+481	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+482	Increases Cast Range for [*6 seconds] at [10%] chance upon performing a Talent attack
+483	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+484	Automatically reloads instantaneously / Resets the cooldown of Dual Gun skills when Way of the Gun ends
+485	Spirit Dual Gun Awakening Damage +[*150%]
+486	Spirit Dual Gun Awakening Attack Range +[*50cm]
+487	Spirit Dual Gun Awakening Buff Duration +[*3 seconds]
+488	Spirit Dual Gun Awakening Buff Bonus Damage +[*3%]
+489	Spirit Dual Gun Awakening Energy Increase Rate x[2]
+490	Weapon Damage +[*3]
+491	Weapon Critical Damage +[*3%]
+492	Weapon Damage +[3%] of owner's base Will (Maximum [*5])
+493	Weapon's Maximum Critical Rate +[5%]
+494	Performs additional attack to [*25cm] radius with [*4%] damage of the base attack of Chain Impale
+495	Grants [*2%] bonus damage for Talent attacks performed on enemies with bleed, dazed, or defense/protection reduction statuses
+496	Increases Cast Range for [*6 seconds] at [10%] chance upon performing a Talent attack
+497	Grants [*2%] bonus damage for Talent attacks performed on enemies under [30%] HP
+498	Chain Burst Duration +[20 seconds]
+499	Spirit Chain Blade Awakening Damage +[*120%]
+500	Spirit Chain Blade Awakening Attack Range +[*50cm]
+501	Spirit Chain Blade Awakening Buff Duration +[*3 seconds]
+502	Spirit Chain Blade Awakening Buff Bonus Damage +[*3%]
+503	Spirit Chain Blade Awakening Energy Increase Rate x[2]

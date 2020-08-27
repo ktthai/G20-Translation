@@ -1,0 +1,2 @@
+﻿1	Additional Info
+2	The following effects persist for 10 minutes when the master's HP is depleted:\n<color=3>Min Damage +95\nMax Damage +130</color>\nAwakening is canceled when unequipped or when you leave Erinn.

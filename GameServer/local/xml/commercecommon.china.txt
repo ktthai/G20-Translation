@@ -1,0 +1,367 @@
+﻿0	Tir Chonaill
+1	Dunbarton
+2	Bangor
+3	Emain Macha
+4	Taillteann
+5	Tara
+6	Cobh
+7	Belvast
+8	???? ???
+9	Baby Potion
+10	Diet Potion
+11	Snore Prevention Potion
+12	Wild Ginseng Potion
+13	Lovely Potion
+14	Spider Gloves
+15	Wool Boots
+16	Ogre Executioner Mask
+17	Incubus Suit
+18	Succubus Swimsuit
+19	Bangor Coal
+20	Marble
+21	Topaz
+22	Highlander Ore
+23	Lead
+24	Berry Granola
+25	Butter Beer
+26	Smoked Wild Animal
+27	Triple Pasta
+28	Whole BBQ Bear
+29	Heat Crystal
+30	Music Box Preservation Stone
+31	Palala Crystal
+32	Circle Barrier Spikes Crystal
+33	Alchemy Crystal
+34	Mini Dressing Table
+35	Tea Table
+36	Rocking Chair
+37	Bunk Bed
+38	Giant Wine Rack
+39	Cobh Seaweed
+40	Cobh Oyster
+41	Shark Fin
+42	Jellyfish
+43	Neid Scales
+44	Iron Whip
+45	Dark Sword
+46	Safe
+47	Skeleton Ogre Armor
+48	Fake Morgant Helmet
+49	Backpack
+50	Handcart
+51	Wagon
+52	Pack Elephant
+53	???
+54	A purified potion that is safe for children. It doesn't restore HP, but it tastes fruity!
+55	A potion that helps people lose weight. Drink it right before working out. This potion has jumped in popularity recently.
+56	Pour this potion on a plate next to your bed before sleeping. It will produce a pungent smell that expands your nostrils, preventing you from snoring. Just remember to air your bedroom out the next day.
+57	A potion made with a rare wild ginseng from the mountain behind Tir Chonaill. It restores Strength and has other beneficial effects. Be careful of giving to someone with a high body temperature.
+58	A potion that brings true love between the two that drink it. Only works if your intended lover does not know what it is.
+59	Special gloves made for gathering cobwebs. They are coated to prevent the cobwebs from sticking.
+60	Special boots with sound-insulated soles. Makes it easier to sneak up on sheep.
+61	A mask that resembles an Ogre Executioner. Often worn for self-defense at night.
+62	A suit perfect for attracting attention. The Red Incubus Suit is popular these days.
+63	A swimsuit for the Succubus. Only ever seen at noblemen's auctions, for some reason. It is very rare, and rumored to attract the Succubus, perhaps not in a good way.
+64	A mineral used as fuel. It's a little heavy.
+65	A slick white stone. It's often used for floor tiling in luxurious mansions. Tara Royal Castle purchased all marble produced in the last 7 years.
+67	An ore that is synonymous with the weapons it is used to make, such as the Highlander Claymore. Blacksmiths like Ferghus have worked tirelessly to craft better weapons with this ore, but no one has discovered its true potential yet.
+68	The world's heaviest metal. It is too soft to make weapons or armor from, but it has been researched exhaustively by Alchemists such as Leymore and Cai, trying to find a way to transmute it into gold.
+69	A berry-granola mixture, baked in an oven. You can eat it with milk or as a dry snack.
+70	A soft beer made with Emain Macha Butter. Even though it's called beer, it doesn't contain alcohol, so anybody can drink it.
+71	The leg of some beast, wrapped in silver and smoked over an open fire. Whatever it is, it's pretty chewy.
+72	Pasta made with white mushrooms. Since white mushrooms are so rare, this dish is a highly-valued delicacy.
+73	Cooked bear from Emain Macha. To make this, you must tie the bear to a tree trunk, and cook it for a whole day while five strong men rotate it constantly. Definitely worth the effort, though.
+74	A crystal made by compounding Fire and Wind Crystals. You can use it in cylinders, or as a heat pack.
+75	This stone plays a saved sound when it is struck. Only works once.
+76	A crystal that shines incredibly brightly for an instant when used in a cylinder. Excellent for blinding enemies. Just don't forget to cover your own eyes.
+77	A crystal that creates a circular protective barrier around you. Try using it when you need some time alone.
+78	A crystal that can change a small life form into gold. However, it always creates less gold than it takes to make the crystal. Used to make gold beetles or gold minnows. Has no effect on large life forms such as dogs or humans.
+79	A dressing table used by women. It's small enough for anyone to use.
+80	A table made specifically for enjoying a cup of tea. It is round, with engraved patterns adorning its surface.
+81	A rocking chair with a fluffy cushion, filled with cotton. Sitting in it for more than a few minutes will put you out for the night.
+82	A bunk bed with stairs, made with consideration of children's safety. It's low enough that you can fall off and still be fine.
+83	A huge rack for storing wine bottles. A collector's item due to its large size.
+84	Seaweed that tastes good no matter how you cook it. Soggy seaweed gets stuck on the roof of your mouth, so be careful.
+85	A shellfish with a unique smell. It is said that Edern eats them to stay healthy.
+86	Part of the shark that's popular not for its taste, but for its rarity. Since it's hard to catch a shark at all, this remains an extremely rare dish.
+87	A jellyfish. Since it's so slippery, it will go straight down your throat even if you don't chew. Don't forget to clean it before eating!
+88	Scales dropped by Neid. You can obtain a few by pouring some water from Lake Neagh into the waters of Port Cobh. This will make the scales shine. Many consider the scales to be a symbol of luck.
+89	An iron whip used to train horses. Just like a morning star, it has linked chains.
+90	A black-bladed sword. Looks like an ordinary one-handed sword, just black.
+91	A small safe crafted of solid steel, used for storing precious objects. Ordinary beings can't even move this thing.
+92	Armor worn by the Skeleton Ogre. Since it's too heavy for humans, it's used more as a decoration than for battle purposes. It is said the wearer can have superhuman strength, but they probably had it just to be able to wear it at all.
+93	A helmet that looks like just like Dark Lord Morgant's helmet. Don't expect it to have the same power, though!
+94	One-two! One-two!
+95	Are you just pretending that it's heavy?
+96	Aah! Go a little slower.\nI'm hurting because it's shaking so much.
+97	How much will you sell the goods for?\nName your price.
+98	Ah, dropped some money.
+99	My joints are aching.
+100	*Sniff sniff* What's this smell?\nEating it all by yourself? Give me some, too!
+101	*Groooowl*\nUmm, that wasn't my mouth...
+102	You got anything to good to eat? Don't hold out on me!\nGive me something to eat, too.
+103	Cake cake cake...jelly jelly jelly...\nCandy candy candy... I want some.
+104	I'll finally get some meat as soon as I arrive at the Trading Post.
+105	Ma'am...or...mister?\nWhy does your gender change every time? Who ARE you?
+106	I wat some food from Glewyas, too!
+107	Tree...tree tree tree.\nI'm sick of eating fruits from trees. I want something delicious.
+108	Did you know that you make more profit from transporting goods to faraway towns?
+109	You earn so much through transporting.\nDucats, Gold, Merchant Rating, EXP...
+110	No need to get EXP through hunting monsters anymore.\nTransporting is enough.
+111	Isn't it hard to raise your Production skill rank?
+112	If you keep coming and going to the same Trading Post in a town, you will raise your Merchant Rating there, and can buy more goods.
+113	Have you heard of Fomor weapons? You can't specially upgrade them, but they are more powerful than other weapons.
+114	Do you know how hard it is to make a Fomor weapon?
+115	Fomor weapons can only be purchased with Ducats.
+116	Fomor weapons can only be repaired with Ducats. Your Gold's no good here.
+117	Eliminate the bandits before they escape, and your goods will be safe.
+118	Do you know that farther you go, the more bandits you will encounter?\nIt's because your goods become worth so much more in the far corners of the world.
+119	Sometimes Master Bandits appear...they are super strong.
+120	When my heart radar moves... STOP!\nThat means you are surrounded by thieves.
+121	To avoid getting robbed by the bandits, try traveling in a group!
+122	If you think the bandits look like us, you've been fooled!
+124	Did you know that you can get Brionac and Elsinore weapons?\nIf you are super rich, you might get the chance to see them.
+125	Stealing artifacts from Falias was actually much harder than I thought.
+126	How do I look?
+127	I'm actually traveling around the world by hitchhiking.
+128	Onwards to Ceo Island!\nWait, island. That won't work, will it?
+129	I remember meeting this kid who traveled the world carrying only a sack.\nI heard that kid got quite famous.
+130	I remember hearing news about how Ruairi is doing recently.
+133	Ducats were once the currency of the Fomors.\nI don't know where the name comes from.
+134	Hk! Hrrrkkkk!\nHak. Hurrrrkkkk. *Cough*
+135	So, how much did you earn?
+136	So, what's your cellphone number?
+137	What's your cumulative level?
+138	You know...you have to read lots of books to become a good person.
+139	I'll just take a little bit for myself while you are not watching.\nI should get at least this much for traveling with you.
+140	Paladin? Dark Knight? Beast?
+141	Hey...\nI'm hungry.
+142	I'll still be at your side even when you don't have money.\nI know you'll make more eventually.
+143	...Did you smell that? 'Cause it wasn't me.
+144	When I was crying, Kristell patted me on the head.\nDo you ever do things like that?
+145	Edern scolded me for cooking on the furnace.
+146	Run, baby!
+147	3m to the left, 5m to the right...\nOopsies, you stepped in poo.
+148	Run, big sis!
+149	Imp, Imp, Imp!\nSuch a simple yet quality name.
+150	Milletian, Milletian, Milletian?\nWhat kind of name is that?
+151	Run, big bro!
+152	I want to be rich!\nMy dream is to run my own bank.
+153	I don't like Goblins!\nDon't misunderstand me...
+154	I wasn't like this when I was little!\nI used to be nicer...
+155	Mount...your friend must go through a lot.
+156	No sleep-driving!
+157	I'm actually not a bad Imp!\nI'm very thankful for you. Hee hee hee...
+158	What are you doing?\nStop playing and work!
+159	Hey, give me some money.\nI want some hot noodles.
+160	Hey, how much is that weapon?\nI'll buy it, so name your price. Under 100, please.
+161	Legendary weapon...\nI forgot where to buy it...
+162	Do you know that your Damage fell significantly because you were burdened with goods?\nIf you're having trouble,  travel with others.
+163	Do you know that your Damage fell significantly because you were burdened with goods?\nIf you're having trouble,  travel with others.
+164	Do you know that your Damage fell significantly because you were burdened with goods?\nIf you're having trouble,  travel with others.
+165	Do you know that your Damage fell significantly because you were burdened with goods?\nIf you're having trouble,  travel with others.
+166	Do you know that your Damage fell significantly because you were burdened with goods?\nIf you're having trouble,  travel with others.
+167	Do you know that your Damage fell significantly because you were burdened with goods?\nIf you're having trouble,  travel with others.
+168	*Zzzzz*\nImp Smash!
+169	*Zzzzz*\nImp Hail Storm!
+170	*Zzzzz*\nImp Windmill!
+171	*Zzzzz*\nImp Final Hit! Imp Meteor! Imp Wind Breaker!
+172	Baby, baby!\nI hear there are two super ugly beings in this world.
+173	Things like Diet Potions don't work.\nIf you want to lose weight, you exercise!
+174	*Snore*\nWhat, you don't want to hear my snoring? Then, give me some potions!
+175	Ow, ow...my back hurts.\nCan you give me some potions?
+176	Love me, love me! La la la.
+177	What do you use Cobwebs for?\nYou make silk into Cobwebs?\nWait, that's not right.
+178	Can you give me some boots?\nI'm not trying to sell them... I'm just really cold.
+179	What's that ominous-looking mask?\nEhh, I don't like Ogres. Go away.
+180	I don't want to see that outfit.\nIncubus thinks he's all that. Makes me so angry.
+182	Just sell the coals to me.\n1 Ducat each!
+183	I don't understand!\nWhy does everyone like this white stone so much? It's not even brown!
+184	Can you please put away that topaz?\nIt's so shiny that I can't sleep. Mind your manners, sheesh.
+185	If you can make a Highlander Claymore with this ore, I will give you 10 Ducats!
+186	This lead is so heavy... Umph.
+187	How did you know that I like strawberries?\nAww, thanks.
+188	Mmm...the delicious smell of Butter Beer.
+189	Barbecuing is the way to go when it comes to meat.\nChefs at Emain Macha know this.
+190	These truffles...they taste kinda nasty! What are they so expensive?
+191	Are you sure that this bear is dead?\nI'll hate you forever if it gets up and smacks me.
+192	Give me some Heat Crystals when I go to Vales.\nHey, we're friends, aren't we?
+193	If you copy what you just performed with the Preservation Stone and distribute it, the guards will come get you. Copyright infringement!
+194	Is this a Palala Crystal? Can I touch it?\nAck! So bright!
+195	You feeling like a loner these days?\nBuy a Circle Barrier Spikes Crystal.
+196	Is it true that this crystal can make Gold?\nReally?
+197	This dressing table...it's perfect for me!\nCan I have it?
+198	This Tea Table is scratched.\nScratched merchandise can't be sold. Just give it to me.
+199	I used to love rocking chairs when I was little.\nHuh? So what if I am still little? Psh.
+200	It was all about sleeping on the top bunk. Hee hee.
+201	You sure like showing off, yeah?\nWhat's with the wine rack when you don't even have any wine?
+202	Seaweed is best toasted.
+203	You even know how to eat oysters?\nWow, you're all grown up, aren't you?
+204	Are shark fins tasty?\nCan I try a little bit? Just the tip?
+205	Jellyfish... You DID drain the poison, right?
+206	Neid Scales! Lucky!
+208	The blade looks a bit...rotten.
+209	What's in the safe?\nAre you the type of person who has an expensive wallet, but no money?
+210	Why do you like Ogres?\nI hate them because they are so dirty.
+212	Your Tir Chonaill Merchant Rating Level is 1.\nYou didn't even go to the big money towns, huh?
+213	Your Tir Chonaill Merchant Rating Level is 6.\nHave you purchased the Wild Ginseng Potion?
+214	Dunbarton Merchant Rating Level 4! Good job!
+215	Dunbarton Merchant Rating Level 9... Wow, your discount rate must be insane.
+216	Bangor Merchant Rating Level 5?\nTry buying Highlander Ore. I can't guarantee you'll make money on it, though.
+217	Bangor Merchant Rating Level 9!\nCongratulations!
+218	If your Emain Macha Merchant Rating Level is 1, go buy yourself some Berry Granola.
+219	Emain Macha Merchant Rating Level 8...\nBuy us some food with all that money you earned!
+220	Wow!\nI can't believe someone like you reached Taillteann Merchant Rating Level 5!
+221	Good job on reaching Taillteann Merchant Rating Level 7.\nNow, hand over the keys to Taillteann.
+222	Tara Merchant Rating Level 2, eh?\nStop fighting monsters so much and do more transporting.
+223	Tara Merchant Rating Level 6?\nYou got any exclusive goods?
+224	Cobh Merchant Rating Level 3...\nThat place WAS a bit remote... Right?
+225	Cobh Merchant Rating Level 8? I lost the ledger, so... I guess I'll take your word for it.
+226	Belvast Merchant Rating Level 4?\nDo you have anything for seasickness?
+227	Belvast Merchant Rating Level 9?!\nDo you do anything besides trading?
+228	Psh, still carrying a Backpack? Buy something better!\nPoor merchants are so lame!
+229	Isn't that Backpack uncomfortable?\nTry using others. It would do me some good, also...
+230	Stupid Backpack.\nWorst thing to ride on.
+231	Ride the Backpack! One-two! One-two!
+232	Owie owie!\nGo easy on the Handcart! My butt hurts.
+233	Ooh, I see some money hidden in the corner.
+234	Isn't the Handcart much better than the Backpack?
+235	Handcart drift action!
+236	*Creeeeak*\nThis Wagon is too loud!
+237	Did you feed the horses? Don't keep the food to yourself!
+238	Wagon drift action!
+239	I've actually been on a horse faster than these two. It was a something-bread...\nDo you know what I'm talking about?
+240	Don't forget to wash the Pack Elephant. Trust me, the rain won't get the job done.
+241	You have a Pack Elephant now?\nAll you need now is a pack dragon.
+242	Try getting off the Elephant and walking with it.\nAh...can't do it, eh?
+243	Sell the Elephant to me for 1000 Ducats.\nThat's a steal, yeah?
+244	I smell bandits.\nBetter to go around.
+245	My heart radar senses bandits.\nBe careful.
+246	Don't you hear the bandits?
+247	There are bandits nearby.\nStop!
+248	There are bandits close by! What will we do?
+249	Whew, I don't smell bandits anymore. They stink.
+250	I don't sense the bandits.\nProceed with caution and you should be fine.
+251	Bandits aren't coming up on my radar.
+252	You won't be able to deal much damage because of your Trade Goods!\nCan you do it?
+253	You won't be able to deal much damage because of your Trade Goods!\nCan you do it?
+254	You won't be able to deal much damage because of your Trade Goods!\nCan you do it?
+255	I'll go hide! Let me know when it's over.
+256	This should be a breeze for you, no?\nShame on you if it's not.
+257	Come on...don't run away.\nFight bravely! Shame on you if you lose.
+258	I want to help, but my back is killing me today... I'll go rest.\nJust take care of it.
+259	*Yawn* Something like this should be a cinch for you.\nI'll go take a nap.
+260	How was the fight?\nGood job. Let's be on our way now.
+261	Hiyah! I'll take care of these punks!\nHuh? You already took care of them?
+262	Ha, that's what I'm talking about!\nOne look into my eyes, and they run for the hills.
+263	Done?\nLet's go now.
+264	What's taking you so long?\nIf you're done, let's go already!
+265	Ah, we lost a {0}.\nI'm sorry I couldn't help... Kinda sorry.
+266	They stole a {0}.\nAww, poor you... *Pat pat*
+267	{0} was stolen.\nBut don't worry... None of my stuff was stolen.
+268	They stole a {0}.\nThat's no problem, right? Don't be so sad.
+269	Oh no, we lost a {0}! Are you okay?\nShouldn't we get some help?
+270	.
+271	Kg
+272	.
+273	.
+274	I hear there exists an amazing sword called Tyrfing.\nFew are even said to have seen it.
+275	Your whip is kind of worn out, yeah?\nCan you give it to me?
+276	That helmet looks like it's about to break!\nBesides, your head it too big for it.
+277	I'll cut up that Succubus Swimsuit and make a dustrag!
+278	I don't want to go to Physis...it's too cold.
+279	I don't want to go to Connous...it's too hot.
+280	A yellow crystal. Decorate your windows with topaz to make your room yellow, just like Lileas's hair, and give it a warm feel.
+281	Ah, look at that money on the road.
+282	{0} was stolen.\nBut don't worry... None of my stuff was stolen.
+283	They stole a {0}.\nThat's no problem, right? Don't be so sad.
+284	There's supposed to be a smuggler named Byrun\nwho pays a lot of money for Trade Goods.
+287	The more expensive your Trade Goods, the scarier the bandits that appear.\nIf you can't handle it, don't transport expensive goods.
+288	Don't get drawn into smuggling just to get rich.\nIt'll decrease your Merchant Rating.
+289	Bandits are drawn to the Smuggler like moths to a flame. \nIf things get dangerous, I'm going to scram.
+297	[P]Backpack
+298	[P]Handcart
+299	[P]Wagon
+300	[P]Elephant
+301	They stole {0}!\nHurry up and tell the Bounty Hunter!\nThose punks will get away with it if we don't hurry!
+302	We might get our item back once the Outlaw is captured.\nYou don't have any friends?\nShould I introduce you to a hunter?
+303	The board already has the news about how you got robbed.\Congrats on becoming famous!
+304	The faster you catch them,\nthe more items you can get back.\You won't get squat if you take too long.
+308	"One-Eye" Klugger
+310	"Zippy" Nipmore
+311	"No-Face" Nelson
+312	"Horrifying" Herbert
+313	"Shifty" Shankleton
+315	"Scandalous" Charlene
+316	"Stinky" Berkkus
+317	Klugger used to be Belvast's greatest bandit, feared by even pirates, until losing an eye to Admiral Owen. He's moved to Uladh to start fresh.
+318	Berkkus is infamous for his poisonous blade, and eagerness to use it. Many folk have been sent to the Soul Stream by this foul miscreant.
+319	Nipmore lives up to his nickname with his ability to chase after swift wagons and empty them without stopping.
+320	Nelson, also known as the 'shark of Belvast', is rumored to be gathering funds for a rebellion. His true identity remains hidden from all.
+321	Nothing is known of this terrifying figure. Some say his skin is pure steel, immune to any sort of normal attacks.
+322	Shankleton specializes in stealing right from the Trading Posts themselves. Even among thieves, he has no loyalty and no friends.
+323	Also called the 'Eweca stalker', Charlene is famous for her incredible beauty. Merchants who fall for her spell find their wagons empty in a flash.
+325	Ocean Tear
+326	Allure Stem
+327	Abyss Crystal
+328	Sage Crystals
+330	Night Sky Leather
+331	Unidentified Fish
+332	Crystal Blade
+333	A formation of coral and pearl that evokes the beauty of the ocean.
+341	Scathach Beach
+342	A purified potion that is safe for children. It doesn't restore HP, but it tastes fruity!
+343	A potion that helps people lose weight. Drink it right before working out. This potion has jumped in popularity recently.
+344	Pour this potion on a plate next to your bed before sleeping. It will produce a pungent smell that expands your nostrils, preventing you from snoring. Just remember to air your bedroom out the next day.
+345	A potion made with a rare wild ginseng from the mountain behind Tir Chonaill. It restores Strength and has other beneficial effects. Be careful of giving to someone with a high body temperature.
+346	A potion that brings true love between the two that drink it. Only works if your intended lover does not know what it is.
+347	Special gloves made for gathering cobwebs. They are coated to prevent the cobwebs from sticking.
+348	A mask that resembles an Ogre Executioner. Often worn for self-defense at night.
+349	A suit perfect for attracting attention. The Red Incubus Suit is popular these days.
+350	A swimsuit for the Succubus. Only ever seen at noblemen's auctions, for some reason. It is very rare, and rumored to attract the Succubus, perhaps not in a good way.
+351	A mineral used as fuel. It's a little heavy.
+352	A slick white stone. It's often used for floor tiling in luxurious mansions. Tara Royal Castle purchased all marble produced in the last 7 years.
+353	A yellow crystal. Decorate your windows with topaz to make your room yellow, just like Lileas's hair, and give it a warm feel.
+354	An ore that is synonymous with the weapons it is used to make, such as the Highlander Claymore. Blacksmiths like Ferghus have worked tirelessly to craft better weapons with this ore, but no one has discovered its true potential yet.
+355	The world's heaviest metal. It is too soft to make weapons or armor from, but it has been researched exhaustively by Alchemists such as Leymore and Cai, trying to find a way to transmute it into gold.
+356	A berry-granola mixture, baked in an oven. You can eat it with milk or as a dry snack.
+357	A soft beer made with Emain Macha Butter. Even though it's called beer, it doesn't contain alcohol, so anybody can drink it.
+358	The leg of some beast, wrapped in silver and smoked over an open fire. Whatever it is, it's pretty chewy.
+359	Pasta made with white mushrooms. Since white mushrooms are so rare, this dish is a highly-valued delicacy.
+360	Cooked bear from Emain Macha. To make this, you must tie the bear to a tree trunk, and cook it for a whole day while five strong men rotate it constantly. Definitely worth the effort, though.
+361	A crystal made by compounding Fire and Wind Crystals. You can use it in cylinders, or as a heat pack.
+362	This stone plays a saved sound when it is struck. Only works once.
+363	A crystal that shines incredibly brightly for an instant when used in a cylinder. Excellent for blinding enemies. Just don't forget to cover your own eyes.
+364	A crystal that creates a circular protective barrier around you. Try using it when you need some time alone.
+365	A crystal that can change a small life form into gold. However, it always creates less gold than it takes to make the crystal. Used to make gold beetles or gold minnows. Has no effect on large life forms such as dogs or humans.
+366	A dressing table used by women. It's small enough for anyone to use.
+367	A table made specifically for enjoying a cup of tea. It is round, with engraved patterns adorning its surface.
+368	A rocking chair with a fluffy cushion, filled with cotton. Sitting in it for more than a few minutes will put you out for the night.
+369	A bunk bed with stairs, made with consideration of children's safety. It's low enough that you can fall off and still be fine.
+370	A huge rack for storing wine bottles. A collector's item due to its large size.
+371	Seaweed that tastes good no matter how you cook it. Soggy seaweed gets stuck on the roof of your mouth, so be careful.
+372	A shellfish with a unique smell. It is said that Edern eats them to stay healthy.
+373	Part of the shark that's popular not for its taste, but for its rarity. Since it's hard to catch a shark at all, this remains an extremely rare dish.
+374	A jellyfish. Since it's so slippery, it will go straight down your throat even if you don't chew. Don't forget to clean it before eating!
+375	Scales dropped by Neid. You can obtain a few by pouring some water from Lake Neagh into the waters of Port Cobh. This will make the scales shine. Many consider the scales to be a symbol of luck.
+376	An iron whip used to train horses. Just like a morning star, it has linked chains.
+377	A black-bladed sword. Looks like an ordinary one-handed sword, just black.
+378	A small safe crafted of solid steel, used for storing precious objects. Ordinary beings can't even move this thing.
+379	Armor worn by the Skeleton Ogre. Since it's too heavy for humans, it's used more as a decoration than for battle purposes. It is said the wearer can have superhuman strength, but they probably had it just to be able to wear it at all.
+380	A helmet that looks like just like Dark Lord Morgant's helmet. Don't expect it to have the same power, though!
+381	A tough, smooth stem. Must flora taken from the Forest of Temptation crumbles quickly, so rare samples like this are highly sought after.
+382	You feel like you might get sucked into the blackness of this crystal. Infusing it with mana can create many colorful effects, making this a valuable decorative piece.
+383	A bottle of colorless crystals. These can be used to enhance the quality of other alchemy crystals, regardless of attributes or effects.
+384	A blue, viscous liquid. Adding this to potions will give them a little extra kick.
+385	Leather that shines in the dark. Looking into this is like looking into the night sky. Used in high quality outfits.
+386	Unidentifiable fish from the deep seas. Highly valued among collectors.
+387	A long, thin, cracked blade made out of crystal. Used as a decoration, not a weapon; the longer, the better.
+388	River's Source
+389	[Alpaca] Wagon
+390	[P] Light Backpack
+391	[P] Hard Handcart
+392	[P] Expensive Wagon
+393	[P] Strong Elephant
+397	Rental Wagon
+398	[P] Rental Wagon
+399	[P] Rental Wagon

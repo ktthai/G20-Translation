@@ -1,0 +1,3252 @@
+﻿1	Making Braid
+2	Making Thick Thread
+3	Making Thin Thread
+4	Making Finest Leather Strap
+5	Making Fine Leather Strap
+6	Making Common Leather Strap
+7	Making Cheap Leather Strap
+8	Making Braid(Part Time Job)
+9	Making Thick Thread(Part Time Job)
+10	Making Thin Thread (Part Time Job)
+11	Making the Finest Leather Strap (Part Time Job)
+12	Making the Fine Leather STrap (Part Time Job)
+13	Making a Common Leather Strap (Part Time Job)
+14	Making a Cheap Leather Strap (Part Time Job)
+15	Making Thread
+16	Making Fabric
+17	Making Fabric
+18	Making Fabric
+19	Making Fabric
+20	Making Silk
+21	Making Silk
+22	Making Silk
+23	Making Silk
+24	Making Cloth
+25	Refine Mythril
+26	Refine Gold Ingot
+27	Refine Silver Ingot
+28	Refine Copper Ingot
+29	Refine Iron Ingot
+30	Refine Ore
+31	Milling Wheat Flour
+32	Milling Barley Flour
+33	Milling Crops
+34	HP 50 Potion
+35	HP 100 Potion
+36	MP 50 Potion
+37	MP 100 Potion
+38	Stamina 50 Potion
+39	Stamina 100 Potion
+40	Wound Remedy 10 Potion
+41	Wound Remedy 30 Potion
+42	HP && MP 30 Potion
+43	HP && MP 50 Potion
+44	You can make a braid by intertwining thick and thin threads.
+45	You can extract thick thread from wool.
+46	You can extract a thin thread from cobwebs.
+47	Make a leather strap.\n(Weaving skill Rank C or higher)
+48	You can make a leather strap by cutting fine leather.
+49	You can make a leather strap by cutting common leather.
+50	You can make a leather strap by cutting cheap leather.
+51	Make a braid with thick and thin threads. (Part-time use)
+52	You can extract thick thread from wool. (Part-time use)
+53	You can extract a thin thread from cobwebs. (Part-time use)
+54	Make a leather strap. (Part-time use)
+55	Make a leather strap. (Part-time use)
+56	Make a leather strap. (Part-time use)
+57	Make a leather strap. (Part-time use)
+58	You can extract thread from a spinning wheel.\n1 thick thread from 5 pieces of wool,\n1 thin thread from 5 cobwebs,\n1 braid from 1 thick thread and 1 thin thread,\nand 1 leather strap from 1 piece of leather.\nA tool with a blade is required to make a leather strap.
+59	Use thick thread and a loom to weave fabric.
+60	Use thick thread and a loom to weave fabric.
+61	Use thick thread and a loom to weave fabric.
+62	Use thick thread and a loom to weave fabric.
+63	Use thin thread and a loom to weave silk.
+64	Use thin thread and a loom to weave silk.
+65	Use thin thread and a loom to weave silk.
+66	Use thin thread and a loom to weave silk.
+67	You can make cloth using a loom.\n\nYou can weave 1 piece of fabric using 5 thick threads,\nand 1 piece of silk using 5 thin threads.\n\nWeaving gloves must be worn to weave silk.
+68	Melt 5 pieces of Mythril Ore to make 1 Mythril Ingot.
+69	Melt 5 pieces of Gold Ore to make 1 Gold Ingot.
+70	Melt 5 pieces of Silve Ore to make 1 Silver Ingot.
+71	Melt 5 pieces of Copper Ore to make 1 Copper Ingot.
+72	Melt 5 pieces of Iron Ore to make 1 Iron Ingot.
+73	You can refine an ingot from all types of ore.\n\nPlease insert the ore.\nGenerally, 5 pieces of ore will become 1 piece of ingot.\n\nYou can refine 1 type of ore at a time.
+74	Make 1 bag of wheat flour by milling 10 bundles of wheat.
+75	Make 1 bag of barley flour by milling 10 bundles of barley.
+76	Use the mill to grind crops.\n\nYou can make 1 bag of wheat flour from 10 bundles of wheat, and 1 bag of barley flour from 10 bundles of barley.\nYou can only make 1 bag of flour at a time, and any remaining materials are discarded.
+77	Make HP 50 Potion.
+78	생명력 100 포션을 만든다.
+79	마나 50 포션을 만든다. 포션 한개당 마나 10이 필요하다.
+80	마나 100 포션을 만든다. 포션 한개당 마나 20이 필요하다.
+81	Make Stamina 50 Potion.
+82	스태미나 100 포션을 만든다.
+83	부상 10 회복 포션을 만든다. 포션 한개당 마나 15가 필요하다.
+84	부상 30 치료 포션을 만든다. 포션 한개당 마나 25가 필요하다.
+85	생명력과 마나 30 포션을 만든다. 포션 한개당 마나 10이 필요하다.
+86	생명력과 마나 50 포션을 만든다. 포션 한개당 마나 20이 필요하다.
+87	Thick and Thin Threads
+88	Wool
+89	Cobweb
+90	Finest Leather
+91	Fine Leather
+92	Common Leather
+93	Cheap Leather
+94	Thick and Thin Threads for Part-time Use
+95	Wool for Part-time Use
+96	Cobweb for Part-time Use
+97	Finest Leather for Part-time Use
+98	Fine Leather for Part-time Use
+99	Common Leather for Part-time Use
+100	Cheap Leather for Part-time Use
+101	
+102	Thick Thread
+103	Thick Thread
+104	Thick Thread
+105	Thick Thread
+106	Thin Thread
+107	Thin Thread
+108	Thin Thread
+109	Thin Thread
+110	
+111	Mythril Ore
+112	Gold Ore
+113	Silver Ore
+114	Copper Ore
+115	Iron Ore
+116	
+117	Wheat
+118	Barley
+119	
+120	Bloody Herb; Base Herb; Water
+121	Bloody Herb; Base Herb; Blessing Water
+122	Mana Herb; Base Herb; Water
+123	Mana Herb; Base Herb; Blessing Water
+124	Sunlight Herb; Base Herb; Water
+125	Sunlight Herb; Base Herb; Blessing Water
+126	Gold Herb; Bloody Herb; Mana Herb; Base Herb; Water
+127	Gold Herb; Bloody Herb; Mana Herb; Base Herb; Blessing Water
+128	Bloody Herb; Mana Herb; Base Herb; Water
+129	Bloody Herb; Mana Herb; Base Herb; Blessing Water
+130	Your hands must be empty to make a braid.
+131	Your hands must be empty to make thick thread.
+132	Your hands must be empty to make thin thread.
+133	A tool with a blade is required to make a leather strap.
+134	A tool with a blade is required to make a leather strap.
+135	A tool with a blade is required to make a leather strap.
+136	A tool with a blade is required to make a leather strap.
+137	Your hands must be empty to make a braid.
+138	Your hands must be empty to make a thick thread.
+139	Your hands must be empty to make thin thread.
+140	A tool with a blade is required to make a leather strap.
+141	A tool with a blade is required to make a leather strap.
+142	A tool with a blade is required to make a leather strap.
+143	A tool with a blade is required to make a leather strap.
+144	
+145	Your hands must be empty to weave the fabric.
+146	Your hands must be empty to weave the fabric.
+147	Your hands must be empty to weave the fabric.
+148	Your hands must be empty to weave the fabric.
+149	Silk Weaving Gloves must be worn to weave silk.
+150	Silk Weaving Gloves must be worn to weave silk.
+151	Silk Weaving Gloves must be worn to weave silk.
+152	Silk Weaving Gloves must be worn to weave silk.
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	
+161	
+162	
+163	
+164	
+165	
+166	
+167	
+168	
+169	
+170	
+171	
+172	
+183	
+184	
+185	Making Handmade Arrows
+186	Making Fine Handmade Arrows
+188	Making Handmade Bolts
+189	Making Fine Handmade Bolts
+191	Making Magic Powder
+192	Making Magic Powder
+193	Making Magic Powder
+194	Making Paper Crane
+195	Making Paper Hat
+218	Bundle of Fine Arrowhead and Firewood
+223	Small Blue Gem and Base Herb
+224	Small Red Gem and Base Herb
+225	Small Silver Gem and Base Herb
+227	Traveler's Guidebook
+232	Ghost Fluid and Cheap Leather
+233	A Handicraft Kit is required to make a Handmade Arrow
+234	A Handicraft Kit is required to make a Fine Handmade Arrow
+239	A Handicraft Kit is required to make this item.
+240	A Handicraft Kit is required to make this item.
+241	A Handicraft Kit is required to make this item.
+243	A Handicraft Kit is required to make a Paper Hat.
+248	고스트 유리칼을 만들려면 손에 핸디크래프트 키트를 들고 있어야 합니다.
+250	Handicraft
+252	You can make the Fine Handmade Arrow using a Bundle of Fine Arrowhead and 5 pieces of Firewood.
+257	You can make the Paper Hat using the Traveler's Guidebook given by Nao.
+267	A Handicraft Kit is required to make a Handmade Bolt.
+268	A Handicraft Kit is required to make a Fine Handmade Bolt.
+270	A Handicraft Kit is required to make a Paper Crane.
+271	You can make the Handmade Arrow using a Bundle of Arrowhead and 5 pieces of Firewood.
+273	You can make the Handmade Bolt using a Bundle of Bolt Heads and 4 pieces of Firewood.
+274	You can make the Fine Handmade Bolt using a Bundle of Fine Bolt Heads and 4 pieces of Firewood.
+276	You can make the Magic Powder using 1 Small Blue Gem and 1 Base Herb. It's more difficult to make than using Silver Gem or Red Gem.
+277	You can make the Magic Powder using 1 Small Red Gem and 1 Base Herb. It's easier to make than using Blue Gem, but more difficult to make than using Silver Gem.
+278	You can make the Magic Powder using 1 Small Silver Gem and 1 Base Herb.
+280	Bundle of Bolt Head and Firewood
+281	Fine Bundle of Bolt Head and Firewood
+286	Making Cooking Table
+288	Making Fishing Pole
+289	Making Rolling Pin
+290	Making a Ladle
+292	You can make the Cooking Table using 5 pieces of Firewood and 10 Large Nails.
+294	You can make the Fishing Pole using 1 Wooden Stick and 1 Thin Thread.
+295	You can make the Rolling Pin using 2 pieces of Firewood.
+296	You can make the Ladle using 3 pieces of Firewood.
+301	Wooden Stick and Thin Thread
+302	Firewood
+303	Firewood
+305	A Handicraft Kit is required to make a Cooking Table.
+307	A Handicraft Kit is required to make a Fishing Pole.
+308	A Handicraft Kit is required to make a Rolling Pin.
+309	A Handicraft Kit is required to make a Ladle.
+310	Making Ghost Sword
+311	You can make the Ghost Sword using Ghost Fluid and Cheap Leather Strap. The blade of Ghost Sword becomes dull after using it once, but the weapon has excellent attack rate and damage balance.
+312	You can make the Paper Crane by folding paper. Combine 1,000 Paper Cranes in one, and it'll change its shape.
+313	Make an item using the Handicraft skill with the Handicraft Kit equipped in one hand.\n\nUse 5 pieces of firewood and a bundle of arrowhead to make the Handmade Arrow, and\nuse 4 pieces of firewood and a bundle of bold heads for Handmade Bolts.\n\nUse various combinations of items to make different items!
+314	Paper
+315	Bundle of Arrowhead and Firewood
+316	Firewood and Large Nail
+317	Spirit Liqueur
+318	Make the Spirit Liqueur. One Liqueur requires 10 MP.
+320	
+321	White Herb;Piece of an Ancient Spirit Fossil;Elemental Remover
+322	Firewood;Bundle of Arrowhead
+323	Firewood;Bundle of Fine Arrowhead
+324	Firewood;Large Nail
+325	Firewood;Bundle of Bolt Heads
+326	Firewood;Bundle of Fine Bolt Heads
+327	Small Blue Gem;Base Herb
+328	Small Red Gem;Base Herb
+329	Small Silver Gem;Base Herb
+330	Wooden Stick;Thin Thread
+331	Cheap Leather Strap;Ghost Fluid
+332	Making Handmade Bandage
+333	Making Fine Handmade Bandage
+334	Use 1 Cheap Fabric to make the Handmade Bandage.
+335	Use 1 Common Fabric to make the Fine Handmade Bandage.
+336	Cheap Fabric
+337	Common Fabric
+338	A Handicraft Kit is required to make a Handmade Bandage.
+339	A Handicraft Kit is required to make a Fine Handmade Bandage.
+340	Alby Dungeon Pass
+343	A Handicraft Kit is required to make an Alby Dungeon Pass.
+345	Ciar Dungeon Pass
+346	Rabbie Dungeon Pass
+347	Math Dungeon Pass
+348	Fiodh Dungeon Pass
+349	Coill Dungeon Pass
+350	Rundal Dungeon Pass
+351	Peaca Dungeon Pass
+352	Barri Dungeon Pass
+371	A Handicraft Kit is required to make a Ciar Dungeon Pass.
+372	A Handicraft Kit is required to make a Rabbie Dungeon Pass.
+373	A Handicraft Kit is required to make a Math Dungeon Pass.
+374	A Handicraft Kit is required to make a Fiodh Dungeon Pass.
+375	A Handicraft Kit is required to make a Coill Dungeon Pass.
+376	A Handicraft Kit is required to make a Rundal Dungeon Pass.
+377	A Handicraft Kit is required to make a Peaca Dungeon Pass.
+378	A Handicraft Kit is required to make a Barri Dungeon Pass.
+379	Chain of Protection
+380	Use Mythril Thread to make the Chain of Protection
+381	Mythril Thread
+382	A Handicraft Kit is required to make a Chain of Protection
+383	Spirit-hearing Water
+384	영혼의 소리를 듣는 물을 만든다. 물 하나당 마나 20이 필요하다.
+395	
+396	Spirit Potion
+407	White Herb;Bloody Herb;Mana Herb
+410	Anti-Fomor Cloth
+411	You can make the Fomorproof Cloth using Fine Silk, Mana Herb, and Holy Water of Lymilark
+412	Fine Silk;Holy Water of Lymilark;Mana Herb
+413	A Handicraft Kit is required to make an Anti-Fomor Cloth.
+414	Spirit Potion can be made using the Spirit-Forming Bottle, Spirit-Viewing Powder, and Spirit-Hearing Water.
+415	Spirit-Forming Bottle;Spirit-Viewing Powder;Spirit-Hearing Water
+416	A Handicraft Kit is required to make a Spirit Potion.
+417	Alby Dungeon Pass can be made using the Fomor Command Scroll (Alby Dungeon), Holy Water of Lymilark, and Mana Herb.
+426	Fomor Command Scroll (Alby Dungeon);Holy Water of Lymilark;Mana Herb
+427	Fomor Command Scroll (Ciar Dungeon);Holy Water of Lymilark;Mana Herb
+428	Fomor Command Scroll (Rabbie Dungeon);Holy Water of Lymilark;Mana Herb
+429	Fomor Command Scroll (Math Dungeon);Holy Water of Lymilark;Mana Herb
+430	Fomor Command Scroll (Fiodh Dungeon);Holy Water of Lymilark;Mana Herb
+431	Fomor Command Scroll (Coill Dungeon);Holy Water of Lymilark;Mana Herb
+432	Fomor Command Scroll (Rundal Dungeon);Holy Water of Lymilark;Mana Herb
+433	Fomor Command Scroll (Peaca Dungeon);Holy Water of Lymilark;Mana Herb
+434	Fomor Command Scroll (Barri Dungeon);Holy Water of Lymilark;Mana Herb
+435	You can make a Ciar Dungeon Pass by using Fomor Command Scroll (Ciar Dungeon), Holy Water of Lymilark, and Mana Herb.
+436	You can make a Rabbie Dungeon Pass by using Fomor Command Scroll (Rabbie Dungeon), Holy Water of Lymilark, and Mana Herb.
+437	You can make a Math Dungeon Pass by using Fomor Command Scroll (Math Dungeon), Holy Water of Lymilark, and Mana Herb.
+438	You can make a Fiodh Dungeon Pass by using Fomor Command Scroll (Fiodh Dungeon), Holy Water of Lymilark, and Mana Herb.
+439	You can make a Coill Dungeon Pass by using Fomor Command Scroll (Coill Dungeon), Holy Water of Lymilark, and Mana Herb.
+440	You can make a Rundal Dungeon Pass by using Fomor Command Scroll (Rundal Dungeon), Holy Water of Lymilark, and Mana Herb.
+441	You can make a Peaca Dungeon Pass by using Fomor Command Scroll (Peaca Dungeon), Holy Water of Lymilark, and Mana Herb.
+442	You can make a Barri Dungeon Pass by using Fomor Command Scroll (Barri Dungeon), Holy Water of Lymilark, and Mana Herb.
+443	Making Iron Plate
+444	Making Copper Plate
+445	Making Silver Plate
+446	Making Gold Plate
+448	Iron Ingot
+449	Copper Ingot
+450	Silver Ingot
+451	Gold Ingot
+452	Mythril Ingot
+453	
+454	
+455	
+456	
+457	
+458	
+459	
+460	
+461	
+463	Making Mythril Plate
+465	Antidote Potion
+466	HP && Stamina 30 Potion
+467	HP && Stamina 50 Potion
+469	해독 포션을 만든다. 포션 한개당 마나 20이 필요하다.
+470	생명력과 스태미나 30 포션을 만든다. 포션 한개당 마나 10이 필요하다.
+471	생명력과 스태미나 50 포션을 만든다. 포션 한개당 마나 20이 필요하다.
+473	Base Herb; Antidote Herb; Water
+480	Making Tough String
+482	Making Handicraft Kit
+483	Making Potion Concoction Kit
+484	Making Finest Handmade Arrow
+485	Making Finest Handmade Bolt
+486	Making Finest Handmade Bandage
+494	You can make a tough string by intertwining thick threads.
+496	You can make an Iron Plate by melting 1 Iron Ingot.\n\nOnly one Iron Plate can be made at a time. \nIron Plate is used to make various metal-related items.
+497	You can make a Copper Plate by melting 1 Copper Ingot.\n\nOnly one Copper Plate can be made at a time. \nCopper Plate is used to make various metal-related items.
+498	You can make a Silver Plate by melting 1 Silver Ingot.\n\nOnly one Silver Plate can be made at a time. \nSilver Plate is used to make various metal-related items.
+499	You can make a Gold Plate by melting 1 Gold Ingot.\n\nOnly one Gold Plate can be made at a time. \nGold Plate is used to make various metal-related items.
+501	You can make the Handicraft Kit using 3 pieces of Firewood and 5 Large Nails.
+502	You can make the Potion Concoction Kit using 2 pieces of Firewood and 4 Large Nails.
+503	You can make the Finest Handmade Arrow by using the Bundle of Finest Arrowhead and 5 pieces of Firewood.
+505	You can make the Finest Handmade Bandage using 1 Fine Fabric.
+513	Thick Thread
+514	Thin Thread
+515	Firewood;Large Nail
+516	Firewood;Large Nail
+517	Firewood;Bundle of Finest Arrowhead
+518	Firewood;Bundle of Finest Bolt Heads
+519	Fine Fabric
+527	Your hands must be empty to make a tough string.
+529	A Handicraft Kit is required to make a Handicraft Kit.
+530	A Handicraft Kit is required to make a Potion Concoction Kit.
+531	A Handicraft Kit is required to make a Finest Handmade Arrow.
+532	A Handicraft Kit is required to make a Finest Handmade Bolt.
+533	A Handicraft Kit is required to make a Finest Handmade Bandage.
+541	Making Tough Thread
+549	You can make tough thread by tying thin threads.
+550	Make a Mythril Plate.  \nMythril Plates are used to create various metal items.  \n
+551	You can make the Finest Handmade Bolt by using a Bundle of the Finest Bolt Heads and 4 pieces of Firewood.
+559	Iron Bar;Tough Thread;Magical Golden Thread;Magical Silver Thread
+563	Your hands must be empty to make tough thread.
+567	A Handicraft Kit is required to make a Nao Costume Kit.
+568	A Handicraft Kit is required to make a Thicket Costume Kit.
+569	A Handicraft Kit is required to make a Tree Costume Kit.
+573	Poison Potion
+574	Making Rock Costume Kit
+575	Making Sun Costume Kit
+576	Making Thicket Costume Kit
+577	Making Nao Costume Kit
+578	Making Tree Costume Kit
+579	Making Item Fishing Pole W22
+580	Making Item Illusion T46
+581	포이즌 포션을 만든다. 포션 한개당 마나 20이 필요하다.
+584	You can make Item Fishing Pole W22 by using 1 Iron Bar, 1 Tough Thread, 1 Magical Golden Thread, and 1 Magical Silver Thread
+586	Base Herb; Poison Herb; Water
+587	A Handicraft Kit is required to make a Rock Costume Kit.
+588	A Handicraft Kit is required to make a Sun Costume Kit.
+589	A Handicraft Kit is required to make an Item Fishing Pole W22.
+590	A Handicraft Kit is required to make an Item Illusion T46.
+591	Making Wood Board
+592	You can make the Rock Costume Kit by using 2 wood boards and 4 pieces of paper.
+593	You can make the Sun Costume Kit by using 2 wood boards and 3 pieces of paper.
+594	You can make the Thicket Costume Kit by using 2 wood boards and 2 pieces of paper.
+595	You can make the Nao Costume Kit by using 3 wood boards and 3 pieces of paper.
+596	You can make the Tree Costume Kit by using 3 wood boards and 2 pieces of paper.
+598	You can make the Wood Board by using 5 pieces of Firewood, 5 Large Nails, 2 Iron Bars, and 2 Tough Threads.
+599	Bloody Herb; Base Herb
+600	Bloody Herb; Base Herb; Base Potion
+601	Mana Herb; Base Herb
+602	Mana Herb; Base Herb; Base Potion
+603	Sunlight Herb; Base Herb
+604	Sunlight Herb; Base Herb; Base Potion
+605	Gold Herb; Bloody Herb; Mana Herb; Base Herb
+606	Gold Herb; Bloody Herb,; Mana Herb; Base Herb; Base Potion
+607	Bloody Herb; Mana Herb; Base Herb
+608	Bloody Herb; Mana Herb; Base Herb; Base Potion
+609	Base Herb; Mandrake
+610	Base Herb; Mandrake; Base Potion
+611	Wood Board;Paper
+612	Wood Board;Paper
+613	Wood Board;Paper
+614	Wood Board;Paper
+615	Wood Board;Paper
+617	Firewood;Large Nail;Iron Bar;Tough String
+618	A Handicraft Kit is required to make a Wood Board.
+619	You can make Item Illusion T46 by using 2 Steel Plates, 2 Wood Boards, 2 Large Nails, and 5 bags of Food Waste.
+620	Steel Plate;Wood Board;Large Nail;Food Waste
+621	고스트 소드를 만들려면 손에 핸디크래프트 키트를 들고 있어야 합니다.
+622	고스트 유리칼을 만들려면 손에 핸디크래프트 키트를 들고 있어야 합니다.
+623	Standing Lamp
+624	Making Stationary table
+625	Making Bird Cage
+626	You can make a Standing Lamp by using 3 Wood Boards and 3 Common Fabrics.
+627	You can make a Stationary Table by using 3 Wood Boards, 3 Common Fabrics, and 5 Large Nails.
+628	You can make a Wooden Bird Cage by using 3 Wood Boards, 3 Tough Thread, and 5 Large Nails.
+629	Wood Board;Common Fabric
+630	Wood Board;Common Fabric;Large Nail
+631	Wood Board;Tough Thread;Large Nail
+632	A Handicraft Kit is required to make a Standing Lamp.
+633	A Handicraft Kit is required to make a Stationary Table.
+634	A Handicraft Kit is required to make a Wooden Bird Cage.
+635	A Handicraft Kit is required to make a Ghost Sword.
+636	Making HP 100 Potion. 1 potion requires 10 MP.
+637	Making MP 50 Potion.
+638	Making MP 100 Potion. 1 potion requires 10 MP.
+639	Making Stamina 100 Potion. 1 potion requires 10 MP.
+640	부상 10 회복 포션을 만든다. 포션 한개당 마나 10이 필요하다.
+641	Making wound recovery 30 Potion. 1 potion requires 20 MP.
+642	Makes an HP && MP 30 Potion.
+643	Makes an HP && MP 50 Potion. 1 potion requires 10 MP.
+644	Make water that hears the sound of soul. 1 bottle of water requires 10 MP.
+645	Making Poison Potion. 1 potion requires 10 MP.
+646	Making Antidote Potion. 1 potion requires 10 MP.
+647	Makes an HP && Stamina 30 Potion.
+648	Makes an HP && Stamina 50 Potion. 1 potion requires 10 MP.
+649	Making Spinning Wheel - Finest Leather Strap
+650	Making Spinning Wheel- Fine Leather Strap
+651	Making Fabric Weaving Loom
+652	Making Silk Weaving Loom
+661	A Handicraft Kit is required to make this item.
+662	A Handicraft Kit is required to make this item.
+663	A Handicraft Kit is required to make a Fabric Weaving Loom.
+664	A Handicraft Kit is required to make a Silk Weaving Loom.
+665	You can make the Spinning Wheel for Finest Leather Strap by using 3 Wood Boards, 8 Large Nails, and 8 Tough Threads
+666	You can make the Spinning Wheel for Fine Leather Strap by using 3 Wood Boards, 4 Large Nails, and 4 Tough Threads
+667	You can make the Fabric Weaving Loom by using 2 Wood Boards, 6 Large Nails, and 6 Tough Threads.
+668	You can make the silk weaving loom by using 2 Wood Boards, 4 Large Nails, and 4 Tough Threads
+669	Wood Board;Large Nail;Tough Thread
+670	Wood Board;Large Nail;Tough Thread
+671	Wood Board;Large Nail;Tough Thread
+672	Wood Board;Large Nail;Tough Thread
+673	Making wound recovery 10 Potion. 1 potion requires 10 MP.
+674	Potion Making
+675	You can make potions holding a potion concoction kit in you hand, and using your potion making skill.
+676	
+677	
+678	Thick Thread; Thin Thread
+679	Thick Thread for Part-time Use; Thin Thread for Part-time Use
+687	Alby Dungeon Pass (For Statue Restoration)
+688	Ciar Dungeon Pass (For Statue Restoration)
+689	Rabbie Dungeon Pass (For Statue Restoration)
+690	Math Dungeon Pass (For Statue Restoration)
+691	Fiodh Dungeon Pass (For Statue Restoration)
+692	Coill Dungeon Pass (For Statue Restoration)
+693	Rundal Dungeon Pass (For Statue Restoration)
+694	Peaca Dungeon Pass (For Statue Restoration)
+695	Barri Dungeon Pass (For Statue Restoration)
+696	Making Braid (Part-time Use)
+697	Making Thick Thread (Part-time Use)
+698	Making Thin Thread (Part-time Use)
+699	Making Finest Leather Strap (Part-time Use)
+700	Making Fine Leather Strap (Part-time Use)
+701	Making Common Leather Strap (Part-time Use)
+702	Making Cheap Leather Strap (Part-time Use)
+707	Making Bone Marine Sword
+708	You can make a Bone Marine Sword with 1 Sunfish Bone.
+709	Sunfish Bone
+710	A Handicraft Kit is required to make a Bone Marine Sword.
+711	HP 300 Potion
+712	MP 300 Potion
+713	Stamina 300 Potion
+714	Good Luck Potion
+715	Makes HP 300 Potion. Requires MP 10 per every potion made.
+716	Makes MP 300 Potion. Requires MP 10 per every potion made.
+717	Makes Stamina 300 Potion. Requires MP 10 per every potion made.
+718	Makes a Good Luck Potion. Requires MP 30 per every potion made.
+719	Four-Leaf Clover; HP 100 Potion; Bottled Water; Mandrake
+720	Four-Leaf Clover; MP 100 Potion; Bottled Water; Mandrake
+721	Four-Leaf Clover; Stamina 100 Potion; Bottled Water; Mandrake
+722	Four-Leaf Clover; Base Herb; Bottled Water
+723	
+724	
+725	
+726	
+727	Milling Baked Bean Powder
+728	Milling Peeled Bean Powder
+729	Milling Bloated Bean Powder
+730	Milling Magic Bean Powder
+731	Milling Peeled Bean Powder
+732	You can make 1 bag of baked bean powder by milling 5 baked beans.\nYou can only make 1 bag of baked bean powder at a time.
+733	You can make 1 bag of peeled bean powder by milling 5 peeled beans.\nYou can only make 1 bag of peeled bean powder at a time.
+734	You can make 1 bag of bloated bean powder by milling 5 bloated beans.\nYou can only make 1 bag of bloated bean powder at a time.
+735	You can make 1 bag of magic bean powder by milling 5 magic beans.\nYou can only make 1 bag of magic bean powder at a time.
+736	Use 1 bean to peel it off and make it into a peeled bean.
+737	Baked Bean
+738	Peeled Bean
+739	Bloated Bean
+740	Magic Bean
+741	Bean
+742	
+743	
+744	
+745	A Handicraft Kit is required to peel off the skin.
+746	
+747	Likeability Potion
+748	Makes a Likeability Potion. Requires MP 20 per every potion made.
+750	
+751	Golden Mushroom;Bloody Herb;Water
+752	Making Eweca Shield
+753	You can make an Eweca Shield with 3 pieces of Firewood and the Shadow of Eweca.
+754	Firewood;Shadow of Eweca
+755	A Handicraft Kit is required to make the Eweca Shield.
+756	Making the Glowing Ice Sword
+757	Making Ice Sword
+758	You can make a Glowing Ice Sword using a Glowing Frost Crystal and a Broken Ice Piece.
+759	You can make an Ice Sword using a Frost Crystal and a Broken Ice Piece.
+760	Glowing Frost Crystal;Broken Ice Piece
+761	Frost Crystal;Broken Ice Piece
+762	A Handicraft Kit is required to make the Glowing Ice Sword.
+763	A Handicraft Kit is required to make the Ice Sword.
+764	Make a Yarn Key
+767	To make a yarn key, you must have nothing in your hands.
+768	You can make a yarn key from a larva cocoon.
+769	Larva Cocoon
+770	Cooking Potion
+771	Make a Cooking Potion.  Each potion costs 20 MP.
+772	Brown Pine Mushroom;Mandrake;Water
+773	
+774	Refine Mythril
+775	Refine Gold Ingot
+776	Refine Silver Ingot
+777	Refine Copper Ingot
+778	Refine Iron Ingot
+779	Melt 5 pieces of Mythril Ore to make 1 Mythril Ingot.
+780	Melt 5 pieces of Gold Ore to make 1 Gold Ingot.
+781	Melt 5 pieces of Silver Ore to make 1 Silver Ingot.
+782	Melt 5 pieces of Copper Ore to make 1 Copper Ingot.
+783	Melt 5 pieces of Iron Ore to make 1 Iron Ingot.
+784	Mythril Ore Fragment
+785	Gold Ore Fragment
+786	Silver Ore Fragment
+787	Copper Ore Fragment
+788	Iron Ore Fragment
+789	
+790	
+791	
+792	
+793	
+794	Making a Snowball
+796	You can make a snowball by packing together some snow.
+798	Snow
+800	A Handicraft Kit is required to make a Snowball.
+804	Making a Christmas Ornament
+805	You can make a Christmas ornament using 1 Thick Thread Ball, 5 Small Gems, 5 Branches, and 5 Large Nails. 
+806	Thick Thread Ball; Small Gem; Branch; Large Nail
+807	A Handicraft Kit is required to make a Christmas Ornament.
+808	굵은 실뭉치 5개, 작은 구슬 5개, 나뭇가지 5개, 대못 5개로 크리스마스용 장식을 만들 수 있습니다.
+809	You can make a Christmas ornament using 1 Thick Thread Ball, 5 Small Gems, 5 Branches, and 5 Large Nails. 
+810	Making a Snowball
+811	Making a Christmas Ornament
+812	Making a Snowball
+813	Making a Christmas Ornament
+814	You can make a snowball by packing together some snow.
+815	You can make a Christmas ornament using 1 Thick Thread Ball, 5 Small Gems, 5 Branches, and 5 Large Nails. 
+816	You can make a snowball by packing together some snow.
+817	You can make a Christmas ornament using 1 Thick Thread Ball, 5 Small Gems, 5 Branches, and 5 Large Nails. 
+818	Snow
+819	Thick Thread Ball; Small Gem; Branch; Large Nail
+820	Snow
+821	Thick Thread Ball; Small Gem; Branch; Large Nail
+822	A Handicraft Kit is required to make a Snowball.
+823	A Handicraft Kit is required to make a Christmas Ornament.
+824	A Handicraft Kit is required to make a Snowball.
+825	A Handicraft Kit is required to make a Christmas Ornament.
+826	Making a Handmade Ballista Bolt
+827	Making a Fine Homemade Ballista Bolt
+828	Making Finest Homemade Ballista Bolt
+829	Making a Wyvern Ballista Bolt
+830	Making a Poison Tip Wyvern Ballista Bolt
+831	You can make a Homemade Ballista Bolt with a bundle of Bolt Heads and 6 Firewood.
+832	You can make a Fine Homemade Ballista Bolt with a bundle of Fine Bolt Heads and 6 Firewood.
+833	You can make a Finest Homemade Ballista Bolt with a bundle of Finest Bolt Heads and 6 Firewood.
+836	Firewood;Bundle of Bolt Heads
+837	Firewood;Bundle of Fine Bolt Heads
+838	Firewood;Bundle of Finest Bolt Heads
+839	Firewood; Wyvern Claw
+840	Firewood; Wyvern Claw; Poison Potion
+841	A Handicraft Kit is required to make this item.
+842	A Handicraft Kit is required to make this item.
+843	A Handicraft Kit is required to make this item.
+844	A Handicraft Kit is required to make this item.
+845	A Handicraft Kit is required to make this item.
+846	You can make a Poison Tip Ballista Bolt with Wyvern Claw, Firewood and a Poison Potion.
+847	You can make a Ballista Bolt with Wyvern Claw and Firewood.
+848	Making a Irinid Ballista Bolt.
+849	You can make an Irinid Ballista Bolt with a Ballista Bolt, Irinid's Crystal, and a Sulfur Ore.
+850	Ballista Bolt; Irinid's Crystal; Sulfur Ore
+851	You must be holding the Handicraft Kit in order to make an Irinid Ballista Bolt.
+852	Making a Snowball
+853	크리스마스용 장식 만들기
+854	눈으로 눈덩이를 만들 수 있습니다.
+855	굵은 실뭉치 1개, 작은 구슬 5개, 나뭇가지 5개, 대못 5개로 크리스마스용 장식을 만들 수 있습니다.
+856	눈
+857	굵은 실뭉치;작은 구슬;나뭇가지;대못
+858	눈덩이를 만들려면 손에 핸디크래프트 키트를 들고 있어야 합니다.
+859	크리스마스용 장식을 만들려면 손에 핸디크래프트 키트를 들고 있어야 합니다.
+860	수제 염색 앰플
+861	수제 지정 염색 앰플
+862	수제 금속 염색 앰플
+863	수제 염색 앰플을 만든다. 하나 생산하는데 마나 20이 필요하다.
+864	수제 지정 염색 앰플을 만든다. 하나 생산하는데 마나 20이 필요하다.
+866	염색 앰플;염료
+867	지정 염색 앰플;염료
+868	금속 염색 앰플;염료
+869	
+870	
+871	
+872	수제 금속 염색 앰플을 만든다. 하나 생산하는데 마나 20이 필요하다.
+873	Making a Transparent Crystal Ball
+874	Making a Sparkling Diamond
+877	Restored Blue Crystal Ball; Restored Red Crystal Ball; Restored White Crystal Ball
+879	A Handicraft Kit is required to make this item.
+880	A Handicraft Kit is required to make this item.
+884	Transparent Crystal Ball; Diamond
+885	The Sparkling Diamond can be made with 2 Transparent Crystal Balls and 1 Diamond.
+886	The Transparent Crystal Ball can be made with a Restored Blue Crystal Ball, Red Crystal Ball and White Crystal Ball.
+887	Fireball Crystal
+888	Ice Spear Crystal
+889	Thunder Crystal
+890	Mana Crystallization
+894	
+895	
+896	
+897	
+898	
+899	
+900	
+901	
+902	
+906	Fireball;Fire Crystal;
+907	Ice Spear;Water Crystal;
+908	Thunder;Wind Crystal;
+909	Life Drain Crystal
+910	Ice Mine
+911	Crystallization
+912	Life Drain;Fire Crystal;Water Crystal;
+913	Ice Spear Crystal; Earth Crystal;
+914	
+915	
+916	
+917	
+918	
+919	
+920	
+925	Stone Golem Crystal
+926	Forest Golem Crystal
+927	Sulfur Golem Crystal
+929	Barrier Spikes Crystal
+942	Barrier Spikes; Earth Crystal; Firewood
+950	Snow Golem Crystal
+956	Life Drain Crystal
+960	You can make a Fireball Crystal by combining a Fire Crystal with Fireball Magic that someone has cast.
+961	You can make a Ice Spear Crystal by combining a Water Crystal with Ice Spear Magic that someone has cast.
+962	You can make a Thunder Crystal by combining a Wind Crystal with Thunder Magic that someone has cast.
+963	You can make a Stone Golem Crystal by combining an Earth Crystal with a Low-Grade Cuilin Stone.
+964	You can make a Forest Golem Crystal by combining an Earth Crystal with a Common Cuilin Stone, a Base Herb, and a White Herb.
+965	You can make a Sulfur Golem Crystal by combining an Earth Crystal with a Fine Cuilin Stone and a Sulfur Ore.
+966	You can make a Snow Golem Crystal by combining an Earth Crystal with a Finest Cuilin Stone and a Silver Ingot.
+967	Summon Golem; Earth Crystal; Low-Grade Cuilin Stone
+968	Summon Golem; Earth Crystal; Common Cuilin Stone; Base Herb; White Herb;
+969	Summon Golem; Earth Crystal; Fine Cuilin Stone; Sulfur;
+970	Summon Golem; Earth Crystal; Finest Cuilin Stone; Silver Ingot
+971	You can make a Barrier Spikes Crystal by combining an Earth Crystal with a piece of Firewood.
+972	You can make a Life Drain Crystal by combining Earth, Fire, Water, and Wind Crystals with a Mystic Pearl.
+973	Life Drain; Earth Crystal; Fire Crystal; Water Crystal; Wind Crystal; Mystic Pearl;
+974	Make Eweca Short Sword
+975	You can make the Eweca Short Sword with 2 Silver Ingots and the Shadow of Eweca.
+976	Silver Ingot; Shadow of Eweca
+977	You must be holding the Handicraft Shield in order to make the Eweca Short Sword.
+978	Make Eweca Shield
+981	You must be holding the Handicraft Kit in order to make the Eweca Shield.
+983	You can make a Eweca Shield with 3 Cooper Plates and the Shadow of Eweca.
+984	Cooper Plates; Shadow of Eweca
+985	Cloud Crystal
+988	
+989	Erinn's Osechi Recipe
+990	You can create Erinn's Osechi dishes.
+991	Kamaboko;Pan-fried Silk Striped Marlin with Egg;Round Corn Cake;Assorted Fried Fish Dish;Pickled Celery;Garlic Cheese Roasted Mushroom;Niku Makki;Osechi Yasai
+992	To make one of Erinn's Osechi dishes, you must have a Handicraft Kit equipped.
+993	Blizzard Crystal
+994	A Blizzard Crystal can be created by combining  Water Crystal and a Wind Crystal with a Snowball.
+997	
+998	A Cloud Crystal can be created by combining an Earth Crystal with a Water Crystal, Wind Crystal, and Pollen.
+999	Rain Casting; Earth Crystal; Water Crystal; Wind Crystal; Pollen
+1000	Frozen Blast;Water Crystal;Wind Crystal;Snowball
+1003	
+1004	
+1005	Metal Conversion
+1006	
+1007	
+1008	
+1009	Iron Ore Conversion
+1010	Iron Ore Conversion
+1011	Iron Ore Conversion
+1012	Iron Ore Conversion
+1013	Copper Ore Conversion
+1014	Copper Ore Conversion
+1015	Copper Ore Conversion
+1016	Copper Ore Conversion
+1025	Iron Ore
+1026	Iron Ore
+1027	Iron Ore
+1028	Iron Ore
+1029	Copper Ore
+1030	Copper Ore
+1031	Copper Ore
+1032	Copper Ore
+1033	
+1034	
+1035	
+1036	
+1037	
+1038	
+1039	
+1040	
+1041	
+1042	
+1043	
+1044	
+1045	
+1046	
+1047	
+1048	
+1049	
+1050	
+1051	
+1052	
+1053	
+1054	
+1055	Silver Ore Conversion
+1056	Silver Ore Conversion
+1057	Silver Ore Conversion
+1058	Silver Ore Conversion
+1059	Gold Ore Conversion
+1060	Gold Ore Conversion
+1061	Gold Ore Conversion
+1062	Gold Ore Conversion
+1063	Mythril Ore Conversion
+1064	Mythril Ore Conversion
+1065	Mythril Ore Conversion
+1066	Mythril Ore Conversion
+1067	Iron Ore Fragment Conversion
+1068	Iron Ore Fragment Conversion
+1069	Iron Ore Fragment Conversion
+1070	Iron Ore Fragment Conversion
+1071	Copper Ore Fragment Conversion
+1072	Copper Ore Fragment Conversion
+1073	Copper Ore Fragment Conversion
+1074	Copper Ore Fragment Conversion
+1075	Silver Ore Fragment Conversion
+1076	Silver Ore Fragment Conversion
+1077	Silver Ore Fragment Conversion
+1078	Silver Ore Fragment Conversion
+1079	Gold Ore Fragment Conversion
+1080	Gold Ore Fragment Conversion
+1081	Gold Ore Fragment Conversion
+1082	Gold Ore Fragment Conversion
+1083	Mythril Ore Fragment Conversion
+1084	Mythril Ore Fragment Conversion
+1085	Mythril Ore Fragment Conversion
+1086	Mythril Ore Fragment Conversion
+1087	Iron Ingot Conversion
+1091	Silver Ore
+1092	Silver Ore
+1093	Silver Ore
+1094	Silver Ore
+1095	Gold Ore
+1096	Gold Ore
+1097	Gold Ore
+1098	Gold Ore
+1099	Unknown Ore Fragment
+1100	Unknown Ore Fragment
+1101	Unknown Ore Fragment
+1102	Unknown Ore Fragment
+1103	Iron Ore Fragment
+1104	Iron Ore Fragment
+1105	Iron Ore Fragment
+1106	Iron Ore Fragment
+1107	Copper Ore Fragment
+1108	Copper Ore Fragment
+1109	Copper Ore Fragment
+1110	Copper Ore Fragment
+1111	Silver Ore Fragment
+1112	Silver Ore Fragment
+1113	Silver Ore Fragment
+1114	Silver Ore Fragment
+1115	Gold Ore Fragment
+1116	Gold Ore Fragment
+1117	Gold Ore Fragment
+1118	Gold Ore Fragment
+1119	Unknown Ore Fragment
+1123	
+1124	
+1125	
+1126	
+1127	
+1128	
+1129	
+1130	
+1131	
+1132	
+1133	
+1134	
+1135	
+1136	
+1137	
+1138	
+1139	
+1140	
+1141	
+1142	
+1143	
+1144	
+1145	
+1146	
+1147	
+1148	
+1149	
+1150	
+1151	
+1152	
+1153	
+1154	
+1155	
+1156	
+1157	
+1158	
+1159	
+1160	
+1161	
+1162	
+1163	
+1164	
+1165	
+1166	
+1167	
+1168	
+1169	
+1170	
+1171	
+1172	
+1173	
+1174	
+1175	
+1176	
+1177	
+1178	
+1179	
+1180	
+1181	
+1182	
+1183	
+1184	
+1185	
+1186	
+1187	Copper Ingot Conversion
+1188	Copper Ingot Conversion
+1189	Copper Ingot Conversion
+1190	Copper Ingot Conversion
+1191	Silver Ingot Conversion
+1192	Silver Ingot Conversion
+1193	Silver Ingot Conversion
+1194	Silver Ingot Conversion
+1195	Gold Ingot Conversion
+1196	Gold Ingot Conversion
+1197	Gold Ingot Conversion
+1198	Gold Ingot Conversion
+1199	Mythril Ingot Conversion
+1200	Mythril Ingot Conversion
+1201	Mythril Ingot Conversion
+1202	Mythril Ingot Conversion
+1203	Iron Ingot
+1204	Iron Ingot
+1205	Iron Ingot
+1206	Iron Ingot
+1207	Copper Ingot
+1208	Copper Ingot
+1209	Copper Ingot
+1210	Copper Ingot
+1211	Silver Ingot
+1212	Silver Ingot
+1213	Silver Ingot
+1214	Silver Ingot
+1215	Gold Ingot
+1216	Gold Ingot
+1217	Gold Ingot
+1218	Gold Ingot
+1219	
+1220	
+1221	
+1222	
+1223	
+1224	
+1225	
+1226	
+1227	
+1228	
+1229	
+1230	
+1231	
+1232	
+1233	
+1234	
+1235	
+1236	
+1237	
+1238	
+1239	
+1240	
+1241	
+1242	
+1243	
+1244	
+1245	
+1246	
+1247	
+1248	
+1249	
+1250	
+1267	Unknown Ore Fragment
+1268	Unknown Ore Fragment
+1269	Unknown Ore Fragment
+1270	Unknown Ore Fragment
+1271	Iron Ingot Conversion
+1272	Iron Ingot Conversion
+1273	Iron Ingot Conversion
+1274	Unknown Ore Fragment
+1275	Unknown Ore Fragment
+1276	Unknown Ore Fragment
+1277	개다래 향수 만들기
+1278	개다래 열매 5개와 물이든 병 1개로 개다래 향수를 만들 수 있습니다.
+1279	개다래 열매;물이 든 병
+1280	개다래 향수를 만들려면 손에 핸디크래프트 키트를 들고 있어야 합니다.
+1281	Shock Crystal
+1282	A Shock Crystal can be created by combining a Fire Crystal and a Wind Crystal.
+1284	
+1285	Shock; Fire Crystal; Wind Crystal; Royal Jelly
+1288	
+1289	
+1290	Carpentry
+1291	
+1294	Making Average Firewood
+1295	Making Fine Firewood
+1297	Making a Short Bow
+1298	Making a Long Bow
+1299	Making a Composite Bow
+1300	Making a Leather Long Bow
+1301	Making a Guardian Bow
+1302	Making an Elven Short Bow
+1303	Making an Elven Long Bow
+1304	You can make Average Firewood using Firewood.
+1305	You can make Fine Firewood using Average Firewood.
+1306	You can make Finest Firewood using Fine Firewood.
+1314	Firewood
+1315	Average Firewood
+1316	Fine Firewood
+1334	Making a Crossbow
+1335	You can make a Short Bow using Fine Firewood and Thick Thread.
+1337	You can make a Composite Bow using Fine Firewood, Thin Thread, and Thick Thread.
+1338	You can make a Leather Long Bow using Fine Firewood, Finest Firewood, Thick Thread, and Fine Leather.
+1339	You can make a Guardian Bow using Fine Firewood, Finest Firewood, and Tough String.
+1341	You can make a Guardian Bow using Fine Firewood, Finest Firewood, Tough String, and Iron Ingot.
+1342	You can make a Crossbow using Finest Firewood, Tough String, Large Nail, and Common Leather. 
+1343	Fine Firewood; Thick Thread
+1345	Fine Firewood; Thin Thread; Thick Thread
+1346	Fine Firewood; Finest Firewood; Thick Thread; Fine Leather
+1347	Fine Firewood; Finest Firewood; Tough String
+1349	Fine Firewood; Finest Firewood; Tough String; Iron Ingot
+1350	Finest Firewood; Tough String; Large Nail; Common Leather
+1351	Equip a Woodworking Plane to make this.
+1352	Equip a Woodworking Plane to make this.
+1353	Equip a Woodworking Plane to make this.
+1354	Equip a Woodworking Plane to make this.
+1355	Equip a Woodworking Plane to make this.
+1356	Equip a Woodworking Plane to make this.
+1357	Equip a Woodworking Plane to make this.
+1358	Equip a Woodworking Plane to make this.
+1359	Making Special Arrows
+1360	Making Fine Special Arrows
+1361	Making Finest Special Arrows
+1362	Making Special Bolts
+1363	Making Fine Special Bolts
+1364	Making Finest Special Bolts
+1365	You can make Special Arrows using a Bundle of the Finest Arrowheads and 5 pieces of Average Firewood.
+1366	You can make Fine Special Arrows using a Bundle of the Finest Arrowheads and 5 pieces of Fine Firewood.
+1367	You can make Special Arrows using a Bundle of the Finest Arrowheads and 5 pieces Finest Firewood.
+1368	You can make Special Bolts using a Bundle of the Finest Bolt Heads and 4 pieces of Average Firewood.
+1369	You can make Fine Special Bolts using a Bundle of the Finest Bolt Heads and 4 pieces of Fine Firewood.
+1370	You can make Finest Special Bolts using a Bundle of the Finest Bolt Heads and 4 pieces of Finest Firewood.
+1371	Average Firewood; Bundle of the Finest Arrowheads
+1372	Fine Firewood; Bundle of the Finest Arrowheads
+1373	Finest Firewood; Bundle of the Finest Arrowheads
+1374	Average Firewood; Bundle of the Finest Bolt Heads
+1375	Fine Firewood; Bundle of the Finest Bolt Heads
+1376	Finest Firewood; Bundle of the Finest Bolt Heads
+1377	To make Special Arrows, you must hold a Handicraft Kit in your hand.
+1378	To make Fine Special Arrows, you must hold a Handicraft Kit in your hand.
+1379	To make Finest Special Arrows, you must hold a Handicraft Kit in your hand.
+1380	To make Special Bolts, you must hold a Handicraft Kit in your hand.
+1381	To make Fine Special Bolts, you must hold a Handicraft Kit in your hand.
+1382	To make Finest Special Bolts, you must hold a Handicraft Kit in your hand.
+1383	Equip a Woodworking Plane to make this.
+1384	Equip a Woodworking Plane to make this.
+1385	Equip a Woodworking Plane to make this.
+1386	Making Finest Firewood
+1387	You can make an Elven Short Bow using Fine Firewood, Thick Thread, and Large Nails.
+1388	You can make a Long Bow using Fine Firewood, Thick Thread, and Cheap Leather Straps.
+1389	Fine Firewood; Thick Thread; Large Nail
+1390	Fine Firewood; Thick Thread; Cheap Leather Strap
+1391	Claus Knight Armor
+1392	Can be used to repair broken Claus Knight Armor.
+1393	Broken Claus Knight Armor; Claus Knight Armor Repair Kit
+1394	A Handicraft Kit is required to repair this item.
+1395	Making a Snowball
+1396	Making a Christmas Ornament
+1397	You can make a snowball by packing together some snow.
+1398	You can make a Christmas ornament using 1 Thick Thread Ball, 5 Small Gems, 5 Branches, and 5 Large Nails. 
+1399	Snow
+1400	Thick Thread Ball; Small Gem; Branch; Large Nail
+1401	A Handicraft Kit is required to make a Snowball.
+1402	A Handicraft Kit is required to make a Christmas Ornament.
+1403	Making Whip Cream
+1404	Making Yolk Foam
+1405	Making Yolk Dough
+1406	Making Egg White Foam
+1407	Making Chocolate Cake Dough
+1408	Making Rising Dough
+1409	You can make Whip Cream with Milk and Sugar.
+1410	You can make Yolk Foam with 5 Eggs and Sugar.
+1411	You can make Yolk Dough with Yolk Foam, Wheat Flour, and Whip Cream.
+1412	You can make Egg White Foam with 6 Eggs and 1 Sugar.
+1413	You can make Chocolate Cake Dough with Yolk Dough and Melted Chocolate.
+1414	You can make Rising Dough with Chocolate Cake Dough and Egg White Foam.
+1415	Valentine's Day Cake Kit; Milk; Sugar
+1416	Valentine's Day Cake Kit; Egg; Sugar
+1417	Valentine's Day Cake Kit; Yolk Foam; Wheat Flour; Whip Cream
+1418	Valentine's Day Cake Kit; Egg; Sugar
+1419	Valentine's Day Cake Kit; Yolk Dough; Melted Chocolate
+1420	Valentine's Day Cake Kit; Chocolate Cake Dough; Egg White Foam
+1421	You must have a Handicraft Kit to use the Valentine's Day Cake Kit.
+1422	You must have a Handicraft Kit to use the Valentine's Day Cake Kit.
+1423	You must have a Handicraft Kit to use the Valentine's Day Cake Kit.
+1424	You must have a Handicraft Kit to use the Valentine's Day Cake Kit.
+1425	You must have a Handicraft Kit to use the Valentine's Day Cake Kit.
+1426	You must have a Handicraft Kit to use the Valentine's Day Cake Kit.
+1427	Valentine's Day Cake Kit; Egg
+1428	Dittes Sacred Wand
+1429	Can be used to repair a broken Dittes Sacred Wand.
+1430	Broken Dittes Sacred Wand; Dittes Sacred Wand Repair Kit
+1431	A Handicraft Kit is required to repair this item.
+1432	Bonita Twin Ribbon
+1433	Can be used to repair a ruined Bonita Twin Ribbon.
+1434	Ruined Bonita Twin Ribbon; Bonita Twin Ribbon Repair Kit
+1435	A Handicraft Kit is required to repair this item.
+1436	You can make Egg White Foam with 5 Eggs and 1 Sugar.
+1437	도넛 안경 만들기
+1438	물결무늬 도넛과 무지개 도넛으로 도넛 안경을 만들 수 있습니다.
+1439	물결무늬 도넛; 무지개 도넛
+1440	도넛 안경을 만들려면 손에 핸디크래프트 키트를 들고 있어야 합니다.
+1441	Ruyuefeixue's Butterfly Fan
+1442	You can repair the Broken Ruyuefeixue's Butterfly Fan.
+1443	Broken Ruyuefeixue's Butterfly Fan; Ruyuefeixue's Butterfly Fan Repair Kit
+1444	A Handicraft Kit is required to repair this item.
+1447	Finest Firewood;Thick Thread Ball;Large Nail
+1449	Metal Lightning Wand
+1450	Can be used to repair a broken Metal Lightning Wand.
+1451	Broken Metal Lightning Wand; Metal Lightning Wand Repair Kit
+1452	A Handicraft Kit is required to repair this item.
+1453	Building a House Closet
+1455	To build a House Closet, you must be holding a Handicraft Kit.
+1456	You can build a House Closet with 20 Finest Firewood, 5 Thick Thread Balls, and 20 Large Nails.
+1457	도넛 안경 만들기
+1458	물결무늬 도넛과 무지개 도넛으로 도넛 안경을 만들 수 있습니다.
+1459	물결무늬 도넛; 무지개 도넛
+1460	도넛 안경을 만들려면 손에 핸디크래프트 키트를 들고 있어야 합니다.
+1461	Making Donut Glasses
+1462	You can make Donut Glasses using wavy shaped donuts and rainbow donuts.
+1463	Wavy Shaped Donut; Rainbow Donut
+1464	A Handicraft Kit is required to make Donut Glasses.
+1465	Make Intermediate Theatre Mission Pass
+1468	Make Advanced Theatre Mission Pass
+1471	Make Hard Theatre Mission Pass
+1474	Make Theatre Mission Pass
+1475	You can use a Bronze Play Page to make an Intermediate Theatre Mission Pass.
+1478	You can use a Silver Play Page to make an Advanced Theatre Mission Pass.
+1481	You can use a Gold Play Page to make a Hard Theatre Mission Pass.
+1484	The Magical Spinning Wheel can be used to make Theatre Mission Passes.\n\nPasses of different difficulties can be made depending on the type of Play Page.
+1485	Bronze Play Page
+1488	Silver Play Page
+1491	Gold Play Page
+1494	
+1495	Empty your hands to make a Theatre Mission Pass.
+1496	Empty your hands to make a Theatre Mission Pass.
+1497	Empty your hands to make a Theatre Mission Pass.
+1498	Empty your hands to make a Theatre Mission Pass.
+1504	
+1505	Make Beginner Theatre Mission Pass
+1780	Make Cold Thread
+1781	Make Ice Silk
+1782	You can extract Cold Thread from Snowfield Spider Cobwebs.
+1783	Use Cold Thread and a loom to weave Ice Silk.
+1784	Snowfied Spider Cobweb
+1785	Cold Thread
+1786	Empty your hands to make Cold Thread.
+1787	Silk Weaving Gloves must be worn to weave Ice Silk.
+1788	
+1789	
+1790	
+1791	
+1792	
+1793	
+1794	
+1795	
+1796	
+1797	
+1798	
+1799	
+1800	
+1801	
+1802	
+1803	
+1804	
+1805	
+1806	
+1807	
+1808	
+1809	
+1810	
+1811	
+1812	
+1813	
+1814	
+1815	
+1816	
+1817	
+1818	
+1819	
+1820	
+1821	
+1822	
+1823	
+1824	
+1825	
+1826	
+1827	
+1828	
+1829	
+1830	
+1831	
+1832	
+1833	
+1834	
+1835	
+1836	
+1837	
+1838	
+1839	
+1840	
+1841	
+1842	
+1843	
+1844	
+1845	
+1846	
+1847	
+1848	
+1849	
+1850	
+1851	
+1852	
+1853	
+1854	
+1855	
+1856	
+1857	
+1858	
+1859	
+1860	
+1861	
+1862	
+1863	
+1864	
+1865	
+1866	
+1867	
+1868	
+1869	
+1870	
+1871	
+1872	
+1873	
+1874	
+1875	
+1876	
+1877	
+1878	
+1879	
+1880	
+1881	
+1882	
+1883	
+1884	
+1885	
+1886	
+1887	
+1888	
+1889	
+1890	
+1891	
+1892	
+1893	
+1894	
+1895	
+1896	
+1897	
+1898	
+1899	
+1900	
+1901	
+1902	
+1903	
+1904	
+1905	
+1906	
+1907	
+1908	
+1909	
+1910	
+1911	
+1912	
+1913	
+1914	
+1915	
+1916	
+1917	
+1918	
+1919	
+1920	
+1921	
+1922	
+1923	
+1924	
+1925	
+1926	
+1927	
+1928	
+1929	
+1930	
+1931	
+1932	
+1933	
+1934	
+1935	
+1936	
+1937	
+1938	
+1939	
+1940	
+1941	
+1942	
+1943	
+1944	
+1945	
+1946	
+1947	
+1948	
+1949	
+1950	
+1951	
+1952	
+1953	
+1954	
+1955	
+1956	
+1957	
+1958	
+1959	
+1960	
+1961	
+1962	
+1963	
+1964	
+1965	
+1966	
+1967	
+1968	
+1969	
+1970	
+1971	
+1972	
+1973	
+1974	
+1975	
+1976	
+1977	
+1978	
+1979	
+1980	
+1981	
+1982	
+1983	
+1984	
+1985	
+1986	
+1987	
+1988	
+1989	
+1990	
+1991	
+1992	
+1993	
+1994	
+1995	
+1996	
+1997	
+1998	
+1999	
+2000	
+2001	
+2002	
+2003	
+2004	
+2005	
+2006	
+2007	
+2008	
+2009	
+2010	
+2011	
+2012	
+2013	
+2014	
+2015	
+2016	
+2017	
+2018	
+2019	
+2020	
+2021	
+2022	
+2023	
+2024	
+2025	
+2026	
+2027	
+2028	
+2029	
+2030	
+2031	
+2032	
+2033	
+2034	
+2035	
+2036	
+2037	
+2038	
+2039	
+2040	
+2041	
+2042	
+2043	
+2044	
+2045	
+2046	
+2047	
+2048	
+2049	
+2050	Beginner Theatre Mission Pass
+2052	Intermediate Theatre Mission Pass
+2054	Advanced Theatre Mission Pass
+2056	Hard Theatre Mission Pass
+2058	
+2059	You can use a Faded Play Page to make a Beginner Theatre Mission Pass.
+2061	Faded Play Page
+2062	Make Beginner Theatre Mission Pass
+2063	Make Intermediate Theatre Mission Pass
+2064	Make Advanced Theatre Mission Pass
+2065	Make Hard Theatre Mission Pass
+2066	You can use a Faded Play Page to make a Beginner Theatre Mission Pass.
+2067	You can use a Bronze Play Page to make an Intermediate Theatre Mission Pass.
+2068	You can use a Silver Play Page to make an Advanced Theatre Mission Pass.
+2069	You can use a Gold Play Page to make a Hard Theatre Mission Pass.
+2070	Faded Play Page
+2071	Bronze Play Page
+2072	Silver Play Page
+2073	Gold Play Page
+2074	Empty your hands to make a Theatre Mission Pass.
+2075	Empty your hands to make a Theatre Mission Pass.
+2076	Empty your hands to make a Theatre Mission Pass.
+2077	Empty your hands to make a Theatre Mission Pass.
+2078	Beginner Theatre Mission Pass
+2079	Intermediate Theatre Mission Pass
+2080	Advanced Theatre Mission Pass
+2081	Hard Theatre Mission Pass
+2082	You can use a Faded Play Page to make a Beginner Theatre Mission Pass.
+2083	You can use a Faded Play Page to make a Beginner Theatre Mission Pass.
+2084	Faded Play Page
+2085	Faded Play Page
+2086	Make a Ladeca Short Sword
+2087	Make a Ladeca Shield
+2088	Make a Ladeca Helm
+2089	Make a Ladeca Ice Wand
+2090	You can create a Ladeca Short Sword with 2 Silver Ingots and a Ladeca Shadow.
+2091	You can create a Ladeca Shield with 3 Copper Plates and a Ladeca Shadow.
+2092	You can create a Ladeca Helm with 3 Silver Ingots, a Copper Plate, and a Ladeca Shadow.
+2093	You can create a Ladeca Ice Wand with a Silver Ingot, 2 Silver Bars, and a Ladeca Shadow
+2094	Silver Ingot;Ladeca Shadow
+2095	Copper Plate;Ladeca Shadow
+2096	Silver Ingot;Copper Plate;Ladeca Shadow
+2097	Silver Ingot;Silver Bar;Ladeca Shadow
+2098	You need to have a Handicraft Kit in your hand to make a Ladeca Short Sword.
+2099	You need to have a Handicraft Kit in your hand to make a Ladeca Shield.
+2100	You need to have a Handicraft Kit in your hand to make a Ladeca Helm.
+2101	You need to have a Handicraft Kit in your hand to make a Ladeca Ice Wand.
+2102	
+2103	
+2104	
+2105	
+2106	Make Beginner Theatre Mission Pass
+2107	Make Intermediate Theatre Mission Pass
+2108	Make Advanced Theatre Mission Pass
+2109	Make Hard Theatre Mission Pass
+2110	You can use a Faded Play Page to make a Beginner Theatre Mission Pass.
+2111	You can use a Bronze Play Page to make an Intermediate Theatre Mission Pass.
+2112	You can use a Silver Play Page to make an Advanced Theatre Mission Pass.
+2113	You can use a Gold Play Page to make a Hard Theatre Mission Pass.
+2114	Faded Play Page
+2115	Bronze Play Page
+2116	Silver Play Page
+2117	Gold Play Page
+2118	Empty your hands to make a Theatre Mission Pass.
+2119	Empty your hands to make a Theatre Mission Pass.
+2120	Empty your hands to make a Theatre Mission Pass.
+2121	Empty your hands to make a Theatre Mission Pass.
+2122	Beginner Theatre Mission Pass
+2123	Intermediate Theatre Mission Pass
+2124	Advanced Theatre Mission Pass
+2125	Hard Theatre Mission Pass
+2126	눈덩이 만들기
+2127	크리스마스용 장식 만들기
+2128	눈으로 눈덩이를 만들 수 있습니다.
+2129	굵은 실뭉치 1개, 작은 구슬 5개, 나뭇가지 5개, 대못 5개로 크리스마스용 장식을 만들 수 있습니다.
+2130	눈
+2131	굵은 실뭉치;작은 구슬;나뭇가지;대못
+2132	눈덩이를 만들려면 손에 핸디크래프트 키트를 들고 있어야 합니다.
+2133	크리스마스용 장식을 만들려면 손에 핸디크래프트 키트를 들고 있어야 합니다.
+2134	
+2135	
+2136	Make Green Paint
+2137	Make Red Paint
+2138	Make Yellow Paint
+2139	Make Blue Paint
+2140	Make Gold Paint
+2141	You can make Green Paint with 10 Base Herbs, 1 Bottled Water, and 1 Fish.
+2142	You can make Red Paint with 10 Bloody Herbs, 1 Bottled Water, and 1 Fish.
+2143	You can make Yellow Paint with 10 Sunlight Herbs, 1 Bottled Water, and 1 Fish.
+2144	You can make Blue Paint with 10 Mana Herbs, 1 Bottled Water, and 1 Fish.
+2145	You can make Gold Paint with 10 Gold Herbs, 1 Bottled Water, and 1 Fish.
+2146	Base Herb;Bottled Water;Fish
+2147	Bloody Herb;Bottled Water;Fish
+2148	Sunlight Herb;Bottled Water;Fish
+2149	Mana Herb;Bottled Water;Fish
+2150	Gold Herb;Bottled Water;Fish
+2151	A Handicraft Kit is required to make Green Paint.
+2152	A Handicraft Kit is required to make Red Paint.
+2153	A Handicraft Kit is required to make Yellow Paint.
+2154	A Handicraft Kit is required to make Blue Paint.
+2155	A Handicraft Kit is required to make Gold Paint.
+2156	
+2157	
+2158	
+2159	
+2160	
+2161	Make White Paint
+2162	Make Black Paint
+2163	Make Purple Paint
+2164	You can make White Paint with 10 White Herbs, 1 Bottled Water, and 1 Fish.
+2165	You can make Black Paint with 10 Garbage Herbs, 1 Bottled Water, and 1 Fish.
+2166	You can make Purple Paint with 10 Poison Herbs, 1 Bottled Water, and 1 Fish.
+2167	White Herb;Bottled Water;Fish
+2168	Garbage Herb; Bottled Water; Fish
+2169	Poison Herb;Bottled Water;Fish
+2170	A Handicraft Kit is required to make White Paint.
+2171	A Handicraft Kit is required to make Black Paint.
+2172	A Handicraft Kit is required to make Purple Paint.
+2173	
+2174	
+2175	
+2176	Make Beginner Theatre Mission Pass
+2177	Make Intermediate Theatre Mission Pass
+2178	Make Advanced Theatre Mission Pass
+2179	Make Hard Theatre Mission Pass
+2180	You can use a Faded Play Page to make a Beginner Theatre Mission Pass.
+2181	You can use a Bronze Play Page to make an Intermediate Theatre Mission Pass.
+2182	You can use a Silver Play Page to make an Advanced Theatre Mission Pass.
+2183	You can use a Gold Play Page to make a Hard Theatre Mission Pass.
+2184	Faded Play Page
+2185	Bronze Play Page
+2186	Silver Play Page
+2187	Gold Play Page
+2188	Empty your hands before you make a Theatre Mission Pass.
+2189	Empty your hands before you make a Theatre Mission Pass.
+2190	Empty your hands before you make a Theatre Mission Pass.
+2191	Empty your hands before you make a Theatre Mission Pass.
+2192	Beginner Theatre Mission Pass
+2193	Intermediate Theatre Mission Pass
+2194	Advanced Theatre Mission Pass
+2195	Hard Theatre Mission Pass
+2210	
+2211	
+2212	
+2213	
+2214	
+2215	
+2216	
+2238	Make Thin Spars
+2239	Make Thick Spars
+2240	Make Cross-shaped Spars
+2241	Make Glue
+2242	Make Light Paper
+2243	Make Light Thread
+2244	Make Light Silk
+2245	You can make Thin Spars by using using Average Firewood.
+2246	You can make Thick Spars by using 1 Average Firewood and 1 Fine Firewood.
+2247	You can make Cross-shaped Spars by using 1 Fine Firewood and 1 Wood Board.
+2248	You can make Glue by using 5 Garbage Herbs and 1 Jellyfish.
+2249	You can make Light Paper by using 6 Poison Herbs and 4 pieces of Paper.
+2250	You can make Light Thread by using 7 Poison Herbs and 10 Cheap Finishing Threads.
+2251	You can make Light Silk by using 8 Poison Herbs and 8 Cheap Silk.
+2252	Average Firewood; Fine Firewood
+2253	Fine Firewood; Wood Board
+2254	Garbage Herb; Jellyfish
+2255	Poison Herb (Part-Time Job);Paper (Part-Time Job)
+2256	Poison Herb; Cheap Finishing Thread; Finest Finishing Thread
+2257	Poison Herb; Cheap Silk; Finest Silk
+2258	Average Firewood
+2259	A Handicraft Kit is required to make Thin Spars.
+2260	A Handicraft Kit is required to make Thick Spars.
+2261	A Handicraft Kit is required to make Cross-shaped Spars.
+2262	To make Glue, you must have a Handicraft Kit in hand.
+2263	To make Light Paper, you must have a Handicraft Kit in hand.
+2264	To make Light Thread, you must have a Handicraft Kit in hand.
+2265	To make Light Silk, you must have a Handicraft Kit in hand.
+2266	You can create a Ladeca Shield with 3 Copper Plates and a Ladeca Shadow.
+2267	You need to have a Handicraft Kit in your hand to make a Ladeca Shield.
+2268	Make an Arbalest
+2269	Make a Highlander Long Bow
+2270	You can make an Arbalest using Finest Firewood, Radiant Tough String, Large Nail, and Common Leather.
+2271	You can make a Highlander Long Bow using Finest Firewood, Radiant Tough String, Large Nail, and Common Leather.
+2272	Finest Firewood; Radiant Tough String; Large Nail; Common Leather;
+2273	Finest Firewood; Radiant Tough String; Large Nail; Finest Leather;
+2274	Equip a Woodworking Plane to make this.
+2275	Equip a Woodworking Plane to make this.
+2278	라벤더 오드코롱
+2279	라벤더 오드트왈렛
+2280	라벤더 오드퍼퓸
+2281	라벤더 퍼퓸
+2282	캐모마일 오드코롱
+2283	캐모마일 오드트왈렛
+2284	캐모마일 오드퍼퓸
+2285	캐모마일 퍼퓸
+2286	로즈마리 오드코롱
+2287	로즈마리 오드트왈렛
+2288	로즈마리 오드퍼퓸
+2289	로즈마리 퍼퓸
+2290	로즈힙 오드코롱
+2291	로즈힙 오드트왈렛
+2292	로즈힙 오드퍼퓸
+2293	로즈힙 퍼퓸
+2294	페퍼민트 오드코롱
+2295	페퍼민트 오드트왈렛
+2296	페퍼민트 오드퍼퓸
+2297	페퍼민트 퍼퓸
+2298	제라늄 오드코롱
+2299	제라늄 오드트왈렛
+2300	제라늄 오드퍼퓸
+2301	제라늄 퍼퓸
+2302	티트리 오드코롱
+2303	티트리 오드트왈렛
+2304	티트리 오드퍼퓸
+2305	티트리 퍼퓸
+2306	자스민 오드코롱
+2307	자스민 오드트왈렛
+2308	자스민 오드퍼퓸
+2309	자스민 퍼퓸
+2310	향수 조제
+2311	라벤더 오드코롱을 만든다. 향수 한 개당 마나 10이 필요하다.
+2312	라벤더 오드트왈렛을 만든다. 향수 한 개당 마나 10이 필요하다.
+2313	라벤더 오드퍼퓸을 만든다. 향수 한 개당 마나 10이 필요하다.
+2314	라벤더 퍼퓸을 만든다. 향수 한 개당 마나 10이 필요하다.
+2315	캐모마일 오드코롱을 만든다. 향수 한 개당 마나 10이 필요하다.
+2316	캐모마일 오드트왈렛을 만든다. 향수 한 개당 마나 10이 필요하다.
+2317	캐모마일 오드퍼퓸을 만든다. 향수 한 개당 마나 10이 필요하다.
+2318	캐모마일 퍼퓸을 만든다. 향수 한 개당 마나 10이 필요하다.
+2319	로즈마리 오드코롱을 만든다. 향수 한 개당 마나 20이 필요하다.
+2320	로즈마리 오드트왈렛을 만든다. 향수 한 개당 마나 20이 필요하다.
+2321	로즈마리 오드퍼퓸을 만든다. 향수 한 개당 마나 20이 필요하다.
+2322	로즈마리 퍼퓸을 만든다. 향수 한 개당 마나 20이 필요하다.
+2323	로즈힙 오드코롱을 만든다. 향수 한 개당 마나 20이 필요하다.
+2324	로즈힙 오드트왈렛을 만든다. 향수 한 개당 마나 20이 필요하다.
+2325	로즈힙 오드퍼퓸을 만든다. 향수 한 개당 마나 20이 필요하다.
+2326	로즈힙 퍼퓸을 만든다. 향수 한 개당 마나 20이 필요하다.
+2327	페퍼민트 오드코롱을 만든다. 향수 한 개당 마나 20이 필요하다.
+2328	페퍼민트 오드트왈렛을 만든다. 향수 한 개당 마나 20이 필요하다.
+2329	페퍼민트 오드퍼퓸을 만든다. 향수 한 개당 마나 20이 필요하다.
+2330	페퍼민트 퍼퓸을 만든다. 향수 한 개당 마나 20이 필요하다.
+2331	제라늄 오드코롱을 만든다. 향수 한 개당 마나 30이 필요하다.
+2332	제라늄 오드트왈렛을 만든다. 향수 한 개당 마나 30이 필요하다.
+2333	제라늄 오드퍼퓸을 만든다. 향수 한 개당 마나 30이 필요하다.
+2334	제라늄 퍼퓸을 만든다. 향수 한 개당 마나 30이 필요하다.
+2335	티트리 오드코롱을 만든다. 향수 한 개당 마나 30이 필요하다.
+2336	티트리 오드트왈렛을 만든다. 향수 한 개당 마나 30이 필요하다.
+2337	티트리 오드퍼퓸을 만든다. 향수 한 개당 마나 30이 필요하다.
+2338	티트리 퍼퓸을 만든다. 향수 한 개당 마나 30이 필요하다.
+2339	자스민 오드코롱을 만든다. 향수 한 개당 마나 30이 필요하다.
+2340	자스민 오드트왈렛을 만든다. 향수 한 개당 마나 30이 필요하다.
+2341	자스민 오드퍼퓸을 만든다. 향수 한 개당 마나 30이 필요하다.
+2342	자스민 퍼퓸을 만든다. 향수 한 개당 마나 30이 필요하다.
+2343	향수 조제 키트를 손에 들고 향수 조제 스킬을 사용해서 향수를 만들 수 있습니다.
+2344	라벤더; 베이스 포션
+2345	라벤더; 베이스 포션
+2346	라벤더; 베이스 허브
+2347	라벤더; 블러디 허브
+2348	캐모마일; 베이스 포션
+2349	캐모마일; 베이스 허브
+2350	캐모마일; 베이스 허브
+2351	캐모마일; 블러디 허브
+2352	로즈마리; 베이스 포션
+2353	로즈마리; 베이스 허브
+2354	로즈마리; 블러디 허브
+2355	로즈마리; 블러디 허브
+2356	로즈힙; 베이스 허브
+2357	로즈힙; 베이스 허브
+2358	로즈힙; 블러디 허브
+2359	로즈힙; 선라이트 허브
+2360	페퍼민트; 베이스 허브
+2361	페퍼민트; 블러디 허브
+2362	페퍼민트; 블러디 허브
+2363	페퍼민트; 선라이트 허브
+2364	제라늄; 베이스 허브
+2365	제라늄; 블러디 허브
+2366	제라늄; 선라이트 허브
+2367	제라늄; 마나 허브
+2368	티트리; 블러디 허브
+2369	티트리; 블러디 허브
+2370	티트리; 선라이트 허브
+2371	티트리; 마나 허브
+2372	자스민; 블러디 허브
+2373	자스민; 선라이트 허브
+2374	자스민; 마나 허브
+2375	자스민; 골드 허브
+2380	You can make a Marionette Repair Set with a Blacksmith Hammer, a Tailoring Kit, a Silver Plate, an Average Firewood, and a Common Fabric.
+2382	Blacksmith Hammer;Tailoring Kit;Gold Plate;Fine Firewood;Fine Fabric
+2383	Blacksmith Hammer;Tailoring Kit;Silver Plate;Average Firewood;Common Fabric
+2388	You can make a Complete Marionette Repair Set with a Blacksmith Hammer, a Tailoring Kit, a Gold Plate, 2 Fine Firewoods, and 2 Fine Fabrics.
+2389	You can make Basic Marionette Repair Set with a Blacksmith Hammer, a Copper Plate, a Firewood.
+2390	Blacksmith Hammer;Copper Plate;Firewood
+2403	Marionette 30 Potion
+2404	Marionette 50 Potion
+2405	Marionette 100 Potion
+2406	Marionette 300 Potion
+2407	Marionette 500 Potion
+2408	Tin Conversion
+2409	Tin Conversion
+2410	Zinc Conversion
+2411	Zinc Conversion
+2412	Nickel Conversion
+2413	Nickel Conversion
+2414	Make a Marionette 30 Potion.
+2415	Make a Marionette 50 Potion.
+2416	Make a Marionette 100 Potion. 1 potion requires 10 MP.
+2417	Make a Marionette 300 Potion. 1 potion requires 10 MP.
+2418	Make a Marionette 500 Potion. 1 potion requires 20 MP.
+2425	Base Herb;Base Potion;Tin Ore Fragment
+2426	Bloody Herb;Base Potion;Tin Ore Fragment
+2427	Sunlight Herb;Base Potion;Tin Ore Fragment;Zinc Ore Fragment
+2428	Mana Herb;Base Potion;Zinc Ore Fragment;Nickel Ore Fragment
+2430	Make Decorated Bear Puppet
+2431	Make Decorated Bunny Puppet
+2432	Make Bear Puppet
+2433	Make Bunny Puppet
+2434	Make Clown Puppet
+2435	Make Ferghus Puppet
+2436	You can make Decorated Bear Puppet with an Eyeless Bear Puppet and a Button Eye.
+2437	You can make a Decorated Bunny Puppet with an Eyeless Bunny Puppet and a Button Eye.
+2438	You can make a Bear Puppet with an Incomplete Bear Puppet and a Decorative Ribbon.
+2439	You can make a Bunny Puppet with an Incomplete Bunny Puppet and a Decorative Ribbon.
+2440	You can make a Clown Puppet with an Incomplete Clown Puppet, a Decorative Feather, and Glue.
+2441	You can make a Ferghus Puppet with an Incomplete Ferghus Puppet, a Control Bar, and a Finest Finishing Thread.
+2442	Eyeless Bear Puppet;Button Eye
+2443	Eyeless Bunny Puppet;Button Eye
+2444	Incomplete Bear Puppet;Decorative Ribbon
+2445	Incomplete Bunny Puppet;Decorative Ribbon
+2446	Incomplete Clown Puppet;Decorative Feather;Glue
+2447	Incomplete Ferghus Puppet;Control Bar;Finest Finishing Thread
+2448	A Handicraft Kit is required to make this item.
+2449	A Handicraft Kit is required to make this item.
+2450	To make Bear Puppet, you must have a Handicraft Kit in hand.
+2451	To make Bunny Puppet, you must have a Handicraft Kit in hand.
+2452	To make Clown Puppet, you must have a Handicraft Kit in hand.
+2453	To make Ferghus Puppet, you must have a Handicraft Kit in hand.
+2454	Create Average Firewood (Part-Time Job)
+2455	Create Fine Firewood (Part-Time Job)
+2456	Create Finest Firewood (Part-Time Job)
+2457	You can make Average Firewood using Firewood. (Part-Time Job)
+2458	You can make Fine Firewood using Average Firewood. (Part-Time Job)
+2459	You can make Finest Firewood using Fine Firewood. (Part-Time Job)
+2460	Firewood (Part-Time Job)
+2461	Average Firewood(Part-Time Job)
+2462	Fine Firewood(Part-Time Job)
+2463	Equip a Woodworking Plane to make Average Firewood.
+2464	Equip a Woodworking Plane to make Fine Firewood.
+2465	Equip a Woodworking Plane to make Finest Firewood.
+2466	Tin Conversion
+2467	Tin Conversion
+2468	Zinc Conversion
+2469	Zinc Conversion
+2470	Nickel Conversion
+2471	Nickel Conversion
+2472	Tin Conversion (Part-Time Job)
+2473	Tin Conversion (Part-Time Job)
+2474	Zinc Conversion (Part-Time Job)
+2475	Zinc Conversion (Part-Time Job)
+2476	Nickel Conversion (Part-Time Job)
+2477	Nickel Conversion (Part-Time Job)
+2478	Copper Ore Fragment Conversion (Part-Time Job)
+2479	Copper Ore Fragment Conversion (Part-Time Job)
+2480	Copper Ore Fragment Conversion (Part-Time Job)
+2481	Copper Ore Fragment Conversion (Part-Time Job)
+2482	Silver Ore Fragment Conversion (Part-Time Job)
+2483	Silver Ore Fragment Conversion (Part-Time Job)
+2484	Silver Ore Fragment Conversion (Part-Time Job)
+2485	Silver Ore Fragment Conversion (Part-Time Job)
+2486	Gold Ore Fragment Conversion (Part-Time Job)
+2487	Gold Ore Fragment Conversion (Part-Time Job)
+2488	Gold Ore Fragment Conversion (Part-Time Job)
+2489	Gold Ore Fragment Conversion (Part-Time Job)
+2490	Copper Ore
+2491	Copper Ore
+2492	Silver Ore
+2493	Silver Ore
+2494	Gold Ore
+2495	Gold Ore
+2496	Copper Ore Fragment
+2497	Copper Ore Fragment
+2498	Silver Ore Fragment
+2499	Silver Ore Fragment
+2500	Gold Ore Fragment
+2501	Gold Ore Fragment
+2502	Copper Ore Fragment (Part-Time Job)
+2503	Copper Ore Fragment (Part-Time Job)
+2504	Silver Ore Fragment (Part-Time Job)
+2505	Silver Ore Fragment (Part-Time Job)
+2506	Gold Ore Fragment (Part-Time Job)
+2507	Gold Ore Fragment (Part-Time Job)
+2508	Iron Ore Fragment (Part-Time Job)
+2509	Iron Ore Fragment (Part-Time Job)
+2510	Iron Ore Fragment (Part-Time Job)
+2511	Iron Ore Fragment (Part-Time Job)
+2512	Copper Ore Fragment (Part-Time Job)
+2513	Copper Ore Fragment (Part-Time Job)
+2514	Copper Ore Fragment (Part-Time Job)
+2515	Copper Ore Fragment (Part-Time Job)
+2516	Silver Ore Fragment (Part-Time Job)
+2517	Silver Ore Fragment (Part-Time Job)
+2518	Silver Ore Fragment (Part-Time Job)
+2519	Silver Ore Fragment (Part-Time Job)
+2520	Gold Herb;Base Potion;Tin Ore Fragment;Zinc Ore Fragment;Nickel Ore Fragment
+2521	Make Complete Marionette Repair Set
+2522	Make Fine Marionette Repair Set
+2523	Make Marionette Repair Set
+2524	A Handicraft Kit is required to make this item.
+2525	A Handicraft Kit is required to make this item.
+2526	A Handicraft Kit is required to make this item.
+2527	Make Demonic Scale
+2528	Refine Demonic Ingot
+2529	You can make Demonic Scales using Demonic Scale Fragments at a Loom.
+2530	You can make Cloth at a Loom.\n\nYou can make 1 Fabric using 5 Thick Threads,\n\nand 1 Silk using 5 Thin Threads.\n\nYou need Weaving Gloves to make Silk.
+2532	Demonic Scale Fragment
+2533	Demonic Metal Fragment
+2534	Empty your hands.
+2535	Make a Demonic Infinity Staff
+2536	Make a Demonic Illusion Control Bar
+2537	Make a Demonic Nightmare Dream Catcher
+2538	Make a Demonic Wood Board
+2539	Make a Demonic Infinite Bow
+2540	Make a Demonic Gloomy Sunday
+2544	You can make Fine Firewood using Average Firewood.
+2547	Demonic Eye; Demonic Claw; Demonic Blade; Demonic Ingot
+2548	Demonic Eye; Demonic Ingot
+2549	Demonic Eye; Demonic Claw; Demonic Ingot
+2550	Demonic Firewood
+2551	Demonic Eye; Demonic Blade; Demonic Scale; Demonic Ingot; Demonic Wood Board
+2552	Demonic Eye; Demonic Blade; Demonic Scale; Demonic Ingot; Demonic Wood Board
+2553	A Handicraft Kit is required to make this item.
+2554	A Handicraft Kit is required to make this item.
+2555	A Handicraft Kit is required to make this item.
+2556	Equip a Woodworking Plane to make a Demonic Wood Board.
+2557	Equip a Woodworking Plane to make a Demonic Infinite Bow.
+2558	Equip a Woodworking Plane to make a Demonic Gloomy Sunday.
+2559	You can make a Demonic Infinite Bow using a Demonic Eye, Claw, Blade, and Ingot.
+2560	You can make a Demonic Illusion Control Bar using a Demonic Eye and Ingot.
+2561	You can make a Demonic Nightmare Dream Catcher using a Demonic Eye, Claw, and Ingot.
+2562	You can make a Demonic Infinite Bow using a Demonic Eye, Blade, Scale, Ingot, and Wood Board.
+2563	You can make a Demonic Infinite Bow using a Demonic Eye, Blade, Scale, Ingot, and Wood Board.
+2564	You can make one Demonic Ingot by melting 5 Demonic Ore Fragments.
+2565	Demonic Ore Fragment
+2566	You can make one Demonic Ingot by melting 3 Demonic Ore Fragments.
+2567	You can make a Demonic Infinity Staff using Demonic Eye, Claw, Blade, and Ingot.
+2568	You can make a Demonic Gloomy Sunday using Demonic Eye, Blade, Scale, Ingot and Wood Board.
+2569	Possessed Potion
+2570	You can make a Possessed Potion to heal Shamala.
+2573	Base Herb;Bloody Herb;Mana Herb;Water
+2574	Create a Spider Trap
+2575	You can make a Spider Trap using 1 Thin Thread Ball.
+2576	Thin Thread Ball
+2577	To make a Spider Trap, you must have a Handicraft Kit in hand.
+2578	Make a Dragon Bone
+2580	Dragon Bone Fragment;
+2581	A Handicraft Kit is required to make a Dragon Bone.
+2582	Make a Dragon Scale
+2583	You can make a Dragon Scale using Dragon Scale Fragments at a Loom.
+2584	You can restore a Dragon Bone with 2 Dragon Bone Fragments.
+2585	Dragon Scale Fragment
+2586	Empty your hands.
+2587	Hillwen Synthesis
+2588	Engineering Hammer
+2589	You can make Hillwen by fusing Hillwen Ore Fragments.\nHillwen will lose its intrinsic glow during the fusion and then turn black.
+2590	You can make an Engineering Hammer with Hillwen and Tin Ore Fragments.
+2591	Hillwen Ore Fragment
+2592	Hillwen; Tin Ore Fragment
+2593	Hexagonal Bolt
+2594	Hexagonal Nut
+2595	Short Javelin LT
+2596	Spanner
+2597	Emerald Fuse
+2598	Energy Converter
+2599	Long Javelin LT
+2600	Hillwen Alloy Fusion
+2601	Zeder II
+2602	Meriel PE
+2603	Spin Gear
+2605	Mining Drill
+2606	Energy Amplifier
+2607	Dowra SE
+2608	Taunes MK3
+2609	Hillwen Engineering
+2610	You can work a Hillwen Ore Fragment into a Hexagonal Bolt.
+2611	You can work a Hillwen Ore Fragment into a Hexagonal Nut.
+2612	You can make 10 lightweight Short Javelins with Hillwen Ore Fragments and Nickel Ore Fragments.
+2613	You can make a Spanner with Hillwen and Zinc Ore Fragments.
+2614	You can work an Emerald Core into an Emerald Fuse.
+2615	You can make an Energy Converter with Hillwen and Shyllien.
+2616	You can make 10 lightweight Long Javelins with Hillwen and Nickel Ore Fragments.
+2617	You can make a Hillwen Alloy by fusing Hillwen, rare Minerals, and Emerald Cores.
+2619	You can make a Meriel Pink Edition by connecting an Energy Converter and an Emerald Fuse to a Hillwen Alloy.\nYou can't predict the efficiency of the result.
+2620	You can make a Spin Gear by combining a Hexagonal Bolt, a Hexagonal Nut, and Hillwen.
+2623	You can make an Energy Amplifier by using an Emerald Core and an Energy Converter.
+2624	You can make a Dowra Special Edition by connecting an Energy Converter, an Emerald Fuse, and an Energy Amplifier to a Hillwen Alloy.\nYou can't predict the efficiency of the result.
+2625	You can make a Taunes Mark 3 by connecting an Energy Converter, an Emerald Fuse, and an Energy Amplifier to a Hillwen Alloy.\nYou can't predict the efficiency of the result.
+2626	Hillwen Ore Fragment
+2627	Hillwen Ore Fragment
+2628	Hillwen Ore Fragment;Nickel Ore Fragment
+2629	Hillwen; Zinc Ore Fragment
+2630	Emerald Core
+2631	Hillwen; Shyllien
+2632	Hillwen; Nickel Ore Fragment
+2633	Hillwen; Nickel Ore Fragment; Zinc Ore Fragment; Tin Ore Fragment; Emerald Core
+2634	Hillwen Alloy; Hexagonal Bolt; Hexagonal Nut; Energy Converter; Emerald Fuse
+2635	Hillwen Alloy; Hexagonal Bolt; Hexagonal Nut; Energy Converter; Emerald Fuse
+2636	Hillwen; Hexagonal Bolt; Hexagonal Nut
+2637	Hillwen; Nickel Ore Fragment; Zinc Ore Fragment; Tin Ore Fragment
+2638	Hillwen Alloy; Hexagonal Bolt; Hexagonal Nut; Energy Converter; Spin Gear
+2639	Energy Converter; Emerald Core
+2640	Hillwen Alloy; Hexagonal Bolt; Hexagonal Nut; Energy Converter; Emerald Fuse; Energy Amplifier
+2641	Hillwen Alloy; Hexagonal Bolt; Hexagonal Nut; Energy Converter; Emerald Fuse; Energy Amplifier
+2642	Empty your hands.
+2643	Empty your hands.
+2644	Empty your hands.
+2645	Empty your hands.
+2646	You must be holding an Engineering Hammer.
+2647	Empty your hands.
+2648	Empty your hands.
+2649	Empty your hands.
+2650	You must be holding an Engineering Hammer.
+2651	Empty your hands.
+2652	You must be holding a Spanner.
+2653	You must be holding a Spanner.
+2654	You must be holding a Spanner.
+2655	Empty your hands.
+2656	You must be holding a Spanner.
+2657	Empty your hands.
+2658	You must be holding a Spanner.
+2659	You must be holding a Spanner.
+2660	Shyllien Conversion
+2661	Training Mana Bullet
+2662	Purified Rabbit Foot
+2663	Mana Bullet
+2664	Mysterious Herb Powder
+2665	Sundew
+2666	Enchanted Firewood
+2667	Convert Intact Shyllien
+2668	High-Density Mana Bullet
+2669	Lucky Rabbit Foot
+2670	Blasted Oak Wand
+2671	Drosera
+2672	Mutant
+2673	Savage Lightning Wand
+2674	Savage Fire Wand
+2675	Savage Ice Wand
+2676	Hermit's Staff
+2678	Purple Heart
+2679	Magic Craft
+2680	Shyllien Crystal
+2682	Shyllien; Mutant Rabbit Foot
+2683	Shyllien
+2684	Bloody Herb; Mana Herb; Poison Herb
+2685	Shyllien; Mutant Plant Mucilage
+2686	Shyllien; Hillwen; Average Firewood
+2687	Shyllien; Mysterious Herb Powder
+2688	Intact Shyllien
+2689	Purified Rabbit Foot; Mysterious Herb Powder; Intact Shyllien
+2690	Enchanted Firewood; Mysterious Herb Powder; Intact Shyllien
+2691	Sundew; Mysterious Herb Powder; Intact Shyllien
+2692	Mutant Rabbit Foot; Mutant Plant Mucilage; Sasquatch Heart
+2693	Enchanted Firewood; Mysterious Herb Powder; Intact Shyllien; Mutant; Lightning Elemental
+2694	Enchanted Firewood; Mysterious Herb Powder; Intact Shyllien; Mutant; Fire Elemental
+2695	Enchanted Firewood; Mysterious Herb Powder; Intact Shyllien; Mutant; Ice Elemental
+2696	Enchanted Firewood; Mysterious Herb Powder; Intact Shyllien; Mutant; Fire Elemental; Lightning Elemental; Ice Elemental
+2698	Sasquatch Heart; Mysterious Herb Powder; Intact Shyllien
+2699	Empty your hands.
+2700	Empty your hands.
+2701	Empty your hands.
+2702	Empty your hands.
+2703	Empty your hands.
+2704	Empty your hands.
+2705	Empty your hands.
+2706	Empty your hands.
+2707	Empty your hands.
+2708	You must have a Blasted Oak Wand equipped.
+2709	Empty your hands.
+2710	You must have a Blasted Oak Wand equipped.
+2711	You must have a Blasted Oak Wand equipped.
+2712	You must have a Blasted Oak Wand equipped.
+2713	You must have a Blasted Oak Wand equipped.
+2714	You must have a Blasted Oak Wand equipped.
+2715	You must have a Blasted Oak Wand equipped.
+2716	You must have a Blasted Oak Wand equipped.
+2717	You must have a Blasted Oak Wand equipped.
+2718	Bhafel Slayer
+2719	Bhafel Hunter
+2720	Bhafel Huntress
+2721	You can make Zeder II by connecting an Energy Converter and an Emerald Fuse to a Hillwen Alloy.\nYou can't predict the efficiency of the result.
+2722	You can make a Mining Drill by connecting an Energy Converter and a Spin Gear to a Hillwen Alloy. You can't predict the efficiency of the result.
+2723	You can make a Bhafel Slayer by fusing a Hillwen Alloy with a Two-Handed Sword.\nYou need to obtain a special material from the Black Dragon to fuse them.\nYou can't predict the efficiency of the result.
+2724	You can convert a Shyllien Crystal to make Shyllien that can be worked more easily.
+2726	You can make a normal Rabbit Foot by purifying a Mutant Rabbit Foot.
+2728	You can make an enchanted, Mysterious Herb Powder by mixing different Herb Powders.
+2729	You can get a normal Plant by purifying a Mutant Plant Mucilage.
+2730	You can make an Enchanted Firewood by infusing a Firewood with magic.
+2731	You can make an Intact Shyllien by combining Shyllien with a Herb Powder.
+2733	Able to craft an enchanted ornament made from a rabbit's foot. It's sure to bring you good luck.\nYou can't predict the efficiency of the result.
+2734	You are able to make a Blasted Oak Wand that can gather Shyllien. However, it's not necessary for you to craft it when it thunders.\nYou can't predict the efficiency of the result.
+2735	You can make an accessory with Drosera by imbuing it with a special magic power. Drosera is one of only a few blossoming carnivorous plants.\nYou can't predict the efficiency of the result.
+2736	You can make a Mutant by mixing different Mutant Animal Specimens.
+2737	You can make a Savage Lightning Wand by infusing an Enchanted Firewood with magic.\nYou can't predict the efficiency of the result.
+2738	You can make a Savage Fire Wand by infusing an Enchanted Firewood with magic.\nYou can't predict the efficiency of the result.
+2739	You can make a Savage Ice Wand by infusing an Enchanted Firewood with magic.\nYou can't predict the efficiency of the result.
+2740	You can make a Hermit's Staff by infusing an Enchanted Firewood with magic.\nYou can't predict the efficiency of the result.
+2741	You can make a Bhafel Hunter by infusing a Long Bow with special magic.\nYou need to obtain a special material from the Black Dragon to imbue it with magic.\nYou can't predict the efficiency of the result.
+2742	You can make a special Accessory by infusing a Sasquatch Heart with magic.\nYou can't predict the efficiency of the result.
+2743	You can make a Bhafel Huntress by infusing an Arrow with special magic.\nYou need to obtain a special material from the Black Dragon to imbue it with magic.
+2745	Long Bow; Black Dragon Eyeball; Dragon Flesh Lump; Black Dragon Blood; Intact Shyllien; Mutant
+2746	Arrow; Intact Shyllien; Mutant; Black Dragon Heart; Black Dragon Blood;
+2747	You must be holding an Engineering Hammer.
+2748	You must have a Blasted Oak Wand equipped.
+2749	Two-Handed Sword; Hillwen Alloy; Black Dragon Heart; Dragon Bone; Dragon Scale; Dragon Claw
+2750	Dual Gun Repair Kit 92
+2751	Use Hillwen and other rare minerals to make a dual gun repair kit with a repair success rate of 92%.
+2752	Shyllien Crystal
+2753	2 Shyllien crystals can make 10 Mana Bullets.\nMana Bullets are used as ammunition for dual guns.
+2754	1 Shyllien can make 10 Mana Bullets.\nMana Bullets are used as ammunition for dual guns.
+2755	1 Intact Shyllien can make 10 High-Density Mana Bullets.\nMana Bullets are used as ammunition for dual guns.
+2756	You need to have an Engineering Rack near you.
+2757	You need to have an Engineering Rack near you.
+2758	You need to have an Engineering Rack near you.
+2759	You need to have an Engineering Rack near you.
+2760	You need to have an Engineering Rack near you.
+2761	You need to have an Engineering Rack near you.
+2762	You need to have an Engineering Rack near you.
+2763	You need to have an Engineering Rack near you.
+2764	You need to have an Engineering Rack near you.
+2765	You need to have an Engineering Rack near you.
+2766	You need to have an Engineering Rack near you.
+2767	You need to have an Engineering Rack near you.
+2768	You need to have an Engineering Rack near you.
+2769	You need to have an Engineering Rack near you.
+2770	You need to have an Engineering Rack near you.
+2771	You need to have an Engineering Rack near you.
+2772	You need to have an Engineering Rack near you.
+2773	You need to have an Engineering Rack near you.
+2774	You need to have an Engineering Rack near you.
+2775	You need to have a Magic Cauldron near you.
+2776	You need to have a Magic Cauldron near you.
+2777	You need to have a Magic Cauldron near you.
+2778	You need to have a Magic Cauldron near you.
+2779	You need to have a Magic Cauldron near you.
+2780	You need to have a Magic Cauldron near you.
+2781	You need to have a Magic Cauldron near you.
+2782	You need to have a Magic Cauldron near you.
+2783	You need to have a Magic Cauldron near you.
+2784	You need to have a Magic Cauldron near you.
+2785	You need to have a Magic Cauldron near you.
+2786	You need to have a Magic Cauldron near you.
+2787	You need to have a Magic Cauldron near you.
+2788	You need to have a Magic Cauldron near you.
+2789	You need to have a Magic Cauldron near you.
+2790	You need to have a Magic Cauldron near you.
+2791	You need to have a Magic Cauldron near you.
+2792	You need to have a Magic Cauldron near you.
+2793	You need to have a Magic Cauldron near you.
+2794	You need to have a Magic Cauldron near you.
+2795	Languhiris Bone-Breaker
+2796	Bhafel Slayer Guard (M)
+2797	Bhafel Slayer Guard (F)
+2798	Bhafel Slayer Gauntlet
+2799	Bhafel Slayer Greaves (M)
+2800	Bhafel Slayer Greaves (F)
+2801	Bhafel Slayer Circlet
+2802	Languhiris Chaser
+2803	Languhiris Chaser Armor (M)
+2804	Languhiris Chaser Armor (F)
+2805	Languhiris Chaser Gloves
+2806	Languhiris Chaser Boots (M)
+2807	Languhiris Chaser Boots (F)
+2808	Languhiris Chaser Circlet
+2809	You can make a Languhiris Bone-Breaker by fusing a Physis Wooden Lance with a Hillwen Alloy.\nYou need to obtain a special material from the White Dragon to fuse them.\nYou can't predict the efficiency of the item that's going to be produced.
+2810	You can make a Bhafel Slayer Guard by fusing metal equipment with a Hillwen Alloy.\nYou need to obtain a special material from the Black Dragon to fuse them.\nYou can't predict the efficiency of the item that's going to be produced.
+2811	You can make a Bhafel Slayer Guard by fusing metal equipment with a Hillwen Alloy.\nYou need to obtain a special material from the Black Dragon to fuse them.\nYou can't predict the efficiency of the item that's going to be produced.
+2812	You can make a Bhafel Slayer Gauntlet by fusing metal equipment with a Hillwen Alloy.\nYou need to obtain a special material from the Black Dragon to fuse them.\nYou can't predict the efficiency of the item that will be produced.
+2813	You can make Bhafel Slayer Greaves by fusing metal equipment with a Hillwen Alloy.\nYou need to obtain a special material from the Black Dragon to fuse them.\nYou can't predict the efficiency of the item that will be produced.
+2814	You can make Bhafel Slayer Greaves by fusing metal boots with a Hillwen Alloy.\nYou need to obtain a special material from the Black Dragon to fuse them.\nYou can't predict the efficiency of the item that's going to be produced.
+2815	You can make a Bhafel Slayer Circlet by fusing a Hillwen Alloy with a special material that can be obtained from the Black Dragon.\nYou can't predict the efficiency of the item that's going to be produced.
+2816	You can make a Languhiris Chaser by imbuing a Bear Knuckle with a special Magic.\nYou need to obtain a special material from the White Dragon to imbue it with Magic.\nYou can't predict the efficiency of the item that's going to be produced.
+2817	You can make a Languhiris Chaser Armor by imbuing a Leather Mail with Magic.\nYou need to obtain a special material from the White Dragon to imbue it with Magic.\nYou can't predict the efficiency of the item that's going to be produced.
+2818	You can make a Languhiris Chaser Armor by imbuing a Leather Mail with Magic.\nYou need to obtain a special material from the White Dragon to imbue it with Magic.\nYou can't predict the efficiency of the item that's going to be produced.
+2819	You can make Languhiris Chaser Gloves by imbuing Leather Gloves with Magic.\nYou need to obtain a special material from the White Dragon to imbue them with Magic.\nYou can't predict the efficiency of the item that's going to be produced.
+2820	You can make Languhiris Chaser Boots by imbuing Leather Shoes with Magic.\nYou need to obtain a special material from the White Dragon to imbue them with Magic.\nYou can't predict the efficiency of the item that's going to be produced.
+2821	You can make Languhiris Chaser Boots by imbuing Leather Shoes with Magic.\nYou need to obtain a special material from the White Dragon to imbue them with Magic.\nYou can't predict the efficiency of the item that's going to be produced.
+2822	You can make a Languhiris Chaser Circlet by fusing an Intact Shyllien with a special material that can be obtained from the White Dragon.\nYou can't predict the efficiency of the item that's going to be produced.
+2823	Physis Wooden Lance;Hillwen Alloy;White Dragon Heart;Dragon Bone;Dragon Scale;Dragon Claw
+2824	Heavy Armor;Hillwen Alloy;Black Dragon Blood;Dragon Bone;Dragon Scale
+2825	Heavy Armor;Hillwen Alloy;Black Dragon Blood;Dragon Bone;Dragon Scale
+2826	Metal Gauntlets;Hillwen Alloy;Black Dragon Blood;Dragon Bone;Dragon Scale
+2827	Metal Greaves;Hillwen Alloy;Black Dragon Blood;Dragon Bone;Dragon Scale
+2828	Metal Greaves;Hillwen Alloy;Black Dragon Blood;Dragon Bone;Dragon Scale
+2829	Hillwen Alloy;Black Dragon Eyeball;Black Dragon Blood
+2830	Bear Knuckle;Intact Shyllien;Mutant;White Dragon Heart;White Dragon Blood
+2831	Leather Mail;Intact Shyllien;Mutant;White Dragon Blood;Dragon Scale;Lump of Dragon Flesh
+2832	Leather Mail;Intact Shyllien;Mutant;White Dragon Blood;Dragon Scale;Lump of Dragon Flesh
+2833	Leather Gloves;Intact Shyllien;Mutant;White Dragon Blood;Dragon Scale;Lump of Dragon Flesh
+2834	Leather Shoes;Intact Shyllien;Mutant;White Dragon Blood;Dragon Scale;Lump of Dragon Flesh
+2835	Leather Shoes;Intact Shyllien;Mutant;White Dragon Blood;Dragon Scale;Lump of Dragon Flesh
+2836	Intact Shyllien;Mutant;White Dragon Eyeball;White Dragon Blood
+2837	You must be holding an Engineering Hammer.
+2838	You must be holding an Engineering Hammer.
+2839	You must be holding an Engineering Hammer.
+2840	You must be holding an Engineering Hammer.
+2841	You must be holding an Engineering Hammer.
+2842	You must be holding an Engineering Hammer.
+2843	You must be holding an Engineering Hammer.
+2844	You must have a Blasted Oak Wand equipped.
+2845	You must have a Blasted Oak Wand equipped.
+2846	You must have a Blasted Oak Wand equipped.
+2847	You must have a Blasted Oak Wand equipped.
+2848	You must have a Blasted Oak Wand equipped.
+2849	You must have a Blasted Oak Wand equipped.
+2850	You must have a Blasted Oak Wand equipped.
+2851	You need to have an Engineering Rack near you.
+2852	You need to have an Engineering Rack near you.
+2853	You need to have an Engineering Rack near you.
+2854	You need to have an Engineering Rack near you.
+2855	You need to have an Engineering Rack near you.
+2856	You need to have an Engineering Rack near you.
+2857	You need to have an Engineering Rack near you.
+2858	You need to have a Magic Cauldron near you.
+2859	You need to have a Magic Cauldron near you.
+2860	You need to have a Magic Cauldron near you.
+2861	You need to have a Magic Cauldron near you.
+2862	You need to have a Magic Cauldron near you.
+2863	You need to have a Magic Cauldron near you.
+2864	You need to have a Magic Cauldron near you.
+2865	Sun Road Colt
+2866	Sun Prophet Colt
+2867	Suntouched Mana Bullet
+2868	The Sun Road Colt can be crafted by combining an Energy Converter, Emerald Fuse, Energy Amplifier, and Suntouched Stone Fragment.\nYou can't predict the efficiency of the result.
+2869	The Sun Prophet Colt can be crafted by combining an Energy Converter, Emerald Fuse, Energy Amplifier, and Suntouched Stone.\nYou can't predict the efficiency of the result.
+2870	You can create 50 Suntouched Mana Bullets by using 1 Suntouched Shyllien Crystal.\nThe Suntouched Shyllien Crystal is a condensed form of Shyllien that has been compressed over a long period of time, and should provide a wealth of bullets. \nMana Bullets are used as ammo for Dual Guns.
+2871	Energy Converter; Emerald Fuse; Energy Amplifier; Suntouched Stone Fragment
+2872	Energy Converter; Emerald Fuse; Energy Amplifier; Suntouched Stone
+2873	Suntouched Shyllien Crystal
+2874	You must be holding a Spanner.
+2875	You must be holding a Spanner.
+2876	Empty your hands.
+2877	You need to have an Engineering Rack near you.
+2878	You need to have an Engineering Rack near you.
+2879	You need to have a Magic Cauldron near you.
+2880	Hillwen Fusion (Part-Time Job only)
+2881	Engineering Hammer (Part-Time Job only)
+2882	Meriel PE (Part-Time Job only)
+2883	Shyllien Conversion (Part-Time Job only)
+2884	Purified Rabbit Foot (Part-Time Job only)
+2885	Savage Fire Wand (Part-Time Job only)
+2886	You can make Hillwen by fusing Hillwen Ore Fragments.\nHillwen will lose its intrinsic glow during the fusion, later turning black.
+2887	You can make an Engineering Hammer with Hillwen and Tin Ore Fragments.
+2888	You can make a Meriel Pink Edition by connecting an Energy Converter and an Emerald Fuse to a Hillwen Alloy.\nYou can't predict the efficiency of the result.
+2889	You can convert a Shyllien Crystal to make easily-workable Shyllien.
+2890	You can make a normal Rabbit Foot by purifying a Mutant Rabbit Foot.
+2891	You can make a Savage Fire Wand by infusing an Enchanted Firewood with magic.\nYou can't predict the efficiency of the result.
+2892	Hillwen Ore Fragment (Part-Time Job only)
+2893	Hillwen (Part-Time Job only); Tin Ore Fragment (Part-Time Job only)
+2894	Hillwen Alloy (Part-Time Job only); Hexagonal Bolt (Part-Time Job only); Hexagonal Nut (Part-Time Job only); Energy Converter (Part-Time Job only); Emerald Fuse (Part-Time Job only)
+2895	Shyllien Crystal (Part-Time Job only)
+2896	Shyllien (Part-Time Job only); Mutant Rabbit Foot (Part-Time Job only)
+2897	Enchanted Firewood (Part-Time Job only); Mysterious Herb Powder (Part-Time Job only); Intact Shyllien (Part-Time Job only); Mutant (Part-Time Job only); Fire Elemental (Part-Time Job only)
+2898	You must be holding a Spanner.
+2899	Empty your hands.
+2900	Empty your hands.
+2901	Empty your hands.
+2902	Empty your hands.
+2903	You must have a Blasted Oak Wand equipped.
+2904	You need to have an Engineering Rack near you.
+2905	You need to have an Engineering Rack near you.
+2906	You need to have an Engineering Rack near you.
+2907	You need to have a Magic Cauldron near you.
+2908	You need to have a Magic Cauldron near you.
+2909	You need to have a Magic Cauldron near you.
+2910	마나 50 포션 SE
+2911	마나 50 포션 SE를 만든다. 포션 한개당 마나 10이 필요하다.
+2914	마나허브; 베이스허브; 담갈색송이버섯
+2915	Poison Herb; Paper
+2916	You can make an Elven Long Bow with Fine Firewood, Finest Firewood, Tough String, and Iron Ingots.
+2917	Make an Alpaca Fur Pouch
+2918	Make an Alpaca Robe (M)
+2919	Make an Alpaca Robe (F)
+2920	Make an Alpaca Wool Collection Pouch
+2921	Make an Alpaca Cobweb Pouch
+2922	Make an Alpaca Thin Thread Ball Pouch
+2923	Make an Alpaca Thick Thread Ball Pouch
+2924	Make an Alpaca Cheap Leather Pouch
+2925	Make an Alpaca Common Leather Pouch
+2926	Make an Alpaca Fine Leather Pouch
+2927	Make an Alpaca Finest Leather Pouch
+2928	Make an Alpaca Cheap Fabric Pouch
+2929	Make an Alpaca Common Fabric Pouch
+2930	Make an Alpaca Fine Fabric Pouch
+2931	Make an Alpaca Finest Fabric Pouch
+2932	Make an Alpaca Cheap Silk Pouch
+2933	Make an Alpaca Common Silk Pouch
+2934	Make an Alpaca Fine Silk Pouch
+2935	Make an Alpaca Finest Silk Pouch
+2936	You can create an Alpaca Fur Pouch with Alpaca Fur and a Loom.
+2937	You can create an Alpaca Robe (M) with Alpaca Fur and a Loom.\n\nYour Movement Speed will increase while wearing the Alpaca Robe.
+2938	You can create an Alpaca Robe (F) with Alpaca Fur and a Loom.\n\nYour Movement Speed will increase while wearing the Alpaca Robe.
+2939	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2940	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2941	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2942	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2943	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2944	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2945	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2946	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2947	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2948	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2949	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2950	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2951	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2952	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2953	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2954	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2955	Alpaca Fur
+2956	Alpaca Fur
+2957	Alpaca Fur
+2958	Alpaca Fur
+2959	Alpaca Fur
+2960	Alpaca Fur
+2961	Alpaca Fur
+2962	Alpaca Fur
+2963	Alpaca Fur
+2964	Alpaca Fur
+2965	Alpaca Fur
+2966	Alpaca Fur
+2967	Alpaca Fur
+2968	Alpaca Fur
+2969	Alpaca Fur
+2970	Alpaca Fur
+2971	Alpaca Fur
+2972	Alpaca Fur
+2973	Alpaca Fur
+2974	Your hands should be empty before you weave a Pouch.
+2975	Your hands should be empty before you weave a Robe.
+2976	Your hands should be empty before you weave a Robe.
+2977	Your hands should be empty before you weave a Pouch.
+2978	Your hands should be empty before you weave a Pouch.
+2979	Your hands should be empty before you weave a Pouch.
+2980	Your hands should be empty before you weave a Pouch.
+2981	Your hands should be empty before you weave a Pouch.
+2982	Your hands should be empty before you weave a Pouch.
+2983	Your hands should be empty before you weave a Pouch.
+2984	Your hands should be empty before you weave a Pouch.
+2985	Your hands should be empty before you weave a Pouch.
+2986	Your hands should be empty before you weave a Pouch.
+2987	Your hands should be empty before you weave a Pouch.
+2988	Your hands should be empty before you weave a Pouch.
+2989	Your hands should be empty before you weave a Pouch.
+2990	Your hands should be empty before you weave a Pouch.
+2991	Your hands should be empty before you weave a Pouch.
+2992	Your hands should be empty before you weave a Pouch.
+2993	You can create an Alpaca Fur Pouch with Alpaca Fur and a Loom.
+2994	You can create an Alpaca Robe (M) with Alpaca Fur and a Loom.\nYour Movement Speed will increase while wearing the Alpaca Robe.
+2995	You can create an Alpaca Robe (F) with Alpaca Fur and a Loom.\nYour Movement Speed will increase while wearing the Alpaca Robe.
+2996	You can create an Alpaca Wool Collection Pouch with Alpaca Fur and a Loom.
+2997	You can create an Alpaca Cobweb Pouch with Alpaca Fur and a Loom.
+2998	You can create an Alpaca Thin Thread Ball Pouch with Alpaca Fur and a Loom.
+2999	You can create an Alpaca Thick Thread Ball Pouch with Alpaca Fur and a Loom.
+3000	You can create an Alpaca Cheap Leather Pouch with Alpaca Fur and a Loom.
+3001	You can create an Alpaca Common Leather Pouch with Alpaca Fur and a Loom.
+3002	You can create an Alpaca Fine Leather Pouch with Alpaca Fur and a Loom.
+3003	You can create an Alpaca Finest Leather Pouch with Alpaca Fur and a Loom.
+3004	You can create an Alpaca Cheap Fabric Pouch with Alpaca Fur and a Loom.
+3005	You can create an Alpaca Common Fabric Pouch with Alpaca Fur and a Loom.
+3006	You can create an Alpaca Fine Fabric Pouch with Alpaca Fur and a Loom.
+3007	You can create an Alpaca Finest Fabric Pouch with Alpaca Fur and a Loom.
+3008	You can create an Alpaca Cheap Silk Pouch with Alpaca Fur and a Loom.
+3009	You can create an Alpaca Common Silk Pouch with Alpaca Fur and a Loom.
+3010	You can create an Alpaca Fine Silk Pouch with Alpaca Fur and a Loom.
+3011	You can create an Alpaca Finest Silk Pouch with Alpaca Fur and a Loom.
+3012	Treasure Hunter's Special Potion
+3013	Allows you to make the medicine to save the Dying Glutton Monkey.
+3015	Map Pieces; Creepy Sprout; Scorpion Hair; Bitterbite Herb; Lava Fruit; Peculiar Dust; Hot Ash
+3037	You must be holding an Engineering Hammer.
+3038	You must be holding an Engineering Hammer.
+3039	You must be holding an Engineering Hammer.
+3040	You need to have an Engineering Rack near you.
+3041	You need to have an Engineering Rack near you.
+3042	You need to have an Engineering Rack near you.
+3046	You must have a Blasted Oak Wand equipped.
+3047	You must have a Blasted Oak Wand equipped.
+3048	You must have a Blasted Oak Wand equipped.
+3049	You need to have a Magic Cauldron near you.
+3050	You need to have a Magic Cauldron near you.
+3051	You need to have a Magic Cauldron near you.
+3058	Pilgrim Sword
+3059	Fanatic Greatsword
+3060	Stigmata Knuckle
+3061	Salvation Bow
+3062	Original Sin Staff
+3063	Gospel Cylinder
+3084	The Pilgrim Sword can be made by fusing ingredients acquired from the Apostle with Hillwen Alloy.\nYou can't predict the efficiency of the result.
+3085	The Fanatic Greatsword can be made by fusing ingredients acquired from the Apostle with Hillwen Alloy.\nYou can't predict the efficiency of the result.
+3086	The Stigmata Knuckle can be made by fusing ingredients acquired from the Apostle with Hillwen Alloy.\nYou can't predict the efficiency of the result.
+3087	The Salvation Bow can be made by fusing ingredients acquired from the Apostle with magic.\nYou can't predict the efficiency of the result.
+3088	The Original Sin Staff can be made by fusing ingredients acquired from the Apostle with magic.\nYou can't predict the efficiency of the result.
+3089	The Gospel Cylinder can be made by fusing ingredients acquired from the Apostle with magic.\nYou can't predict the efficiency of the result.
+3090	Hillwen Alloy; Apostle Ring; Apostle Leather; Apostle's Sharpened Shard; Apostle's Hardened Shard; Apostle's Shining Shard
+3091	Hillwen Alloy; Apostle Ring; Apostle Leather; Apostle's Sharpened Shard; Apostle's Hardened Shard; Apostle's Shining Shard
+3092	Hillwen Alloy; Apostle Ring; Apostle Leather; Apostle's Sharpened Shard; Apostle's Hardened Shard; Apostle's Shining Shard
+3096	Mutant; Apostle Ring; Apostle Leather; Apostle's Sharpened Shard; Apostle's Hardened Shard; Apostle's Shining Shard
+3097	Mutant; Apostle Ring; Apostle Leather; Apostle's Sharpened Shard; Apostle's Hardened Shard; Apostle's Shining Shard
+3098	Mutant; Apostle Ring; Apostle Leather; Apostle's Sharpened Shard; Apostle's Hardened Shard; Apostle's Shining Shard
+3099	Festival Table Setting
+3101	Firewood;Large Nail;Red Paint
+3102	A Handicraft Kit is required to make a Festival Table.
+3103	You need 5 Firewoods, 10 Large Nails, and 1 Red Paint to make a Festival Table.
+3104	Celtic Tribolt Wand
+3105	Celtic Druid Staff
+3106	Celtic Guardian Staff
+3107	You can make a Celtic Tribolt Wand by infusing Enchanted Firewood with magic. You can't predict the effectiveness of the result.
+3108	You can make a Celtic Druid Staff by infusing Enchanted Firewood with magic. You can't predict the effectiveness of the result.
+3109	You can make a Celtic Guardian Staff by infusing Enchanted Firewood with magic. You can't predict the effectiveness of the result.
+3110	Enchanted Firewood;Intact Shyllien;Mutant;Broken Ring Frame;Black Sealing Metal;Forgotten Mage's Gem
+3111	Enchanted Firewood;Intact Shyllien;Mutant;Broken Ring Frame;Black Sealing Metal;Forgotten Mage's Gem
+3112	Enchanted Firewood;Intact Shyllien;Mutant;Broken Ring Frame;Black Sealing Metal;Forgotten Mage's Gem
+3113	You must have a Blasted Oak Wand equipped.
+3114	You must have a Blasted Oak Wand equipped.
+3115	You must have a Blasted Oak Wand equipped.
+3116	You need to have a Magic Cauldron near you.
+3117	You need to have a Magic Cauldron near you.
+3118	You need to have a Magic Cauldron near you.
+3119	Make a Celtic Crossbow
+3120	You can make a Celtic Crossbow using Finest Firewood, Radiant String, Lightless Metal Fragment, and a Hard Monster Horn.
+3121	Finest Firewood;Radiant String;Lightless Metal Fragment;Hard Monster Horn
+3122	Equip a Woodworking Plane to make a Celtic Crossbow.
+3123	Make a Celtic Royal Crossbow
+3124	You can make a Celtic Royal Crossbow using Finest Firewood, Radiant String, Lightless Metal Fragment, Forgotten Mage's Gem, and a Hard Monster Horn.
+3125	Finest Firewood;Radiant String;Lightless Metal Fragment;Forgotten Mage's Gem;Hard Monster Horn
+3126	Equip a Woodworking Plane to make a Celtic Royal Crossbow.
+3127	You can make a Celtic Crossbow using Finest Firewood, Tough String, Broken Seal Chain, Forgotten Mage's Gem, and a Hard Monster Horn.
+3128	Finest Firewood; Tough String; Broken Seal Chain; Forgotten Mage's Gem; Hard Monster Horn;
+3129	Convert Ancient Magic Shyllien
+3130	Enhanced Mutant
+3131	Caswyn's Armor
+3132	Pihne's Armor
+3133	Caswyn's Gauntlets
+3134	Pihne's Gauntlets
+3135	Caswyn's Greaves
+3136	Pihne's Greaves
+3137	You can make an Ancient Magic Shyllien by combining Intact Shyllien and Ancient Magic Crystals.
+3138	Make an Enhanced Mutant by combining Mutants and Ancient Golden Crystals.
+3139	You can make Caswyn's Armor by infusing Broken Guardian's Armor with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3140	You can make Pihne's Armor by infusing Broken Guardian's Armor with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3141	You can make Caswyn's Gauntlets by infusing Broken Guardian's Gauntlets with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3142	You can make Pihne's Gauntlets by infusing Broken Guardian's Gauntlets with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3143	You can make Caswyn's Boots by infusing Broken Guardian's Greaves with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3144	You can make Pihne's Boots by infusing Broken Guardian's Greaves with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3145	Intact Shyllien; Ancient Magic Crystal
+3146	Mutant;Ancient Golden Crystal
+3147	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Armor
+3148	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Armor
+3149	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Gauntlets
+3150	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Gauntlets
+3151	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Boots
+3152	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Boots
+3153	You must have a Blasted Oak Wand equipped.
+3154	You must have a Blasted Oak Wand equipped.
+3155	You must have a Blasted Oak Wand equipped.
+3156	You must have a Blasted Oak Wand equipped.
+3157	You must have a Blasted Oak Wand equipped.
+3158	You must have a Blasted Oak Wand equipped.
+3159	Empty your hands.
+3160	You must have a Blasted Oak Wand equipped.
+3161	You need to have a Magic Cauldron near you.
+3162	You need to have a Magic Cauldron near you.
+3163	You need to have a Magic Cauldron near you.
+3164	You need to have a Magic Cauldron near you.
+3165	You need to have a Magic Cauldron near you.
+3166	You need to have a Magic Cauldron near you.
+3167	You need to have a Magic Cauldron near you.
+3168	You need to have a Magic Cauldron near you.
+3169	Create Sky Lantern
+3170	You can make a Sky Lantern with one Sky Lantern Kit.
+3171	Sky Lantern Kit
+3172	To make a Sky Lantern, you must have a Handicraft Kit equipped.
+3173	Divine Tribolt Wand
+3174	You can make a Divine Tribolt Wand by infusing a Broken Guardian's Wand with magic.\nThe quality of the result is random.
+3175	Ancient Magic Shyllien;Enhanced Mutant;Shining Metal Shard;Medal of Wisdom;Broken Guardian's Wand
+3176	You must have a Blasted Oak Wand equipped.
+3177	You need to have a Magic Cauldron near you.
+3178	Enhanced Hillwen Alloy Fusion
+3179	Divine Bastard Sword
+3180	Divine Blade
+3181	Divine Short Lance
+3182	Divine Shield
+3183	You can make Enhanced Hillwen Alloy by fusing Hillwen Alloy and Ancient Golden Crystals.
+3184	You can make a Divine Bastard Sword by fusing a Broken Guardian's Bastard Sword and Enhanced Hillwen Alloy.\nThe quality of the result is random.
+3185	You can make a Divine Blade by fusing a Broken Guardian's Blade and Enhanced Hillwen Alloy.\nThe quality of the result is random.
+3186	You can make a Divine Small Lance by fusing a Broken Guardian's Lance and Enhanced Hillwen Alloy.\nThe quality of the result is random.
+3187	You can make a Divine Shield by fusing a Broken Guardian's Shield and Enhanced Hillwen Alloy.\nThe quality of the result is random.
+3188	Hillwen Alloy;Ancient Golden Crystal
+3189	Enhanced Hillwen Alloy;Shining Metal Shard;Medal of Honor;Broken Guardian's Bastard Sword
+3190	Enhanced Hillwen Alloy;Shining Metal Shard;Medal of Victory;Broken Guardian's Blade
+3191	Enhanced Hillwen Alloy;Shining Metal Shard;Medal of Will;Broken Guardian's Lance
+3192	Enhanced Hillwen Alloy;Shining Metal Shard;Medal of Protection;Broken Guardian's Shield
+3193	Empty both of your hands.
+3194	You must be holding an Engineering Hammer in your right hand.
+3195	You must be holding an Engineering Hammer in your right hand.
+3196	You must be holding an Engineering Hammer in your right hand.
+3197	You must be holding an Engineering Hammer in your right hand.
+3198	You need an Engineering Rack nearby.
+3199	You need an Engineering Rack nearby.
+3200	You need an Engineering Rack nearby.
+3201	You need an Engineering Rack nearby.
+3202	You need an Engineering Rack nearby.
+3203	Create Enhanced Firewood
+3204	Create Divine Crossbow
+3205	Make Enhanced Firewood with Finest Firewood and Ancient Golden Crystals.
+3207	Finest Firewood; Ancient Golden Crystal;
+3208	Enhanced Firewood;Shining Metal Shard;Medal of Dignity;Broken Guardian's Crossbow
+3209	Equip a Woodworking Plane to make Enhanced Firewood.
+3210	Equip a Woodworking Plane to make a Divine Crossbow.
+3211	You can make a Divine Crossbow using Enhanced Firewood, Shining Metal Shard, Medal of Dignity, and Broken Guardian Crossbow.
+3212	You can make a Bhafel Slayer Guard by fusing a Plate Mail with a Hillwen Alloy.\nYou need to obtain a special material from the Black Dragon to fuse them.\nYou can't predict the efficiency of the item that's going to be produced.
+3213	You can make a Bhafel Slayer Guard by fusing a Plate Mail with a Hillwen Alloy.\nYou need to obtain a special material from the Black Dragon to fuse them.\nYou can't predict the efficiency of the item that's going to be produced.
+3214	You can make a Bhafel Slayer Gauntlet by fusing a Plate Gauntlet with a Hillwen Alloy.\nYou need to obtain a special material from the Black Dragon to fuse them.\nYou can't predict the efficiency of the item that will be produced.
+3215	You can make Bhafel Slayer Greaves by fusing Plate Boots with a Hillwen Alloy.\nYou need to obtain a special material from the Black Dragon to fuse them.\nYou can't predict the efficiency of the item that's going to be produced.
+3216	You can make Bhafel Slayer Greaves by fusing Plate Boots with a Hillwen Alloy.\nYou need to obtain a special material from the Black Dragon to fuse them.\nYou can't predict the efficiency of the item that's going to be produced.
+3217	You can make a Languhiris Chaser Armor by infusing Leather Mail with special magic.\nYou need to obtain a special material from the White Dragon to fuse them.\nYou can't predict the efficiency of the item that's going to be produced.
+3218	You can make a Languhiris Chaser Armor by infusing Leather Mail with special magic.\nYou need to obtain a special material from the White Dragon to fuse them.\nYou can't predict the efficiency of the item that's going to be produced.
+3219	You can make Languhiris Chaser Gloves by infusing Leather Gloves with special magic.\nYou need to obtain a special material from the White Dragon to fuse them.\nYou can't predict the efficiency of the item that's going to be produced.
+3220	You can make Languhiris Chaser Boots by infusing Leather Shoes with special magic.\nYou need to obtain a special material from the White Dragon to fuse them.\nYou can't predict the efficiency of the item that's going to be produced.
+3221	You can make Languhiris Chaser Boots by infusing Leather Shoes with special magic.\nYou need to obtain a special material from the White Dragon to fuse them.\nYou can't predict the efficiency of the item that's going to be produced.
+3222	Plate Mail;Hillwen Alloy;Black Dragon Blood;Dragon Bone;Dragon Scale
+3223	Plate Mail;Hillwen Alloy;Black Dragon Blood;Dragon Bone;Dragon Scale
+3224	Plate Gauntlets;Hillwen Alloy;Black Dragon Blood;Dragon Bone;Dragon Scale
+3225	Plate Boots;Hillwen Alloy;Black Dragon Blood;Dragon Bone;Dragon Scale
+3226	Plate Boots;Hillwen Alloy;Black Dragon Blood;Dragon Bone;Dragon Scale
+3227	Leather Mail;Intact Shyllien;Mutant;White Dragon Blood;Dragon Scale;Dragon Flesh Lump
+3228	Leather Mail;Intact Shyllien;Mutant;White Dragon Blood;Dragon Scale;Dragon Flesh Lump
+3229	Leather Gloves;Intact Shyllien;Mutant;White Dragon Blood;Dragon Scale;Dragon Flesh Lump
+3230	Leather Shoes;Intact Shyllien;Mutant;White Dragon Blood;Dragon Scale;Dragon Flesh Lump
+3231	Leather Shoes;Intact Shyllien;Mutant;White Dragon Blood;Dragon Scale;Dragon Flesh Lump
+3234	Tailoring Production Boost Potion
+3235	Handicraft Production Boost Potion
+3236	Blacksmithing Production Boost Potion
+3237	Potion Making Boost Potion
+3238	Carpentry Production Boost Potion
+3239	Hillwen Engineering Production Boost Potion
+3240	Magic Craft Production Boost Potion
+3243	Make a Tailoring Production Boost Potion. One potion requires 100 MP.
+3244	Make a Handicraft Production Boost Potion. One potion requires 100 MP.
+3245	Make a Blacksmithing Production Boost Potion. One potion requires 100 MP.
+3246	Make a Potion Making Production Boost Potion. One potion requires 100 MP.
+3247	Make a Carpentry Production Boost Potion. One potion requires 100 MP.
+3248	Make a Hillwen Engineering Production Boost Potion. One potion requires 100 MP.
+3249	Make a Magic Craft Production Boost Potion. One potion requires 100 MP.
+3250	Blue Upgrade Stone; Awakened Strength Powder; Awakened Strength Fragment; Awakened Strength Crystal
+3251	Red Upgrade Stone; Awakened Strength Powder; Awakened Strength Fragment; Awakened Strength Crystal
+3252	Golden Herb; Base Potion; Mandrake; Pure White Dust; Refined Catalyst;
+3253	Golden Herb; Base Potion; Mandrake; Pure White Dust; Refined Catalyst;
+3254	Golden Herb; Base Potion; Mandrake; Pure White Dust; Refined Catalyst;
+3255	Golden Herb; Base Potion; Mandrake; Pure White Dust; Refined Catalyst;
+3256	Golden Herb; Base Potion; Mandrake; Pure White Dust; Refined Catalyst;
+3257	Golden Herb; Base Potion; Mandrake; Pure White Dust; Refined Catalyst;
+3258	Golden Herb; Base Potion; Mandrake; Pure White Dust; Refined Catalyst;
+3259	Make a Celtic Control Bar
+3260	Enchant Expiration Removal Scroll
+3261	Make Special Firewood
+3262	Celtic Dowra Ace
+3263	Create a Celtic Control Bar with 5 Special Firewoods, 3 Gold Plates, 10 Large Nails, 4 Cleansed Mage's Gems, 6 Shattered Black Metals, 2 Nightmare Guard's Relics.
+3265	Create Special Firewood with Finest Firewood and Purified Enhancer.
+3267	Special Firewood; Gold Plate; Large Nail; Cleansed Mage's Gem; Shattered Black Metal; Nightmare Guard's Relic;
+3269	Finest Firewood; Purified Enhancer;
+3270	Hillwen Alloy; Energy Converter; Emerald Fuse; Cleansed Mage's Gem; Shattered Black Metal; Deformed Ring Frame
+3271	You must have a Handicraft Kit in hand.
+3272	You must have a Handicraft Kit in hand.
+3273	A Woodworking Plane is required to make this item.
+3274	You must have an Engineering Hammer in your right hand.
+3275	You need an Engineering Rack nearby.
+3276	Ladeca Blue Upgrade Stone
+3277	Eweca Red Upgrade Stone
+3278	Make a Ladeca Blue Upgrade Stone by infusing a Blue Upgrade Stone with awakening energy.
+3279	Make an Eweca Red Upgrade Stone by infusing a Red Upgrade Stone with awakening power.
+3280	You must have a Blasted Oak Wand equipped.
+3281	You must have a Blasted Oak Wand equipped.
+3282	You must be by a Magic Cauldron.
+3283	You must be by a Magic Cauldron.
+3285	Make an Enchant Expiration Removal Scroll with 10 Poison Herbs, 5 Papers; 3 Restorative Powder; 1 Distortion Powder.
+3286	Poison Herb; Paper; Restorative Powder; Distortion Powder;
+3287	Create a Celtic Dowra Ace by connecting a Cleansed Mage's Gem, Shattered Black Metal, etc. to the Hillwen Alloy.\nThe quality of the result is random.
+3288	Make a Hard Mode Ciar Advanced Fomor Pass
+3289	Make a Hard Mode Alby Advanced Fomor Pass
+3290	Make a Hard Mode Rundal Advanced Fomor Pass
+3291	Create a Hard Mode Ciar Advanced Fomor Pass with a Mangled Ciar Dungeon Pass and a Restorative Potion.
+3292	Create a Hard Mode Alby Advanced Fomor Pass with a Mangled Alby Dungeon Pass and a Restorative Potion.
+3293	Create a Hard Mode Rundal Advanced Fomor Pass with a Mangled Rundal Dungeon Pass and a Restorative Potion.
+3294	Mangled Ciar Dungeon Pass; Restorative Potion;
+3295	Mangled Alby Dungeon Pass; Restorative Potion;
+3296	Mangled Rundal Dungeon Pass; Restorative Potion;
+3297	A Handicraft Kit is required to make this item.
+3298	A Handicraft Kit is required to make this item.
+3299	A Handicraft Kit is required to make this item.
+3300	Make a Rabbie Phantasm Dungeon Pass
+3301	You can create a Rabbie Phantasm Dungeon Pass with a Mangled Rabbie Dungeon Pass and a Restorative Potion.
+3302	Mangled Rabbie Dungeon Pass; Restorative Potion;
+3303	A Handicraft Kit is required to make this item.
+3304	Make a Snack Basket
+3305	You can make a Snack Basket with 2 branches and 2 cheap silks.
+3306	Branch;Cheap Silk;
+3307	A Handicraft Kit is required to make this item.
+3309	You can create a Rabbie Phantasm Dungeon Mirror World Pass with a Mangled Rabbie Dungeon Pass and a Restorative Potion.
+3310	Mangled Rabbie Dungeon Pass; Restorative Potion;
+3311	A Handicraft Kit is required to make this item.
+3312	Make a Rabbie Phantasm Dungeon Mirror World Pass
+3313	Make Milky Way Cymbals
+3314	Make a Milky Way Whistle
+3315	Make a Milky Way Lyre
+3316	Make a Milky Way Ukulele
+3317	Make a Milky Way Chalumeau
+3318	Make a Milky Way Cello
+3319	Make a Milky Way Roncadora
+3320	Milky Way Bass Drum
+3321	Milky Way Standing Microphone
+3322	Milky Way Electric Guitar
+3323	You can use the materials you got from the Musical Math Dungeon to make Milky Way Cymbals.
+3324	You can use the materials you got from the Musical Math Dungeon to make a Milky Way Whistle.
+3325	You can use the materials you got from the Musical Math Dungeon to make a Milky Way Lyre.
+3326	You can use the materials you got from the Musical Math Dungeon to make a Milky Way Ukulele.
+3327	You can use the materials you got from the Musical Math Dungeon to make a Milky Way Chalumeau.
+3328	You can use the materials you got from the Musical Math Dungeon to make a Milky Way Cello.
+3329	You can use the materials you got from the Musical Math Dungeon to make a Milky Way Roncadora.
+3330	You can use the materials you got from the Musical Math Dungeon to make a Milky Way Bass Drum.\nThe quality of the result is random.
+3331	You can use the materials you got from the Musical Math Dungeon to make a Milky Way Standing Microphone.\nThe quality of the result is random.
+3332	You can use the materials you got from the Musical Math Dungeon to make a Milky Way Electric Guitar.\nThe quality of the result is random.
+3333	Melodic Metal Board; Song Stardust;
+3334	Melodic Metal Board; Song Stardust;
+3335	Melodic Metal Board; Instrument Strings; Song Stardust;
+3336	Harmonic Wood Board; Instrument Strings;
+3337	Harmonic Wood Board; Melodic Metal Board;
+3338	Harmonic Wood Board; Instrument Strings; Song Stardust;
+3339	Harmonic Wood Board; Melodic Metal Board;
+3340	Harmonic Wood Board; Melodic Metal Board;
+3341	Harmonic Wood Board; Melodic Metal Board; Song Stardust;
+3342	Harmonic Wood Board; Melodic Metal Board; Instrument Strings;
+3343	You must have a Handicraft Kit in hand.
+3344	You must have a Handicraft Kit in hand.
+3345	You must have a Handicraft Kit in hand.
+3346	A Woodworking Plane is required to make this item.
+3347	A Woodworking Plane is required to make this item.
+3348	A Woodworking Plane is required to make this item.
+3349	A Woodworking Plane is required to make this item.
+3350	You must have an Engineering Hammer in hand.
+3351	You must have an Engineering Hammer in hand.
+3352	You must have an Engineering Hammer in hand.
+3353	You need an Engineering Rack nearby.
+3354	You need an Engineering Rack nearby.
+3355	You need an Engineering Rack nearby.
+3356	Creating a Cheer Stick
+3357	You can make a Cheering Stick with 10 Firefly Lights.
+3358	Firefly Light
+3359	A Handicraft Kit is required to make a Cheering Stick.
+3360	Tuned Flute
+3361	Tuned Whistle
+3362	Tuned Violin
+3363	Tuned Cello
+3364	Tuned Milky Way Flute
+3365	Tuned Milky Way Whistle
+3366	Tuned Milky Way Violin
+3367	Tuned Milky Way Cello
+3368	Use the Tuning Kit to tune the flute.
+3369	Use the Tuning Kit to tune the whistle.
+3370	Use the Tuning Kit to tune the violin.
+3371	Use the Tuning Kit to tune the cello.
+3372	Use the Tuning Kit to tune the Milky Way Flute.
+3373	Use the Tuning Kit to tune the Milky Way Whistle.
+3374	Use the Tuning Kit to tune the Milky Way Violin.
+3375	Use the Tuning Kit to tune the Milky Way Cello.
+3376	Tuning Kit; Flute;
+3377	Tuning Kit; Whistle;
+3378	Tuning Kit; Violin;
+3379	Tuning Kit; Cello;
+3380	Tuning Kit; Milky Way Flute;
+3381	Tuning Kit; Milky Way Whistle;
+3382	Tuning Kit; Milky Way Violin;
+3383	Tuning Kit; Milky Way Cello;
+3384	You must have a Handicraft Kit in hand.
+3385	You must have a Handicraft Kit in hand.
+3386	You must have a Handicraft Kit in hand.
+3387	You must have a Handicraft Kit in hand.
+3388	You must have a Handicraft Kit in hand.
+3389	You must have a Handicraft Kit in hand.
+3390	You must have a Handicraft Kit in hand.
+3391	You must have a Handicraft Kit in hand.
+3392	Frosted Borealis Blade
+3393	Frosted Borealis Shield
+3394	Colossal Valiance Armor (M)
+3395	Colossal Valiance Armor (F)
+3396	Colossal Valiance Gauntlets (M)
+3397	Colossal Valiance Gauntlets (F)
+3398	Colossal Valiance Greaves (M)
+3399	Colossal Valiance Greaves (F)
+3400	Colossal Valiance Circlet (M)
+3401	Colossal Valiance Circlet (F)
+3402	You can make the Frosted Borealis Blade by fusing special ingredients with Hillwen Alloy.\nThe quality of the result is random.
+3403	You can make the Frosted Borealis Shield by fusing special ingredients with Hillwen Alloy.\nThe quality of the result is random.
+3404	You can make the Colossal Valiance Armor by fusing Plate Mail with Hillwen Alloy and a Valiance Metal Shard.\nYou need Sub-Zero Coolant to fuse them.\nThe quality of the result is random.
+3405	You can make the Colossal Valiance Armor by fusing Plate Mail with Hillwen Alloy and a Valiance Metal Shard.\nYou need Sub-Zero Coolant to fuse them.\nThe quality of the result is random.
+3406	You can make the Colossal Valiance Gauntlets by fusing Plate Gauntlets with Hillwen Alloy and a Valiance Metal Shard.\nYou need Sub-Zero Coolant to fuse them.\nThe quality of the result is random.
+3407	You can make the Colossal Valiance Gauntlets by fusing Plate Gauntlets with Hillwen Alloy and a Valiance Metal Shard.\nYou need Sub-Zero Coolant to fuse them.\nThe quality of the result is random.
+3408	You can make the Colossal Valiance Greaves by fusing Plate Boots with Hillwen Alloy and a Valiance Metal Shard.\nYou need Sub-Zero Coolant to fuse them.\nThe quality of the result is random.
+3409	You can make the Colossal Valiance Greaves by fusing Plate Boots with Hillwen Alloy and a Valiance Metal Shard.\nYou need Sub-Zero Coolant to fuse them.\nThe quality of the result is random.
+3410	You can make the Colossal Valiance Circlet by fusing Plate Helm with Hillwen Alloy and a Valiance Metal Shard.\nYou need Sub-Zero Coolant to fuse them.\nThe quality of the result is random.
+3411	You can make the Colossal Valiance Circlet by fusing Plate Helm with Hillwen Alloy and a Valiance Metal Shard.\nYou need Sub-Zero Coolant to fuse them.\nThe quality of the result is random.
+3412	Hillwen Alloy;Frosted Borealis Crystal;Resilient Ebony;Gem of Valor;Essence of Raw Force
+3413	Hillwen Alloy;Valiance Metal Shard;Resilient Ebony;Gem of Valor
+3414	Plate Mail;Hillwen Alloy;Valiance Metal Shard;Ancient Beast Hide;Sub-Zero Coolant
+3415	Plate Mail;Hillwen Alloy;Valiance Metal Shard;Ancient Beast Hide;Sub-Zero Coolant
+3416	Plate Gauntlets;Hillwen Alloy;Valiance Metal Shard;Ancient Beast Hide;Sub-Zero Coolant
+3417	Plate Gauntlets;Hillwen Alloy;Valiance Metal Shard;Ancient Beast Hide;Sub-Zero Coolant
+3418	Plate Boots;Hillwen Alloy;Valiance Metal Shard;Ancient Beast Hide;Sub-Zero Coolant
+3419	Plate Boots;Hillwen Alloy;Valiance Metal Shard;Ancient Beast Hide;Sub-Zero Coolant
+3420	Plate Helm;Hillwen Alloy;Valiance Metal Shard;Sub-Zero Coolant
+3421	Plate Helm;Hillwen Alloy;Valiance Metal Shard;Sub-Zero Coolant
+3422	Must hold an Engineering Hammer in your main hand.
+3423	You must be holding an Engineering Hammer.
+3424	You must be holding an Engineering Hammer.
+3425	You must be holding an Engineering Hammer.
+3426	You must be holding an Engineering Hammer.
+3427	You must be holding an Engineering Hammer.
+3428	You must be holding an Engineering Hammer.
+3429	You must be holding an Engineering Hammer.
+3430	You must be holding an Engineering Hammer.
+3431	You must be holding an Engineering Hammer.
+3432	You need an Engineering Rack nearby.
+3433	You need an Engineering Rack nearby.
+3434	You need an Engineering Rack nearby.
+3435	You need an Engineering Rack nearby.
+3436	You need an Engineering Rack nearby.
+3437	You need an Engineering Rack nearby.
+3438	You need an Engineering Rack nearby.
+3439	You need an Engineering Rack nearby.
+3440	You need an Engineering Rack nearby.
+3441	You need an Engineering Rack nearby.
+3443	HP 300 Potion RE
+3444	MP 300 Potion RE
+3445	Stamina 300 Potion RE
+3446	Ancient Four-Leaf Clover Ornament
+3447	Ancient Horned Ring
+3448	Ancient Sun Yeti Heart
+3449	Make an HP 300 Potion RE. 20 MP is required to make one.
+3450	Make an MP 300 Potion RE. 20 MP is required to make one.
+3451	Make a Stamina 300 Potion RE. 20 MP is required to make one.
+3452	You can craft an enchanted charm using a four-leaf clover and an ancient Suntouched Shyllien Crystal. Perhaps it will bring you good fortune!\nBut remember, no one really knows if charms like that work all the time...
+3453	You can make a special item by infusing Enchanted Firewood with the magic of an ancient Suntouched Shyllien Crystal.\nBut remember, no one really knows if things like that work all the time...
+3454	You can make a special item by infusing a Sasquatch Heart with the magic of an ancient Suntouched Shyllien Crystal.\nBut remember, no one really knows if things like that work all the time...
+3455	Four-Leaf Clover; HP 300 Potion; Bottled Water
+3456	Four-Leaf Clover; MP 300 Potion; Bottled Water
+3457	Four-Leaf Clover; Stamina 300 Potion; Bottled Water
+3458	Four-Leaf Clover; Sundew; Mysterious Herb Powder; Intact Shyllien; Suntouched Shyllien Crystal
+3459	Enchanted Firewood; Mysterious Herb Powder; Intact Shyllien; Suntouched Shyllien Crystal
+3460	Sasquatch Heart; Mysterious Herb Powder; Intact Shyllien; Suntouched Shyllien Crystal
+3461	You must have a Blasted Oak Wand equipped.
+3462	You must have a Blasted Oak Wand equipped.
+3463	You must have a Blasted Oak Wand equipped.
+3464	You must be near a Magic Cauldron.
+3465	You must be near a Magic Cauldron.
+3466	You must be near a Magic Cauldron.
+3467	Revelation of the Guardian
+3468	Purified Apostle Essence
+3469	Make a Revolution of the Guardian by imbuing magic into a Torn Sheepskin Parchment to restore it to its original form.
+3470	Make a Purified Apostle Essence by purging the darkness from an Apostle Essence.
+3471	Thorny Blue Shackle;Massive Turtle Shell Chip;Magical Stone Plate;Torn Sheepskin Parchment
+3472	Divine Mineral Fragment;Corrupted Apostle Leather;Apostle Essence
+3473	You must have a Blasted Oak Wand equipped.
+3474	You must have a Blasted Oak Wand equipped.
+3475	You must be near a Magic Cauldron.
+3476	You must be near a Magic Cauldron.
+3477	Divine Cinnsealach L2
+3478	Improved Talvish Armor
+3479	Improved Altam Armor
+3480	Improved Avelin Armor
+3481	Improved Talvish Gauntlets
+3482	Improved Altam Gauntlets
+3483	Improved Avelin Gauntlets
+3484	Improved Talvish Greaves
+3485	Improved Altam Greaves
+3486	Improved Avelin Greaves
+3487	Divine Spell Book
+3488	You can make a Divine Cinnsealach L2 by fusing a Broken Guardian's Gun and an Enhanced Hillwen Alloy.\nThe quality of the result is random.
+3489	You can make an improved version of Talvish's Armor by infusing Broken Guardian's Armor with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3490	You can make an improved version of Altam's Armor by infusing Broken Guardian's Armor with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3491	You can make an improved version of Avelin's Armor by infusing Broken Guardian's Armor with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3492	You can make an improved version of Talvish's Gauntlets by infusing Broken Guardian's Gauntlets with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3493	You can make an improved version of Altam's Gauntlets by infusing Broken Guardian's Gauntlets with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3494	You can make an improved version of Avelin's Gauntlets by infusing Broken Guardian's Gauntlets with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3495	You can make an improved version of Talvish's Greaves by infusing Broken Guardian's Boots with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3496	You can make an improved version of Altam's Greaves by infusing Broken Guardian's Boots with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3497	You can make an improved version of Avelin's Greaves by infusing Broken Guardian's Boots with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3498	You can make a Divine Spell Book by infusing a Broken Guardian's Spell Book with magic.\nThe quality of the result is random.
+3499	Enhanced Hillwen Alloy;Shining Metal Shard;Medal of Protection;Broken Guardian's Gun;Sealed Divine Light Left Fragment;Sealed Divine Light Right Fragment
+3500	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Armor;Purified Soul Stone
+3501	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Armor;Purified Soul Stone
+3502	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Armor;Purified Soul Stone
+3503	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Gauntlets;Purified Soul Stone
+3504	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Gauntlets;Purified Soul Stone
+3505	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Gauntlets;Purified Soul Stone
+3506	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Boots;Purified Soul Stone
+3507	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Boots;Purified Soul Stone
+3508	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Boots;Purified Soul Stone
+3509	Ancient Magic Shyllien;Enhanced Mutant;Shining Metal Shard;Medal of Wisdom;Broken Guardian's Spell Book;Sealed Divine Light Left Fragment;Sealed Divine Light Right Fragment
+3510	You must be holding an Engineering Hammer in your right hand.
+3511	You must have a Blasted Oak Wand equipped.
+3512	You must have a Blasted Oak Wand equipped.
+3513	You must have a Blasted Oak Wand equipped.
+3514	You must have a Blasted Oak Wand equipped.
+3515	You must have a Blasted Oak Wand equipped.
+3516	You must have a Blasted Oak Wand equipped.
+3517	You must have a Blasted Oak Wand equipped.
+3518	You must have a Blasted Oak Wand equipped.
+3519	You must have a Blasted Oak Wand equipped.
+3520	You must have a Blasted Oak Wand equipped.
+3521	You need an Engineering Rack nearby.
+3522	You must be near a Magic Cauldron.
+3523	You must be near a Magic Cauldron.
+3524	You must be near a Magic Cauldron.
+3525	You must be near a Magic Cauldron.
+3526	You must be near a Magic Cauldron.
+3527	You must be near a Magic Cauldron.
+3528	You must be near a Magic Cauldron.
+3529	You must be near a Magic Cauldron.
+3530	You must be near a Magic Cauldron.
+3531	You must be near a Magic Cauldron.
+3532	Making a Large Bandage
+3533	You can create 1 Large Bandage from 5 Bandages.
+3534	Bandage
+3535	You must have a Handicraft Kit to make a Large Bandage.
+3536	Improved Llywelyn Armor
+3537	Improved Llywelyn Gauntlets
+3538	Improved Llywelyn Greaves
+3539	You can make an improved version of Llywelyn's Armor by infusing Broken Guardian's Armor with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3540	You can make an improved version of Llywelyn's Gauntlets by infusing Broken Guardian's Gauntlets with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3541	You can make an improved version of Llywelyn's Greaves by infusing Broken Guardian's Boots with special magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3542	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Armor;Purified Soul Stone
+3543	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Gauntlets;Purified Soul Stone
+3544	Ancient Magic Shyllien;Enhanced Mutant;Purified Metal Shard;Medal of Courage;Broken Guardian's Boots;Purified Soul Stone
+3545	You must have a Blasted Oak Wand equipped.
+3546	You must have a Blasted Oak Wand equipped.
+3547	You must have a Blasted Oak Wand equipped.
+3548	You must be near a Magic Cauldron.
+3549	You must be near a Magic Cauldron.
+3550	You must be near a Magic Cauldron.
+3551	HP 300 Potion
+3552	MP 300 Potion
+3553	Stamina 300 Potion
+3554	HP 500 Potion
+3555	MP 500 Potion
+3556	Stamina 500 Potion
+3557	HP 500 Potion RE
+3558	MP 500 Potion RE
+3559	Stamina 500 Potion RE
+3560	Make an HP 300 Potion. 10 MP is required to create one.
+3561	Make an MP 300 Potion. 10 MP is required to create one.
+3562	Make a Stamina 300 Potion. 10 MP is required to create one.
+3563	Make an HP 500 Potion. 15 MP is required to create one.
+3564	Make an MP 500 Potion. 15 MP is required to create one.
+3565	Make a Stamina 500 Potion. 15 MP is required to create one.
+3566	Make an HP 500 Potion RE. 20 MP is required to create one.
+3567	Make an MP 500 Potion RE. 20 MP is required to create one.
+3568	Make a Stamina 500 Potion RE. 20 MP is required to create one.
+3569	Bloody Herb; HP 100 Potion; Bottled Water
+3570	Mana Herb; MP 100 Potion; Bottled Water
+3571	Sunlight Herb; Stamina 100 Potion; Bottled Water
+3572	Four-Leaf Clover; HP 300 Potion; Bottled Water
+3573	Four-Leaf Clover; MP 300 Potion; Bottled Water
+3574	Four-Leaf Clover; Stamina 300 Potion; Bottled Water
+3575	Four-Leaf Clover; HP 500 Potion; Bottled Water; Mandrake
+3576	Four-Leaf Clover; MP 500 Potion; Bottled Water; Mandrake
+3577	Four-Leaf Clover; Stamina 500 Potion; Bottled Water; Mandrake
+3578	Make a Fine Vanilla Scented Candle
+3579	Make a Fine Lavender Scented Candle
+3580	Make a Fine Lemongrass Scented Candle
+3581	Make a Fine Cherry Scented Candle
+3582	Make a Fine Cotton Scented Candle
+3583	Make a Finest Vanilla Scented Candle
+3584	Make a Finest Lavender Scented Candle
+3585	Make a Finest Lemongrass Scented Candle
+3586	Make a Finest Cherry Scented Candle
+3587	Make a Finest Cotton Scented Candle
+3588	You can create a Fine Vanilla Scented Candle with a Mini Vanilla Scented Candle and Wax.
+3589	You can create a Fine Lavender Scented Candle with a Mini Lavender Scented Candle and Wax.
+3590	You can create a Fine Lemongrass Scented Candle with a Mini Lemongrass Scented Candle and Wax.
+3591	You can create a Fine Cherry Scented Candle with a Mini Cherry Scented Candle and Wax.
+3592	You can create a Fine Cotton Scented Candle with a Mini Cotton Scented Candle and Wax.
+3593	You can create a Finest Vanilla Scented Candle with a Fine Vanilla Scented Candle and a Refined Catalyst.
+3594	You can create a Finest Lavender Scented Candle with a Fine Lavender Scented Candle and a Refined Catalyst.
+3595	You can create a Finest Lemongrass Scented Candle with a Fine Lemongrass Scented Candle and a Refined Catalyst.
+3596	You can create a Finest Cherry Scented Candle with a Fine Cherry Scented Candle and a Refined Catalyst.
+3597	You can create a Finest Cotton Scented Candle with a Fine Cotton Scented Candle and a Refined Catalyst.
+3598	Mini Vanilla Scented Candle; Wax;
+3599	Mini Lavender Scented Candle; Wax;
+3600	Mini Lemongrass Scented Candle; Wax;
+3601	Mini Cherry Scented Candle; Wax;
+3602	Mini Cotton Scented Candle; Wax;
+3603	Fine Vanilla Scented Candle; Refined Catalyst;
+3604	Fine Lavender Scented Candle; Refined Catalyst;
+3605	Fine Lemongrass Scented Candle; Refined Catalyst;
+3606	Fine Cherry Scented Candle; Refined Catalyst;
+3607	Fine Cotton Scented Candle; Refined Catalyst;
+3608	A Handicraft Kit is required to make Scented Candles.
+3609	A Handicraft Kit is required to make Scented Candles.
+3610	A Handicraft Kit is required to make Scented Candles.
+3611	A Handicraft Kit is required to make Scented Candles.
+3612	A Handicraft Kit is required to make Scented Candles.
+3613	A Handicraft Kit is required to make Scented Candles.
+3614	A Handicraft Kit is required to make Scented Candles.
+3615	A Handicraft Kit is required to make Scented Candles.
+3616	A Handicraft Kit is required to make Scented Candles.
+3617	A Handicraft Kit is required to make Scented Candles.
+3619	Special Chain of Protection
+3621	You can make the Special Ring of Protection with Mythril Thread and a Forgotten Mage's Gem.
+3622	Ring (Type 1); Holy Water of Lymilark; Restorative Powder;
+3623	Mythril Thread; Forgotten Mage's Gem;
+3625	A Handicraft Kit is required to make this item.
+3626	Special Guardian Ring
+3627	You can make the Special Guardian Ring with a Ring (Type 1), a Holy Water of Lymilark, and Restorative Powder.
+3628	A Handicraft Kit is required to make this item.
+3629	Craft Teddy Bear's Ribbon
+3630	You can make the Teddy Bear's Ribbon using Fine Leather and Thick Thread.
+3631	Fine Leather; Thick Thread
+3632	A bladed tool is required to make a Teddy Bear's Ribbon.
+3669	You must be holding an Engineering Hammer.
+3670	You must be holding an Engineering Hammer.
+3671	You must be holding an Engineering Hammer.
+3672	You must be holding an Engineering Hammer.
+3673	You must be holding an Engineering Hammer.
+3674	You must be holding an Engineering Hammer.
+3675	You must be holding a Blasted Oak Wand.
+3676	You must be holding a Blasted Oak Wand.
+3677	You must be holding a Blasted Oak Wand.
+3678	You must be holding a Blasted Oak Wand.
+3679	You must be holding a Blasted Oak Wand.
+3680	You must be holding a Blasted Oak Wand.
+3681	You need an Engineering Rack nearby.
+3682	You need an Engineering Rack nearby.
+3683	You need an Engineering Rack nearby.
+3684	You need an Engineering Rack nearby.
+3685	You need an Engineering Rack nearby.
+3686	You need an Engineering Rack nearby.
+3687	You must be near a Magic Cauldron.
+3688	You must be near a Magic Cauldron.
+3689	You must be near a Magic Cauldron.
+3690	You must be near a Magic Cauldron.
+3691	You must be near a Magic Cauldron.
+3692	You must be near a Magic Cauldron.
+3695	Ultimate Geas Edge Gauntlets
+3698	Ultimate Geas Edge Circlet
+3701	Ultimate Geas Devastation Gloves
+3704	Ultimate Geas Devastation Circlet
+3717	Geas Edge Cuirass; Hard Crystallized Mineral; Geas Core; Hillwen Alloy
+3718	Geas Edge Cuirass; Hard Crystallized Mineral; Geas Core; Hillwen Alloy
+3719	Geas Edge Gauntlets; Solid Leather Scrap; Geas Core; Hillwen Alloy
+3720	Geas Edge Greaves; Quake Hoof; Geas Core; Hillwen Alloy
+3721	Geas Edge Greaves; Quake Hoof; Geas Core; Hillwen Alloy
+3722	Geas Edge Circlet; Mysterious Shard; Geas Core; Hillwen Alloy
+3723	Geas Devastation Chestplate; Sharp Crystallized Mineral; Geas Core; Intact Shyllien; Mutant
+3724	Geas Devastation Chestplate; Sharp Crystallized Mineral; Geas Core; Intact Shyllien; Mutant
+3725	Geas Devastation Gloves; Sturdy Leather Scrap; Geas Core; Intact Shyllien; Mutant
+3726	Geas Devastation Boots; Rift Hoof ; Geas Core; Intact Shyllien; Mutant
+3727	Geas Devastation Boots; Rift Hoof ; Geas Core; Intact Shyllien; Mutant
+3728	Geas Devastation Circlet; Strange Shard; Geas Core; Intact Shyllien; Mutant
+3729	Ultimate Geas Edge Cuirass (M)
+3730	Ultimate Geas Edge Cuirass  (F)
+3731	Ultimate Geas Edge Greaves (M)
+3732	Ultimate Geas Edge Greaves (F)
+3733	Geas Edge Cuirass (M)
+3734	Geas Edge Cuirass (F)
+3735	Geas Edge Gauntlets
+3736	Geas Edge Greaves (M)
+3737	Geas Edge Greaves (F)
+3738	Geas Edge Circlet
+3739	Ultimate Geas Devastation Chestplate (M)
+3740	Ultimate Geas Devastation Chestplate (F)
+3741	Ultimate Geas Devastation Boots (M)
+3742	Ultimate Geas Devastation Boots (F)
+3743	Geas Devastation Chestplate (M)
+3744	Geas Devastation Chestplate (F)
+3745	Geas Devastation Gloves
+3746	Geas Devastation Boots (M)
+3747	Geas Devastation Boots (F)
+3748	Geas Devastation Circlet
+3749	You can make an Ultimate Geas Edge Cuirass (M) by fusing a Geas Edge Cuirass with Hillwen Alloy and other special ingredients.\nThe quality of the result is random.
+3750	You can make an Ultimate Geas Edge Cuirass (F) by fusing a Geas Edge Cuirass with Hillwen Alloy and other special ingredients.\nThe quality of the result is random.
+3751	You can make Ultimate Geas Edge Gauntlets by fusing Geas Edge Gauntlets with Hillwen Alloy and other special ingredients.\nThe quality of the result is random.
+3752	You can make Ultimate Geas Edge Greaves (M) by fusing Geas Edge Greaves with Hillwen Alloy and other special ingredients.\nThe quality of the result is random.
+3753	You can make Ultimate Geas Edge Greaves (F) by fusing Geas Edge Greaves with Hillwen Alloy and other special ingredients.\nThe quality of the result is random.
+3754	You can make an Ultimate Geas Edge Circlet by fusing a Geas Edge Circlet with Hillwen Alloy and other special ingredients.\nThe quality of the result is random.
+3755	You can make a Geas Edge Cuirass (M) by fusing special ingredients with Hillwen Alloy.\nThe quality of the result is random.
+3756	You can make a Geas Edge Cuirass (F) by fusing special ingredients with Hillwen Alloy.\nThe quality of the result is random.
+3757	You can make Geas Edge Gauntlets by fusing special ingredients with Hillwen Alloy.\nThe quality of the result is random.
+3758	You can make Geas Edge Greaves (M) by fusing special ingredients with Hillwen Alloy.\nThe quality of the result is random.
+3759	You can make Geas Edge Greaves (F) by fusing special ingredients with Hillwen Alloy.\nThe quality of the result is random.
+3760	You can make a Geas Edge Circlet by fusing special ingredients with Hillwen Alloy.\nThe quality of the result is random.
+3761	You can make an Ultimate Geas Devastation Chestplate (M) by infusing a Geas Devastation Chestplate with magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3762	You can make an Ultimate Geas Devastation Chestplate (F) by infusing a Geas Devastation Chestplate with magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3763	You can make Ultimate Geas Devastation Gloves by infusing Geas Devastation Gloves with magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3764	You can make Ultimate Geas Devastation Boots (M) by infusing Geas Devastation Boots with magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3765	You can make Ultimate Geas Devastation Boots (F) by infusing Geas Devastation Boots with magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3766	You can make an Ultimate Geas Devastation Circlet by infusing a Geas Devastation Circlet with magic.\nYou need to obtain a special material to imbue it with magic.\nThe quality of the result is random.
+3767	You can make a Geas Devastation Chestplate (M) by infusing special ingredients with magic.\nThe quality of the result is random.
+3768	You can make a Geas Devastation Chestplate (F) by infusing special ingredients with magic.\nThe quality of the result is random.
+3769	You can make Geas Devastation Gloves by infusing special ingredients with magic.\nThe quality of the result is random.
+3770	You can make Geas Devastation Boots (M) by infusing special ingredients with magic.\nThe quality of the result is random.
+3771	You can make Geas Devastation Boots (F) by infusing special ingredients with magic.\nThe quality of the result is random.
+3772	You can make a Geas Devastation Circlet by infusing special ingredients with magic.\nThe quality of the result is random.
+3773	Eroded Mineral Chunk; Geas Edge Crystal; Geas Core; Finest Fabric; Finest Silk; Finest Leather; Finest Leather Strap; Hillwen Alloy
+3774	Eroded Mineral Chunk; Geas Edge Crystal; Geas Core; Finest Fabric; Finest Silk; Finest Leather; Finest Leather Strap; Hillwen Alloy
+3775	Leather Scrap; Geas Edge Crystal; Geas Core; Finest Fabric; Finest Silk; Finest Leather; Finest Leather Strap; Hillwen Alloy
+3776	Battleworn Covering; Geas Edge Crystal; Geas Core; Finest Fabric; Finest Silk; Finest Leather; Finest Leather Strap; Hillwen Alloy
+3777	Battleworn Covering; Geas Edge Crystal; Geas Core; Finest Fabric; Finest Silk; Finest Leather; Finest Leather Strap; Hillwen Alloy
+3778	Faded Fragment; Geas Edge Crystal; Geas Core; Finest Fabric; Finest Silk; Finest Leather; Finest Leather Strap; Hillwen Alloy
+3779	Eroded Mineral Chunk; Geas Devastation Crystal; Geas Core; Finest Fabric; Finest Silk; Finest Leather; Finest Leather Strap; Intact Shyllien; Mutant
+3780	Eroded Mineral Chunk; Geas Devastation Crystal; Geas Core; Finest Fabric; Finest Silk; Finest Leather; Finest Leather Strap; Intact Shyllien; Mutant
+3781	Leather Scrap; Geas Devastation Crystal; Geas Core; Finest Fabric; Finest Silk; Finest Leather; Finest Leather Strap; Intact Shyllien; Mutant
+3782	Battleworn Covering; Geas Devastation Crystal; Geas Core; Finest Fabric; Finest Silk; Finest Leather; Finest Leather Strap; Intact Shyllien; Mutant
+3783	Battleworn Covering; Geas Devastation Crystal; Geas Core; Finest Fabric; Finest Silk; Finest Leather; Finest Leather Strap; Intact Shyllien; Mutant
+3784	Faded Fragment; Geas Devastation Crystal; Geas Core; Finest Fabric; Finest Silk; Finest Leather; Finest Leather Strap; Intact Shyllien; Mutant
+3785	You must be holding an Engineering Hammer.
+3786	You must be holding an Engineering Hammer.
+3787	You must be holding an Engineering Hammer.
+3788	You must be holding an Engineering Hammer.
+3789	You must be holding an Engineering Hammer.
+3790	You must be holding an Engineering Hammer.
+3791	You must be holding a Blasted Oak Wand.
+3792	You must be holding a Blasted Oak Wand.
+3793	You must be holding a Blasted Oak Wand.
+3794	You must be holding a Blasted Oak Wand.
+3795	You must be holding a Blasted Oak Wand.
+3796	You must be holding a Blasted Oak Wand.
+3797	You need an Engineering Rack nearby.
+3798	You need an Engineering Rack nearby.
+3799	You need an Engineering Rack nearby.
+3800	You need an Engineering Rack nearby.
+3801	You need an Engineering Rack nearby.
+3802	You need an Engineering Rack nearby.
+3803	You must be near a Magic Cauldron.
+3804	You must be near a Magic Cauldron.
+3805	You must be near a Magic Cauldron.
+3806	You must be near a Magic Cauldron.
+3807	You must be near a Magic Cauldron.
+3808	You must be near a Magic Cauldron.
+3809	Make Repaired Leather Loop
+3810	Make Repaired Blade
+3811	Make Repaired Hilt
+3812	Enchanted Eweca Gathering Knife
+3813	Enchanted Eweca Lumber Axe
+3814	Enchanted Eweca Pickaxe
+3815	Enchanted Eweca Metallurgy Sieve
+3816	You can make a Repaired Leather Loop using a Common Leather Strap.
+3817	You can make a Repaired Blade using a Silver Plate and a Broken Blade.
+3818	You can make a Repaired Hilt using Average Firewood and a Broken Hilt.
+3819	You can create special versions of Gathering Tools by infusing repaired materials with magic.\nTo do so, you must first obtain a special material.\nThe quality of the end result is random.
+3820	You can create special versions of Gathering Tools by infusing repaired materials with magic.\nTo do so, you must first obtain a special material.\nThe quality of the end result is random.
+3821	You can create special versions of Gathering Tools by infusing repaired materials with magic.\nTo do so, you must first obtain a special material.\nThe quality of the end result is random.
+3822	You can create special versions of Gathering Tools by infusing repaired materials with magic.\nTo do so, you must first obtain a special material.\nThe quality of the end result is random.
+3823	Common Leather Strap; Broken Leather Loop
+3824	Silver Plate; Broken Blade;
+3825	Average Firewood; Broken Hilt;
+3826	Repaired Hilt; Repaired Leather Loop; Repaired Blade; Eweca-Enchanted Shard;
+3827	Repaired Hilt; Repaired Leather Loop; Repaired Blade; Eweca-Enchanted Shard;
+3828	Repaired Hilt; Repaired Leather Loop; Repaired Blade; Eweca-Enchanted Shard;
+3829	Repaired Hilt; Repaired Leather Loop; Repaired Blade; Eweca-Enchanted Shard;
+3830	A bladed tool is required to make a Repaired Leather Loop.
+3831	You must have a Handicraft Kit to make a Repaired Blade.
+3832	A Woodworking Plane is required to make a Repaired Hilt.
+3833	You must have a Blasted Oak Wand equipped.
+3834	You must have a Blasted Oak Wand equipped.
+3835	You must have a Blasted Oak Wand equipped.
+3836	You must have a Blasted Oak Wand equipped.
+3837	You must be near a Magic Cauldron.
+3838	You must be near a Magic Cauldron.
+3839	You must be near a Magic Cauldron.
+3840	You must be near a Magic Cauldron.
+3841	Phantasmal Amalgam
+3842	Fuse the power of Phantasmal Remnants to create a Phantasmal Amalgam, which holds even more power.
+3843	Phantasmal Remnant
+3844	Empty your hands.
+3845	주위에 마법의 가마솥이 필요합니다.
+3846	Black Chain
+3847	Fused Hillwen Alloy
+3848	Massive Despair Blade
+3849	Massive Despair Hammer
+3850	Massive Despair Shield
+3851	You can make a Black Chain by processing Hillwen Alloy and a Radiant String.
+3852	You can make a Fused Hillwen Alloy by pouring Ancient Magic preserved in an Intact Shyllien into a Hillwen Alloy.
+3853	You can make a Massive Despair Blade by using special materials, minerals, and Fused Hillwen Alloys.
+3854	You can make a Massive Despair Hammer by using special materials, minerals, and Fused Hillwen Alloys.
+3855	You can make a Massive Despair Shield by using special materials, minerals, and Fused Hillwen Alloys.
+3856	Hillwen Alloy;Radiant String
+3857	Hillwen Alloy;Intact Shyllien
+3858	Fused Hillwen Alloy;Awakened Strength Crystal;Gem of Valor;Teardrop Gem;Black Chain;Cross-hatched Mineral
+3859	Fused Hillwen Alloy;Subtle Mark;Frosted Borealis Crystal;Teardrop Gem;Black Chain;Thornbush Mineral
+3860	Fused Hillwen Alloy;Essence of Raw Force;Shining Crystal Shard;Teardrop Gem;Black Chain;Stone Stalk Mineral
+3861	Empty both of your hands.
+3862	Empty both of your hands.
+3863	You must be holding an Engineering Hammer.
+3864	You must be holding an Engineering Hammer.
+3865	You must be holding an Engineering Hammer.
+3866	You need an Engineering Rack nearby.
+3867	You need an Engineering Rack nearby.
+3868	You need an Engineering Rack nearby.
+3869	You need an Engineering Rack nearby.
+3870	You need an Engineering Rack nearby.
+3911	Comprehensive HP 500 Potion
+3912	Comprehensive HP 1000 Potion
+3915	Make a Comprehensive HP 500 Potion. 50 MP is required to create one.
+3916	Make a Comprehensive HP 1000 Potion. 75 MP is required to create one.
+3919	Wound Remedy 30 Potion; HP 300 Potion RE; Bottled Water
+3920	Wound Remedy 30 Potion; HP 500 Potion RE; Bloody Herb; Bottled Water
+3923	Tranquility Barrier Activator
+3924	Make a Tranquility Barrier Activator. Requires 100 MP.
+3925	Empowered Tranquility Shard
+3926	Deception Barrier Activator
+3927	Desolation Barrier Activator
+3928	Make a Deception Barrier Activator. Requires 100 MP.
+3929	Make a Desolation Barrier Activator. Requires 100 MP.
+3930	Empowered Deception Shard
+3931	Empowered Desolation Shard
+3932	Perseus Conflict Control Bar
+3933	Revenant Lunatic Control Bar
+3934	Fallen Pierrot Figure
+3935	You can make a Perseus Conflict Control Bar by using Special Firewood x5, Gold Plate x3, Large Nail x10, Sealed Strength Powder: Control Bar x1, Sealed Strength Fragment: Control Bar x1, Sealed Strength Crystal: Control Bar x1, Kraken Mucilage x1, and Kraken Heart x1.
+3936	You can make a Revenant Lunatic Control Bar by using Special Firewood x3, Gold Plate x3, Large Nail x7, Sealed Strength Powder: Control Bar x1, Sealed Strength Fragment: Control Bar x1, Sealed Strength Crystal: Control Bar x1, Vengeance-Imbued Old Tree Fragment x1, and Misty Red Gem x1.
+3937	You can make a Fallen Pierrot Figure by using Special Firewood x3, Vengeance-Imbued Old Tree Fragment x1, Thin Thread Ball x10, Finest Silk x5, Glue x1, Complete Marionette Repair Set x1, Sealed Strength Crystal: Figure x1, and Misty Red Gem x1.
+3938	Special Firewood; Gold Plate; Large Nail; Sealed Strength Powder: Control Bar; Sealed Strength Fragment: Control Bar; Sealed Strength Crystal: Control Bar; Kraken Mucilage; Kraken Heart;
+3939	Special Firewood; Gold Plate; Large Nail; Sealed Strength Powder: Control Bar; Sealed Strength Fragment: Control Bar; Sealed Strength Crystal: Control Bar; Vengeance-Imbued Old Tree Fragment; Misty Red Gem;
+3940	Special Firewood; Vengeance-Imbued Old Tree Fragment; Thin Thread Ball; Finest Silk; Complete Marionette Repair Set; Sealed Strength Crystal: Figure; Misty Red Gem;
+3941	A Handicraft Kit is required to make a Perseus Conflict Control Bar.
+3942	A Handicraft Kit is required to make a Revenant Lunatic Control Bar.
+3943	A Handicraft Kit is required to make a Fallen Pierrot Figure.
+3972	Make a Far Darrig Doll
+3973	Make a Far Darrig Doll
+3974	Make a Far Darrig Doll
+3975	Make a Far Darrig Doll
+3976	You can make a Far Darrig Doll by using Tailoring Kit x1, Finest Fabric x5, Red Paint x1, Finest Finishing Thread x10, and Far Darrig's Old Clamshell x1.
+3977	You can make a Far Darrig Doll by using Tailoring Kit x1, Finest Fabric x5, Red Paint x1, Finest Finishing Thread x10, and Far Darrig's Old Clamshell x1.
+3978	You can make a Far Darrig Doll by using Tailoring Kit x1, Finest Fabric x5, Blue Paint x1, Finest Finishing Thread x10, and Far Darrig's Old Clamshell x1.
+3979	You can make a Far Darrig Doll by using Tailoring Kit x1, Finest Fabric x5, Green Paint x1, Finest Finishing Thread x10, and Far Darrig's Old Clamshell x1.
+3980	Tailoring Kit; Finest Fabric; Red Paint; Finest Finishing Thread; Far Darrig's Old Clamshell;
+3981	Tailoring Kit; Finest Fabric; Red Paint; Finest Finishing Thread; Far Darrig's Old Clamshell;
+3982	Tailoring Kit; Finest Fabric; Blue Paint; Finest Finishing Thread; Far Darrig's Old Clamshell;
+3983	Tailoring Kit; Finest Fabric; Green Paint; Finest Finishing Thread; Far Darrig's Old Clamshell;
+3984	A Handicraft Kit is required to make a Far Darrig Doll.
+3985	A Handicraft Kit is required to make a Far Darrig Doll.
+3986	A Handicraft Kit is required to make a Far Darrig Doll.
+3987	A Handicraft Kit is required to make a Far Darrig Doll.
+3988	Shiny String
+3989	Damp Thread
+3990	Smooth Bag Fabric
+3991	Far Darrig Doll Bag
+3992	Far Darrig Doll Bag
+3993	Far Darrig Doll Bag
+3994	Far Darrig Doll Bag
+3995	You can make Shiny String using Palmetto Bark.
+3996	You can make Damp Thread using Damp Fiber Bundle.
+3997	You can make Smooth Bag Fabric using Damp Thread and a Loom.
+3998	You can make a Far Darrig Doll Bag using Shiny String, Smooth Bag Fabric, and a Far Darrig Doll.
+3999	You can make a Far Darrig Doll Bag using Shiny String, Smooth Bag Fabric, and a Far Darrig Doll.
+4000	You can make a Far Darrig Doll Bag using Shiny String, Smooth Bag Fabric, and a Far Darrig Doll.
+4001	You can make a Far Darrig Doll Bag using Shiny String, Smooth Bag Fabric, and a Far Darrig Doll.
+4002	Palmetto Bark
+4003	Damp Fiber Bundle
+4004	Damp Thread
+4005	Shiny String; Smooth Bag Fabric; Far Darrig Doll
+4006	Shiny String; Smooth Bag Fabric; Far Darrig Doll
+4007	Shiny String; Smooth Bag Fabric; Far Darrig Doll
+4008	Shiny String; Smooth Bag Fabric; Far Darrig Doll
+4009	Your hands must be empty to make a Shiny String.
+4010	Your hands must be empty to make Damp Thread.
+4011	Your hands must be empty to weave Smooth Bag Fabric.
+4012	Empty your hands.
+4013	Empty your hands.
+4014	Empty your hands.
+4015	Empty your hands.
+4016	Far Darrig Doll Bag Box
+4017	Far Darrig Doll Bag Box
+4018	Far Darrig Doll Bag Box
+4019	Far Darrig Doll Bag Box
+4020	You can make a Far Darrig Doll Bag Box using Shiny String, Smooth Bag Fabric, and a Far Darrig Doll.
+4021	You can make a Far Darrig Doll Bag Box using Shiny String, Smooth Bag Fabric, and a Far Darrig Doll.
+4022	You can make a Far Darrig Doll Bag Box using Shiny String, Smooth Bag Fabric, and a Far Darrig Doll.
+4023	You can make a Far Darrig Doll Bag Box using Shiny String, Smooth Bag Fabric, and a Far Darrig Doll.
+4024	Shiny String; Smooth Bag Fabric; Far Darrig Doll
+4025	Shiny String; Smooth Bag Fabric; Far Darrig Doll
+4026	Shiny String; Smooth Bag Fabric; Far Darrig Doll
+4027	Shiny String; Smooth Bag Fabric; Far Darrig Doll
+4028	Empty your hands.
+4029	Empty your hands.
+4030	Empty your hands.
+4031	Empty your hands.
+4032	Completed Compass
+4033	Collect 5 types of compass fragments to restore the original.
+4034	First Compass Fragment; Second Compass Fragment; Third Compass Fragment; Fourth Compass Fragment; Fifth Compass Fragment;
+4035	A Handicraft Kit is required to complete the compass.
+4036	Soft Fur Fabric
+4037	Craft Cotton Cushion Stuffing
+4038	Craft Artificial Turf
+4039	Craft Straw Dummy
+4040	You can make Soft Fur Fabric at a Loom using a Soft Fur Pelt.
+4041	You can make Cotton Cushion Stuffing using 20 Fine Wool and 5 Thin Thread Balls.
+4042	You can make Artificial Turf using 20 Fresh Grass and 5 Bundles of Flowers.
+4043	You can make a Straw Dummy using 20 Wheat Chaff and 1 Finest Leather Strap.
+4044	Soft Fur Pelt
+4045	Fine Wool; Thin Thread Ball;
+4046	Fresh Grass; Bundle of Flowers;
+4047	Wheat Chaff; Finest Leather Strap;
+4048	Your hands must be empty to craft Soft Fur Fabric.
+4049	A Handicraft Kit is required to craft Cotton Cushion Stuffing.
+4050	A Handicraft Kit is required to craft Artificial Turf
+4051	A Handicraft Kit is required to craft a Straw Dummy.
+4052	Ever-Blooming Flower Wreath
+4053	Harmonious Cosmos Perfume
+4059	Sticky Turkey Chew
+4060	Soft Chicken Chew
+4061	Charred Octopus Chew
+4062	Chewy Baby Octopus Chew
+4063	Crunchy Taitinn Carp Treat
+4064	Gummy Trout Treat
+4065	Poppin' Flying Fish Treat
+4066	Rich Berry Bonbon
+4067	Crisp Apple Bonbon
+4068	Crunchy Nut Bonbon
+4069	Chewy Energy Bar
+4072	Fynn Crafting
+4073	You can make an Unfading Flower Wreath by infusing 20 Unfading Flowers with the power of the Fynn
+4074	You can make Harmonious Cosmos Perfume by combining an Empty Bottle, Magic Powder, Base Herbs, and Cosmos Extract, then infusing it with the power of the Fynn.
+4080	You can make a Sticky Turkey Chew by combining Turkey and Fragrant Honey Milk, then infusing it with the power of the Fynn.
+4081	You can make a Soft Chicken Chew by combining Chicken and Fragrant Honey Milk, then infusing it with the power of the Fynn.
+4082	You can make a Charred Octopus Chew by combining Octopus and Fragrant Honey Milk, then infusing it with the power of the Fynn.
+4083	You can make a Chewy Baby Octopus Chew by combining Poulp and Fragrant Honey Milk, then infusing it with the power of the Fynn.
+4084	You can make a Crunchy Taitinn Carp Treat by combining Taitinn Carp and Mag Mell Flower Syrup, then infusing it with the power of the Fynn.
+4085	You can make a Gummy Trout Treat by combining Rainbow Trout and Mag Mell Flower Syrup, then infusing it with the power of the Fynn.
+4086	You can make a Poppin' Flying Fish Treat by combining Flying Fish and Mag Mell Flower Syrup, then infusing it with the power of the Fynn.
+4087	You can make a Rich Berry Bonbon by combining Blueberries, Strawberries, and Vibrant Pine Resin, then infusing it with the power of the Fynn.
+4088	You can make a Crisp Apple Bonbon by combining Pineapple, Apple, and Vibrant Pine Resin, then infusing it with the power of the Fynn.
+4089	You can make a Crunchy Nut Bonbon by combining Almonds, Walnuts, and Vibrant Pine Resin, then infusing it with the power of the Fynn.
+4090	You can make a Sticky Energy Bar by combining White Truffles, Malt, and Vigorous Pine Pollen, then infusing it with the power of the Fynn.
+4093	Unfading Flower
+4094	Empty Bottle; Magic Powder; Base Herb; Cosmos Extract
+4100	Turkey; Fragrant Honey Milk
+4101	Chicken; Fragrant Honey Milk
+4102	Octopus; Fragrant Honey Milk
+4103	Poulp; Fragrant Honey Milk
+4104	Taitinn Carp; Mag Mell Flower Syrup
+4105	Rainbow Trout; Mag Mell Flower Syrup
+4106	Flying Fish; Mag Mell Flower Syrup
+4107	Blueberry; Strawberry; Vibrant Pine Resin
+4108	Pineapple; Apple; Vibrant Pine Resin
+4109	Almond; Walnut; Vibrant Pine Resin
+4110	White Truffle; Malt; Vigorous Pine Pollen
+4113	You need a Fynn Bell.
+4114	You need a Fynn Bell.
+4120	You need a Fynn Bell.
+4121	You need a Fynn Bell.
+4122	You need a Fynn Bell.
+4123	You need a Fynn Bell.
+4124	You need a Fynn Bell.
+4125	You need a Fynn Bell.
+4126	You need a Fynn Bell.
+4127	You need a Fynn Bell.
+4128	You need a Fynn Bell.
+4129	You need a Fynn Bell.
+4130	You need a Fynn Bell.
+4133	Transformative Aster Perfume
+4134	Courageous Borage Perfume
+4135	Potent Courageous Borage Perfume
+4136	Bonding Violet Perfume
+4137	Potent Bonding Violet Perfume
+4138	You can make Transformative Aster Perfume by combining an Empty Bottle, Mana Herb, Distortion Powder, and Aster Extract, then infusing it with the power of the Fynn.
+4139	You can make Courageous Borage Perfume by combining an Empty Bottle, Mag Mell Dew, and Borage Extract, then infusing it with the power of the Fynn.
+4140	You can make Potent Courageous Borage Perfume by combining an Empty Bottle, Awakened Strength Fragment, Mag Mell Dew, and Potent Borage Extract, then infusing it with the power of the Fynn.
+4141	You can make Bonding Violet Perfume by combining an Empty Bottle, Mandrake, Pure White Dust, and Violet Extract, then infusing it with the power of the Fynn.
+4142	You can make Potent Bonding Violet Perfume by combining an Empty Bottle, Awakened Strength Powder, Mysterious Herb Powder, and Potent Violet Extract, then infusing it with the power of the Fynn.
+4143	Empty Bottle; Mana Herb; Distortion Powder; Aster Extract
+4144	Empty Bottle; Mag Mel Dew; Borage Extract
+4145	Empty Bottle; Awakened Strength Fragment; Mag Mell Dew; Potent Borage Extract
+4146	Empty Bottle; Mandrake; Pure White Dust; Violet Extract
+4147	Empty Bottle; Awakened Strength Powder; Mysterious Herb Powder; Potent Violet Extract
+4148	You need a Fynn Bell.
+4149	You need a Fynn Bell.
+4150	You need a Fynn Bell.
+4151	You need a Fynn Bell.
+4152	You need a Fynn Bell.
+4153	Hillwen Alloy Fusion
+4154	Convert Intact Shyllien
+4155	You can make Hillwen Alloy by fusing Soft Hillwen Ore Fragments from Mag Mell.
+4156	You can make Intact Shyllien by infusing a Stained Shyllien Crystal from Mag Mell with magic.
+4157	Soft Hillwen Ore Fragment
+4158	Stained Shyllien Crystal
+4159	Empty your hands.
+4160	Empty your hands.
+4161	You need an Engineering Rack nearby.
+4162	You must be near a Magic Cauldron.
+4163	Refine Large Mythril Nail
+4164	You can make one Large Mythril Nail with 20 Mythril Ingots.
+4165	Mythril Ingot
+4176	Pulsating Shyllien Conversion
+4177	Glittering Hillwen Conversion
+4178	You can make Pulsating Shyllien by infusing a Stained Shyllien Crystal with magic.
+4179	You can make Glittering Hillwen by infusing a Soft Hillwen Ore Fragment with magic.
+4180	Fluffpuff Mushroom;Stained Shyllien Crystal;Sunlight Herb;Pure White Dust
+4181	Fairy Wing Fragment;Soft Hillwen Ore Fragment;Nickel Ore Fragment;Mysterious Herb Powder
+4182	Empty your hands.
+4183	Empty your hands.
+4184	You must be near a Magic Cauldron.
+4185	You must be near a Magic Cauldron.
+4186	Katell's Special Snack
+4187	Fynn Crafting
+4188	You can make Katell's Special Snack by combining Gold Mushrooms, Pollen, and Flour Dough, then infusing it with the power of the Fynn.
+4189	Gold Mushroom; Pollen; Flour Dough
+4190	You need a Fynn Bell.
+4191	Feathery Fynn Bell
+4192	Fluffy Fynn Bell
+4193	You can use the materials you got from Mag Mell, such as Pulsating Shyllien, to make a Feathery Fynn Bell.\nThe quality of the result is random.
+4194	You can use the materials you got from Mag Mell, such as Glittering Hillwen, to make a Fluffy Fynn Bell.\nThe quality of the result is random.
+4195	Pulsating Shyllien;Smooth Leaf;Wisteria Decoration;Mossy Rock;Average Firewood
+4196	Glittering Hillwen;Smooth Leaf;Kerune's Horn;Savory Honey Water;Cheap Leather Strap
+4197	You must be holding an Engineering Hammer in your right hand.
+4198	You must be holding an Engineering Hammer in your right hand.
+4199	You need an Engineering Rack nearby.
+4200	You need an Engineering Rack nearby.
+4201	Hillwen Alloy Fusion
+4202	Convert Intact Shyllien
+4203	Pulsating Shyllien Conversion
+4204	Glittering Hillwen Conversion
+4205	You can make Hillwen Alloy by fusing Soft Hillwen Ore Fragments from Mag Mell.
+4206	You can make Intact Shyllien by infusing a Stained Shyllien Crystal from Mag Mell with magic.
+4207	You can make Pulsating Shyllien by infusing a Stained Shyllien Crystal with magic.
+4208	You can make Glittering Hillwen by infusing a Soft Hillwen Ore Fragment with magic.
+4209	Soft Hillwen Ore Fragment
+4210	Stained Shyllien Crystal
+4211	Fluffpuff Mushroom;Stained Shyllien Crystal;Sunlight Herb;Pure White Dust
+4212	Fairy Wing Fragment;Soft Hillwen Ore Fragment;Nickel Ore Fragment;Mysterious Herb Powder
+4213	Empty your hands.
+4214	Empty your hands.
+4215	Empty your hands.
+4216	Empty your hands.
+4217	You need an Engineering Rack nearby.
+4218	You must be near a Magic Cauldron.
+4219	You must be near a Magic Cauldron.
+4220	You must be near a Magic Cauldron.
+4221	Royal Boost Tonic
+4222	Royal Boost Tonic
+4223	Royal Boost Tonic
+4224	You can make a Royal Boost Tonic by combining Fragrant Honey Water, Royal Jelly, and a Four-Leaf Clover, then infusing it with the power of the Fynn.
+4225	You can make a Royal Boost Tonic by combining Fragrant Honey Water, Royal Jelly, and a Four-Leaf Clover, then infusing it with the power of the Fynn.
+4226	You can make a Royal Boost Tonic by combining Fragrant Honey Water, Royal Jelly, and a Four-Leaf Clover, then infusing it with the power of the Fynn.
+4227	Fragrant Honey Water;Royal Jelly;Four-Leaf Clover
+4228	Fragrant Honey Water;Royal Jelly;Four-Leaf Clover
+4229	Fragrant Honey Water;Royal Jelly;Four-Leaf Clover
+4230	You need a Fynn Bell.
+4231	You need a Fynn Bell.
+4232	You need a Fynn Bell.
+4237	Collecting Barley Husks
+4238	You can fill 1 bag of barley husks by milling 10 Suitable Barley.\nYou can only fill 1 sack of barley husks at a time.
+4239	Suitable Barley
+4240	Royal Boost Tonic
+4241	Royal Boost Tonic
+4242	Royal Boost Tonic

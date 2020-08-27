@@ -1,0 +1,66 @@
+﻿1	test_dungeon
+2	Karu Forest Ruins
+3	Pot-Belly Spider Leg Artifact
+4	Pot-Belly Spider Fang Artifact
+5	Pot-Belly Spider Pincer Artifact
+6	Pot-Belly Spider's Belly Artifact
+7	Pot-Belly Spider's Venom Sac Artifact
+8	Glowing Pot-Belly Spider Artifact
+9	Stone Hound Ear Artifact
+10	Stone Hound Bracelet Artifact
+11	Stone Hound Tail Artifact
+12	Stone Hound Teeth Artifact
+13	Stone Hound Claw Artifact
+14	Glowing Stone Hound Artifact
+15	Stone Bison Tail Artifact
+16	Stone Bison Teeth Artifact
+17	Stone Bison Hoof Artifact
+18	Stone Bison Horn Artifact
+19	Glowing Stone Bison Artifact
+20	Stone Zombie Circlet Artifact
+21	Stone Zombie Headband Artifact
+22	Stone Zombie Pauldron Artifact
+23	Stone Zombie Bracelet Artifact
+24	Stone Zombie Belt Artifact
+25	Stone Zombie Eye Artifact
+26	Glowing Stone Zombie Artifact
+27	Stone Imp Nose Artifact
+28	Stone Imp Ear Artifact
+29	Stone Imp Hat Artifact
+30	Stone Imp Hat Decoration Artifact
+31	Stone Imp Sandal Artifact
+32	Stone Imp Jewel Artifact
+33	Glowing Stone Imp Artifact
+34	Maiz Prairie Artifact
+35	Stone Gargoyle Pauldron Artifact
+36	Stone Gargoyle Glove Artifact
+37	Stone Gargoyle Boots Artifact
+38	Glowing Stone Gargoyle Artifact
+39	Longa Desert Ruins
+40	Longa Desert Topaz Ruins
+41	Longa Desert Emerald Ruins
+42	Longa Desert Amethyst Ruins
+43	Longa Desert Protector Ruins
+44	카루 숲 초보자 이벤트 유적
+45	메이즈 평원 초보자 이벤트 유적
+46	Longa Desert Ruins
+47	Par Ruins
+48	Par Snow Crystal Artifact
+49	Secret Ruins of Longa Desert
+50	Par Ruins
+51	Par Dungeon
+52	Glowing Stone Bison Artifact
+53	Longa Desert Ruins
+54	Par Dungeon
+55	Secret Ruins of Longa Desert
+56	Karu Forest Ruins
+57	Maiz Prairie Ruins
+58	Maiz Prairie Ruins
+59	Maiz Prairie Ruins
+60	Par Ruins
+61	Longa Desert Rain Maker Dungeon
+62	Longa Desert Delivery Person Dungeon
+63	Portia's Memory RP Dungeon
+64	Longa Desert Ruins
+65	Mysterious Karu Forest Ruins
+66	Mysterious Karu Forest Ruins Undergrounds

@@ -1,0 +1,22 @@
+﻿1	Spotlight
+2	Climax Light
+3	Dim Light
+4	Stage Effect
+5	Stage Confetti
+6	Stage Glitter
+7	Firecrackers
+8	Fireworks
+9	Speech to Audience
+10	Light Effect
+11	Star Effect
+12	Butterfly Effect
+13	Soap Bubble
+14	Paper
+15	Fancy Paper
+16	Star
+17	Heart
+18	Gold
+19	Blue
+20	Pink
+21	Sky Blue
+22	Purple

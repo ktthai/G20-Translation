@@ -1,0 +1,318 @@
+﻿12	전설의 알비 던전 통행증
+13	전설의 키아 던전 통행증
+14	전설의 라비 던전 통행증
+15	전설의 바리 던전 통행증
+16	마왕성의 지도 조각 1
+17	마왕성의 지도 조각 2
+18	마왕성의 지도 조각 3
+19	마왕성의 지도 조각 4
+20	마왕성의 지도 조각 5
+21	마왕성의 지도 조각 6
+22	마왕성의 지도 조각 7
+23	마왕성의 지도 조각 8
+24	마왕성의 지도 조각 9
+25	마왕성의 지도
+26	봉인된 상자
+27	마왕성에 대한 자료 쪽지
+28	마왕성에 대한 자료
+29	전설의 활이 잠든 돌
+30	전설의 망치가 잠든 돌
+31	전설의 지팡이가 잠든 돌
+32	전설의 방패가 잠든 돌
+33	이벤트 기간에만 주어지는 특별한 던전 통행증. 알비 던전의 제단에 바치면 전설의 알비 던전에 갈 수 있다고 한다. 1인만 출입 가능하다.
+34	이벤트 기간에만 주어지는 특별한 던전 통행증. 키아 던전의 제단에 바치면 전설의 키아 던전에 갈 수 있다고 한다. 1인만 출입 가능하다.
+35	이벤트 기간에만 주어지는 특별한 던전 통행증. 라비 던전의 제단에 바치면 전설의 라비 던전에 갈 수 있다고 한다. 1인만 출입 가능하다.
+36	이벤트 기간에만 주어지는 특별한 던전 통행증. 바리 던전의 제단에 바치면 전설의 바리 던전에 갈 수 있다고 한다. 1인만 출입 가능하다.
+37	마왕성의 위치가 그려진 지도의 1번째 조각.
+38	마왕성의 위치가 그려진 지도의 2번째 조각.
+39	마왕성의 위치가 그려진 지도의 3번째 조각.
+40	마왕성의 위치가 그려진 지도의 4번째 조각.
+41	마왕성의 위치가 그려진 지도의 5번째 조각.
+42	마왕성의 위치가 그려진 지도의 6번째 조각.
+43	마왕성의 위치가 그려진 지도의 7번째 조각.
+44	마왕성의 위치가 그려진 지도의 8번째 조각.
+45	마왕성의 위치가 그려진 지도의 9번째 조각.
+46	마왕성의 위치가 그려진 지도가 완성되었다. 이곳은 가이레흐 언덕의 라인알트인 것 같다.
+47	전설의 태양과 달의 검이 봉인된 상자. 암호를 맞춰야 열 수 있다. 시도 횟수를 초과하면 패스워드가 변경되니 주의해야 한다.
+48	던바튼 도서관에서 찾아낸 마왕에 대한 자료 쪽지. 5개를 합치면 정확한 자료를 얻을 수 있다.
+49	던바튼 도서관에서 찾아낸 마왕에 대한 자료. 레트로 카르타르에게 전달하자.
+50	전설의 활이 잠들어 있는 돌. 퍼거스에게 가져가면 전설의 활을 만들 수 있다.
+51	전설의 망치가 잠들어 있는 돌. 퍼거스에게 가져가면 전설의 망치를 만들 수 있다.
+52	전설의 지팡이가 잠들어 있는 돌. 퍼거스에게 가져가면 전설의 지팡이를 만들 수 있다.
+53	전설의 방패가 잠들어 있는 돌. 에일렌에게 가져가면 전설의 방패를 만들 수 있다.
+54	낭만 농장 레트로 라미 미니어처
+55	낭만 농장 레트로 레우리 미니어처
+56	낭만 농장 레트로 카르타르 미니어처
+57	낭만 농장에 설치 가능한 레트로 라미. 낭만 농장에 이 미니어처가 설치되어 있는 동안 능력치가 상승한다.\n[*스태미나: +20]\n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+58	낭만 농장에 설치 가능한 레트로 레우리. 낭만 농장에 이 미니어처가 설치되어 있는 동안 능력치가 상승한다.\n[*생명력: +20]\n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+59	낭만 농장에 설치 가능한 레트로 카르타르. 낭만 농장에 이 미니어처가 설치되어 있는 동안 능력치가 상승한다.\n[*마나: +20]\n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+60	Far Darrig Event Coupon
+61	Collect and stack 15 of these to receive a Far Darrig Event Reward Box.
+62	Soldier's Field Shovel Appearance Scroll
+63	Soldier's Field Axe Appearance Scroll
+64	Soldier's Automatic Pistol Appearance Scroll
+65	A scroll that changes a weapon's appearance to that of the Soldier's Field Shovel. You can only use it on a one-handed blunt weapon. (Cannot be used on Classic Spirit Weapons or other select weapons.) The scroll will disappear once the effect has been applied.
+66	A scroll that changes a weapon's appearance to that of the Soldier's Field Axe. You can only use it on a one-handed axe. (Cannot be used on Classic Spirit Weapons or other select weapons.) The scroll will disappear once the effect has been applied.
+67	A scroll that changes a weapon's appearance to that of the Soldier's Automatic Pistol. You can only use it on a dual gun. (Cannot be used on Classic Spirit Weapons or other select weapons.) The scroll will disappear once the effect has been applied.
+68	Crow's Nest Chair
+69	Forlorn Tree Swing
+70	A surprisingly comfy nest made with crow feathers and filled with collected treasures.
+71	A surprisingly comfy swing hanging from a twisted tree that's forever bare. Feels especially chilly when used in midsummer.
+72	Crow Knuckle Appearance Scroll
+73	Crow Dual Gun Appearance Scroll
+74	Crow Sword Appearance Scroll
+75	A scroll that changes a weapon's appearance to that of the Crow Knuckle. You can only use it on a knuckle. (Cannot be used on Classic Spirit Weapons or other select weapons.) The scroll will disappear once the effect has been applied.
+76	A scroll that changes a weapon's appearance to that of the Crow Dual Gun. You can only use it on dual guns. (Cannot be used on Classic Spirit Weapons or other select weapons.) The scroll will disappear once the effect has been applied.
+77	A scroll that changes a weapon's appearance to that of the Crow Sword. You can only use it on a one-handed sword. (Cannot be used on Classic Spirit Weapons or other select weapons.) The scroll will disappear once the effect has been applied.
+78	Spirit Transformation Liqueur (Crow Feathers)
+79	A liqueur marked with crow feathers. Take this to Berched, and he will apply a black feather effect to your weapon. Because this is a special effect, it does not grant a size or color change based on the Spirit's level and critical effects start at Spirit level 1.
+80	이상한 책
+81	던바튼 도서관에서 찾아낸 이상한 책. 마왕에 대한 자료가 있는지 살펴보자.
+82	경매장 수수료 100% 할인 쿠폰(이벤트)
+83	경매장 판매 수수료를 100% 할인 받을 수 있는 쿠폰. 판매 대금 수령 시 사용 가능하며, 1회 사용 후 해당 아이템은 사라지니 주의해야 한다.(거래불가)
+88	Spirit Transformation Liqueur (Black Crows)
+89	Spirit Transformation Liqueur (White Crows)
+90	A liqueur marked with black crows. Take this to Berched, and he will apply a black crow effect to your weapon. Because this is a special effect, it does not grant a size or color change based on the Spirit's level and critical effects start at Spirit level 1.
+91	A liqueur marked with white crows. Take this to Berched, and he will apply a white crow effect to your weapon. Because this is a special effect, it does not grant a size or color change based on the Spirit's level and critical effects start at Spirit level 1.
+92	멜로디 에센셜
+93	행복한 기분을 전해주는 멜로디가 담긴 병. 병을 착용한 채 이멘 마하 아르페지오 콘서트 홀에 피어난 시든 스위트 로즈에게 뿌리면 되살릴 수 있다. 한 번 사용하고 나면 사라진다. 장미 정원의 아르페지오 이벤트 기간에 프리스타일 잼 3콤보 성공 시 획득할 수 있다.
+94	스위트 로즈 꽃잎
+95	보라색 스위트 로즈(1단계)
+96	붉은색 스위트 로즈(1단계)
+97	푸른색 스위트 로즈(1단계)
+98	보라색 스위트 로즈(2단계)
+99	붉은색 스위트 로즈(2단계)
+100	푸른색 스위트 로즈(2단계)
+101	보라색 스위트 로즈(3단계)
+102	붉은색 스위트 로즈(3단계)
+103	푸른색 스위트 로즈(3단계)
+104	만개한 보라색 스위트 로즈
+105	만개한 붉은색 스위트 로즈
+106	만개한 푸른색 스위트 로즈
+107	스위트 로즈 쿼츠
+108	되살아난 스위트 로즈에서 채집한 꽃잎. 2개를 합치면 보라색 스위트 로즈(1단계), 붉은색 스위트 로즈(1단계), 푸른색 스위트 로즈(1단계) 중 하나를 얻을 수 있다. 채집용 단검으로만 채집 가능하다.
+109	아직은 미완성 상태인 스위트 로즈. 2개를 합치면 보라색 스위트 로즈(2단계)하나를 얻을 수 있다.
+110	아직은 미완성 상태인 스위트 로즈. 2개를 합치면 붉은색 스위트 로즈(2단계) 하나를 얻을 수 있다.
+111	아직은 미완성 상태인 스위트 로즈. 2개를 합치면 푸른색 스위트 로즈(2단계) 하나를 얻을 수 있다.
+112	아직은 미완성 상태인 스위트 로즈. 2개를 합치면 보라색 스위트 로즈(3단계) 하나를 얻을 수 있다.
+113	아직은 미완성 상태인 스위트 로즈. 2개를 합치면 붉은색 스위트 로즈(3단계) 하나를 얻을 수 있다.
+114	아직은 미완성 상태인 스위트 로즈. 2개를 합치면 푸른색 스위트 로즈(3단계) 하나를 얻을 수 있다.
+115	아직은 미완성 상태인 스위트 로즈. 2개를 합치면 만개한 보라색 스위트 로즈 하나를 얻을 수 있다.
+116	아직은 미완성 상태인 스위트 로즈. 2개를 합치면 만개한 붉은색 스위트 로즈 하나를 얻을 수 있다.
+117	아직은 미완성 상태인 스위트 로즈. 2개를 합치면 만개한 푸른색 스위트 로즈 중 하나를 얻을 수 있다.
+118	환상적인 모습으로 만개한 보라색 스위트 로즈. 이멘 마하 아르페지오 콘서트 홀의 아멜리 로즈에게 가져다 주도록 하자.
+119	환상적인 모습으로 만개한 붉은색 스위트 로즈. 이멘 마하 아르페지오 콘서트 홀의 엘렌 로즈에게 가져다 주도록 하자.
+120	환상적인 모습으로 만개한 푸른색 스위트 로즈. 이멘 마하 아르페지오 콘서트 홀의 지젤 로즈에게 가져다 주도록 하자.
+121	스위트 로즈 꽃잎과 비슷한 형태의 빛나는 수정 조각. 스위트 로즈 쿼츠 모음집에 수집 가능하다.
+128	Homestead Secret Garden Gate
+129	Homestead Secret Garden Simple Fence
+130	Homestead Secret Garden Ornamented Fence
+131	Homestead Secret Garden Hidden Spring
+132	Secret Garden Bottle Appearance Scroll
+133	Secret Garden Flower Basket Appearance Scroll
+134	Secret Garden Cylinder Appearance Scroll
+135	Secret Garden Guard Cylinder Appearance Scroll
+136	Secret Garden Picnic Set
+137	A Secret Garden Gate that can be placed in your homestead. Decorate your homestead to be mysterious and beautiful.
+138	A Secret Garden Simple Fence that can be placed in your homestead. Decorate your homestead to be mysterious and beautiful.
+139	A Secret Garden Ornamented Fence that can be placed in your homestead. Decorate your homestead to be mysterious and beautiful.
+140	A Secret Garden Hidden Spring that can be placed in your homestead. Decorate your homestead to be mysterious and beautiful.
+141	A scroll that changes a weapon's appearance to that of the Secret Garden Bottle. You can only use it on a one-handed blunt weapon. (Cannot be used on Classic Spirit Weapons or other select weapons.) The scroll will disappear once the effect has been applied.
+142	A scroll that changes a weapon's appearance to that of the Secret Garden Flower Basket. You can only use it on a one-handed blunt weapon. (Cannot be used on Classic Spirit Weapons or other select weapons.) The scroll will disappear once the effect has been applied.
+143	A scroll that changes a weapon's appearance to that of the Secret Garden Cylinder. You can only use it on a cylinder. (Cannot be used on Classic Spirit Weapons or other select weapons.) The scroll will disappear once the effect has been applied.
+144	A scroll that changes a weapon's appearance to that of the Secret Garden Guard Cylinder. You can only use it on a guard cylinder. (Cannot be used on Classic Spirit Weapons or other select weapons.) The scroll will disappear once the effect has been applied.
+145	This Picnic Set will help you forget everyday life and enjoy a carefree afternoon in the Secret Garden. Use it with a friend.
+146	스위트 로즈 쿼츠 모음집
+147	스위트 로즈 쿼츠를 담을 수 있도록 제작된 책이다. 컬렉션을 완성하면 보상을 받을 수 있다.
+148	금색 코인
+149	밝은 금색으로 빛나는 코인. 캐러반 프렌 조의 기념품 상점에서 교환하는 데 사용된다.\n(이벤트 종료 시 아이템은 삭제됩니다.)
+150	Homestead Special Secret Garden Gate
+151	Homestead Special Secret Garden Hidden Spring
+152	Place this Secret Garden Gate on your Homestead for a little boost to your stats.\n[*Strength: +8, Max HP: +10, Max Damage: +7]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+153	Place this Secret Garden Hidden Spring on your Homestead for a little boost to your stats.\n[*Music Buff Skill Effect +3]\n(Effects cannot be stacked. Stat increase will disappear if removed from Homestead.)
+154	Balloon Sword Appearance Scroll
+155	고전 동양풍 우산 외형 주문서
+156	A scroll that changes a weapon's appearance to that of the Balloon Sword. You can only use it on a one-handed sword. (Cannot be used on Classic Spirit Weapons or other select weapons.) The scroll will disappear once the effect has been applied.
+157	고전 동양풍 우산 외형으로 변경해주는 주문서이다. 한손둔기 타입의 무기에만 사용할 수 있다.(클래식 정령무기 및 일부 무기에는 사용할 수 없다.) 사용된 주문서는 사라진다.
+164	레인보우 체스터 펫 선택 상자 조각
+165	레인보우 체스터 펫 선택 상자 조각. 조각 10개를 모으면 레인보우 체스터 펫 선택 상자를 받을 수 있다.
+166	매지컬 블리츠 코인
+167	케모노 프렌즈 코인
+168	크로우 페더즈 코인
+169	특별한 손수건을 사용하여 특별한 코인을 획득했다. 모아둔 코인으로 여러가지 아이템을 교환할 수 있다.
+170	특별한 손수건을 사용하여 특별한 코인을 획득했다. 모아둔 코인으로 여러가지 아이템을 교환할 수 있다.
+171	특별한 손수건을 사용하여 특별한 코인을 획득했다. 모아둔 코인으로 여러가지 아이템을 교환할 수 있다.
+172	Forgotten Tomb Treasure Chest Key (Event)
+173	A key that opens treasure chests in the Forgotten Tomb.
+370	세인츠 가디언 코인
+371	특별한 손수건을 사용하여 특별한 코인을 획득했다. 모아둔 코인으로 여러가지 아이템을 교환할 수 있다.
+372	16주년 기념 수표
+373	16주년 코인
+374	16주년 즉석 경품권
+375	16주년을 기념하기 위해 발행된 수표. 16주년 축제 기간에만 발행된다.
+376	마비노기 16주년을 기념하는 이벤트 참여 시 지급받을 수 있는 특별한 코인이다. 페스티아의 16주년 식스틴에게 가져가면 다양한 보상으로 교환할 수 있다.\n*해당 아이템은 이벤트 종료 후 삭제됩니다.
+377	경품 이벤트에 응모할 수 있는 즉석 경품권. 16주년 이벤트 기간 중에 해당 경품권을 사용하여 다양한 경품을 획득할 수 있다.\n*해당 아이템은 이벤트 종료 후 삭제됩니다.
+384	16주년 페스티아 엑스트라 미니어처
+385	Housing Hot-Air Balloon
+386	Sweet Rose Chair
+387	낭만 농장에 설치 가능한 16주년 페스티아 엑스트라 미니어처 장식물. 낭만 농장에 이 엑스트라 미니어처가 설치 되어있는 동안 능력치가 상승한다.\n[*최대 대미지: +2, *마법 공격력: +2, *크리티컬 대미지: +2%]\n(일반 미니어처와 능력치 중복 적용, 엑스트라 미니어처 간 능력치 중복 불가, 설치 해제 시 능력치 상승효과는 사라진다.)
+388	A hot-air balloon decorated with balloons of a variety of colors, and a basket that looks like a house. You'll feel like you're soaring toward the sky in a hot-air balloon when you use it.
+389	A comfortable chair decorated with roses in a variety of colors. The comfiness of the chair and the sweet smell of the flowers makes the perfect setup for a nap. Use it to sit down for a relaxing rest.
+390	Warrior Corgi Whistle
+391	Wizard Corgi Whistle
+392	A whistle that calls forth the Warrior Corgi!
+393	A whistle that calls forth the Wizard Corgi!
+394	재빠른 서큐버스 인형 가방
+395	재빠른 인큐버스 인형 가방
+396	재빠른 다람쥐 인형 가방
+397	재빠른 토끼 인형 가방
+398	재빠른 사막여우 인형 가방
+399	재빠른 곰 인형 가방
+400	재빠른 호랑이 인형 가방
+401	사냥 후 드랍되는 골드를 주워주는 재빠른 서큐버스 인형을 소환할 수 있는 신기한 가방. 가로 7칸, 세로 7칸의 49칸에 아이템을 넣을 수 있다. 무료 이용자도 누구나 이용할 수 있으며, 거래는 불가능하다.\n인형은 펫과 별도로 소환할 수 있으며, 일부 가방과 함께 소환 시 세트 효과가 발휘된다.
+402	사냥 후 드랍되는 골드를 주워주는 재빠른 인큐버스 인형을 소환할 수 있는 신기한 가방. 가로 7칸, 세로 7칸의 49칸에 아이템을 넣을 수 있다. 무료 이용자도 누구나 이용할 수 있으며, 거래는 불가능하다.\n인형은 펫과 별도로 소환할 수 있으며, 일부 가방과 함께 소환 시 세트 효과가 발휘된다.
+403	사냥 후 드랍되는 골드를 주워주는 재빠른 다람쥐 인형을 소환할 수 있는 신기한 가방. 가로 6칸, 세로 6칸의 36칸에 아이템을 넣을 수 있다. 무료 이용자도 누구나 이용할 수 있으며, 거래는 불가능하다.\n인형은 펫과 별도로 소환할 수 있으며, 일부 가방과 함께 소환 시 세트 효과가 발휘된다.
+404	사냥 후 드랍되는 골드를 주워주는 재빠른 토끼 인형을 소환할 수 있는 신기한 가방. 가로 6칸, 세로 6칸의 36칸에 아이템을 넣을 수 있다. 무료 이용자도 누구나 이용할 수 있으며, 거래는 불가능하다.\n인형은 펫과 별도로 소환할 수 있으며, 일부 가방과 함께 소환 시 세트 효과가 발휘된다.
+405	사냥 후 드랍되는 골드를 주워주는 재빠른 사막여우 인형을 소환할 수 있는 신기한 가방. 가로 6칸, 세로 6칸의 36칸에 아이템을 넣을 수 있다. 무료 이용자도 누구나 이용할 수 있으며, 거래는 불가능하다.\n인형은 펫과 별도로 소환할 수 있으며, 일부 가방과 함께 소환 시 세트 효과가 발휘된다.
+406	사냥 후 드랍되는 골드를 주워주는 재빠른 곰 인형을 소환할 수 있는 신기한 가방. 가로 6칸, 세로 6칸의 36칸에 아이템을 넣을 수 있다. 무료 이용자도 누구나 이용할 수 있으며, 거래는 불가능하다.\n인형은 펫과 별도로 소환할 수 있으며, 일부 가방과 함께 소환 시 세트 효과가 발휘된다.
+407	사냥 후 드랍되는 골드를 주워주는 재빠른 호랑이 인형을 소환할 수 있는 신기한 가방. 가로 6칸, 세로 6칸의 36칸에 아이템을 넣을 수 있다. 무료 이용자도 누구나 이용할 수 있으며, 거래는 불가능하다.\n인형은 펫과 별도로 소환할 수 있으며, 일부 가방과 함께 소환 시 세트 효과가 발휘된다.
+408	Cotton Candy Flower Whistle
+409	Balloon Turtle Whistle
+410	A whistle that calls forth the Cotton Candy Flower!
+411	A whistle that calls forth the Balloon Turtle!
+412	Homestead Fancy Sand Castle
+413	Baby Chinchilla Doll Blunt Weapon Appearance Scroll
+414	Bright Conch Shell Blunt Weapon Appearance Scroll
+415	Fancy Sand Castle (for 2)
+416	Place this Fancy Sand Castle on your Homestead for a little boost to your stats.\n[Intelligence: +5, Luck: +10, Magic Attack: +5]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+417	A scroll that changes a weapon's appearance to that of a Baby Chinchilla Doll. You can only use it on a one-handed blunt weapon. (Cannot be used on Classic Spirit Weapons or other select weapons.) The scroll will disappear once the effect has been applied.
+418	A scroll that changes a weapon's appearance to that of a Bright Conch Shell. You can only use it on a one-handed blunt weapon. (Cannot be used on Classic Spirit Weapons or other select weapons.) The scroll will disappear once the effect has been applied.
+419	A fancy castle made of sand that gives off a delicate air. Invite a friend to have fun playing with it.
+508	풍선 나무의 농장 씨앗
+509	신비한 풍선 나무 씨앗. 농장에 이 씨앗을 심어서 풍선 나무를 기를 수 있다. 풍선을 수확하여 벌룬에게 전달해 주자.\n*해당 아이템은 이벤트 종료 후 삭제됩니다.
+510	스팀 엔진 워리어 해머 외형 주문서
+511	스팀 엔진 파이프 보우 외형 주문서
+512	스팀 엔진 체인 블레이드 외형 주문서
+513	스팀 엔진 스파크 스태프 외형 주문서
+514	스팀 엔진 워리어 해머 외형으로 변경해주는 주문서이다. 양손 둔기 타입의 무기에만 사용할 수 있다.(클래식 정령무기 및 일부 무기에는 사용할 수 없다.) 사용된 주문서는 사라진다.
+515	스팀 엔진 파이프 보우 외형으로 변경해주는 주문서이다. 보우 타입의 무기에만 사용할 수 있다.(클래식 정령무기 및 일부 무기에는 사용할 수 없다.) 사용된 주문서는 사라진다.
+516	스팀 엔진 체인 블레이드 외형으로 변경해주는 주문서이다. 체인 블레이드 타입의 무기에만 사용할 수 있다.(클래식 정령무기 및 일부 무기에는 사용할 수 없다.) 사용된 주문서는 사라진다.
+517	스팀 엔진 스파크 스태프 외형으로 변경해주는 주문서이다. 스태프 타입의 무기에만 사용할 수 있다.(클래식 정령무기 및 일부 무기에는 사용할 수 없다.) 사용된 주문서는 사라진다.
+518	신비한 풍선
+519	풍선 나무에서 수확한 신비한 풍선. 신비한 풍선을 벌룬에게 가져다 주자.\n*해당 아이템은 이벤트 종료 후 삭제됩니다.
+548	Homestead Star-Spangled Banner
+549	A Star-Spangled Banner that can be placed on your Homestead. The flag waves from high atop the flagpole.
+550	낭만 농장 불꽃놀이 대관람차
+551	낭만 농장에 설치 가능한 커다란 대관람차.\n낭만 농장을 화려한 불꽃놀이 명소로 꾸며보자.
+552	불꽃놀이 원형 무대
+553	불꽃놀이 폭죽이 터지는 원형 무대이다.\n재설치는 최소 10초 후 가능하며 설치된 상태로 5분 경과 시 설치 해제된다.\n한 번에 한 개씩만 설치할 수 있다.
+644	마린 룩 코인
+645	특별한 상자를 사용하여 특별한 코인을 획득했다. 모아둔 코인으로 여러가지 아이템을 교환할 수 있다.
+646	16주년 캠프파이어 키트
+647	마비노기 16주년을 기념하며 제작한 특별한 캠프파이어 키트. 캠프파이어 스킬과 장작이 없어도 언제 어디서나 캠프파이어를 생성할 수 있는 키트. 크기가 작아서 멀리 떠날 때는 요긴하게 사용할 수 있을 것 같다. 오른쪽 클릭 후 사용하기 버튼을 누르면 바로 캠프파이어를 만들 수 있다.
+648	16주년 불꽃놀이 키트
+649	마비노기 16주년을 기념하기 위해 제작된 불꽃놀이 키트. 4가지의 화려한 불꽃이 연달아 나오는 것이 특징. 메시지를 담아 하늘에 쏘아 올려보자.
+650	16주년 고급 의류 가방
+651	16주년을 맞이하여 제작된 고급스러운 의류 가방. 장비 아이템만 보관할 수 있으며 가로 10칸, 세로 15칸의 150칸에 아이템을 넣을 수 있다.\n거래는 불가능하지만 상점에 판매하면 은행 수수료 없이 100만 골드를 얻을 수 있다.
+652	16주년 페스티아 입장권
+653	16주년 이벤트 동안 페스티아 안에 설치된 미니 게임인 풍선 터트리기, 펀치펀치, 시험의 동굴을 이용할 수 있는 티켓. 한번 이용하면 사라진다.\n*해당 아이템은 이벤트 종료 후 삭제됩니다.
+662	Warm Energy
+663	A light that seems to pulse with a gentle energy. Its unique properties are known to help usher new life into the world.
+664	Vacation Scooter Imp Whistle
+665	Young Ceraunus Whistle
+666	A whistle that calls forth the Vacation Scooter Imp!
+667	A whistle that calls forth the Young Ceraunus!
+668	Small Cocker Spaniel Whistle
+669	Small Lovely Siamese Whistle
+670	Small Beyaya Whistle
+671	Small Silver Fox Whistle
+672	Small White Seal Whistle
+673	A whistle received as an event reward. Use it to obtain a level 200 Small Cocker Spaniel pet. This pet does not grow even when it ages. It has a shorter summon duration and smaller inventory size than the existing pet.
+674	A whistle received as an event reward. Use it to obtain a level 200 Small Lovely Siamese pet. This pet does not grow even when it ages. It has a shorter summon duration and smaller inventory size than the existing pet.
+675	A whistle received as an event reward. Use it to obtain a level 200 Small Beyaya pet. This pet does not grow even when it ages. It has a shorter summon duration and smaller inventory size than the existing pet.
+676	A whistle received as an event reward. Use it to obtain a level 200 Small Silver Fox pet. This pet does not grow even when it ages. It has a shorter summon duration and smaller inventory size than the existing pet.
+677	A whistle received as an event reward. Use it to obtain a level 200 Small White Seal pet. This pet does not grow even when it ages. It has a shorter summon duration and smaller inventory size than the existing pet.
+678	Kenny's Lucky Coupon
+679	Kenny's Gift Coupon
+680	A special coupon given when you participate in Kenny's Lucky Coupon Event. Bring it to Pet Event Helper Kenny to enter a drawing for exciting prizes.\n(This item will be removed when the event ends.)
+681	A coupon you received as a reward from Kenny's Lucky Coupon Event. Combine 3 of these to receive a Kenny's Gift Box.\n(The item will be removed when the event ends.)
+712	Novice Adventurer Corgi Whistle
+713	A whistle that calls forth the Novice Adventurer Corgi!
+734	Fynn Bell Coin
+735	A small coin with the image of a Fynn Bell stamped on it. Collect these coins by participating in events, then exchange them for a reward at Kenny's shop.\n(This item will be removed when the event ends.)
+736	Homestead Pinkie Figure
+737	Homestead Katell Sequel Figure
+738	Place this Pinkie figure on your Homestead for a little boost to your stats.\n[Bonus Damage: +1%, Magic Attack: +5, Critical Damage: +3%]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+739	Place this Katell Sequel Figure on your Homestead for a little boost to your stats.\n[Critical Damage: +2%]\nThis item's effects can stack with the effects from Figures, but not from other Sequel Figures.\n(Stat increase will disappear if taken down.)
+740	마린 룩 코인
+741	특별한 손수건을 사용하여 특별한 코인을 획득했다. 모아둔 코인으로 여러가지 아이템을 교환할 수 있다.
+820	Pinkie's Note
+821	Katell's Small Rock
+822	[Speed Totem]\nA little note given to you by Pinkie. When activated from your inventory, it will boost your speed. To activate the item, right-click it from your inventory and select 'Activate'. (Effects cannot be stacked)
+823	[Max Damage Totem]\nA small rock Katell found. When activated from your inventory, it will boost your damage by a random amount. To activate the item, right-click it from your inventory and select 'Activate'. (Effects cannot be stacked)
+824	헬리오도르
+825	블러드스톤
+826	제이드
+827	투어마린
+828	파파라차
+829	제트
+830	오팔
+831	팬텀쿼츠
+832	탄자나이트
+833	아메트린
+834	그린 헬리오도르
+835	레드 헬리오도르
+836	밝은 태양을 닮은 찬란한 황금빛을 띄는 보석. 클래식 정령무기에는 줄 수 없다. (거래불가)
+837	짙은 바탕에 마치 핏자국을 연상시키는 붉은 반점이 특징인 보석.  클래식 정령무기에는 줄 수 없다. (거래불가)
+838	부드럽고 우아한 연녹색을 띄는 단단한 보석. 클래식 정령무기에는 줄 수 없다. (거래불가)
+839	투명한 에메랄드 빛 바다를 닮은 연청색의 보석. 클래식 정령무기에는 줄 수 없다. (거래불가)
+840	저녁 하늘을 물들이는 노을의 아름다운 색감을 닮은 보석. 클래식 정령무기에는 줄 수 없다. (거래불가)
+841	수수하고 부드러운 광택이 깃든 칠흑색 보석. 클래식 정령무기에는 줄 수 없다. (거래불가)
+842	빛을 받으면 영롱한 무지개빛으로 반짝이는 흰 보석. 클래식 정령무기에는 줄 수 없다. (거래불가)
+843	마치 유령을 가두어놓은 듯 내부에 검은 결정들이 일렁이는 회색 보석. 클래식 정령무기에는 줄 수 없다. (거래불가)
+844	청명하고 맑은 푸른 빛에 보랏빛이 살짝 섞인 매력적인 보석. 클래식 정령무기에는 줄 수 없다. (거래불가)
+845	보라색과 노란색, 두 가지 색이 섞인 오묘한 빛의 보석. 클래식 정령무기에는 줄 수 없다. (거래불가)
+846	밝은 태양을 닮은 찬란한 황금빛을 띄는 보석인 헬리오도르의 변종. 특이하게 초록빛을 띈다. 클래식 정령무기에는 줄 수 없다. (거래불가)
+847	밝은 태양을 닮은 찬란한 황금빛을 띄는 보석인 헬리오도르의 변종. 특이하게 붉은빛을 띈다. 클래식 정령무기에는 줄 수 없다. (거래불가)
+848	낭만 농장 거대 레플리카
+849	낭만 농장 역사학자의 책상
+850	낭만 농장 책 더미
+851	깃털 펜 양손검 외형 주문서
+852	펜촉 랜스 외형 주문서
+853	레플리카 워리어 해머 외형 주문서
+854	역사학자의 트렁크 외형 주문서
+855	낭만 농장에 설치 가능한 거대 레플리카.\n낭만 농장을 조금 더 생기 넘치게 꾸며보자.
+856	낭만 농장에 설치 가능한 역사학자의 책상.\n낭만 농장을 조금 더 생기 넘치게 꾸며보자.
+857	낭만 농장에 설치 가능한 책 더미.\n낭만 농장을 조금 더 생기 넘치게 꾸며보자.
+858	깃털 펜 양손검 외형으로 변경해주는 주문서이다. 양손검 타입의 무기에만 사용할 수 있다.(클래식 정령무기 및 일부 무기에는 사용할 수 없다.) 사용된 주문서는 사라진다.
+859	펜촉 랜스 외형으로 변경해주는 주문서이다. 랜스 타입의 무기에만 사용할 수 있다.(클래식 정령무기 및 일부 무기에는 사용할 수 없다.) 사용된 주문서는 사라진다.
+860	레플리카 워리어 해머 외형으로 변경해주는 주문서이다. 양손 둔기 타입의 무기에만 사용할 수 있다.(클래식 정령무기 및 일부 무기에는 사용할 수 없다.) 사용된 주문서는 사라진다.
+861	역사학자의 트렁크 외형으로 변경해주는 주문서이다. 한손 둔기 타입의 무기에만 사용할 수 있다.(클래식 정령무기 및 일부 무기에는 사용할 수 없다.) 사용된 주문서는 사라진다.
+872	바닷속 모래 시계(2인)
+873	바닷속 어항
+874	바닷속에서 막 건져올린 것처럼 생긴 모래 시계. 친구와 함께 즐겁게 사용해보자.
+875	바닷속을 그대로 옮겨놓은 것처럼 생긴 어항. 사용 시 편하게 앉아 휴식을 취할 수 있다.
+878	정령 형상변환 리큐르(러블리 스타)
+879	다양한 색상의 하트와 별 모양의 형상이 담긴 물약. 베이릭시드에게 형상변환을 부탁하면 무기에 하트와 별 모양의 형상이 나타난다. 특별한 형상이므로 정령 레벨에 따른 형상의 크기와 색상 변화가 없으며, 크리티컬 이펙트가 정령 레벨 1부터 나타난다.
+886	프리시즌 레벨업 챌린지 코인
+887	프리시즌 하우징 챌린지 코인
+888	프리시즌 바캉스 챌린지 코인
+889	프리시즌 부스트 챌린지 코인
+890	프리시즌 레벨업 챌린지 보상을 추첨할 수 있는 특별한 코인. 미션을 수행하거나 주말 온타임 이벤트 보상으로 획득하여 사용해보자.\n(이벤트 종료 시 아이템이 삭제된다.)
+891	프리시즌 하우징 챌린지 보상을 추첨할 수 있는 특별한 코인. 미션을 수행하거나 주말 온타임 이벤트 보상으로 획득하여 사용해보자.\n(이벤트 종료 시 아이템이 삭제된다.)
+892	프리시즌 바캉스 챌린지 보상을 추첨할 수 있는 특별한 코인. 미션을 수행하거나 주말 온타임 이벤트 보상으로 획득하여 사용해보자.\n(이벤트 종료 시 아이템이 삭제된다.)
+893	프리시즌 부스트 챌린지 보상을 추첨할 수 있는 특별한 코인. 미션을 수행하거나 주말 온타임 이벤트 보상으로 획득하여 사용해보자.\n(이벤트 종료 시 아이템이 삭제된다.)
+914	낭만 농장 깊은 바다의 모래 시계
+915	낭만 농장 깊은 바다의 어항
+916	낭만 농장 깊은 바다의 포토존
+917	깊은 바다의 인어 코인
+918	깊은 바다의 조개 의자
+919	깊은 바다의 용왕 의자
+920	낭만 농장에 설치 가능한 바닷속 모래 시계. 바다 깊은 곳에서 건져올린 신비로운 모래 시계로 낭만 농장을 꾸며 보자.
+921	낭만 농장에 설치 가능한 바닷속 어항. 바다 깊은 곳을 그대로 옮겨놓은 것같은 어항으로 낭만 농장을 꾸며 보자.
+922	낭만 농장에 설치 가능한 바닷속 포토존. 바다 깊은 곳을 그대로 재현한 것같은 포토존으로 낭만 농장을 꾸며 보자.
+923	특별한 손수건을 사용하여 특별한 코인을 획득했다. 모아둔 코인으로 여러가지 아이템을 교환할 수 있다.
+924	바닷속 커다란 조개 껍질로 만든 조개 의자. 사용 시 편하게 앉아 휴식을 취할 수 있다.
+925	바닷속 용왕이 사용할 것처럼 생긴 큼직한 의자. 사용 시 편하게 앉아 휴식을 취할 수 있다
+930	시크릿 가든 코인
+931	특별한 손수건을 사용하여 특별한 코인을 획득했다. 모아둔 코인으로 여러가지 아이템을 교환할 수 있다.

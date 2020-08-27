@@ -1,0 +1,359 @@
+﻿1	Regular
+2	Dungeon
+3	Arena
+4	Music Jam
+5	Select All
+6	Restrict by Level
+7	Fishing
+8	Natural Shield
+9	Charge
+10	Defense
+11	Lightning Shield
+12	Lightning Bolt
+13	Ranged Attack
+14	Mana Shield
+15	Magnum Shot
+16	Magic Mastery
+17	Meditation
+18	Production Mastery
+19	Mirage Missile
+20	Stomp
+21	Weaving
+22	Blacksmith
+23	Sharp Mind
+24	Smash
+25	Thunder
+26	Ice Shield
+27	Ice Spear
+28	Icebolt
+29	Playing Instrument
+30	Arrow Revolver
+31	Metallurgy
+32	Tame Wild Animal
+33	Herbalism
+34	Cooking
+35	Windmill
+36	Musical Knowledge
+37	First Aid
+38	Enchant
+39	Composing
+40	Refining
+41	Gathering
+42	Tailoring
+43	Counterattack
+44	Campfire
+45	Combat Mastery
+46	Critical Hit
+47	Final Hit
+48	Fire Shield
+49	Fireball
+50	Firebolt
+51	Party Heal
+52	Potion Making
+53	Handicraft
+54	Rest
+55	Heal
+56	Select All
+57	Field Boss
+58	Create Guild
+59	Match
+60	Produce
+61	Acquire Skill
+62	Party Quest
+63	Select All
+64	Main Scenario/RP
+65	Dungeon Play
+66	Arena
+67	Concert
+68	Select All
+69	No Restriction
+70	Over 200
+71	Over 400
+72	Over 600
+73	Select All
+74	Select All
+75	Giant White Wolf
+76	Giant Black Wolf
+77	Giant Bear
+78	Black Warrior
+79	Goblin Bandits
+80	Black Raccoon Family
+81	Giant Ogre & Skeleton Warriors
+82	Black Wizard
+83	White Grizzly Bear
+84	Mini Bear
+85	Golem
+86	Herd of Small-eared Aardvark
+87	Giant Short Horn Gnu
+88	Giant Long Horn Gnu
+89	Gold-tailed Mongoose
+90	Herd of White Fennec Fox
+91	Head Hyena
+92	Wolf-striped Desert Spider
+93	Gold Kiwi
+94	Green Kiwi
+95	Giant Gold Forest Mushroom Spider
+96	Gold Forest Lizard
+97	White Bush Boar
+98	Desert Dragon
+99	Prairie Dragon
+100	Giant Sandworm
+101	Ifrit
+102	Yeti
+103	Mammoth
+104	Giant Alligator
+105	Herd of Giant Lion
+106	Red Dragon
+107	Black Leopard
+108	Select All
+109	Select All
+110	Party Match
+111	Regular Match
+112	Pet Battle
+113	Select All
+114	Production Mastery
+115	Weaving
+116	Blacksmith
+117	Playing Instrument
+118	Metallurgy
+119	Tame Wild Animal
+120	Herbalism
+121	Cooking
+122	First Aid
+123	Refining
+124	Tailoring
+125	Potion Making
+126	Handicraft
+127	Select All
+128	Paladin
+129	Dark Knight
+130	Fireball
+131	Ice Spear
+132	Thunder
+133	Final Hit
+134	Elf Beast Mode
+135	Giant Beast Mode
+136	Arrow Revolver
+137	Mirage Missile
+138	Select All
+139	Defeat Gray Wolf (10)
+140	Defeat Gray Wolf (30)
+141	Defeat Black Wolf (10)
+142	Defeat Black Wolf (30)
+143	Defeat White Wolf (10)
+144	Defeat White Wolf (30)
+145	Defeat White Spider (10)
+146	Defeat White Spider (30)
+147	Defeat Black Spider (10)
+148	Defeat Black Spider (30)
+149	Defeat Red Spider (10)
+150	Defeat Red Spider (30)
+151	Defeat Brown Bear (10)
+152	Defeat Brown Bear (30)
+153	Defeat Red Bear (10)
+154	Defeat Red Bear (30)
+155	Defeat Skeleton
+156	Defeat Red Skeleton
+157	Defeat Metal Skeleton
+158	Defeat Metal Skeleton
+159	Defeat Brown Grizzly Bear
+160	Defeat Red Grizzly Bear
+161	Defeat Black Grizzly Bear
+162	Defeat Brown Dire Wolf
+163	Defeat Gray Dire Wolf
+164	Defeat Black Dire Wolf
+165	Defeat White Dire Wolf
+166	Defeat Goblin
+167	Defeat Poison Goblin
+168	Defeat Gold Goblin
+169	Defeat Kobold
+170	Defeat Poison Kobold
+171	Defeat Gold Kobold
+172	Defeat Skeleton Wolf
+173	Defeat Poison Kobold & Kobold Archer
+174	Defeat Skeleton (20)
+175	Defeat Black & Brown Grizzly Bear
+176	Defeat Black & Brown Grizzly Bear Cubs
+177	Defeat Red & Brown Grizzly Bear
+178	Defeat Red & Brown Grizzly Bear Cubs
+179	Defeat Dire Wolf
+180	Defeat Dire Wolf & Grizzly Bear
+181	Defeat Kobold Bandit
+182	Defeat Coyote
+183	Defeat Laghodessa
+184	Defeat Rat Man
+185	Defeat Green Gremlin
+186	Defeat Gray Gremlin
+187	Defeat Brown Gremlin
+188	Defeat Flying Sword
+189	Defeat Werewolf
+190	Defeat Wood Jackal
+191	Defeat Blue Dire Wolf
+192	Defeat Burgundy Dire Wolf
+193	Defeat Grizzly Bear
+194	Defeat Sprite
+195	Select All
+196	Select All
+197	G1
+198	G1-Tarlach's Locket RP
+199	G1-Barri Dungeon:Black Wizard
+200	G1-Wizard's Note
+201	G1-Find the Magic Powder of Preservation
+202	G1-Broken Glasses RP
+203	G1-Broken Torque 2 Shiela RP
+204	G1-Request from Priestess Kristell
+205	G1-Barri Dungeon:Uninvited World
+206	G1-Albey Green Gem Dungeon
+207	G1-Albey Blue Gem Dungeon
+208	G1-Albey Red Gem Dungeon
+209	G1-Albey Silver Gem Dungeon
+210	G1-Albey Black Gem Dungeon
+211	G1-Final Dungeon
+212	G2
+213	G2-Good Deeds
+214	G2-Search for Your Ideal Type
+215	G3
+216	G3-Restoring Goddess Statue:Coill Dungeon
+217	G3-Restoring Goddess Statue:Rundal Dungeon
+218	G3-Restoring Goddess Statue:Peaca Dungeon
+219	G3-Restoring Goddess Statue:Barri Dungeon
+220	G3-Restoring Goddess Statue:Fiodh Dungeon
+221	G3-Restoring Goddess Statue:Rabbie Dungeon
+222	G3-Restoring Goddess Statue:Math Dungeon
+223	G3-Restoring Goddess Statue:Ciar Dungeon
+224	G3-Restoring Goddess Statue:Alby Dungeon
+225	G3-Final Dungeon
+226	G8-Par Ruins RP
+227	Select All
+228	Alby Malcolm Tutorial Dungeon
+229	Alby Trefor Tutorial Dungeon
+230	Alby Beginner Dungeon
+231	Alby Regular Dungeon
+232	Alby Basic Dungeon
+233	Alby Intermediate Dungeon
+234	Alby Advanced Dungeon
+235	Magic Bean Dungeon
+236	Hard Mode Alby Dungeon
+237	Hard Mode Alby Basic Dungeon
+238	Hard Mode Alby Intermediate Dungeon
+239	Hard Mode Alby Advanced Dungeon
+240	Ciar Beginner Dungeon
+241	Ciar Regular Dungeon
+242	Ciar Basic Dungeon
+243	Ciar Intermediate Dungeon
+244	Ciar Adv. Dungeon
+245	Ciar Boss Trial
+246	Hard Mode Ciar Dungeon
+247	Hard Mode Ciar Basic Dungeon
+248	Hard Mode Ciar Intermediate Dungeon
+249	Hard Mode Ciar Advanced Dungeon
+250	Rabbie Regular Dungeon
+251	Rabbie Basic Dungeon
+252	Rabbie Adv. Dungeon
+253	Math Regular Dungeon
+254	Math Adv. Dungeon
+255	Barri Regular Dungeon
+256	Barri Basic Dungeon
+257	Barri Adv. Dungeon
+258	Fiodh Regular Dungeon
+259	Fiodh Intermediate Dungeon
+260	Coill Dungeon
+261	Rundal Regular Dungeon
+262	Rundal Basic Dungeon
+263	Rundal Adv. Dungeon
+264	Rundal Boss Trial Dungeon
+265	Hard Mode Rundal Dungeon
+266	Hard Mode Rundal Advanced Dungeon
+267	Peaca Regular Dungeon
+268	Peaca Basic Dungeon
+269	Dugald Castle Underground Dungeon
+270	Albey Regular Dungeon
+271	Albey Green Gem Dungeon
+272	Albey Red Gem Dungeon
+273	Albey Silver Gem Dungeon
+274	Albey Blue Gem Dungeon
+275	Albey Black Gem Dungeon
+276	Baol Dungeon
+277	Karu Forest Ruins
+278	Pot-Belly Spider Leg Artifact
+279	Pot-Belly Spider Fang Artifact
+280	Pot-Belly Spider Pincer Artifact
+281	Pot-Belly Spider Pot-Belly Artifact
+282	Pot-Belly Spider Venom Sac Artifact
+283	Glowing Pot-Belly Spider Artifact 
+284	Stone Hound Ear Artifact
+285	Stone Hound Artifact 
+286	Stone Hound Tail Artifact
+287	Stone Hound Tooth Artifact
+288	Stone Hound Claw Artifact
+289	Glowing Stone Hound Artifact
+290	Stone Bison Tail Artifact
+291	Stone Bison Tooth Artifact
+292	Stone Bison Hoof Artifact
+293	Stone Bison Horn Artifact
+294	Glowing Stone Bison Artifact
+295	Stone Zombie Hat Artifact
+296	Stone Zombie Headband Artifact
+297	Stone Zombie Pauldron Artifact
+298	Stone Zombie Bracelet Artifact
+299	Stone Zombie Belt Artifact
+300	Stone Zombie Eye Artifact
+301	Glowing Stone Zombie Artifact
+302	Stone Imp Nose Artifact
+303	Stone Imp Ear Artifact
+304	Stone Imp Hat Artifact
+305	Stone Imp Hat Decoration Artifact
+306	Stone Imp Sandal Artifact
+307	Stone Imp Jewel Artifact
+308	Glowing Stone Imp Artifact
+309	Maiz Prairie Ruins
+310	Stone Gargoyle Pauldron Artifact
+311	Stone Gargoyle Glove Artifact
+312	Stone Gargoyle Boots Artifact
+313	Glowing Stone Gargoyle Statue Artifact
+314	Longa Desert Ruins
+315	Longa Desert Topaz Ruins
+316	Longa Desert Emerald Ruins
+317	Longa Desert Amethyst Ruins
+318	Longa Desert Protector Ruins
+319	Fair Ruins
+320	Par Snow Crystal Ruins
+321	Select All
+322	Alby Battle Arena
+323	Rabbie Battle Arena
+324	Connous Battle Arena
+325	Select All
+326	Train Skill
+327	Magic Mastery
+328	Heal
+329	Party Heal
+330	Enchant
+331	All
+332	Select All
+333	Select All
+334	Defeat Giant Spider
+335	Defeat Giant Red Spider
+336	Defeat Lycanthrope
+337	Defeat Arachne
+338	Defeat Golem
+339	Defeat Cyclops
+340	Defeat Cat Sith Knights
+341	Defeat Siren
+342	Defeat Werewolf
+343	Defeat New Gremlin
+344	Defeat Black Succubus
+345	Defeat Red Succubus
+346	Over 800
+347	Over 900
+348	Over 1000
+349	Over 2000
+350	Over 3000
+351	Over 4000
+352	Over 5000
+353	Over 10000
+354	Squad
+355	Raid
+356	Over 6000
+357	Over 7000
+358	Over 8000
+359	Over 9000

@@ -1,0 +1,934 @@
+﻿1	Double Cut Hair
+2	Curly Pageboy
+3	Helmet Head
+4	Ivy League Cut
+5	Emo
+6	Center-parted
+7	80's Dance Kid
+8	Disheveled Double Cut
+9	Wavy Left
+10	Full Bob Cut
+11	Wolf Cut
+12	Huge Bang
+13	Hammer Head
+14	Buzz Saw
+15	Afro
+16	Youthful Fighter Style
+17	Middle-aged Fighter Style
+18	Punk Front Anvil
+19	Hoodlum Hair
+20	Shag
+21	Guitarist Style
+22	Preppy Ponytail
+23	Short Razor Pageboy
+24	Monastery Hair
+25	Long Straight Hair
+26	Spiky Mop Top
+27	Spiky
+28	Oriental Long Hair
+29	Squire Cut
+30	Captain Cut
+31	Sleek Ponytail
+32	Graceful Volume Curl
+33	Layered
+34	High Priest
+35	Old Asian Hero Cut
+36	Mild and Wild
+37	Pineapple Tie Up
+38	Wild Adventurer
+39	Piecey Layers
+40	Twin Tail Hair
+41	Loose Ponytail
+42	Razor Bangs
+43	Lion's Mane
+44	Girl Mullet
+45	Girl Mullet Ponytail
+46	Layered Ponytail
+47	High-twist
+48	Grassland Tail
+49	Partial Curly Hair
+50	Cross Tie-up
+51	Urban Straight
+52	Short Shaggy Pageboy
+53	Bobbed Cut
+54	Point Pin Style
+55	Wet Setting
+56	Long Hair
+57	Sleek and Long Center-parted
+58	Ponytailed Sleek and Long
+59	Modern Short Hair
+60	Asymmetric Long Hair
+61	Volume Setting Short Curl
+62	Idol Ponytail
+63	Chinese Style
+64	Egyptian Style
+65	Manga Princess
+66	Volume Setting
+67	Straight Twin Tail
+68	Ponytail Princess
+69	Layered Locks
+70	Young & Tied Up
+71	Graceful and Pure
+72	Straight Pony
+73	Natural Look
+74	New Ponytail
+75	High School Cut
+76	Suburban Natural Wave
+77	Unicorn Tail
+78	Half Up Bob Cut
+79	Black
+80	Blue-black
+81	Blue-gray
+82	Violet
+83	Light-blue
+84	Light-violet
+85	Silver-violet
+86	Blonde
+87	Orange
+88	Light-brown
+89	Red
+90	Brown
+91	Pearly
+92	White-yellow
+93	Orangish-yellow
+94	Light-yellow
+95	Yellow
+96	Peach
+97	Grayish-red
+98	Coffee-colored
+99	Earthlike
+100	Bronzed
+101	Reddish-brown
+102	Dark Brown
+103	Dark Brown
+104	Smalt Blue
+105	Blue-black
+106	Ultramarine
+107	Brown Ochre
+108	Prepeace-wine
+109	Violet
+110	Red
+111	Pure Black
+112	Viridis-green
+113	Light-brown
+114	Blue-gray
+116	Cool Cut
+117	Preppy Cut
+118	Twin Pigtail
+119	Twin Down Bind
+120	Unbalanced Natural Wave
+121	Dandy Cut
+122	Little Shaggy Tail
+123	Shadow Wave
+124	Cute Twin Up
+125	Princess Wave
+126	Dark Gray
+128	Red Ochre
+129	Khaki
+130	Moose Gray
+131	Dark Gray
+132	Slieve Green
+133	Carmine Red
+134	Dark Brown Red
+135	Gray Cherry
+136	Copper Brown
+137	Lughnasadh Green
+138	Emain Macha Blue
+139	Ochre
+140	Deep Green
+141	Warm Gray
+142	Pale Green
+143	Silver Blonde
+144	Rich Blonde
+145	Currant Red
+146	Dim Gray
+147	Green Teak
+148	Sienna Green
+149	Gray
+150	Amber
+151	Cutie Whisker Cut
+153	Medium Layered Cut
+154	Short Wolf Cut
+155	Headband Long Hairdo
+156	Spring Twin-Tail
+157	Shadow Volume Hairdo
+158	Soft Wave Cut
+159	Edelyn Bob
+160	Half Ponytail & Sideburn Braids
+162	Kelly Short Bob
+163	Wrapped Honey Spring Ponytails
+164	Wrapped Side Ponytails
+165	(임시)남엘프 헤어
+166	(임시)여엘프 헤어
+196	Light Olive
+197	Lemon Yellow
+198	Canary Yellow
+199	Rainy Gray
+200	Dark Orange
+201	Dusty Rose
+202	Eweca Blue
+203	Warm Gray
+204	Light Blue
+205	Narkiss Aqua Blue
+206	Grayish Red
+207	Reddish Brown
+209	Chroma Orange
+210	Steel Blue
+211	Basil Green
+212	Vergiss Blue
+213	Light Violet
+222	Jade Braided Half-tail 
+223	Twin-tailed Long Hair
+224	Fabian Sweet Cut
+225	Swallow Layered Cut
+226	Well-behaved Hairdo
+227	Smarty Pigtails
+228	Annika Long Hairdo
+229	Long Braids Hairdo
+230	Twin-tailed Long Hair
+231	Lily Twin Tails
+232	Bloody Red
+233	Peach
+234	Red Violet
+235	Crimson
+236	Iria Green
+237	Fairghis Light Blue
+238	Sky Green
+239	Mary Rose
+240	Summer Sky Blue
+241	Pale Emerald
+242	Ice Blue
+243	Salmon Pink
+244	Tangerine 
+275	Wave Parting_Beard
+276	Wave Parting_Mustache
+277	Wave Parting_Mini Beard
+278	Wave Parting
+279	Wavy Swept-Back_Beard
+280	Wavy Swept-Back_Mustache
+281	Wavy Swept-Back_Mini Beard
+282	Wavy Swept-Back
+283	Short Curly Hair_Beard
+284	Short Curly Hair_Mustache
+285	Short Curly Hair_Mini Beard
+286	Short Curly Hair
+287	Smart Sean Hair_Beard
+288	Smart Sean Hair_Mustache
+289	Smart Sean Hair_Mini Beard
+290	Smart Sean Hair
+291	Dreadlocks_Beard
+292	Dreadlocks_Mustache
+293	Dreadlocks_Mini Beard
+294	Dreadlocks 
+295	Copper Brown
+296	Coffee
+308	Human Male Face
+309	Elf boy face
+310	Giant boy face
+316	엘프 얼굴 V.1.1
+317	엘프 얼굴 V.1.2
+318	엘프 얼굴 V.1.3
+319	엘프 얼굴 V.2.1
+320	엘프 얼굴 V.2.2
+321	엘프 얼굴 V.2.3
+325	Human Female Face
+326	Elf girl face
+341	Small Ears
+344	Droopy Ears
+347	Droopy Ears
+350	Small Ears
+353	Small ears and triangle henna
+354	Small ears and sharp henna
+355	Droopy ears and triangle henna
+356	Droopy ears and sharp henna
+357	Droopy ears and triangle henna
+358	Droopy ears and sharp henna
+359	Small ears and triangle henna
+360	Small ears and sharp henna
+377	Laser cut style_Beard
+378	Laser cut style_Mustache
+379	Laser cut style_Mini Beard
+380	Laser cut style
+381	Storm hair style_Beard
+382	Storm hair style_Mustache
+383	Storm hair style_mini Beard
+384	Storm hair style
+385	Waterfall hair style_Beard
+386	Waterfall hair style_Mustache
+387	Waterfall hair style_Mini Beard
+388	Waterfall hair style
+389	Alfred Tail
+390	Agner Tail
+391	Honeybee Tie Up
+392	Spring Twin Tie
+393	Pointy Nose Face
+394	Cute Face
+395	Serious Face
+396	Pointy Nose Face
+397	Cute Face
+398	Serious Face
+399	여자이언트 임시1
+400	여자이언트 임시2
+401	여자이언트 임시3
+402	여자이언트 임시4
+403	여자이언트 임시5
+404	Giant girl face
+405	Wild Tapered Hair Style
+407	Grassland Ponytail
+408	Short Layered Cut
+410	Whistle Hair Cut
+411	Natural Shape Cut
+421	Pixie Ponytail
+426	Freestyle Hair_Beard
+427	Freestyle Hair_Mustache
+428	Freestyle Hair_Small Beard
+430	Braided Look_Beard
+431	Braided Look_Mustache
+432	Braided Look_Small Beard
+433	Braided Look
+434	Layered Bob Hair Style
+435	Freestyle Hair
+436	Tecktonic Hair
+437	Short Emo Cut
+438	Short Faux Hawk_Chin Curtain
+439	Short Faux Hawk_Full Beard
+440	Short Faux Hawk_Goatee
+441	Short Faux Hawk
+442	Sweet Pigtails
+443	Straight Ponytail
+444	Wallflower Cut
+445	Hard Tail Wave_Beard
+446	Hard Tail Wave_Mustache
+447	Hard Tail Wave_Mini Beard
+448	Hard Tail Wave
+449	Guardian Army Hair
+450	Rococo Ponytail
+451	Hair Net Twin Pigtails
+452	Romantic Natural Wave
+453	Rococo Volume Hair
+454	유지 헤어
+455	홍염의 머리
+456	홍염
+458	작안
+465	2NE1 Dara
+466	2NE1 Bom
+467	2NE1 CL
+468	2NE1 Minzy
+469	소라토 헤어
+470	티리엘 헤어
+471	Shooting Star_Beard
+472	Shooting Star_Mustache
+473	Shooting Star_Mini Beard
+474	Shooting Star
+483	Freestyle Hair
+484	Freestyle Hair_Beard
+485	Kirine Look
+486	Krug
+487	Taunes
+488	Reus
+489	Barba
+490	Kirine
+491	Krug
+492	Barba
+493	Sella
+494	Squared Face
+495	Mature Face
+496	에드워드 헤어
+497	로이 무스탕 헤어
+498	마스 휴즈 헤어
+499	알렉스 루이 암스트롱 헤어
+500	윈리 록벨 헤어
+501	리자 호크아이 헤어
+502	이즈미 커티스 헤어
+503	마리아 로스 헤어
+504	오리비에 헤어
+505	Romeo's Hair
+506	Juliet's Hair
+507	Black
+508	Tybalt's Hair
+509	Paris's Hair
+510	Laurence's Hair
+511	Mad Paris's Hair
+512	Keith Hair
+513	Hans Hair
+514	Cliona Hair
+515	Lileas Hair
+519	Straight Bob Cut
+520	Apple Long Hair
+521	Palm Tree Ponytail
+522	Bang Up Style
+523	Swept Cut
+524	Mid-Length Pullback
+525	Swept Cut_Beard
+526	Swept Cut_Mustache
+527	Swept Cut_Mini Beard
+528	Swept Cut
+529	Mid-Length Pullback_Beard
+530	Mid-Length Pullback_Mustache
+531	Mid-Length Pullback_Mini-Beard
+532	Mid-Length Pullback
+533	Semi-Natural Bun
+534	Cute Front Braid
+535	Semi-Natural Bun
+536	Cute Front Braid
+537	Stroke Cut
+538	Shaggy Perm
+539	라이트 그레이
+540	미스릴 화이트
+541	세라핌 화이트
+542	핫핑크
+543	야도미 헤어 스타일
+544	유키아츠 헤어 스타일
+545	폿포 헤어 스타일
+546	아나루 헤어 스타일
+547	멘마 헤어 스타일
+548	츠루코 헤어 스타일
+549	초콜렛 브라운
+550	로지 브라운
+556	데제르툼
+557	라모아홍
+558	데제르툼
+559	Pale
+560	미들그레이
+562	에드워드 헤어
+563	마스 휴즈 헤어
+564	오리비에 헤어
+565	리자 호크아이 헤어
+566	로이 머스탱 헤어
+567	윈리 록벨 헤어
+568	마리아 로스 헤어
+569	로이 머스탱 헤어
+570	Unbalanced Updo
+571	Unbalanced Updo
+572	Braids
+573	Braids
+574	Gentle Layers
+575	Banged Bob
+576	Gentle Layers
+577	Banged Bob
+578	Unbalanced Short Ponytail
+579	Unbalanced Medium Ponytail
+580	Unbalanced Long Ponytail
+581	Unbalanced Short Ponytail
+582	Unbalanced Medium Ponytail
+583	Unbalanced Long Ponytail
+584	Straight Bangs
+585	Long Twin Tails
+586	Straight Bangs
+587	Long Twin Tails
+588	Soft Wolf Cut
+589	Dandy Layered Cut
+590	Soft Wolf Cut
+591	Dandy Layered Cut
+592	Medium Bangs
+593	Medium Bangs
+594	Kagamine Len Hair
+595	Kaito Hair
+596	Kagamine Len Hair
+597	Kagamine Len Hair_Mustache
+598	Kagamine Len Hair_Mini Beard
+599	Kagamine Len Hair_Beard
+600	Kaito Hair
+601	Kaito Hair_Mustache
+602	Kaito Hair_Mini Beard
+603	Kaito Hair_Beard
+604	Hatsune Miku Hair
+605	Kagamine Rin Hair
+606	Hatsune Miku Hair
+607	Kagamine Rin Hair
+608	Turkish Blue
+609	Sapphire-blue
+610	Cute Glenis Hair
+611	Voluminous Cut
+612	Huge Shaggy Hair
+613	Voluminous Cut
+614	Huge Shaggy Hair
+616	Huge Shaggy Hair
+617	Gentle Layers_Beard
+618	Gentle Layers_Mustache
+619	Gentle Layers_Mini Beard
+620	Soft Wolf Cut_Mini Beard
+621	Soft Wolf Cut_Mustache
+622	Soft Wolf Cut_Mini Beard
+623	Dandy Layered Cut_Beard
+624	Dandy Layered Cut_Mustache
+625	Dandy Layered Cut_Mini Beard
+626	Voluminous Cut_Beard
+627	Voluminous Cut_Mustache
+628	Voluminous Cut_Mini Beard
+629	Huge Shaggy Hair_Beard
+630	Huge Shaggy Hair_Mustache
+631	Huge Shaggy Hair_Mini Beard
+632	Graceful Disco Hair
+633	Natural Side-Braided Hair
+634	Huge Shaggy Hair
+635	Graceful Disco Hair
+636	Natural Side-Braided Hair
+637	Soft Wolf Cut_Beard
+638	Light-gray
+639	Mythril White
+640	Seraphim White
+642	2NE1 Dara
+643	Kirito Hair
+644	Kirito Hair_Beard
+645	Kirito Hair_Mustache
+646	Kirito Hair_Mini Beard
+647	Kirito Hair
+648	Asuna Hair
+649	Asuna Hair
+650	Ice Blue
+651	Black
+652	터키블루
+653	사파이어블루
+654	Cheek Beauty Mark Face
+655	Nose Beauty Mark Face
+656	Mouth Beauty Mark Face
+657	Pale Blush Face
+658	Dark Blush Face
+659	Cartoony Blush Face
+660	Small Freckled Face
+661	Wide Freckled Face
+662	Freckled Nose Face
+663	Scarred Mouth Face
+664	Scarred Eye Face
+665	Scarred Chin Face
+666	Scarred Forehead Face
+667	Scarred Nose Face
+668	Slender Face
+669	Short Tattoo Eye Face
+670	Long Tattoo Eye Face
+671	Bearded Face
+672	Round Bearded Face
+673	Mustache Face
+674	Stubble Face
+675	Cheek Beauty Mark Face
+676	Nose Beauty Mark Face
+677	Mouth Beauty Mark Face
+678	Pale Blush Face
+679	Dark Blush Face
+680	Cartoony Blush Face
+681	Small Freckled Face
+682	Wide Freckled Face
+683	Freckled Nose Face
+684	Scarred Mouth Face
+685	Scarred Eye Face
+686	Scarred Chin Face
+687	Scarred Forehead Face
+688	Scarred Nose Face
+689	Slender Face
+690	Short Tattoo Eye Face
+691	Long Tattoo Eye Face
+692	Bearded Face
+693	Round Bearded Face
+694	Mustache Face
+695	Stubble Face
+696	Cheek Beauty Mark Face
+697	Nose Beauty Mark Face
+698	Mouth Beauty Mark Face
+699	Pale Blush Face
+700	Dark Blush Face
+701	Cartoony Blush Face
+702	Small Freckled Face
+703	Wide Freckled Face
+704	Freckled Nose Face
+705	Scarred Mouth Face
+706	Scarred Eye Face
+707	Scarred Chin Face
+708	Scarred Forehead Face
+709	Scarred Nose Face
+710	Slender Face
+711	Short Tattoo Eye Face
+712	Long Tattoo Eye Face
+713	Bearded Face
+714	Round Bearded Face
+715	Mustache Face
+716	Stubble Face
+717	Cheek Beauty Mark Face
+718	Nose Beauty Mark Face
+719	Mouth Beauty Mark Face
+720	Pale Blush Face
+721	Dark Blush Face
+722	Cartoony Blush Face
+723	Small Freckled Face
+724	Wide Freckled Face
+725	Freckled Nose Face
+726	Scarred Mouth Face
+727	Scarred Eye Face
+728	Scarred Chin Face
+729	Scarred Forehead Face
+730	Scarred Nose Face
+731	Slender Face
+732	Short Tattoo Eye Face
+733	Long Tattoo Eye Face
+734	Cheek Beauty Mark Face
+735	Nose Beauty Mark Face
+736	Mouth Beauty Mark Face
+737	Pale Blush Face
+738	Dark Blush Face
+739	Cartoony Blush Face
+740	Small Freckled Face
+741	Wide Freckled Face
+742	Freckled Nose Face
+743	Scarred Mouth Face
+744	Scarred Eye Face
+745	Scarred Chin Face
+746	Scarred Forehead Face
+747	Scarred Nose Face
+748	Slender Face
+749	Short Tattoo Eye Face
+750	Long Tattoo Eye Face
+751	Cheek Beauty Mark Face
+752	Nose Beauty Mark Face
+753	Mouth Beauty Mark Face
+754	Pale Blush Face
+755	Dark Blush Face
+756	Cartoony Blush Face
+757	Small Freckled Face
+758	Wide Freckled Face
+759	Freckled Nose Face
+760	Scarred Mouth Face
+761	Scarred Eye Face
+762	Scarred Chin Face
+763	Scarred Forehead Face
+764	Scarred Nose Face
+765	Slender Face
+766	Short Tattoo Eye Face
+767	Long Tattoo Eye Face
+768	Freckled Nose Face
+769	Freckled Nose Face
+770	Freckled Nose Face
+771	Freckled Nose Face
+772	Freckled Nose Face
+773	Freckled Nose Face
+816	Maike Hair
+817	Romeo Hair
+818	Hamlet Hair
+819	Laertes Hair
+820	Half Updo Hair
+821	Two Block Style
+822	Sporty Cut
+823	Long Sideburns
+824	Straight Medium Cut
+828	Halloween Frankenstein Hair
+829	Millia Hair
+830	Dowra Hair
+831	Cessair's Heart Hair
+832	Starlet Hair
+833	Girl Hair
+834	Macha Hair
+835	Mysterious Girl Hair
+836	Ophelia Hair
+837	Sinead Hair
+838	Medium Sideburns
+839	Short Wavy Perm
+840	Boyish Hair Cut
+842	Wavelet Twin Tail
+843	Girlish Twin Tail
+844	Shooting Star Face
+845	Shooting Star Face
+846	Shooting Star Face
+847	Shooting Star Face
+848	Shooting Star Face
+849	Shooting Star Face
+850	Soft Perm
+851	Tybalt Hair
+852	Paris Hair
+853	Mad Paris Hair
+854	Berched Hair
+855	Glewyas Hair
+856	Altam Hair
+857	Mushroom Hair
+858	Warrior Hair
+859	Ribbon Hair
+861	Laighlinne Hair
+862	Meryl Hair
+864	Dark Red
+865	Camine Orange
+867	Snow White
+868	Laighlinne Face
+872	Preppy Hair
+873	Wave Twin Tail
+874	Spiky Bangs
+875	Noble Hair
+876	Active Hair
+877	Odran Hair
+878	Ninja Hagi Hair
+879	Refined Medium Hair
+880	Shaman Hair
+881	Ronin Hair
+882	Shylock Hair
+883	Sporty Layered Hair
+884	Count Cookie Hair
+885	Urban Hair
+886	Avelin Hair
+887	Caswyn Hair
+888	Meryl Hair
+889	Elegant Hair
+890	Romantic Half Updo
+891	Long Wavy Ponytail
+892	Annick Hair
+893	Portia Hair
+894	Neat Half Ponytail
+895	Cross Empire Hair
+896	Kusina Hair
+897	Pierrot Hair
+898	Scathach Hair
+899	Macaron Mistress Hair
+900	Urban Hair
+901	Avelin Hair
+902	Caswyn Hair
+903	Meryl Hair
+904	William Hair
+905	William Face
+906	Shyam-black
+907	Gold
+908	Peach Yogurt
+909	True Eweca
+910	Dark Magenta
+911	Dark Green
+912	Papaya
+913	Yogurt
+914	Canary Lime
+915	Blue Violet
+916	Midnight Blue
+917	Pastel Orange
+918	Wilted Mint
+919	Gray Skies
+920	Faded Purple
+921	Light Salmon
+922	Indigo
+923	Carmine Red
+924	Steel Blue
+925	Dark Olive Green
+926	Dark Khaki
+927	Dark Rouge
+928	Tomato Red
+929	Tan
+930	Banana
+931	Blue-green
+932	Deep Red
+933	Pale Violet Red
+934	Blue Steel
+935	Light Cyan
+936	Rem Hair
+937	Ram Hair
+940	다크마룬
+941	모카신
+942	골든로드
+943	올리브드래브
+944	다크레드
+945	그레이네이비
+946	미드나잇블루
+947	핑크
+948	미디엄퍼플
+949	화이트스모크
+950	Sideswept Pompadour
+951	Soft Blowy Waves
+952	King of Death Mortello Hair
+953	Afternoon Tea Hair
+954	Samba Festival Hair
+955	Bright Student Hair
+956	Patissier Hair
+957	Retro Waves
+958	Fringed Bob
+959	Spiral-tip Twin Tails
+960	Afternoon Tea Hair
+961	Winter Queen Argenta Hair
+962	Festia Merchant Hair
+963	Brilluen Hair
+964	Enchanted Bride Hair
+965	Cute Blush Face
+966	Pointy Freckled Face
+967	Droopy Ears Blush Face
+968	Small Ears Freckled Face
+969	Squared Blush Face
+970	Squared Nose Face
+971	Cute Blush Face
+972	Pointy Freckled Face
+973	Droopy Ears Blush Face
+974	Small Ears Freckled Face
+975	Serious Blush Face
+976	Serious Freckled Face
+977	Salmon
+978	Green-yellow
+979	Teal
+980	Plum
+981	Crimson
+982	Aquamarine
+983	Bisque
+984	Yellow
+985	Burnt Wood
+986	Purple Dusk
+987	Bright Green
+988	Dusky Pink
+989	Honey Gold
+990	Slate-gray
+991	Dark Orange
+992	Cornflower-blue
+993	Dark Blue
+994	Slate-blue
+995	Seashore Sand
+996	Chamois
+997	Choppy Pompadour
+998	커피색
+999	흙빛
+1000	구릿빛
+1001	적갈색
+1002	암갈색
+1003	Peaceful Wavy Hair
+1004	Cosmic Princess Hair
+1005	Fledgling Assassin Hair
+1006	Summer Vacation Hair
+1007	Tussled Medium Cut Hair
+1008	Cosmic Prince Hair
+1009	Talvish Hair
+1010	Expert Assassin Hair
+1011	Side Braid Hair
+1012	Eiren Hair
+1013	Rosy Bun Hair
+1014	Starry Cheeked Face
+1015	Moony Cheeked Face
+1016	Mischief Face
+1017	Starry Cheeked Face
+1018	Moony Cheeked Face
+1019	Starry Cheeked Face
+1020	Moony Cheeked Face
+1021	Starry Cheeked Face
+1022	Moony Cheeked Face
+1023	Doleful Face
+1024	Serene Face
+1025	Somber Face
+1026	Starry Cheeked Face
+1027	Moony Cheeked Face
+1028	Starry Cheeked Face
+1029	Moony Cheeked Face
+1030	Elven Hair
+1031	High Tail It Outta Hair
+1032	High Tail It Outta Hair
+1033	Buntails Hair
+1034	Hot-pink
+1035	Deep-blue
+1037	Imperial-yellow
+1039	Gray-violet
+1040	Chocolate
+1041	Goldspun
+1042	Silver Blonde
+1043	Vales Dusky
+1044	Vales Dawn
+1045	Iberian Red
+1046	Coral
+1047	Ashy
+1048	Riding Red
+1049	Straw Yellow
+1050	Rem and Ram Face
+1051	Two Block Swallow Perm Hair
+1052	Trim Shadow Cut Hair
+1053	Blind Trim Hair
+1054	Two Block Pomade Hair
+1055	Steampunk Inventor Hair
+1056	Divine Demigod Hair
+1057	Baby Volume Perm Hair
+1058	Natural Dread Half Up Style Hair
+1059	Natural Updo Hair
+1060	Graceful Long Wave Hair
+1061	Trim Sideburn Hair
+1062	See-Through Cute Trim Hair
+1063	Natural Long Hair
+1064	Steampunk Inventress Hair
+1065	Private Academy Low Bun Hair
+1066	Divine Demigod Hair
+1067	Baby Volume Perm Hair
+1068	Natural Dread Half Up Style Hair
+1069	Natural Updo Hair
+1070	Pointy Blush Face
+1071	Pointy Beauty Mark Face
+1072	Pointy Oval Blush Face
+1073	Pointy Bandaged Face
+1074	Cute Beauty Mark Face
+1075	Cute Oval Blush Face
+1076	Cute Bandaged Face
+1077	Serious Blush Face
+1078	Serious Beauty Mark Face
+1079	Serious Oval Blush Face
+1080	Serious Bandaged Face
+1081	Droopy Ears Beauty Mark Face
+1082	Droopy Ears Oval Blush Face
+1083	Droopy Ears Bandaged Face
+1084	Petite Ears Blush Face
+1085	Petite Ears Beauty Mark Face
+1086	Petite Ears Oval Blush Face
+1087	Petite Ears Bandaged Face
+1088	Oval Blush Face
+1089	Bandaged Face
+1090	Pointy Blush Face
+1091	Pointy Beauty Mark Face
+1092	Pointy Oval Blush Face
+1093	Pointy Bandaged Face
+1094	Cute Beauty Mark Face
+1095	Cute Oval Blush Face
+1096	Cute Bandaged Face
+1097	Mature Blush Face
+1098	Mature Beauty Mark Face
+1099	Mature Oval Blush Face
+1100	Mature Bandaged Face
+1101	Droopy Ears Beauty Mark Face
+1102	Droopy Ears Oval Blush Face
+1103	Droopy Ears Bandaged Face
+1104	Petite Ears Blush Face
+1105	Petite Ears Beauty Mark Face
+1106	Petite Ears Oval Blush Face
+1107	Petite Ears Bandaged Face
+1108	Oval Blush Face
+1109	Bandaged Face
+1119	카카오
+1120	페일오렌지
+1121	소프트오렌지
+1122	딥다크레드
+1123	소프트블루
+1124	소프트핑크
+1125	더스크그레이
+1126	실버그레이
+1127	다크샌디
+1128	다크그레이퍼플
+1129	홍염
+1130	작안
+1131	Overdrive Dandy Cut Hair
+1132	Pudgy-Soft Perm Hair
+1133	Wild Hunter Hair
+1134	Northerner Slick Long Hair
+1135	Fancy Side Tail Hair
+1136	Abaddon Sovereign Hair
+1137	Cethlenn Hair
+1138	Vayne Hair
+1139	Arcana Side Tail Hair
+1140	Velvet Bob Cut Hair
+1141	Sparky Twin Tail Long Hair
+1142	Mystic Shadow Long Hair
+1143	Lavish Half Updo Hair
+1144	Sweet Childhood Short Hair
+1145	Chic Styled Hair
+1146	New Year Urban Classic Hair
+1147	Cethlenn Hair
+1148	Vayne Hair
+1149	Cute Pointed Henna Face
+1150	Mischief Bandaged Nose Face
+1151	Mischief Pointed Henna Face
+1152	Droopy Ears Bandaged Nose Face
+1153	Small Ears Bandaged Nose Face
+1154	Droopy Ears Pointed Henna Face
+1155	Small Ears Pointed Henna Face
+1156	Bandaged Nose Face
+1157	Pointed Henna Face
+1158	Mature Pointed Henna Face
+1159	Doleful Pointed Henna Face
+1160	Serene Bandaged Nose Face
+1161	Somber Bandaged Nose Face
+1162	Droopy Ears Bandaged Nose Face
+1163	Small Ears Bandaged Nose Face
+1164	Droopy Ears Pointed Henna Face
+1165	Small Ears Pointed Henna Face
+1166	Bandaged Nose Face
+1167	Pointed Henna Face
+1168	Neon Blue
+1169	Neon Red
+1170	Neon Green

@@ -1,0 +1,224 @@
+﻿4	Special Soldier's Combat Gear (M)
+5	Special Soldier's Combat Gear (F)
+6	Special Mercenary's Combat Gear (M)
+7	Special Mercenary's Combat Gear (F)
+8	Soldier's Combat Gear (M)
+9	Soldier's Combat Gear (F)
+10	Mercenary's Combat Gear (M)
+11	Mercenary's Combat Gear (F)
+12	Soldier's Combat Gloves (M)
+13	Soldier's Combat Boots (M)
+14	Soldier's Combat Boots (F)
+15	The combat gear of a soldier who's gone through life-or-death situations on the battlefield. The heavy-looking equipment reflect the soldier's valor. Wearing this outfit allows you to strike a special motion.
+16	The combat gear of a soldier who's gone through life-or-death situations on the battlefield. The heavy-looking equipment reflect the soldier's valor. Wearing this outfit allows you to strike a special motion.
+17	The combat gear of a mercenary who's gone through life-or-death situations on the battlefield. The brusque-looking equipment reflect the mercenary's agility. \nWearing this outfit allows you to strike a special motion.
+18	The combat gear of a mercenary who's gone through life-or-death situations on the battlefield. The brusque-looking equipment reflect the mercenary's agility. \nWearing this outfit allows you to strike a special motion.
+19	The combat gear of a soldier who's gone through life-or-death situations on the battlefield. The heavy-looking equipment reflect the soldier's valor. 
+20	The combat gear of a soldier who's gone through life-or-death situations on the battlefield. The heavy-looking equipment reflect the soldier's valor.
+21	The combat gear of a mercenary who's gone through life-or-death situations on the battlefield. The brusque-looking equipment reflect the mercenary's agility.
+22	The combat gear of a mercenary who's gone through life-or-death situations on the battlefield. The brusque-looking equipment reflect the mercenary's agility.
+23	A pair of combat gloves designed to prevent mistakes on the battlefield. You might be able to handle your weapons with a tiny bit more efficiency if you wear these.
+24	A pair of combat boots that protect your feet on the harsh terrain of the battlefield. Despite how heavy they look, they are lightweight and practical.
+25	A pair of combat boots that protect your feet on the harsh terrain of the battlefield. Despite how heavy they look, they are lightweight and practical.
+26	Soldier's Helmet with Light
+27	Soldier's Short-Haired Wig (M)
+28	Soldier's Soldier-Haired Wig (F)
+29	A solid helmet with a light attached. It looks more than capable of efficiently blocking enemy attacks.
+30	A short-haired wig specialized for combat. It exudes toughness and tenacity.
+31	A short-haired wig specialized for combat. It exudes toughness and tenacity.
+32	Special Crow Feather Suit (M)
+33	Special Crow Feather Dress (F)
+34	Crow Feather Suit (M)
+35	Crow Feather Dress (F)
+36	An outfit as mysterious as the night sky. It features sparkling gems and soft feathers. Wearing this outfit allows you to strike a special pose.
+37	An outfit as mysterious as the night sky. It features sparkling gems and soft feathers. Wearing this outfit allows you to strike a special pose.
+38	An outfit as mysterious as the night sky. It features sparkling gems and soft feathers.
+39	An outfit as mysterious as the night sky. It features sparkling gems and soft feathers.
+40	Crow Feather Wig (M)
+41	Crow Feather Wig and Headband (M)
+42	Crow Feather Wig (F)
+43	Crow Feather Wig and Headband (F)
+44	Crow Feather Gloves (M)
+45	Crow Feather Gloves (F)
+46	Crow Feather Boots (M)
+47	Crow Feather Boots (F)
+48	A wig featuring long hair that's braided in back.
+49	A wig featuring long hair that's braided in back. It's ornamented with a feather headband.
+50	A wig featuring long hair that's braided in back.
+51	A wig featuring long hair that's braided in back. It's ornamented with a feather headband.
+52	Gloves made of light and soft material. A ring adorns one of the fingers.
+53	Gloves made of light and soft material. A ring adorns one of the fingers, and a feather ornament adds the finishing touch.
+54	Boots that match the Crow Feather Suit. They're ornamented with gems and feathers.
+55	Boots that match the Crow Feather Dress. They're ornamented with gems and feathers.
+56	레트로 모자
+57	레트로 장갑
+58	도트 그래픽이 돋보이는 모자. 착용하면 레트로 감성을 느낄 수 있다.
+59	도트 그래픽이 돋보이는 장갑. 착용하면 레트로 감성을 느낄 수 있다.
+62	Soldier's Combat Gloves (F)
+63	A pair of combat gloves designed to prevent mistakes on the battlefield. You might be able to handle your weapons with a tiny bit more efficiency if you wear these.
+64	Secret Garden Wig (M)
+65	Secret Garden Wig and Hairpiece (M)
+66	Secret Garden Wig (F)
+67	Secret Garden Wig and Hairpiece (F)
+68	Special Secret Garden Outfit (M)
+69	Special Secret Garden Dress (F)
+70	Secret Garden Outfit (M)
+71	Secret Garden Dress (F)
+72	Secret Garden Shoes (M)
+73	Secret Garden Shoes (F)
+74	A wig that goes well with the boy who wandered into the Secret Garden. It gives off a carefree vibe but is still quite elegant and graceful.
+75	A wig that goes well with the boy who wandered into the Secret Garden. It gives off a carefree vibe but is still quite elegant and graceful. The floral ornament adds a nice a touch.
+76	A wig that goes well with the girl who wandered into the Secret Garden. The way the wavy hair falls so softly is quite elegant.
+77	A wig that goes well with the girl who wandered into the Secret Garden. The way the wavy hair falls so softly and the pretty flower band are quite elegant.
+78	An outfit for the boy who wandered into the Secret Garden. This outfit has both refined elegance and vintage appeal. Wearing this outfit allows you to strike a special pose. It also produces a special effect if worn in a party with someone else who's also wearing a Secret Garden Dress or Outfit.
+79	An outfit for the girl who wandered into the Secret Garden. This outfit has both refined elegance and vintage appeal. Wearing this outfit allows you to strike a special pose. It also produces a special effect if worn in a party with someone else who's also wearing a Secret Garden Dress or Outfit.
+80	An outfit for the boy who wandered into the Secret Garden. This outfit has both refined elegance and vintage appeal. Wearing this outfit produces a special effect if worn in a party with someone else who's also wearing a Secret Garden Dress or Outfit.
+81	An outfit for the girl who wandered into the Secret Garden. This outfit has both refined elegance and vintage appeal. Wearing this outfit produces a special effect if worn in a party with someone else who's also wearing a Secret Garden Dress or Outfit.
+82	Classy shoes that are surprisingly comfy. The gilded design adds a mysterious touch.
+83	The green straps and white lace gives this shoe a refreshing feel. The green design on the side of the heel adds a mysterious touch.
+133	Special Tidy Marine Wear (M)
+134	Special Tidy Marine One Piece (F)
+135	Special Breezy Marine Wear (M)
+136	Special Breezy Marine One Piece (F)
+137	Special Natural Marine Wear (M)
+138	Special Natural Marine One Piece (F)
+139	A boys' outfit whose long sleeves and clean kneesocks give the ensemble a neat look. The sailor's collar completes the ocean-themed look. Wearing this outfit allows you to strike a special pose.
+140	A girls' outfit whose long sleeves and clean kneesocks give the ensemble a neat look. The sailor's collar completes the ocean-themed look. Wearing this outfit allows you to strike a special pose.
+141	A boys' outfit whose short sleeves give off a carefree vibe. The sailor's collar completes the ocean-themed look. Wearing this outfit allows you to strike a special pose.
+142	A girls' outfit whose short sleeves give off a carefree vibe. The sailor's collar completes the ocean-themed look. Wearing this outfit allows you to strike a special pose.
+143	A boys' outfit whose stylistic flourishes have been removed, lending it an easygoing, natural vibe. The sailor's collar completes the ocean-themed look. Wearing this outfit allows you to strike a special pose.
+144	A girls' outfit whose stylistic flourishes have been removed, lending it an easygoing, natural vibe. The sailor's collar completes the ocean-themed look. Wearing this outfit allows you to strike a special pose.
+145	Tidy Marine Wear (M)
+146	Tidy Marine One Piece (F)
+147	Breezy Marine Wear (M)
+148	Breezy Marine One Piece (F)
+149	Natural Marine Wear (M)
+150	Natural Marine One Piece (F)
+151	Marine Slip-ons (M)
+152	Marine Sandals (F)
+153	A boys' outfit whose long sleeves and clean kneesocks give the ensemble a neat look. The sailor's collar completes the ocean-themed look. 
+154	A girls' outfit whose long sleeves and clean kneesocks give the ensemble a neat look. The sailor's collar completes the ocean-themed look. 
+155	A boys' outfit whose short sleeves give off a carefree vibe. The sailor's collar completes the ocean-themed look.
+156	A girls' outfit whose short sleeves give off a carefree vibe. The sailor's collar completes the ocean-themed look. 
+157	A boys' outfit whose stylistic flourishes have been removed, lending it an easygoing, natural vibe. The sailor's collar completes the ocean-themed look.
+158	A girls' outfit whose stylistic flourishes have been removed, lending it an easygoing, natural vibe. The sailor's collar completes the ocean-themed look.
+159	A pair of slip-ons that accentuates any ocean-themed ensemble. As the name suggests, they're very comfy to wear. The thick soles give you the sensation of being slightly taller.
+160	A pair of sandals that accentuates any ocean-themed ensemble. Their stylistic flourishes give off a sense of running across the soft sands at the beach. The thick soles give you the sensation of being slightly taller.
+167	Left Ribbon Chinchilla Headdress
+168	Right Ribbon Chinchilla Headdress
+169	Marine Style Wig (M)
+170	Marine Style Wig (F)
+171	A headband with a ribbon attached on the left side. It has pointy ears that look just like those of a chinchilla.
+172	A headband with a ribbon attached on the right side. It has pointy ears that look just like those of a chinchilla.
+173	A neatly trimmed shoulder-length wig. The eyebrows visible through the bangs adds a charming touch.
+174	A neatly trimmed long wig. The eyebrows visible through the bangs adds a charming touch.
+175	Cute Date Balloon Headband (M)
+176	Cute Date Balloon Headband (F)
+177	Cute Date Wig (M)
+178	Cute Date Wig and Hairpiece (M)
+179	Cute Date Wig (F)
+180	Cute Date Wig and Hairpiece (F)
+181	Cute Date Wear (M)
+182	Cute Date Wear (F)
+183	Cute Date Slip-ons (M)
+184	Cute Date Shoes (F)
+185	A balloon headband often seen worn by couples on dates at amusement parks.
+186	A balloon headband often seen worn by couples on dates at amusement parks.
+187	A wig carefully styled with an earnest heart and attention to detail.
+188	A wig carefully styled with an earnest heart and decorated with a balloon headband.
+189	A wig carefully styled with an earnest heart, featuring a pigtail curled up carefully into a ball.
+190	A wig carefully styled with an earnest heart, featuring a pigtail curled up carefully into a ball and decorated with a balloon headband.
+191	An outfit carefully chosen to help guarantee an exciting date. The sling bag adds a nice stylish touch.
+192	An outfit carefully chosen to help guarantee an exciting date. The cute bag adds a nice stylish touch.
+193	A pair of slip-ons that strikes the perfect balance between cute and dandy.
+194	A pair of shoes sure to amplify your inherent cuteness. The heels make you feel slightly taller.
+195	스팀 엔지니어 가발과 모자(여성용)
+196	스팀 엔지니어 가발과 안경(남성용)
+197	스팀 엔지니어 가발(여성용)
+198	스팀 엔지니어 가발(남성용)
+199	스페셜 스팀 엔지니어 웨어(남성용)
+200	스페셜 스팀 엔지니어 웨어(여성용)
+201	스팀 엔지니어 웨어(남성용)
+202	스팀 엔지니어 웨어(여성용)
+203	스팀 엔지니어 장갑(남성용)
+204	스팀 엔지니어 장갑(여성용)
+205	스팀 엔지니어 구두(남성용)
+206	스팀 엔지니어 하이힐(여성용)
+207	여러가지 기능을 갖춘 고글이 달린 모자가 달린 단발 가발. 눈썹을 가리는 앞머리와 턱 밑까지 내려온 길이의 가발이다.
+208	여러가지 기능을 갖춘 안경이 달린 가발. 헝크러진듯한 웨이브가 특징인 가발이다.
+209	눈썹을 가리는 앞머리와 턱 밑까지 내려온 길이의 단발 가발. 무심하게 신경 쓰지 않은 듯한 스타일의 가발이다.
+210	헝크러진듯한 웨이브가 특징인 가발. 무심하게 신경 쓰지 않은 듯한 스타잍의 가발이다.
+211	거친 증기 기관을 다루는 기술자들이 입는 의상. 여러가지 기구를 수납할 수 있는 조끼와 가방 그리고 알 수 없는 기계장치들로 장식되어진 옷이다. 입으면 특별한 모션을 취할 수 있다.
+212	거친 증기 기관을 다루는 기술자들이 입는 의상. 여러가지 기구를 수납할 수 있는 조끼와 가방 그리고 알 수 없는 기계장치들로 장식되어진 옷이다. 입으면 특별한 모션을 취할 수 있다.
+213	거친 증기 기관을 다루는 기술자들이 입는 의상. 여러가지 기구를 수납할 수 있는 조끼와 가방 그리고 알 수 없는 기계장치들로 장식되어진 옷이다.
+214	거친 증기 기관을 다루는 기술자들이 입는 의상. 여러가지 기구를 수납할 수 있는 조끼와 가방 그리고 알 수 없는 기계장치들로 장식되어진 옷이다.
+215	거친 증기 기관을 다루는 기술자들이 착용하는 장갑. 튼튼한 가죽으로 제작되어 기술자들의 손을 보호해 준다.
+216	거친 증기 기관을 다루는 기술자들이 착용하는 장갑. 튼튼한 가죽으로 제작되어 기술자들의 손을 보호해 준다.
+217	스팀 엔지니어 웨어에 어울리는 가죽 구두. 특별한 무늬의 금속 장식이 돋보인다.
+218	스팀 엔지니어 웨어에 어울리는 하이힐. 특별한 무늬의 금속 장식이 돋보인다.
+279	스콜라 가발과 모자(여성용)
+280	스콜라 가발과 모자(남성용)
+281	스콜라 가발(여성용)
+282	스콜라 가발(남성용)
+283	스페셜 스콜라 웨어 롱타입(남성용)
+284	스페셜 스콜라 웨어 숏타입(남성용)
+285	스페셜 스콜라 웨어 롱타입(여성용)
+286	스페셜 스콜라 웨어 숏타입(여성용)
+287	스콜라 웨어 롱타입(남성용)
+288	스콜라 웨어 숏타입(남성용)
+289	스콜라 웨어 롱타입(여성용)
+290	스콜라 웨어 숏타입(여성용)
+291	스콜라 코튼 글러브(남성용)
+292	스콜라 코튼 글러브(여성용)
+293	스콜라 롱 부츠(남성용)
+294	스콜라 롱 부츠(여성용)
+295	학자임을 알수 있게 하는 모자와 안경이 특징인 가발. 살며시 헝크러진 듯한 스타일의 머리가 특징이다.
+296	학자임을 알수 있게 하는 모자와 안경이 특징인 가발. 살며시 헝크러진 듯한 스타일의 머리가 특징이다.
+297	살며시 헝클어진 듯한 스타일의 가발. 장시간 관리하지 않은 듯 하면서도 자연스러운 분위기가 특징이다.
+298	살며시 헝클어진 듯한 스타일의 가발. 장시간 관리하지 않은 듯 하면서도 자연스러운 분위기가 특징이다.
+299	에린의 역사를 탐구하는 학자들이 입는 롱타입의 의상. 깃털팬 모양의 심볼이 역사를 탐구하는 학자임을 알 수 있게 해준다. 허리춤에 달린 두루마리와 책에는 에린의 기나긴 역사와 미래에 대한 내용들이 적혀있다. 입으면 특별한 모션을 취할 수 있다.
+300	에린의 역사를 탐구하는 학자들이 입는 숏타입의 의상. 깃털팬 모양의 심볼이 역사를 탐구하는 학자임을 알 수 있게 해준다. 허리춤에 달린 두루마리와 책에는 에린의 기나긴 역사와 미래에 대한 내용들이 적혀있다. 입으면 특별한 모션을 취할 수 있다.
+301	에린의 역사를 탐구하는 학자들이 입는 롱타입의 의상. 깃털팬 모양의 심볼이 역사를 탐구하는 학자임을 알 수 있게 해준다. 허리춤에 달린 책에는 에린의 기나긴 역사와 미래에 대한 내용들이 적혀있다. 입으면 특별한 모션을 취할 수 있다.
+302	에린의 역사를 탐구하는 학자들이 입는 숏타입의 의상. 깃털팬 모양의 심볼이 역사를 탐구하는 학자임을 알 수 있게 해준다. 허리춤에 달린 책에는 에린의 기나긴 역사와 미래에 대한 내용들이 적혀있다. 입으면 특별한 모션을 취할 수 있다.
+303	에린의 역사를 탐구하는 학자들이 입는 롱타입의 의상. 깃털팬 모양의 심볼이 역사를 탐구하는 학자임을 알 수 있게 해준다. 허리춤에 달린 두루마리와 책에는 에린의 기나긴 역사와 미래에 대한 내용들이 적혀있다.
+304	에린의 역사를 탐구하는 학자들이 입는 숏타입의 의상. 깃털팬 모양의 심볼이 역사를 탐구하는 학자임을 알 수 있게 해준다. 허리춤에 달린 두루마리와 책에는 에린의 기나긴 역사와 미래에 대한 내용들이 적혀있다.
+305	에린의 역사를 탐구하는 학자들이 입는 롱타입의 의상. 깃털팬 모양의 심볼이 역사를 탐구하는 학자임을 알 수 있게 해준다. 허리춤에 달린 책에는 에린의 기나긴 역사와 미래에 대한 내용들이 적혀있다.
+306	에린의 역사를 탐구하는 학자들이 입는 숏타입의 의상. 깃털팬 모양의 심볼이 역사를 탐구하는 학자임을 알 수 있게 해준다. 허리춤에 달린 책에는 에린의 기나긴 역사와 미래에 대한 내용들이 적혀있다.
+307	얇고 부드러운 면으로 만들어진 장갑. 역사학자의 장갑임을 나타내는 심볼이 그려져 있다.
+308	얇고 부드러운 면으로 만들어진 장갑. 역사학자의 장갑임을 나타내는 심볼이 그려져 있다.
+309	역사학자들이 신는 가죽으로 된 롱 부츠. 장시간 신고 있어도 불편함이 없도록 특별히 제작되었다.
+310	역사학자들이 신는 가죽으로 된 롱 부츠. 장시간 신고 있어도 불편함이 없도록 특별히 제작되었다.
+328	깊은 바다의 귀걸이(남성용)
+329	깊은 바다의 머리 장식(여성용)
+330	깊은 바다의 인어 가발(남성용)
+331	깊은 바다의 인어 가발과 귀걸이(남성용)
+332	깊은 바다의 인어 가발(여성용)
+333	깊은 바다의 인어 가발과 머리 장식(여성용)
+334	스페셜 깊은 바다의 인어 수트(남성용)
+335	스페셜 깊은 바다의 인어 드레스(여성용)
+336	깊은 바다의 인어 수트(남성용)
+337	깊은 바다의 인어 드레스(여성용)
+338	스페셜 얕은 바다의 인어 수트(남성용)
+339	스페셜 얕은 바다의 인어 드레스(여성용)
+340	얕은 바다의 인어 수트(남성용)
+341	얕은 바다의 인어 드레스(여성용)
+342	깊은 바다의 인어 장갑
+343	깊은 바다의 인어 샌들(남성용)
+344	깊은 바다의 인어 하이힐(여성용)
+345	깊은 바닷속에서 건져올린 귀걸이. 착용하면 신비로운 바다의 힘을 느낄 수 있다.
+346	깊은 바닷속에서 건져올린 머리 장식. 착용하면 신비로운 바다의 힘을 느낄 수 있다.
+347	깊은 바닷속 인어의 신비로운 힘이 느껴지는 가발. 아름다운 지느러미 장식들이 돋보인다.
+348	깊은 바닷속 인어의 신비로운 힘이 느껴지는 가발. 우아한 귀걸이로 특별함을 더했다. 아름다운 지느러미 장식들이 돋보인다.
+349	깊은 바닷속 인어의 신비로운 힘이 느껴지는 가발. 아름다운 지느러미 장식들이 돋보인다.
+350	깊은 바닷속 인어의 신비로운 힘이 느껴지는 가발. 우아한 머리 장식으로 특별함을 더했다. 아름다운 지느러미 장식들이 돋보인다.
+351	신비로운 바닷속 인어의 의상. 아름다운 지느러미 무늬의 장식들이 특징이다. 입으면 특별한 모션을 취할 수 있다.
+352	신비로운 바닷속 인어의 의상. 아름다운 지느러미 무늬의 장식들이 특징이다. 입으면 특별한 모션을 취할 수 있다.
+353	신비로운 바닷속 인어의 의상. 아름다운 지느러미 무늬의 장식들이 특징이다.
+354	신비로운 바닷속 인어의 의상. 아름다운 지느러미 무늬의 장식들이 특징이다.
+355	신비로운 바닷속 인어의 의상. 아름다운 지느러미 무늬의 장식들이 특징이다. 입으면 특별한 모션을 취할 수 있다.
+356	신비로운 바닷속 인어의 의상. 아름다운 지느러미 무늬의 장식들이 특징이다. 입으면 특별한 모션을 취할 수 있다.
+357	신비로운 바닷속 인어의 의상. 아름다운 지느러미 무늬의 장식들이 특징이다.
+358	신비로운 바닷속 인어의 의상. 아름다운 지느러미 무늬의 장식들이 특징이다.
+359	깊은 바다에서 발견된 인어의 장갑. 착용하면 신비로운 바다의 힘을 느낄 수 있다.
+360	깊은 바다에서 발견된 인어의 샌들. 착용하면 신비로운 바다의 힘을 느낄 수 있다.
+361	깊은 바다에서 발견된 인어의 하이힐. 착용하면 신비로운 바다의 힘을 느낄 수 있다.

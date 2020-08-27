@@ -1,0 +1,132 @@
+﻿1	Moon Gate: Tir Chonaill
+2	Moon Gate: Tir Chonaill - Ciar Dungeon
+3	Moon Gate: Tir Chonaill - Alby Dungeon
+4	Moon Gate: Dugald Aisle - Logging Camp
+5	Moon Gate: Dugald Aisle - Spiral Hill
+6	Moon Gate: Sidhe Sneachta
+7	Moon Gate: Dunbarton
+8	Moon Gate: Gairech Hills - Fiodh Dungeon
+9	Moon Gate: Gairech Hills - Dragon Ruins
+10	Moon Gate: Gairech Hills - Reighinalt
+11	Moon Gate: Bangor
+12	Moon Gate: Morva Aisle
+13	Moon Gate: Port Ceann
+14	Moon Gate: Sen Mag Plains
+15	Moon Gate: Sen Mag Plains - Peaca Dungeon
+16	Moon Gate: Abb Neagh
+17	Moon Gate: Abb Neagh - Bard Camp
+18	Moon Gate: Sliab Cuilin
+19	Moon Gate: Sliab Cuilin  - Stone Quarry
+20	Moon Gate: Emain Macha
+21	Moon Gate: Emain Macha - Western Gate
+22	Moon Gate: Emain Macha - Northern Gate
+23	Moon Gate: Emain Macha - Coill Dungeon
+24	Moon Gate: Taillteann
+25	Moon Gate: Taillteann - Eastern Gate
+26	Moon Gate: Taillteann - Southern Region
+27	Moon Gate: Taillteann - Farm
+28	Moon Gate: Taillteann - Druid's House
+29	Moon Gate: Taillteann - Western Region
+30	Moon Gate: Taillteann - Graveyard
+31	Moon Gate: Tara
+32	Moon Gate: Tara - Tara South
+33	Moon Gate: Tara - Jousting Arena
+34	Moon Gate: Tara - Rath Royal Castle
+35	Moon Gate: Blago Prairie - Eastern Prairie
+36	Moon Gate: Blago Prairie - Eluned Winery
+37	Moon Gate: Blago Prairie - Lezarro Winery
+38	Moon Gate: Ceo Island
+39	Moon Gate: Port Cobh - Lighthouse
+40	Moon Gate: Belvast - Mykeeness Cliffs
+41	Moon Gate: Belvast - Garden
+42	Moon Gate: Scathach Beach - Patrol Camp
+43	Moon Gate: Scathach Beach - Fishing Area
+44	Moon Gate: Scathach Beach - Black Beach
+45	Moon Gate: Scathach Beach - Springs
+46	Moon Gate: Scathach Beach - Witch's Cave
+47	Mana Tunnel: Port Qilla
+48	Mana Tunnel: Maiz Prairie - Northern Prairie
+49	Mana Tunnel: Maiz Prairie - Human Mark
+50	Mana Tunnel: Maiz Prairie - Northeastern Prairie
+51	Mana Tunnel: Nubes Mountains
+52	Mana Tunnel: Nubes Mountains - Underground Tunnel
+53	Mana Tunnel: Kaypi Canyon
+54	Mana Tunnel: Kaypi Canyon - Sun Mark
+55	Mana Tunnel: Muyu Desert - Dragon Bone Tomb
+56	Mana Tunnel: Muyu Desert - Bird Mark
+57	Mana Tunnel: Muyu Desert - Southern Desert
+58	Mana Tunnel: Muyu Desert - Lutra River
+59	Mana Tunnel: Karu Forest - Northern Forest
+60	Mana Tunnel: Karu Forest - Tree Mark
+61	Mana Tunnel: Karu Forest - Southern Forest
+62	Mana Tunnel: Karu Forest - Snake Mark
+63	Mana Tunnel: Karu Forest - Rano Beach Metallurgy Site
+64	Mana Tunnel: Nares Plateau - Riverside
+65	Mana Tunnel: Nares Plateau - Center
+66	Mana Tunnel: Metus Canyon
+67	Mana Tunnel: Rupes Desert - Central Region
+68	Mana Tunnel: Rupes Desert - Northern Region
+69	Mana Tunnel: Longa Desert - Northern Region
+70	Mana Tunnel: Longa Desert - Oasis
+71	Mana Tunnel: Longa Desert - Southern Region
+72	Mana Tunnel: Longa Desert - Fish Mark
+73	Mana Tunnel: Longa Desert - Eastern Region
+74	Mana Tunnel: Longa Desert - Sandworm Mark
+75	Mana Tunnel: Longa Desert - Connous Beach Metallurgy Site
+76	Mana Tunnel: Longa Desert - Shyllien Nature Reserve
+77	Mana Tunnel: Filia
+78	Mana Tunnel: Errans Gorge
+79	Mana Tunnel: Errans Gorge - Western Region
+80	Mana Tunnel: La Terra Highlands
+81	Mana Tunnel: La Terra Highlands - Northern Region
+82	Mana Tunnel: La Terra Highlands - Central Region
+83	Mana Tunnel: Herba Jungle - Tree Mark
+84	Mana Tunnel: Herba Jungle - Western Region
+85	Mana Tunnel: Herba Jungle - Central Region
+86	Mana Tunnel: Herba Jungle - Eastern Region
+87	Mana Tunnel: Cor Village
+88	Mana Tunnel: Cor Village - Cor Beach Metallurgy Site
+89	Mana Tunnel: Cenae Meadows
+90	Mana Tunnel: Cenae Meadows - Eastern Region
+91	Mana Tunnel: Cenae Meadows - Central Region
+92	Mana Tunnel: Cenae Meadows - Southern Region
+93	Mana Tunnel: Pantay Swamp - Eastern Region
+94	Mana Tunnel: Pantay Swamp - Courcle Southern Region
+95	Mana Tunnel: Pantay Swamp - Southern Region
+96	Mana Tunnel: Pantay Swamp - Raft
+97	Mana Tunnel: Pantay Swamp - Western Region
+98	Mana Tunnel: Lappa - Collapsed Mana Tunnel
+99	Mana Tunnel: Lappa - La Terra Dock
+100	Mana Tunnel: Erkey Falls - Dragon Mark
+101	Mana Tunnel: Erkey Falls - Collapsed Mana Tunnel
+102	Mana Tunnel: Sella Beach - Underground Tunnel
+103	Mana Tunnel: Sella Beach - Coast
+104	Mana Tunnel: Sella Beach - Beach Cliff
+105	Mana Tunnel: Sella Beach - Whirlpool Mark
+106	Mana Tunnel: Silva Forest
+107	Mana Tunnel: Silva Forest - Southern Region
+108	Mana Tunnel: Vales
+109	Mana Tunnel: Vales - Hillwen Mine
+110	Mana Tunnel: Vales - Par Ruins
+111	Mana Tunnel: Reus River
+112	Mana Tunnel: Barba Basin
+113	Mana Tunnel: Barba Basin - Flightless Bird Mark
+114	Mana Tunnel: Lunae Valley
+115	Mana Tunnel: Lunae Valley  - Southern Region
+116	Mana Tunnel: Lunae Valley  - Southern Physis
+117	Mana Tunnel: Lake Calida
+118	Mana Tunnel: Lake Calida - Calida
+119	Mana Tunnel: Lake Calida - Eastern Zardine
+120	Mana Tunnel: Zardine Bridge
+121	Mana Tunnel: Hot Springs
+122	Mana Tunnel: Raspa Volcano - Sulfur Ore Region
+123	Mana Tunnel: Raspa Volcano
+124	Mana Tunnel: Pera Volcano
+125	Mana Tunnel: Pera Volcano - Volcano Valley
+126	Mana Tunnel: Pera Volcano - Eastern Side
+127	Mana Tunnel: Pera Volcano - Flint Region
+128	Mana Tunnel: Pera Volcano - Zardine Beach
+129	Mana Tunnel: Renes
+130	Moonlight Traveler Book
+131	Warp
+132	Close

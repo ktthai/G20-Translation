@@ -1,0 +1,88 @@
+﻿13	Simple Chair
+14	Simple Chair
+15	Barbecue Grill
+16	Tent
+17	Hammock
+18	Simple Chair
+19	Telescope
+20	Sleeping Bag
+21	Sleeping Bag 1
+22	Sleeping Bag 2
+23	Sleeping Bag 3
+24	Sleeping Bag 4
+25	Sleeping Bag 5
+26	Sleeping Bag 6
+27	Sleeping Bag 7
+28	Sleeping Bag 8
+29	Tent
+30	Simple Chair
+31	Simple Chair
+32	Barbecue Grill
+33	Tent
+34	Sleeping Bag
+35	Hammock
+36	Astronomical Telescope
+37	Hammock
+38	Simple Chair
+39	Simple Chair
+40	Simple Chair
+41	Simple Chair
+42	Tent
+43	Completely Unprepared Seat
+44	Avoids Eye Contact Seat
+45	Just Doesn't Care Seat
+46	Always Interrupting Seat
+47	의자1
+48	의자2
+49	의자3
+50	의자4
+51	의자5
+52	의자6
+53	의자7
+54	의자8
+55	의자1
+56	의자2
+57	의자3
+58	의자4
+59	의자5
+60	의자6
+61	의자7
+62	의자8
+63	의자1
+64	의자2
+65	의자3
+66	의자4
+67	의자5
+68	의자6
+69	의자7
+70	의자8
+71	의자1
+72	의자2
+73	의자3
+74	의자4
+75	의자5
+76	의자6
+77	의자7
+78	의자8
+79	1번 칸
+80	2번 칸
+81	3번 칸
+82	4번 칸
+83	1번 칸
+84	2번 칸
+85	3번 칸
+86	4번 칸
+87	5번 칸
+88	6번 칸
+89	1번 칸
+90	2번 칸
+91	3번 칸
+92	4번 칸
+93	5번 칸
+94	6번 칸
+95	7번 칸
+96	8번 칸
+97	1번 의자
+98	2번 의자
+99	3번 의자
+100	4번 의자

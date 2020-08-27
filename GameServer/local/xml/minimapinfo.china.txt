@@ -1,0 +1,886 @@
+﻿1	Tir Chonaill
+2	Dunbarton
+3	Dugald Aisle
+4	Nao Stage
+5	크리스마스이벤트필드
+6	Battle Lobby
+7	Battle Arena
+8	Gairech
+9	Bangor
+10	Tir Na Nog
+11	South Sidhe Sneachta Field
+12	North Sidhe Sneachta Field
+13	Crossroad
+14	Emain Macha
+15	Moonscape
+16	Ceo Island
+17	Sen Mag Plains
+18	Beginner's Tutorial
+19	Osna Sail
+20	Rundal Dungeon Lobby (Before)
+21	Rundal Dungeon Lobby (After)
+22	Oid Tobar
+23	Emain Macha Castle Lobby
+24	Emain Macha Castle Meeting Chamber
+25	Emain Macha Castle Meeting Chamber G2
+26	Fiodh Dungeon Lobby (Before)
+27	Fiodh Dungeon Lobby (After)
+28	data/gfx/gui/minimap_tirchonaill_kor.raw
+29	data/gfx/gui/minimap_dunbarton_kor.raw
+30	data/gfx/gui/minimap_dugald_kor.raw
+31	data/gfx/gui/minimap_naostage.raw
+32	data/gfx/gui/minimap_event_snowfield_kor.raw
+33	data/gfx/gui/minimap_battle_arena.raw
+34	data/gfx/gui/minimap_battle_arena.raw
+35	data/gfx/gui/minimap_gairech_kor.raw
+36	data/gfx/gui/minimap_bangor_kor.raw
+37	data/gfx/gui/minimap_tirnanog_kor.raw
+38	data/gfx/gui/minimap_sidhe_sneachta_s_kor.raw
+39	data/gfx/gui/minimap_sidhe_sneachta_n_kor.raw
+40	data/gfx/gui/minimap_crossroad.raw
+41	data/gfx/gui/minimap_emainmacha_kor.raw
+42	data/gfx/gui/minimap_event_moonsurface_eng.raw
+43	data/gfx/gui/minimap_emainmacha_ceo_kor.raw
+44	data/gfx/gui/minimap_senmag_kor.raw
+45	data/gfx/gui/minimap_beginner_tutorial_kor.raw
+46	data/gfx/gui/minimap_osnasail_kor.raw
+47	data/gfx/gui/minimap_dungeon_Runda_Lobby_before.raw
+48	data/gfx/gui/minimap_dungeon_Runda_Lobby_after.raw
+49	data/gfx/gui/minimap_Oid_Tobar.raw
+50	data/gfx/gui/minimap_Emain_Lobby.raw
+51	data/gfx/gui/minimap_Emain_Audience_room.raw
+52	data/gfx/gui/minimap_Emain_Audience_room.raw
+53	data/gfx/gui/minimap_dungeon_Fiodh_Lobby_before.raw
+54	data/gfx/gui/minimap_dungeon_Fiodh_Lobby_after.raw
+55	Magic School Entrance
+56	Magic School Lecture Hall
+57	data/gfx/gui/minimap_dunbarton_magicschool_lobby.raw
+58	data/gfx/gui/minimap_dunbarton_magicschool_hall.raw
+59	Coill Dungeon Lobby (Before)
+60	Coill Dungeon Lobby (After)
+63	data/gfx/gui/minimap_dungeon_Fiodh_Lobby_before.raw
+64	data/gfx/gui/minimap_dungeon_Fiodh_Lobby_after.raw
+65	Library of Fear
+66	data/gfx/gui/minimap_dunbarton_magicschool_hall_night.raw
+68	data/gfx/gui/minimap_battle_event.raw
+69	배틀 이벤트 필드
+70	Dugald Aisle Town
+71	data/gfx/gui/minimap_tirnanog_kor.raw
+72	Tutorial Dungeon
+73	data/gfx/gui/minimap_dungeon_Beginner_Tutorial.raw
+74	Bangor - The Other World
+75	Gairech - The Other World
+76	data/gfx/gui/minimap_tirnanog_bangor_kor.raw
+77	data/gfx/gui/minimap_tirnanog_gairech_kor.raw
+78	Dugald Aisle Residential Area
+79	Dugald Aisle Castle
+83	data/gfx/gui/minimap_Dugald_town_kor.raw
+84	data/gfx/gui/minimap_Dugald_castle_kor.raw
+85	이벤트 아레나
+87	이벤트 아레나 로비1
+88	이벤트 아레나 로비2
+91	data/gfx/gui/minimap_BattleArena_arena_Gstar.raw
+92	data/gfx/gui/minimap_BattleArena_arena_Gstar.raw
+93	data/gfx/gui/minimap_BattleArena_arena_Gstar.raw
+94	팔라딘VS다크나이트 아레나
+95	data/gfx/gui/minimap_battle_arena.raw
+96	팔라딘VS다크나이트 아레나로비
+97	data/gfx/gui/minimap_battle_arena.raw
+98	팔라딘VS다크나이트 아레나대기실
+100	data/gfx/gui/minimap_BattleArena_paladinVSdarkwaiting.raw
+107	Residential Area
+108	Castle Area
+109	Wedding Lobby
+110	Wedding Hall
+111	data/gfx/gui/minimap_Wedding_waitingroom.raw
+112	data/gfx/gui/minimap_Wedding_Hall.raw
+141	data/gfx/gui/map_jpg/minimap_tirchonaill_eng.jpg
+142	data/gfx/gui/map_jpg/minimap_dunbarton_eng.jpg
+143	data/gfx/gui/map_jpg/minimap_dugald_eng.jpg
+144	data/gfx/gui/map_jpg/minimap_naostage.jpg
+145	data/gfx/gui/map_jpg/minimap_event_snowfield_kor.jpg
+146	data/gfx/gui/map_jpg/minimap_battle_arena.jpg
+147	data/gfx/gui/map_jpg/minimap_battle_arena.jpg
+148	data/gfx/gui/map_jpg/minimap_gairech_eng.jpg
+149	data/gfx/gui/map_jpg/minimap_bangor_eng.jpg
+150	data/gfx/gui/map_jpg/minimap_tirnanog_eng.jpg
+151	data/gfx/gui/map_jpg/minimap_sidhe_sneachta_s_eng.jpg
+152	data/gfx/gui/map_jpg/minimap_sidhe_sneachta_n_eng.jpg
+153	data/gfx/gui/map_jpg/minimap_crossroad_eng.jpg
+154	data/gfx/gui/map_jpg/minimap_emainmacha_eng.jpg
+155	data/gfx/gui/map_jpg/minimap_event_moonsurface_eng.jpg
+156	data/gfx/gui/map_jpg/minimap_emainmacha_ceo_eng.jpg
+157	data/gfx/gui/map_jpg/minimap_senmag_eng.jpg
+158	data/gfx/gui/map_jpg/minimap_beginner_tutorial_eng.jpg
+159	data/gfx/gui/map_jpg/minimap_osnasail_eng.jpg
+160	data/gfx/gui/map_jpg/minimap_battle_event.jpg
+161	data/gfx/gui/map_jpg/minimap_tirnanog_bangor_eng.jpg
+162	data/gfx/gui/map_jpg/minimap_tirnanog_gairech_eng.jpg
+163	data/gfx/gui/map_jpg/minimap_BattleArena_arena_Gstar.jpg
+164	data/gfx/gui/map_jpg/minimap_BattleArena_arena_Gstar.jpg
+165	data/gfx/gui/map_jpg/minimap_BattleArena_arena_Gstar.jpg
+166	data/gfx/gui/map_jpg/minimap_battle_arena.jpg
+167	data/gfx/gui/map_jpg/minimap_battle_arena.jpg
+168	data/gfx/gui/map_jpg/minimap_BattleArena_paladinVSdarkwaiting.jpg
+169	data/gfx/gui/map_jpg/minimap_dungeon_Runda_Lobby_before.jpg
+170	data/gfx/gui/map_jpg/minimap_dungeon_Runda_Lobby_after.jpg
+171	data/gfx/gui/map_jpg/minimap_Oid_Tobar.jpg
+172	data/gfx/gui/map_jpg/minimap_Emain_Lobby.jpg
+173	data/gfx/gui/map_jpg/minimap_Emain_Audience_room.jpg
+174	data/gfx/gui/map_jpg/minimap_Emain_Audience_room.jpg
+175	data/gfx/gui/map_jpg/minimap_dungeon_Fiodh_Lobby_before.jpg
+176	data/gfx/gui/map_jpg/minimap_dungeon_Fiodh_Lobby_after.jpg
+177	data/gfx/gui/map_jpg/minimap_dunbarton_magicschool_lobby.jpg
+178	data/gfx/gui/map_jpg/minimap_dunbarton_magicschool_hall.jpg
+179	data/gfx/gui/map_jpg/minimap_dungeon_Fiodh_Lobby_before.jpg
+180	data/gfx/gui/map_jpg/minimap_dungeon_Fiodh_Lobby_after.jpg
+181	data/gfx/gui/map_jpg/minimap_dunbarton_magicschool_hall_night.jpg
+182	data/gfx/gui/map_jpg/minimap_dungeon_Beginner_Tutorial.jpg
+183	data/gfx/gui/map_jpg/minimap_Dugald_town_eng.jpg
+184	data/gfx/gui/map_jpg/minimap_Dugald_castle_eng.jpg
+185	data/gfx/gui/map_jpg/minimap_SenMag_town_eng.jpg
+186	data/gfx/gui/map_jpg/minimap_SenMag_castle_eng.jpg
+187	data/gfx/gui/map_jpg/minimap_Wedding_waitingroom.jpg
+188	data/gfx/gui/map_jpg/minimap_Wedding_Hall.jpg
+189	Morva Aisle
+191	Ceann
+192	data/gfx/gui/map_jpg/minimap_Morva_Aisle_eng.jpg
+193	data/gfx/gui/map_jpg/minimap_ceann_eng.jpg
+199	Sea to Iria
+200	Sea to Erinn
+201	data/gfx/gui/map_jpg/minimap_FromErin_ToIria.jpg
+202	data/gfx/gui/map_jpg/minimap_FromErin_ToIria.jpg
+203	이리아_라노_테스트
+204	Rano District of Iria
+205	data/gfx/gui/map_jpg/minimap_Iria_Rano_eng.jpg
+206	data/gfx/gui/map_jpg/minimap_Iria_Rano_eng.jpg
+207	Ceann Ship Boarding
+208	Port Qilla
+209	Port Qilla Ship Boarding
+210	data/gfx/gui/map_jpg/minimap_ceann_eng.jpg
+211	data/gfx/gui/map_jpg/minimap_Iria_Rano_Qilla.jpg
+212	data/gfx/gui/map_jpg/minimap_Iria_Rano_Qilla.jpg
+213	Dugald Underground Dungeon Lobby (Before)
+214	Dugald Underground Dungeon Lobby (After)
+215	Sen Mag Underground Dungeon Lobby (Before)
+216	Sen Mag Underground Dungeon Lobby (After)
+217	data/gfx/gui/map_jpg/minimap_dungeon_Housing_Lobby_before.jpg
+218	data/gfx/gui/map_jpg/minimap_dungeon_Housing_Lobby_after.jpg
+219	data/gfx/gui/map_jpg/minimap_dungeon_Housing_Lobby_before.jpg
+220	data/gfx/gui/map_jpg/minimap_dungeon_Housing_Lobby_after.jpg
+221	Deep Sea Fisherboat in South Iria
+222	data/gfx/gui/map_jpg/minimap_Iria_Rano_sea.jpg
+225	data/gfx/gui/map_jpg/minimap_iria_SE_main_field.jpg
+226	Desert Dragon Habitat
+227	Prairie Dragon Habitat
+228	Giant Sandworm Habitat
+229	data/gfx/gui/map_jpg/minimap_Iria_fieldBoss_Middledesert.jpg
+230	data/gfx/gui/map_jpg/minimap_Iria_fieldBoss_Meadow.jpg
+231	data/gfx/gui/map_jpg/minimap_Iria_fieldBoss_Centerdesert.jpg
+232	Connous Underground Dungeon
+233	data/gfx/gui/map_jpg/minimap_Iria_connous_underworld.jpg
+234	Iria Connous
+235	data/gfx/gui/map_jpg/minimap_Iria_connous_eng.jpg
+236	Elf Tutorial
+237	data/gfx/gui/map_jpg/Iria_Elf_Tutorial.jpg
+238	data/gfx/gui/map_jpg/minimap_Iria_Elf_Tutorial_eng.jpg
+239	Connous Underground Ant Cave
+240	Elf Wedding Lobby
+241	Elf Wedding Hall
+242	data/gfx/gui/map_jpg/minimap_Iria_connous_new_eng.jpg
+243	data/gfx/gui/map_jpg/minimap_Iria_connous_eng.jpg
+244	Connous Monster Raid
+245	data/gfx/gui/map_jpg/minimap_Iria_connous_eng.jpg
+246	Connous Arena Lobby
+247	Connous Arena
+248	data/gfx/gui/map_jpg/minimap_Iria_connous_Arena.jpg
+249	data/gfx/gui/map_jpg/minimap_Iria_connous_Arena.jpg
+250	Iria Physis
+252	Iria Tunnel south
+255	Iria Tunnel north
+257	data/gfx/gui/map_jpg/minimap_Iria_Physis_eng.jpg
+258	data/gfx/gui/map_jpg/minimap_Iria_NW_tunnel_S_eng.jpg
+259	data/gfx/gui/map_jpg/minimap_Iria_NW_tunnel_N_eng.jpg
+260	Iria Tunnel midpoint
+261	data/gfx/gui/map_jpg/minimap_Iria_NW_tunnel_M.jpg
+262	Iria SW Nubes
+264	Giant Tutorial
+265	data/gfx/gui/map_jpg/minimap_Iria_Giant_Tutorial.jpg
+266	data/gfx/gui/map_jpg/minimap_Iria_Rano_eng.jpg
+267	Glacier Dungeon lobby after
+268	Glacier Dungeon lobby before
+269	data/gfx/gui/map_jpg/minimap_Iria_NW_tunnel_M.jpg
+270	data/gfx/gui/map_jpg/minimap_Iria_Giant_Tutorial.jpg
+271	data/gfx/gui/map_jpg/minimap_dungeon_ice_Lobby_after.jpg
+272	data/gfx/gui/map_jpg/minimap_dungeon_ice_Lobby_before.jpg
+273	Iria River Test
+274	data/gfx/gui/map_jpg/Iria_test_river.jpg
+275	Giant Wedding Hall
+276	Giant Wedding Lobby
+277	data/gfx/gui/map_jpg/minimap_Giant_Wedding_Hall.jpg
+279	data/gfx/gui/map_jpg/minimap_Giant_Wedding_Waitingroom.jpg
+280	김성제 과제물 리틀 콘누스
+281	data/gfx/gui/map_jpg/minimap_Little_connus_test.jpg
+282	Iria River Test2
+283	data/gfx/gui/map_jpg/Iria_test_river2.jpg
+284	Courcle District of Iria
+286	data/gfx/gui/map_jpg/minimap_Iria_courcle_eng.jpg
+287	Alby Dungeon Lobby (Before)
+288	Alby Dungeon Lobby (After)
+289	Ciar Dungeon Lobby (Before)
+290	Ciar Dungeon Lobby (After)
+291	Rabbie Dungeon Lobby (Before)
+292	Rabbie Dungeon Lobby (After)
+293	Math Dungeon Lobby (Before)
+294	Math Dungeon Lobby (After)
+295	Peaca Dungeon Lobby (Before)
+296	Peaca Dungeon Lobby (After)
+297	Barri Dungeon Lobby (Before)
+298	Barri Dungeon Lobby (After)
+323	Maiz Ruins Lobby (Before)
+324	Maiz Ruins Lobby (After)
+331	Longa Ruins Lobby (Before)
+332	Longa Ruins Lobby (After)
+335	Karu Forest Ruins Lobby (Before)
+336	Karu Forest Ruins Lobby (After)
+337	none
+338	none
+339	none
+340	none
+341	none
+342	none
+343	none
+344	none
+345	none
+346	none
+347	none
+348	none
+349	none
+350	none
+351	none
+352	none
+353	none
+354	none
+355	Pasture Field for Tir Chonaill Tutorial
+356	data/gfx/gui/map_jpg/minimap_tirchonaill_tutorial.jpg
+357	Advancement Test Hall
+358	Lobby of the Advancement Test Hall
+359	data/gfx/gui/map_jpg/minimap_Promotion_Test_Room.jpg
+360	data/gfx/gui/map_jpg/minimap_Promotion_Test_Waitingroom.jpg
+363	Iria Zardine region
+364	data/gfx/gui/map_jpg/minimap_Iria_zardine_eng.jpg
+365	Renes Dragon's cave interior
+367	data/gfx/gui/map_jpg/minimap_Iria_Renes.jpg
+368	테스트용 필드
+369	data/gfx/gui/map_jpg/minimap_Region_test2.jpg
+370	Hard Mode Rundal Lobby  before
+371	data/gfx/gui/map_jpg/minimap_hardmode_dungeon_Runda_Lobby_before.jpg
+372	Hard Mode Rundal Lobby after
+373	Hard Mode Alby Lobby before
+374	Hard Mode Alby Lobby after
+375	Hard Mode Ciar Lobby before
+376	Hard Mode Ciar Lobby after
+377	data/gfx/gui/map_jpg/minimap_dungeon_Runda_Lobby_after.jpg
+378	data/gfx/gui/map_jpg/minimap_hardmode_dungeon_Alby_Lobby_before.jpg
+380	data/gfx/gui/map_jpg/minimap_hardmode_dungeon_Ciar_Lobby_before.jpg
+382	data/gfx/gui/map_jpg/minimap_dungeon_Alby_Lobby_before.jpg
+383	data/gfx/gui/map_jpg/minimap_dungeon_Ciar_Lobby_before.jpg
+384	data/gfx/gui/map_jpg/minimap_hardmode_dungeon_Alby_Lobby_after.jpg
+385	data/gfx/gui/map_jpg/minimap_hardmode_dungeon_Ciar_Lobby_after.jpg
+386	Tin's Tutorial Field
+388	data/gfx/gui/map_jpg/minimap_tin_beginner_tutorial_eng.jpg
+389	임프의 꿈 이벤트
+390	data/gfx/gui/map_jpg/minimap_event_impdream_kor.jpg
+391	Taillteann Main Field
+392	data/gfx/gui/map_jpg/minimap_taillteann_eng.jpg
+393	Taillteann E Field
+394	data/gfx/gui/map_jpg/minimap_taillteann_E_eng.jpg
+395	Taillteann SE Field
+396	data/gfx/gui/map_jpg/minimap_taillteann_SE_eng.jpg
+397	던전2.0 테스트용 필드
+398	data/gfx/gui/map_jpg/minimap_dungeon_test.jpg
+399	Sen Mag Plains - Guild Battle
+400	data/gfx/gui/map_jpg/minimap_senmag_eng.jpg
+401	Sliab Cuilin
+402	Abb Neagh
+403	data/gfx/gui/map_jpg/minimap_taillteann_sliab_cuilin_eng.jpg
+404	data/gfx/gui/map_jpg/minimap_taillteann_abb_neagh_bard_eng.jpg
+405	Abb Neagh Housing Site
+406	data/gfx/gui/map_jpg/minimap_Abb_Neagh_town_eng.jpg
+407	Ancient Castle of Abb Neagh
+408	data/gfx/gui/map_jpg/minimap_Abb_Neagh_Keep_eng.jpg
+409	Tara Connection Field
+410	data/gfx/gui/map_jpg/minimap_Tara_N_Field_eng.jpg
+411	Tara Main Field
+412	data/gfx/gui/map_jpg/minimap_Tara_eng.jpg
+413	Soulstream Region
+414	data/gfx/gui/map_jpg/minimap_Soulstream_region.jpg
+415	Tara SE Connection Field
+416	data/gfx/gui/map_jpg/minimap_Tara_SE_Field_eng.jpg
+417	네코지마 섬
+418	data/gfx/gui/map_jpg/minimap_Nekojima.jpg
+419	Tara_Royal Castle_1st Floor
+420	Tir Chonaill
+421	Dunbarton
+422	Dugald Aisle
+423	Nao
+424	
+425	Arena Lobby
+426	Arena
+427	Gairech
+428	Bangor
+429	Tir Na Nog
+430	Sidhe Sneachta
+431	Sidhe Sneachta
+432	The Other World
+433	Emain Macha
+434	
+435	Ceo Island
+436	Sen Mag Plains
+437	Human Tutorial
+438	Osna Sail
+439	
+440	The Other World
+441	The Other World
+442	Arena
+443	Arena Lobby
+444	Arena Lobby
+445	Arena
+446	Arena Lobby
+447	Arena Lobby
+448	Morva Aisle
+449	Port Ceann
+450	Rano
+451	Rano
+452	Moyer Ocean
+453	Moyer Ocean
+454	Carasek
+455	Port Qilla
+456	Carasek
+457	Petra's Fishing Boat
+458	Connous
+459	Desert Dragon Habitat
+460	Prairie Dragon Habitat
+461	Giant Sandworm Habitat
+462	Ant Cave
+463	Elf Tutorial
+464	Connous
+465	Connous Arena Lobby
+466	Connous Arena
+467	Physis
+468	Iria Tunnel
+469	Iria Tunnel
+470	Iria Tunnel
+471	Nubes
+472	Giant Tutorial
+473	
+474	Zardine
+475	Courcle
+476	Tir Chonaill
+477	
+478	Tir Chonaill
+479	Moon
+480	Taillteann
+481	Sliab Cuilin
+482	Abb Neagh
+483	
+484	Sen Mag Plains
+485	Abb Neagh Residential Area
+486	Abb Neagh Castle
+487	Corrib Valley
+488	Tara
+489	Blago Prairie
+490	
+492	Rundal Dungeon Lobby
+493	Rundal Dungeon Lobby
+494	Ceo Island
+495	
+496	Emain Macha Castle Meeting Chamber
+497	Emain Macha Castle Meeting Chamber
+498	Fiodh Dungeon Lobby
+499	Fiodh Dungeon Lobby
+500	
+501	
+502	Coill Dungeon Lobby
+503	Coill Dungeon Lobby
+504	Library of Fear
+505	
+506	
+507	
+508	
+509	
+510	
+511	Alby Dungeon Lobby (Before)
+512	Ciar Dungeon Lobby (Before)
+513	Rabbie Dungeon Lobby
+514	Math Dungeon Lobby (Before)
+515	Peaca Dungeon Lobby
+516	Barri Dungeon Lobby
+517	Maiz Ruins Lobby
+518	Longa Ruins Lobby
+519	Karu Forest Ruins Lobby
+520	Rundal Dungeon Lobby
+521	Rundal Dungeon Lobby
+522	Alby Dungeon Lobby (Before)
+523	Alby Dungeon Lobby (Before)
+524	Ciar Dungeon Lobby (Before)
+525	Ciar Dungeon Lobby (Before)
+526	
+527	Dugald Aisle Residential Area
+528	Dugald Aisle Castle
+529	Sen Mag Residential Area
+530	Sen Mag Castle
+531	
+532	
+533	
+534	
+535	
+536	
+537	
+538	
+539	
+540	
+541	data/gfx/gui/map_jpg/minimap_Tara_castle_1F_eng.jpg
+542	Tara Royal Castle_Gate Hall
+545	data/gfx/gui/map_jpg/minimap_Tara_Gatehall_eng.jpg
+546	Tara Royal Castle_Kitchen Dungeon
+549	Tara Royal Castle
+550	Tara Royal Castle
+551	Tara Royal Castle
+552	Tara Royal Castle_Guild Hall
+553	Tara Royal Castle
+554	data/gfx/gui/map_jpg/minimap_Tara_Guildhall_kor.jpg
+555	data/gfx/gui/map_jpg/minimap_Tara_Dungeon_pot_kor.jpg
+556	Tara Royal Castle_Great Hall
+557	Tara Royal Castle_Royal Library
+558	Tara Royal Castle_Lords Room01
+559	Tara Royal Castle_Lords Room02
+560	Tara Royal Castle
+561	Tara Royal Castle
+562	Tara Royal Castle
+563	Tara Royal Castle
+564	data/gfx/gui/map_jpg/minimap_Tara_Greathall_eng.jpg
+565	data/gfx/gui/map_jpg/minimap_Tara_library_kor.jpg
+566	data/gfx/gui/map_jpg/minimap_Tara_nobleroom01_kor.jpg
+567	data/gfx/gui/map_jpg/minimap_Tara_nobleroom02_kor.jpg
+568	Buchanan's Dunbarton Library
+569	
+570	data/gfx/gui/map_jpg/minimap_dunbarton_magicschool_hall.jpg
+571	Tara Connection Field
+572	Corrib Valley
+573	data/gfx/gui/map_jpg/minimap_Tara_N_Field_eng.jpg
+574	네코지마 섬
+575	Tara Royal Underground Waterway Path
+576	Tara Royal Underground Waterway Entrance
+577	
+578	
+579	data/gfx/gui/map_jpg/minimap_Tara_waterway.jpg
+580	data/gfx/gui/map_jpg/minimap_Tara_watergate.jpg
+581	Tara_Pontiff's Court
+582	Tara
+584	data/gfx/gui/map_jpg/minimap_tara_church_eng.jpg
+585	Falias Main Field
+586	Falias
+587	data/gfx/gui/map_jpg/minimap_Falias_eng.jpg
+588	Tara Jousting Arena
+724	data/gfx/gui/map_jpg/minimap_Tara_eng.jpg
+725	Avon Main Field
+726	Tara
+727	Avon
+728	data/gfx/gui/map_jpg/minimap_Avon_eng.jpg
+729	Cuilin Housing Site
+730	Cuilin Castle Area
+731	Cuilin Residential Area
+732	Cuilin Castle
+733	data/gfx/gui/map_jpg/minimap_tara_town_eng.jpg
+734	data/gfx/gui/map_jpg/minimap_tara_Keep_eng.jpg
+735	Cobh
+736	Dunbarton
+737	Dunbarton
+738	Cobh
+739	data/gfx/gui/map_jpg/minimap_dunbarton_cobh_eng.jpg
+741	data/gfx/gui/map_jpg/minimap_cobh_eng.jpg
+742	Tir Chonaill
+743	Emain Macha
+744	Taillteann Main Field
+745	Tara Main Field
+746	Dunbarton
+747	Dunbarton
+748	Bangor
+749	Bangor
+750	Emain Macha
+751	Tir Chonaill
+752	Taillteann
+753	Tara
+754	Cobh
+755	Cobh
+756	data/gfx/gui/map_jpg/minimap_tirchonaill_commerce_eng.jpg
+757	data/gfx/gui/map_jpg/minimap_dunbarton_cobh_commerce_eng.jpg
+758	data/gfx/gui/map_jpg/minimap_bangor_commerce_eng.jpg
+759	data/gfx/gui/map_jpg/minimap_emainmacha_commerce_eng.jpg
+760	data/gfx/gui/map_jpg/minimap_taillteann_commerce_eng.jpg
+761	data/gfx/gui/map_jpg/minimap_Tara_commerce_eng.jpg
+762	data/gfx/gui/map_jpg/minimap_cobh_commerce_eng.jpg
+765	data/gfx/gui/map_jpg/minimap_belfast_human_eng.jpg
+766	Commonwealth of Belvast
+767	Commonwealth of Belvast
+768	Iria Connous
+769	Belvast Sea Route
+770	Connous
+771	Moye Ocean
+772	data/gfx/gui/map_jpg/minimap_Iria_connous_G15_eng.jpg
+773	data/gfx/gui/map_jpg/minimap_FromErin_ToIria.jpg
+774	Cobh-Belvast Ocean Route
+775	Belvast-Cobh Ocean Route
+776	Belvast Sea Route
+777	Belvast Sea Route
+778	Soul Stream Region
+779	Moye Ocean
+780	Moye Ocean
+781	Moye Ocean
+782	Moye Ocean
+783	data/gfx/gui/map_jpg/minimap_FromIria_ToErin.jpg
+784	data/gfx/gui/map_jpg/minimap_FromErin_ToIria.jpg
+785	data/gfx/gui/map_jpg/minimap_FromErin_ToIria.jpg
+787	data/gfx/gui/map_jpg/minimap_Soulstream_region.jpg
+788	data/gfx/gui/map_jpg/minimap_FromIria_ToErin.jpg
+789	Old Avon
+790	Bella's Valley
+791	data/gfx/gui/map_jpg/minimap_Tara_N_Field.jpg
+792	Soul Stream of the Past
+793	data/gfx/gui/map_jpg/minimap_Soulstream_region.jpg
+794	Outlaw's Homestead
+795	Outlaw's Homestead
+796	data/gfx/gui/map_jpg/minimap_CommerceFarm_criminal.jpg
+800	data/gfx/gui/map_jpg/minimap_Skatha_main_eng.jpg
+801	Scathach Beach
+802	Commonwealth of Belvast
+803	Commonwealth of Belvast
+804	Scathach Beach
+805	data/gfx/gui/map_jpg/minimap_belfast_human_g16_eng.jpg
+806	Scathach Caverns
+807	Scathach Caverns
+808	data/gfx/gui/map_jpg/minimap_Skatha_cave_eng.jpg
+809	Tara_RoyalCastleOffice
+810	Tara Royal Castle
+811	data/gfx/gui/map_jpg/minimap_Tara_Greathall_kingroom_eng.jpg
+812	Iria Zardine region
+813	Zardine
+814	Abb Neagh
+815	Abb Neagh
+817	data/gfx/gui/map_jpg/minimap_Iria_zardine_eng.jpg
+818	data/gfx/gui/map_jpg/minimap_taillteann_abb_neagh_eng.jpg
+819	data/gfx/gui/map_jpg/minimap_Iria_zardine_hotspring_eng.jpg
+820	Emain Macha
+821	Emain Macha
+822	data/gfx/gui/map_jpg/minimap_emainmacha_puppet_en.jpg
+823	Tara Main Field
+824	Tara Main Field
+825	Tara
+826	Tara
+827	data/gfx/gui/map_jpg/minimap_Tara_commerce_eng.jpg
+828	data/gfx/gui/map_jpg/minimap_Tara_commerce_eng.jpg
+829	Physis Mine
+830	Connous Mine
+833	data/gfx/gui/map_jpg/minimap_Iria_Physis_Minefield.jpg
+834	data/gfx/gui/map_jpg/minimap_Iria_Connous_Minefield_eng.jpg
+837	data/gfx/gui/map_jpg/minimap_Iria_Physis_Minefield_in.jpg
+838	Rano, Iria
+839	Physis, Iria
+840	Connous, Iria
+841	Rano
+842	Physis
+843	Connous
+844	data/gfx/gui/map_jpg/minimap_Iria_Rano_new_eng.jpg
+845	data/gfx/gui/map_jpg/minimap_Iria_connous_new_eng.jpg
+846	data/gfx/gui/map_jpg/minimap_Iria_Physis_new_eng.jpg
+849	data/gfx/gui/map_jpg/minimap_Iria_Physis_Minefield_b2.jpg
+852	data/gfx/gui/map_jpg/minimap_Iria_Physis_Minefield_b3.jpg
+856	data/gfx/gui/map_jpg/minimap_Iria_Connous_Minefield_01.jpg
+860	data/gfx/gui/map_jpg/minimap_Iria_Connous_Minefield_02.jpg
+861	Hillwen Mine_Interior
+862	Hillwen Mine_B2
+863	Hillwen Mine_B3
+864	Shyllien Mine_Outskirts 1 District
+865	Shyllien Mine_Outskirts 2 District
+866	Hillwen Mine
+867	Shyllien Nature Reserve
+868	Hillwen Mine B1
+869	Hillwen Mine B2
+870	Hillwen Mine B3
+871	Shyllien Nature Reserve
+872	Shyllien Nature Reserve
+873	Soul Stream
+874	data/gfx/gui/map_jpg/minimap_Soulstream_region.jpg
+875	Physis, Iria
+876	Connous, Iria
+877	Physis
+878	Connous
+879	data/gfx/gui/map_jpg/minimap_Iria_connous_eng_renewal.jpg
+880	data/gfx/gui/map_jpg/minimap_Iria_Physis_renewal_eng.jpg
+881	Tir Chonaill
+882	Emain Macha
+883	Tara Main Field
+884	Tara Jousting Arena
+885	Dunbarton
+886	Bangor
+887	Cobh
+888	Tir Chonaill
+889	Dunbarton
+890	Emain Macha
+891	Tara
+892	Tara
+893	Cobh
+894	Bangor
+902	Taillteann Main Field
+903	Taillteann
+904	data/gfx/gui/map_jpg/minimap_tirchonaill_2013renew_eng.jpg
+905	data/gfx/gui/map_jpg/minimap_Tara_2013renew_eng.jpg
+906	data/gfx/gui/map_jpg/minimap_Tara_2013renew_eng.jpg
+908	data/gfx/gui/map_jpg/minimap_taillteann_2013renew_eng.jpg
+909	data/gfx/gui/map_jpg/minimap_dunbarton_2013renew_eng.jpg
+910	data/gfx/gui/map_jpg/minimap_emainmacha_2013renew_eng.jpg
+912	data/gfx/gui/map_jpg/minimap_bangor_2013renew_eng.jpg
+913	Tara Main Field
+914	Tara
+916	data/gfx/gui/map_jpg/minimap_Tara_2013renew_eng.jpg
+917	data/gfx/gui/map_jpg/minimap_cobh_2013renew_eng.jpg
+918	Tir Chonaill
+919	Emain Macha
+920	Tara Main Field
+921	Taillteann Main Field
+922	Dunbarton
+923	Cobh
+924	Bangor
+925	Tir Chonaill
+926	Dunbarton
+927	Emain Macha
+928	Tara
+929	Cobh
+930	Bangor
+931	Taillteann
+933	data/gfx/gui/map_jpg/minimap_dunbarton_2013renew_kor.jpg
+937	data/gfx/gui/map_jpg/minimap_bangor_2013renew_eng.jpg
+939	Gairech
+940	Gairech
+942	Sen Mag Plains
+943	Sen Mag Plains
+945	Field to the North of Sidhe Sneachta
+946	Dugald Aisle
+947	Morva Aisle
+948	Ceann
+949	Sliab Cuilin
+950	Tara SE Connecting Field
+951	Port Qilla
+952	Abb Neagh
+953	Commonwealth of Belvast
+954	Scathach Beach
+955	Sidhe Sneachta
+956	Dugald Aisle
+957	Morva Aisle
+958	Port Ceann
+959	Sliab Cuilin
+960	Abb Neagh
+961	Blago Prairie
+962	Commonwealth of Belvast
+963	Scathach Beach
+964	Port Qilla
+975	Iria Courcle Area
+976	Courcle
+978	Iria Zardine Area
+979	Physis, Iria
+980	Connous, Iria
+981	Zardine
+982	Physis
+983	Connous
+984	data/gfx/gui/map_jpg/minimap_tirchonaill_mgFree_eng.jpg
+985	data/gfx/gui/map_jpg/minimap_emainmacha_mgFree_eng.jpg
+986	data/gfx/gui/map_jpg/minimap_Tara_mgFree_eng.jpg
+987	data/gfx/gui/map_jpg/minimap_cobh_mgFree_eng.jpg
+988	data/gfx/gui/map_jpg/minimap_gairech_mgFree_eng.jpg
+989	data/gfx/gui/map_jpg/minimap_senmag_mgFree_eng.jpg
+990	data/gfx/gui/map_jpg/minimap_sidhe_sneachta_n_mgFree_eng.jpg
+991	data/gfx/gui/map_jpg/minimap_dugald_mgFree_eng.jpg
+992	data/gfx/gui/map_jpg/minimap_Morva_Aisle_mgFree_eng.jpg
+993	data/gfx/gui/map_jpg/minimap_ceann_mgFree_eng.jpg
+994	data/gfx/gui/map_jpg/minimap_taillteann_sliab_cuilin_mgFree_eng.jpg
+995	data/gfx/gui/map_jpg/minimap_taillteann_abb_neagh_mgFree_eng.jpg
+996	data/gfx/gui/map_jpg/minimap_Tara_SE_Field_mgFree_eng.jpg
+997	data/gfx/gui/map_jpg/minimap_belfast_human_mgFree_eng.jpg
+998	data/gfx/gui/map_jpg/minimap_Skatha_main_mgFree_eng.jpg
+999	data/gfx/gui/map_jpg/minimap_Iria_Rano_Qilla_mgFree_eng.jpg
+1000	data/gfx/gui/map_jpg/minimap_Iria_courcle_mgFree_eng.jpg
+1001	data/gfx/gui/map_jpg/minimap_Iria_zardine_hotspring_mgFree_eng.jpg
+1002	data/gfx/gui/map_jpg/minimap_Iria_Physis_mgFree_eng.jpg
+1003	data/gfx/gui/map_jpg/minimap_Iria_connous_mgFree_eng.jpg
+1004	data/gfx/gui/map_jpg/minimap_taillteann_mgFree_eng.jpg
+1005	Rano, Iria
+1006	Rano
+1008	Tara Jousting Arena
+1009	Tara Main Field
+1010	Tara
+1011	Tara
+1012	data/gfx/gui/map_jpg/minimap_Tara_mgFree_eng.jpg
+1013	data/gfx/gui/map_jpg/minimap_Tara_mgFree_eng.jpg
+1014	data/gfx/gui/map_jpg/minimap_Iria_Rano_new_mgFree_eng.jpg
+1015	data/gfx/gui/map_jpg/minimap_dunbarton_mgFree_eng.jpg
+1016	Tara Royal Castle
+1017	Connous Monster Raid
+1018	Connous
+1019	data/gfx/gui/map_jpg/minimap_Iria_connous_mgFree_eng.jpg
+1020	Doki Doki Island
+1021	Doki Doki Island
+1023	data/gfx/gui/map_jpg/minimap_RomanticIsland_eng.jpg
+1024	Nemeton_Dian's Chambers
+1025	Nemeton
+1026	data/gfx/gui/map_jpg/minimap_Nemeton_dc_room_kr.jpg
+1027	Nemeton_Lobby 1F
+1028	Nemeton
+1030	data/gfx/gui/map_jpg/minimap_Nemeton_lobby_kr.jpg
+1031	Nemeton_Lobby 2F
+1032	Nemeton_Lobby 2F_Jail
+1033	Nemeton_Passage
+1034	Nemeton
+1035	Nemeton
+1036	Nemeton
+1037	data/gfx/gui/map_jpg/minimap_Nemeton_lobby_kr.jpg
+1038	data/gfx/gui/map_jpg/minimap_Nemeton_lobby_kr.jpg
+1040	data/gfx/gui/map_jpg/minimap_Nemeton_hallway.jpg
+1041	Iria Sky_preboss altar
+1042	Iria
+1043	data/gfx/gui/map_jpg/minimap_Nemeton_bossstage.jpg
+1044	Nemeton_Top floor altar
+1045	Nemeton
+1046	data/gfx/gui/map_jpg/minimap_Nemeton_altar.jpg
+1047	Scathach Beach
+1048	Scathach Beach
+1049	data/gfx/gui/map_jpg/minimap_Skatha_main_G20_eng.jpg
+1050	Avalon Gate
+1051	Belvast
+1052	data/gfx/gui/map_jpg/minimap_Belfast_DGC_eng.jpg
+1053	Tutorial Zone
+1054	Tutorial Zone
+1055	data/gfx/gui/map_jpg/minimap_tirchonail_2015Tutorial.jpg
+1056	Dunbarton
+1057	Dunbarton
+1058	data/gfx/gui/map_jpg/minimap_dunbarton_2016dungeon_eng.jpg
+1059	Rabbie Phantasm Dungeon_Floor1
+1060	Rabbie Phantasm Dungeon_Floor1
+1061	data/gfx/gui/map_jpg/minimap_NewRabbieDungeon_F1_kr.jpg
+1062	Rabbie Phantasm Dungeon_Floor2
+1063	Rabbie Phantasm Dungeon_Floor2
+1064	data/gfx/gui/map_jpg/minimap_NewRabbieDungeon_F2_kr.jpg
+1065	Festia
+1066	Festia
+1068	data/gfx/gui/map_jpg/minimap_ELD_eng.jpg
+1069	Sidhe Finnachaid_Floor 1
+1070	Sidhe Finnachaid_Floor 1
+1071	data/gfx/gui/map_jpg/minimap_Sidh_Finnachaid.jpg
+1072	Sidhe Finnachaid_Floor 2
+1073	Sidhe Finnachaid_Floor 2
+1075	Sidhe Finnachaid_Floor 3
+1076	Sidhe Finnachaid_Floor 3
+1078	data/gfx/gui/map_jpg/minimap_Sidh_Finnachaid_2.jpg
+1079	data/gfx/gui/map_jpg/minimap_Sidh_Finnachaid_3.jpg
+1080	Tir Chonaill
+1081	Dugald Aisle
+1082	Gairech
+1083	Dunbarton
+1084	Tir Chonaill
+1085	Dunbarton
+1086	Dugald Aisle
+1087	Gairech
+1092	data/gfx/gui/map_jpg/minimap_tirchonaill_2017AFE_eng.jpg
+1093	data/gfx/gui/map_jpg/minimap_dugald_2017AFE_ENG.jpg
+1094	data/gfx/gui/map_jpg/minimap_gairech_2017AFE_eng.jpg
+1095	data/gfx/gui/map_jpg/minimap_dunbarton_2017AFE_eng.jpg
+1099	Sen Mag Plains
+1100	Sen Mag Plains
+1102	data/gfx/gui/map_jpg/minimap_senmag_GuildWarRenewal.jpg
+1105	data/gfx/gui/map_jpg/minimap_Avalon_ndw_eng.jpg
+1106	Outskirts of Avalon
+1107	Avalon
+1108	Outskirts of Avalon
+1109	Avalon
+1110	data/gfx/gui/map_jpg/minimap_Avalon_main_ndw_eng.jpg
+1111	Marketplace_Sen Mag Plains
+1112	Marketplace_Morva Aisle
+1113	Marketplace_Dugald Aisle
+1114	Marketplace_Sliab Cuilin
+1115	Marketplace_Emain Macha
+1116	Marketplace_Abb Neagh
+1117	Marketplace_Ancient Castle of Abb Neagh
+1118	Marketplace_Cuiln Castle
+1119	Marketplace_Sen Mag Castle
+1120	Sen Mag Plains
+1121	Morva Aisle
+1122	Dugald Aisle
+1123	Sliab Cuilin
+1124	Emain Macha
+1125	Abb Neagh
+1126	Abb Neagh Castle
+1127	Cuilin Castle
+1128	Sen Mag Castle
+1129	data/gfx/gui/map_jpg/minimap_senmag_2017CHR_ENG.jpg
+1130	data/gfx/gui/map_jpg/minimap_Morva_Aisle_2017CHR_ENG.jpg
+1131	data/gfx/gui/map_jpg/minimap_dugald_2017AFE_eng_01.jpg 
+1132	data/gfx/gui/map_jpg/minimap_taillteann_sliab_cuilin_2017CHR_ENG.jpg
+1133	data/gfx/gui/map_jpg/minimap_emainmacha_2017CHR_ENG.jpg
+1134	data/gfx/gui/map_jpg/minimap_taillteann_abb_neagh_2017CHR_ENG.jpg
+1135	data/gfx/gui/map_jpg/minimap_Abb_Neagh_2017CHR_ENG.jpg
+1136	data/gfx/gui/map_jpg/minimap_tara_2017CHR_ENG.jpg
+1137	data/gfx/gui/map_jpg/minimap_SenMag_castle_2017CHR_ENG.jpg
+1138	Marketplace_Dugald Aisle Castle
+1139	Dugald Aisle Castle
+1140	data/gfx/gui/map_jpg/minimap_Dugald_castle_2017CHR_ENG.jpg
+1141	Avalon Gate
+1142	Belvast
+1143	data/gfx/gui/map_jpg/minimap_Belfast_DGC_G21_kor.jpg
+1144	Marketplace_Abb Neagh Marketplace
+1145	Marketplace_Cuilin Marketplace
+1146	Marketplace_Dugald Aisle Marketplace
+1147	Marketplace_Sen Mag Marketplace
+1148	Abb Neagh Marketplace
+1149	Cuilin Marketplace
+1150	Dugald Aisle Marketplace
+1151	Sen Mag Marketplace
+1152	data/gfx/gui/map_jpg/minimap_Abb_Neagh_town_eng.jpg
+1153	data/gfx/gui/map_jpg/minimap_tara_town_ENG_1.jpg
+1154	data/gfx/gui/map_jpg/minimap_Dugald_town_eng.jpg
+1155	data/gfx/gui/map_jpg/minimap_SenMag_town_eng.jpg
+1156	Sanctum
+1157	Sanctum
+1158	data/gfx/gui/map_jpg/minimap_Avalon_ndw_skyisland_eng.jpg
+1159	Tech Duinn Entrance
+1160	Tech Duinn Entrance
+1161	data/gfx/gui/map_jpg/minimap_GD1_TechDuinn.jpg
+1162	Ruins of Doubhca
+1163	Ruins of Doubhca
+1164	data/gfx/gui/map_jpg/minimap_GD1_TechDuinn_dungeon.jpg
+1165	Secret Moonlight Hideout
+1166	Secret Moonlight Hideout
+1167	none
+1186	Scuabtuinne
+1187	Scuabtuinne
+1188	data/gfx/gui/map_jpg/minimap_G23_manannan_kor.jpg
+1198	Scuabtuinne
+1199	Manannan Temple
+1201	data/gfx/gui/map_jpg/minimap_G23_manannan_temple_kor.jpg
+1202	Emain Macha
+1203	Emain Macha
+1204	data/gfx/gui/map_jpg/minimap_emainmacha_2019CHR_kor.jpg
+1208	Storybook Tir Chonaill
+1209	Storybook Tir Chonaill
+1210	data/gfx/gui/map_jpg/minimap_tirchonaill_2017AFE_kor_15th.jpg
+1211	Tory Ravine
+1212	Tory Ravine
+1213	data/gfx/gui/map_jpg/minimap_G24_tory_ravain_kor.jpg
+1215	Night Hag's Hideout
+1217	Night Hag's Hideout
+1219	data/gfx/gui/map_jpg/minimap_G24_tory_dungeon.jpg
+1220	Commonwealth of Belvast
+1221	Commonwealth of Belvast
+1222	data/gfx/gui/map_jpg/minimap_belfast_human_2019_kor.jpg
+1226	Mag Mell Dungeon Lobby
+1227	Mag Mell
+1228	data/gfx/gui/map_jpg/minimap_petdungeon_2019_kor.jpg

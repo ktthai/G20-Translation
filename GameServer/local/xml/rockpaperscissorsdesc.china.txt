@@ -1,0 +1,34 @@
+﻿0	Wanna play Rock Paper Scissors?
+1	Let's do this fair and square!
+2	Let's just have fun.
+3	I've got a good feeling...
+4	I know I'm gonna win, but let's have fun.
+5	I think I'll be winning again this time.
+6	Now now, don't go crying when you lose.
+7	Oh come on, let me win once!
+8	Dibs on rock! You can have scissors.
+9	You are way too predictable.
+10	Nice! I'm on a streak today.
+11	Hooray! I won!
+12	I can't believe I lost...
+13	Man, this just isn't my day...
+14	Rock Paper Scissors time!
+15	Try to beat me if you can.
+16	Go easy on me, please.
+17	Focus!
+18	Bring it!
+19	Heeheeheehee!
+20	What now? WHAT NOW?!
+21	Aw, shucks.
+22	I lost? What?!
+23	NOOOOOO!
+24	Up for a pillow fight?
+25	I'm the greatest pillowfighter!
+26	Prepare to eat pillow!
+27	Pillow says knock you out.
+28	Relax, there's no rocks in my pillow case.
+29	Do you hit your mother with that pillow?
+30	YEAH! PILLOW FIGHT! LET'S DO THIS!
+31	Behold, the pillow of a champion!
+32	Ugh... Dang it...
+33	Man, this just isn't my day...

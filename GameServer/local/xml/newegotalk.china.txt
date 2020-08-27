@@ -1,0 +1,611 @@
+﻿0	<newegoname/> is my name...<br/>I've been trapped in that fossil for a very long time.<br/>The time I lost...<p/>You wish to know about me?<br/>I... don't have much to say...
+1	My name is <newegoname/>.<br/>As you can see, I'm a Spirit.<br/>Thanks to you, I awoke from a long sleep. I owe you great thanks for that.<p/>You won't have an easy time telling how old the Spirits are<br/>simply by their appearance, you know.<br/>I mean, they're not completely unrelated, but...<p/>My age? Hah... I'm sure I'm older than anything<br/>you could ever imagine.
+2	My name is <newegoname/>.<br/>Regardless of the name, this is proof of contract.<br/>The name you gave me proves that you are my master.<p/>Therefore, I will do whatever I can to help you, <username/>, at all times.
+3	I'm not quite sure what I should tell you.<br/>If it's about this world, surely you would know more than me.
+4	Oh, were you under the impression that all Spirits have the same face?<br/>Most Spirits choose their appearances based on their master.<p/>You could say it's an image naturally drawn out<br/>from the history of how the weapon was used.
+5	Should the contract formed with a Spirit be destroyed,<br/>nothing but a fragment of the Spirit's memory will remain.<p/>But another Spirit may inherit that memory.
+6	It would be unthinkable for Spirits and humans to behave similarly.<br/>It's the same idea when it comes to skills.<p/>I have nothing to teach you.<br/>The best I can do is to give you a hint regarding the power you would gain...
+7	See to it that I grow well if you wish to gain special skills.<br/>It hasn't come to that point just yet, but...<br/>One day, I'll show you just how powerful I am<br/>with my Spirit Awakening Skill.
+8	Of course, I'm not really what I appear to be.<br/>My appearance is simply a manifestation from an image<br/>inside the head of they who formed a contract with me.<p/>The same principle is seen in my Awakening Skill...<br/>Essentially, everything I do is a product of imagination.<p/>Power, on the other hand...<br/>Containing the magnificence of nature itself,<br/>it will always remain something truly powerful.
+9	I know you went through a lot of trouble to gain me.
+10	My existence, so to speak, could be a reward for all of your actions.
+11	<username/>... If you sow by genuinely putting your heart into it,<br/>you'll reap the rewards one day.
+12	Part-time jobs... I'm given to understand it's getting paid<br/>by doing the work of the townsfolk in their stead.
+13	I fail to distinguish it from a quest, but...<br/>Gemerally you don't have to use a weapon for it.
+14	I hear that Part-time jobs that require weapons  are only found in suburban regions.<p/>Can't say I'm surprised, either...
+15	Classes? Don't you attend those at schools...?<br/>Am I mistaken?
+16	I have no classes for you.<br/>I am merely your assistant, not a mentor.
+17	Jump into combat yourself if you wish to learn something.<p/>What you can learn about a weapon<br/>can only be learned by using it.
+18	That is the most basic view when it comes to production.<br/>If you are hungry, try hitting a tree, or getting eggs from hens.<p/>You couldn't possibly know this already... right?
+19	It's usually referred to as an action for gathering something to eat.<br/>I wonder if it's similar to collecting weapons.
+20	I understand that some people use weapons for Gathering.<br/><username/>... You wouldn't happen to be one of those people, I hope?<br/>You really can't do something that callous with me.<br/>It's truly unpleasant.
+21	Ah, you mean... the Teardrop of the Spirit?<br/>You do ask about some peculiar things, master.<p/>Don't be fooled. This is not an actual teardrop,<br/>but a type of a crystallized blessing given by the Spirits.
+22	I don't understand why there has to be a separate skill simply for resting...<br/>If it's required... I guess there's no harm in learning it.
+23	So... this is a skill meant for resting.<br/>Resting for humans is similar to how we recover the power of the body.
+24	Getting enough rest is a must for future combat,<br/>or any of the new situations that one might encounter.<p/>Don't forget that finding rest whenever you can is<br/>one of the virtues a true warrior must be familiar with!
+25	I don't know... I knew that already, but it doesn't seem all that important.
+26	Wait, are you... You're not trying to throw the weapon you're holding, right?
+27	Don't forget that you can't throw any other weapons except the Atlatl.<p/>I, ah, apologize if you knew that already.
+28	Music? I wonder if you're really thinking what I'm thinking...
+29	A skill that produces music...<br/>The most beautiful music for me is the clash of swords, but...<br/>It must be different for humans.
+30	I've heard stories that musicians<br/>have a negative view of combat...<p/>I understand that humans consider a peaceful world a virtue, but...<br/>Can you achieve true peace without any power?<p/>If so, feel free to seal me away anytime.
+31	I don't know... What's that?
+32	It's one of the instruments for playing music.<br/>It's a bit unfortunate that one doesn't feel that even with all that wisdom.
+33	I understand that there are some truly foolish humans that use Lutes as weapons...<p/>Please use an instrument for what it's meant for...
+34	I don't know too much about that...<br/>Is it absolutely necessary for this conversation?
+35	I know that it's a skill that produces music, but...<br/>It has little to do with me.
+36	Being able to create something is, in my opinion,<br/>one of the greatest talents of a human.<br/>Spirits simply exist as they are...<br/>If I think about it like that, I am a bit jealous of humans.
+37	It seems like this skill isn't all that relevant for me, but...<br/>Do teach me if I must know.
+38	Hmm... Must I explain this to you myself?<br/>I am a Spirit of the weapon... Creating something<br/>is neither understandable, nor explainable for me.<p/>My knowledge will serve little for the help you seek.
+39	Creating clothes...<br/>Weapons are hardly related to such a matter, but...<br/>I hear it's quite an invaluable skill to humans.<p/>Being able to create something on their own,<br/>I believe, is the greatest advantage of a human.
+40	What was that?<br/>Doesn't really have anything to do with me...
+41	If I'm correct, the Magnum Shot is one of the<br/>stylish skills someone equipped with a bow can use.
+42	I heard that the combination of Magnum Shot and<br/>the Vision of Ladeca is quite impressive...
+43	As the name suggests, it's a skill that uses the opponent's power.<br/>I'm sure you must have already learned it, but...
+44	Counterattacking is an impressive skill.<br/>You should learn it at all cost, if you haven't already.<p/>It'll be much easier to bring down your opponents<br/>by turning their own strength against them.
+45	You might end up hurting yourself, instead of the opponent,<br/>if you go about the brute force way and not use your brain.<br/>The Counterattack skill goes a step beyond such methods, you see.<p/>Should you encounter an opponent who seems immune to your attacks,<br/>I suggest you try the Counterattack skill.<br/>You'd be surprised at how successful you can be.
+46	A fine skill, indeed.<br/>Although it's a bit difficult to master,<br/>I recommend that you make the most of it.
+47	The Smash skill delivers a powerful blow by targeting the opponent's weak point.<br/>If your defenses aren't up to snuff, a strong offense can pick up the slack.<p/>Offense is the best defense.<br/>Try not to forget.
+48	Even if you don't have great strength, you can still make powerful blows<br/>on an opponent from the acceleration of spinning.<br/>That's where the secrets of the Smash skill lie.<p/>If you find yourself lacking the strength,<br/>practice targeting weaknesses or increasing your agility.<br/>That should help.
+49	It seems very familiar...<br/>But I can't seem to remember at the moment.
+50	It refers to the act of catching fish.<br/>One does such a thing for eating, but...<br/>there seem to be others who simply do it for the sport.<br/>I fail to understand what about it could possibly be fun at all...
+51	Those with true, genuine talent can handle anything with a simple weapon.<br/>Fishing, too, for instance...<p/>Don't even think about trying yourself, though. You're not there yet.
+52	As you can see, I'm a Spirit.<br/>I inhabit the very weapon you own.<br/>I appear human, looking similar to yourself, solely for the sake of bonding with you.<p/>Anyways, I look forward to our journey!
+53	I've been sleeping for a very long time in the world of humans.<br/>Locked away in a Spirit Stone... sigh.<br/>Since you woke me up, and offered to teach me about the world,<br/>I plan to provide some help where I can, as well.<p/>So be nice to me, okay?
+54	Um... hey, <username/>... <br/>Humans have something called a... soul, huh? <br/>Can you tell me what that is? <br/>What does it feel like, um... having something like that? <p/>Sometimes... I mean just once in a while, I just get so curious!
+55	Hey, um...<br/>I personally don't believe that humans are all that evil at all... <p/>A long time ago... I heard that the human race was extremely irresponsible.<br/>That... they just let things happen, and avoid taking responsibility for it?<p/>But you see... I personally think that doing nothing,<br/>hiding behind such reasons, is even worse.<br/>Taking action is more important, you know! <p/>...What now? Irresponsible?<br/>How could you!
+56	Well, if the rumors are true...<br/>There are apparently Spirits for other weapons too?<p/>And they're all adults? And.. even stylish?<br/>So... that led me to make a resolution, you see.<br/>I'm not going to be picky at all about what I eat, and...<br/>grow up to be an adult in no time!<p/>Aren't you proud of me?
+57	<username/>, I think there is a huge dragon statue near Gairech Hills.<br/>As far as I'm aware, humans worshiped that dragon as a god once upon a time...<p/>Humans are so vulgar in some ways, you know.<br/>They attack animals that are weaker than them, but worship that dragon like a god... <p/>No matter what stands before you, you must respect its existence. Don't you think?
+58	I don't know... I doubt a human would be capable of imitating any of these skills... <p/>Why don't we talk about that part later?
+59	Did you know? Spirit's stats determine the power of the Spirit Awakening Skill.<p/>That's another way of telling you that you're going to<br/>have to put a lot of effort into me if you want more help!
+60	Oh, <username/>! I've ascended further than I ever thought possible.<br/>Am I just too talented for my station in life?<br/>Oh, what an expert have I become in this world.<p/>Ha ha! I'm only kidding. Only joking!
+61	Hmm... Well, I'm not particularly interested, but...<br/>Since you seem curious, I'll share my opinion.<br/>Just give me something to eat first.<br/>Priorities, you know!
+62	Strange... What, are you trying to get a quest from me?<br/>I thought you were my master? Not the other way around.
+63	If I learn a bit more about the quests of this world,<br/>you'll be the first one I tell.<br/>I mean... You are my master after all. Ha ha.
+64	I don't know...<br/>You seem to be expecting so many things from me...
+65	You're trying to get a Part-Time Job from a Spirit Weapon?<p/>What? Are you really? Like, seriously?
+66	<username/>!<br/>Let me just tell you this regarding the Part-time job: NO.
+67	Yawn... Still, my time is more precious than your petty practice...
+68	Why, yes. You must practice in order to become stronger.<br/>You don't have to bother me with it, though.
+69	Train? You want to become stronger or something, <username/>? Ha.
+70	A gathering skill?<br/>I'm going to make an educated guess and say that<br/>it's got nothing to do with combat...<p/>Uh, if you feed me a great item, I just might remember something to tell you.
+71	Aye, the gathering skill! Of course it's beneficial to learn!<br/>You can harvest potatoes or corn, cut wheat... draw water...<p/>Pick apples too...<br/>And that's just to start!<br/>You should get yourself familiar with the gathering skill.<p/>And don't forget to...<br/>feed me some of the things you get from gathering, okay?
+72	The relationship between humans and nature is very much give and take.<br/>Even the relationship between you and I... It's quite similar.<p/>I guess in a way, the Gathering skill is how that relationship manifests.
+73	Teardrop of the Spirit...?<br/>Oh, you must be talking about this.<p/>Thats what you people call this, huh?<br/>I mean, it sort of does resemble its name...
+74	Hmm... well, I'm not particularly interested, but...<br/>Since you seem curious, I'll give you my opinion.<p/>But first, give me something to eat. Priorities, you know!
+75	You mean that skill? The one that you said you were learning from Nora at the Inn?<br/>Pfft. I thought you were talking about something interesting.<br/>You humans... They just slap on fancy-pants names on even the most trivial things...
+76	I mean... Yes, you call it a skill, per se, but... All you're doing is just sitting down?<p/>Humans are so lazy...<br/>They name the silliest things something fancy...
+77	Hmm? An interesting name?<br/>W-what's that now? Y-you don't think I know something like that?<br/>H-how rude!
+78	Ranged Attack? It's how you use the bow.<br/>Anyone can pick it up easily if they have a bow.
+79	Hmm... Well, there are different ways you can aim,<br/>which is literally the most important thing.<p/>Being able to aim faster is quite important, you know!
+80	Oh, you're curious about the Playing Instrument Skill, huh?<br/>People interested in weapons don't pay any attention to something like instruments. Not one bit.<br/>You truly are one peculiar human, <username/>...<p/>You were interested enough in weapons to form a contract with a Spirit like me,<br/>but you roll your eyes off to something like an instrument, too...<p/>Ha ha. Only joking!<br/>Anyway, you know what would really be neat?<br/>An instrument with a Spirit just like me inhabiting it!<br/>Have you ever heard of something like that?
+81	To learn more about the Playing Instrument Skill, you really need an instrument, right?<br/>Surely you thought of that already, <username/>...<p/>Well... since we're done with that...<br/>Don't forget to take care of your Spirit Weapon, too! Ha ha.
+82	To be honest... Anything that can make sound is technically an instrument...<br/>I, uh... I heard this from someone else, too...<p/>In retrospect, I probably should have questioned it a little harder.
+83	Loot? Lute...? It does sound familiar...<br/>I can't remember, since it was from so long ago...<br/>I bet an item or two would jog my memory!
+84	A lute is an instrument made of wood, leather, and something like threads.<br/>The sound from plucking isn't all that unbearable to hear, to be honest.<br/>However, I have yet to hear anything that truly moved my heart...<p/>How about you, <username/>?
+85	You know... lutes aren't all that bad, but instruments like the<br/>mandolin and ukulele are also quite nice. Check them out.<p/>Are... are we done here? I could use some rest...
+86	You're curious about the Composing skill?<br/>You're not in a hurry, right? Let me explain to you in full.
+87	Composing, like making songs, right?<br/>I've gotten the impression that it's quite a difficult thing to do.<p/>I have no idea why you are curious about something like that, <username/>...<br/>Perhaps I've always underrated you a bit...<p/>I doubt my explanation, given in the language of Spirits,<br/>will be at all beneficial for a human such as yourself...<br/>Why don't you go to a bookstore and study up?<br/>I'm sure that would help you much more.
+88	Oh, why so sentimental, <username/>?<br/>I never expected to hear something like that from you.<br/>What is this desperate curiosity about the Composing skill, all of the sudden?<p/>Well, I'm not telling you, unless you tell me something first! Hee hee!
+89	Tailoring? If you have a skill like that...<br/>Does that mean you can keep on making clothes?<br/>That's awesome! Learn it! Quick!
+90	Tailoring skill?<br/>Whoa, <username/>! Now you sound like a true master!<br/>You're going to make me clothes?<br/>I mean, that's not really my scene... I prefer eating!<p/>I mean, it's understandable...<br/>Humans wear out their clothes from time to time, and their shapes change as well.<br/>I guess they would indeed need new clothes more often than they think.<br/>But... I swear, some people had multiple sets of the same clothes...
+91	I mean, people tell me I look cold with the clothes I'm wearing right now...<br/>Maybe I could do with a new outfit... especially if you made it.<p/>But it has to look good on me!<br/>I don't care about the contract, I'm not wearing something hideous.
+92	I can't tell for sure. Who knows, huh?<br/>If you feed me a lot of good items, I might suddenly know...
+93	I heard once that it's got something to do with a bow.<br/>I don't know any more than that.
+94	The Magnum Shot is a skill where you focus all of your strength<br/>into drawing the bow to its maximum tension.<br/>That makes for one big, damaging shot.
+95	The Counterattack skill?<br/>I think I know a few things about it, but I'll tell you later.<p/>I mean, you are my master after all.<br/>I can't tell you something I'm not entirely sure of, can I?
+96	As its name suggests, the Counterattack is a skill where you counter the attack from an enemy.<br/>You must be cautious that you use this skill at the correct time.<p/>Timing isn't really your specialty, so you might not want to rely on this one...
+97	You know what, <username/>?<br/>I've been thinking...<p/>If you train really hard, and I mean like... super hard...<br/>To the point where you can use the Counterattack skill as you please...<p/>...What would happen if you could Counterattack a Counterattack?<br/>Would that even be possible? I'm kind of blowing my own mind here.
+98	The Smash skill?<br/>You'd use it during combat I suppose?<br/>I think I remember you asked earlier, too...<p/>Maybe not. Perhaps I'm thinking of something different.<p/>Ask me later though. Not now.
+99	I'd appreciate it if you gave me a signal or something before you use the Smash skill.<br/>I gotta prepare myself, you know. It's a lot of strain.<br/>If you just pop it off without any warning, it hurts. You get me?
+100	I'm glad you brought that up.<br/>Don't grip the handle too tight when you use the Smash skill!<p/>It hurts! I can be kinda delicate, you know!
+101	I don't think it's something that requires experience, but...<br/>Still, if you give me something to eat...<p/>I just might consider giving you a different answer...
+102	You know, the thought crossed my mind when you mentioned fishing.<p/>The fish get fooled by their own greed for a momentary gain<br/>and end up on the hook. But humans fall for similar ruses, right?<p/>Seems like we're all on someone's hook...
+103	Aren't you a little too fond of fishing?<p/>You might earn yourself a grudge from all those fish that you hook...<br/>Even the fish with arms and legs...
+104	Originally, I had no physical body.<br/>This appearance is specifically formed to make our relationship easier for you.<p/>That's all. There's no deeper meaning here...
+105	About me...?<br/>You often ask intriguing questions, master.<p/>I am originally a being of nature.<br/>However, once I inhabit a weapon, my purpose is to serve.<p/>So, as owner of the weapon, you are my master.<br/>There's no denying this fact.
+106	Do you know what the most tragic Spirit in this world is, master?<p/>It is a weapon without an owner.<p/>To be bound to a weapon is to serve.<br/>Without an owner, we cannot serve.<br/>Imagine what torment that must be...
+107	As a Spirit, I am not well versed in rumors of the humans.
+108	I hear that a wide variety of Spirits exist across the world...<br/>Of course, some will be feminine in nature.
+109	What kind of rumors do you wish to hear, master?<br/>I know plenty about nature... but that might not be so useful to you.
+110	I don't think humans possess the technology that I seek.
+111	I am a originally a being of nature...<br/>My appearance is simply an illusion to help you relate to me.<p/>However, when the time comes...<br/>This version of me will be available for you to use as one of many great powers.<p/>See to it that I grow well, master.
+112	When all is ready, choose me on the battlefield.<p/>I shall fight for you myself, master.
+113	You need not trouble yourself too much with the affairs of Spirits, master.
+114	I do not give orders. Spirits are companions and guardians.
+115	You are my master, <username/>.<br/>Surely I need not give you orders?
+116	Part-time jobs... what does that mean?
+117	I'm merely a weapon...<br/>How would I give you work to do?
+118	I'm sure the townsfolk have loads of things for you to do if you simply ask them.
+119	That is not a topic for me.
+120	Find yourself a school for classes, master.
+121	Have you already taken all available classes at the school, master?<br/>I really think you should go to a school for such things.
+122	You mean... Gathering ores?<br/>I can't be sure.
+123	No matter what production skill you're talking about...<br/>They all have the first step of collecting things.<br/>Since it's such a fundamental thing, you should focus on that.
+124	I've heard that rich humans pay others to gather for them...<br/>Surely one ought to do his or her own work.
+125	The Teardrop of the Spirit?<br/>If you need this, master...<p/>This is a blessed crystal given by the Spirits.<br/>For some reason, humans call this the Teardrop of the Spirit.<p/>Don't be alarmed...<br/>I have no reason to shed tears when I'm with you, master.
+126	You need a separate skill for resting?<br/>I'd hate to miss out on learning something like that.
+127	I heard you can learn it at a place called the Inn...<br/>Don't tell me you haven't learned it yet!<p/>It's not possible for humans to recharge themselves,<br/>so it's crucial for them to get rest.<p/>Careful not to push yourself too far, master.
+128	The higher the efficiency from resting, the better it is for warriors.<br/>I suggest that you learn the Resting skill immediately.
+129	That's a skill used by Sharpshooters.<br/>I have no more details than that.
+130	It's a skill for long-range weapons.<br/>There's no harm in learning everything out there, don't you agree?
+131	You seem particularly interested in ranged attacks, master...<br/>Eliminating your enemies at a distance might seem safe,<br/>but it is easier said than done.
+132	I don't know... Teach me if you wish, master.<br/>Feed me items from the human world,<br/>and I will add that knowledge to my powers.
+133	It's a skill where you hold an instrument and play it.<br/>They say it's something needed to make music.<br/>I suppose it's a much-needed skill, as they say<br/>good music has the ability to heal people.
+134	Although it's not a skill that is directly relevant to life, or combat...<br/>Humans are capable of comprehending and appreciating the intangible.<p/>I believe it is because the humans have such heart to accept music<br/>that they also have the heart to accept Spirits like us.<p/>I'm sure you have such a heart too, master?
+135	A lute is... an instrument.
+136	A tool to play an instrument.<br/>Looks quite fragile.
+137	A true warrior can win with even the simplest weapon,<br/>and so too can a true musician make great music with any instrument.<br/>Or so they say. I guess they mean that a lute's as good as anything.
+138	Sounds like a skill I don't care about.
+139	It's a skill that makes music.<br/>A crucial skill, I hear, for a Bard.
+140	I hear Composing is difficult...<br/>Do you have much interest in Composing, master?<br/>Perhaps you're better off asking other humans<br/>who have more knowledge in music than I.
+141	I'm not entirely sure what that is, but...<br/>I figure the name suggests a skill that makes clothes.
+142	It's a skill one must know to make clothes.<br/>Human bodies are fragile and weak...<br/>It wouldn't make sense for them to remain bare like animals or Spirits.<br/>I'm sure clothes are much-needed protection, as well.
+143	Are you more of a fan of style, rather than substance, master?<br/>It's just an impression I got from the clothes of the humans.<p/>If you ask me, I'd prioritize protection over appearance.<br/>Your safety is my greatest priority, master.
+144	That sounds like a skill I'm not familiar with.
+145	They say you can deal powerful damage using the elasticity of a bow.<br/>It strikes me as the equivalent to the Smash skill of brawling.
+146	Do you have much interest in bows, master?<br/>Perhaps you ought to teach yourself the Magnum Shot, if so.<p/>Just be warned that more powerful skills need more investment to master.
+147	It's a skill that performs a counterattack, using the opponent's attack power.<br/>Although it's difficult to time this skill right, the benefits are massive.
+148	It's a skill that boosts your power with that of your opponents, returning double the damage.<br/>Should you master this skill, you'll see some satisfying results.
+149	As suggested by the name, Counterattack can only be performed when an enemy attacks you.<br/>That means it's crucial that you see the attack coming.<p/>Pay careful attention to you enemy's movements, and<br/>react quickly to changes in their patterns.<br/>Mark my words, and you'll come out on top every time.
+150	If you wish to know, master...<br/>Smash is an attack skill that delivers a truly mighty blow.
+151	If you are getting yourself into combat as a warrior,<br/>I highly advise that you learn this skill.
+152	In theory, the Smash skill is most effective with powerful weapons,<br/>but those can be difficult to wield effectively.<p/>Now, if you have a Spirit Weapon, the Spirit can help.<br/>Ultimately, though, you need to be dexterous to maximize the effects.
+153	I have no idea what you're talking about, master.
+154	It's describing the act of catching fish.<br/>It is technically a sub-category of gathering, but...<br/>I believe there are many who enjoy it as a hobby.
+155	I believe fishing is only available in specific locations.<br/>Moreover, you can catch different fish depending on where you go.<br/>Perhaps you ought to test it out in various locations.
+156	People call something like me a Spirit Weapon.
+157	Our relationship is one that formed out of a contract.<br/>I look forward to the adventures ahead of us.
+158	I tend to stutter on subjects that I'm not well versed in.<p/>Surely, <username/>...<br/>Surely you won't make fun of me for that?
+159	I think there's just no end to human greed.
+160	I believe there is a mine, full of sleeping spirits just like me, in the Dungeons of Bangor.<br/>Perhaps that's why so many people travel to that place these days...
+161	I meant to ask...<p/>We'll be together for a long, long time... Right, <username/>?
+162	Um, about... skills?<br/>I, uh...<p/>I wish I could help you, but I've been asleep for so long...<br/>I doubt anything I know would be of any use to you.
+163	Would you be able to help me grow a bit more?
+164	Ahh... I have yet to reveal the full extent of my powers to you, <username/>.<p/>There exist powers that draw Spirit strength to the maximum.
+165	What...? A quest...?
+166	If you ask someone like me, a Spirit inhabiting a weapon, I...<br/>I'm afraid there isn't much I can tell you...
+167	Since you made a contract to use me...<br/>I promise to follow you wherever you go.
+168	A Part-time what now...?
+169	A Part-time job...<br/>A Part-time...<br/>Sorry, I can't say I'm familiar with that.
+170	I heard that Part-Time Jobs are a lot of pressure from residents, right?
+171	Lesson and training?<br/>I'm not sure... <br/>Sorry.
+172	I heard people called students receive experience from people called teachers.<p/>Seems like an interesting way to preserve knowledge across generations...
+173	<username/>, do you go to school?<br/>I heard there are people who learn without going to such a place.
+174	Gathering skill?<br/>Uh... <p/>...<p/>Ah, this won't do...<br/>I want to gather my thoughts a bit more before we talk...<br/>Is that okay?
+175	When we talk about this,<br/>I realize the way of life for humans is different from Spirits...<p/>Ah, what have I been saying? I'm sorry.
+176	Once you learn the Gathering skill, you can obtain many things from nature.<br/>Not just the flowers in the field and the water from the lake,<br/>but you can also get food and firewood from trees.<br/>That's not all. You can get minerals from mines...<br/>I remember that's how I met you...<p/>I think Gathering is the most basic skill for humans living with nature.<p/>However, avoid profiting off of anything ruinous to nature.<p/>There are people who, due to their greed, devise ways to<br/>obtain more even though they don't need it...<p/>...<username/>, you're not such a person, are you?
+177	Eh? Are you... going to make me cry? <br/>Ah... you're mean... <p/>...<p/>Oh... that's not it... <br/>You're talking about this. <p/>...I misunderstood you. I'm sorry.
+178	Rest... skill, huh?<br/>Uh... that's... that's... <p/>I'm sorry. I'm not really sure...<br/>I might be able to find out from an item<br/>that people use to rest...
+179	Most people who use the Rest skill do it sitting down.<br/>I found out there's a connection between sitting and rest.<br/>Not a bad deduction, right?
+180	Rest skill? I know a lot about that.<br/>It's the best skill for resting after an exhausting trip.<br/>The thing is, people are different from us Spirits.<br/>They're bound to the shackles of their physical body...<p/>But sometimes I envy the humans for that.<br/>We're spiritual beings.<br/>We treat the weapon as our home and body.<br/>I sometimes wonder how it would feel to be a<br/>physical being who can move at will...<p/>Hey, what does it feel like?
+181	You mean... the Ranged Attack?<br/>I don't know much other than it's a skill used for ranged attacks....<p/>But one thing's for sure... <br/>That skill cannot be used without a Bow or a Crossbow.
+182	I guess people are attracted to the Ranged Attack skill<br/>because it can attack targets even from afar.
+183	You do know that the more you use your Ranged Attack,<br/>the more precise your arrows will be, right?<p/>It makes sense. It would be heartbreaking to shoot an expensive arrow<br/>only to have it not make it to the target, and become lost.
+184	Yeah, I think it's a skill to play an instrument!<p/>But... that wasn't the answer you weren't looking for, huh...
+185	A thought came to me after hearing about playing instruments...<p/>So... do you think people should just play what's in the score?<p/>'Cause, you know, sometimes...<br/>You want to play something new with your new instrument...<p/>I feel like it's a bit of a frustrating thing to ignore<br/>the melody in your heart while playing just because of the score.
+186	It looks like people really put in their best when it comes to music...<p/>That's why I find human beings so interesting.
+187	Lute? I don't know...<br/>Well, I know it's an instrument that humans use...<p/>Hey... I wasn't much help, huh...<br/>It's just that... I'm not really used to the human world yet...<p/>I wonder if I'll ever adjust to this place...
+188	Lute is the name of an instrument.<br/>I heard it's one of the most common instruments, too.
+189	It's an instrument that's played by plucking the strings...<br/>But it looks like people don't use it only to play music... <p/>They're crossing into my territory! I cannot forgive them!!
+190	Composing skills? <br/>If I remember correctly... <br/>I heard you can make songs...<p/>Is that true? I don't want to be wrong...
+191	I think being able to compose is a blessing from the gods to humans.<p/>There are some Spirits that can make songs of the Spirits...<br/>But a Spirit like me could never do such a thing.<p/><username/>, just between you and me...<br/>I'm actually tone-deaf.
+192	I... have something I'd like to say...<br/>I heard some people write songs FOR people they care about...<p/>I wonder how a song like that would make me feel...<p/>It's probably an emotion only humans can feel... right?
+193	Tailoring?<br/>So... you can even make clothes to wear?<p/>That can't be true.<br/>How could anyone have such power?
+194	It is a pretty useful skill, as far as I know...<br/>But to make something like what I'm wearing right now...<br/>That would be too difficult, right?<p/>Spirit clothes are not actual clothes, anyway...<br/>Hey, in a sense, I made this myself.
+195	I heard those with a high Tailoring skill deliver to Clothing Shops and such.<br/>I think it's really cool to be acknowledged for your skill like that.<p/>To think that people will buy and wear the clothes you've made...<p/>Heh, I'm kinda jealous of them now.
+196	Magnum Shot...<br/>I'm not certain, but...<br/>I think it's a ranged skill...
+197	Oh. If I'd known that's what you meant by Magnum Shot,<br/>I could've given you an answer more quickly... <p/>Now I know that it's a skill to shoot with more force,<br/>by pulling back the string as hard as possible.<br/>...Seems obvious, doesn't it?
+198	Magnum Shot is a skill that's practiced by Archers.<br/>I heard it lets you shoot your arrow or bolt with more force than normal.<p/>When you're suffering from injuries in battle,<br/>I'm sure help from these Archers is desperately needed...<p/>Please don't try to fight alone...<br/>For you, and for me, who's always by your sise.
+199	Counterattack? I think I might know what that is... <p/>I just don't feel so confident saying so yet...<br/>So, yeah...
+200	Counterattack skill... Hmm... So this is...<br/>It's a skill that counteracts enemy attacks, right?<br/>Leaves the enemy open for a big hit.<p/>But I heard that people who use this a lot can't be trusted.<p/>Do you know what that means, by any chance?
+201	The opponent sometimes provokes you to bait out a Counterattack.<br/>So when you're fighting, always keep this in mind.<p/>If you were to pretend to use a Counterattack skill,<br/>it might be a good way to confuse the opponent.
+202	Smash skill?<p/>I don't know... It may or may not be the skill I'm thinking of...<br/>I'm not too confident in my answer.<p/>I'd really like to learn more before answering these questions...
+203	Did you say... Smash?<p/>What do I do... should I say this or not...<br/>Oh, sorry. Don't mind me...<p/>I'll just... tell you next time.
+204	Yes, if you practice the Smash skill hard, it'll really help you out.<p/>Just don't hit too hard with the weapon I'm in...<p/>It hurts...
+205	Fishing skill?<br/>I don't know anything like that...<p/>Do I have to know that?<br/>Are you going to make me go fishing?
+206	Oh, I know about that.<br/>It's a skill that's used for fishing.<p/>Though it does appear that some people use it not only for fishing...
+207	I heard Water Spirits like to mess with fishers, and send them other items.<br/>It's partly for fun, and partly to spare the fish.<p/>I'm more interested in the objects than the fish anyway.<p/>Though the more I think about it...<br/>Those Water Spirits should be less stingy with their items.
+208	Umm... about me?<br/>Hmm...<p/>Gosh, I don't remember much...<p/>I haven't even been around that long...
+209	Are you really all right contracting a kid like me as your Spirit?<br/>I mean, I know so little...<p/>But, I promise to use all my might so I can be of help to you!<p/>Just, y'know... Please help me grow!<br/>I promise you I'll grow to be the best!
+210	What's your favorite color, <username/>?<p/>Mine is blue. It's also the color of your mana, the sky, and...<p/>Well, it's just a super soothing color.<br/>The seas are supposed to be a deep, relaxing blue, too.<br/>I wonder what else is blue...<p/>Uh... Are my eyes blue?<br/>If that's what you want, they just might be...
+211	I heard there are female Spirits.<br/>I'd love to meet them...
+212	Hmm... The appearance of Spirits doesn't always match their power<p/>But then, I wonder what causes us to look like adults?<p/>I guess I just have to be around for a long, long time...<br/>Umm... Does that mean I'll be this big for a long, long time?
+213	I hear that some Spirits go back to being a stone<br/>because their master doesn't take good care of them...<p/>If that's true, isn't it just the saddest thing?<br/>You wouldn't do that to me, right, <username/>?
+214	What could I possibly teach you?
+215	I'll try my best to be helpful to you.<p/>So, um... please help me a bunch to grow and gain knowledge!
+216	It's quite the kerfuffle until you can actually see it in action,<br/>so I might not able to help you all that often.<p/>However, when that time comes...<br/>I'll show you the true power of the Spirit, <username/>!
+217	Are you trying to do a quest of some sort?<br/>You should be looking for people who need your assistance, then...
+218	The Town Office... Let's see, they have a lost and found,<br/>and a place to get quests to help other people, right?<p/>I'm sure people would love to have your help.<br/>I know I do.
+219	Open up the scroll that the owls deliver to you<br/>to get all sorts of quests that people commission.<p/>You're not obligated to do these things for them,<br/>but if you think about how they personally chose you for the task...<br/>Well, you wouldn't want to disappoint them, right, <username/>?
+220	A Part-time what?<br/>I have no clue what you're talking about...
+221	Oh... I'm not the person who gives out Part-Time Jobs.<br/>I am a Spirit. Remember?
+222	You ought to ask the townsfolk for something like that, you silly.<br/>Part-time jobs from a Spirit... ha!
+223	Am I no fun because I don't know all that much?<br/>I'm worried that you might think less of me as a Spirit...
+224	I do love to study, it's true...<br/>I can learn when you bring me a bunch of items, <username/>...<br/>Speaking of which...<br/>Why don't you go bring me some?
+225	Oh, how I wish I could go to a school and take lessons with you, <username/>!<p/>I apologize for being so needy in my quest for knowledge.
+226	You mean like... collecting stuff?<br/>I assume there's a lot more to it, if it has a specific name...<p/>Why don't you tell me more?
+227	It refers to all the benefits you get from nature.<br/>I wish I could help out, but...<p/>Spirits are without a physical body...<br/>I'm sorry I can't help in that matter.
+228	Did you know that everything affects your gathering efforts?<br/>From the people nearby to the weather in the region...<p/>And you can speed up the process by working with others.<br/>No reason not to work together, if you have the same goals.<p/>How do I know these things, you ask?<br/>It's all thanks to you, <username/>. You gave me the knowledge!
+229	Huh? Teardrop of the Spirit...?<br/>Why would you need something like that?<p/>This is our special power, crystallized like a gem.<p/>Did... did you think it was an actual tear?
+230	There's a separate skill for... resting?<br/>Oh, wow... How bizarre.<br/>I learned something new!
+231	Sitting down is like the very foundation of resting.<br/>I hear it's good to sit down when you're healing, too.
+232	What is your rank for Rest, <username/>?<br/>I've heard it's quite useful once you rank it up, costly though it may be.
+233	I'm sorry... I'm completely inexperienced in that area.<br/>Some new items might help me figure it out...
+234	It's a skill that attacks targets far away.<br/>I would still advise using magic over that, though.<br/>Even basic spells like Fireball or Thunder have more impact.<p/>Hmm... I wonder how hard it is to learn magic like that.<br/>I've always had magic, so I never really considered...
+235	You know, I've been researching that, just in case you asked!<br/>It's a great skill for hitting things far away, but you have to<br/>make sure to finish them off before they reach you.<p/>That's why people study skills like Magnum Shot or Arrow Revolver so hard.<p/>Turns out learning Magnum Shot is pretty easy,<br/>but learning Arrow Revolver takes a whole quest!<br/>You can get started with a person called Aranwen, if you want.<br/>So... How was that? Was it helpful?
+236	Playing instruments...<br/>I'm not too sure.<br/>I'm curious if it's anything like the one I know...
+237	It's a skill that makes music, right?<br/>I do so love music.<p/>When you decide to play, please let me hear, <username/>!
+238	I stand in amazement when I see people play music together.<br/>People call us Spirits beautiful, but...<br/>In those moments of creation, humans are much more beautiful.<p/>And among all of them, you're the best, <username/>! Ha ha.
+239	What's that?
+240	It's an instrument that makes beautiful sounds, right?<br/>You've got to play it for me sometime.<br/>I'd love to hear you play music, <username/>.
+241	The lute is classified as a string instrument, you see.<br/>I've been told that there are other string instruments, like mandolin or ukulele.<p/>They each seem to have a different color, in addition to<br/>different ranges of tones that they produce!<br/>Perhaps you ought to keep this in mind when you're<br/>playing with a bunch of other people.
+242	Music... Music for humans would be quite different than for Spirits, right?<p/>Hmm... I wonder how so...
+243	You're talking about the skill that makes music, right?<br/>I heard it requires quite a bit of talent...<br/>I'm sure it'd be a piece of cake for you, <username/>!<br/>Since those who are adept in magic are highly intelligent, you know.
+244	Having the ability to be able to create beautiful music<br/>with a few simple symbols is a true blessing.<p/>Start out by retracing the steps of others,<br/>and move on to eventually making your own.<br/>All things in this world are defined by consistent rules.<br/>Music is no different.
+245	Clothes? What's that? You mean, these things I'm wearing right now?<p/>Hmm, this is just my appearance...<br/>I guess it must be different for humans.<br/>Why don't you tell me more about this?
+246	It must be quite detailed work, huh? Making clothes...<br/>I hear that it's more efficient to cooperate with others on difficult tasks.<br/>I'd love to try on clothes you made, <username/>! Haha.
+247	The finishing touches of sewing are what's truly important in making sturdy clothes, I hear.<br/>A skilled laborer can sew fast to produce sturdy clothes,<br/>as if they are making multiple layers.<p/>If you have the desire to produce fine clothes,<br/>but lack the talent as of now...<br/>Commissioning professional work might yield you better results.
+248	I can't be sure...<br/>What kind of skill is that?
+249	It's a skill exclusive to a bow, where you strike with a single, powerful shot.<p/>Be warned that you can sometimes miss your Magnum Shot, though.
+250	I hear you can run around even while casting Magnum Shot if you're using a crossbow.<br/>I guess every skill has its appropriate weapon.
+251	That skill name sounds awfully terrifying...
+252	It's a skill that turns an enemy's strength against them, knocking them down.<br/>I wonder how that works...
+253	If you're watching a friend cast the Counterattack skill, don't you worry?<br/>Seems like such a risky move...
+254	I'm not sure what that is...
+255	You just charge in and knock the enemies down, huh?<br/>I think these skills like Smash are truly terrifying...
+256	The Smash skill, as powerful as it is, has quite a few flaws.<br/>I hear that you're quite easily counterattacked if the opponent sees it coming.
+257	I, uh... have no idea what you're talking about.<br/>Is it like a gathering skill?
+258	Is fishing fun? I heard you catch all kinds of things while fishing<br/>I'm curious what those are.
+259	If I'm not mistaken, you can fish things related to dungeons a lot more frequently<br/>from the Emain Macha lake than you would anywhere else.<p/>Perhaps it's because all of the water flowing inside the dungeons is,<br/>after all, connected to the bottom of the lake?
+260	I was without a physical body, but here I am before you,<br/>in the shape of a human, thanks to our bonding.<br/>It might sound a bit too serious,<br/>but I hope you cherish this relationship.<p/>There's nothing more miserable for a Spirit than trusting a human<br/>who fails to cherish the relationship...
+261	The light that the Spirit puts out around your weapon<br/>represents the blessing of the Spirit.<p/>Although I may not be much help to you right now...<br/>This light ought to remind you of something that you can trust and rely on<br/>during that one destined moment that you're bound to face...<p/>So... Be sure to take care of your weapon. And me!
+262	The more I learn... and the more I'm capable of doing...<br/>I somehow miss the first time we met, <username/>.<p/>I never imagined I'd think about something like this...<br/>I wonder what changed? I wonder why I miss the past?<p/>If... I mean, I emphasize that it's only hypothetical, but...<br/>If I became a human...<br/>If I could be born as a human...<br/>What would that be like?
+263	We are all Spirits, but there's a fine line between Spirits like us, who inhabit a weapon,<br/>and the Spirits who appear from the will of nature.<br/>Strictly speaking, their powers are much greater than ours...<p/>Oh, dear... You look quite disappointed.<br/>If you'll allow me to continue...we're not entirely weak.<p/>When the human and the Spirit bound by the contract form a perfectly harmonious bond,<br/>the resultant power is comparable to that of nature Spirits.<p/>But don't let power be the only thing you chase.<br/>That'd be very sad...
+264	I heard humans made up stories about weapons with their own will,<p/>as well as weapons that take control of humans who wield them.<br/>I believe such stories are made up out of fear...<br/>A fear combining the unknown powers and natures of Spirits.<p/>To be honest... we've affected each other a lot since we met.<br/>So maybe there's some truth to the rumors?<br/>What do you think?
+265	When humans refer to nature, it often feels like they forget<br/>the fact that they are also part of nature.<p/>I wonder what urges them to separate themselves<br/>when the link is so clear?<p/>What do you think, <username/>?<br/>Do you consider yourself in unity with nature,<br/>or do you see yourself as a separate being from nature?<br/>...You know, I only seem to think of these things when I'm around you, <username/>.<p/>I'm sorry, ha ha ha...
+266	You're curious about skills?<br/>Perhaps you ought to ask a human who might know more about skills than I?
+267	Humans learn things from their teachers, or so I hear.<br/>In the human world, are there teachers who teach you skills?<p/>Well, then. They're the ones you should be talking to<br/>if you'd like to learn more about skills.
+268	Be warned that the power of skills may diminish<br/>if you don't take good care of me!<p/>Ha... That was no threat, by any means.<br/>Just... take it as a suggestion to treat me with respect, <username/>.
+269	Hmm? You want a quest from me?<p/>Sigh... What a disappointing attitude you have.<br/>If you took the responsibility of a contract with me...<br/>Doesn't that mean you should find tasks for yourself?<p/>I may inhabit your weapon, but I don't run your life.<p/>Really, now... what kind of "master" takes jobs from random people?
+270	The owl that flies in with the quests... Let's see...<br/>Its name is... Petrock.<p/>That lady Nao isn't much for naming, is she?<br/>Ohh, I'm just kidding.
+271	That space where Nao's owl flies around...<br/>That pure white space where Nao lives...<br/>Is it even a part of this world?<p/>Even I can't tell what that place is...<br/>And I'm a Spirit!<br/>As strange as it all is, one thing is clear...<br/>Even from there, she can extend her influence to this world.<p/>Nao... I wonder who she really is...
+272	You wish to know about Part-Time Jobs.<br/>That's nice. But I'm a Spirit.
+273	That's a bit tricky.<br/>Why don't you think about our contract a bit more carefully?
+274	What makes you think that I'm in any position to tell you what to do, <username/>?<p/>I mean, I could give you advice, but...
+275	The school, I hear, is a place where people lacking the experience or wisdom<br/>to live in this world gather to learn from more educated people.<p/>Honestly, I don't see how such a service is even necessary...
+276	It seems that those who lack experience piece together their own<br/>from the stories and instructions of others.<p/>I see how the truths from one generation are passed on to the next.<p/>I suppose there is no better way for mortal humans...<p/>Humans are so... interesting. Ha.
+277	I hear that one goes to a place called a school for lessons and training.<br/>I guess it's fine if you plan to teach yourself, but...<br/>In my opinion... What makes the human being truly shine is<br/>their relationship with one another.<p/>Perhaps you ought to visit a school if you wish to train.<br/>I suppose you'll find plenty of others just like yourself there, <username/>.<p/>Go. Talk, and try to understand one another.<br/>Build a relationship. How does that sound?
+278	I mean... About something that I haven't absorbed or experienced myself...<br/>I really can't tell you much.
+279	Gathering is a skill that allows humans to acquire things<br/>from nature, things they need for survival.<br/>It seems that you'll have an easier time acquiring things<br/>you need from nature if your Gathering skill is high.
+280	To be honest, I always thought Gathering was a daunting and difficult skill.<br/>As it turns out, however, it might not be.<p/>Gathering eggs from hens,<br/>making firewood from trees,<br/>or simply getting water from a stream...<br/>These are all basic Gathering tasks.<p/>I see this as one of the issues with my manner.<br/>I get so serious over the tiniest things...
+281	The Teardrop of the Spirit isn't an actual teardrop, you see.<br/>It's like a small gem... A manifestation of our power of blessing.<p/>I don't know what you plan to use it for, but... <br/>I hope you find a good use for it.
+282	Rest skill... Let's see...<br/>Well, my notes on this appear to be missing.<p/>Honestly, I don't know enough about the human world yet.<br/>The concept of a Rest skill seems odd to me, so I'm not the right one to ask.
+283	The Rest skill soothes the fatigue of the human body.<br/>The human body is like a container for the soul,<br/>drifting amidst all the substances that compose this world.<p/>When the body is weary... its soul loses a place to take refuge.<br/>Humans are quite different from Spirits in that they rely heavily on substances.<p/>Finding yourself the most stable posture<br/>that alleviates the tension across various parts of your body, I'd say,<br/>is the fundamental principle when it comes to resting.<p/>Not to mention how something like a campfire that<br/>gives you warmth would just make things perfect...
+284	As the Rest skill's rank climbs higher, it will recover more HP and Stamina for you.<p/>That is... If you have a high rank in the Rest skill,<br/>you'll be able to stay active for a lot longer by recovering faster.<p/>Know your way around this skill, and will save you plenty of time.
+285	A Ranged Attack... Hang on a bit...<p/>I don't think I have it jotted down here...<p/>It looks like I have to write it down again...<br/>I'll let you know how it goes. Sorry.
+286	Indeed. The Ranged Attack allows you to attack enemies from afar.<p/>You'll learn about it quite naturally if you equip a bow.<br/>By that same token, you can't really<br/>use this skill without a bow or a crossbow.<p/>I sometimes feel for humans, and how strict the<br/>rules of substances are on you.
+287	It's a common misconception that many believe attacking from afar<br/>can only be performed using the skills of the Ranged Attack...<p/>However, it's possible to attack those at a distance using magic as well.
+288	Do you wish to know about the Playing Instrument skill?<br/>Hmm... Judging by my notes... I know nothing about it.<p/>In any case, feed me some things and...<br/>I'll try to find out more about it.
+289	Ah, haven't you asked before about this? The Playing Instrument skill...<br/>Playing an instrument is a blessing from great nature.<br/>The sound of water in its flow... the howling wind...<br/>The chirping of the birds, as well as the cries of insects...<br/>The instrument is the very masterpiece of humans<br/>in an attempt to imitate these sounds.<p/>If you're interested in this skill, you ought to<br/>get your hands on an instrument first.
+290	If you're interested in the Playing Instrument skill,<br/>I suggest you go to a town or a city and ask another human<br/> who appears to be well-versed in this subject.<p/>I'm afraid there's a limit to what a Spirit can explain...
+291	Lute... Are you talking about the instrument?<br/>Hmm... I'll tell you another time...
+292	A lute is a type of an instrument.<br/>One of those instruments made in an attempt to imitate the sound of nature...
+293	The sound was made to resonate from a couple of strings<br/>attached to a wooden vessel, you see.<br/>I sometimes think that it couldn't be humans who first thought of objects like this.<p/>What do you think, <username/>?
+294	The Composing skill? ...Oh, I have something noted here.<p/>Let's see... A skill used for writing music.<p/>Oh boy. That's all I have. I'm sorry.<br/>However... If you feed me something so I can better understand your world...<br/>I might be able to give you a more satisfying answer, <username/>!
+295	You'll be able to compose songs of greater length as<br/>your Composing skill climbs up in rank.
+296	Why not challenge yourself in composing if you're so interested?<p/>I mean, as long as you don't forget to talk to me between compositions...<br/>I mean... Not saying that you would do something like that, <username/>!
+297	Tailoring, huh? I could tell you all about that without looking at my notes.<br/>I mean... As the name suggests, it's a skill used for making clothes.<p/>It's also entirely useless for spirits.
+298	If I had to pick, I'd say the Sewing Pattern is what's most important<br/>when it comes to Tailoring. In my opinion.<br/>I mean, I'm not overstating anything when I say<br/>that the final shape of the clothes you make comes from the Sewing Pattern.
+299	I mean...<br/>You should find the Sewing Pattern for the clothes I'm currently wearing... If, you know, you want to make it.<p/>I hate to tell you, but I haven't seen such<br/>a Sewing Pattern in all the decades of time I've been alive.<p/>This is something created by the power of the Spirit,<br/>forged by the very bond of ours.
+300	The Magnum Shot is a skill unique to those who use the bow.
+301	Simply put, it's like the Smash skill , but for Ranged Attacks.<p/>Wait, I'm not sure if that came out right...
+302	I hear you can shoot an arrow with greater force by using the Magnum Shot skill.
+303	The Counterattack skill?<br/>Hmm... All I know is that it's a skill exclusive to melee combat.<br/>I'll do my best to research it if you'd like to know more, <username/>.<p/>You gotta help me learn more about this world too, mm'kay?
+304	The Counterattack skill turns the power of the opponent's attack against them.<br/>I could see this being useful in times of crisis.
+305	You ought to use a skill like this in combat, really...<br/>I hardly see this being appropriate for other human interactions.<p/>Revenge always gets back at you with greater severity, you know.<br/>It might as well be the law of human interactions, but...<br/>It is also the law of nature.
+306	The Smash skill?<br/>Hmm... All I know is that it's a skill exclusive to melee combat.<br/>I'll do my best to research it if you'd like to know more, <username/>.<p/>You gotta help me learn more about this world too, mm'kay?
+307	Oh, yes! I dug a bit deeper into the subject,<br/>since you seemed interested last time, <username/>!<p/>Smash is a skill that attacks the enemy by concentrating your<br/>energy in an instant and directing that blow on a single point.
+308	I think it is capable of delivering a blow much more powerful than generic attacks.<p/>Be warned, however, that when you use the Smash skill,<br/>you leave yourself vulnerable to taking even greater damage in return,<br/>should your opponent perform a counterattack.
+309	I believe that's a method for catching fish.<br/>Let's see... To fish, you'd need a fishing rod, a bait tin, and...<br/>Oh, of course! Some place where you can fish.
+310	Catching fish would indeed be extremely difficult, since humans<br/>were not designed to live under water.<p/>Still, the humans make tools to challenge themselves on just about anything.<br/>Among the handful of ways that you can catch fish,<br/>fishing allows you to do it most easily.
+311	Hook the bait on the fishing rod and idle it on an appropriate location where fish swim by,<br/>luring the fish to bite down on the bait, and voila!<br/>You catch the fish!<p/>It seems that it's a lot easier said and heard than done.<p/>I mean, I suppose idling the rod and waiting endlessly is an option, but...<br/>If you're at all serious about catching fish, I hear that it's all about<br/>pulling at the right time. Perhaps you ought to keep that in mind?<p/>Oh, and also... I hear fish isn't the only thing that you catch from... fishing.
+312	Oh, right! What are your impressions of me?<p/>I mean... Do I look handsome? Cute? Am I cool? Tell me!<p/>Getting to know all about the holder of our contract,<br/>the one who will be serving me, is priority one!<p/>By the way...<br/>Are you a male, or a female?<p/>Wah! You look so upset!<br/>Why are you so upset all of a sudden?<br/>Can't you see that I'm a Spirit?<br/>It's only natural that I ask questions like this!<br/>All right, all right! I'm sorry!<p/>Hmph... So sour...
+313	Heh heh heh. I somehow knew you were really interested in me.<br/>I don't need to remind you that humans serving Spirits<br/>are obligated to check in frequently and extend friendly greetings, right?<p/>I guess you're one master who does this kinda well...
+314	Hey, <username/>! Listen up.<br/>I couldn't help but notice that you sometimes forget I'm here,<br/>and go off to chatter on with other people,<br/>or just blank out on me!<p/>Did you even think for a moment about how bored I'd get?<br/>You gotta spend some time with me too!<br/>Don't leave me hanging, you know what I mean?
+315	It seems that not many people can get Spirit Weapons such as myself...<br/>Is that true?
+316	Anyone would kill to get a contract going with a Spirit like me,<br/>assuming they knew how awesome and powerful I am!<br/>Ain't that right?
+317	I hear that there are some sassy female Spirits as well,<br/>and not just... awesome male Spirits like me, huh?<br/>Have you ever seen a female Spirit?<p/>I mean, not that they'd be half as impressive as I am.<p/>I mean, just look at me!<br/>They'd have to be, like, super hot to measure up!<br/>And really sharp, really funny... Yeah, that should cover it. Maybe.<br/>Man, I'm just too great, huh? Ha ha!
+318	Skills? I don't think you're gonna learn much from me, human.<br/>I've got skills, sure, but not for a meatball like you.<p/>Go back to playing with your swords or... gloves... or... whatever it is you do!
+319	I'm sure you're deeply impressed by my great actions, but...<br/>I haven't even showed you the best part yet!<p/>Ehem! Do you seek power, human?<br/>Seek and you shall... receive.<br/>I mean not now, but later... Ha ha!
+320	<username/>! You've done a pretty decent job, helping me grow this much.<br/>Now! Buckle up for some fancy action that I'm about to show ya!<br/>Ready? Dun dun dun...
+321	A quest? Is that some kinda food?
+322	A quest, you say? Of course, I've got plenty to give you!<br/>Here's the first. Ready? Go get me something to eat!
+323	You know, when those owls fly over and hand you scrolls, or gold...<br/>Where in the world do they get the strength to do that?<br/>Gold is heavy! Do they have special diets...?
+324	What's that? Sounds kinda complicated...<br/>Is it like magic?<p/>If so, forget it!<br/>Hey! Why are you laughing?
+325	Is this really the time to be asking about Part-Time Jobs?<br/>Working hard to feed me more fine items should be your focus!
+326	Don't you feel kind of ripped off when you do Part-Time Jobs at the Grocery Store?<br/>You risk your life picking fruits for that shop, get paid for it, and...<br/>You use that money to buy food from that place again.<p/>Sigh. Some days I really don't get you weirdos.
+327	Why are you asking me that?<br/>I'm a Spirit. You should be serving me.<br/>I'm not your teacher.
+328	So... I hear humans learn a bunch of things at this place called... a school, huh?<br/>And you have to go there every single day...<p/>See, if you've got some style like me...<br/>All you'd need to do is feed on some items,<br/>and gain all the knowledge you want!<p/>You humans need to get it together.
+329	Studying a lot ought to get you far, human.<br/>If you don't feel strong enough at the moment, train hard<br/>to get some cool abilities like me.<br/>I'm not saying you could ever exceed the limits of puny humanity, though.
+330	What's that got to do with me?<br/>Why are you even asking me?
+331	Gathering... That's like, basic human instinct, isn't it?<br/>How does anyone survive without gathering things to eat, huh?<p/>Use your brain. I shouldn't have to explain this!<br/>You like to be spoon-fed too much, human!
+332	Whoa! Tell me honestly, <username/>.<br/>There were times when you wished that you could pluck arrows off the ground,<br/>like picking flowers, instead of having to buy or make them yourself, huh?<p/>Ha! I see right through you.<br/>Poor, materialistic humans.
+333	What now? A teardrop?<br/>You think I shed tears from this totally godlike body?<br/>Geez, you don't get me at all!<p/>...Ha ha ha, I'm just joking!<br/>You should have seen the look on your face!<br/>Ahh... It's just a gem for us Spirits.<br/>I guess it got its weird name from how it looks.
+334	A Resting skill?<br/>Are you trying to pull some sick yoga moves or something?
+335	I'll put it this way.<br/>A proper rest requires proper scope and efficiency.<br/>That's why there's a separate skill for it. If that makes sense...
+336	Sitting down won't simply recover your stamina or wounds, you see.<br/>If you're stuck like that, don't be stubborn and ask for help, okay?<p/>Still, I hear that some humans suddenly transform into a<br/>glimmering white knight or something on rare occasions.<br/>Then, they're not hungry anymore, and all of their<br/>wounds instantly recover or something!<br/>Sounds crazy, right?
+337	Ranged Attack is the most basic form of attack when you're using a bow!<br/>Are you telling me you don't know what that is?
+338	Ha, so you want to know about Ranged Attacks from me, huh?<p/>Ranged Attacks hit opponents from afar. It's one of the safest,<br/>most efficient ways to attack. I'm telling ya, it's as good as combat gets!<p/>Those who've mastered Ranged Attacks have already won the fight before it even begins. Ha ha!
+339	As basic as it may be in terms of attacking enemies from a distance,<br/>did you know that Ranged Attacks have a lot of variance when<br/>they develop through further mastery?<br/>One prime example is the Magnum Shot, which is a skill<br/>that delivers a fatal blow...<br/>Wait, you knew that already?<p/>Well... There's also a more advanced skill called the Arrow Revolver...<br/>I'm telling you! If you learn this skill, you'll dominate the battlefield!
+340	Playing instruments?<br/>Why would you ask me about that?
+341	Ultimately, the Playing Instrument skill is about using the force of wind.<br/>And that's my domain, as a Spirit resembling the mighty winds!<br/>Now do you understand the scope of my powers? Ah ha ha!
+342	An excellent musician can tell the condition of an instrument simply<br/>by listening to the sound of the strings.<p/>The sweet sound tells so much!<br/>Don't underestimate music, human.
+343	A lute... Isn't that an instrument?<br/>What about it?
+344	Do you know why a string instrument is called a string instrument?<br/>That's because strings are attached to them, just like<br/>how there is a bowstring attached to the bow.<br/>That's why some bards take up the lute to replace the bow!<p/>...I'm kidding. Did you actually believe that? Ha ha ha!
+345	I sometimes see people swinging their lute around while playing.<br/>Do they think it's some kind of toy? Or worse, a weapon?<br/>People are animals, I swear...
+346	Composing? What's that? If it's cool and powerful, teach me!<br/>You already know how to do that, right?<p/>Feed me some smart items, human!
+347	I hear good music comes from good composing...<br/>But how are the two related?<br/>I've seen one person compose, and a different person<br/>make the music score for that composition.<p/>I swear, you humans have to make everything so complicated!
+348	I mean, what's there to discuss about fine arts, when you're<br/>the living embodiment of art, itself... I'm talking about me.<br/>Still, those who are talented in composing are genuinely... artistic.<p/>To me, they're just drawing little bean-sprout-looking things all over the place...<br/>Yet that somehow turns into fine music!<br/>I can't be the only one amazed by that, right?
+349	Ask a human about something like that, not me!<br/>Spirits don't have time for such petty things.
+350	Making clothes?<br/>Oh, you mean that! Yeah! You just get some things<br/>and do some loops or whatever, you know what I mean?<p/>Just look at my wild, magnificent look.<br/>How could a human ever catch up to this, you know?<br/>I mean, you gotta be as hot as I am to talk about style!
+351	So... If you're really good at it, you could, in theory, make clothes that are<br/>even tougher than any ordinary armor, huh?<p/>Look, if you were good enough to claim a Spirit Weapon like me,<br/>you must be better than any of those ordinary humans out there!<br/>Why don't you try making those clothes of your own?<br/>I heard there's nothing difficult about it. Go on, try it!
+352	Uh, isn't that a skill any bow wielder is gonna need?
+353	Magnum Shot! Talk about art, human!<p/>Have you ever heard the phrase, one shot, one kill?<br/>Well, Magnum Shot is exactly that!
+354	That feeling when you pull the bowstring to the point of breaking,<br/>and release all that tension in a single shot! Nothing compares to that!<p/>Don't be fooled, though. You can still miss a shot like that from time to time.<br/>I hear using handmade arrows improves your accuracy.<br/>Perhaps you ought to make some?
+355	Why are you asking me such a thing?<br/>You're just testing to see if I know it or not, aren't you?<br/>You're a mess.
+356	It's a skill that parries the opponent's attack and uses their<br/>own strength against them to deliver a counterattack...<br/>You know, I don't think you need to get excited about that.
+357	I guess, if you're using ranged attacks but your target breaks through...<br/>You can Counterattack to regain the advantage. Maybe.
+358	What kind of skill is that?<br/>Boy, you better not be messing with me...
+359	Simply because you can knock an opponent down in a single blow,<br/>it doesn't necessarily mean that it's a good skill.<br/>If you just charge forward like an idiot,<br/>you're going to get surrounded and destroyed.<br/>Think this stuff through!
+360	Having to approach your enemies to attack them<br/>opens you up to a lot of danger.<br/>Higher damage isn't always the way.
+361	Fishing... Hmm, that sounds familiar.
+362	There's nothing wrong with fishing, it's just...<br/>It was intended to catch... fish, right?<p/>So what are all these weird things that get fished up...
+363	The way I see it, the fish aren't the primary focus of fishing.<br/>It's all about fishing... Great! Fortune!
+364	Ta-da! How do you like my style?<br/>Geez, paying no interest in a lady like myself...<br/>Is that not rude among your kind?<p/>So, then... What's up with you?<br/>Ha ha...
+365	What do your friends think about you?<br/>Oh, I mean...<br/>I heard a story from the human world, you see.<br/>If you want to know more about someone, then observe<br/>what kind of friends they hang out with...<p/>After observing for a bit, however,<br/>you don't introduce me to others, and...<br/>Well, I'm not even sure what kind of people you hang out with...<p/>I mean, all you do is talk to your weapons.<br/>I suppose it's only natural that you don't have any friends...<p/>Oh, that was only a joke. Relax!<br/>You're not the type who gets upset over something like this, are you?<br/>Then you really wouldn't have any friends...
+366	Come to think of it... It's been quite a while since we first met.<br/>Mull over our past memories, and tell me how you feel.<br/>For me... I think I've gotten to know humans a bit better.<p/>Always seeking sweetness, avoiding what's sour...<br/>Happy when receiving, resentful when being asked to give...<p/>Oh my, the look on your face!<br/>Feeling guilty about something?
+367	Human society is pretty shallow, isn't it?<p/>I mean, that suits me just fine, but really!<br/>People put entirely too much stock in appearances.<br/>Just being attractive shouldn't be a free pass for anything.<br/>It's not even something you really control!
+368	Humans are truly odd.<br/>They tend to be so self-serving, but at the same time...<br/>There's such concern for everything around them!<p/>Is it out of a sincere worry for others?<br/>Or do they worry about how those matters will reflect on them?<p/>It's such a curious question for me...<br/>Honestly, I find humanity so utterly fascinating.<p/>Perhaps it's because... I've seen self-sacrifice as well.<br/>It doesn't fit with everything else I've seen, but...<br/>Somehow it still happens.<p/>I wonder if I'll ever truly understand...
+369	Come to think of it, I've seen humans traveling with pets.<br/>More often than not, I've been given the impression that there<br/>are a lot of animals that are hostile towards humans,<br/>but I guess they can still find a few that don't want to kill them.<p/>I recall it was quite difficult to talk to those animals<br/>who were hostile towards humans...<br/>I once heard that it's because the Fomor Scroll<br/>seizes control of their will, overriding their feelings...<br/>Ha... Oh, <username/>... That look...<p/>There are some things you are so very passionate about...<br/>And other topics like this where you seem so distant.<br/>Try investing in the interests of others, hmmm?
+370	You want to know about skills?<p/>Ha ha. I'll consider teaching you if you bring me something good. La la la lala...
+371	Ha! Well, aren't you straightforward...<br/>Very well. Skills are essentially what you are capable of.<p/>I once heard in passing that skills for warriors are the equivalent<br/>of appearance for socialites in human culture.<br/>I guess it all requires a lot of effort, as well as money and time, to perfect.
+372	Speaking of skills...<br/>I hear people use Spirits to get around some of their skill shortcomings.<p/>I can't imagine you're someone like that, <username/>... are you?
+373	My oh my... You should try to figure out something like that on your own<br/>without having to rely on a poor woman like me...<p/>Not. Nice. At all!<br/>Actually, I don't even know what we're talking about. Ha ha!
+374	I agree that pets are the big thing these days.<br/>If you're an elegant and a luxurious type,<br/>they seem like they'd be the perfect accessory.<p/>An owl that delivers scrolls, on the other hand...<br/>This lady called Nao...<br/>She's on a whole other level.
+375	I believe all the other owls reside at the Town Office.<br/>However, I believe it's those owls that miss Nao raises<br/>who are different from all the other owls...<p/>White owls that fly in a great white void, huh?<p/>You know, I'm thinking about raising a pet myself.<br/>What do you think?<p/>I wonder what kind of animal I'd get along with best...
+376	A part what? What's that?<br/>Sounds boring.
+377	A Part-Time Job?<br/>Hmm... I guess your work ethic is admirable... for some...<br/>But honestly, doesn't this just mean your career is in trouble?<p/>If you're having this much trouble staying afloat,<br/>perhaps we ought to reconsider our contract?
+378	Part-Time Jobs don't seem all that profitable for you, considering your status, <username/>.<p/>Perhaps you should consider doing other things for money...
+379	If it were up to me, I wouldn't recommend relying too heavily on schools.<p/>Hmm. Perhaps we can find a different time to talk about the details?
+380	The relationship between those who learn and those who teach...<br/>The competition and jealousy between those who learn...<br/>Not to mention the unseen discord between the educated and uneducated...<p/>When I observe such things... I am reminded that humans are complex creatures.<br/>Spirits subsist off of knowledge, but you...<p/>Again, it's one of those things I cannot fully understand. Ha...
+381	Lessons and training... Is this how you tell me that you're interested in<br/>learning how you can take a better care of me?<p/>Ha ha ha, how thoughtful!<br/>I'm afraid that's outside the areas of my expertise, however.<p/>Perhaps you should figure it out yourself?
+382	The Gathering skill?<br/>Oh, I see. Humans need to, by design,<br/>acquire everything they need from the nature, right?<br/>Gosh, I almost forgot... Ha...<p/>Now is not a very good time for this talk, however.<br/>I'll tell you later after... asking around here and there. Like... Later, later.
+383	I guess it's all thanks to the Gathering skill after all,<br/>that we've come to meet like this, you and I. Heh... p/>If I were capable of drinking those alcohols humans drink,<br/>I'd even propose a toast for your Gathering skill!
+384	Being able to use the Gathering skill well is realizing the fact<br/>that humans can co-exist harmoniously with the nature...<p/>As well as figuring out how one would resort to<br/>using such a power capable of changing nature itself.<p/>To be honest... Those are some of the considerations of<br/>human nature that I find interesting. Ha ha...
+385	Ah... There's no one more pathetic than those who cause others to shed tears...<p/>Still, <username/>...<br/>I might consider giving you some if it's for a good cause.<p/>I mean, this is merely a manifestation of our blessings... not an actual teardrop.
+386	You want to know about the Rest skill?<p/>Ha. I'll think about telling you if you give me something. La lala...
+387	Just as how a human needs the Rest skill,<br/>Spirit Weapons like me need to be constantly fed.<br/>That's like resting for me!
+388	I hear that humans are in no way like the Spirits,<br/>in that they cannot stay active without resting for long periods.<br/>Is that true? <p/>...It must be quite inconvenient, living as a human. Ha ha...
+389	...You're not actually thinking that I wouldn't know such a thing, right?<br/>That'd be... disappointing.
+390	Please don't forget that you need an arrow or a bolt for performing<br/>Ranged Attacks with weapons such as the bow...
+391	The more adept you are in this skill, the greater damage you'll be able<br/>to inflict on an opponent using a bow or a crossbow. <p/>...There. I said it. Heh!
+392	Come to think of it, I never imagined myself having such a scholarly conversation with a human...<p/>It's just you, right?<br/>I'm sure others wouldn't be like this.<p/>Oh, that satisfied look on your face...<br/>So easily swayed by such a small compliment...
+393	Didn't you already ask about the Playing Instrument skill before?<br/>There are too many things about the human world that I must learn...<br/>Even a Spirit like me, equipped with intelligence and beauty, forgets things.<p/>Oh, but don't be disappointed. Continue to cherish me!
+394	There's not a thing that I find more joyful than listening to you playing instruments.<p/>It's the most tangible reassurance I have of your love.
+395	Hmm? What are you talking about?<p/>A... Lute...?<br/>Oh, you're talking about an instrument played by humans? <p/>I don't know much about those yet, but...<br/>Who knows? I might be able to tell you later... Ha ha ha...
+396	I've heard that, among the Bards of the past, there were some<br/>who used their Lutes to shoot arrows.<br/>That's right. They used the Lute as a ranged weapon.<p/>However, in the present... I see more people using it like a club.<br/>Using a Lute like a blunt weapon...<br/>Why does it feel like time is flowing backward. I mean, come on.
+397	The Lute is one of the most popular instruments, as it's easy to handle and plain.<p/>I believe some use it as a weapon, too, but...<br/>Using a Lute as a weapon would be nonsense, like<br/>using a Spirit Weapon like me as an instrument.<p/>I could see such an act being acceptable in dire situations, but...<br/>It'd be a problem if you misunderstand its original purpose,<br/>or simply do it for fun... Right?
+398	How would you like it if you had the Composing skill?<p/>Hmm... I suppose it could make one moody, focusing so much on creation.<p/>I would say, however, that it wouldn't be wise to learn Composing or music in general<br/>unless you're prepared to bare your soul to the world.<p/>Oh, I could go on and on, but...
+399	Yes, the music from the worlds of humans and Spirits is different, but...<br/>Recently, after listening to the music composed by humans,<br/>I've wanted to share something with all the humans out there.<p/>Yes... Most humans seem to use music to enrich themselves,<br/>or their standing in society.<p/>I suppose I can see the value in that, but even so...<br/>Music should be an expression of truth...<br/>A truth regarding one's own existence, not something shallow.<p/>That's the proper respect that music deserves, in my opinion.
+400	The Composing skill, paired with the Playing Instrument skill,<br/>is the most important aspect in the world of music.<br/>I mean, this is where the songs humans sing originate from, am I right?<p/>The songs humans sing may be different than those sung by the Spirits,<br/>but they still tickle our ears from time to time, flying adrift<br/>in the flow of all nature. I like that.<p/>How the humans accept nature, and what kind of music<br/>they play in that acceptance, is very interesting to us. <p/>However, I find that many humans often underestimate music.<br/>I think that's like saying they've never felt the true power of music,<br/>being able to deliver something that can't be expressed otherwise.<p/>What is the melody swirling inside you, I wonder?<br/>Won't you let it out for me?
+401	The Tailoring skill?<br/>Ha ha... You want to make me a pair of clothes, or something?<p/>I have a thing for pretty clothes, but...<br/>I'll take anything you give me, <username/>, if you make it for me yourself. Ha ha...
+402	The Tailoring skill requires things like a Tailoring Kit, fabrics, and sewing patterns.<p/>It requires a lot of preparation and tedious labor, but...<br/>Being able to wear something you made yourself must bring such satisfaction.<p/>Or so I hear. I've never experienced such a thing. Ha ha.
+403	Oh, I also heard a saying... Clothes put wings on your back, I think it was?<br/>I mean, some really do try to prove the importance of Tailoring, huh?<p/>Still, it's all very unconvincing to the Spirits.<br/>My wings aren't attached to no clothes!
+404	Magnum Shot? Oh, my! You still don't know what that is?<p/>Sigh... What a pain you are sometimes...
+405	The Magnum Shot is much like the Smash skill for melee combat.<br/>You know, the fundamentals and the damage... It's all so very similar!<p/>However, the main difference is that you're safe from Counterattack.
+406	The Magnum Shot is a skill that anyone using a bow or a crossbow should know.<p/>This skill pulls the string to its limit, then looses a devastating shot.
+407	The Counterattack skill?<br/>Hmm... It sounds fun, but I'm not familiar with it.<p/>Who knows? If you shower me with gifts,<br/>I might suddenly pick up interest in it...
+408	What use would a skill like that have?<br/>I'm not so sure.
+409	The Counterattack skill...<p/>I have to be honest, it sounds like a cowardly move.
+410	The Smash skill?<br/>I'm... not sure what that is?
+411	As charming as delivering a fatal blow is, it's prone to leaving you just as open.<br/>I think there are plenty of other fine skills these days.
+412	To be honest, I'm a big fan of attacking a large area, instead of a single target.<br/>Quicker to take care of all at once, you know? Ha!
+413	I hear that, to certain fishing aficionados, catching fish as well as other items<br/>isn't all there is when it comes to fishing.<p/>At first, I thought it was nothing but an excuse for<br/>catching and eating poor, defenseless creatures...<p/>However, in my recent observations of people fishing,<br/>I have come to realize that there might indeed be something greater to it.<p/>What does it feel like to go fishing in perfect weather,<br/>on a lake or a reservoir touched by a cool breeze?<p/>I'd like to experience that, if only once.
+414	Speaking of fishing... Have you ever been asked out on a date before?<br/>You know, when someone lays out bait in the form of flirting.<p/>Ha ha! Perhaps something like that would only occur in your dreams, <username/>...<br/>Oh, but it did remind me of something to tell you.<br/>If one without a profound knowledge of relationships suddenly<br/>developed feelings suitable for a romantic relationship,<br/>they ought to be careful of such strange feelings,<br/>no matter how charming that someone seems.<p/>To be honest, that sensation of being baited in feelings<br/>isn't all that bad...<p/>You lose the opportunity to truly get to know someone,<br/>and simply chase after your feelings blindfolded, to no avail.<p/>Heh. Who else would tell you something like this<br/>in such a detailed manner? Only me, <username/>. Only me.
+415	You know... I hear the term "fishing" doesn't always refer to catching fish.<br/>It can be used for describing relationships between humans, too.<br/>I once heard a story about it from a... sketchy figure, to be sure.<br/>They spoke coarsely about their pursuit... so distasteful.<p/>I couldn't simply laugh it off as meaningless, because...<br/>The romantic relationship between two people is based on deception.<br/>You know, pushing and pulling at each other at the right moments?<br/>Most people seem to agree with the whole idea, too. <p/>Ha, what do you think?<br/>Do you have anybody in mind who you'd like to... fish for?<br/>Or anybody in particular who you'd like to be fished up by?<p/>How about me? Ha ha ha!
+416	As you already know, my name is <newegoname/>.<p/>I've been asleep inside that fossil for a such a long time...<br/>You could not comprehend the length of time.<p/>There were periods when I couldn't tell if I was awake or not.
+417	Don't you think it's inefficient to have to feed to acquire knowledge?<p/>Why must Spirits feed on items?<p/>Humans have the freedom to choose a wide variety of methods<br/>when it comes to training and improving their abilities.<p/>How is it that Spirits are so limited?
+418	I recently found out that humans forbid<br/>the practice of human transmutation amongst themselves.<br/>Human transmutation would benefit the sick and impaired, though.<p/>These human rules... make no sense sometimes.
+419	Rumors between humans...<br/>Wouldn't you know more about such a thing than I do?<p/>I don't really interact with others, so...<br/>I don't have much knowledge of it yet.
+420	I hear that a certain boy transforms into a bear at a specific hour.<p/>Isn't that interesting?<p/>I think one can use the powers of Alchemy to transform like that.<p/>Hm... Who shall I use as a guinea pig...?
+421	I understand that the Druids and Alchemists have quarreled for ages.<p/>The main point of contention seems to be differences in their politics.<p/>I wonder if that's really all there's to it?
+422	You're already equipped with an abundance of abilities,<br/>and there's nothing for me to really teach you.
+423	Since the effects of my skill will vary according to my abilities...<br/>You must continue to bring me items to feed on.<p/>Just as you've been doing thus far... You must do so forever.
+424	Do you want to know a secret skill that only spirits know?<p/>You do? Ha ha!<p/>I was just kidding.<br/>We... don't actually have any secret skills.<p/>I mean, I can't even emerge from my weapon if you don't call me.
+425	No matter how capable owls are, they can't enter dungeons<br/>if they don't have hands... They have to open doors, and dig underground...<p/>If you're waiting to receive something, you had best wait outside.
+426	Hmm, quests...<br/>Sure, I've just thought of one for you.<p/>Bring me an item to feed on. Easy-peasy, right?
+427	I've come to a realization that each Milletian has 2 owls who are exclusively in charge.<br/>That means... There are twice as many owls than there are Milletians in this world.<br/>You don't, however, see owls like you do some street pigeons, do you now?<p/>If you ask me... I believe they transmute disposable single-use owls,<br/>and get rid of them after the job gets done.<br/>Oh, wait... You could just have a single pigeon fly multiple times, then...<br/>Ugh, I should just stop thinking about these things.
+428	Anyone can take Part-Time Jobs to help villagers with their random errands.
+429	However, you have to apply at the right time.<br/>Apparently, villagers are SO picky about their help, they refuse<br/>to accept any if it's not at a time they like.
+430	Certain Part-Time Jobs give you special rewards that aren't given anywhere else.<p/>The Church Part-Time Job gives Holy Water of Lymilark, for example.<p/>You can't make or purchase that.<p/>They've got quite a racket going...
+431	The School in Tir Chonaill is famous for its support of newcomers.<p/>The Dunbarton School is also good, but focuses on more advanced lessons.<br/>I say, if you can skip the easy stuff, do it.
+432	Speaking of education... When alchemy was first developed, everything was new<br/>Many accidents and tragedies occurred in the name of progress.<p/>Things exploding or freezing during an item combination was nothing unusual, and some unlucky alchemists were even transformed.<br/>Of course, without their sacrifices, we wouldn't have the powers we enjoy today. Respect your history!
+433	Training can be done anywhere, and you can take lessons at Schools.<br/>However, isn't actual battle the best training for battle?<br/>As long as you are cautious and pick your battles,<br/>I say that's the smartest way to train.
+434	Do you really want to talk about that? I can't fathom why...
+435	In some ways, it's a survival instinct.<p/>People gather food to eat, make clothes<br/>by gathering wool to protect themselves...<p/>Thinking about it like this, humans live quite true to their instincts.
+436	Come to think of it, alchemy itself is the skill developed to make supernatural<br/>objects or precious metals from everyday materials.<br/>It'd be so much easier if one could simply create gold or silver ores using alchemy,<br/>without having to mine such ores yourself.<p/>Why should alchemists be prohibited from making precious ores?
+437	You wish to see me cry?<br/>You'r weird, <username/>...<p/>Why would you want to see me cry?<br/>What's your true motivation for this?<p/>Do you even know what the Teardrops of the Spirit are for?<br/>They are my blessings, crystallized into physical form.
+438	I like resting. Who doesn't?<br/>Sometimes, I just want to forget it all and relax all day...
+439	I'm the most relaxed when I get to go somewhere quiet.<br/>I can just sit back and revel in the sating of my intellectual appetite,<br/>absorbing item after item, just watching time go by.<p/>I feel so much better when I get to gain knowledge on my terms.<br/>Don't you think learning is fun?
+440	Mortals tend to think we Spirits can go and go without rest.<br/>That's just plan rude!<p/>We need sustenance and rest!<br/>In fact, we need a lot more than you people.<p/>You'll understand if I'm not always ready to jump out at your call.
+441	Hmm, I guess they could be related...<p/>Is this something I should know?
+442	Ranged attacks are a lot safer than melee attacks. They keep you at a safe distance.
+443	It doesn't matter if you use ranged, melee, or summon attacks.<br/>The most important thing is to keep yourself alive.<p/>How you fight isn't really important!<p/>Do you really think you'll have time to strategize your attacks<br/>when a blade is flying at your face?<br/>You have to catch your enemies off-guard if you want to win!
+444	I don't know why, but I get angry when I hear that.<p/>Why do you suppose that is?
+445	People use instruments to play music.<br/>I often hear it described as beautiful, but it's really just noise.<p/>If it means something to someone, great, but I just don't get it.<br/>Don't worry... I spend my time appreciating more important things.
+446	You can't have a jam session with yourself, you know.<p/>I'd like to see you try, though!<br/>Ha, I can imagine you trying to play an instrument in each hand, and one with your feet!<p/>Maybe you could try playing one with your mouth, too! Ha ha ha!
+447	Isn't that an instrument?
+448	It's a magical combination of wood and strings.<p/>It produces sad, happy, or romantic sounds,<br/>depending on the person playing.<br/>It would be a lot easier to just TELL people how you feel, though.<p/>Like I do!
+449	Did you know that lutes are one of the oldest string instruments?<br/>It looks like a mandolin, but they're two very different instruments.<p/>Or that's what people tell me, anyway.<br/>I have no use for music, so...<br/>It's all food to me.
+450	Just bring me something to eat, already!<br/>Why are you being such a slowpoke?<br/>Don't ask questions I can't answer!
+451	Composing is how music gets transcribed to paper.<br/>Making Music Scores allows artists to preserve and share their songs.<p/>It takes a long time, too...<br/>I'm sure there's something more important people could do with their time.<p/>For example, you could get me more items to feast on!
+452	It's easy to transcribe a Music Score even if you don't know much about music.<br/>Of course, you need to study a bit before you can write chords.<p/>The real musical geniuses, though, they just play from the heart.<br/>I've heard that the best musicians craft their music free-form as they perform.<p/>If you ask me...<br/>It's a remarkable talent, wasted on making music.<br/>If only I could do that with alchemical formulae...<br/>Don't you agree?
+453	What is this skill now?<br/>And why should I care?
+454	It's a skill used to make clothes.<p/>I guess lots of people want clothes made just for them.<br/>Tailoring seems like a waste of effort, but I understand the desire to be unique.<p/>My uniqueness is why you like me so much, right?
+455	The purpose of clothes has changed over time.<p/>People once wore clothes to protect themselves from harsh weather,<br/>but nowadays people wear clothes as a fashion statement.<p/>Well, I don't need special clothes<br/>to make a statement about myself!<p/>My personality speaks volumes, doesn't it?
+456	That doesn't sound useful OR interesting.<br/>What's the point?
+457	It's a special archer skill that shoots an extra-powerful arrow.
+458	The Magnum Shot is a skill that is commonly used by archers.<br/>It is very strong, but has a chance of missing the target.
+459	Is that where you attack the bartender? Over the counter?
+460	You could use transmutation on yourself, and have your doppelganger try Counterattack, no?<p/>You've got nothing to lose this way.<br/>You have to admit, it's a pretty great plan, huh?<br/>Right, let's give it a try. It'll make for a great experiment...
+461	You might run into enemies immune to ranged attacks at times.<p/>For these enemies, Counterattack might actually come in handy,<br/>since they will likely run towards you like fools.<p/>Just be careful not to miss your Counterattack.
+462	Smash sounds pretty strong.<br/>Is that a drink?
+463	I was wondering... Would it be possible to...<br/>Combine an area of effect attack and Smash?<p/>Just imagine Smash wreaking havoc over a large area!
+464	You ask about these ridiculous skills, but don't even consider their value.<br/>Fine, fine. I'll do my part in educating you.<p/>Imagine there is a group of enemies charging at you.<p/>You think, "Gee, Smash would be GREAT for thinning these guys out!"<p/>SO, you set up your Smash, and take out one foe in a single strike.<br/>Good job! And now you have the rest of his friends crowded around you,<br/>beating the daylights out of you.<p/>Smash is only good against a single target, and makes you more vulnerable to groups, <username/>.
+465	Is that one of those Gathering skills?
+466	Fish can be eaten by mortals for food. I guess other fish eat them too.<p/>You can get bigger fish with smaller fish!
+467	I heard some people actually enjoy sitting around all day,<br/>trying to catch fish out of a lake.<p/>Some people even like the sitting part more than the catching part!<br/>What's so fun about waiting around?<p/>These people even go so far as to release the fish when they catch them.<br/>They just catch and release and catch and release...<br/>I suppose playing with living organisms for entertainment<br/>isn't such a bad way to spend your time. Is that what you think?
+468	When our contract began, it felt like a waking dream.<br/>The newness of my vessel and my surroundings were so disorienting.<p/>When spirits become stone, all of their previous memories disappear.<br/>I shall have to make a fresh start with you.
+469	We take our appearance partly from your imagination.<br/>Is this what you expected me to look like, <username/>?
+470	As far as I know, the Alchemy skill can summon a minion called a Golem.<p/>If you come to summon the strongest Golem,<br/>you'll apparently be able to plow through battles easily.<br/>Moreover, there's the Frozen Blast, which you can use to freeze and seal the opponent.<br/>If you utilize this skill well, you may be able to defeat<br/>your enemies without taking any damage.<p/><username/>, which skill do you mainly attack with?
+471	Gossip and rumors hold no interest for me.<br/>So much baseless, meaningless information...<p/>It's exhausting to keep up with, and serves no purpose.
+472	I've heard of something called an Alchemy Crystal Bag that you might be interested in.<br/>It's for alchemists who work with many crystals at once.<p/>You can get them from alchemists in Taillteann and Tara,<br/>so look into them if you're having trouble keeping your crystals organized.
+473	Berched, the Druid in Taillteann, has been making trouble at the Taillteann Bank.<p/>It's driving the young banker there crazy. Poor Devi.
+474	You seem to know most techniques already, don't you?<br/>I don't think there is anything interesting that I can teach you.
+475	I think we are finally ready. <br/>Of course, if you want the full effect, I still have more growing to do.<br/>I hope you don't mind helping me a little more.
+476	You should focus on mastering the skills you have.<br/>That will make you stronger than cluttering your mind with more ideas.
+477	Quests? Really?<p/>I am contracted to you.<br/>I cannot give you orders, and I wouldn't want to.
+478	We should cooperate.<p/>Besides, if I need something, I'll just ask.
+479	I don't know how all of the owls are trained, because there's<br/>definitely more than a few of them.<br/>The work is pretty incredible, but I'm not sure if that's the most efficient way.
+480	Are you thinking of getting a Part-Time Job?<p/>That's a wonderful idea. I was starting to think you might be allergic to work.<p/>That wasn't a joke.
+481	Many people take Part-Time Jobs to get the unique rewards they offer.<p/>Noteworthy ones include Holy Water of Lymilark from the Church<br/>and the Seeds from the Tir Chonaill Grocery Store.
+482	You enjoy farming, don't you, <username/>?<br/>If so, I recommend doing the Restaurant Part-Time Job in Tir Chonaill.<br/>Your reward will be a Seed that you can plant at your Homestead..<br/>The types of Seeds you get are completely random,<br/>but it's the best Part-Time Job for collecting them.
+483	Schools in Tir Chonaill and Dunbarton are always open,<br/>so you can go there anytime you want training.<br/>They're a valuable service, so make use of them.
+484	You can learn quite a bit at school, but it's not mandatory for you to go.<p/>It comes down to whether you consider basics and methods more important<br/>than real-world experience. It's a tough call, I admit.
+485	Studying is certainly important, but it is hard to beat real-world experience.<p/>There's a saying that actions speak louder than words.<br/>I completely agree with that statement.<br/>Think about it. No matter how many times you study how to Smash,<br/>you won't really know if you can do it until you try it in battle.
+486	Gathering is an excellent pursuit. You should gather more things for me to absorb, in fact.<br/>I know what the word "gathering" means.<br/>If you had something more specific in mind, you'll have to explain.
+487	If you think about it, Gathering is one way people really express themselves.<br/>Those who care about fashion and self-expression gather Wool and Cobwebs for Tailoring.<br/>If they want strong weapons and armors, they'll mine ore and focus on Metallurgy.<p/>And you, <username/>, gather items for me to absorb. Right?
+488	Even in something as simple as Gathering, there are ways to specialize.<br/>All gatherers must choose from Herbalism, Metallurgy, and Fishing.<br/>No matter what you choose, though, you should train your Production Mastery.<p/>That way, your work in Gathering and producing items from your work<br/>will be more efficient, and reward you better.<p/>Don't bother doing something if you won't do it well.
+489	The Teardrop of the Spirit is the crystallized form of a spirit's blessings.
+490	Are you getting enough rest?<br/>I don't want to see you tired and stressed out.<br/>Especially if it's your own fault.
+491	There are various ways to rest.<p/>The most common are sleeping, meditating, exercising, eating, and getting a massage.<p/>Which one are you most interested in, <username/>?
+492	Without food or rest,you really just shut down.<p/>Take care of yourself, <username/>,<br/>and make sure you're always in good health.
+493	Wait, so it's a weapon called "Range" that's long...<p/>No, that can't be right. Forget I said that.
+494	Melee attacks are performed at close range using<br/>Blunt Weapons, Swords, Wooden Blades, Fishing Poles, or other such weapons.<p/>Long-range attacks are performed from a distance, like with Bows.
+495	The advantage of long-range attacks is engaging enemies from a safe distance.<br/>They are ideal for battles in open areas.<p/>While in tight, narrow spaces though, it's a different story.<br/>That's why you should always have a plan for when enemies draw near.
+496	You're quite knowledgeable, <username/>.<br/>I need to study if I'm going to have good conversations with you.<p/>On that note, I'm hungry. Do you have anything I can absorb?
+497	Anyone with an instrument can use the Playing Instrument skill.<br/>At first, you just learn harmony and practice, but over time,<br/>you can learn to play even the hardest songs.<br/>I'd love to hear you play, <username/>.<br/>Especially a song with special effects...
+498	Have you ever heard an Enthralling Performance?<br/>When done correctly, it entrances all nearby Fomors and animals.<p/>Even terrible beasts will follow you like loyal pets.
+499	I know it's an instrument, but...<br/>How are you supposed to play it?
+500	This is the most basic instrument for performing.<p/>It looks like a Mandolin, but I assure you, it's quite different.<br/>Look here, the size, shape, and number of strings are all different...
+501	Lutes are nice, but a true performer should learn to branch out.<br/>Mandolins, Ukuleles, Drums, and Flutes all have their own merits.<p/>I wonder which one would boost my knowledge the most...
+502	Composing? Composing what?<br/>I need more items to absorb to make sense of this.
+503	The difference between playing an Instrument and Composing is like night and day.<p/>Anyone can play an Instrument, given enough practice,<br/>but Composing requires a great deal of time, study, and focus.<p/>I have nothing but the utmost respect for artists that<br/>both create and play their own music.
+504	You need a high level of Musical Knowledge to compose better Scores.<p/>It's not necessary for simple music, but anything grand requires some work.<p/>Only a select few have what it takes to make great songs, <username/>.<br/>I wonder, could you be one of them?<br/>I would be so very impressed...
+505	There really is no end to the skills a person can learn, huh?<br/>So, what's this one all about?
+506	Tailoring is not a task to be taken lightly. It requires immense dedication.<br/>You need a Tailoring Kit, a Sewing Pattern, Fabric, Leather,<br/>and whatever else the pattern requires.<p/>Are you willing to make that kind of commitment to making clothes?<br/>This is another element of culture I simply do not follow.<br/>Why do people go to such lengths to clothe themselves?<br/>Why is appearance held as so important?<br/>Any being would be perfectly fine in one set of simple garments.<p/>I see no need in churning out more and more opulent coverings.<br/>It's a waste of time, money, and effort.
+507	People actually say that clothing has some deep connection with the wearer.<br/>I think the expression was...fine clothes make the man?<p/>It's preposterous. No amount of clothing can cover a bad soul.<br/>And clothes themselves have so little substance!
+508	I really have no idea about this. What do you use it for?
+509	Archers seem to love Magnum Shot for the massive damage it does.
+510	Magnum Shot pulls your bowstring to its absolute limit,<br/>and launches the arrow with immense force.<p/>Many hunters try to take down their prey with a single Magnum Shot.
+511	That's a skill for turning the tables on your opponents.<br/>I imagine it's good for those who have little strength of their own.
+512	The Counter skill has been honed over the years, and is 100% effective if done correctly.<p/>I wouldn't suggest relying on it, though.<br/>Taking a passive role in battles the first step to defeat.
+513	Humans aren't the only race that use Counter.<br/>Beware of Fomors that can use Counter on you.<br/>Some even know the Windmill skill.<p/>Don't rush into battle recklessly.<br/>Make a plan, and act on it. Be decisive.
+514	That doesn't sound pleasant at all...
+515	Because Smash is a skill that aims to crush in a single blow,<br/>you can deal a great damage to the target enemy.
+516	Successful Smashes have a chance to stun an enemy, but what if they are unsuccessful?<p/>Too many adventurers focus on offense, and throw caution to the wind.<br/>You should have a backup plan with every action,<br/>such as following a failed Smash with Defense or Counter.<br/>The safest course of action is to familiarize yourself with the patterns of your foe.<p/>Watch them in battle, practice defending against them,<br/>and once you have a grip on the openings, strike.<br/>And if you think I'm too concerned about your well-being in battle,<br/>consider what happens to me if you perish.
+517	Wait, when you say "fishing", you're talking about relationships?<br/>I don't follow. Please explain.
+518	Some of the major fishing spots that people frequent have very rare fish.<p/>You could sell those for a high price, and buy something useful.
+519	Do people really eat so much fish?<br/>I hope it's not just a hobby for some people...<p/>That's such a waste...
+520	Do you have something to say?<br/>If so, then go ahead.
+521	What do you want to say?<br/>I have things to do, you know.
+522	You want to talk to me?<br/>Hmm, fine...
+523	I have time right now.<br/>What do you want to tell me?
+524	Lucky for you, <username/>, I wanted to talk to you as well.
+525	Ah, <username/>...<br/>I was wondering if you had something to share.
+526	I think it'd be best if you thought about that on your own.
+527	I don't think it's anything I should say anything about.
+528	I'm not so sure about that myself.
+529	Okay, what do you want me to tell you?
+530	Go on and ask. I'm listening.
+531	Fine, what do you want to ask me?
+532	So, what's your business?
+533	<username/>... What topic should we talk about?
+534	<username/>, ask me anything!
+535	Hmm... I don't know anything about that.
+536	It appears to be a specialty of yours to ask difficult questions.
+537	Why don't we talk about something else?<br/>That last topic wasn't so fun...
+538	You want to talk to me?<br/>What do you want to talk about?
+539	What do you want to talk about?
+540	Conversation? If that's what you want... fine.
+541	If that's what you desire...<br/>I'll talk about that.
+542	If you want to talk, it doesn't matter what the topic is.
+543	I'm always open to talking!
+544	I'm not so sure about that.
+545	I don't think I can answer that.
+546	I don't think this is something I can say anything about.
+547	Please don't criticize me. I'm doing my best.
+548	I am willing if I know how...
+549	Do you have something to say?
+550	I want to be of help to you...
+551	What do you want to say?
+552	What is it that you want to say to me?
+553	I would really love to help...<br/>But I just have no idea.
+554	I don't know why you keep asking me these difficult questions...
+555	Well... um...<br/>Sorry. I have no idea.
+556	What is this conversation about?
+557	You want to talk to me?
+558	Talk? Sure! Wow...
+559	I can't believe you're talking to me...
+560	<username/>, I always enjoy conversations with you.
+561	Conversation with <username/>? Sure!
+562	Oh... Sorry.<br/>I don't really know much about that...
+563	I can't really answer that...
+564	Hmm... I don't really know.
+565	What do you want to ask me about?
+566	Say whatever you want. I'm listening.
+567	What should I say?
+568	What will you ask this time?
+569	If there's a problem that I can help you with,<br/>I'd be happy to help, <username/>.
+570	Please tell me.<br/>I will tell you as much as I know.
+571	I don't really know much about that...<br/>Sorry I can't be much help.
+572	It's hard for me to say anything because I'm not really interested.
+573	I'm thinking this isn't anything I can answer you on.
+574	You want to talk to me? <newegoname/>?
+575	Huh? Talk? Sure!
+576	What should we talk about? Go on.
+577	What do you want to talk about?<br/>I'm quite knowledgeable, you know.
+578	Talk? Sure, ask me anything.<br/>Well, anything I know!
+579	Looks like you also like to talk.<br/>I, <newegoname/>, am the best talker!
+580	What, you expect me to know that?<br/>You take care of it yourself!
+581	Eh, I'm not interested in those things.<br/>It's not that I don't know. I'm just not interested!
+582	`Do I have to know that?<br/>I don't care, I don't care!
+583	Do you have something to ask me?
+584	What topic did you have in mind?
+585	It's time for a conversation.<br/>Ask me whatever you want.
+586	I can't wait to see what topic you'll pick.
+587	What should we talk about?<br/>Don't beat around the bush and just say it.
+588	What do you want to talk about?<br/>Useful topics only, please.
+589	Ha! I don't have the answer for you...
+590	Be careful what you say in front of a pretty lady... Hee hee...
+591	Oh, dear! I could tell from the beginning... <br/>You're single, aren't you, <username/>?
+592	I want to have a deeper conversation with you.
+593	Do you... like me?
+594	You want to talk?<br/>Heh heh. Fine.
+595	Hmm? Heh heh heh.<br/>It's nothing. Don't mind me.
+596	Hello, Sample A... I mean <username/>.<br/>I was, ah, just thinking of talking to you.<br/>Where did we end last time?
+597	Oh, <username/>! How have you been?<br/>You don't look so good...
+598	I don't even want to see your face right now.<br/>You've gotten so boring...
+599	I don't get why you are asking, but...<br/>I just don't understand. Heh heh heh.
+600	Hmm. Sorry, not interested.
+601	I'm always open to conversation.<br/>It's the impetus of my growth.
+602	I wanted to talk to you just now.<br/>So... uh...<p/>Oh nuts, what was I going to say?
+603	I'm always open to conversation.<br/>It's the impetus of my growth.
+604	What seems to be the matter?<br/>Conversation is always good.
+605	<username/>, how are you feeling today?
+606	<username/>, I wanted to talk to you just now.
+607	I'm not really sure what that is.<br/>I need more items to absorb to make sense of this.
+608	I don't really know what that is.<br/>It looks like I'm lacking knowledge.
+609	I'm a little busy now, so leave me be.
+610	When humans refer to nature, it often feels like they forget<br/>the fact that they are also part of nature.<p/>I wonder what urges them to separate themselves<br/>when the link is so clear?<p/>What do you think, <username/>?<br/>Do you consider yourself in unity with nature,<br/>or do you see yourself as a separate being from nature?<br/>...You know, I only seem to think of these things when I'm around you, <username/>.<p/>I'm sorry, ha ha ha...

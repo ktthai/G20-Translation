@@ -1,0 +1,14 @@
+﻿0	Say
+1	Main Message
+2	Normal Message
+3	Face
+4	Actions
+5	Speech Bubble
+6	Top
+7	Bottom
+8	Facial Expression
+9	Motion
+10	Spirit Default Dialogue
+11	Spirit Chat
+12	Spirit Support Chat
+13	AI Sync

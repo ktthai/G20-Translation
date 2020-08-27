@@ -1,0 +1,88 @@
+﻿1	Ranald: One! Two! That's it!
+2	Ranald: An expensive weapon does not equal great power!
+3	Ranald: The moment your opponent rises\nyou are at a disadvantage!
+4	Ranald: Each skill has its own counter skill.
+5	Ranald: In a real battle, press 'A' for automatic attacks!"
+6	Ranald: Reviving on the spot comes with a giant EXP loss!
+7	Ranald: The best weapon of all is having a companion!
+8	Ranald: When an enemy is knocked down,\nit is best to prepare a skill for attack!
+9	Ranald: You must combine various skills.
+10	Ranald: While your buddy attacks,\nsneak in a powerful attack of your own!
+11	Ranald: If you master a skill,\nyou shall receive bonus EXP.
+12	Ranald: Dungeons are the best places for training.
+13	Ranald: It might be more convenient to use\nthe [Ctrl] key to auto-target during real battles!
+14	Developer: It's no fun if it's too easy.
+15	Ranald: Who... Who said that?
+16	Ranald: Deep wounds are very difficult to recover from!
+17	Ranald: Use the Alt key to see how strong your enemies are!
+18	Administrator: Too much game-playing is unhealthy for you!
+19	Ranald: Who said that?! Show yourself!
+20	Developer: Greed only yields more grinding!
+21	Ranald: That is true.
+22	Ranald: Attacking a stunned opponent gives you less points!?
+23	Ranald: There are penalties for camping.
+24	Aranwen: Yes! Training time!
+25	Aranwen: Use Smash to break their defense!
+26	Aranwen: If the enemy tries to counterattack, use long range attacks!
+27	Aranwen: Defend yourself against long range attacks with your shield.
+28	Aranwen: You cannot accumulate EXP by always fighting in one spot!
+29	Aranwen: The farther you are from town, the more EXP you will gain!
+30	Aranwen: Use Smash to break their Defense!
+31	Aranwen: Charge before the enemy prepares to shoot with its bow!
+32	Aranwen: Dungeons are the best place to train!
+33	Aranwen: Use your skills while you are being knocked down!
+34	Aranwen: When a skill comes to your mind, use it immediately!
+35	Aranwen: Use the Windmill skill against enemies\nwho try to attack while you are getting up!
+36	Aranwen: Potions are addictive!
+37	Aranwen: Treating your wounds is the most important thing of all!
+38	Aranwen: Prepare campfire materials when you go to the dungeon!
+39	Aranwen: Fight effectively by controlling your attack timing!
+40	Aranwen: Do not spend too much time on one skill only!
+41	Aranwen: Understand the enemy's pattern, and find its weakness!
+42	Developer: I wish to spend the weekend with my family!
+43	Aranwen: ??!?!
+44	Parrot: I'm having an epiphany!  I'm having an epiphany! *squawk*
+45	Parrot: But soft, what light through yonder window breaks? Through yonder window breaks?
+46	Parrot: The pain of creation! The pain! The pain! *squawk*
+47	Parrot: Have more than thou showest! Than thou showest!
+48	Parrot: Reputation is an idle and most false imposition. Idle and false. Idle and false.
+49	Parrot: T'is all for today! *squawk*
+50	Parrot: To not to be or to be? To not to be or to be?
+51	Parrot: The worst is not so long as we can say, 'This is the worst.' The worst!
+52	Parrot: What a fool. A fool. A fool!
+53	Parrot: Who taught a parrot how to say such things?!
+54	Parrot: Blood will have blood. Have blood. *squawk*
+55	Parrot: Do not come! Do not come!
+56	Parrot: All the world's a stage. *squawk*
+57	Parrot: The sun has risen again. Has risen again!
+58	Parrot: Marlowe! Marlowe! *squawk*
+59	Parrot: I'm having an epiphany!  I'm having an epiphany! *squawk*
+60	Parrot: But soft, what light through yonder window breaks? Through yonder window breaks?
+61	Parrot: The pain of creation! The pain! The pain! *squawk*
+62	Parrot: Have more than thou showest! Than thou showest!
+63	Parrot: Reputation is an idle and most false imposition. Idle and false. Idle and false.
+64	Parrot: T'is all for today! *squawk*
+65	Parrot: To not to be or to be? To not to be or to be?
+66	Parrot: The worst is not so long as we can say, 'This is the worst.' The worst!
+67	Parrot: What a fool. A fool. A fool!
+68	Parrot: Who taught a parrot how to say such things?!
+69	Parrot: Blood will have blood. Have blood. *squawk*
+70	Parrot: Do not come! Do not come!
+71	Parrot: All the world's a stage. *squawk*
+72	Parrot: The sun has risen again. Has risen again!
+73	Parrot: Shakespeare... You have nowhere to run...
+74	Parrot: I'm having an epiphany!  I'm having an epiphany! *squawk*
+75	Parrot: But soft, what light through yonder window breaks? Through yonder window breaks?
+76	Parrot: The pain of creation! The pain! The pain! *squawk*
+77	Parrot: Have more than thou showest! Than thou showest!
+78	Parrot: Reputation is an idle and most false imposition. Idle and false. Idle and false.
+79	Parrot: T'is all for today! *squawk*
+80	Parrot: To not to be or to be? To not to be or to be?
+81	Parrot: The worst is not so long as we can say, 'This is the worst.' The worst!
+82	Parrot: What a fool. A fool. A fool!
+83	Parrot: Who taught a parrot how to say such things?!
+84	Parrot: Blood will have blood. Have blood. *squawk*
+85	Parrot: Do not come! Do not come!
+86	Parrot: All the world's a stage. *squawk*
+87	Parrot: The sun has risen again. Has risen again!
+88	Parrot: Which life was it...?

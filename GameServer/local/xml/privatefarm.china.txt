@@ -1,0 +1,1537 @@
+﻿0	Camp
+1	Igloo
+2	House
+3	House
+4	House
+5	House
+6	House
+7	House
+8	Prairie Tree
+9	Japanese Cedar Tree
+10	Fir Tree
+11	Desert Tree 1
+12	Desert Tree 2
+13	Shrub Tree
+14	Prairie Grass
+15	Desert Grass
+16	Cactus
+17	Snowfield Tree 1
+18	Snowfield Tree 2
+19	Well
+20	Desert Well
+21	Chopping Block
+22	Spinning Wheel
+23	Loom
+24	Furnace
+25	Anvil
+26	Fence
+27	Fence (Finishing)
+28	Stone Fence
+29	Log Fence
+30	Log Fence (Finishing)
+31	Snowfield Fence
+32	Snowfield Fence (Finishing)
+33	Stone Fence (Finishing)
+34	Field
+35	Field
+36	Field
+37	Wagon
+38	Light Wagon
+39	Shovel
+40	Rake
+41	Barrel (Snowfield)
+42	Barrel
+43	Wooden Box
+44	Small Chrysanthemum
+45	Speedwell
+46	Daffodil
+47	Apple Tree
+48	Snowfield Apple Tree
+49	Wooden Box (Snowfield)
+50	Snowfield Well
+51	Base Herb
+52	Cabbage
+53	Strawberry
+54	Tomato
+55	Eggplant
+56	Pumpkin
+57	Homestead Stone
+58	Entrance
+59	Mansion (City)
+60	Mansion (Desert)
+61	Mansion (Snowfield)
+62	Bloody Herb
+63	Sunlight Herb
+64	Mana Herb
+65	Gold Herb
+66	Camp available to install on Prairie and Desert. \nNot enough to live a romantic country life, but enough to avoid wind and rain.
+67	Igloo commonly seen in Snowfield.\nOnly works in areas where ice never melts, like Physis.
+68	House commonly seen in Uladh. \nLooks plain, but the attractive pattern helps. Good enough to invite friends over and not be ashamed about it.
+69	House commonly seen in Uladh. \nNot big enough for newlyweds, but enough to live alone.
+70	Multi-floored building with high ceilings and a loft.\nGreat start for a county life, but ghosts might appear in the loft without good maintenance.
+71	Most  fitting house for country life.\nThere shouldn't be any problems when living in this house.
+72	House commonly seen in Connous.\nBuilt with stone to protect from the fierce desert sandstorms.
+73	House commonly seen in Physis.\nDesigned to keep warmth in, considering the cold weather on the snowfields.
+74	Tree commonly seen in Uladh.\nUsed for construction and making instruments.
+75	Tree used as a windbreaker on the beach.\nPlant one to keep your house from being blown away!
+76	Evergreen that does not lose its color, even during winter.\nCan be used as a Christmas tree.
+77	Tree that grows very well in any environment, even the desert.
+78	If taken care of, will produce tropical fruits.
+79	Shrubs can be quite messy without proper trimming!
+80	Common prairie grass.\nDon't mistake it for a weed.
+81	Grass grown in deserts.\nIf it can survive with so little water, it must be easy to grow.
+82	A partially-grown cactus.\nMaybe it will mature eventually.
+83	Snowfield tree from Physis. Looks cold, but nothing to do about it.
+84	Tree covered with snow. A treasure might fall if you knock all the snow off.\nJust a rumor, though...don't get your hopes up.
+85	Well that can be found in cities.
+86	Well that can be found in deserts.
+87	This produces firewood if built on a Homestead.
+88	Tool for creating thread.
+89	Tool for creating fabric.
+90	Tool for refining ore.
+91	Tool for processing metals.
+92	Fence made of wood boards.\nDon't catch your foot if you vault it.
+93	Able to finish building Fence.
+94	Fence made of stone. Looks sturdy, but we'll see.
+95	Fence made of logs.
+96	Able to finish building Fence.
+97	Able to finish building Fence.
+98	Able to finish building Fence.
+99	Able to finish building Fence.
+100	Field which can be used to plant farm products.\nVarious farm products can be harvested, depending on the level of farm.
+101	Field which can be used to plant farm products.\nVarious farm products can be harvested, depending on the level of farm.
+102	Field which can be used to plant farm products.\nVarious farm products can be harvested, depending on the level of farm.
+103	Farm products can be moved more easily with a wagon.
+104	Farm products can be moved more easily with a wagon.
+105	Tool used to shovel dirt.
+106	Tool used to plow fields.
+107	Barrel for holding snowfield wine.
+108	Barrel for holding wine.
+109	Storage box made of wood.
+110	Small chrysanthemum blossom.\nRepresents integrity, peace, and love.
+111	Mysterious purple flower.\nRumor says that Druid's sad story is somehow related.  (Achievement)
+112	Cute yellow flower.\n Represents comfort.
+113	Tree with apple.
+114	Tree with apple.\nAn improved breed to grow in cold weather.
+115	Storage box made of wood.
+116	Snowfield well.\nWonder if the water here is colder...
+117	Able to gather Base Herb.
+118	Able to gather Cabbage.\nPlaying music around the farm can increase growing speed.\nCan be acquired by working part-time job at Dunbarton or Tir Chonaill's Grocery Store.
+119	Able to gather Strawberry. Playing music around the farm can increase growing speed.\nCan be acquired by working part-time job at Dunbarton or Tir Chonaill's Grocery Store.\nRumor says that Ciar Dungeon's Goblin is also running a farm...
+120	Able to gather Tomato. Playing music around the farm can increase growing speed.\nCan be acquired by working part-time job at Dunbarton or Tir Chonaill's Grocery Store.\nRumor says that Ciar Dungeon's Goblin is also running a farm...
+121	Able to gather Eggplant. Playing music around the farm can increase growing speed.\nCan be acquired by working part-time job at Dunbarton or Tir Chonaill's Grocery Store.\nRumor says that Ciar Dungeon's Goblin is also running a farm...
+122	Able to gather Pumpkin. Playing music around the farm can increase growing speed.\nCan be acquired by working part-time job at Dunbarton or Tir Chonaill's Grocery Store.
+123	Material for Legendary Magical Kettle.\nA must-have material for affluent farms.
+124	Material for Legendary Magical Kettle.\nA must-have material for affluent farms.
+125	Mansion only owned by the richest of Uladh.\nFor cities with expensive land, high-rise buildings are the only option.\nSeems to be a little too showy for country life.
+126	House for Elves with big families in Connous.\nThe minimal decoration compared to the size of house gives a minimalist feel.
+127	Legend has it that one Giant bought this house with money from gathering Snowfield Worm skins day and night.
+128	Able gather Bloody Herb.
+129	Able gather Sunlight Herb.
+130	Able gather Mana Herb.
+131	Able gather Gold Herb.
+132	Uladh
+133	Connous
+134	Physis
+135	Continent governed by the Aliech Royal Regime from their capital of Tara . Clear season changes, fertile soil, and regular rainfall make it ideal for farming.
+136	Hometown of the Elves. The constant threats of sandstorms, wild animals, and desert ants will either make you stronger, or end your life.
+137	Hometown of the Giants. Land of green oceans and floating glaciers. The eternal cold keeps everything frozen year-round.
+138	Prairie Swamp
+139	Desert Swamp
+140	Ice Fishing Hole
+141	City Trash Can
+142	Prairie Trash Can
+143	Snowfield Trash Can
+144	Wild Honey
+145	Paint Mixing Kettle
+148	Street Light (Basic)
+149	Street Light (Farm)
+150	Street Light (City)
+151	Street Light (Desert)
+152	Street Light (Snowfield)
+153	Snowman
+154	Ladeca
+155	A fishing hole containing fish like those in Tir Chonaill.\nHook a fish, and new opportunities may come as well.
+156	A fishing hole containing fish like those at the Deep Sea Fisherboat.\nHook a fish, and new opportunities may come as well.
+157	A fishing hole containing fish like those in Reus River.\nHook a fish, and new opportunities may come as well.
+158	A trash can for disposing of farm trash.\nEmpty it out before it starts to smell.
+159	A trash can for disposing of farm trash.\nEmpty it out before it starts to smell.
+160	A trash can for disposing of farm trash.\nEmpty it out before it starts to smell.
+161	A beehive built on a rock. Such hives are rarer than tree hives, meaning their honey is in higher demand.
+162	A kettle for mixing Paint to produce a new color.
+163	Can gather Cuilin Stones.
+164	Can gather Cuilin Stones.
+165	A street light that brightens the night.
+166	A street light that brightens the night.
+167	A street light that brightens the night.
+168	A street light that brightens the night.
+169	A street light that brightens the night.
+171	A miniature version of Ladeca that shines in the night sky.\nGo up with a friend every and now then for those special, relaxing times.
+172	A snowman who always protects the Snowfield Farm.\nTouch it and it will throw a snowball.\nApparently, it also has earrings that someone dropped...
+173	Low Cuilin Stone
+174	Round Cuilin Stone
+175	Obtains small additional amounts of Kons when harvesting crops.
+176	Obtains small additional amounts of Kons when harvesting crops.
+177	Obtains small additional amounts of Kons each day.
+178	Obtains small additional amounts of Kons each day.
+179	Slightly decreases the time required to install a building.
+180	Slightly decreases the time required to install farmland.
+181	Slightly decreases the time required to produce crops.
+182	Slightly increases the amount of Base Herbs gathered.
+183	Slightly increases the amount of Bloody Herbs gathered.
+184	Slightly increases the amount of Firewood gathered at the chopping block.
+185	Slightly increases production success rate at the Furnace and the Anvil.
+186	Slightly increases production success rate at the Spinning Wheel and the Loom.
+187	Can register more Homestead friends.
+188	Can register more Homestead friends.
+189	Can register more Homestead friends.
+191	Ladeca Ladder
+192	Ladder to climb up to Ladeca.\nWonder why people pay to go up to the Observatory...
+208	A mysterious purple ore that can only be collected at the Homestead.\nYou can have up to 2 of this essential Homestead improvement. 
+209	An entrance from...somewhere. The details are murky.\nOne must come through it to enter the Homestead.\nWhen you want to be alone, you can stop others from entering.
+210	Obtains small additional amounts of Kons when harvesting crops.
+211	Obtains small additional amounts of Kons when harvesting crops.
+212	Obtains small additional amounts of Kons each day.
+213	Obtains small additional amounts of Kons each day.
+214	Slightly decreases the time required to install a building.
+215	Slightly decreases the time required to install farmland.
+216	Slightly decreases the time required to produce crops.
+227	Slightly increases the amount of nearby Base Herbs gathered.
+228	Slightly increases the amount of nearby Bloody Herbs gathered.
+229	Slightly increases the amount of Firewood gathered at nearby chopping blocks.
+230	Slightly increases production success rate at nearby Furnaces and Anvils.
+231	Slightly increases production success rate at nearby Spinning Wheels and Looms.
+232	Can register more Homestead friends.
+233	Can register more Homestead friends.
+234	Can register more Homestead friends.
+235	Fence made of wood boards.\nThe snowy cover makes it almost look like a part of nature.
+236	Prairie Swamp
+237	Desert Swamp
+238	Ice Fishing Hole
+239	A fishing hole containing fish like those in Tir Chonaill.\nHook a fish, and new opportunities may come as well.
+240	A fishing hole containing fish like those at the Deep Sea Fisherboat.\nHook a fish, and new opportunities may come as well.
+241	A fishing hole containing fish like those in Reus River.\nHook a fish, and new opportunities may come as well.
+242	라벤더
+243	캐모마일
+244	로즈마리
+245	로즈힙
+246	페퍼민트
+247	제라늄
+248	티트리
+249	자스민
+250	라벤더를 채집할 수 있다. \n주변에서 음악을 연주해주면 성장 속도가 빨라진다.
+251	캐모마일를 채집할 수 있다. \n주변에서 음악을 연주해주면 성장 속도가 빨라진다.
+252	로즈마리를 채집할 수 있다. \n주변에서 음악을 연주해주면 성장 속도가 빨라진다.
+253	로즈힙을 채집할 수 있다. \n주변에서 음악을 연주해주면 성장 속도가 빨라진다.
+254	페퍼민트를 채집할 수 있다. \n주변에서 음악을 연주해주면 성장 속도가 빨라진다.
+255	제라늄을 채집할 수 있다. \n주변에서 음악을 연주해주면 성장 속도가 빨라진다.
+256	티트리를 채집할 수 있다. \n주변에서 음악을 연주해주면 성장 속도가 빨라진다.
+257	자스민을 채집할 수 있다. \n주변에서 음악을 연주해주면 성장 속도가 빨라진다.
+272	Sheep
+273	Hen
+274	Rooster
+275	Milk Cow
+277	Able to gather eggs.
+278	Morning on the farm starts with the crowing of the Rooster. Cock-a-doodle-doo!
+279	You got milk!
+280	Steam Oven
+281	Dry Oven
+282	Upgrade Anvil
+283	Upgrade Anvil (Snowfield)
+284	An Alchemist's oven that can conduct Mana Crystallization and crystal making.
+285	An Alchemist's oven that can conduct Fragmentation and Synthesis.
+286	An anvil that supports special upgrades.
+287	An anvil that supports special upgrades.
+288	Cherry Blossom Tree
+289	Shrine Door
+290	Gift Pile
+291	Cookie Tree
+292	The fluttering cherry blossoms make a beautiful sight.
+293	A door that is used at a shrine in a far eastern country.
+294	A decoration made to commemorate an anniversary.
+296	Oven
+297	Practice Scarecrow
+298	Berry Shrub
+299	You can cook using the fire while near the oven.
+300	It is as if you can still hear Ranald in the back of your head, telling you to continue your combat training.
+301	The berries obtained by smacking this berry shrub make the best food for weight loss.
+302	O Street Lamp
+303	X Street Lamp
+304	Nao Billboard
+305	Succubus Billboard
+306	Bamboo Fence
+307	Oriental Street Lamp
+308	Bamboo
+309	Food Kiosk
+310	Outlaw's Disguise Set
+311	Booty that can be seen at an Outlaw's farm. Use it if you want to scare the friends who visit your farm.
+312	Courcle Street Lamp
+313	A street lamp with an O mark on it. Gather friends and play the OX game for some fun times.
+314	A street lamp with an X mark on it. Gather friends and play the OX game for some fun times.
+315	A billboard with a drawing of Nao on it.
+316	A billboard with a drawing of a Succubus on it.
+317	Fence made of bamboo.
+318	A street light that brightens the night.
+319	Bamboo that has an air of tranquility to it.
+320	A food kiosk that is used during festivals.
+321	Gear for making disguises, often found at an Outlaw's farm. Use it if you want to scare the friends who visit your farm.
+323	A street light that brightens the night.
+326	Homestead Stone
+327	A mysterious purple ore that can only be collected at the Homestead.\nYou can have up to 2 of this essential Homestead improvement. 
+328	Eweca
+329	A miniature version of Eweca that shines in the night sky.\nGo up with a friend every and now then for those special relaxing times.
+330	Ladder
+331	Wonder why people pay to go up to the Observatory...
+332	Grants small additional amounts of Kon each day.
+333	Slightly decreases the time required to build decorations.
+334	Slightly decreases the time required to purchase animals.
+335	Slightly increases the amount of nearby Mana Herbs gathered.
+336	Star (Blue)
+337	Star (Red)
+338	Star (Yellow)
+339	City Lamp (Red)
+340	City Lamp (Orange)
+341	City Lamp (Yellow)
+342	City Lamp (Green)
+343	City Lamp (Blue)
+345	City Lamp (Navy Blue)
+346	City Lamp (Purple)
+347	A twinkling star in the sky that has been made small by magic.
+348	A twinkling star in the sky that has been made small by magic.
+349	A twinkling star in the sky that has been made small by magic.
+350	A street lamp that is used to paint the nightscape with different colors.
+351	A street lamp that is used to paint the nightscape with different colors.
+352	A street lamp that is used to paint the nightscape with different colors.
+353	A street lamp that is used to paint the nightscape with different colors.
+354	A street lamp that is used to paint the nightscape with different colors.
+355	A street lamp that is used to paint the nightscape with different colors.
+356	A street lamp that is used to paint the nightscape with different colors.
+358	Outlaw's Booty
+359	Able to shear fluffy wool.
+360	A decorative cookie tree that you might see in fairy tales.
+361	Small Star (Blue)
+362	Small Star (Red)
+363	Small Star (Yellow)
+364	A twinkling star in the sky that has been made tiny by magic.
+365	A twinkling star in the sky that has been made tiny by magic.
+366	A twinkling star in the sky that has been made tiny by magic.
+367	Flower Pot
+368	Scarecrow
+369	Orange Tree
+370	Laundry
+371	Slightly increases the amount of nearby Sunlight Herbs gathered.
+372	Grants small additional amounts of Kon when harvesting crops.
+373	A flower pot with re-potted flowers of different colors.
+374	A trustworthy farm protector that will keep varmints from destroying the crops.
+375	This wood is orange. Don't hit it, for it looks pretty fragile.
+376	Just thinking about doing laundry on a nice sunny day makes me feel better.
+380	Candy grows on this special Homestead event tree! Gather from this tree to get 5 Candy Jars during the event. Hurry! You won't be able to build this tree once the event is over!
+381	Candy grows on this special Homestead event tree! Gather from this tree to get 6 Candy Jars during the event. Hurry! You won't be able to build this tree once the event is over!
+382	Candy grows on this special Homestead event tree! Gather from this tree to get 7 Candy Jars during the event. Hurry! You won't be able to build this tree once the event is over!
+383	Small Candy Tree
+384	Medium Candy Tree
+385	Large Candy Tree
+386	Wild Baby Dragon
+387	Fierce Baby Dragon
+388	Docile Baby Dragon
+389	Cute Baby Dragon
+390	This wild dragon showed up at your Homestead one day. Be careful; he's little, but he's quite ferocious.
+391	This fierce little guy wants to live on your Homestead. He loves you a lot and would follow you around all day if you let him. Be careful, though; he's still a wild animal.
+392	This wild little guy wants to live on your Homestead. He loves you a lot and would follow you around all day if you let him. He's not exactly tame, but he wouldn't hurt a fly.
+393	This cute little guy wants to live on your Homestead. He loves you a lot and would follow you around all day if you let him. Even though he's a dragon, he's as sweet and gentle as a kitten.
+394	Fractal Well
+395	Magic Fractal Well
+398	This well connects to an underground store of Glittering Dye Bottles, which will give you Glittering Dye Ampoules when used.
+399	This well connects to an underground store of Glittering Dye Bottles, which will give you Glittering Dye Ampoules when used.
+400	Christmas Wreath 01
+401	Christmas Wreath 02
+402	Christmas Wreath 03
+403	Christmas Tree 01
+404	Christmas Tree 02
+405	Christmas Tree 03
+406	Rudolf 01
+407	Rudolf 02
+408	Rudolf 03
+409	A Christmas decoration that can be placed in your Homestead. Use a decoration enhancer to make it even fancier.
+410	A Christmas decoration that can be placed in your Homestead. Use a decoration enhancer to make it even fancier.
+411	A Christmas decoration that can be placed in your Homestead. Use a decoration enhancer to make it even fancier.
+412	A Christmas decoration that can be placed in your Homestead. Use a decoration enhancer to make it even fancier.
+413	A Christmas decoration that can be placed in your Homestead. Use a decoration enhancer to make it even fancier.
+414	A Christmas decoration that can be placed in your Homestead. Use a decoration enhancer to make it even fancier.
+415	A Christmas decoration that can be placed in your Homestead. Use a decoration enhancer to make it even fancier.
+416	A Christmas decoration that can be placed in your Homestead. Use a decoration enhancer to make it even fancier.
+417	A Christmas decoration that can be placed in your Homestead. Use a decoration enhancer to make it even fancier.
+418	Ruairi Figure
+419	Tarlach Figure
+420	Mari Figure
+421	Trading Post Ogre Figure
+422	Young Tarlach Figure
+423	Nao Figure
+424	Hammering Ferghus Figure
+425	Goddess Altar Figure
+426	Stonehenge Figure
+427	Lia Fail Figure
+428	Trading Post Tent Figure
+429	Dungeon Orb Figure
+449	Kristell Figure
+454	Place this Ruairi figure in your Homestead for a little boost to your stats.\n[*Strength: +2, Will: +6]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+455	Place this Tarlach figure in your Homestead for a little boost to your stats.\n[*Intelligence: +6, Will: +2]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+456	Place this Mari figure in your Homestead for a little boost to your stats.\n[*Dexterity: +5, Luck: +3]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+457	Place this Trading Post Ogre figure in your Homestead for a little boost to your stats.\n[*Strength: +4, Will: +4]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+458	Place this Young Tarlach figure in your Homestead for a little boost to your stats.\n[*Dexterity: +3, Luck: +5]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+459	Place this Nao figure in your Homestead for a little boost to your stats.\n[*Dexterity: +2, Luck: +6]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+460	Place this Hammering Ferghus figure in your Homestead for a little boost to your stats.\n[*Strength: +3, Will: +5]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+461	Place this Goddess Altar figure in your Homestead for a little boost to your stats.\n[*HP: +20]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+462	Place this Stonehenge figure in your Homestead for a little boost to your stats.\n[*MP: +20]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+463	Place this Lia Fail figure in your Homestead for a little boost to your stats.\n[*Stamina: +20]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+464	Place this Trading Post Tent figure in your Homestead for a little boost to your stats.\n[*HP: +10, Stamina: +10]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+465	Place this Dungeon Orb figure in your Homestead for a little boost to your stats.\n[*HP: +10, MP: +10]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+466	Place this Kristell figure in your Homestead for a little boost to your stats.\n[*Intelligence: +4, Luck: +4]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+470	Halloween Coffin
+471	Halloween Crypt
+472	Pumpkinface Tomb
+473	Halloween Ghost Light
+474	Pumpkinface Mansion
+475	Halloween Cat
+476	A spooky coffin decoration that can be placed in your Homestead.
+477	A ghostly crypt decoration that can be placed in your Homestead. 
+478	A dreadful pumpkin tomb decoration that can be placed in your Homestead. 
+479	A ghostly light decoration that can be placed in your Homestead.
+480	A pumpkin mansion decoration that can be placed in your Homestead. 
+481	'A troublesome cat decoration that can be placed in your Homestead.
+482	Pumpkinface
+483	A menacing pumpkin decoration that can be placed in your Homestead.
+484	New Years Rice Cake
+485	A New Year's decoration that can be placed in your Homestead.
+486	Snowflake Flurry
+487	Christmas Arch
+488	A Christmas decoration that can be placed in your Homestead.
+489	A Christmas decoration that can be placed in your Homestead.
+490	Christmas House
+491	Christmas Candle
+492	A Christmas decoration that can be placed in your Homestead.
+493	A Christmas decoration that can be placed in your Homestead.
+494	Poinsettia
+497	You can gather from Poinsettias. Playing music around the farm can increase growing speed, but it seems to prefer the aura of Christmas. 
+498	New Year's Pine Tree
+499	New Year's Sunrise Sign
+500	2015 New Year's Logo
+501	A New Year's decoration that can be placed in your Homestead.
+502	A New Year's decoration that can be placed in your Homestead.
+503	A New Year's decoration that can be placed in your Homestead.
+504	You can grow Poinsettias. Playing music around the farm can increase growing speed, but it seems to prefer the aura of Christmas. 
+505	Ginger Cookie Mine
+506	Ginger Cake Herb
+507	A ginger cookie mine decoration that can be placed in your Homestead.
+508	A ginger cake herb decoration that can be placed in your Homestead.
+509	Mini Training Orb
+510	Place this Training Grounds Orb figure in your Homestead for a little boost to your stats.\n[*Strength: +4, Will: +2]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+511	Melty Figure
+512	Munchy Figure
+513	Dressy Figure
+514	Healthy Figure
+515	Woody Figure
+516	Place this Melty figure in your Homestead for a little boost to your stats.\n[*Strength: +5, Will: +3]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+517	Place this Munchy figure in your Homestead for a little boost to your stats.\n[*Strength: +3, Dexterity: +5]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+518	Place this Dressy figure in your Homestead for a little boost to your stats.\n[*Intelligence: +3, Luck: +5]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+519	Place this Healthy figure in your Homestead for a little boost to your stats.\n[*Dexterity: +3, Intelligence: +5]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+520	Place this Woody figure in your Homestead for a little boost to your stats.\n[*Will: +5, Luck: +3]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+521	Mafia Tableau
+522	A tableau you can set up to make your Homestead feel more unscrupulous.
+523	Reno Figure
+524	Vay Figure
+525	Tion Figure
+526	Place this Reno figure in your Homestead for a little boost to your stats.\n[*Strength: +6, Will: +2]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+527	Place this Vay figure in your Homestead for a little boost to your stats.\n[*Intelligence: +5, Will: +3]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+528	Place this Tion figure in your Homestead for a little boost to your stats.\n[*Dexterity: +6, Luck: +2]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+529	Rin Tohsaka Figure
+530	Saber Figure
+531	Archer Figure
+532	Illyasviel Figure
+533	A Rin Tosaka figure that can be placed in your Homestead.
+534	A Saber figure that can be placed in your Homestead.
+535	An Archer figure that can be placed in your Homestead.
+536	A Illyasviel figure that can be placed in your Homestead.
+537	Arachne Mobile
+538	Golem Mobile
+539	Ursa Minor Mobile
+540	Aries Mobile
+541	Vulpecula Mobile
+542	Monoceros Mobile
+543	Serpens Mobile
+544	Lynx Mobile
+545	Draco Mobile
+546	A constellation decoration that can be placed in your Homestead.
+547	A constellation decoration that can be placed in your Homestead.
+548	A constellation decoration that can be placed in your Homestead.
+549	A constellation decoration that can be placed in your Homestead.
+550	A constellation decoration that can be placed in your Homestead.
+551	A constellation decoration that can be placed in your Homestead.
+552	A constellation decoration that can be placed in your Homestead.
+553	A constellation decoration that can be placed in your Homestead.
+554	A constellation decoration that can be placed in your Homestead.
+555	Sky Lantern (Cube)
+556	Sky Lantern (Sphere)
+557	A cubic Sky Lantern decoration that can be placed in your Homestead.
+558	A spherical Sky Lantern decoration that can be placed in your Homestead.
+559	White Christmas Tree
+560	Watch-Night Bell
+561	A white Christmas tree decoration that can be placed in your Homestead.
+562	A lovely bell that can be placed in your Homestead.
+563	Christmas Party
+564	Party food that can be placed in your Homestead.
+565	White Christmas Tree
+566	Poulnabrone Figure
+567	Place this Poulnabrone figure in your Homestead for a small boost to your stats.\n[Luck: +5, HP: +25, Max Damage: +2]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+568	Phoenix Figure
+569	A Phoenix figure that can be placed in your Homestead.
+570	Strawberry Cream (S)
+571	Strawberry Cream (L)
+572	Creamy 3-Layer Cake
+573	Gigantic Lollipop
+574	Creamy Lollipop
+575	Candy Button
+576	Straight Biscuit
+577	Creamy Macaron
+578	Macaron Pile
+579	Lollipop
+580	Crooked Biscuit
+581	Gigantic Lollipop (V)
+582	Gigantic Lollipop (<3)
+583	Pancake and Kupa
+585	A strawberry decoration that can be placed in your Homestead.
+586	A strawberry decoration that can be placed in your Homestead.
+587	A creamy 3-layer cake decoration that can be placed in your Homestead.
+588	A gigantic lollipop decoration that can be placed in your Homestead.
+589	A creamy lollipop decoration that can be placed in your Homestead.
+590	A candy button pile decoration that can be placed in your Homestead.
+591	A biscuit decoration that can be placed in your Homestead.
+592	A creamy macaron decoration that can be placed in your Homestead.
+593	A macaron pile decoration that can be placed in your Homestead.
+594	A lollipop decoration that can be placed in your Homestead.
+595	A biscuit decoration that can be placed in your Homestead.
+596	A gigantic lollipop decoration that can be placed in your Homestead.
+597	A gigantic lollipop decoration that can be placed in your Homestead.
+598	A decoration of a kupa playing on a pancake that can be placed in your Homestead.
+600	Fez Figure
+601	Tia Figure
+602	Place this Fez figure in your Homestead for a little boost to your stats.\n[*Strength: +6, Stamina: +25]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+603	Place this Tia figure in your Homestead for a little boost to your stats.\n[*Dexterity: +6, MP: +25]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+604	Festia Landmark
+605	Festia Arch
+606	Festia Fountain
+607	A Festia landmark model that can be placed in your Homestead.
+608	A Festia arch model that can be placed in your Homestead.
+609	A Festia fountain model that can be placed in your Homestead.
+610	Festia Landmark Figure
+611	Crystal Defender Figure
+612	Lorraine's Nightmare Figure
+613	Infinite Dungeon Tail Chasers Figure
+614	Place this Festia Landmark figure in your Homestead for a little boost to your stats.\n[*Strength: +5, Luck: +3]\n(Effects cannot be stacked. Stat increase will disappear if removed.)
+615	Place this Crystal Defender figure in your Homestead for a little boost to your stats.\n[*Dexterity: +5, Luck: +3]\n(Effects cannot be stacked. Stat increase will disappear if removed.)
+616	Place this Lorraine's Nightmare figure in your Homestead for a little boost to your stats.\n[*Intelligence: +5, Luck: +3]\n(Effects cannot be stacked. Stat increase will disappear if removed.)
+617	Place this Infinite Dungeon Tail Chasers figure in your Homestead for a little boost to your stats.\n[*Will: +5, Luck: +3]\n(Effects cannot be stacked. Stat increase will disappear if removed.)
+620	Tropical Party Pineapple that can be placed in your Homestead.
+621	Tropical Friends Pineapple that can be placed in your Homestead.
+622	Orange Mushroom Figure
+623	Horny Mushroom Figure
+624	Green Mushroom Figure
+625	Yeti Figure
+626	King Pepe Figure
+627	Erinn Resident Pink Bean
+628	An Orange Mushroom Figure that can be used to decorate your Homestead.
+629	A Horny Mushroom Figure that can be used to decorate your Homestead.
+630	A Green Mushroom Figure that can be used to decorate your Homestead.
+631	A Yeti Figure that can be used to decorate your Homestead.
+632	A King Pepe Figure that can be used to decorate your Homestead.
+633	Pink Bean has grown really fond of Erinn and the Milletian. He came back to your Homestead because he didn't want to leave Erinn! Use it at your Homestead to meet up with Pink Bean.
+634	Tropical Party Pineapple
+635	Tropical Friends Pineapple
+636	Harp Figure
+637	A decorative miniature harp you can place in your Homestead for a small boost to your stats.\n[*Will: +3, Max Damage: +3]\n(Effects cannot be stacked. Stat increase will disappear if the item is taken down.)
+638	Music Note Mobile 1
+639	Music Note Mobile 2
+640	Music Note Mobile 3
+641	Quarter Note
+642	Eighth Note
+643	Sixteenth Note
+644	Duplet
+645	A music note decoration that can be placed in your Homestead.
+646	A music note decoration that can be placed in your Homestead.
+647	A music note decoration that can be placed in your Homestead.
+648	A quarter note decoration that can be placed in your Homestead.
+649	An eighth note decoration that can be placed in your Homestead.
+650	A sixteenth note decoration that can be placed in your Homestead.
+651	A duplet decoration that can be placed in your Homestead.
+652	Old Junk
+653	Giant Stone Statue
+654	Haunted House
+655	An old junk decoration that can be placed in your Homestead.
+656	A giant stone statue decoration that can be placed in your Homestead.
+657	A haunted house decoration that can be placed in your Homestead.
+658	Treehouse
+659	Filia Well
+660	Long Oven
+661	Wooden Table
+662	Wooden Bench
+663	Stone Bench
+664	Glittering Tree
+665	Anchor Statue
+666	Round Fountain
+667	Stone Fountain
+669	Doll Kiosk
+670	Wine Kiosk
+671	Vales Torch
+672	Fish-Drying Rack
+673	Grape Basket
+674	Wood Chip
+675	A treehouse decoration that can be placed in your Homestead.
+676	A Filia Well decoration that can be placed in your Homestead.
+678	A wooden table decoration that can be placed in your Homestead.
+679	A wooden bench decoration that can be placed in your Homestead.
+680	A stone bench decoration that can be placed in your Homestead.
+681	A glittering tree decoration that can be placed in your Homestead.
+682	An anchor statue decoration that can be placed in your Homestead.
+683	A round fountain decoration that can be placed in your Homestead.
+684	A stone fountain decoration that can be placed in your Homestead.
+686	A doll kiosk decoration that can be placed in your Homestead.
+687	A wine kiosk decoration that can be placed in your Homestead.
+688	A Vales torch decoration that can be placed in your Homestead.
+689	A fish-drying rack decoration that can be placed in your Homestead.
+690	A grape basket decoration that can be placed in your Homestead.
+691	A wood chip decoration that can be placed in your Homestead.
+692	Ladder
+693	Climb up the treehouse and check out the view!
+694	Paper Sheep
+695	A paper sheep decoration that can be placed in your Homestead.
+696	A long oven decoration that can be placed in your Homestead. Can you cook by the fire? You sure can!
+697	Christmas Light Arch
+698	Big Twinkling Snowflake Tree
+699	Big Bright Snowman
+700	Big Glowing Reindeer
+701	Twinkling Snowflake Tree
+702	Bright Snowman
+703	Glowing Reindeer
+704	A glorious decoration that can be placed in your Homestead.
+705	A large glittering tree that can be placed in your Homestead.
+707	A large reindeer decoration that can be placed in your Homestead.
+708	A glittering tree that can be placed in your Homestead.
+710	A reindeer decoration that can be placed in your Homestead.
+711	A large snowman decoration that can be dyed different colors and placed in your Homestead.
+712	A snowman decoration that can be dyed different colors and placed in your Homestead.
+713	Cherry Forret Noire
+714	Fondant Au Chocolat
+715	Choco Choux Creme
+716	Chocolate Mousse
+717	A Cherry Forret Noire decoration that can be placed in your Homestead.
+718	A Fondant Au Chocolat decoration that can be placed in your Homestead.
+719	A Choco Choux Creme decoration that can be placed in your Homestead.
+720	A Chocolate Mousse decoration that can be placed in your Homestead.
+721	Mystical Tree
+722	Mystical Tree
+723	This dazzling mystical tree is somewhat fragile now, but will yield quality lumber if you tend it with the Essence of Spring.
+725	Gardening Shelf
+726	Floral Garden Trellis
+727	Garden Trellis
+728	Hyacinth Flower Pot
+729	Red Rose Flower Planter
+730	Red Rose Flower Pot
+731	White Rose Flower Pot
+732	Rapa Patch (Whole)
+733	Rapa Patch (Partial)
+734	Flower Basket
+735	Trellis Box
+736	Flower Box
+737	Garden Workbench
+738	Floral Wheelbarrow
+739	Fairy Garden
+740	Greenhouse
+741	A decorative shelf displaying gardening tools and supplies that can be placed in your Homestead.
+742	A lovely garden trellis with creeping floral vines that can be placed in your Homestead.
+743	A lovely white wooden garden trellis that can be placed in your Homestead.
+744	A flower pot full of colorful hyacinth flowers that can be placed in your Homestead.
+745	A flower planter overflowing with beautiful red roses that can be placed in your Homestead House.
+746	A flower pot filled with gorgeous red roses that can be placed in your Homestead.
+747	A flower pot filled with pure white roses that can be placed in your Homestead.
+748	A bright yellow rapa flower patch that can be placed in your Homestead.
+749	A partially-filled, bright yellow rapa flower patch that can be placed in your Homestead.
+750	A basket filled with delicate morning glory flowers that can be placed in your Homestead.
+751	A trellis flower box overflowing with delicate tulips and morning glory flowers that can be placed in your Homestead.
+752	A flower box overflowing with delicate tulips and morning glory flowers that can be placed in your Homestead.
+753	A beautiful white garden workbench displaying colorful blooms that can be placed in your Homestead.
+754	A decorative wheelbarrow displaying several different beautiful blooms that can be placed in your Homestead.
+755	An adorable fairy garden complete with tiny fairies that can be placed in your Homestead.
+756	A vine-covered greenhouse perfect for displaying your beautiful flower collection that can be placed in your Homestead.
+757	This dazzling mystical tree has grown strong from the nutrients in the Essence of Spring and will yield quality lumber.
+758	Mystical Tree
+759	Mystical Tree
+761	This dazzling mystical tree has grown strong from the nutrients in the Essence of Spring and will yield quality lumber.
+762	Chamomile
+763	Rose Hip
+764	You can grow Chamomile. Playing music near the farm can can speed up growth.
+765	You can grow Rose Hip. Playing music near the farm can can speed up growth.
+766	This dazzling mystical tree is somewhat fragile now, but will yield quality lumber if you tend it with the Essence of Spring.
+767	Avelin Figure
+768	Altam Figure
+769	Caswyn Figure
+770	Pihne Figure
+771	Talvish Figure
+772	Hagi Figure
+773	Anju Figure
+774	Edern Figure
+775	Ascon Figure
+776	Kousai Figure
+777	Pencast Figure
+778	Meven Figure
+779	Romantic Rose Candle
+780	Tall Flower Pot
+781	Medium Flower Pot
+782	Short Flower Pot
+783	Red Rose Tile (Full)
+784	Red Rose Tile (Sparse)
+785	Pink Rose Tile (Full)
+786	Pink Rose Tile (Sparse)
+787	Rose Vine Arch (Urban)
+788	Rose Vine Arch (Rustic)
+789	Crown Hanging Roses
+790	Floral Hanging Roses
+791	Vine Hanging Roses
+792	Vine Rose Fence
+793	Wild Rose Bush
+794	Place this Avelin figure in your Homestead for a little boost to your stats.\n[*Will: +3, Max Damage: +3]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+795	Place this Altam figure in your Homestead for a little boost to your stats.\n[*Strength: +3, Max Damage: +4]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+796	Place this Caswyn figure in your Homestead for a little boost to your stats.\n[*Will: +1, Max Damage: +3]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+797	Place this Pihne figure in your Homestead for a little boost to your stats.\n[*Intelligence: +3, Max Damage: +3]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+798	Place this Talvish figure in your Homestead for a little boost to your stats.\n[*Dexterity: +3, Max Damage: +5]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+799	Place this Ninja Hagi figure in your Homestead for a little boost to your stats.\n[*HP: +20, Dexterity: +5]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+800	Place this Ninja Anju figure in your Homestead for a little boost to your stats.\n[*MP: +20, Intelligence: +5]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+801	Place this Edern figure in your Homestead for a little boost to your stats.\n[*Luck: +3, Stamina: +15]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+802	Place this Ascon figure in your Homestead for a little boost to your stats.\n[*Strength: +3, Stamina: +15]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+803	Place this Kousai figure in your Homestead for a little boost to your stats.\n[*Dexterity: +3, Stamina: +15]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+804	Place this Pencast figure in your Homestead for a little boost to your stats.\n[*Intelligence: +3, Stamina: +15]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+805	Place this Meven figure in your Homestead for a little boost to your stats.\n[*Will: +3, Stamina: +15]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+806	Lovely candles next to blooming roses. This romantic ornament can be placed in your Homestead. Why not try filling your Homestead with flowers?
+807	A tall rose flower pot that can be placed in your Homestead House. Why not try filling your Homestead with flowers?
+808	A medium rose flower pot that can be placed in your Homestead House. Why not try filling your Homestead with flowers?
+809	A short rose flower pot that can be placed in your Homestead House. Why not try filling your Homestead with flowers?
+810	Red roses that can be painstakingly placed in your Homestead, stem by stem. Why not try filling your Homestead with flowers?
+811	Red roses that can be painstakingly placed in your Homestead, stem by stem. Why not try filling your Homestead with flowers?
+812	Pink roses that can be painstakingly placed in your Homestead, stem by stem. Why not try filling your Homestead with flowers?
+813	Pink roses that can be painstakingly placed in your Homestead, stem by stem. Why not try filling your Homestead with flowers?
+814	A rose vine arch that can be placed in your Homestead. Why not try filling your Homestead with flowers?
+815	A rose vine arch that can be placed in your Homestead. Why not try filling your Homestead with flowers?
+816	Hanging roses that can be placed in your Homestead. Why not try filling your Homestead with flowers?
+817	Hanging roses that can be placed in your Homestead. Why not try filling your Homestead with flowers?
+818	Hanging roses that can be placed in your Homestead. Why not try filling your Homestead with flowers?
+819	A rose and vine fence that can be placed in your Homestead. Why not try filling your Homestead with flowers?
+820	A wild rose bush that can be placed in your Homestead. Why not try filling your Homestead with flowers?
+821	Homestead Matsuri Stand
+822	Homestead Sweet Treats
+823	Homestead Fruity Treats
+824	Homestead Matsuri Lanterns
+825	A stand offering all sorts of festive trinkets!
+829	A whimsical cotton candy model of animals.
+830	A whimsical collection of huge candied fruit.
+831	Lines strung with beautiful lanterns to light up your nights during the festival.
+836	Floral Healthy
+837	Floral Melty
+840	Place this Floral Healthy Sequel Figure in your Homestead for a little boost to your stats.\n[*Dexterity: +3, Intelligence: +5]\nThis item's effects can stack with the effects from Figures, but not from other Sequel Figures.\n(Stat increase will disappear if taken down.)
+841	Place this Floral Melty Sequel Figure in your Homestead for a little boost to your stats.\n[*Luck: +3, Strength: +3]\nThis item's effects can stack with the effects from Figures, but not from other Sequel Figures.\n(Stat increase will disappear if taken down.)
+842	Spooky Tombstone
+843	Pumpkin Lamppost
+844	Creepy Carriage
+845	Summoning Cauldron
+846	Gnarled Tree
+847	Hallo-wreath Bench
+848	A spooky tombstone that can be placed in your homestead.
+849	A pumpkin lamppost that can be placed in your homestead.
+850	A creepy carriage that can be placed in your homestead.
+851	A summoning cauldron that can be placed in your homestead.
+852	A gnarled tree that can be placed in your homestead.
+853	A Hallo-wreath bench that can be placed in your homestead.
+854	Pumpkin Fence
+855	Halloween Fence
+856	Halloween Mobile
+857	A Pumpkin Fence that can be placed in your homestead. Decorate your homestead for Halloween! After all, what ground is more hallow than your own?
+858	A Halloween Fence that can be placed in your homestead. Decorate your homestead for Halloween! After all, what ground is more hallow than your own?
+859	A Halloween Mobile that can be placed in your homestead. Decorate your homestead for Halloween! After all, what ground is more hallow than your own?
+860	Halloween Flagstone (Partial)
+861	Halloween Flagstone (Whole)
+862	Halloween Pumpkin Flagstone (Whole)
+863	A Halloween Flagstone that can be placed in your homestead. Decorate your homestead for Halloween! After all, what ground is more hallow than your own?
+864	A Halloween Flagstone that can be placed in your homestead. Decorate your homestead for Halloween! After all, what ground is more hallow than your own?
+865	A Halloween Pumpkin Flagstone that can be placed in your homestead. Decorate your homestead for Halloween! After all, what ground is more hallow than your own?
+867	Overflowing Fountain
+868	Carpentry Workbench
+869	Mabiland Stage Backdrop
+871	An Overflowing Fountain that can be placed in your homestead... wait, shouldn't you get that fixed?
+872	Perfect your artisan skills with this Carpentry Workbench that can be placed in your Homestead.
+873	Bring the theatrical arts home with this backdrop that can be placed in your Homestead.
+874	Ladder
+876	Climb up the ladder and behold the vista of Erinn!
+877	Girl's Portrait Easel
+880	Girl's Portrait Easel Figure
+883	An easel that can be placed in your Homestead. It has the portrait of a girl on it.\nUse it to reminisce the time you shared with Alyn.
+884	Place this Girl's Portrait Easel figure in your Homestead for a small boost to your stats.\n[HP +3, Strength: +3, Max Damage: +1]\nThis item's effects stack with the effects of other Figures, but not with the effects of other Sequel Figures.\n(The stat bonus will disappear if taken down.)
+885	Mineral Vein
+886	Metallurgy Site
+887	Wheat
+888	Barley
+889	Corn
+890	Potato
+891	Shellfish Gathering Site
+892	Hazelnut Mushroom
+893	Light Brown Pine Mushroom
+894	Gold Mushroom
+895	A gathering node that can be placed in your Homestead and mined for minerals
+896	A gathering node that can be placed in your Homestead and sifted for ore fragments and metals
+897	A gathering node that can be placed in your Homestead and harvested for wheat
+898	A gathering node that can be placed in your Homestead and harvested for barley
+899	A gathering node that can be placed in your Homestead and harvested for corn
+900	A gathering node that can be placed in your Homestead and dug for potatoes
+901	A gathering node that can be placed in your Homestead and dug for shellfish
+902	A gathering node that can be placed in your Homestead and collected for hazelnut mushrooms
+903	A gathering node that can be placed in your Homestead and collected for light brown pine mushrooms
+904	A gathering node that can be placed in your Homestead and collected for gold mushrooms
+905	Girl's Portrait Easel Figure
+906	Place this Girl's Portrait Easel figure in your Homestead for a small boost to your stats.\n[HP +3, Strength: +3, Max Damage: +1]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+907	Cherry Blossom Tree and Pond
+908	Swing Bench
+909	Flower Pot Shelf
+910	Laddered Flower Pot Shelf
+911	Small Hydrangea Box
+912	Hydrangea Planter
+913	Hydrangea Garden
+914	Lamplit Wooden Trellis
+915	Vine-Wrapped Garden Trellis
+916	Wild Grass
+917	A cherry blossom tree and a pond that can be placed in your Homestead.
+918	A swing bench that can be placed in your Homestead.
+919	A flower pot shelf that can be placed in your Homestead House.
+920	A tiered flower pot shelf that can be placed in your Homestead House.
+921	A small planter box of blooming hydrangeas that can be placed in your Homestead.
+922	A planter of blooming hydrangeas that can be placed in your Homestead House.
+923	A patch of hydrangeas that can be placed in your Homestead.
+924	A wooden trellis with lamps atop the posts that can be placed on your Homestead.
+925	A wooden trellis with vines spreading over it that can be placed on your Homestead.
+926	A patch of wild grass that can be placed in your Homestead.
+927	Wisteria House (Limited)
+928	Spring Garden Well
+929	Spring Garden Fountain
+930	Spring Garden Wisteria
+931	Spring Garden Cherry Blossom Bench
+932	Ladder
+933	Tulip Patch (Whole)
+934	Tulip Patch (Partial)
+935	Tulip Garden Plot
+936	Chrysanthemum Flower Pot
+937	Pink Hydrangea Flower Pot
+938	Assorted Blossoms Flower Pot
+939	Spring Shrubbery Pot
+940	Wild Chrysanthemums
+941	Wild Pink Hydrangeas
+942	A picturesque two-story mansion that can be constructed on your Homestead.\nIt might just be the perfect place to settle down and start that life in the countryside that you've always dreamt of.
+943	Place this Spring Garden Well on your Homestead for a little boost to your stats.\n[*Critical Damage +5%]\n(Can be painted. Effects cannot be stacked. Stat increase will disappear if removed from Homestead.)
+944	Place this Spring Garden Fountain on your Homestead for a little boost to your stats.\n[*Music Buff Skill Effect +3]\n(Can be painted. Effects cannot be stacked. Stat increase will disappear if removed from Homestead.)
+945	Place this Spring Garden Wisteria on your Homestead for a little boost to your stats.\n[*Max Damage +7]\n(Can be painted. Effects cannot be stacked. Stat increase will disappear if removed from Homestead.)
+946	Place this Spring Garden Cherry Blossom Bench on your Homestead for a little boost to your stats.\n[*Intelligence +7, Will +5]\n(Can be painted. Effects cannot be stacked. Stat increase will disappear if removed from Homestead.)
+947	Take a seat on this Cherry Blossom bench and enjoy the tranquil scenery.
+948	A tulip decoration that can be placed on your Homestead. Why not try filling the fields of your Homestead with beautiful flowers?
+949	A tulip decoration that can be placed on your Homestead. Why not try filling the fields of your Homestead with beautiful flowers?
+950	A Tulip Garden Plot that can be placed on your Homestead. Why not try filling the fields of your Homestead with beautiful flowers? (Can be painted)
+951	A Chrysanthemum Flower Pot that can be placed on your Homestead. Why not try filling the fields of your Homestead with beautiful flowers?
+952	A Pink Hydrangea Flower Pot that can be placed on your Homestead. Why not try filling the fields of your Homestead with beautiful flowers?
+953	An Assorted Blossoms Flower Pot that can be placed on your Homestead. Why not try filling the fields of your Homestead with beautiful flowers?
+954	A Spring Shrubbery Pot that can be placed on your Homestead. Why not try filling the fields of your Homestead with beautiful flowers?
+955	Wild Chrysanthemums that can be placed on your Homestead. Why not try filling the fields of your Homestead with beautiful flowers?
+956	Wild Pink Hydrangeas that can be placed on your Homestead. Why not try filling the fields of your Homestead with beautiful flowers?
+957	Grants small additional amounts of Kons when harvesting crops.
+958	Grants small additional amounts of Kons when harvesting crops.
+959	Grants small additional amounts of Kons when harvesting crops.
+960	Grants small additional amounts of Kons each day.
+961	Grants small additional amounts of Kons each day.
+962	Grants small additional amounts of Kons each day.
+963	Slightly decreases the time required to install a building.
+964	Slightly decreases the time required to install farmland.
+965	Slightly decreases the time required to produce crops.
+966	Slightly decreases the time required to build decorations.
+967	Slightly decreases the time required to purchase animals.
+968	Slightly increases the amount of nearby Base Herbs gathered.
+969	Slightly increases the amount of nearby Bloody Herbs gathered.
+970	Slightly increases the amount of nearby Mana Herbs gathered.
+971	Slightly increases the amount of nearby Sunlight Herbs gathered.
+972	Slightly increases the amount of Firewood gathered at nearby chopping blocks.
+973	Slightly increases production success rate at nearby Furnaces and Anvils.
+974	Slightly increases production success rate at nearby Spinning Wheels and Looms.
+975	Can register more Homestead friends.
+976	Can register more Homestead friends.
+977	Can register more Homestead friends.
+984	Place this Talamh Sequel Figure on your Homestead for a little boost to your stats.\n[*Dexterity: +6]\nThis item's effects can stack with the effects from Figures, but not from other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+985	Place this Teine Sequel Figure on your Homestead for a little boost to your stats.\n[*Strength: +6]\nThis item's effects can stack with the effects from Figures, but not from other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+986	Place this Uisce Sequel Figure on your Homestead for a little boost to your stats.\n[*Intelligence: +6]\nThis item's effects can stack with the effects from Figures, but not from other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+987	Place this Gaoth Sequel Figure on your Homestead for a little boost to your stats.\n[*Will: +6]\nThis item's effects can stack with the effects from Figures, but not from other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+988	Place this Solas Sequel Figure on your Homestead for a little boost to your stats.\n[*Luck: +6]\nThis item's effects can stack with the effects from Figures, but not from other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+989	Place this Oidhche Sequel Figure on your Homestead for a little boost to your stats.\n[*HP: +10, MP: +10, Stamina: +10]\nThis item's effects can stack with the effects from Figures, but not from other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+990	Talamh
+991	Teine
+992	Uisce
+993	Gaoth
+994	Solas
+995	Oidhche
+996	Tulip Pot with Heart
+997	Tulip-filled Watering Can
+999	Tulip Street Light
+1000	Tulip Arch
+1001	Twinkling Lights Tulip Arch
+1004	Beautiful potted tulips, featuring a lovely heart on the flower pot. Can be placed in your Homestead.
+1005	A watering can brimming with beautiful tulips. A lovely bit of decor for any Homestead.
+1007	For that touch of flowery lighting that your Homestead has been longing for.
+1008	An archway featuring a splendid array of beautiful tulips. Adds a touch of elegance to any Homestead.
+1009	An archway featuring a splendid array of beautiful tulips with twinkling illumination. Adds a touch of elegance to any Homestead.
+1012	Tech Duinn Geata Figure
+1013	Place this Tech Duinn Geata figure in your Homestead for a small boost to your stats.\n[Max HP: +28, Max Damage: +2]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1014	Tulip Flowerbed and Display
+1015	Cotton Candy Stand
+1016	Balloon Stand
+1017	Parade Band Talvish
+1018	Parade Band Avelin
+1019	Parade Band Altam
+1020	Parade Band Pihne
+1021	Parade Band Caswyn
+1022	Parade Band Llywelyn
+1023	Place this Parade Band Talvish Sequel Figure on your Homestead for a little boost to your stats.\n[*Strength: +6]\nThis item's effects can stack with the effects from Figures, but not effects from other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+1024	Place this Parade Band Avelin Sequel Figure on your Homestead for a little boost to your stats.\n[*Intelligence: +6]\nThis item's effects can stack with the effects from Figures, but not effects from other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+1025	Place this Parade Band Altam Sequel Figure on your Homestead for a little boost to your stats.\n[*Will: +6]\nThis item's effects can stack with the effects from Figures, but not effects from other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+1026	Place this Parade Band Pihne Sequel Figure on your Homestead for a little boost to your stats.\n[*Dexterity: +6]\nThis item's effects can stack with the effects from Figures, but not effects from other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+1027	Place this Parade Band Caswyn Sequel Figure on your Homestead for a little boost to your stats.\n[*Luck: +6]\nThis item's effects can stack with the effects from Figures, but not effects from other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+1028	Place this Parade Band Llywelyn Sequel Figure on your Homestead for a little boost to your stats.\n[*HP: +10, MP: +10, Stamina: +10]\nThis item's effects can stack with the effects from Figures, but not effects from other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+1029	A stunning display of gorgeous tulips to add a touch of whimsy and delight to any Homestead.
+1030	Craving a tasty treat? This cotton candy stand is sure to tempt your senses! Place it on your Homestead to add a touch of delicious whimsy.
+1031	This balloon stand adds a touch of festiveness to any Homestead.
+1032	Llywelyn Figure
+1033	Place this Llywelyn figure in your Homestead for a little boost to your stats.\n[*Intelligence: +10, Max Damage: +4]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1034	Large Goldfish Lamp
+1035	Small Goldfish Lamp
+1036	Goldfish Trio Lamp
+1037	A large goldfish lamp that can be placed in your Homestead.
+1038	A small goldfish lamp that can be placed in your Homestead.
+1039	A lamp featuring a trio of goldfish, which can be placed in your Homestead.
+1061	Small Black Pine Tree
+1062	Large Black Pine Tree
+1063	Oriental Pond
+1064	A small black pine tree that can be placed in your Homestead.
+1065	A large black pine tree that can be placed in your Homestead.
+1067	Oriental Gazebo
+1068	Small Oriental Archway
+1069	Large Oriental Archway
+1070	Oriental Bench
+1075	Oriental Lamp
+1076	Oriental Lamp Trio
+1077	An oriental lamp that can be placed in your Homestead.
+1078	A trio of oriental lamps that can be placed in your Homestead.
+1079	Blue Goldfish Lamp
+1080	A blue goldfish lamp that can be placed in your Homestead.
+1081	A small oriental pond that can be placed in your Homestead for a small boost to your stats.\n[*Strength: +7, HP: +10]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1086	An oriental gazebo that can be placed in your Homestead for a small boost to your stats.\n[*Dexterity: +7, Luck: +3, Max Damage: +4]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1087	A small oriental arch door that can be placed in your Homestead for a small boost to your stats.\n[*Luck: +7, Will: +3, Max Damage: +3]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1088	A large oriental arch door that can be placed in your Homestead for a small boost to your stats.\n[*Luck: +7, Will: +3, Max Damage: +3]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1089	An oriental bench that can be placed in your Homestead for a small boost to your stats.\n[*Intelligence: +6, MP: +10, Max Damage: +1]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1090	Spring Garden Wisteria Model
+1091	A beautiful springtime wisteria that can be placed on your Homestead.
+1092	Small Astronomical Telescope
+1093	Large Astronomical Telescope
+1094	Small Barbecue Grill
+1095	Large Barbecue Grill
+1096	Small Hammock
+1097	Large Hammock
+1098	Small Sleeping Bag
+1099	Large Sleeping Bag
+1100	Small Simple Chair (Eating)
+1101	 Large Simple Chair (Eating)
+1102	Small Simple Chair (Reading)
+1103	Large Simple Chair (Reading)
+1104	Small Simple Chair (Relaxing)
+1105	Large Simple Chair (Relaxing)
+1106	Small Simple Chair (Idling)
+1107	Large Simple Chair (Idling)
+1108	Marshmallow Campfire
+1109	Cooking Table
+1110	Small Tent
+1111	Large Tent
+1112	Maple Tree
+1113	Camping Bicycle
+1114	Camping Bicycle and Trailer
+1115	Camping Bicycle Set
+1116	A small astronomical telescope that can be placed on your Homestead.
+1117	A large astronomical telescope that can be placed on your Homestead.
+1118	A small barbecue grill that can be placed on your Homestead.
+1119	A large barbecue grill that can be placed on your Homestead.
+1120	A small hammock that can be placed on your Homestead.
+1121	A large hammock that can be placed on your Homestead.
+1122	A small sleeping bag that can be placed on your Homestead.
+1123	A large sleeping bag that can be placed on your Homestead.
+1124	A small simple chair that can be placed on your Homestead, perfect for grabbing a bite.
+1125	A large simple chair that can be placed on your Homestead, perfect for grabbing a bite.
+1126	A small simple chair that can be placed on your Homestead, perfect for catching up on your favorite literature (or trashy novel).
+1127	A large simple chair that can be placed on your Homestead, perfect for catching up on your favorite literature (or trashy novel).
+1128	A small simple chair that can be placed on your Homestead, perfect for stretching out and getting comfy.
+1129	A large simple chair that can be placed on your Homestead, perfect for stretching out and getting comfy.
+1130	A small simple chair that can be placed on your Homestead, perfect for just killing time when you don't have anything else going on.
+1131	A large simple chair that can be placed on your Homestead, perfect for just killing time when you don't have anything else going on.
+1132	A marshmallow-roasting campfire that can be placed on your Homestead.
+1133	A cooking table that can be placed on your Homestead.
+1134	A small tent that can be placed on your Homestead.
+1135	A large tent that can be placed on your Homestead.
+1136	A maple tree that can be placed on your Homestead.
+1137	An off-road bicycle that can be placed on your Homestead.
+1138	An off-road bicycle and trailer that can be placed on your Homestead.
+1139	An off-road bicycle set that can be placed on your Homestead.
+1140	Camping Campfire Set
+1141	Camping Table Set
+1142	Camping Tent Set
+1143	Camping Bicycle Set
+1144	Camping Barbecue Party Set
+1145	Camping Buddies Set
+1146	Camping Companions Set
+1147	Camping Enthusiasts Set
+1148	Camping Sleeping Bags Set
+1149	A camping campfire set that can be placed on your Homestead.
+1150	A camping table set that can be placed on your Homestead.
+1151	A camping tent set that can be placed on your Homestead.
+1152	A camping bicycle set that can be placed on your Homestead.
+1153	A camping barbecue set that can be placed on your Homestead.
+1154	A camping set for a moderate group that can be placed on your Homestead.
+1155	A camping set for a decently sized group that can be placed on your Homestead.
+1156	A camping set for a large group that can be placed on your Homestead.
+1157	A camping set for those dedicated to a good night's sleep that can be placed on your Homestead.
+1158	Small Simple Chair (Eating)
+1159	Large Simple Chair (Eating)
+1160	Small Simple Chair (Reading)
+1161	Large Simple Chair (Reading)
+1162	Small Simple Chair (Relaxing)
+1163	Large Simple Chair (Relaxing)
+1164	Small Simple Chair (Idling)
+1165	Large Simple Chair (Idling)
+1166	Cooking Table
+1167	Camping Bicycle
+1168	Homestead Halloween Mage's Cauldron
+1169	Homestead Halloween Strange Wardrobe
+1170	A small simple chair that can be placed on your Homestead, perfect for grabbing a bite.
+1171	A large simple chair that can be placed on your Homestead, perfect for grabbing a bite.
+1172	A small simple chair that can be placed on your Homestead, perfect for catching up on your favorite literature (or trashy novel).
+1173	A large simple chair that can be placed on your Homestead, perfect for catching up on your favorite literature (or trashy novel).
+1174	A small simple chair that can be placed on your Homestead, perfect for stretching out and getting comfy.
+1175	A large simple chair that can be placed on your Homestead, perfect for stretching out and getting comfy.
+1176	A small simple chair that can be placed on your Homestead, perfect for just killing time when you don't have anything else going on.
+1177	A large simple chair that can be placed on your Homestead, perfect for just killing time when you don't have anything else going on.
+1178	A cooking table that can be placed on your Homestead.
+1179	Have you ever wanted to summon otherworldly beings? Use this mage's cauldron to delve into the unknown!
+1180	A strange wardrobe that can be placed in your homestead. Decorate your homestead for Halloween!
+1181	Homestead Halloween Shelf of Oddities
+1182	Homestead Halloween Puppet Altar
+1183	A Halloween junk box that can be placed in your homestead. Decorate your homestead for Halloween!
+1184	A puppet altar that can be placed in your homestead. Decorate your homestead for Halloween!
+1185	Sword of Promise Sculpture
+1186	Koi Sculpture
+1187	Waterfall of Life
+1188	Can be placed in your homestead. Give your homestead an artsy vibe!
+1189	Can be placed in your homestead. Give your homestead an artsy vibe!
+1190	Can be placed in your homestead. Give your homestead an artsy vibe!
+1191	Rudolph Sleigh Mobile
+1195	A Sleigh Mobile featuring Rudolph that can be placed in your homestead. Deck your halls with Christmas cheer!
+1198	A Hot Spring Pavilion that can be placed on your Homestead. Enjoy the atmosphere of a wintery hot spring all year long!
+1199	A Hot Spring that can be placed on your Homestead. Enjoy the atmosphere of a wintery hot spring all year long!
+1204	A pool of heated Spring Water that can be placed on your Homestead. Enjoy the atmosphere of a wintery hot spring all year long!
+1205	A No-Peeking Fence that can be placed on your Homestead to defend you from any wandering gazes.Enjoy the atmosphere of a wintery hot spring all year long!
+1206	A Hot Spring Sozu fountain that can be placed on your Homestead. Enjoy the atmosphere of a wintery hot spring all year long!
+1207	A Hot Spring stone lantern that can be placed on your Homestead. Enjoy the atmosphere of a wintery hot spring all year long!
+1208	Hot Spring Pavilion Model
+1209	Winter Hot Spring Model
+1210	Spring Water Model
+1211	No-Peeking Fence
+1212	Hot Spring Sozu Fountain
+1213	Hot Spring Stone Lantern
+1214	Hapless Far Darrig Figure
+1215	Blue Far Darrig Figure
+1216	Green Far Darrig Figure
+1217	Pink Far Darrig Figure
+1218	A Sleigh Mobile featuring Rudolph that can be placed in your homestead. Deck your halls with Christmas cheer!
+1223	Place this Far Darrig figure in your Homestead for a little boost to your stats.\nIt is said a Far Darrig visiting your Homestead brings you good luck.\n[*Luck: +8, Will: +2]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1224	Place this Far Darrig figure in your Homestead for a little boost to your stats.\nIt is said a Far Darrig visiting your Homestead brings you good luck.\n[*Luck: +8, Dexterity: +2]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1225	Place this Far Darrig figure in your Homestead for a little boost to your stats.\nIt is said a Far Darrig visiting your Homestead brings you good luck.\n[*Luck: +8, Intelligence: +2]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1226	Place this Far Darrig figure in your Homestead for a little boost to your stats.\nIt is said a Far Darrig visiting your Homestead brings you good luck.\n[*Luck: +8, Strength: +2]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1227	Marleid Figure
+1228	Vayne Figure
+1229	Piran Figure
+1230	Cethlenn Figure
+1231	Bhatair Figure
+1232	Murielle Figure
+1233	Tani Figure
+1234	낭만 농장에 설치 가능한 마르에드 미니어처 장식물. 낭만 농장에 이 미니어처가 설치되어 있는 동안 능력치가 상승한다. \n[*체력: +3, 최대 생명력: +20 , 크리티컬 대미지: +4]\n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+1235	낭만 농장에 설치 가능한 베인 미니어처 장식물. 낭만 농장에 이 미니어처가 설치되어 있는 동안 능력치가 상승한다. \n[*솜씨: +3, 최대 스태미나: +20 , 음악 버프 효과: +2]\n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+1236	Place this Piran figure on your Homestead for a little boost to your stats.\n[*Luck: +9, Max Damage: +5]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1237	낭만 농장에 설치 가능한 케흘렌 미니어처 장식물. 낭만 농장에 이 미니어처가 설치되어 있는 동안 능력치가 상승한다. \n[*지력: +10, 마법공격력: +5]\n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+1238	Place this Bhatair figure on your Homestead for a little boost to your stats.\n[*Strength: +5, Max Damage: +3]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1239	Place this Murielle figure on your Homestead for a little boost to your stats.\n[*Luck: +5, Max Damage: +3]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1240	낭만 농장에 설치 가능한 타닐리엠 미니어처 장식물. 낭만 농장에 이 미니어처가 설치되어 있는 동안 능력치가 상승한다. \n[*지력: +6, 마법공격력: +3]\n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+1241	Winter Royal Garden
+1242	A Winter Royal Garden that can be placed on your Homestead. Beautiful ice crystal flowers are displayed inside the frosty house.
+1243	Place this Marleid figure on your Homestead for a little boost to your stats.\n[*Strength: +3, Max HP: +20, Critical Damage: +4%]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1244	Place this Vayne figure on your Homestead for a little boost to your stats.\n[*Dexterity: +3, Max Stamina +20, Music Buff Effect: +2]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1245	Place this Cethlenn figure on your Homestead for a little boost to your stats.\n[*Intelligence: +10, Magic Attack: +5]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1246	Place this Tani figure in your Homestead for a little boost to your stats.\n[*Intelligence: +6, Magic Attack: +3]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1247	Winter Hot Spring
+1248	Hot Spring Pavilion
+1249	Spring Water
+1250	Winter Royal Garden
+1251	Marleid Figure
+1252	Vayne Figure
+1253	Piran Figure
+1254	Cethlenn Figure
+1255	A snow-capped winter hot spring that you can sit in using the Rest skill after placing it on your Homestead. Enjoy the atmosphere of a wintery hot spring all year long! \n[*Strength: +3, Max HP: +20 , Critical Damage: +5%]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1256	A small pavilion that you can sit in using the Rest skill after placing it on your Homestead. Enjoy the atmosphere of a wintery hot spring all year long! \n[*Intelligence: +10, Magic Attack: +5]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1257	A pool of geothermally heated spring water that you can sit in using the Rest skill after placing it on your Homestead. Enjoy the atmosphere of a wintery hot spring all year long! \n[*Luck: +9, Max Damage: +7]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1258	A Winter Royal Garden that can be placed on your Homestead. Beautiful ice crystal flowers are displayed inside the frosty house. \n[*Strength: +5, Max Damage: +2]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1259	Place this Marleid figure on your Homestead for a little boost to your stats.\n[*Dexterity: +3, Max Damage: +4]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1260	Place this Vayne figure on your Homestead for a little boost to your stats.\n[*Strength: +3, Max Damage: +5]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1261	Place this Piran figure on your Homestead for a little boost to your stats.\n[*Luck: +3, Max Damage: +3]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1262	Place this Cethlenn figure on your Homestead for a little boost to your stats.\n[*Intelligence: +3, Max Damage: +4]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1264	낭만 농장에 설치 가능한 마르에드 미니어처 장식물. 낭만 농장에 이 미니어처가 설치되어 있는 동안 능력치가 상승한다. \n[*체력: +3, 최대 생명력: +20, 크리티컬 대미지: +4%]\n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+1265	낭만 농장에 설치 가능한 베인 미니어처 장식물. 낭만 농장에 이 미니어처가 설치되어 있는 동안 능력치가 상승한다. \n[*솜씨: +3, 최대 스태미나: +20, 음악 버프 스킬 효과: +2]\n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+1266	Snowy Stop
+1267	Chromatic Aurora Mobile
+1268	Snow Mountain Panel
+1269	A snowy bench and street light you can set up in your Homestead. Give yourself a place to sit out in the cold.
+1270	An aurora mobile you can set up to make your Homestead feel more vibrant. Turn your home into a brilliant display of lights.
+1271	A snow mountain panel you can set up in your Homestead. Its life-like rendering makes you feel like you're actually there.
+1272	Emerald Aurora Mobile
+1273	Red Aurora Mobile
+1274	Milky Aurora Mobile
+1275	Purple Aurora Mobile
+1276	An aurora mobile you can set up to make your Homestead feel more vibrant. Turn your home into a brilliant display of lights.
+1277	An aurora mobile you can set up to make your Homestead feel more vibrant. Turn your home into a brilliant display of lights.
+1278	An aurora mobile you can set up to make your Homestead feel more vibrant. Turn your home into a brilliant display of lights.
+1279	An aurora mobile you can set up to make your Homestead feel more vibrant. Turn your home into a brilliant display of lights.
+1281	낭만 농장에 설치 가능한 베인 미니어처 장식물. 낭만 농장에 이 미니어처가 설치되어 있는 동안 능력치가 상승한다. \n[*솜씨: +3, 최대 스태미나: +20, 음악 버프 스킬 효과: +2]\n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+1282	낭만 농장에 설치 가능한 봄의 정원 우물. 낭만 농장에 이 우물이 설치되어있는 동안 능력치가 상승한다. \n[*크리티컬 대미지: +5%]\n(페인트칠 가능, 중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+1283	낭만 농장에 설치 가능한 봄의 정원 분수. 낭만 농장에 이 분수가 설치되어있는 동안 능력치가 상승한다. \n[*음악 버프 스킬 효과: +3]\n(페인트칠 가능, 중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+1284	Drinking Fountain
+1285	Tennis Official Chair
+1286	Tennis Court
+1288	Tennis Net
+1315	Luna Fairy Pond Model
+1316	Luna Fairy Street Light (Red)
+1317	Luna Fairy Street Light (Orange)
+1318	Luna Fairy Street Light (Yellow)
+1319	Luna Fairy Street Light (Green)
+1320	Luna Fairy Street Light (Blue)
+1321	Luna Fairy Street Light (Navy)
+1322	Luna Fairy Street Light (Purple)
+1323	Luna Fairy Swing Model
+1325	This Luna Fairy Street Light paints the night with different colors. Turn any Homestead into a magical fairy kingdom!
+1326	This Luna Fairy Street Light paints the night with different colors. Turn any Homestead into a magical fairy kingdom!
+1327	This Luna Fairy Street Light paints the night with different colors. Turn any Homestead into a magical fairy kingdom!
+1328	This Luna Fairy Street Light paints the night with different colors. Turn any Homestead into a magical fairy kingdom!
+1329	This Luna Fairy Street Light paints the night with different colors. Turn any Homestead into a magical fairy kingdom!
+1330	This Luna Fairy Street Light paints the night with different colors. Turn any Homestead into a magical fairy kingdom!
+1331	This Luna Fairy Street Light paints the night with different colors. Turn any Homestead into a magical fairy kingdom!
+1333	Hot Spring Pavilion
+1334	A small pavilion that you can sit in using the Rest skill after placing it on your Homestead. Enjoy the atmosphere of a wintery hot spring all year long! \n[*Strength: +5, Max Damage: +2]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1335	A cool drink sure hits the spot after a rigorous workout!
+1336	A place for a tennis official to sit as they watch the match.
+1337	A tennis court, made just for your Homestead!
+1339	A tennis net, made just for your Homestead!
+1340	Tennis Court (Left)
+1341	Tennis Court (Right)
+1342	The left half of a tennis court, made just for your Homestead!
+1343	The right half of a tennis court, made just for your Homestead!
+1344	A cool drink sure hits the spot after a rigorous workout!
+1347	A Luna Fairy Pond that can be placed in your Homestead. Turn any Homestead into a magical fairy kingdom!
+1348	A Luna Fairy Swing that can be placed in your Homestead. Turn any Homestead into a magical fairy kingdom!
+1349	Luna Fairy Pond
+1350	Luna Fairy Swing
+1351	A magical pond that can be placed in your Homestead for a small boost to your stats. Turn any Homestead into a magical fairy kingdom!\n[*Max MP: +10, Magic Attack: +8]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1352	A magical swing that can be placed in your Homestead for a small boost to your stats. Turn any Homestead into a magical fairy kingdom!\n[*Strength: +8, Max HP: +10, Max Damage: +7]\n(Effects cannot be stacked. Stat increase will disappear if taken down.)
+1353	Egg Tree Sequel Figure
+1354	Place this Egg Tree Sequel Figure in your Homestead for a little boost to your stats.\n[*Luck: +3, Intelligence: +3]\nThis item's effects can stack with the effects from Figures, but not from other Sequel Figures.\n(Stat increase will disappear if taken down.)
+1355	달걀 나무
+1356	달걀 나무를 기를 수 있다. 주변에서 음악을 연주해주면 성장 속도가 빨라진다.
+1357	Homestead Wooden Floor
+1359	A wooden floor that can be placed in your Homestead. Enjoy the pleasant patter of feet upon this fine floor.
+1364	Place this Steel Trophy on your Homestead for a little boost to your stats, just like the effects of a Sequel Figure.\n[*Max Damage: +3]\nThis item's effects can stack with the effects bestowed by Figures, but not those of other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+1366	Place this Silver Trophy on your Homestead for a little boost to your stats, just like the effects of a Sequel Figure.\n[*Critical Damage: +1%]\nThis item's effects can stack with the effects bestowed by Figures, but not those of other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+1368	Place this Golden Trophy on your Homestead for a little boost to your stats, just like the effects of a Sequel Figure.\n[*Music Buff Effect: +1]\nThis item's effects can stack with the effects bestowed by Figures, but not those of other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+1369	Steel Trophy
+1370	Bronze Trophy
+1371	Silver Trophy
+1372	Golden Trophy
+1373	Heavenly Flowerbed
+1374	Heavenly Waterfall
+1375	A flowerbed you can place in your Homestead. The flowers and butterflies add a touch of the divine to the beautiful flowerbed.
+1376	A waterfall you can place in your Homestead. The flowers and butterflies around the small waterfall add a touch of the divine.
+1377	Place this Bronze Trophy on your Homestead for a little boost to your stats, just like the effects of a Sequel Figure.\n[*Magic Attack: +5]\nThis item's effects can stack with the effects bestowed by Figures, but not those of other Sequel Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+1378	Chess Board - Black Square
+1379	Chess Board - White Square
+1380	Chess Piece - Black King and Black Square
+1381	Chess Piece - Black Queen and Black Square
+1382	Chess Piece - Black Rook and Black Square
+1383	Chess Piece - Black Bishop and Black Square
+1384	Chess Piece - Black Knight and Black Square
+1385	Chess Piece - Black Pawn and Black Square
+1386	Chess Piece - Black King and White Square
+1387	Chess Piece - Black Queen and White Square
+1388	Chess Piece - Black Rook and White Square
+1389	Chess Piece - Black Bishop and White Square
+1390	Chess Piece - Black Knight and White Square
+1391	Chess Piece - Black Pawn and White Square
+1392	Chess Piece - White King and Black Square
+1393	Chess Piece - White Queen and Black Square
+1394	Chess Piece - White Rook and Black Square
+1395	Chess Piece - White Bishop and Black Square
+1396	Chess Piece - White Knight and Black Square
+1397	Chess Piece - White Pawn and Black Square
+1398	Chess Piece - White King and White Square
+1399	Chess Piece - White Queen and White Square
+1400	Chess Piece - White Rook and White Square
+1401	Chess Piece - White Bishop and White Square
+1402	Chess Piece - White Knight and White Square
+1403	Chess Piece - White Pawn and White Square
+1404	A black square from a chess board that can be placed on your Homestead. Turn your home into a great big game of chess.
+1405	A white square from a chess board that can be placed on your Homestead. Turn your home into a great big game of chess.
+1406	A black square from a chess board with a black king atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1407	A black square from a chess board with a black queen atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1408	A black square from a chess board with a black rook atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1409	A black square from a chess board with a black bishop atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1410	A black square from a chess board with a black knight atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1411	A black square from a chess board with a black pawn atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1412	A white square from a chess board with a black king atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1413	A white square from a chess board with a black queen atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1414	A white square from a chess board with a black rook atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1415	A white square from a chess board with a black bishop atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1416	A white square from a chess board with a black knight atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1417	A white square from a chess board with a black pawn atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1418	A black square from a chess board with a white king atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1419	A black square from a chess board with a white queen atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1420	A black square from a chess board with a white rook atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1421	A black square from a chess board with a white bishop atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1422	A black square from a chess board with a white knight atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1423	A black square from a chess board with a white pawn atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1424	A white square from a chess board with a white king atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1425	A white square from a chess board with a white queen atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1426	A white square from a chess board with a white rook atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1427	A white square from a chess board with a white bishop atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1428	A white square from a chess board with a white knight atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1429	A white square from a chess board with a white pawn atop it that can be placed on your Homestead. Turn your home into a great big game of chess.
+1430	Arpeggio Concert Hall Tree
+1431	One of the stage dressings from Arpeggio Concert Hall. Plant it in your Homestead! Its glimmering leaves give it an aura of mystery.
+1432	Praying Morrighan Sequel Figure
+1433	Adniel Sequel Figure
+1434	Yggdrasil Rest Area
+1435	Place this Praying Morrighan Sequel Figure in your Homestead for a little boost to your stats.\n[Strength: +5, Intelligence: +5]\nThis item's effects can stack with the effects from Figures, but not from other Sequel Figures.\n(Stat increase will disappear if taken down.)
+1436	Place this Adniel Sequel Figure in your Homestead for a little boost to your stats.\n[Dexterity: +5, Will: +5]\nThis item's effects can stack with the effects from Figures, but not from other Sequel Figures.\n(Stat increase will disappear if taken down.)
+1437	A Yggdrasil you can set up in your Homestead. Enjoy the serene beauty of this majestic tree whenever you like! You can also sit by it and rest if you use the Rest action nearby.
+1438	Safe
+1439	Security System
+1442	동양풍 연못
+1443	동양풍 정자
+1444	동양풍 대형 아치 문
+1445	동양풍 벤치
+1446	낭만 농장에 설치 가능한 동양풍 연못. 낭만 농장을 조금 더 생기 넘치게 꾸며 보자.
+1447	낭만 농장에 설치 가능한 동양풍 정자. 낭만 농장을 조금 더 생기 넘치게 꾸며 보자.
+1448	낭만 농장에 설치 가능한 동양풍 대형 아치 문. 낭만 농장을 조금 더 생기 넘치게 꾸며 보자.
+1449	낭만 농장에 설치 가능한 동양풍 벤치. 낭만 농장을 조금 더 생기 넘치게 꾸며 보자.
+1450	동양풍 소형 아치 문
+1451	낭만 농장에 설치 가능한 동양풍 소형 아치 문. 낭만 농장을 조금 더 생기 넘치게 꾸며 보자.
+1452	낭만 농장에 설치 가능한 동양풍 대형 아치 문. 낭만 농장을 조금 더 생기 넘치게 꾸며 보자.
+1453	낭만 농장에 설치 가능한 동양풍 소형 아치 문. 낭만 농장을 조금 더 생기 넘치게 꾸며 보자.
+1454	A safe that can be placed on your Homestead. Doesn't actually open, but you can make people think you have really valuable secret stuff.
+1455	A security system that can be placed on your Homestead. You'll need to be flexible to get past this!
+1464	A sunflower bicycle that can be placed on your Homestead.
+1465	A sunflower fence that can be placed on your Homestead.
+1469	A  young sunflower patch that can be placed on your Homestead.
+1470	A large sunflower patch that can be placed on your Homestead.
+1471	An abundant sunflower patch that can be placed on your Homestead.
+1475	A small fountain that can be placed in your Homestead.
+1477	Young Sunflower Patch
+1478	Large Sunflower Patch
+1479	Abundant Sunflower Patch
+1480	Sunflower Bicycle
+1481	Sunflower Fence
+1482	Star-Spangled Banner
+1483	Small Fountain
+1484	A Star-Spangled Banner that can be placed on your Homestead. The symbol of liberty, in good old red, white, and blue. Show your patriotism by placing it on your Homestead!
+1485	Campus Gate
+1486	Campus Break Area
+1487	Tree of Confession
+1488	A campus gate prop that can be placed on your Homestead. The falling leaves and modern school gate design give the whole thing a soothing touch.
+1489	A campus break area that can be placed on your Homestead. Sit on the benches with friends and chat away while enjoyed a canned refreshment!
+1490	A tree of confession that can be placed on your Homestead. Statistics suggest that confessions are less successful in autumn than in the spring.
+1493	Gummy Cat Floor
+1494	A gummy cat floor that can be placed in your Homestead. Enjoy the pleasant patter of feet upon this fine floor.
+1495	Deep-forest Comfortable Treehouse
+1496	A package of construction materials containing everything you need to upgrade your Homestead Housing to a cozy treehouse deep in theforest.\nIt might just be the perfect place to settle down and start that simple life you've always dreamt of.\n(Upgrading is possible when your house is at mansion level or above. Only relevant materials will obtained upon removal; the original house cannot be restored once replaced in this manner.)
+1497	Puzzle Picture Easel
+1498	An easel you can set up in your Homestead. It's said that the boy based the picture on it off of a finished puzzle. Think of the memories you made together whenever you admire it.
+1502	A shining flower (Type A) that can be placed on your Homestead. Imagine how your garden will shimmer with these around!
+1506	Stained Glass
+1508	Holy water that can be placed on your Homestead. It'll be nice having such a divine source close at hand.
+1509	Stained glass that can be placed on your Homestead. This gorgeous piece is sure to brighten any home.
+1510	A holy light that can be placed on your Homestead. Place it somewhere it'll see a lot of use!
+1511	A shining flower (Type B) that can be placed on your Homestead. Imagine how your garden will shimmer with these around!
+1512	A shining flower (Type C) that can be placed on your Homestead. Imagine how your garden will shimmer with these around!
+1513	Shimmering Flower (Type A)
+1514	Shimmering Flower (Type B)
+1515	Shimmering Flower (Type C)
+1516	Goddess's Miraculous Holy Water
+1517	Light of Holy Praise
+1519	Celadon
+1521	A celadon you can set up in your Homestead. Place this luxurious celadon in your Homestead.
+1522	Celadon Figure
+1523	Place this Celadon on your Homestead for a little boost to your stats.\n[*Max Damage: +5, *Magic Attack: +5, *Critical Damage: +2%]\nThis item's effects can stack with the effects from Sequel Figures, but not from other regular Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+1524	Pet Expedition Bulletin Board
+1525	Assemble your pets into teams and send them on expedition quests via the Bulletin Board installed on your Homestead.
+1526	Snowflower Table and Chair
+1527	Shiny Snowflower Tree
+1528	Snowflower Tree
+1529	Snowflower Parade Podium
+1530	This Snowflower Table and Chair can be placed in your homestead.
+1531	This beautiful Shiny Snowflower Tree can be placed in your homestead.
+1532	This beautiful Snowflower Tree can be placed in your homestead.
+1533	This Snowflower Parade Podium can be placed in your homestead.
+1534	Cloud Cushion (Stage 1)
+1535	Cloud Cushion (Stage 2)
+1536	Cloud Cushion (Stage 3)
+1537	Cloud Cushion (Stage 4)
+1538	Medium Pet Pasture (Stage 1)
+1539	Medium Pet Pasture (Stage 2)
+1540	Medium Pet Pasture (Stage 3)
+1541	Medium Pet Pasture (Stage 4)
+1542	Large Pet Pasture (Stage 1)
+1543	Large Pet Pasture (Stage 2)
+1544	Cat Tower (Stage 1)
+1545	Cat Tower (Stage 2)
+1546	Cat Tower (Stage 3)
+1547	Cat Tower (Stage 4)
+1548	Stable (Stage 1)
+1549	Stable (Stage 2)
+1550	Stable (Stage 3)
+1551	Stable (Stage 4)
+1552	A cotton-stuffed cushion that's as soft and fluffy as a cloud. It's so comforting that it's difficult not to fall asleep the moment you lay down on it. Perfect for small pets.\n\n* Usable by pet types:\n- Small\n\n* Rest Effects\n- Strength +2
+1553	An even bigger and more plush Cloud Cushion. Up to 2 pets can rest on it at the same time.\n\n* Usable by pet types:\n- Small\n\n* Rest Effect\n- Strength +2, HP +10
+1554	An even bigger and more luxurious Cloud Cushion. Up to 3 pets can rest on it at the same time.\n\n* Usable by pet types:\n- Small\n\n* Rest Effect\n- Strength +2, HP +10, Dexterity +5
+1555	An even bigger and more sumptuous Cloud Cushion. Up to 4 pets can rest on it at the same time.\n\n* Usable by pet types:\n- Small\n\n* Rest Effect\n- Strength +2, HP +10, Dexterity +5, Music Buff Effect +1
+1556	A grassy spread decorated with brightly-colored flowers. Resting here and taking in the scenery can fill anyone's heart with serenity.\n\n* Usable by pet types:\n- Medium\n\n* Rest Effect\n- Intelligence +2
+1557	An even bigger pasture. Up to 2 pets can rest in it at the same time.\n\n* Usable by pet types:\n- Medium\n\n* Rest Effect\n- Intelligence +2, MP +10
+1558	An even bigger pasture. Up to 3 pets can rest in it at the same time.\n\n* Usable by pet types:\n- Medium\n\n* Rest Effect\n- Intelligence +2, MP +10, Will +5
+1559	An even bigger pasture. Up to 4 pets can rest in it at the same time.\n\n* Usable by pet types:\n- Medium\n\n* Rest Effect\n- Intelligence +2, MP +10, Will +5, Critical Damage +1%
+1560	A grassy spread decorated with brightly-colored flowers. It has been expanded to accommodate your favorite large pets. \n\n* Usable by pet types:\n- Large\n\n* Rest Effect\n- Intelligence +5
+1561	An even bigger pasture. Up to 2 pets can rest in it at the same time.\n\n* Usable by pet types:\n- Large\n\n* Rest Effect\n- Intelligence +5, Max ATT +3
+1562	A place for felines of all sorts to enjoy a well-deserved cat nap. This tall structure provides places to both frolic and rest.\n\n* Usable by pet types:\n- Small / Land / Cats\n\n* Rest Effect\n- Dexterity +2
+1563	An even taller cat tower. Up to 2 pets can rest on it at the same time.\n\n* Usable by pet types:\n- Small / Land / Cats\n\n* Rest Effect\n- Dexterity +2, Stamina +15
+1564	An even taller cat tower. Up to 3 pets can rest on it at the same time.\n\n* Usable by pet types:\n- Small / Land / Cats\n\n* Rest Effect\n- Dexterity +2, Stamina +15, Luck +5
+1565	An even taller cat tower. Up to 4 pets can rest on it at the same time.\n\n* Usable by pet types:\n- Small / Land / Cats\n\n* Rest Effect\n- Dexterity +2, Stamina +15, Luck +5, Critical Damage +2%
+1566	A structure perfect for housing horses. It's fenced off to allow horses to rest in safety and security.\n\n* Usable by pet types:\n- Medium / Horse\n\n* Rest Effect\n- Will +2
+1567	An expanded stable. Up to 2 pets can rest in it at the same time.\n\n* Usable by pet types:\n- Medium / Horse\n\n* Rest Effect\n- Will +2, HP +15
+1568	An expanded stable. Up to 3 pets can rest in it at the same time.\n\n* Usable by pet types:\n- Medium / Horse\n\n* Rest Effect\n- Will +2, HP +15, Strength +5
+1569	An expanded stable. Up to 4 pets can rest in it at the same time.\n\n* Usable by pet types:\n- Medium / Horse\n\n* Rest Effect\n- Will +2, HP +15, Strength +5, Magic Attack +5
+1570	The plush center of the cushion. It seems like a comfy place to really sprawl out alone.
+1571	The left side of the cushion. It's big enough for 2 pets to cozy up and recover from their fatigue.
+1572	The right side of the cushion. It's big enough for 2 pets to cozy up and recover from their fatigue.
+1573	The first area of the cushion. It's big enough for 3 pets to cozy up and recover from their fatigue.
+1574	The second area of the cushion. It's big enough for 3 pets to cozy up and recover from their fatigue.
+1575	The third area of the cushion. It's big enough for 3 pets to cozy up and recover from their fatigue.
+1576	The first area of the cushion. It's big enough for 4 pets to cozy up and recover from their fatigue.
+1577	The second area of the cushion. It's big enough for 4 pets to cozy up and recover from their fatigue.
+1578	The third area of the cushion. It's big enough for 4 pets to cozy up and recover from their fatigue.
+1579	The fourth area of the cushion. It's big enough for 4 pets to cozy up and recover from their fatigue.
+1580	The lush center of the pasture. It seems like a peaceful place to rest by oneself.
+1581	A place in the pasture near an old tree. Share the peace and tranquility with a friend.
+1582	A place in the pasture with flowers growing nearby. Share the peace and tranquility with a friend.
+1583	A place in the pasture near an old tree. Share the peace and tranquility with a friend.
+1584	The center of the pasture next to the pond. Share the peace and tranquility with a friend.
+1585	A place in the pasture under a shady tree. Share the peace and tranquility with a friend.
+1586	A place in the pasture near an old tree. Share the peace and tranquility with a friend.
+1587	The center of the pasture next to the pond. Share the peace and tranquility with a friend.
+1588	A place in the pasture under a shady tree. Share the peace and tranquility with a friend.
+1589	A place in the pasture atop a weathered stone. Share the peace and tranquility with a friend.
+1590	The lush center of the pasture. There's enough space for even bigger pets to rest comfortably.
+1591	A place in the pasture near an old tree. There's enough space for even bigger pets to rest comfortably.
+1592	A place in the pasture with flowers growing nearby. There's enough space for even bigger pets to rest comfortably.
+1593	The middle of the cat tower. Here, a cat can rest alone in peace, as they so often do.
+1594	The bottom of the cat tower. Since it's closer to the ground, it feels the most stable. It's a nice place to stretch out and relax.
+1595	The top of the cat tower. From here, a cat can look out and survey their whole domain. It's a nice place to stretch out and relax.
+1596	The perfect resting place for cats, neither too high nor too low. It's a nice place to stretch out and relax.
+1597	This cat tower is recommended for the bravest and most curious of cats. Any worries that might burden your feline friend will melt away as they take in the view from this highest of vantage points.
+1598	Stairs for quickly ascending and descending the cat tower. It's not only fun and good exercise, it helps keep their claws trimmed.
+1599	The perfect resting place for cats, neither too high nor too low. It's a nice place to stretch out and relax.
+1600	This cat tower is recommended for the bravest and most curious of cats. Any worries that might burden your feline friend will melt away as they take in the view from this highest of vantage points.
+1601	Stairs for quickly ascending and descending the cat tower. It's not only fun and good exercise, it helps keep their claws trimmed.
+1602	A cat wheel that can awaken these playful predators' primal need for speed. Will it just be a warm-up? Or is there a hair-raising race in store? You never know until they climb on.
+1603	This fence only allows a single horse to enter. It's a nice, quiet place to rest alone.
+1604	The left side area of the fence allows 2 horses to enter. They'll keep things calm, even when they're horsing around.
+1605	The right side area of the fence allows 2 horses to enter. They'll keep things calm, even when they're horsing around.
+1606	The left side area of the fence allows 3 horses to enter. The piles of hay scattered over the ground within its sturdy walls lends the stable a cozy, inviting feel.
+1607	The center area of the fence allows 3 horses to enter. The piles of hay scattered over the ground within its sturdy walls lends the stable a cozy, inviting feel.
+1608	The right side area of the fence allows 3 horses to enter. The piles of hay scattered over the ground within its sturdy walls lends the stable a cozy, inviting feel.
+1609	The first area of the fence allows 4 horses to enter. The arch in the center lends the place an air of sophistication.
+1610	The second area of the fence allows 4 horses to enter. The arch in the center lends the place an air of sophistication.
+1611	The third area of the fence allows 4 horses to enter. The arch in the center lends the place an air of sophistication.
+1612	The fourth area of the fence allows 4 horses to enter. The arch in the center lends the place an air of sophistication.
+1613	카스타네아의 독서 테이블 세트
+1614	아르젤라의 독서 테이블 세트
+1615	독서하는 나오 미니어처
+1616	낭만 농장에 설치 가능한 카스타네아의 독서 테이블 세트. 최대 8인까지 앉을 수 있다. 낭만 농장에 설치해서 좀 더 고급스럽게 독서해보자.
+1617	낭만 농장에 설치 가능한 아르젤라의 독서 테이블 세트. 최대 8인까지 앉을 수 있다. 낭만 농장에 설치해서 좀 더 고급스럽게 독서해보자.
+1618	낭만 농장에 설치 가능한 독서하는 나오 미니어처 장식물. 낭만 농장에 이 미니어처가 설치 되어있는 동안 능력치가 상승한다.\n[*보너스 대미지: 1%] \n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+1619	Blossoming Cage
+1620	Flowery Blossoming Cage
+1621	Fynni Gem
+1622	A Blossoming Cage that can be placed on your Homestead. Click the Blossoming Cage to use the Fynni Blossoming skill. Place Fynni Gems you get through Fynni Catching in the cage for a period of time to grow them into a Fynni Pet. Up to 4 Blossoming Cages can be set up per Homestead regardless of type.
+1623	A Blossoming Cage that can be placed on your Homestead. Click the Blossoming Cage to use the Fynni Blossoming skill. Place Fynni Gems you get through Fynni Catching in the cage for a period of time to grow them into a Fynni Pet. Up to 4 Blossoming Cages can be set up per Homestead regardless of type.\n* Flowery Blossoming Cage Special Effect: Decreases the time required to blossom a gem by 10%.
+1624	Place Fynni Gems in the Blossoming Cage installed on your Homestead for a period of time to grow them into a Fynni Pet.
+1635	Mag Mell Geata Figure
+1636	Place this Mag Mell Geata figure on your Homestead for a little boost to your stats.\n[Luck: +5, Max Damage: +3]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1637	Pinkie's Blossoming Cage
+1638	A Blossoming Cage that can be placed on your Homestead. Click the Blossoming Cage to use the Fynni Blossoming skill. Place Fynni Gems you get through Fynni Catching in the cage for a period of time to grow them into a Fynni Pet. Up to 4 Blossoming Cages can be set up per Homestead regardless of type.
+1643	Sun Throne
+1644	Sun Podium
+1645	Sun Stairs
+1646	A sun throne you can set up in your Homestead. Decorate your homestead with this beautiful item that exudes majesty.
+1647	A sun podium you can set up in your Homestead. Decorate your homestead with this beautiful item that exudes majesty.
+1648	Sun stairs you can set up in your Homestead. Decorate your homestead with this beautiful item that exudes majesty.
+1649	Elegant Lotus Healing Bathtub
+1650	Elegant Lotus Crystal Lamp
+1651	Elegant Lotus Carpet (Large)
+1652	Elegant Lotus Carpet (Small)
+1653	Elegant Lotus Decorative Wall
+1654	An elegant lotus-themed healing bathtub that can be placed on your Homestead. Set it up and enjoy its healing waters, which rejuvenate both body and mind.
+1655	An elegant lotus-themed decorative wall that can be placed on your Homestead. Can be dyed using paints. Its natural color will change depending on the color of the paint used.
+1656	An elegant lotus-themed carpet that can be placed on your Homestead. May its sturdy fibers long remember the passage of your feet in the service of virtue.
+1657	An elegant lotus-themed carpet that can be placed on your Homestead. May its sturdy fibers long remember the passage of your feet in the service of virtue.
+1658	An elegant lotus-themed decorative wall that can be placed on your Homestead. Set it up to fill your space with surpassing tranquility. Can be dyed using paints.
+1659	완성된 퍼즐이 그려진 이젤 시즌2
+1660	낭만 농장에 설치 가능한 이젤. 완성된 퍼즐의 그림을 소년이 옮겨 그렸다고 한다. 다음번엔 퍼즐을 잃어버리는 일이 없기를 기도해 보자.
+1661	Gorgeous Cherry Blossom Tree
+1662	Abundant Cherry Blossom Tree
+1663	Pretty Cherry Blossom Tree
+1664	Small Pretty Cherry Blossom Tree
+1665	Snow-Covered Tree
+1666	Small Snow-Covered Tree
+1667	Harmonious Prairie Tree
+1668	Harmonious Japanese Cedar Tree
+1669	Harmonious Fir Tree
+1670	Harmonious Desert Tree 1
+1671	Harmonious Desert Tree 2
+1672	Harmonious Snowfield Tree 1
+1673	Harmonious Snowfield Tree 2
+1674	Harmonious Apple Tree
+1675	Harmonious Snowfield Apple Tree
+1676	Harmonious Cherry Blossom Tree
+1677	Harmonious Bamboo
+1678	Harmonious Orange Tree
+1679	Curious Cabbage
+1680	Place this Homestead Gorgeous Cherry Blossom Tree on your Homestead for a little boost to your stats.\n[*Intelligence: +3, Magic Attack: +5, Music Buff Effect: +1%]\nThis item's effects can stack with the effects from Sequel Figures, but not from other regular Figures.\n(The stat increase will disappear if this item is removed from the Homestead.)
+1681	This beautiful Abundant Cherry Blossom Tree can be placed on your Homestead. The pink hue of its many blossoms creates an ephemeral, dreamlike atmosphere.
+1682	This lovely Pretty Cherry Blossom Tree can be placed on your Homestead. The pink hue of its many blossoms creates an ephemeral, dreamlike atmosphere.
+1683	This lovely Small Pretty Cherry Blossom Tree can be placed on your Homestead. The pink hue of its many blossoms creates an ephemeral, dreamlike atmosphere.
+1684	This Snow-Covered Tree can be placed on your Homestead. It's not certain whether it's covered in a late winter or early spring snowfall.
+1685	This Small Snow-Covered Tree can be placed on your Homestead. It's not certain whether it's covered in a late winter or early spring snowfall.
+1686	This tree can be placed on your Homestead. Its small size lets it fit in a variety of places to add a dash of harmony and tranquility.
+1687	This tree can be placed on your Homestead. Its small size lets it fit in a variety of places to add a dash of harmony and tranquility.
+1688	This tree can be placed on your Homestead. Its small size lets it fit in a variety of places to add a dash of harmony and tranquility.
+1689	This tree can be placed on your Homestead. Its small size lets it fit in a variety of places to add a dash of harmony and tranquility.
+1690	This tree can be placed on your Homestead. Its small size lets it fit in a variety of places to add a dash of harmony and tranquility.
+1691	This tree can be placed on your Homestead. Its small size lets it fit in a variety of places to add a dash of harmony and tranquility.
+1692	This tree can be placed on your Homestead. Its small size lets it fit in a variety of places to add a dash of harmony and tranquility.
+1693	This tree can be placed on your Homestead. Its small size lets it fit in a variety of places to add a dash of harmony and tranquility.
+1694	This tree can be placed on your Homestead. Its small size lets it fit in a variety of places to add a dash of harmony and tranquility.
+1695	This tree can be placed on your Homestead. Its small size lets it fit in a variety of places to add a dash of harmony and tranquility.
+1696	This tree can be placed on your Homestead. Its small size lets it fit in a variety of places to add a dash of harmony and tranquility.
+1697	This tree can be placed on your Homestead. Its small size lets it fit in a variety of places to add a dash of harmony and tranquility.
+1699	You can pick the cabbage.\nPlaying music around the farm can speed up growth.\nThis variety of cabbage seems to have a rather funky smell...
+1700	Classic Eastern Street Panel
+1701	Classic Eastern Sky Umbrella
+1702	Classic Eastern Floor Umbrella
+1703	A Classic Eastern Street Panel you can set up in your Homestead. Add a touch of Eastern tranquility to your everyday life.
+1704	A Classic Eastern Sky Umbrella you can set up in your Homestead. Enjoy the graceful, evocative painting on this premium parasol.
+1705	A Classic Eastern Floor Umbrella you can set up in your Homestead. Enjoy the graceful, evocative painting on this premium parasol.
+1706	PPP Group Cut-Out Display
+1707	Rockhopper Penguin Cut-Out Display
+1708	Humboldt Penguin Cut-Out Display
+1709	Royal Penguin Cut-Out Display
+1710	Emperor Penguin Cut-Out Display
+1711	Gentoo Penguin Cut-Out Display
+1712	Place this PPP Group Cutout Display on your Homestead for a little boost to your stats and a large boost to overall cuteness.\n[*Strength: +3, Max HP: +50, Critical Damage: +3%]\n(Cannot be painted. Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1713	Place this Rockhopper Penguin Cut-Out Display on your Homestead for a little boost to your stats.\n[*Intelligence: +10, Magic Attack: +5]\n(Cannot be painted. Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1714	Place this Humboldt Penguin Cut-Out Display on your Homestead for a little boost to your stats.\n[*Luck: +9, Max Damage: +7]\n(Cannot be painted. Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1715	Place this Royal Penguin Cut-Out Display on your Homestead for a little boost to your stats.\n[*Max MP: +10, Magic Attack: +8]\n(Cannot be painted. Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1716	Place this Emperor Penguin Cut-Out Display on your Homestead for a little boost to your stats.\n[*Strength: +8, Max HP: +10, Max Damage: +7]\n(Cannot be painted. Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1717	Place this Gentoo Penguin Cut-Out Display on your Homestead for a little boost to your stats.\n[*Max Damage: +8]\n(Cannot be painted. Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+1722	웨딩 로드
+1723	웨딩 샴페인
+1724	웨딩 케이크
+1725	웨딩 주례용 단상
+1726	웨딩 의자
+1727	웨딩 아치
+1728	낭만 농장에 설치 가능한 웨딩 로드. 낭만 농장을 조금 더 생기 넘치게 꾸며 보자.
+1729	낭만 농장에 설치 가능한 웨딩 샴페인. 낭만 농장을 조금 더 생기 넘치게 꾸며 보자.
+1730	낭만 농장에 설치 가능한 웨딩 케이크. 낭만 농장을 조금 더 생기 넘치게 꾸며 보자.
+1731	낭만 농장에 설치 가능한 웨딩 주례용 단상. 낭만 농장을 조금 더 생기 넘치게 꾸며 보자.
+1732	낭만 농장에 설치 가능한 웨딩 의자. 낭만 농장을 조금 더 생기 넘치게 꾸며 보자.
+1733	낭만 농장에 설치 가능한 웨딩 아치. 낭만 농장을 조금 더 생기 넘치게 꾸며 보자.
+1734	Pergola
+1735	Rattan Chair and Table (Seats Two)
+1736	Parasol Table and Chair
+1737	Parasol Chair
+1738	Rattan Chair
+1739	A pergola that can be placed on your Homestead to create a space to relax and take some quiet time away from it all.
+1740	A rattan chair and table that seats two that can be placed on your Homestead to give it that comfy bungalow feel.
+1741	A parasol table and chair that can be placed on your Homestead to let you relax in the shade at any time of day.
+1742	A parasol chair that can be placed on your Homestead to let you relax in the shade at any time of day.
+1743	A rattan chair that can be placed on your Homestead to give it that comfy bungalow feel.
+1744	Curious Cabbage
+1745	You can pick the cabbage.\nPlaying music around the farm can speed up growth.\nThis variety of cabbage seems to have a rather funky smell...
+1746	낭만 농장 레트로 라미 미니어처
+1747	낭만 농장 레트로 레우리 미니어처
+1748	낭만 농장 레트로 카르타르 미니어처
+1749	낭만 농장에 설치 가능한 레트로 라미. 낭만 농장에 이 미니어처가 설치되어 있는 동안 능력치가 상승한다.\n[*스태미나: +20]\n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+1750	낭만 농장에 설치 가능한 레트로 레우리. 낭만 농장에 이 미니어처가 설치되어 있는 동안 능력치가 상승한다.\n[*생명력: +20]\n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+1751	낭만 농장에 설치 가능한 레트로 카르타르. 낭만 농장에 이 미니어처가 설치되어 있는 동안 능력치가 상승한다.\n[*마나: +20]\n(중복 적용 불가, 설치 해제 시 능력치 상승 효과는 사라진다.)
+1752	Secret Garden Gate
+1753	Secret Garden Simple Fence
+1754	Secret Garden Ornamented Fence
+1755	Secret Garden Hidden Spring
+1756	A Secret Garden Gate that can be placed in your homestead. Decorate your homestead to be mysterious and beautiful.
+1757	A Secret Garden Simple Fence that can be placed in your homestead. Decorate your homestead to be mysterious and beautiful.
+1758	A Secret Garden Ornamented Fence that can be placed in your homestead. Decorate your homestead to be mysterious and beautiful.
+1759	A Secret Garden Hidden Spring that can be placed in your homestead. Decorate your homestead to be mysterious and beautiful.
+2152	Special Secret Garden Gate
+2153	Special Secret Garden Hidden Spring
+2154	Place this Secret Garden Gate on your Homestead for a little boost to your stats.\n[*Strength: +8, Max HP: +10, Max Damage: +7]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+2155	Place this Secret Garden Hidden Spring on your Homestead for a little boost to your stats.\n[*Music Buff Skill Effect +3]\n(Effects cannot be stacked. Stat increase will disappear if removed from Homestead.)
+2183	Fancy Sand Castle
+2184	Place this Fancy Sand Castle on your Homestead for a little boost to your stats.\n[Intelligence: +5, Luck: +10, Magic Attack: +5]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+2185	풍선 나무
+2186	풍선 나무를 기를 수 있다. 주변에서 음악을 연주해주면 성장 속도가 빨라진다.
+2187	16주년 페스티아 엑스트라 미니어처
+2188	낭만 농장에 설치 가능한 16주년 페스티아 엑스트라 미니어처 장식물. 낭만 농장에 이 엑스트라 미니어처가 설치 되어있는 동안 능력치가 상승한다.\n[*최대 대미지: +2, *마법 공격력: +2, *크리티컬 대미지: +2%]\n(일반 미니어처와 능력치 중복 적용, 엑스트라 미니어처 간 능력치 중복 불가, 설치 해제 시 능력치 상승효과는 사라진다.)
+2189	Star-Spangled Banner
+2190	A Star-Spangled Banner that can be placed on your Homestead. The flag waves from high atop the flagpole.
+2191	낭만 농장 불꽃놀이 대관람차
+2192	낭만 농장에 설치 가능한 커다란 대관람차.\n낭만 농장을 화려한 불꽃놀이 명소로 꾸며보자.
+2193	Homestead Pinkie Figure
+2194	Homestead Katell Sequel Figure
+2195	Place this Pinkie figure on your Homestead for a little boost to your stats.\n[Bonus Damage: +1%, Magic Attack: +5, Critical Damage: +3%]\n(Effects cannot be stacked. The stat increase will disappear if this item is removed from the Homestead.)
+2196	Place this Katell Sequel Figure on your Homestead for a little boost to your stats.\n[Critical Damage: +2%]\nThis item's effects can stack with the effects from Figures, but not from other Sequel Figures.\n(Stat increase will disappear if taken down.)
+2197	낭만 농장 거대 레플리카
+2198	낭만 농장 역사학자의 책상
+2199	낭만 농장 책 더미
+2200	낭만 농장에 설치 가능한 거대 레플리카.\n낭만 농장을 조금 더 생기 넘치게 꾸며보자.
+2201	낭만 농장에 설치 가능한 역사학자의 책상.\n낭만 농장을 조금 더 생기 넘치게 꾸며보자.
+2202	낭만 농장에 설치 가능한 책 더미.\n낭만 농장을 조금 더 생기 넘치게 꾸며보자.
+2223	깊은 바다의 모래 시계
+2224	깊은 바다의 어항
+2225	깊은 바다의 포토존
+2226	낭만 농장에 설치 가능한 바닷속 모래 시계. 바다 깊은 곳에서 건져올린 신비로운 모래 시계로 낭만 농장을 꾸며 보자.
+2227	낭만 농장에 설치 가능한 바닷속 어항. 바다 깊은 곳을 그대로 옮겨놓은 것같은 어항으로 낭만 농장을 꾸며 보자.
+2228	낭만 농장에 설치 가능한 바닷속 포토존. 바다 깊은 곳을 그대로 재현한 것같은 포토존으로 낭만 농장을 꾸며 보자.

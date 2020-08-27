@@ -1,0 +1,13 @@
+﻿1	Clear a Shadow Mission alongside your pet.
+2	Clear the Uladh Dungeon alongside your pet.
+3	Have your pet defeat an enemy without help.
+4	Have your pet heal you using a Healing skill.
+5	Perform alongside your pet for at least 1 full minute.
+6	Have a jam session alongside your pet for at least 1 full minute.
+7	Complete a full Jam Session alongside your pet in Pure Music Mode.
+8	Use a Pet Rebirth Point Potion obtained by watching an NPC Concert at the Arpeggio Concert Hall.
+9	Use a Pet Rebirth Point Potion obtained by watching a Milletian Concert held at the Arpeggio Concert Hall for 10+ minutes.
+10	Use a Music Buff skill on 3 or more allies alongside your pet.
+11	Keep a pet summoned for more than 30 minutes.
+12	Go up a level.
+13	Age.

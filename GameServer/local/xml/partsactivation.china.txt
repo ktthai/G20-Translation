@@ -1,0 +1,26 @@
+﻿1	Divine Blast Damage Boost
+2	Nascent Divinity Duration Boost
+3	Nova Obliteration Damage Boost
+4	Critical Rate Boost
+5	Nascent Divinity Movement Speed Boost
+6	Shield of Trust HP Boost
+7	Blink Cooldown Boost
+8	Defense and Magic Defense Boost
+9	Protection and Magic Protection Boost
+10	HP, MP and Stamina Boost
+11	Blink Max Movement Range Boost
+12	Divine Blast Attack Speed Boost
+13	Judgment Blade Attack Width Boost
+14	Celestial Spike Divine Damage Boost
+15	Strength Boost
+16	Intelligence Boost
+17	Dexterity Boost
+18	Will Boost
+19	Luck Boost
+20	Strength, Intelligence, Dexterity, Will, and Luck Boost
+21	 % Increase
+22	 sec Increase
+23	 Increase
+24	 m Increase
+25	 sec Reduction
+26	 sec Increase

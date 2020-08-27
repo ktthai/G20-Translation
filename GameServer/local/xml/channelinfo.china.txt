@@ -1,0 +1,4 @@
+﻿1	{0}{1}
+2	{0}-Marketplace District
+3	Marketplace District
+4	Guardian Guild Tournament Region

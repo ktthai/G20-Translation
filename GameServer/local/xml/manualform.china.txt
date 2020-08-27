@@ -1,0 +1,3941 @@
+﻿1	Sewing Pattern - Cores' Healer Dress (F)
+2	Sewing Pattern - Magic School Uniform (M)
+3	Sewing Pattern - Magic School Uniform (F)
+4	Sewing Pattern - Cores' Healer Gloves
+5	Sewing Pattern - Mongo's Hat
+6	Sewing Pattern - Popo's Skirt (F)
+7	Sewing Pattern - Mongo's Traveler Suit (F)
+8	Sewing Pattern - Mongo's Traveler Suit (M)
+9	Sewing Pattern - Cloth Mail
+10	Sewing Pattern - Cores' Healer Suit (M)
+11	Sewing Pattern - Guardian Gloves
+12	Sewing Pattern - Wizard Hat
+13	Sewing Pattern - Leather Bandana
+14	Sewing Pattern - Hairband
+15	Sewing Pattern - Mongo's Long Skirt (F)
+16	Sewing Pattern - Light Leather Mail (F)
+17	Sewing Pattern - Lirina's Long Skirt (F)
+18	Sewing Pattern - Cores' Ninja Suit (M)
+19	Sewing Pattern - Cores' Thief Suit (M)
+20	Sewing Pattern - Light Leather Mail (M)
+21	Sewing Pattern - Common Silk Weaving Gloves
+22	Sewing Pattern - Professional Silk Weaving Gloves
+23	Sewing Pattern - Cores' Healer Dress (F)
+24	Sewing Pattern - Magic School Uniform (M)
+25	Sewing Pattern - Magic School Uniform (F)
+26	Sewing Pattern - Cores' Healer Gloves
+27	Sewing Pattern - Mongo's Hat
+28	Sewing Pattern - Popo's Skirt (F)
+29	Sewing Pattern - Mongo's Traveler Suit (F)
+30	Sewing Pattern - Mongo's Traveler Suit (M)
+31	Sewing Pattern - Cloth Mail
+32	Sewing Pattern - Cores' Healer Suit (M)
+33	Sewing Pattern - Guardian Gloves
+34	Sewing Pattern - Wizard Hat
+35	Sewing Pattern - Leather Bandana
+36	Sewing Pattern - Hairband
+37	Sewing Pattern - Mongo's Long Skirt (F)
+38	Sewing Pattern - Light Leather Mail (F)
+39	Sewing Pattern - Lirina's Long Skirt (F)
+40	Sewing Pattern - Cores' Ninja Suit (M)
+41	Sewing Pattern - Cores' Thief Suit (M)
+42	Sewing Pattern - Light Leather Mail (M)
+43	Sewing Pattern - Common Silk Weaving Gloves
+44	Sewing Pattern - Professional Silk Weaving Gloves
+45	Sewing Pattern - Ring-Type Mini Leather Dress (F)
+46	Sewing Pattern - Long Matte Leather Coat (M)
+47	Sewing Pattern - Ella's Vest Skirt (F)
+48	Sewing Pattern - Lueys' Vest Wear
+49	Sewing Pattern - Broad-brimmed Feather Hat
+50	Sewing Pattern - Tork's Little-brimmed Hat
+51	Sewing Pattern - Muffler Robe
+52	Sewing Pattern - Lymilark Nun Uniform
+53	Sewing Pattern - Slim Inner Robe
+54	Apprentice's Sewing Pattern - Cores' Healer Dress (F)
+55	Apprentice's Sewing Pattern - Magic School Uniform (M)
+56	Apprentice's Sewing Pattern - Magic School Uniform (F)
+57	Apprentice's Sewing Pattern - Cores' Healer Gloves
+58	Apprentice's Sewing Pattern - Mongo's Hat
+59	Apprentice's Sewing Pattern - Popo's Skirt (F)
+60	Apprentice's Sewing Pattern - Mongo's Traveler Suit (F)
+61	Apprentice's Sewing Pattern - Mongo's Traveler Suit (M)
+62	Apprentice's Sewing Pattern - Cloth Mail
+63	Apprentice's Sewing Pattern - Cores' Healer Suit (M)
+64	Apprentice's Sewing Pattern - Guardian Gloves
+65	Apprentice's Sewing Pattern - Wizard Hat
+66	Apprentice's Sewing Pattern - Leather Bandana
+67	Apprentice's Sewing Pattern - Hairband
+68	Apprentice's Sewing Pattern - Mongo's Long Skirt (F)
+69	Apprentice's Sewing Pattern - Light Leather Mail (F)
+70	Apprentice's Sewing Pattern - Lirina's Long Skirt (F)
+71	Apprentice's Sewing Pattern - Cores' Ninja Suit (M)
+72	Apprentice's Sewing Pattern - Cores' Thief Suit (M)
+73	Apprentice's Sewing Pattern - Light Leather Mail (M)
+74	Apprentice's Sewing Pattern - Common Silk Weaving Gloves
+75	Apprentice's Sewing Pattern - Professional Silk Weaving Gloves
+76	Apprentice's Sewing Pattern - Cores' Healer Dress (F)
+77	Apprentice's Sewing Pattern - Magic School Uniform (M)
+78	Apprentice's Sewing Pattern - Magic School Uniform (F)
+79	Apprentice's Sewing Pattern - Cores' Healer Gloves
+80	Apprentice's Sewing Pattern - Mongo's Hat
+81	Apprentice's Sewing Pattern - Popo's Skirt (F)
+82	Apprentice's Sewing Pattern - Mongo's Traveler Suit (F)
+83	Apprentice's Sewing Pattern - Mongo's Traveler Suit (M)
+84	Apprentice's Sewing Pattern - Cloth Mail
+85	Apprentice's Sewing Pattern - Cores' Healer Suit (M)
+86	Apprentice's Sewing Pattern - Guardian Gloves
+87	Apprentice's Sewing Pattern - Wizard Hat
+88	Apprentice's Sewing Pattern - Leather Bandana
+89	Apprentice's Sewing Pattern - Hairband
+90	Apprentice's Sewing Pattern - Mongo's Long Skirt (F)
+91	Apprentice's Sewing Pattern - Light Leather Mail (F)
+92	Apprentice's Sewing Pattern - Lirina's Long Skirt (F)
+93	Apprentice's Sewing Pattern - Cores' Ninja Suit (M)
+94	Apprentice's Sewing Pattern - Cores' Thief Suit (M)
+95	Apprentice's Sewing Pattern - Light Leather Mail (M)
+96	Apprentice's Sewing Pattern - Common Silk Weaving Gloves
+97	Apprentice's Sewing Pattern - Professional Silk Weaving Gloves
+98	Apprentice's Sewing Pattern - Lymilark Nun Uniform
+99	Apprentice's Sewing Pattern - Slim Inner Robe
+100	Blacksmith Manual - Weeding Hoe
+101	Blacksmith Manual - Dagger
+102	Blacksmith Manual - Round Shield
+103	Blacksmith Manual - Pickaxe
+104	Blacksmith Manual - Longsword
+105	Blacksmith Manual - Sickle
+106	Blacksmith Manual - Cuirassier Helm
+107	Blacksmith Manual - Spiked Cap
+108	Blacksmith Manual - Ulna Protector Gloves
+109	Blacksmith Manual - Weeding Hoe
+110	Blacksmith Manual - Dagger
+111	Blacksmith Manual - Round Shield
+112	Blacksmith Manual - Pickaxe
+113	Blacksmith Manual - Longsword
+114	Blacksmith Manual - Sickle
+115	Blacksmith Manual - Cuirassier Helm
+116	Blacksmith Manual - Spiked Cap
+117	Blacksmith Manual - Ulna Protector Gloves
+118	Blacksmith Manual - Waterdrop Cap
+119	Blacksmith Manual - Twin Horn Cap
+120	Blacksmith Manual - Evil Dying Crown
+121	Blacksmith Manual - Dragon Crest
+122	Blacksmith Manual - Iron Mask Headgear
+123	Blacksmith Manual - Bird Face Cap
+124	Blacksmith Manual - Mythril Armor
+125	A scroll that contains instructions on how to craft a Cores' Healer Dress (F).
+126	A scroll that contains instructions on how to craft a Magic School Uniform (M).
+127	A scroll that contains instructions on how to craft a Magic School Uniform (F).
+128	A scroll that contains instructions on how to craft Cores' Healer Gloves.
+129	A scroll that contains instructions on how to craft Mongo's Hat.
+130	A scroll that contains instructions on how to craft Popo's Skirt (F).
+131	A scroll that contains instructions on how to craft Mongo's Traveler Suit (F).
+132	A scroll that contains instructions on how to craft Mongo's Traveler Suit (M).
+133	A scroll that contains instructions on how to craft Cloth Mail.
+134	A scroll that contains instructions on how to craft Cores' Healer Suit (M).
+135	A scroll that contains instructions on how to craft Guardian Gloves.
+136	A scroll that contains instructions on how to craft a Wizard Hat.
+137	A scroll that contains instructions on how to craft a Leather Bandana.
+138	A scroll that contains instructions on how to craft a Hairband.
+139	A scroll that contains instructions on how to craft Mongo's Long Skirt (F).
+140	A scroll that contains instructions on how to craft a Light Leather Mail (F).
+141	A scroll that contains instructions on how to craft Lirina's Long Skirt (F).
+142	A scroll that contains instructions on how to craft Cores' Ninja Suit (M).
+143	A scroll that contains instructions on how to craft Cores' Thief Suit (M).
+144	A scroll that contains instructions on how to craft a Light Leather Mail (M).
+145	A scroll that contains instructions on how to craft Common Silk Weaving Gloves.
+146	A scroll that contains instructions on how to craft Professional Silk Weaving Gloves.
+147	A scroll that contains instructions on how to craft a Cores' Healer Dress (F).
+148	A scroll that contains instructions on how to craft a Magic School Uniform (M).
+149	A scroll that contains instructions on how to craft a Magic School Uniform (F).
+150	A scroll that contains instructions on how to craft Cores' Healer Gloves.
+151	A scroll that contains instructions on how to craft Mongo's Hat.
+152	A scroll that contains instructions on how to craft Popo's Skirt (F).
+153	A scroll that contains instructions on how to craft Mongo's Traveler Suit (F).
+154	A scroll that contains instructions on how to craft Mongo's Traveler Suit (M).
+155	A scroll that contains instructions on how to craft Cloth Mail.
+156	A scroll that contains instructions on how to craft Cores' Healer Suit (M).
+157	A scroll that contains instructions on how to craft Guardian Gloves.
+158	A scroll that contains instructions on how to craft a Wizard Hat.
+159	A scroll that contains instructions on how to craft a Leather Bandana.
+160	A scroll that contains instructions on how to craft a Hairband.
+161	A scroll that contains instructions on how to craft Mongo's Long Skirt (F).
+162	A scroll that contains instructions on how to craft a Light Leather Mail (F).
+163	A scroll that contains instructions on how to craft Lirina's Long Skirt (F).
+164	A scroll that contains instructions on how to craft Cores' Ninja Suit (M).
+165	A scroll that contains instructions on how to craft Cores' Thief Suit (M).
+166	A scroll that contains instructions on how to craft a Light Leather Mail (M).
+167	A scroll that contains instructions on how to craft Common Silk Weaving Gloves.
+168	A scroll that contains instructions on how to craft Professional Silk Weaving Gloves.
+169	여자용 레더 미니 스커트를 만들 수 있는 전개도가 그려져있는 두루마리.
+170	A scroll that contains instructions on how to craft a Long Leather Coat (M).
+171	여자용엘라 베스트 스커트를 만들 수 있는 전개도가 그려져있는 두루마리.
+172	A scroll that contains instructions on how to craft Lueys' Vest Wear.
+173	A scroll that contains instructions on how to craft Broad-brimmed Feather Hat.
+174	A scroll that contains instructions on how to craft Tork's Little-brimmed Hat.
+175	A scroll that contains instructions on how to craft a Muffler Robe.
+176	A scroll that contains instructions on how to craft a Lymilark Nun Uniform.
+177	A scroll that contains instructions on how to craft a Slim Inner Robe.
+178	A scroll that contains instructions on how to craft a Cores' Healer Dress (F).
+179	A scroll that contains instructions on how to craft a Magic School Uniform (M).
+180	A scroll that contains instructions on how to craft a Magic School Uniform (F).
+181	A scroll that contains instructions on how to craft Cores' Healer Gloves.
+182	A scroll that contains instructions on how to craft Mongo's Hat.
+183	A scroll that contains instructions on how to craft Popo's Skirt (F).
+184	A scroll that contains instructions on how to craft Mongo's Traveler Suit (F).
+185	A scroll that contains instructions on how to craft Mongo's Traveler Suit (M).
+186	A scroll that contains instructions on how to craft Cloth Mail.
+187	A scroll that contains instructions on how to craft Cores' Healer Suit (M).
+188	A scroll that contains instructions on how to craft Guardian Gloves.
+189	A scroll that contains instructions on how to craft a Wizard Hat.
+190	A scroll that contains instructions on how to craft a Leather Bandana.
+191	A scroll that contains instructions on how to craft a Hairband.
+192	A scroll that contains instructions on how to craft Mongo's Long Skirt (F).
+193	A scroll that contains instructions on how to craft a Light Leather Mail (F).
+194	A scroll that contains instructions on how to craft Lirina's Long Skirt (F).
+195	A scroll that contains instructions on how to craft Cores' Ninja Suit (M).
+196	A scroll that contains instructions on how to craft Cores' Thief Suit (M).
+197	A scroll that contains instructions on how to craft a Light Leather Mail (M).
+198	A scroll that contains instructions on how to craft Common Silk Weaving Gloves.
+199	A scroll that contains instructions on how to craft Professional Silk Weaving Gloves.
+200	A scroll that contains instructions on how to craft a Cores' Healer Dress (F).
+201	A scroll that contains instructions on how to craft a Magic School Uniform (M).
+202	A scroll that contains instructions on how to craft a Magic School Uniform (F).
+203	A scroll that contains instructions on how to craft Cores' Healer Gloves.
+204	A scroll that contains instructions on how to craft Mongo's Hat.
+205	A scroll that contains instructions on how to craft Popo's Skirt (F).
+206	A scroll that contains instructions on how to craft Mongo's Traveler Suit (F).
+207	A scroll that contains instructions on how to craft Mongo's Traveler Suit (M).
+208	A scroll that contains instructions on how to craft Cloth Mail.
+209	A scroll that contains instructions on how to craft Cores' Healer Suit (M).
+210	A scroll that contains instructions on how to craft Guardian Gloves.
+211	A scroll that contains instructions on how to craft a Wizard Hat.
+212	A scroll that contains instructions on how to craft a Leather Bandana.
+213	A scroll that contains instructions on how to craft a Hairband.
+214	A scroll that contains instructions on how to craft Mongo's Long Skirt (F).
+215	A scroll that contains instructions on how to craft a Light Leather Mail (F).
+216	A scroll that contains instructions on how to craft Lirina's Long Skirt (F).
+217	A scroll that contains instructions on how to craft Cores' Ninja Suit (M).
+218	A scroll that contains instructions on how to craft Cores' Thief Suit (M).
+219	A scroll that contains instructions on how to craft a Light Leather Mail (M).
+220	A scroll that contains instructions on how to craft Common Silk Weaving Gloves.
+221	A scroll that contains instructions on how to craft Professional Silk Weaving Gloves.
+222	A scroll that contains instructions on how to craft a Lymilark Nun Uniform.
+223	A scroll that contains instructions on how to craft a Slim Inner Robe.
+224	A scroll that contains instructions on how to craft a Weeding Hoe.
+225	A scroll that contains instructions on how to craft a Dagger.
+226	A scroll that contains instructions on how to craft a Round Shield.
+227	A scroll that contains instructions on how to craft a Pickaxe.
+228	A scroll that contains instructions on how to craft a Longsword.
+229	A scroll that contains instructions on how to craft a Sickle.
+230	A scroll that contains instructions on how to craft a Cuirassier Helm.
+231	A scroll that contains instructions on how to craft a Spiked Cap.
+232	A scroll that contains instructions on how to craft Ulna Protector Gloves.
+233	A scroll that contains instructions on how to craft a Weeding Hoe.
+234	A scroll that contains instructions on how to craft a Dagger.
+235	A scroll that contains instructions on how to craft a Round Shield.
+236	A scroll that contains instructions on how to craft a Pickaxe.
+237	A scroll that contains instructions on how to craft a Longsword.
+238	A scroll that contains instructions on how to craft a Sickle.
+239	A scroll that contains instructions on how to craft a Cuirassier Helm.
+240	A scroll that contains instructions on how to craft a Spiked Cap.
+241	A scroll that contains instructions on how to craft Ulna Protector Gloves.
+242	A scroll that contains instructions on how to craft a Waterdrop Cap.
+243	A scroll that contains instructions on how to craft a Twin Horn Cap.
+244	A scroll that contains instructions on how to craft an Evil Dying Crown.
+245	A scroll that contains instructions on how to craft a Dragon Crest.
+246	A scroll that contains instructions on how to craft an Iron Mask Headgear.
+247	A scroll that contains instructions on how to craft a Bird Face Cap.
+248	A scroll that contains instructions on how to craft a Mythril Armor.
+249	Make a Cores' Healer Dress
+250	Make a Magic School Uniform (M)
+251	Make a Magic School Uniform (F)
+252	Make Cores' Healer Gloves
+253	Make a Mongo's Cap
+254	Make a Popo's Skirt (F)
+255	Make a Mongo's Traveler Suit (F)
+256	Make a Mongo's Traveler Suit (M)
+257	Make Cloth Mail
+258	Make a Cores' Healer Suit (M)
+259	Make Guardian Gloves
+260	Make a Wizard Hat
+261	Make a Leather Bandana
+262	Make a Hairband
+263	Make a Mongo's Long Skirt (F)
+264	Make a Light Leather Mail (M)
+265	Make a Lirina's Long Skirt (F)
+266	Make a Cores' Ninja Suit (M)
+267	Make a Cores' Thief Suit (M)
+268	Make a Light Leather Mail (M)
+269	Make Common Silk Weaving Gloves
+270	Make Professional Silk Weaving Gloves
+271	Make a Cores' Healer Dress
+272	Make a Magic School Uniform (M)
+273	Make a Magic School Uniform (F)
+274	Make Cores' Healer Gloves
+275	Make a Mongo's Cap
+276	Make a Popo's Skirt (F)
+277	Make a Mongo's Traveler Suit (F)
+278	Make a Mongo's Traveler Suit (M)
+279	Make Cloth Mail
+280	Make a Cores' Healer Suit (M)
+281	Make Guardian Gloves
+282	Make a Wizard Hat
+283	Make a Leather Bandana
+284	Make a Hairband
+285	Make a Mongo's Long Skirt (F)
+286	Make a Light Leather Mail (M)
+287	Make a Lirina's Long Skirt (F)
+288	Make a Cores' Ninja Suit (M)
+289	Make a Cores' Thief Suit (M)
+290	Make a Light Leather Mail (M)
+291	Make Common Silk Weaving Gloves
+292	Make Professional Silk Weaving Gloves
+293	Make a Leather Mini Skirt (F)
+294	Make a Long Leather Coat (M)
+295	Make an Ella's Vest Skirt (F)
+296	Make Lueys' Vest Wear
+297	Make a Broad-brimmed Feather Hat
+298	Make Tork's Little-brimmed Hat
+299	Make a Muffler Robe
+300	Make a Lymilark Nun Uniform
+301	Make a Slim Inner Robe
+302	Make a Cores' Healer Dress
+303	Make a Magic School Uniform (M)
+304	Make a Magic School Uniform (F)
+305	Make Cores' Healer Gloves
+306	Make a Mongo's Cap
+307	Make a Popo's Skirt (F)
+308	Make a Mongo's Traveler Suit (F)
+309	Make a Mongo's Traveler Suit (M)
+310	Make Cloth Mail
+311	Make a Cores' Healer Suit (M)
+312	Make Guardian Gloves
+313	Make a Wizard Hat
+314	Make a Leather Bandana
+315	Make a Hairband
+316	Make a Mongo's Long Skirt (F)
+317	Make a Light Leather Mail (M)
+318	Make a Lirina's Long Skirt (F)
+319	Make a Cores' Ninja Suit (M)
+320	Make a Cores' Thief Suit (M)
+321	Make a Light Leather Mail (M)
+322	Make Common Silk Weaving Gloves
+323	Make Professional Silk Weaving Gloves
+324	Make a Cores' Healer Dress
+325	Make a Magic School Uniform (M)
+326	Make a Magic School Uniform (F)
+327	Make Cores' Healer Gloves
+328	Make a Mongo's Cap
+329	Make a Popo's Skirt (F)
+330	Make a Mongo's Traveler Suit (F)
+331	Make a Mongo's Traveler Suit (M)
+332	Make Cloth Mail
+333	Make a Cores' Healer Suit (M)
+334	Make Guardian Gloves
+335	Make a Wizard Hat
+336	Make a Leather Bandana
+337	Make a Hairband
+338	Make a Mongo's Long Skirt (F)
+339	Make a Light Leather Mail (M)
+340	Make a Lirina's Long Skirt (F)
+341	Make a Cores' Ninja Suit (M)
+342	Make a Cores' Thief Suit (M)
+343	Make a Light Leather Mail (M)
+344	Make Common Silk Weaving Gloves
+345	Make Professional Silk Weaving Gloves
+346	Make a Lymilark Nun Uniform
+347	Make a Slim Inner Robe
+348	Make a Weeding Hoe
+349	Make a Dagger
+350	Make a Round Shield
+351	Make a Pickaxe
+352	Make a Longsword
+353	Make a Sickle
+354	Make a Cuirassier Helm
+355	Make a Spiked Cap
+356	Make Ulna Protector Gloves
+357	Make a Weeding Hoe
+358	Make a Dagger
+359	Make a Round Shield
+360	Make a Pickaxe
+361	Make a Longsword
+362	Make a Sickle
+363	Make a Cuirassier Helm
+364	Make a Spiked Cap
+365	Make Ulna Protector Gloves
+366	Make a Waterdrop Cap
+367	Make a Twin Horn Cap
+368	Make an Evil Dying Crown
+369	Make a Dragon Crest
+370	Make an Iron Mask Headgear
+371	Make a Bird Face Cap
+372	Make a Mythril Armor
+373	Common Fabric; Cheap Silk; Common Finishing Thread
+374	Cheap Fabric; Common Silk; Cheap Leather Strap; Fine Finishing Thread
+375	Finest Fabric; Common Silk; Fine Finishing Thread
+376	Common Fabric; Common Silk; Finest Finishing Thread; Braid
+377	Finest Fabric; Common Silk; Common Finishing Thread
+378	Cheap Fabric; Common Finishing Thread; Cheap Finishing Thread
+379	Cheap Silk; Thin Thread; Common Finishing Thread
+380	Cheap Silk; Thin Thread; Common Finishing Thread
+381	Fine Fabric; Thin Thread; Fine Finishing Thread; Braid
+382	Common Fabric; Cheap Fabric; Cheap Leather Strap; Finest Finishing Thread
+383	Common Leather; Thick Thread Ball; Finest Finishing Thread; Fine Finishing Thread
+384	Cheap Fabric; Finishing Thread
+385	Common Fabric; Common Leather; Common Finishing Thread
+386	Cheap Fabric; Common Finishing Thread; Cheap Finishing Thread
+387	Common Fabric; Cheap Fabric; Cheap Silk; Fine Finishing Thread
+388	Fine Leather; Common Silk; Common Leather Strap; Fine Finishing Thread; Braid
+389	Fine Silk; Thin Thread; Fine Finishing Thread
+390	Common Fabric; Common Silk; Thick Thread Ball; Finishing Thread
+391	Finest Fabric; Finest Silk; Finest Leather Strap; Finest Finishing Thread; Braid
+392	Fine Leather; Common Silk; Common Leather Strap; Fine Finishing Thread; Braid
+393	Common Fabric; Thin Thread
+394	Fine Fabric; Thin Thread
+395	Cheap Fabric; Cheap Silk
+396	Cheap Fabric; Common Silk; Common Leather Strap
+397	Finest Fabric; Common Silk
+398	Common Fabric; Common Silk; Braid
+399	Finest Fabric; Common Silk
+400	Cheap Fabric
+401	Cheap Silk; Thin Thread
+402	Cheap Silk; Thin Thread
+403	Finest Fabric; Thin Thread; Braid
+404	Common Fabric; Cheap Fabric; Cheap Leather Strap
+405	Common Leather; Thick Thread Ball
+406	Common Leather
+407	Cheap Fabric; Common Leather
+408	Cheap Fabric
+409	Cheap Fabric; Cheap Silk
+410	Fine Leather; Fine Silk; Common Leather Strap
+411	Fine Silk; Thin Thread
+412	Common Fabric; Common Silk; Thick Thread Ball
+413	Finest Fabric; Finest Silk; Finest Leather Strap
+414	Fine Leather; Common Silk; Common Leather Strap
+415	Common Fabric
+416	Fine Fabric
+417	Finest Leather; Fine Silk; Finest Leather Strap
+418	Finest Leather; Common Silk; Cheap Leather Strap
+419	Fine Fabric; Cheap Silk; Finest Leather Strap
+420	Finest Fabric; Common Silk; Finest Leather Strap
+421	Fine Fabric; Cheap Silk; Finest Leather
+422	Common Fabric; Thick Thread Ball; Cheap Silk
+423	Common Fabric; Common Silk; Thick Thread Ball
+424	Common Fabric; Common Silk
+425	Common Fabric; Common Silk
+426	Common Fabric; Cheap Silk; Common Finishing Thread
+427	Cheap Fabric; Common Silk; Cheap Leather Strap; Fine Finishing Thread
+428	Finest Fabric; Common Silk; Fine Finishing Thread
+429	Common Fabric; Common Silk; Finest Finishing Thread; Braid
+430	Finest Fabric; Common Silk; Common Finishing Thread
+431	Cheap Fabric; Common Finishing Thread; Cheap Finishing Thread
+432	Cheap Silk; Thin Thread; Common Finishing Thread
+433	Cheap Silk; Thin Thread; Common Finishing Thread
+434	Fine Fabric; Thin Thread; Fine Finishing Thread; Braid
+435	Common Fabric; Cheap Fabric; Cheap Leather Strap; Finest Finishing Thread
+436	Common Leather; Thick Thread Ball; Finest Finishing Thread; Fine Finishing Thread
+437	Cheap Fabric; Finishing Thread
+438	Common Fabric; Common Leather; Common Finishing Thread
+439	Cheap Fabric; Common Finishing Thread; Cheap Finishing Thread
+440	Common Fabric; Cheap Fabric; Cheap Silk; Fine Finishing Thread
+441	Fine Leather; Common Silk; Common Leather Strap; Fine Finishing Thread; Braid
+442	Fine Silk; Thin Thread; Fine Finishing Thread
+443	Common Fabric; Common Silk; Thick Thread Ball; Finishing Thread
+444	Finest Fabric; Finest Silk; Finest Leather Strap; Finest Finishing Thread; Braid
+445	Fine Leather; Common Silk; Common Leather Strap; Fine Finishing Thread; Braid
+446	Common Fabric; Thin Thread
+447	Fine Fabric; Thin Thread
+448	Cheap Fabric; Cheap Silk
+449	Cheap Fabric; Common Silk; Common Leather Strap
+450	Finest Fabric; Common Silk
+451	Common Fabric; Common Silk; Braid
+452	Finest Fabric; Common Silk
+453	Cheap Fabric
+454	Cheap Silk; Thin Thread
+455	Cheap Silk; Thin Thread
+456	Finest Fabric; Thin Thread; Braid
+457	Common Fabric; Cheap Fabric; Cheap Leather Strap
+458	Common Leather; Thick Thread Ball
+459	Common Leather
+460	Cheap Fabric; Common Leather
+461	Cheap Fabric
+462	Cheap Fabric; Cheap Silk
+463	Fine Leather; Fine Silk; Common Leather Strap
+464	Fine Silk; Thin Thread
+465	Common Fabric; Common Silk; Thick Thread Ball
+466	Finest Fabric; Finest Silk; Finest Leather Strap
+467	Fine Leather; Common Silk; Common Leather Strap
+468	Common Fabric
+469	Fine Fabric
+470	Common Fabric; Common Silk
+471	Common Fabric; Common Silk
+472	Iron Ingot; Firewood
+473	Iron Ingot; Common Leather; Thick Thread Ball
+474	Iron Ingot; Firewood; Common Leather Strap
+475	Iron Ingot; Firewood
+476	Iron Ingot; Common Leather; Thick Thread Ball
+477	Iron Ingot; Firewood
+478	Iron Ingot; Common Leather
+479	Iron Ingot; Common Leather Strap
+480	Iron Ingot; Common Leather; Thick Thread Ball
+481	Iron Ingot
+482	Iron Ingot
+483	Iron Ingot
+484	Iron Ingot
+485	Iron Ingot
+486	Iron Ingot
+487	Iron Ingot
+488	Iron Ingot
+489	Iron Ingot
+490	Iron Ingot; Common Leather Strap
+491	Iron Ingot; Common Leather Strap
+492	Iron Ingot; Common Leather Strap
+493	Iron Ingot; Common Leather Strap
+494	Iron Ingot; Common Leather Strap
+495	Iron Ingot; Cheap Leather Strap
+496	Mythril Ingot;Common Leather Strap;Common Silk;
+497	()
+498	()
+499	()
+500	()
+501	()
+502	()
+503	()
+504	()
+505	()
+506	()
+507	()
+508	()
+509	()
+510	()
+511	()
+512	()
+513	()
+514	()
+515	()
+516	()
+517	()
+518	()
+519	(Common Finishing Thread)
+520	(Fine Finishing Thread)
+521	(Fine Finishing Thread)
+522	(Fine Finishing Thread)
+523	(Finest Finishing Thread)
+524	(Cheap Finishing Thread)
+525	(Common Finishing Thread)
+526	(Common Finishing Thread)
+527	(Finest Finishing Thread)
+528	(Finest Finishing Thread)
+529	(Finest Finishing Thread; Fine Finishing Thread)
+530	(Cheap Finishing Thread)
+531	(Common Finishing Thread)
+532	(Cheap Finishing Thread)
+533	(Cheap Finishing Thread)
+534	(Fine Finishing Thread; Braid)
+535	(Fine Finishing Thread)
+536	(Cheap Finishing Thread)
+537	(Finest Finishing Thread; Braid)
+538	(Fine Finishing Thread; Braid)
+539	(Thin Thread)
+540	(Thin Thread)
+541	(Finest Finishing Thread; Braid)
+542	(Finest Finishing Thread; Braid)
+543	(Common Finishing Thread)
+544	(Fine Finishing Thread; Braid)
+545	(Finest Finishing Thread; Fine Leather Strap)
+546	(Fine Finishing Thread)
+547	(Fine Finishing Thread)
+548	(Fine Finishing Thread)
+549	(Fine Finishing Thread)
+550	(Common Fabric; Cheap Silk; Common Finishing Thread)
+551	(Cheap Fabric; Common Silk; Cheap Leather Strap; Fine Finishing Thread)
+552	(Finest Fabric; Common Silk; Fine Finishing Thread)
+553	(Common Fabric; Common Silk; Finest Finishing Thread; Braid)
+554	(Finest Fabric; Common Silk; Common Finishing Thread)
+555	(Cheap Fabric; Common Finishing Thread; Cheap Finishing Thread)
+556	(Cheap Silk; Thin Thread; Common Finishing Thread)
+557	(Cheap Silk; Thin Thread; Common Finishing Thread)
+558	(Fine Fabric; Thin Thread; Fine Finishing Thread; Braid)
+559	(Common Fabric; Cheap Fabric; Cheap Leather Strap; Finest Finishing Thread)
+560	(Common Leather; Thick Thread Ball; Finest Finishing Thread; Fine Finishing Thread)
+561	(Cheap Fabric; Finishing Thread)
+562	(Common Fabric; Common Leather; Common Finishing Thread)
+563	(Cheap Fabric; Common Finishing Thread; Cheap Finishing Thread)
+564	(Common Fabric; Cheap Fabric; Cheap Silk; Fine Finishing Thread)
+565	(Fine Leather; Common Silk; Common Leather Strap; Fine Finishing Thread; Braid)
+566	(Fine Silk; Thin Thread; Fine Finishing Thread)
+567	(Common Fabric; Common Silk; Thick Thread Ball; Finishing Thread)
+568	(Finest Fabric; Finest Silk; Finest Leather Strap; Finest Finishing Thread; Braid)
+569	(Fine Leather; Common Silk; Common Leather Strap; Fine Finishing Thread; Braid)
+570	(Common Fabric; Thin Thread)
+571	(Fine Fabric; Thin Thread)
+572	(Common Finishing Thread)
+573	(Fine Finishing Thread)
+574	(Fine Finishing Thread)
+575	(Fine Finishing Thread)
+576	(Finest Finishing Thread)
+577	(Cheap Finishing Thread)
+578	(Common Finishing Thread)
+579	(Common Finishing Thread)
+580	(Finest Finishing Thread)
+581	(Finest Finishing Thread)
+582	(Finest Finishing Thread; Fine Finishing Thread)
+583	(Cheap Finishing Thread)
+584	(Common Finishing Thread)
+585	(Cheap Finishing Thread)
+586	(Cheap Finishing Thread)
+587	(Fine Finishing Thread; Braid)
+588	(Fine Finishing Thread)
+589	(Cheap Finishing Thread)
+590	(Finest Finishing Thread; Braid)
+591	(Fine Finishing Thread; Braid)
+592	(Thin Thread)
+593	(Thin Thread)
+594	(Fine Finishing Thread)
+595	(Fine Finishing Thread)
+596	(Iron Ingot; Firewood)
+597	(Iron Ingot; Common Leather; Thick Thread Ball)
+598	(Iron Ingot; Firewood; Common Leather Strap)
+599	(Iron Ingot; Firewood)
+600	(Iron Ingot; Common Leather; Thick Thread Ball)
+601	(Iron Ingot; Firewood)
+602	(Iron Ingot; Common Leather)
+603	(Iron Ingot; Common Leather Strap)
+604	(Iron Ingot; Common Leather; Thick Thread Ball)
+605	(Firewood)\n(Copper Ingot; Firewood)\n(Silver Ingot; Firewood)\n(Gold Ingot; Firewood)
+606	(Common Leather; Thick Thread Ball)\n(Copper Ingot; Common Leather; Thick Thread Ball)\n(Silver Ingot; Common Leather; Thick Thread Ball)\n(Gold Ingot; Common Leather; Thick Thread Ball)
+607	(Firewood; Common Leather Strap)\n(Copper Ingot; Firewood; Common Leather Strap)\n(Silver Ingot; Firewood; Common Leather Strap)\n(Gold Ingot; Firewood; Common Leather Strap)
+608	(Firewood)\n(Copper Ingot; Firewood)\n(Silver Ingot; Firewood)\n(Gold Ingot; Firewood)
+609	(Common Leather; Thick Thread Ball)\n(Copper Ingot; Common Leather; Thick Thread Ball)\n(Silver Ingot; Common Leather; Thick Thread Ball)\n(Gold Ingot; Common Leather; Thick Thread Ball)
+610	(Firewood)\n(Copper Ingot; Firewood)\n(Silver Ingot; Firewood)\n(Gold Ingot; Firewood)
+611	(Common Leather)\n(Copper Ingot; Common Leather)\n(Silver Ingot; Common Leather)\n(Gold Ingot; Common Leather)
+612	(Common Leather Strap)\n(Copper Ingot; Common Leather Strap)\n(Silver Ingot; Common Leather Strap)\n(Gold Ingot; Common Leather Strap)
+613	(Common Leather; Thick Thread Ball)\n(Copper Ingot; Common Leather; Thick Thread Ball)\n(Silver Ingot; Common Leather; Thick Thread Ball)\n(Gold Ingot; Common Leather; Thick Thread Ball)
+614	(Fine Leather)\n(Copper Ingot; Fine Leather)\n(Silver Ingot; Fine Leather)\n(Gold Ingot; Fine Leather)
+615	(Common Silk)\n(Copper Ingot; Common Silk)\n(Silver Ingot; Common Silk)\n(Gold Ingot; Common Silk)
+616	(Common Silk; Common Fabric)\n(Copper Ingot; Common Silk; Common Fabric)\n(Silver Ingot; Common Silk; Common Fabric)\n(Gold Ingot; Common Silk; Common Fabric)
+617	(Fine Fabric; Cheap Silk)\n(Copper Ingot; Fine Fabric; Cheap Silk)\n(Silver Ingot; Fine Fabric; Cheap Silk)\n(Gold Ingot; Fine Fabric; Cheap Silk)
+618	(Fine Leather Strap)\n(Copper Ingot; Fine Leather Strap)\n(Silver Ingot; Fine Leather Strap)\n(Gold Ingot; Fine Leather Strap)
+619	(Thick Thread Ball)\n(Copper Ingot; Thick Thread Ball)\n(Silver Ingot; Thick Thread Ball)\n(Gold Ingot; Thick Thread Ball)
+620	(Gold Ingot)
+621	Used to make a Cores' Healer Dress (F).
+622	Used to make a Magic School Uniform (M).
+623	Used to make a Magic School Uniform (F).
+624	Used to make Cores' Healer Gloves.
+625	Used to make a Mongo's Hat.
+626	Used to make a Popo's Skirt.
+627	Used to make a Mongo's Traveler Suit (F).
+628	Used to make a Mongo's Traveler Suit (M).
+629	Used to make Cloth Mail.
+630	Used to make a Cores' Healer Suit (M).
+631	Used to make Guardian Gloves.
+632	Used to make a Wizard Hat.
+633	Used to make a Leather Bandana.
+634	Used to make a Hairband.
+635	Used to make a Mongo's Long Skirt (F).
+636	Used to make a Light Leather Mail (F).
+637	Used to make a Lirina's Long Skirt (F).
+638	Used to make a Cores' Ninja Suit (M).
+639	Used to make a Cores' Thief Suit (M).
+640	Used to make a Light Leather Mail (M).
+641	Used to make Common Silk Weaving Gloves.
+642	Used to make Professional Silk Weaving Gloves.
+643	Used to make a Cores' Healer Dress (F).
+644	Used to make a Magic School Uniform (M).
+645	Used to make a Magic School Uniform (F).
+646	Used to make Cores' Healer Gloves.
+647	Used to make a Mongo's Hat.
+648	Used to make a Popo's Skirt.
+649	Used to make a Mongo's Traveler Suit (F).
+650	Used to make a Mongo's Traveler Suit (M).
+651	Used to make Cloth Mail.
+652	Used to make a Cores' Healer Suit (M).
+653	Used to make Guardian Gloves.
+654	Used to make a Wizard Hat.
+655	Used to make a Leather Bandana.
+656	Used to make a Hairband.
+657	Used to make a Mongo's Long Skirt (F).
+658	Used to make a Light Leather Mail (F).
+659	Used to make a Lirina's Long Skirt (F).
+660	Used to make a Cores' Ninja Suit (M).
+661	Used to make a Cores' Thief Suit (M).
+662	Used to make a Light Leather Mail (M).
+663	Used to make Common Silk Weaving Gloves.
+664	Used to make Professional Silk Weaving Gloves.
+665	Used to make a Leather Mini Skirt (F).
+666	Used to make a Long Leather Coat (M).
+667	Used to make an Ella's Vest Skirt (F).
+668	Used to make a Lueys' Vest (M).
+669	Used to make a Broad-brimmed Feather Hat.
+670	Used to make Tork's Little-brimmed Hat.
+671	Used to make a Muffler Robe.
+672	Used to make a Lymilark Nun Uniform.
+673	Used to make a Slim Inner Robe.
+674	Used to make a Cores' Healer Dress (F).
+675	Used to make a Magic School Uniform (M).
+676	Used to make a Magic School Uniform (F).
+677	Used to make Cores' Healer Gloves.
+678	Used to make a Mongo's Hat.
+679	Used to make a Popo's Skirt.
+680	Used to make a Mongo's Traveler Suit (F).
+681	Used to make a Mongo's Traveler Suit (M).
+682	Used to make Cloth Mail.
+683	Used to make a Cores' Healer Suit (M).
+684	Used to make Guardian Gloves.
+685	Used to make a Wizard Hat.
+686	Used to make a Leather Bandana.
+687	Used to make a Hairband.
+688	Used to make a Mongo's Long Skirt (F).
+689	Used to make a Light Leather Mail (F).
+690	Used to make a Lirina's Long Skirt (F).
+691	Used to make a Cores' Ninja Suit (M).
+692	Used to make a Cores' Thief Suit (M).
+693	Used to make a Light Leather Mail (M).
+694	Used to make Common Silk Weaving Gloves.
+695	Used to make Professional Silk Weaving Gloves.
+696	Used to make a Cores' Healer Dress (F).
+697	Used to make a Magic School Uniform (M).
+698	Used to make a Magic School Uniform (F).
+699	Used to make Cores' Healer Gloves.
+700	Used to make a Mongo's Hat.
+701	Used to make a Popo's Skirt.
+702	Used to make a Mongo's Traveler Suit (F).
+703	Used to make a Mongo's Traveler Suit (M).
+704	Used to make Cloth Mail.
+705	Used to make a Cores' Healer Suit (M).
+706	Used to make Guardian Gloves.
+707	Used to make a Wizard Hat.
+708	Used to make a Leather Bandana.
+709	Used to make a Hairband.
+710	Used to make a Mongo's Long Skirt (F).
+711	Used to make a Light Leather Mail (F).
+712	Used to make a Lirina's Long Skirt (F).
+713	Used to make a Cores' Ninja Suit (M).
+714	Used to make a Cores' Thief Suit (M).
+715	Used to make a Light Leather Mail (M).
+716	Used to make Common Silk Weaving Gloves.
+717	Used to make Professional Silk Weaving Gloves.
+718	Used to make a Lymilark Nun Uniform.
+719	Used to make a Slim Inner Robe.
+720	Used to make a Weeding Hoe.
+721	Used to make a Dagger.
+722	Used to make a Round Shield.
+723	Used to make a Pickaxe.
+724	Used to make a Longsword.
+725	Used to make a Sickle.
+726	Used to make a Cuirassier Helm.
+727	Used to make a Spiked Cap.
+728	Used to make Ulna Protector Gloves.
+729	Used to make a Weeding Hoe.
+730	Used to make a Dagger.
+731	Used to make a Round Shield.
+732	Used to make a Pickaxe.
+733	Used to make a Longsword.
+734	Used to make a Sickle.
+735	Used to make a Cuirassier Helm.
+736	Used to make a Spiked Cap.
+737	Used to make Ulna Protector Gloves.
+738	Used to make a Waterdrop Cap.
+739	Used to make a Twin Horn Cap.
+740	Used to make an Evil Dying Crown.
+741	Used to make a Dragon Crest.
+742	Used to make an Iron Mask Headgear.
+743	Used to make a Bird Face Cap.
+744	Used to make a Mythril Armor.
+745	Blacksmith Manual - Pelican Protector
+746	A scroll that contains instructions on how to craft a Pelican Protector.
+747	Make a Pelican Protector
+748	Iron Ingot; Fine Leather Strap
+749	(Common Fabric; Braid)\n(Copper Ingot; Common Fabric; Braid)\n(Silver Ingot; Common Fabric; Braid)\n(Gold Ingot; Common Fabric; Braid)
+750	Used to make a Pelican Protector.
+751	Sewing Pattern - Cores' Thief Gloves
+752	옷본 - 어린이 옷(남)
+753	Sewing Pattern - Volume Beret
+754	Sewing Pattern - Adventurer's Suit (M)
+755	옷본 - 코레스 판다 로브
+756	옷본 - 루이스 오픈 레더 자켓(남)
+757	Sewing Pattern - Sleeveless and Bell-Bottoms (F)
+758	옷본 - 루이스 섹시 베어룩(여)
+759	옷본 - 루이스 드로워즈 레이어드 스커트(여)
+760	옷본 - 루이스 레이디 드레스(여)
+761	A scroll that contains instructions on how to craft Cores' Thief Gloves.
+762	남자용 어린이 옷을 만들 수 있는 전개도가 그려져있는 두루마리.
+763	A scroll that contains instructions on how to craft a Volume Beret.
+764	A scroll that contains instructions on how to craft an Adventurer's Suit (M).
+765	코레스 판다 로브를 만들 수 있는 전개도가 그려져있는 두루마리.
+766	남자용 루이스 오픈 레더 자켓을 만들 수 있는 전개도가 그려져있는 두루마리.
+767	A scroll that contains instructions on how to craft Sleeveless and Bell-Bottoms (F).
+768	여자용 루이스 섹시 베어룩을 만들 수 있는 전개도가 그려져있는 두루마리.
+769	여자용 루이스 드로워즈 레이어드 스커트를 만들 수 있는 전개도가 그려져있는 두루마리.
+770	여자용 루이스 레이디 드레스를 만들 수 있는 전개도가 그려져있는 두루마리.
+771	Make Cores' Thief Gloves
+772	어린이 옷(남) 만들기
+773	Make a Volume Beret
+774	Make an Adventurer's Suit (M)
+775	코레스 판다 로브 만들기
+776	루이스 오픈 레더 자켓(남) 만들기
+777	Make Sleeveless and Bell-Bottoms (F)
+778	루이스 섹시 베어룩(여) 만들기
+779	루이스 드로워즈 레이어드 스커트(여) 만들기
+780	루이스 레이디 드레스(여) 만들기
+781	Cheap Silk; Fine Leather Strap
+782	Fine Silk; Fine Leather Strap
+783	Finest Silk; Fine Leather; Braid
+784	Fine Fabric; Fine Silk; Braid
+785	Finest Silk; Fine Silk; Fine Leather Strap
+786	Finest Silk; Finest Leather; Fine Leather Strap
+787	Finest Fabric; Finest Leather; Fine Leather
+788	Finest Fabric; Finest Silk; Braid
+789	Finest Silk; Fine Leather; Finest Leather Strap
+790	Finest Fabric; Finest Silk; Finest Leather
+791	(일반 마감용 실; 유아풍 옷 마감재)
+792	(최고급 마감용 실; 유아풍 옷 마감재)
+793	(최고급 마감용 실; 청소년풍 옷 마감재)
+794	(최고급 마감용 실; 청소년풍 옷 마감재)
+795	(최고급 마감용 실; 청소년풍 옷 마감재)
+796	(최고급 마감용 실; 성인풍 옷 마감재)
+797	(Finest Finishing Thread)
+798	(Finest Finishing Thread)
+799	(Common Finishing Thread)
+800	(Fine Finishing Thread)
+801	Used to make Cores' Thief Gloves.
+802	어린이 옷(남)을 만들 수 있다
+803	Used to make a Volume Beret.
+804	Used to make an Adventurer's Suit (M).
+805	코레스 판다 로브를 만들 수 있다
+806	루이스 오픈 레더 자켓(남)을 만들 수 있다
+807	Used to make Sleeveless and Bell-Bottoms (F).
+808	루이스 섹시 베어룩(여)를 만들 수 있다
+809	루이스 드로워즈 레이어드 스커트(여)를 만들 수 있다
+810	루이스 레이디 드레스(여)를 만들 수 있다
+811	Blacksmith Manual - Greaves
+812	Blacksmith Manual - Scale Armor
+813	Blacksmith Manual - Plate Gauntlets
+814	Blacksmith Manual - Double Ring Mail
+816	Blacksmith Manual - Plate Mail
+818	A scroll that contains instructions on how to craft Greaves.
+819	A scroll that contains instructions on how to craft a Scale Armor.
+820	A scroll that contains instructions on how to craft Plate Gauntlets.
+821	A scroll that contains instructions on how to craft a Double Ring Mail.
+823	A scroll that contains instructions on how to craft a Plate Mail.
+825	Make Greaves
+826	Make a Scale Armor
+827	Make Plate Gauntlets
+828	Make a Double Ring Mail
+830	Make a Plate Mail
+832	Iron Ingot; Common Leather Strap
+833	Iron Ingot
+834	Iron Ingot; Fine Leather Strap
+835	Iron Ingot; Fine Leather Strap
+836	Iron Ingot; Fine Leather Strap; Braid
+837	Iron Ingot; Fine Leather Strap
+838	(Common Fabric)\n(Copper Ingot; Common Fabric)\n(Silver Ingot; Common Fabric)\n(Gold Ingot; Common Fabric)
+840	(Fine Leather; Thick Thread Ball)\n(Copper Ingot; Fine Leather; Thick Thread Ball)\n(Silver Ingot; Fine Leather; Thick Thread Ball)\n(Gold Ingot; Fine Leather; Thick Thread Ball)
+842	(Fine Silk)\n(Copper Ingot; Fine Silk)\n(Silver Ingot; Fine Silk)\n(Gold Ingot; Fine Silk)
+844	(Firewood; Braid)\n(Copper Ingot; Firewood; Braid)\n(Silver Ingot; Firewood; Braid)\n(Gold Ingot; Firewood; Braid)
+845	Used to make a Mythril Armor.
+846	Used to make Greaves.
+847	Used to make a Scale Armor.
+848	Used to make Plate Gauntlets
+851	Used to make a Plate Mail.
+853	Sewing Pattern - Coco Sailor Mini (M)
+854	Sewing Pattern - Coco Panda Robe
+855	Sewing Pattern-Selina Open Leather Jacket
+858	Sewing Pattern- Selina Lady Dress
+859	A scroll that contains instructions on how to craft a Coco Sailor Mini (M).
+860	A scroll that contains instructions on how to craft a Coco Panda Robe.
+861	A scroll that contains instructions on how to craft Selina Open Leather Jacket.
+864	A scroll that contains instructions on how to craft a Selina Lady Dress.
+865	Make a Coco Sailor Mini (M)
+866	Make a Coco Panda Robe
+867	Make Selina Open Leather Jacket.
+870	Make a Selina Lady Dress.
+871	(Common Finishing Thread; Yellow Young Potion)
+872	(Finest Finishing Thread; Green Young Potion)
+873	(Finest Finishing Thread; Black Use Potion)
+874	(Finest Finishing Thread; Red Potion; Magical Golden Thread; Fog Silk)
+875	(Finest Finishing Thread; Black Use Potion; Magic Silver Thread)
+876	(Finest Finishing Thread; Red Potion; Magical Golden Thread; Fog Silk)
+880	Used to make a Coco Sailor Mini (M).
+881	Used to make a Coco Panda Robe.
+882	Used to make Selina Open Leather Jacket.
+885	Used to make a Selina Lady Dress.
+886	(Common Fabric; Fomor's Writing)\n(Copper Ingot; Common Fabric; Fomor's Writing)\n(Silver Ingot; Common Fabric; Fomor's Writing)\n(Golden Ingot; Common Fabric; Fomor's Writing)
+887	Sewing Pattern-Selina Sexy Bare Look
+888	A scroll that contains instructions on how to craft Selina Sexy Bare Look.
+889	Make Selina Sexy Bare Look.
+890	Used to make a Leather Mini Skirt (F).
+891	Used to make a Long Leather Coat (M).
+892	Used to make an Ella's Vest Skirt (F).
+893	Used to make Lueys' Vest Wear.
+894	Used to make an Adventurer's Suit (M).
+895	Used to make Selina Sexy Bare Look.
+896	Sewing Pattern-Bianca Drawers Layered Skirt.
+897	Blacksmith Manual - Spaika's Silver Plate Boots
+898	A scroll that contains instructions on how to craft Bianca Drawers Layered Skirt.
+899	A scroll that contains instructions on how to craft Spaika's Silver Plate Boots.
+900	Make Bianca Drawers Layered Skirt.
+901	Make Spaika's Silver Plate Boots
+902	Used to make Bianca Drawers Layered Skirt.
+903	Used to make a Double Ring Mail.
+904	Used to make Spaika's Silver Plate Boots.
+905	Blacksmith Manual - Spaika's Silver Plate Boots
+906	A scroll that contains instructions on how to craft a Hetero Kite Shield.
+907	Make a Hetero Kite Shield.
+908	Used to make a Hetero Kite Shield.
+909	(Common Silk; Siren's Cat Mask)\n(Copper Ingot; Common Silk; Siren's Cat Mask)\n(Silver Ingot; Common Silk; Siren's Cat Mask)\n(Golden Ingot; Common Silk; Siren's Cat Mask)
+910	(Fine Fabric; Siren's Bat Wing Mask)\n(Copper Ingot; Fine Fabric; Siren's Bat Wing Mask)\n(Silver Ingot; Fine Fabric; Siren's Bat Wing Mask)\n(Golden Ingot; Fine Fabric; Siren's Bat Wing Mask)
+911	(Cheap Finishing Thread)
+912	(Cheap Finishing Thread)
+913	(Cheap Finishing Thread)
+914	(Cheap Finishing Thread)
+915	(Cheap Finishing Thread)
+916	(Cheap Finishing Thread)
+917	(Cheap Finishing Thread)
+918	(Cheap Finishing Thread)
+919	(Cheap Finishing Thread)
+920	(Cheap Finishing Thread)
+921	Blacksmith Manual - Bundle of Arrowheads
+922	Blacksmith Manual - Bundle of Fine Arrowheads
+923	Blacksmith Manual - Bundle of Finest Arrowheads
+924	Blacksmith Manual - Bundle of Bolt Heads
+925	도면 - 고급 볼토촉 묶음
+926	Blacksmith Manual - Bundle of the Finest Bolt Heads
+927	A scroll that contains instructions on how to craft a Bundle of Arrowheads.
+928	A scroll that contains instructions on how to craft a Bundle of Fine Arrowheads.
+929	A scroll that contains instructions on how to craft a Bundle of the Finest Arrowheads.
+930	A scroll that contains instructions on how to craft a Bundle of Bolt Heads.
+931	A scroll that contains instructions on how to craft a Bundle of Fine Bolt Heads.
+932	A scroll that contains instructions on how to craft a Bundle of the Finest Bolt Heads.
+933	Make a Bundle of Arrowheads
+934	Make a Bundle of Fine Arrowheads
+935	Make a Bundle of the Finest Arrowheads
+936	Make a Bundle of Bolt heads
+937	Make a Bundle of Fine Bolt heads
+938	Make a Bundle of the Finest Bolt heads
+939	Iron Ingot
+940	Iron Ingot
+941	Iron Ingot
+942	Iron Ingot
+943	Iron Ingot
+944	Iron Ingot
+951	Used to make a Bundle of Arrowheads
+952	Used to make a Bundle of Fine Arrowheads
+953	Used to make a Bundle of the Finest Arrowheads
+954	Used to make a Bundle of Bolt heads
+955	Used to make a Bundle of Fine Bolt heads
+956	Used to make a Bundle of the Finest Bolt heads
+957	
+958	
+959	
+960	
+961	
+962	
+975	()
+976	()
+977	()
+978	()
+979	()
+980	()
+981	Sewing Pattern - Wizard Hat (General Shop Delivery)
+982	A scroll that contains instructions on how to craft a General Shop Supply Wizard Hat.
+983	Make a General Shop Supply Wizard Hat
+984	Common Leather
+985	(Cheap Finishing Thread)
+986	Used to make a Wizard Hat.
+987	Blacksmith Manual - Blacksmith Hammer
+988	Blacksmith Manual - Short Sword
+989	Blacksmith Manual - Hatchet
+990	Blacksmith Manual - Fluted Short Sword
+991	Blacksmith Manual - Broadsword
+992	Blacksmith Manual - Warhammer
+993	Blacksmith Manual - Mace
+994	Blacksmith Manual - Bastard Sword
+995	Blacksmith Manual - Bipennis
+997	Blacksmith Manual - Two-handed Sword
+998	Blacksmith Manual - Claymore
+999	A scroll that contains instructions on how to craft a Blacksmith Hammer.
+1000	A scroll that contains instructions on how to craft a Short Sword.
+1001	A scroll that contains instructions on how to craft a Hatchet.
+1002	A scroll that contains instructions on how to craft a Fluted Short Sword.
+1003	A scroll that contains instructions on how to craft a Broadsword.
+1004	A scroll that contains instructions on how to craft a Warhammer.
+1005	A scroll that contains instructions on how to craft a Mace.
+1006	A scroll that contains instructions on how to craft a Bastard Sword.
+1007	A scroll that contains instructions on how to craft a Bipennis.
+1008	A scroll that contains instructions on how to craft a Gladius.
+1009	A scroll that contains instructions on how to craft a Two-handed Sword.
+1010	A scroll that contains instructions on how to craft a Claymore.
+1011	Make a Blacksmith Hammer
+1012	Make a Short Sword
+1013	Make a Hatchet
+1014	Make a Fluted Short Sword
+1015	Make a Broadsword
+1016	Make a Warhammer
+1017	Make a Mace
+1018	Make a Bastard Sword
+1019	Make a Bipennis
+1020	Make a Gladius.
+1021	Make a Two-Handed Sword
+1022	Make a Claymore
+1023	Iron Ingot
+1024	Iron Ingot
+1025	Iron Ingot; Copper Ingot
+1026	Iron Ingot; Silver Ingot
+1027	Iron Ingot; Silver Ingot
+1028	Iron Ingot; Copper Ingot
+1029	Iron Ingot; Silver Ingot; Copper Ingot
+1030	Iron Ingot; Silver Ingot
+1031	Iron Ingot; Silver Ingot; Copper Ingot
+1032	Iron Ingot; Silver Ingot; Copper Ingot
+1033	Iron Ingot; Silver Ingot; Copper Ingot
+1034	Iron Ingot; Silver Ingot; Copper Ingot
+1035	(Firewood)\n(Copper Ingot; Firewood)\n(Silver Ingot; Firewood)\n(Gold Ingot; Firewood)
+1036	(Common Leather; Thin Thread)\n(Copper Ingot; Common Leather; Thin Thread)\n(Silver Ingot; Common Leather; Thin Thread)\n(Gold Ingot; Common Leather; Thin Thread)
+1037	(Cheap Leather; Thick Thread Ball)\n(Copper Ingot; Cheap Leather; Thick Thread Ball)\n(Silver Ingot; Cheap Leather; Thick Thread Ball)\n(Gold Ingot; Cheap Leather; Thick Thread Ball)
+1038	(Common Leather; Thick Thread Ball)\n(Copper Ingot; Common Leather; Thick Thread Ball)\n(Silver Ingot; Common Leather; Thick Thread Ball)\n(Gold Ingot; Common Leather; Thick Thread Ball)
+1039	(Fine Leather; Thick Thread Ball)\n(Copper Ingot; Fine Leather; Thick Thread Ball)\n(Silver Ingot; Fine Leather; Thick Thread Ball)\n(Gold Ingot; Fine Leather; Thick Thread Ball)
+1040	(Fine Leather; Thin Thread)\n(Copper Ingot; Fine Leather; Thin Thread)\n(Silver Ingot; Fine Leather; Thin Thread)\n(Gold Ingot; Fine Leather; Thin Thread)
+1041	(Fine Leather; Thin Thread)\n(Copper Ingot; Fine Leather; Thin Thread)\n(Silver Ingot; Fine Leather; Thin Thread)\n(Gold Ingot; Fine Leather; Thin Thread)
+1042	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+1043	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+1044	(Finest Leather; Braid)\n(Copper Ingot; Finest Leather; Braid)\n(Silver Ingot; Finest Leather; Braid)\n(Gold Ingot; Finest Leather; Braid)
+1045	(Finest Leather; Braid)\n(Copper Ingot; Finest Leather; Braid)\n(Silver Ingot; Finest Leather; Braid)\n(Gold Ingot; Finest Leather; Braid)
+1046	(Finest Leather; Braid)\n(Copper Ingot; Finest Leather; Braid)\n(Silver Ingot; Finest Leather; Braid)\n(Gold Ingot; Finest Leather; Braid)
+1047	Used to make a Blacksmith Hammer.
+1048	Used to make a Short Sword.
+1049	Used to make a Hatchet.
+1050	Used to make a Fluted Short Sword
+1051	Used to make a Broadsword.
+1052	Used to make a Warhammer
+1053	Used to make a Mace.
+1054	Used to make a Bastard Sword.
+1055	Used to make a Bipennis
+1056	Used to make a Gladius.
+1057	Used to make a Two-Handed Sword.
+1058	Used to make a Claymore.
+1059	Blacksmith Manual - Gladius
+1060	Blacksmith Manual - Mythril Thread
+1061	A scroll that contains instructions on how to craft a Mythril Thread.
+1062	Make Mythril Thread
+1063	Mythril Ingot
+1064	(Holy Water of Lymilark)
+1065	Used to make a Mythril Thread
+1066	옷본 - 발렌시아 검사 교복 롱타입(남)
+1067	옷본 - 발렌시아 검사 교복 쇼트타입(여)
+1068	Blacksmith Manual - Valencia's Cross Line Plate Armor(M)
+1069	Blacksmith Manual - Valencia's Cross Line Plate Armor(F)
+1076	Make Valencia's Cross Line Plate Armor(M)
+1077	Make Valencia's Cross Line Plate Armor(F)
+1080	Iron Ingot; Finest Leather Strap; Braid
+1081	Iron Ingot; Finest Leather Strap; Braid
+1084	(Fine Fabric; Siren's Wing Mask)\n(Copper Ingot; Fine Fabric; Siren's Wing Mask)\n(Silver Ingot; Fine Fabric; Siren's Wing Mask)\n(Golden Ingot; Fine Fabric; Siren's Wing Mask)
+1085	(Fine Silk; Siren's Feather Mask)\n(Copper Ingot; Fine Silk; Siren's Feather Mask)\n(Silver Ingot; Fine Silk; Siren's Feather Mask)\n(Golden Ingot; Fine Silk; Siren's Feather Mask)
+1088	Used to make Valencia's Cross Line Plate Armor(M)
+1089	Used to make Valencia's Cross Line Plate Armor(F)
+1090	남자용 발렌시아 검사학교 교복을 만들 수 있는 전개도가 그려져있는 두루마리.
+1091	여자용 발렌시아 검사학교 교복을 만들 수 있는 전개도가 그려져있는 두루마리.
+1092	발렌시아 검사학교 교복(남) 만들기
+1093	발렌시아 검사학교 교복(여) 만들기
+1096	(Finest Finishing Thread; Red Potion; Magical Golden Thread; Fog Silk)
+1097	(Finest Finishing Thread; Black Youth Potion; Magic Silver Thread; Fog Silk)
+1098	Used to make the Long Swordsmanship School Uniform (M).
+1099	Used to make the Short Swordsmanship School Uniform (F).
+1100	Finest Fabric; Finest Silk; Finest Leather
+1101	Fine Fabric; Fine Silk; Finest Leather Strap
+1102	Blacksmith Manual - Hetero Kite Shield
+1103	Blacksmith Manual - Bundle of Fine Bolt Heads
+1104	A scroll that contains instructions on how to craft a Valencia's Cross Line Plate Armor (M).
+1105	A scroll that contains instructions on how to craft a Valencia's Cross Line Plate Armor (F).
+1111	Make Iron Bar
+1112	Make Copper Bar
+1113	Make Silver Bar
+1114	Make Gold Bar
+1116	Make Cores' Healer Gloves
+1117	Make Cores' Healer Gloves
+1118	Make Cores' Healer Gloves
+1119	Make Cores' Healer Gloves
+1135	Used to make Cores' Healer Gloves.
+1136	Used to make Cores' Healer Gloves.
+1137	Used to make Cores' Healer Gloves.
+1138	Used to make Cores' Healer Gloves.
+1144	Blacksmith Manual - Iron Bar
+1145	Blacksmith Manual - Copper Bar
+1146	Blacksmith Manual - Silver Bar
+1147	Blacksmith Manual - Gold Bar
+1148	Blacksmith Manual - Mythril Bar
+1149	Make Mythril Bar
+1155	Iron Ingot
+1156	Copper Ingot
+1157	Silver Ingot
+1158	Gold Ingot
+1159	Mythril Ingot
+1160	()
+1161	()
+1162	()
+1163	()
+1164	()
+1165	Used to make Iron Bar
+1166	Used to make Copper Bar
+1167	Used to make Silver Bar
+1168	Used to make Gold Bar
+1169	Used to make Mythril Bar
+1170	A scroll that contains instructions on how to craft an Iron Bar.
+1171	A scroll that contains instructions on how to craft a Copper Bar.
+1172	A scroll that contains instructions on how to craft a Silver Bar.
+1173	A scroll that contains instructions on how to craft a Gold Bar.
+1174	A scroll that contains instructions on how to craft a Mythril Bar.
+1175	Blacksmith Manual - Light Melka Chainmail
+1176	Blacksmith Manual - Pelican Protector
+1177	Blacksmith Manual - Valencia Crossline Plate Gauntlets
+1178	Blacksmith Manual - Valencia Crossline Plate Boots
+1179	A scroll that contains instructions on how to craft a Light Melka Chainmail.
+1180	A scroll that contains instructions on how to craft a Pelican Protector.
+1181	A scroll that contains instructions on how to craft a Valencia Crossline Plate Gauntlets.
+1182	A scroll that contains instructions on how to craft a Valencia Crossline Plate Boots.
+1183	Make Light Melka Chainmail
+1184	Make Pelican Protector
+1185	Make Valencia Cross Line Plate Gauntlets
+1186	Make Valencia Cross Line Plate Boots
+1187	Iron Ingot; Common Leather Strap
+1188	Iron Ingot; Fine Leather Strap
+1189	Iron Ingot; Fine Leather Strap
+1190	Iron Ingot; Fine Leather Strap
+1191	(Common Fabric)\n(Copper Ingot; Common Fabric)\n(Silver Ingot; Common Fabric)\n(Gold Ingot; Common Fabric)
+1192	(Fine Fabric; Common Silk)\n(Copper Ingot; Fine Fabric; Common Silk)\n(Silver Ingot; Fine Fabric; Common Silk)\n(Gold Ingot; Fine Fabric; Common Silk)
+1193	(Common Fabric; Fine Silk)\n(Copper Ingot; Common Fabric; Fine Silk)\n(Silver Ingot; Common Fabric; Fine Silk)\n(Gold Ingot; Common Fabric; Fine Silk)
+1194	(Fine Fabric; Fine Silk)\n(Copper Ingot; Fine Fabric; Fine Silk)\n(Silver Ingot; Fine Fabric; Fine Silk)\n(Gold Ingot; Fine Fabric; Fine Silk)
+1195	Used to make Light Melka Chainmail.
+1196	Used to make Pelican Protector.
+1197	Used to make Valencia Crossline Plate Gauntlets.
+1198	Used to make Valencia Crossline Plate Boots.
+1199	Blacksmith Manual - Belt-like Leather Necklace
+1200	Blacksmith Manual - Gold Necklace
+1201	Blacksmith Manual - Chain Necklace
+1202	A scroll that contains instructions on how to craft a Belt-like Leather Necklace.
+1203	A scroll that contains instructions on how to craft a Gold Necklace.
+1204	A scroll that contains instructions on how to craft a Chain Necklace.
+1205	Make Belt-like Leather Necklace
+1206	Make Gold Necklace
+1207	Make Chain Necklace
+1208	Fine Leather; Iron Ingot
+1209	Iron Ingot
+1210	Iron Ingot
+1211	(Thick Thread Ball)
+1213	(Large Nail)
+1214	Used to make Belt-like Leather Necklace
+1215	Used to make Gold Necklace
+1216	Used to make Chain Necklace
+1217	(Gold Ingot)\n(Silver Ingot)
+1218	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+1219	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+1220	A scroll that contains instructions on how to craft a Ring-Type Mini Leather Dress (F).
+1221	Sewing Pattern - Chic Suit
+1222	Blacksmith Manual - Dustin Silver Knight Armor
+1223	Blacksmith Manual - Dustin Silver Knight Vambrace
+1224	Blacksmith Manual - Dustin Silver Knight Greaves
+1225	A scroll that contains instructions on how to craft a Chic Suit
+1226	A scroll that contains instructions on how to craft a Dustin Silver Knight Armor.
+1227	A scroll that contains instructions on how to craft a Dustin Silver Knight Vambrace.
+1228	A scroll that contains instructions on how to craft Dustin Silver Knight Greaves.
+1229	Make Chic Suit
+1230	Make Dustin Silver Knight Armor
+1231	Make Dustin Silver Knight Vambrace
+1232	Make Dustin Silver Knight Greaves
+1233	Finest Fabric; Finest Silk; Finest Leather
+1234	Iron Ingot; Fine Leather Strap; Finest Leather Strap
+1235	Iron Ingot; Fine Leather Strap; Braid
+1236	Iron Ingot; Fine Leather Strap; Braid
+1237	(Finest Finishing Thread; Fog Silk)
+1238	(최고급 옷감; 최고급 실크; 세이렌의 안경)\n(동괴; 최고급 옷감; 최고급 실크; 최고급 실크; 세이렌의 안경)\n(은괴; 최고급 옷감; 최고급 실크; 세이렌의 안경)\n(금괴; 최고급 옷감; 최고급 실크; 세이렌의 안경)
+1239	(Finest Fabric; Fine Silk)\n(Copper Ingot; Finest Fabric; Fine Silk)\n(Silver Ingot; Finest Fabric; Fine Silk)\n(Gold Ingot; Finest Fabric; Fine Silk)
+1240	(Finest Fabric; Fine Silk)\n(Copper Ingot; Finest Fabric; Fine Silk)\n(Silver Ingot; Finest Fabric; Fine Silk)\n(Gold Ingot; Finest Fabric; Fine Silk)
+1241	Used to make a Chic Suit
+1242	Used to make Dustin Silver Knight Armor
+1243	Used to make Dustin Silver Knight Vambrace
+1244	Used to make Dustin Silver Knight Greaves
+1245	Blacksmith Manual - Light Hetero Kite Shield
+1246	A scroll that contains instructions on how to craft a Light Hetero Kite Shield.
+1247	Make Light Hetero Kite Shield
+1248	Iron Ingot; Fine Leather Strap
+1249	(Firewood; Braid)\n(Copper Ingot; Firewood; Braid)\n(Silver Ingot; Firewood; Braid)\n(Gold Ingot; Firewood; Braid)
+1250	Used to make the Light Hetero Kite Shield.
+1251	Sewing Pattern - Long Swordsmanship School Uniform (M)
+1252	Sewing Pattern - Short Swordsmanship School Uniform (F)
+1253	A scroll that contains instructions on how to craft an Ella's Vest Skirt (F).
+1254	A scroll printed with the patterns to make the Long Swordsmanship School Uniform (M).
+1255	A scroll printed with the patterns to make the Short Swordsmanship School Uniform (F).
+1256	Make Long Swordsmanship School Uniform (M)
+1257	Make Short Swordsmanship School Uniform (F)
+1258	Blacksmith Manual - Furnace for Gold Ingot
+1259	Blacksmith Manual - Furnace for Silver Ingot
+1260	Blacksmith Manual - Furnace for Copper Ingot
+1261	Blacksmith Manual - Finest Anvil
+1262	Blacksmith Manual - Fine Anvil
+1263	A scroll that contains instructions on how to craft a Furnace for Gold Ingot.
+1264	A scroll that contains instructions on how to craft a Furnace for Silver Ingot.
+1265	A scroll that contains instructions on how to craft a Furnace for Copper Ingot.
+1266	A scroll that contains instructions on how to craft a Finest Anvil.
+1267	A scroll that contains instructions on how to craft a Fine Anvil.
+1268	Make Furnace for Gold Ingot
+1269	Make Furnace for Silver Ingot
+1270	Make Furnace for Copper Ingot
+1271	Make Finest Anvil
+1272	Make Fine Avil
+1273	Castle Building Stone; Iron Bar; Mythril Bar
+1274	Castle Building Stone; Iron Bar; Mythril Bar
+1275	Castle Building Stone; Iron Bar; Mythril Bar
+1276	Castle Building Stone; Iron Plate; Mythril Plate
+1277	Castle Building Stone; Iron Plate; Mythril Plate
+1278	()
+1279	()
+1280	()
+1281	()
+1282	()
+1283	Used to make a furnace for Gold Ingot
+1284	Used to make a furnace for Silver Ingot
+1285	Used to make a furnace for Copper Ingot
+1286	Used to make the Finest Anvil
+1287	Used to make a Fine Anvil
+1290	Sewing Pattern - Kirin Winter Angel Coat (M)
+1291	Sewing Pattern - Kirin Winter Angel Coat (F)
+1292	Sewing Pattern - Mario NY Modern Vintage Ensemble (M)
+1293	Sewing Pattern - Mario NY Modern Vintage Ensemble (F)
+1294	Sewing Pattern - Sandra's Sniper Suit (M)
+1295	Sewing Pattern - Sandra's Sniper Suit (F)
+1296	Sewing Pattern - Edekai's Priest Robe (M)
+1297	Sewing Pattern - Edekai's Priest Robe (F)
+1298	Sewing Pattern - Wis's Intelligence Soldier Uniform (M)
+1299	Sewing Pattern - Wis's Intelligence Soldier Uniform (F)
+1300	Sewing Pattern - Kirin's Winter Angel Gloves
+1301	Sewing Pattern - Sandra's Sniper Suit Gloves
+1304	Sewing Pattern - Kirin's Winter Angel Boots
+1305	Sewing Pattern - Sandra's Sniper Suit Boots (M)
+1306	Sewing Pattern - Sandra's Sniper Suit Boots (F)
+1307	Sewing Pattern - Wis's Intelligence Soldier Boots (M)
+1308	Sewing Pattern - Kirin's Winter Angel Cap
+1309	Sewing Pattern - Sandra's Sniper Suit Cap
+1310	Sewing Pattern - Wis's Intelligence Soldier Cap (F)
+1311	Sewing Pattern - Jabu-shinseon's Imperial Robe
+1312	Sewing Pattern - Lacard's Layered Muffler Robe
+1313	Sewing Pattern - Nathane Snow Mountain Coat
+1314	Blacksmith Manual - Leminia's Holy Moon Armor (M)
+1315	Blacksmith Manual - Leminia's Holy Moon Armor (F)
+1316	Blacksmith Manual - Arish Ashuvain Armor (M)
+1317	Blacksmith Manual - Arish Ashuvain Armor (F)
+1318	Blacksmith Manual - Kirinusjin's Half-plate Armor (M)
+1319	Blacksmith Manual - Kirinusjin's Half-plate Armor (F)
+1320	Blacksmith Manual - Arish Ashuvain Gauntlets
+1321	Blacksmith Manual - Arish Ashuvain Boots (M)
+1322	Blacksmith Manual - Arish Ashuvain Boots (F)
+1325	A scroll that contains instructions on how to craft a Kirin Winter Angel Coat (M).
+1326	A scroll that contains instructions on how to craft a Kirin Winter Angel Coat (F).
+1327	A scroll that contains instructions on how to craft a Mario NY Modern Vintage Ensemble (M).
+1328	A scroll that contains instructions on how to craft a Mario NY Modern Vintage Ensemble (F).
+1329	A scroll that contains instructions on how to craft Sandra's Sniper Suit (M).
+1330	A scroll that contains instructions on how to craft Sandra's Sniper Suit (F).
+1331	A scroll that contains instructions on how to craft Edekai's Priest Robe (M).
+1332	A scroll that contains instructions on how to craft Edekai's Priest Robe (F).
+1333	A scroll that contains instructions on how to craft Wis's Intelligence Soldier Uniform (M).
+1334	A scroll that contains instructions on how to craft Wis's Intelligence Soldier Uniform (F).
+1335	A scroll that contains instructions on how to craft Kirin's Winter Angel Gloves.
+1336	A scroll that contains instructions on how to craft Sandra's Sniper Suit Gloves. 
+1339	A scroll that contains instructions on how to craft Kirin's Winter Angel Boots.
+1340	A scroll that contains instructions on how to craft Sandra's Sniper Suit Boots (M).
+1341	A scroll that contains instructions on how to craft Sandra's Sniper Suit Boots (F).
+1342	A scroll that contains instructions on how to craft Wis's Intelligence Soldier Boots (M).
+1343	A scroll that contains instructions on how to craft Kirin's Winter Angel Cap.
+1344	A scroll that contains instructions on how to craft a Sandra's Sniper Suit Cap.
+1345	A scroll that contains instructions on how to craft Wis's Intelligence Soldier Cap (F).
+1346	A scroll that contains instructions on how to craft Jabu-shinseon's Imperial Robe.
+1347	A scroll that contains instructions on how to craft Lacard's Layered Muffler Robe.
+1348	A scroll that contains instructions on how to craft a Nathane Snow Mountain Coat.
+1349	A scroll that contains instructions on how to craft Leminia's Holy Moon Armor (M).
+1350	A scroll that contains instructions on how to craft Leminia's Holy Moon Armor (F).
+1351	A scroll that contains instructions on how to craft Arish Ashuvain Armor (M).
+1352	A scroll that contains instructions on how to craft Arish Ashuvain Armor (F).
+1353	A scroll that contains instructions on how to craft Kirinusjin's Half-plate Armor (M).
+1354	A scroll that contains instructions on how to craft Kirinusjin's Half-plate Armor (F).
+1355	A scroll with a pattern to make Arish Ashuvain Gauntlets.
+1356	A scroll that contains instructions on how to craft Arish Ashuvain Boots (M).
+1357	A scroll that contains instructions on how to craft Arish Ashuvain Boots (F).
+1360	Make Kirin's Winter Angel Coat (M)
+1361	Make Kirin's Winter Angel Coat (F)
+1362	Make a Mario NY Modern Vintage Ensemble (M)
+1363	Make a Mario NY Modern Vintage Ensemble (F)
+1364	Make Sandra's Sniper Suit (M)
+1365	Make Sandra's Sniper Suit (F)
+1366	Make Edekai's Priest Robe (M)
+1367	Make Edekai's Priest Robe (F)
+1368	Make Wis's Intelligence Soldier Uniform (M)
+1369	Make Wis's Intelligence Soldier Uniform (F)
+1370	Make Kirin's Winter Angel Gloves
+1371	Make Sandra's Sniper Suit Gloves
+1374	Make Kirin's Winter Angel Boots
+1375	Make Sandra's Sniper Suit Boots (M)
+1376	Make Sandra's Sniper Suit Boots (F)
+1377	Make Wis's Intelligence Soldier Boots (M)
+1378	Make Kirin's Winter Angel Cap
+1379	Make Sandra's Sniper Suit Cap
+1380	Make Wis's Intelligence Soldier Cap (F)
+1381	Make Jabu-shinseon's Imperial Robe
+1382	Make Lacard's Layered Muffler Robe
+1383	Make a Nathane Snow Mountain Coat
+1384	Make Leminia's Holy Moon Armor (M)
+1385	Make Leminia's Holy Moon Armor (F)
+1386	Make Arish Ashuvain Armor (M)
+1387	Make Arish Ashuvain Armor (F)
+1388	Make Kirinusjin's Half-plate Armor (M)
+1389	Make Kirinusjin's Half-plate Armor (F)
+1390	Make Arish Ashuvain Gauntlets
+1391	Make Arish Ashuvain Boots (M)
+1392	Make Arish Ashuvain Boots (F)
+1393	Fine Fabric; Common Fabric; Common Silk
+1394	Fine Silk; Common Fabric; Cheap Fabric
+1395	Fine Fabric; Common Fabric
+1396	Fine Fabric; Common Fabric; Cheap Fabric
+1397	Fine Silk; Common Silk; Cheap Fabric
+1398	Fine Silk; Common Silk; Cheap Fabric
+1399	Fine Silk; Common Fabric; Cheap Fabric
+1400	Fine Fabric; Fine Silk
+1401	Fine Fabric; Common Fabric
+1402	Fine Fabric; Common Fabric; Cheap Fabric
+1403	Fine Fabric; Common Silk
+1404	Fine Fabric; Common Silk; Common Fabric
+1405	Fine Fabric; Cheap Fabric
+1406	Fine Silk; Common Fabric
+1407	Common Fabric; Cheap Fabric
+1408	Common Fabric
+1409	Fine Silk; Common Fabric
+1410	Fine Fabric; Common Fabric
+1411	Fine Silk; Common Fabric
+1412	Fine Fabric; Common Silk
+1413	Fine Silk; Common Fabric
+1414	Fine Fabric; Common Fabric
+1415	Fine Fabric; Common Fabric
+1416	Common Fabric
+1417	Fine Fabric
+1418	Common Fabric; Common Silk
+1419	Iron Ingot; Fine Leather Strap
+1420	Iron Ingot; Fine Leather Strap
+1421	Iron Ingot; Fine Leather Strap
+1422	Iron Ingot; Fine Leather Strap
+1423	Iron Ingot; Fine Leather Strap
+1424	Iron Ingot; Fine Leather Strap
+1425	Iron Ingot; Common Leather Strap
+1426	Iron Ingot; Common Leather Strap
+1427	Iron Ingot; Common Leather Strap
+1428	(Common Finishing Thread)
+1429	(Common Finishing Thread)
+1430	(Common Finishing Thread)
+1431	(Common Finishing Thread)
+1432	(Common Finishing Thread)
+1433	(Common Finishing Thread)
+1434	(Common Finishing Thread)
+1435	(Cheap Finishing Thread)
+1436	(Cheap Finishing Thread)
+1437	(Common Finishing Thread)
+1438	(Common Finishing Thread)
+1439	(Cheap Finishing Thread)
+1440	(Common Finishing Thread)
+1441	(Common Finishing Thread)
+1442	(Common Finishing Thread)
+1443	(Common Finishing Thread)
+1444	(Common Finishing Thread)
+1445	(Cheap Finishing Thread)
+1446	(Common Finishing Thread)
+1447	(Common Finishing Thread)
+1448	(Cheap Finishing Thread)
+1449	(Common Finishing Thread)
+1450	(Cheap Finishing Thread)
+1451	(Cheap Finishing Thread)
+1452	(Cheap Finishing Thread)
+1453	(Cheap Finishing Thread)
+1454	(Common Fabric)\n(Copper Ingot; Common Fabric)\n(Silver Ingot; Common Fabric)\n(Gold Ingot; Common Fabric)
+1455	(Fine Fabric)\n(Copper Ingot; Fine Fabric)\n(Silver Ingot; Fine Fabric)\n(Gold Ingot; Fine Fabric)
+1456	(Fine Silk)\n(Copper Ingot; Fine Silk)\n(Silver Ingot; Fine Silk)\n(Gold Ingot; Fine Silk)
+1457	(Common Silk)\n(Copper Ingot; Common Silk)\n(Silver Ingot; Common Silk)\n(Gold Ingot; Common Silk)
+1458	(Common Fabric)\n(Copper Ingot; Common Fabric)\n(Silver Ingot; Common Fabric)\n(Gold Ingot; Common Fabric)
+1459	(Common Fabric)\n(Copper Ingot; Common Fabric)\n(Silver Ingot; Common Fabric)\n(Gold Ingot; Common Fabric)
+1460	(Cheap Silk)\n(Copper Ingot; Cheap Silk)\n(Silver Ingot; Cheap Silk)\n(Gold Ingot; Cheap Silk)
+1461	(Fine Silk)\n(Copper Ingot; Fine Silk)\n(Silver Ingot; Fine Silk)\n(Gold Ingot; Fine Silk)
+1462	(Common Silk)\n(Copper Ingot; Common Silk)\n(Silver Ingot; Common Silk)\n(Gold Ingot; Common Silk)
+1465	Used to make a Kirin Winter Angel Coat (M).
+1466	Used to make a Kirin Winter Angel Coat (F).
+1467	Used to make Mario NY Modern Vintage Ensemble (M).
+1468	Used to make Mario NY Modern Vintage Ensemble (F).
+1469	Used to make Sandra's Sniper Suit (M).
+1470	Used to make Sandra's Sniper Suit (F).
+1471	Used to make Edekai's Priest Robe (M).
+1472	Used to make Edekai's Priest Robe (F).
+1473	Used to make Wis' Intelligence Soldier Uniform (M).
+1474	Used to make Wis' Intelligence Soldier Uniform (F).
+1475	Used to make Kirin's Winter Angel Gloves.
+1476	Used to make Sandra's Sniper Suit Gloves.
+1479	Used to make Kirin's Winter Angel Boots.
+1480	Used to make Sandra's Sniper Suit Boots (M).
+1481	Used to make Sandra's Sniper Suit Boots (F).
+1482	Used to make Wis' Intelligence Soldier Boots (M).
+1483	Used to make Kirin's Winter Angel Cap.
+1484	Used to make Sandra's Sniper Suit Cap.
+1485	Used to make Wis' Intelligence Soldier Cap (F).
+1486	Used to make Jabu-shinseon's Imperial Robe.
+1487	Used to make Lacard's Layered Muffler Robe.
+1488	Used to make Nathane Snow Mountain Coat.
+1489	Used to make Leminia's Holy Moon Armor (M).
+1490	Used to make Leminia's Holy Moon Armor (F).
+1491	Used to make Arish Ashuvain Armor (M).
+1492	Used to make Arish Ashuvain Armor (F).
+1493	Used to make Kirinusjin's Half-plate Armor (M).
+1494	Used to make Kirinusjin's Half-plate Armor (F).
+1495	Used to make Arish Ashuvain Gauntlet.
+1496	Used to make Arish Ashuvain Boots (M).
+1497	Used to make Arish Ashuvain Boots (F).
+1498	Sewing Pattern - Xiao-Lung Juen Formal Suit (F)
+1499	Sewing Pattern - Xiao-Lung Juen Formal Suit (M)
+1500	Sewing Pattern - Xiao-Lung Juen Dress Shoes (F)
+1501	Sewing Pattern - Xiao-Lung Juen Dress Shoes (M)
+1502	A scroll that contains instructions on how to craft a Xiao-Lung Juen Formal Suit (F).
+1503	A scroll that contains instructions on how to craft a Xiao-Lung Juen Formal Suit (M).
+1504	A scroll that contains instructions on how to craft a Xiao-Lung Juen Dress Shoes (F).
+1505	A scroll that contains instructions on how to craft a Xiao-Lung Juen Dress Shoes (M).
+1506	Make a Xiao-Lung Juen Formal Suit (F)
+1507	Make a Xiao-Lung Juen Formal Suit (M)
+1508	Make a Xiao-Lung Juen Dress Shoes (F)
+1509	Make a Xiao-Lung Juen Dress Shoes (M)
+1510	Used to make a Xiao-Lung Juen Formal Suit (F)
+1511	Used to make a Xiao-Lung Juen Formal Suit (M)
+1512	Used to make a Xiao-Lung Juen Dress Shoes (F)
+1513	Used to make a Xiao-Lung Juen Dress Shoes (M)
+1514	Sewing Pattern - High-class Leather Armor
+1515	A scroll that contains instructions on how to craft a High-class Leather Armor.
+1516	Make High-class Leather Armor
+1517	Finest Fabric; Finest Silk; Finest Leather
+1518	(Finest Finishing Thread; Iron Plate)
+1519	Used to make a High-class Leather Armor
+1520	Sewing Pattern - Middle-class Leather Armor
+1521	Sewing Pattern - Basic Leather Armor
+1522	A scroll that contains instructions on how to craft a Middle-class Leather Armor.
+1523	A scroll that contains instructions on how to craft a Basic Leather Armor.
+1524	Make Middle-class Leather Armor
+1525	Make Basic Leather Armor
+1528	(Finest Finishing Thread)
+1529	(Fine Finishing Thread)
+1530	Used to make a Middle-class Leather Armor
+1531	Used to make a Basic Leather Armor
+1532	Finest Fabric; Fine Silk; Fine Leather
+1533	Fine Fabric; Fine Silk; Common Leather
+1534	Sewing Pattern - Bone Marine Armor (M)
+1535	Sewing Pattern - Bone Marine Armor (F)
+1536	옷본 - 청새치 로브
+1537	A scroll that contains instructions on how to craft a Bone Marine Armor (M).
+1538	A scroll that contains instructions on how to craft a Bone Marine Armor (F).
+1539	청새치 로브를 만들 수 있는 전개도가 그려져있는 두루마리.
+1540	Make a Bone Marine Armor (M)
+1541	Make a Bone Marine Armor (F)
+1542	청새치 로브 만들기
+1543	Common Fabric; Common Silk; King Crab Shell
+1544	Common Fabric; Common Silk; King Crab Shell
+1549	Used to make a Bone Marine Armor (M)
+1550	Used to make a Bone Marine Armor (F)
+1551	청새치 로브를 만들 수 있다
+1552	일반 옷감; 고급 가죽; 날치 지느러미
+1553	(최고급 마감용 실; 청새치 머리)
+1554	(Finest Finishing Thread; Flying Fish Fin)
+1555	(Finest Finishing Thread; Flying Fish Fin)
+1556	Blacksmith Manual - Dragon Shield
+1557	A scroll that contains instructions on how to craft a Dragon Shield.
+1558	Make Dragon Shield
+1559	Iron Ingot; Mythril Ingot; Desert Dragon Scale
+1560	(Tough String; Desert Dragon's Eye)\n(Iron Ingot; Tough String; Desert Dragon's Eye)\n(Silver Ingot; Tough String; Desert Dragon's Eye)\n(Gold Ingot; Tough String; Desert Dragon's Eye)
+1561	Used to make a Dragon Shield
+1562	Sewing Pattern - Tied-up Long Boots
+1563	Blacksmith Manual - Denver Gauntlet
+1564	A scroll printed with the patterns to make the Tied-up Long Boots.
+1565	A scroll that contains instructions on how to craft a Denver Gauntlet.
+1566	Make Tied-up Long Boots
+1567	Make Denver Gauntlet
+1568	Common Fabric; Fine Silk
+1569	Iron Ingot; Fine Leather Strap
+1570	(Fine Finishing Thread)
+1571	(Common Silk)\n(Bronze Ingot; Common Silk)\n(Silver Ingot; Common Silk)\n(Gold Ingot; Common Silk)
+1572	Used to make Tied-up Long Boots
+1573	Used to make Denver Gauntlet
+1574	Sewing Pattern - Terra V-line Four-point Armor
+1575	Sewing Pattern - Kira Floral-Patterned Robe
+1576	Sewing Pattern - Odelia Pin Armor
+1577	A scroll printed with the patterns to make the Terra V-line Four-point Armor.
+1578	A scroll printed with instructions on crafting a Kira Floral-Patterned Robe.
+1579	A scroll printed with the patterns to make the Odelia Pin Armor.
+1580	Make Terra V-line Four-point Armor
+1581	Make a Kira Floral-Patterned Robe
+1582	Make Odelia Pin Armor
+1583	Finest Silk; Prairie Dragon Scale
+1584	Finest Silk; Finest Fabric
+1586	(Finest Finishing Thread; Tough Thread; Iron Plate)
+1588	(Fine Finishing Thread)
+1589	Used to make Terra V-line Four-point Armor
+1590	Used to make a Kira Floral-Patterned Robe
+1591	Used to make Odelia Pin Armor
+1592	Common Fabric; Fine Silk; Common Leather
+1593	(Finest Finishing Thread; Tough Thread)
+1594	Sewing Pattern - Terra Ancient Pattern Wear
+1595	Sewing Pattern - Terra Diamond-shaped Leather Boots
+1596	A scroll printed with the patterns to make the Terra Ancient Pattern Wear.
+1597	A scroll printed with the patterns to make the Terra Diamond-shaped Leather Boots.
+1598	Make Terra Ancient Pattern Wear
+1599	Make Terra Diamond-shaped Leather Boots
+1601	Finest Silk; Finest Fabric; Tough Thread
+1603	Fine Fabric; Fine Silk; Braid
+1607	(Fine Finishing Thread; Tough Thread)
+1608	(Finest Finishing Thread; Braid)
+1609	(Fine Finishing Thread; Braid)
+1610	Used to make Terra Ancient Pattern Wear
+1611	Used to make Terra Diamond-shaped Leather Boots
+1612	Sewing Pattern - Giant Shoulder Armor
+1613	Sewing Pattern - Stitched Long Robe Armor
+1614	Sewing Pattern - Spark Leather Armor
+1615	A scroll printed with the patterns to make the Giant Shoulder Armor.
+1616	A scroll printed with the patterns to make the Stitched Long Robe Armor.
+1617	A scroll printed with the patterns to make the Spark Leather Armor.
+1618	Make Giant Shoulder Armor
+1619	Make Stitched Long Robe Armor
+1620	Make Spark Leather Armor
+1621	Finest Silk; Tough String; Iron Plate; Prairie Dragon Scale
+1623	Fine Silk; Fine Leather; Tough Thread
+1624	Common Fabric; Common Silk; Tough String; Iron Plate
+1625	Fine Fabric; Fine Silk; Tough Thread; Iron Plate
+1626	Fine Leather; Common Leather; Tough Thread; Iron Plate
+1627	(Finest Finishing Thread; Braid; Mythril Plate)
+1628	(Common Finishing Thread; Braid)
+1629	(Finest Finishing Thread; Tough Thread)
+1630	(Fine Finishing Thread; Tough String)
+1631	(Fine Finishing Thread; Braid)
+1632	Used to make Giant Shoulder Armor
+1633	Used to make Stitched Long Robe Armor
+1634	Used to make Spark Leather Armor
+1635	Sewing Pattern - Riding Suit
+1636	A scroll printed with the patterns to make the Riding Suit.
+1637	Make Riding Suit
+1638	Fine Silk; Tough String; Tough Thread
+1639	Used to make Riding Suit
+1640	Blacksmith Manual - Katana
+1641	A scroll that contains instructions on how to craft a Katana.
+1642	Make a Katana
+1643	Iron Ingot; Silver Ingot; Copper Ingot
+1645	Used to make a Katana
+1646	(Fine Leather; Tough Thread)\n(Brozne Ingot; Fine Leather; Tough Thread)\n(Silver Ingot; Fine Leather; Tough Thread)\n(Gold Ingot; Fine Leather; Tough Thread)
+1647	Blacksmith Manual - Great Sword
+1648	Blacksmith Manual - Cleaver
+1649	Blacksmith Manual - Morning Star
+1650	Blacksmith Manual - Battle Hammer
+1651	Blacksmith Manual - Warrior Axe
+1652	Blacksmith Manual - Broad Axe
+1653	A scroll that contains instructions on how to craft a Great Sword.
+1654	A scroll that contains instructions on how to craft a Cleaver.
+1655	A scroll that contains instructions on how to craft a Morning Star.
+1656	A scroll that contains instructions on how to craft a Battle Hammer.
+1657	A scroll that contains instructions on how to craft a Warrior Axe.
+1658	A scroll that contains instructions on how to craft a Broad Axe.
+1659	Make a Great Sword
+1660	Make a Cleaver
+1661	Make a Morning Star
+1662	Make a Battle Hammer
+1663	Make a Warrior Axe
+1664	Make a Broad Axe
+1665	Iron Ingot; Copper Ingot
+1666	Iron Ingot; Copper Ingot
+1667	Iron Ingot; Silver Ingot
+1668	Iron Ingot; Copper Ingot
+1669	Iron Ingot; Silver Ingot; Copper Ingot
+1670	Iron Ingot; Copper Ingot
+1671	(Common Leather; Tough String)\n(Copper Ingot; Common Leather; Tough String)\n(Silver Ingot; Common Leather; Tough String)\n(Gold Ingot; Common Leather; Tough String)
+1672	(Common Leather; Fine Leather; Tough String)\n(Copper Ingot; Common Leather; Fine Leather; Tough String)\n(Silver Ingot; Common Leather; Fine Leather; Tough String)\n(Gold Ingot; Common Leather; Fine Leather; Tough String)
+1673	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+1674	(Common Leather; Tough String; Braid)\n(Copper Ingot; Common Leather; Tough String; Braid)\n(Silver Ingot; Common Leather; Tough String; Braid)\n(Gold Ingot; Common Leather; Tough String; Braid)
+1675	(Common Leather; Braid)\n(Copper Ingot; Common Leather; Braid)\n(Silver Ingot; Common Leather; Braid)\n(Gold Ingot; Common Leather; Braid)
+1676	(Common Leather; Fine Leather; Braid)\n(Gold Ingot; Common leather; Fine Leather; Braid)\n(Silver Ingot; Common leather; Fine Leather; Braid)\n(Gold Ingot; Common leather; Fine Leather; Braid)
+1677	Used to make a Great Sword
+1678	Used to make a Cleaver
+1679	Used to make a Morning Star
+1680	Used to make a Battle Hammer
+1681	Used to make a Warrior Axe
+1682	Used to make a Broad Axe
+1683	Sewing Pattern - Admiral's Coat (M)
+1684	Sewing Pattern - Admiral's Coat (F)
+1685	Sewing Pattern - Admiral's Hat (M)
+1686	Sewing Pattern - Admiral's Hat (F)
+1687	Sewing Pattern - Starlight Robe
+1688	Sewing Pattern - Goggle Cap
+1689	Blacksmith Manual - Tioz Armor (M)
+1690	Blacksmith Manual - Tioz Armor (F)
+1691	Blacksmith Manual - Tioz Gauntlets
+1692	Blacksmith Manual - Tioz Greaves
+1693	A scroll that contains instructions on how to craft an Admiral's Coat (M).
+1694	A scroll that contains instructions on how to craft an Admiral's Coat (F).
+1695	A scroll that contains instructions on how to craft an Admiral's Hat (M).
+1696	A scroll that contains instructions on how to craft an Admiral's Hat (F).
+1697	A scroll that contains instructions on how to craft a Starlight Robe.
+1698	A scroll that contains instructions on how to craft a Goggle Cap.
+1699	A scroll that contains instructions on how to craft Tioz Armor (M).
+1700	A scroll that contains instructions on how to craft Tioz Armor (F).
+1701	A scroll that contains instructions on how to craft Tioz Gauntlets.
+1702	A scroll that contains instructions on how to craft Tioz Greaves.
+1703	Make an Admiral's Coat (M)
+1704	Make an Admiral's Coat (F)
+1705	Make an Admiral's Hat (M)
+1706	Make an Admiral's Hat (F)
+1707	Make a Starlight Robe
+1708	Make a Goggle Cap
+1709	Make a Tioz Armor (M)
+1710	Make a Tioz Armor (F)
+1711	Make a Tioz Gauntlet
+1712	Make Tioz Greaves
+1713	Fine Fabric; Common Silk; Cheap Silk
+1714	Fine Fabric; Fine Silk; Common Silk
+1715	Common Fabric; Fine Silk
+1716	Common Fabric; Fine Silk
+1717	Common Fabric; Fine Silk
+1718	Fine Fabric; Fine Silk
+1719	Iron Ingot; Fine Leather Strap
+1720	Iron Ingot; Fine Leather Strap
+1721	Iron Ingot; Common Leather Strap
+1722	Iron Ingot; Common Leather Strap
+1723	(Common Finishing Thread)
+1724	(Common Finishing Thread)
+1725	(Common Finishing Thread)
+1726	(Fine Finishing Thread)
+1727	(Fine Finishing Thread)
+1728	(Fine Finishing Thread)
+1729	(Common Fabric)\n(Copper Ingot; Common Fabric)\n(Silver Ingot; Common Fabric)\n(Gold Ingot; Common Fabric)
+1730	(Fine Silk)\n(Copper Ingot; Fine Silk)\n(Silver Ingot; Fine Silk)\n(Gold Ingot; Fine Silk)
+1731	(Fine Silk)\n(Copper Ingot; Fine Silk)\n(Silver Ingot; Fine Silk)\n(Gold Ingot; Fine Silk)
+1732	(Common Silk)\n(Copper Ingot; Common Silk)\n(Silver Ingot; Common Silk)\n(Gold Ingot; Common Silk)
+1733	Used to make an Admiral's Coat (M).
+1734	Used to make an Admiral's Coat (F).
+1735	Used to make an Admiral's Hat (M).
+1736	Used to make an Admiral's Hat (F).
+1737	Used to make a Starlight Robe.
+1738	Used to make a Goggle Cap.
+1739	Used to make a Tioz Armor (M).
+1740	Used to make a Tioz Armor (F).
+1741	Used to make a Tioz Gauntlet.
+1742	Used to make Tioz Greaves.
+1743	Blacksmith Manual - Wakizashi
+1744	Blacksmith Manual - Tanto
+1745	A scroll that contains instructions on how to craft a Wakizashi.
+1746	A scroll that contains instructions on how to craft a Tanto.
+1747	Make a Wakizashi
+1748	Make a Tanto
+1749	Iron Ingot; Silver Ingot; Copper Ingot
+1750	Iron Ingot; Silver Ingot; Copper Ingot
+1751	(Fine Leather; Braid)\n(Bronze Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+1752	(Fine Leather; Braid)\n(Bronze Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+1753	Used to make a Wakizashi
+1754	Used to make a Tanto
+1755	Sewing Pattern: Daby Scots Plaid Wear for Men
+1756	Sewing Pattern: Daby Scots Plaid Wear for Women
+1757	Sewing Pattern: Daby Scots Plaid Boots for Men
+1758	Sewing Pattern: Daby Scots Plaid Boots for Women
+1759	Sewing Pattern: Coy Quilt Wear for Women
+1760	Sewing Pattern: Vito Crux Armor
+1761	Blacksmith Manual - Vito Crux Greaves
+1762	A scroll that contains instructions on how to craft Daby Scots Plaid Wear for Men.
+1763	A scroll that contains instructions on how to craft Daby Scots Plaid Wear for Women.
+1764	A scroll that contains instructions on how to craft Daby Scots Plaid Boots for Men.
+1765	A scroll that contains instructions on how to craft Daby Scots Plaid Boots for Women.
+1766	A scroll that contains instructions on how to craft Coy Quilt Wear for Women.
+1767	A scroll that contains instructions on how to craft Vito Crux Armor.
+1768	A scroll that contains instructions on how to craft Vito Crux Greaves.
+1769	Craft Daby Scots Plaid Wear for Men
+1770	Craft Daby Scots Plaid Wear for Women
+1771	Craft Daby Scots Plaid Boots for Men
+1772	Craft Daby Scots Plaid Boots for Women
+1773	Craft Coy Quilt Wear for Women
+1774	Craft Vito Crux Armor
+1775	Craft Vito Crux Greaves
+1776	Finest Fabric; Finest Silk; Fine Fabric; Tough Thread
+1777	Finest Fabric; Finest Silk; Fine Silk; Tough Thread
+1778	Fine Fabric; Fine Silk; Braid
+1779	Fine Fabric; Fine Silk; Braid
+1780	Fine Fabric; Iron Plate; Fine Leather Strap
+1781	Common Fabric; Common Silk
+1783	(Finest Finishing Thread; Red Potion; Magical Golden Thread)
+1784	(Finest Finishing Thread; Black Youth Potion; Magic Silver Thread)
+1785	(Fine Finishing Thread; Tough String)
+1786	(Fine Finishing Thread; Tough String)
+1787	(Common Finishing Thread)
+1788	(Fine Finishing Thread)
+1789	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+1790	Enables you to craft Daby Scot Plaid Wear for Men.
+1791	Enables you to craft Daby Scot Plaid Wear for Women.
+1792	Enables you to craft Daby Scot Plaid Boots for Men.
+1793	Enables you to craft Daby Scot Plaid Boots for Women.
+1794	Enables you to craft Coy Quilt Wear for Women.
+1795	Enables you to craft Vito Crux Armor.
+1796	Enables you to craft Vito Crux Greaves.
+1797	Iron Ingot; Copper Ingot
+1798	Sewing Pattern: Becky Witch Dress
+1799	A scroll that contains instructions on how to craft a Becky Witch Dress for Women.
+1800	Craft Becky Witch Dress
+1801	Finest Fabric; Finest Silk; Tough Thread
+1802	(Fine Finishing Thread)
+1803	Enables you to craft Becky Witch Dress.
+1804	옷본 -그레이스 플레이트 아머
+1805	Sewing Pattern: Norman Warrior Armor
+1806	Sewing Pattern: Kirsten Leather Armor
+1807	Blacksmith Manual - Grace Greaves
+1808	Blacksmith Manual - Grace Gauntlets
+1809	Blacksmith Manual - Norman Warrior Helmet
+1810	Blacksmith Manual - Kirsten Leather Gauntlets
+1811	Blacksmith Manual - Kirsten Leather Boots
+1812	A scroll that contains instructions on how to craft Graceful Plate Armor.
+1813	A scroll that contains instructions on how to craft Norman Warrior Armor.
+1814	A scroll that contains instructions on how to craft Kirsten Leather Armor.
+1815	A scroll that contains instructions on how to craft Grace Greaves.
+1816	A scroll that contains instructions on how to craft Grace Gauntlets.
+1817	A scroll that contains instructions on how to craft Norman Warrior Helmet.
+1818	A scroll that contains instructions on how to craft Kirsten Leather Gauntlets.
+1819	A scroll that contains instructions on how to craft Kirsten Leather Boots.
+1820	Graceful Plate Armor
+1821	Craft Norman Warrior Armor
+1822	Craft Kirsten Leather Armor
+1823	Craft Grace Greaves
+1824	Craft Grace Gauntlets
+1825	Craft Norman Warrior Helmet
+1826	Craft Kirsten Leather Gauntlets
+1827	Craft Kirsten Leather Boots
+1831	Iron Ingot; Silver Ingot
+1832	Iron Ingot; Silver Ingot
+1833	Iron Ingot; Silver Ingot
+1834	Iron Ingot; Common Leather Strap
+1835	Iron Ingot; Fine Leather Strap; Braid
+1837	(Finest Finishing Thread)
+1839	(Fine Silk)\n(Copper Ingot; Fine Silk)\n(Silver Ingot; Fine Silk)\n(Gold Ingot; Fine Silk)
+1840	(Fine Silk)\n(Copper Ingot; Fine Silk)\n(Silver Ingot; Fine Silk)\n(Gold Ingot; Fine Silk)
+1844	Enables you to craft Graceful Plate Armor.
+1845	Enables you to craft Norman Warrior Armor.
+1846	Enables you to craft Kirsten Leather Armor.
+1847	Enables you to craft Grace Greaves.
+1848	Enables you to craft Grace Gauntlets.
+1849	Enables you to craft Norman Warrior Helmet.
+1850	Enables you to craft Kirsten Leather Gauntlets.
+1851	Enables you to craft Kirsten Leather Boots.
+1852	Blacksmith Manual - Grace Helmet
+1853	A scroll that contains instructions on how to craft Grace Helmet.
+1854	Craft Grace Helmet
+1855	Finest Silk; Fine Fabric; Fine Leather Strap
+1857	Finest Fabric; Finest Silk; Fine Leather
+1858	Iron Ingot; Copper Ingot
+1860	(Fine Finishing Thread; Iron Ingot)
+1861	(Fine Silk)\n(Copper Ingot; Fine Silk)\n(Silver Ingot; Fine Silk)\n(Gold Ingot; Fine Silk)
+1862	그레이스 건틀렛을 만들 수 있다
+1863	Fine Fabric; Fine Silk; Common Leather Strap; Tough String
+1865	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+1866	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+1867	(Finest Finishing Thread; Iron Ingot)
+1868	(Common Leather; Tough String; Braid)\n(Copper Ingot; Common Leather; Tough String; Braid)\n(Silver Ingot; Common Leather; Tough String; Braid)\n(Gold Ingot; Common Leather; Tough String; Braid)
+1869	Sewing Pattern: Grace Plate Armor
+1870	Enables you to craft Grace Helmet.
+1871	Blacksmith Manual - Valencia's Cross Line Plated Armor (Giant)
+1872	Blacksmith Manual - Valencia's Cross Line Plated Gauntlet (Giant)
+1873	A scroll that contains instructions on how to craft Valencia's Cross Line Plated Armor for Giants.
+1874	A scroll that contains instructions on how to craft Valencia's Cross Line Plated Gauntlet for Giants.
+1875	Make Valencia's Cross Line Plated Armor (Giant)
+1876	Make Valencia's Cross Line Plated Gauntlet (Giant)
+1877	Iron Ingot; Fine Leather Strap; Braid
+1878	Iron Ingot; Fine Leather Strap; Common Leather Strap 
+1879	(Fine Fabric; Siren's Wing Mask)\n(Copper Ingot; Fine Fabric; Siren's Wing mask)\n(Silver Ingot; Fine Fabric; Siren's Wing Mask)\n(Gold Ingot; Fine Fabric; Siren's Wing Mask)
+1880	(Common Fabric; Fine Silk)\n(Copper Ingot; Common Fabric; Fine Silk)\n(Silver Ingot; Common Fabric; Fine Silk)\n(Gold Ingot; Common Fabric; Fine Silk)
+1881	Used to make Valencia's Cross Line Plated Armor (Giant)
+1882	Used to make Valencia's Cross Line Plated Gauntlet (Giant)
+1883	Sewing Pattern: Graceful Plate Armor
+1884	Sewing Pattern: Viseo's Flight Cap
+1885	A scroll that contains instructions on how to craft a Viseo's Flight Cap.
+1886	Make Viseo's Flight Cap.
+1887	Fine Fabric; Fine Silk; Common Leather
+1888	(Fine Finishing Thread)
+1889	Used to make a Viseo's Flight Cap.
+1890	Blacksmith Manual - Dustin Silver Knight Sword
+1891	A scroll that contains instructions on how to craft a Dustin Silver Knight Sword.
+1892	Make the Dustin Silver Knight Sword.
+1894	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Touch String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+1895	Used to make a Dustin Silver Knight Sword.
+1896	Blacksmith Manual - Heater Shield
+1897	A scroll that contains instructions on how to craft a Heater Shield.
+1898	Make the Heater Shield
+1899	Iron Plate; Mythril Plate
+1901	Used to make a Heater Shield.
+1903	(Fine Leather; Braid)\n(Copper Plate; Fine Leather; Braid)\n(Silver Plate; Fine Leather; Braid)\n(Gold Plate; Fine Leather; Braid)
+1904	Blacksmith Manual - Battle Sword
+1905	Blacksmith Manual - Battle Short Sword
+1906	A scroll that contains instructions on how to craft a Battle Sword.
+1907	A scroll that contains instructions on how to craft a Battle Short Sword.
+1908	Used to make a Battle Sword.
+1909	숏 소드 만들기
+1910	Iron Ingot; Silver Ingot
+1911	Iron Ingot; Copper Ingot
+1912	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+1913	(Common Leather; Thin Thread Ball)\n(Copper Ingot; Common Leather; Thin Thread Ball)\n(Silver Ingot; Common Leather; Thin Thread Ball)\n(Gold Ingot; Common Leather; Thin Thread Ball)
+1914	Used to make a Battle Sword.
+1915	Used to make a Battle Short Sword.
+1916	Sewing Pattern - Karis Wizard Suit
+1917	Sewing Pattern - Karis Wizard Shoes
+1918	A scroll that contains how to make Karis Wizard Suit.
+1919	A scroll that contains how to make Karis Wizard Shoes.
+1920	Make Karis Wizard Suit
+1921	Make Karis Wizard Shoes
+1923	Common Fabric; Fine Silk; Common Leather\
+1924	(Fine Finishing Thread)
+1925	(Fine Finishing Thread)
+1926	Used to make Karis Wizard Suit
+1927	Used to make Karis Wizard Shoes
+1928	Finest Fabric; Finest Silk
+1929	Blacksmith Manual - Vales Great Sword
+1930	Blacksmith Manual - Iron Mace
+1931	A scroll that contains instructions on how to craft a Vales Great Sword.
+1932	A scroll that contains instructions on how to craft an Iron Mace.
+1933	Make a Vales Great Sword
+1934	Make an Iron Mace
+1935	Iron Ingot; Silver Ingot; Mythril Ingot
+1936	Iron Ingot; Copper Ingot
+1937	Iron Ingot; Copper Ingot
+1938	(Common Leather; Fine Leather; Tough String)\(Copper Ingot; Common Leather; Fine Leather; Tough String)\n(Silver Ingot; Common Leather; Fine Leather; Tough String)\n(Gold Ingot; Common Leather; Fine Leather; Tough String)
+1939	(Fine Leather; Thin Thread Ball)\n(Copper Ingot; Fine Leather; Thin Thread Ball)\n(Silver Ingot; Fine Leather; Thin Thread Ball)\n(Gold Ingot; Fine Leather; Thin Thread Ball)
+1940	Used to make a Vales Great Sword.
+1941	Used to make an Iron Mace.
+1942	Sewing Pattern: Primitive Fox Armor (M)
+1943	Sewing Pattern: Primitive Fox Armor (F)
+1944	Sewing Pattern: Primitive Fox Gloves (M)
+1945	Sewing Pattern: Primitive Fox Gloves (F)
+1946	Sewing Pattern: Flame Patterned Leather Armor (M)
+1947	Sewing Pattern: Flame Patterned Leather Armor (F)
+1948	Sewing Pattern: Flame Patterned Leather Gloves
+1949	Sewing Pattern: Flame Patterned Leather Boots
+1950	Sewing Pattern: Flame Patterned Leather Cap
+1951	A scroll that contains instructions on how to make Primitive Fox Armor (M).
+1952	A scroll that contains instructions on how to make Primitive Fox Armor (F).
+1953	A scroll that contains instructions on how to make Primitive Fox Gloves (M).
+1954	A scroll that contains instructions on how to make Primitive Fox Gloves (F).
+1955	A scroll that contains instructions on how to make Flame Patterned Leather Armor (M).
+1956	A scroll that contains instructions on how to make Flame Patterned Leather Armor (F).
+1957	A scroll that contains instructions on how to make Flame Patterned Leather Gloves.
+1958	A scroll that contains instructions on how to make Flame Patterned Leather Boots.
+1959	A scroll that contains instructions on how to make Flame Patterned Cap.
+1960	Make Primitive Fox Armor (M)
+1961	Make Primitive Fox Armor (F)
+1962	Make Primitive Fox Gloves (M)
+1963	Make Primitive Fox Gloves (F)
+1964	Make Flame Patterned Leather Armor (M)
+1965	Make Flame Patterned Leather Armor (F)
+1966	Make Flame Patterned Leather Gloves
+1967	Make Flame Patterned Leather Boots
+1968	Make Flame Patterned Leather Cap
+1969	Finest Fabric; Finest Leather; Fine Leather
+1970	Finest Fabric; Finest Leather; Fine Leather
+1971	Fine Leather; Braid
+1972	Fine Leather; Braid
+1973	Finest Silk; Finest Leather; Fine Leather Strap
+1974	Finest Silk; Finest Leather; Fine Leather Strap
+1975	Fine Leather; Braid
+1976	Finest Leather; Braid
+1977	Finest Fabric; Finest Silk; Finest Leather
+1978	(Fine Finishing String; Tough String)
+1979	(Fine Finishing String; Tough String)
+1980	(Fine Finishing Thread)
+1981	(Finest Finishing Thread)
+1982	(Finest Finishing Thread)
+1983	(Fine Finishing Thread)
+1984	(Fine Finishing Thread; Braid)
+1985	(Fine Finishing Thread)
+1986	(Fine Finishing Thread)
+1987	Used to make Primitive Fox Armor (M).
+1988	Used to make Primitive Fox Armor (F).
+1989	Used to make Primitive Fox Glove (M).
+1990	Used to make Primitive Fox Glove (F).
+1991	Used to make Flame Patterned Leather Armor (M).
+1992	Used to make Flame Patterned Leather Armor (F).
+1993	Used to make Flame Patterned Leather Gloves.
+1994	Used to make Flame Patterned Leather Boots.
+1995	Used to make Flame Patterned Leather Cap.
+1996	Make a Battle Sword
+1997	Make a Battle Short Sword
+1998	Sewing Pattern: Bat Jacket (M)
+1999	Sewing Pattern: Bat Dress (F)
+2000	Sewing Pattern: Bat Boots
+2001	Sewing Pattern: Bat Hat
+2002	Sewing Pattern: Fur-trimmed Coat
+2003	Sewing Pattern: Fur-trimmed Dress
+2004	Sewing Pattern: Fur-trimmed Boots (M)
+2005	Sewing Pattern: Fur-trimmed Boots (F)
+2006	Sewing Pattern: Jester Robe
+2007	Sewing Pattern: Royal Striped Robe (M)
+2008	Sewing Pattern: Royal Striped Robe (F)
+2009	A scroll that contains instructions on how to make a Bat Jacket (M).
+2010	A scroll that contains instructions on how to make a Bat Jacket (F).
+2011	A scroll that contains instructions on how to make Bat Boots.
+2012	A scroll that contains instructions on how to make Bat Hat.
+2013	A scroll that contains instructions on how to make a Fur-trimmed Coat.
+2014	A scroll that contains instructions on how to make a Fur-trimmed Dress.
+2015	A scroll that contains instructions on how to make Fur-trimmed Boots (M).
+2016	A scroll that contains instructions on how to make Fur-trimmed Boots (F).
+2017	A scroll that contains instructions on how to make a Jester Robe.
+2018	A scroll that contains instructions on how to make a Royal Striped Robe (M).
+2019	A scroll that contains instructions on how to make a Royal Striped Robe (F).
+2020	Make Bat Jacket (M)
+2021	Make Bat Dress (F)
+2022	Make Bat Boots
+2023	Make Bat Hat
+2024	Make Fur-trimmed Coat
+2025	Make Fur-trimmed Dress
+2026	Make Fur-trimmed Boots (M)
+2027	Make Fur-trimmed Boots (F)
+2028	Make Jester Robe
+2029	Make Royal Striped Robe (M)
+2030	Make Royal Striped Robe (F)
+2031	Finest Fabric; Finest Silk; Fine Fabric
+2032	Finest Silk; Finest Fabric; Tough Thread
+2033	Finest Leather; Braid
+2034	Fine Fabric; Fine Silk
+2035	Finest Fabric; Finest Leather; Fine Leather
+2036	Finest Silk; Finest Leather; Fine Leather Strap
+2037	Fine Leather; Braid
+2038	Fine Leather; Braid
+2039	Fine Fabric; Common Silk; Cheap Silk
+2040	Fine Fabric; Fine Silk; Common Silk
+2041	Fine Fabric; Fine Silk; Common Silk
+2042	(Fine Finishing Thread; Tough String)
+2043	(Fine Finishing Thread; Tough String)
+2044	(Fine Finishing Thread)
+2045	(Fine Finishing Thread)
+2046	(Fine Finishing Thread)
+2047	(Fine Finishing Thread)
+2048	(Finest Finishing Thread)
+2049	(Common Finishing Thread)
+2050	(Fine Finishing Thread)
+2051	(Fine Finishing Thread)
+2052	(Fine Finishing Thread)
+2053	Used to make a Bat Jacket (M).
+2054	Used to make a Bat Dress (F).
+2055	Used to make Bat Boots.
+2056	Used to make a Bat Hat.
+2057	Used to make a Fur-trimmed Coat.
+2058	Used to make a Fur-trimmed Dress.
+2059	Used to make Fur-trimmed Boots (M).
+2060	Used to make Fur-trimmed Boots (F).
+2061	Used to make a Jester Robe.
+2062	Used to make a Royal Striped Robe (M).
+2063	Used to make a Royal Striped Robe (F).
+2064	(Finest Fabric; Finest Silk; Siren's Glasses)\n(Copper Ingot; Finest Fabric; Finest Silk; Siren's Glasses)\n(Silver Ingot; Finest Fabric; Finest Silk; Siren's Glasses)\n(Gold Ingot; Finest Fabric; Finest Silk; Siren's Glasses)
+2065	Blacksmith Manual - Masamune
+2066	Blacksmith Manual - Muramasa
+2067	Blacksmith Manual - Yoshimitsu
+2068	Blacksmith Manual - Claus Knight Armor
+2069	Blacksmith Manual - Basil Gimlet Armor
+2070	Blacksmith Manual - Claus Knight Gauntlets
+2071	Blacksmith Manual - Basil Gimlet Gauntlets
+2072	Blacksmith Manual - Claus Knight Boots
+2073	Blacksmith Manual - Basil Gimlet Greaves
+2074	A scroll that contains instructions on how to craft a Masamune.
+2075	A scroll that contains instructions on how to craft a Muramasa.
+2076	A scroll that contains instructions on how to craft a Yoshimitsu.
+2077	A scroll that contains instructions on how to craft Claus Knight Armor.
+2078	A scroll that contains instructions on how to craft Basil Gimlet Armor.
+2079	A scroll that contains instructions on how to craft Claus Knight Gauntlets.
+2080	A scroll that contains instructions on how to craft Basil Gimlet Gauntlets.
+2081	A scroll that contains instructions on how to craft Claus Knight Boots.
+2082	A scroll that contains instructions on how to craft Basil Gimlet Greaves.
+2083	Craft Masamune
+2084	Craft Muramasa
+2085	Craft Yoshimitsu
+2086	Craft Claus Knight Armor
+2087	Craft Basil Gimlet Armor
+2088	Craft Claus Knight Gauntlets
+2089	Craft Basil Gimlet Gauntlets
+2090	Craft Claus Knight Boots
+2091	Craft Basil Gimlet Greaves
+2092	Iron Ingot; Finest Leather Strap; Braid
+2093	Iron Ingot; Finest Leather Strap; Braid
+2094	Iron Ingot; Finest Leather Strap; Braid
+2095	Iron Ingot; Fine Leather Strap
+2096	Iron Ingot; Fine Leather Strap
+2097	Iron Ingot; Fine Leather Strap
+2098	Iron Ingot; Fine Leather Strap
+2099	Iron Ingot; Common Leather Strap
+2100	Iron Ingot; Common Leather Strap
+2101	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+2102	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+2103	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+2104	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+2105	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+2106	(Common Leather; Tough String; Braid)\n(Copper Ingot; Common Leather; Tough String; Braid)\n(Silver Ingot; Common Leather; Tough String; Braid)\n(Gold Ingot; Common Leather; Tough String; Braid)
+2107	(Common Leather; Tough String; Braid)\n(Copper Ingot; Common Leather; Tough String; Braid)\n(Silver Ingot; Common Leather; Tough String; Braid)\n(Gold Ingot; Common Leather; Tough String; Braid)
+2108	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+2109	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+2110	Used to make a Masamune.
+2111	Used to make a Muramasa.
+2112	Used to make a Yoshimitsu.
+2113	Used to make Claus Knight Armor.
+2114	Used to make Basil Gimlet Armor.
+2115	Used to make Claus Knight Gauntlets.
+2116	Used to make Basil Gimlet Gauntlets.
+2117	Used to make Claus Knight Boots.
+2118	Used to make Basil Gimlet Greaves.
+2119	Sewing Pattern - Bolero and Jumper Skirt
+2120	Sewing Pattern - Apron Dress
+2121	Sewing Pattern - Grace Shawl Dress
+2122	Sewing Pattern - Elegant Gothic Dress (Long)
+2123	Sewing Pattern - Elegant Gothic Dress (Short)
+2124	Sewing Pattern - Elegant Gothic Suit
+2125	Sewing Pattern - Maid Dress (Short)
+2126	Sewing Pattern - Maid Dress (Long)
+2127	Sewing Pattern - Butler's Suit
+2128	Sewing Pattern - Maid's Headpiece
+2129	Sewing Pattern - Terra Gothic Full Dress
+2130	Sewing Pattern - Terra Gothic Suit
+2131	Sewing Pattern - Kitty Hand Gloves
+2132	Sewing Pattern - Large Ribbon
+2133	Sewing Pattern - Eyepatch
+2134	Sewing Pattern - Cowboy Hat
+2135	Sewing Pattern - Archeress School Wear
+2136	Sewing Pattern - Bonita Silky Dress
+2137	Sewing Pattern - Trudy Vintage Wear
+2138	Sewing Pattern - Bonita Silky Glove
+2139	Sewing Pattern - Trudy Button Gloves
+2140	Sewing Pattern - Bonita Plumed Ankle Boots
+2141	Sewing Pattern - Trudy Shoes
+2142	Sewing Pattern - Bonita Twin Ribbon
+2143	Sewing Pattern - Trudy Vintage Turban
+2144	Sewing Pattern - Bianca Wing Bolero
+2145	Sewing Pattern - Astin Dashing Suit
+2146	Sewing Pattern - Bianca Long Gloves
+2147	Sewing Pattern - Astin Gloves
+2148	Sewing Pattern - Bianca Ribbon Boots
+2149	Sewing Pattern - Astin Shoes
+2150	Sewing Pattern - Bianca Cap
+2151	Sewing Pattern - Astin Cap
+2152	A scroll that contains instructions on how to craft a Bolero and Jumper Skirt.
+2153	A scroll that contains instructions on how to craft an Apron Dress.
+2154	A scroll that contains instructions on how to craft a Grace Shawl Dress.
+2155	A scroll that contains instructions on how to craft an Elegant Gothic Dress (Long).
+2156	A scroll that contains instructions on how to craft an Elegant Gothic Dress (Short).
+2157	A scroll that contains instructions on how to craft an Elegant Gothic Suit.
+2158	A scroll that contains instructions on how to craft a Maid Dress (Short).
+2159	A scroll that contains instructions on how to craft a Maid Dress (Long).
+2160	A scroll that contains instructions on how to craft a Butler's Suit.
+2161	A scroll that contains instructions on how to craft a Maid's Headpiece.
+2162	A scroll that contains instructions on how to craft a Terra Gothic Full Dress.
+2163	A scroll that contains instructions on how to craft a Terra Gothic Suit.
+2164	A scroll that contains instructions on how to craft Kitty Hand Gloves.
+2165	A scroll that contains instructions on how to craft a Large Ribbon.
+2166	A scroll that contains instructions on how to craft an Eyepatch.
+2167	A scroll that contains instructions on how to craft a Cowboy Hat.
+2168	A scroll that contains instructions on how to craft an Archeress School Wear.
+2169	A scroll that contains instructions on how to craft a Bonita Silky Dress.
+2170	A scroll that contains instructions on how to craft a Trudy Vintage Wear.
+2171	A scroll that contains instructions on how to craft a Bonita Silky Glove.
+2172	A scroll that contains instructions on how to craft Trudy Button Gloves.
+2173	A scroll that contains instructions on how to craft Bonita Plumed Ankle Boots.
+2174	A scroll that contains instructions on how to craft Trudy Shoes.
+2175	A scroll that contains instructions on how to craft a Bonita Twin Ribbon.
+2176	A scroll that contains instructions on how to craft a Trudy Vintage Turban.
+2177	A scroll that contains instructions on how to craft a Bianca Wing Bolero.
+2178	A scroll that contains instructions on how to craft a Astin Dashing Suit.
+2179	A scroll that contains instructions on how to craft Bianca Long Gloves.
+2180	A scroll that contains instructions on how to craft Astin Gloves.
+2181	A scroll that contains instructions on how to craft a Bianca Ribbon Boots.
+2182	A scroll that contains instructions on how to craft Astin Shoes.
+2183	A scroll that contains instructions on how to craft a Bianca Cap.
+2184	A scroll that contains instructions on how to craft an Astin Cap.
+2185	Make a Bolero and Jumper Skirt.
+2186	Make an Apron Dress.
+2187	Make a Grace Shawl Dress.
+2188	Make an Elegant Gothic Dress (Long).
+2189	Make an Elegant Gothic Dress (Short).
+2190	Make an Elegant Gothic Suit.
+2191	Make a Maid Dress (Short).
+2192	Make a Maid Dress (Long).
+2193	Make a Butler's Suit.
+2194	Make a Maid's Headpiece.
+2195	Make a Terra Gothic Full Dress.
+2196	Make a Terra Gothic Suit.
+2197	Make Kitty Hand Gloves.
+2198	Make a Large Ribbon.
+2199	Make an Eyepatch.
+2200	Make a Cowboy Hat.
+2201	Make an Archeress School Wear.
+2202	Make a Bonita Silky Dress.
+2203	Make a Trudy Vintage Wear.
+2204	Make a Bonita Silky Glove.
+2205	Make Trudy Button Gloves.
+2206	Make Bonita Plumed Ankle Boots.
+2207	Make Trudy Shoes.
+2208	Make a Bonita Twin Ribbon.
+2209	Make a Trudy Vintage Turban.
+2210	Make a Bianca Wing Bolero.
+2211	Make a Astin Dashing Suit.
+2212	Make Bianca Long Gloves.
+2213	Make Astin Gloves.
+2214	Make a Bianca Ribbon Boots.
+2215	Make Astin Shoes.
+2216	Make a Bianca Cap.
+2217	Make an Astin Cap.
+2218	Finest Fabric; Finest Silk; Fine Fabric
+2219	Finest Fabric; Finest Silk; Fine Fabric
+2220	Finest Fabric; Finest Silk; Fine Fabric
+2221	Finest Fabric; Finest Silk; Fine Fabric; Tough Thread
+2222	Finest Fabric; Finest Silk; Fine Fabric; Tough Thread
+2223	Finest Fabric; Finest Silk; Fine Fabric; Tough Thread
+2224	Finest Fabric; Finest Silk; Fine Fabric; Tough Thread
+2225	Finest Fabric; Finest Silk; Fine Fabric; Tough Thread
+2226	Finest Fabric; Finest Silk; Fine Fabric; Tough Thread
+2227	Fine Fabric; Fine Silk
+2228	Finest Fabric; Finest Silk; Finest Leather
+2229	Finest Fabric; Finest Silk; Finest Leather
+2230	Fine Leather; Braid
+2231	Fine Fabric; Fine Silk
+2232	Fine Fabric; Fine Silk
+2233	Fine Leather; Braid
+2234	Finest Fabric; Finest Silk; Finest Leather
+2235	Finest Fabric; Finest Silk; Fine Fabric
+2236	Finest Fabric; Finest Silk; Fine Fabric
+2237	Fine Fabric; Fine Silk
+2238	Fine Leather; Braid
+2239	Fine Leather; Braid
+2240	Fine Leather; Braid
+2241	Fine Fabric; Fine Silk
+2242	Fine Fabric; Fine Silk
+2243	Fine Fabric; Fine Silk; Common Silk
+2244	Fine Fabric; Fine Silk; Common Silk
+2245	Finest Fabric; Finest Silk
+2246	Finest Fabric; Finest Silk
+2247	Finest Fabric; Finest Silk
+2248	Finest Fabric; Finest Silk
+2249	Finest Fabric; Finest Silk
+2250	Finest Fabric; Finest Silk
+2251	(Finest Finishing Thread; Braid)
+2252	(Finest Finishing Thread; Braid)
+2253	(Finest Finishing Thread; Braid)
+2254	(Finest Finishing Thread; Braid)
+2255	(Finest Finishing Thread; Braid)
+2256	(Finest Finishing Thread; Braid)
+2257	(Finest Finishing Thread; Braid)
+2258	(Finest Finishing Thread; Braid)
+2259	(Fine Finishing Thread; Tough String)
+2260	(Fine Finishing Thread; Tough String)
+2261	(Fine Finishing Thread; Tough String)
+2262	(Fine Finishing Thread; Tough String)
+2263	(Fine Finishing Thread; Tough String)
+2264	(Finest Finishing Thread)
+2265	(Finest Finishing Thread)
+2266	(Fine Finishing Thread; Tough String)
+2267	(Fine Finishing Thread; Tough String)
+2268	(Fine Finishing Thread; Tough String)
+2269	(Fine Finishing Thread; Tough String)
+2270	(Fine Finishing Thread; Tough String)
+2271	(Fine Finishing Thread; Tough String)
+2272	(Finest Finishing Thread)
+2273	(Finest Finishing Thread)
+2274	(Fine Finishing Thread; Tough String)
+2275	(Fine Finishing Thread; Tough String)
+2276	(Fine Finishing Thread; Tough String)
+2277	(Fine Finishing Thread; Tough String)
+2278	(Fine Finishing Thread; Tough String)
+2279	(Fine Finishing Thread; Tough String)
+2280	(Finest Finishing Thread)
+2281	(Finest Finishing Thread)
+2282	(Finest Finishing Thread)
+2283	(Finest Finishing Thread; Braid)
+2284	Used to make a Bolero and Jumper Skirt.
+2285	Used to make an Apron Dress.
+2286	Used to make a Grace Shawl Dress.
+2287	Used to make an Elegant Gothic Dress (Long).
+2288	Used to make an Elegant Gothic Dress (Short).
+2289	Used to make an Elegant Gothic Suit.
+2290	Used to make a Maid Dress (Short).
+2291	Used to make a Maid Dress (Long).
+2292	Used to make a Butler's Suit.
+2293	Used to make a Maid's Headpiece.
+2294	Used to make a Terra Gothic Full Dress.
+2295	Used to make a Terra Gothic Suit.
+2296	Used to make Kitty Hand Gloves.
+2297	Used to make a Large Ribbon.
+2298	Used to make an Eyepatch.
+2299	Used to make a Cowboy Hat.
+2300	Used to make an Archeress School Wear.
+2301	Used to make a Bonita Silky Dress.
+2302	Used to make a Trudy Vintage Wear.
+2303	Used to make a Bonita Silky Glove.
+2304	Used to make Trudy Button Gloves.
+2305	Used to make Bonita Plumed Ankle Boots.
+2306	Used to make Trudy Shoes.
+2307	Used to make a Bonita Twin Ribbon.
+2308	Used to make a Trudy Vintage Turban.
+2309	Used to make a Bianca Wing Bolero.
+2310	Used to make a Astin Dashing Suit.
+2311	Used to make Bianca Long Gloves.
+2312	Used to make Astin Gloves.
+2313	Used to make a Bianca Ribbon Boots.
+2314	Used to make Astin Shoes.
+2315	Used to make a Bianca Cap.
+2316	Used to make an Astin Cap.
+2317	(Common Leather; Fine Leather; Braid)\n(Copper Ingot; Common Leather; Fine Leather; Braid)\n(Silver Ingot; Common Leather; Fine Leather; Braid)\n(Gold Ingot; Common Leather; Fine Leather; Braid)
+2318	(Common Leather; Fine Leather; Braid)\n(Copper Ingot; Common Leather; Fine Leather; Braid)\n(Silver Ingot; Common Leather; Fine Leather; Braid)\n(Gold Ingot; Common Leather; Fine Leather; Braid)
+2319	Sewing Pattern - Casual Cross-Stitch Dress
+2320	Sewing Pattern - Romantic Gothic Suit
+2321	A scroll that contains instructions on how to craft Casual Cross-Stitch Dress.
+2322	A scroll that contains instructions on how to craft Romantic Gothic Suit.
+2323	Make Casual Cross-Stitch Dress
+2324	Make Romantic Gothic Suit
+2325	Fine Fabric; Fine Silk
+2326	Finest Fabric; Finest Silk
+2327	(Fine Finishing Thread; Tough String)
+2328	(Fine Finishing Thread; Tough String)
+2329	Used to make Casual Cross-Stitch Dress.
+2330	Used to make Romantic Gothic Suit.
+2331	Sewing Pattern - Lace Layered Skirt
+2332	Sewing Pattern - Vivid Casual Suit
+2334	A scroll that contains instructions on how to craft a Lace Layered Skirt.
+2335	A scroll that contains instructions on how to craft a Vivid Casual Suit.
+2337	Make a Lace Layered Skirt
+2338	Make a Vivid Casual Suit
+2340	Finest Fabric; Finest Silk; Fine Fabric; Tough Thread; Fine Leather Strap
+2341	Finest Fabric; Finest Silk; Tough Thread
+2342	Fine Leather; Braid
+2343	(Finest Finishing Thread; Braid)
+2346	Used to make a Lace Layered Skirt.
+2347	Used to make a Vivid Casual Suit.
+2349	Sewing Pattern - Vivid Casual Shoes
+2350	A scroll that contains instructions on how to craft Vivid Casual Shoes
+2351	Make Vivid Casual Shoes
+2352	Used to make Vivid Casual Shoes.
+2353	(Finest Finishing Thread)
+2354	(Finest Finishing Thread; Braid)
+2355	옷본 - 나쿠루 드래곤 문양 마법사 로브(남)
+2356	옷본 - 나쿠루 드래곤 문양 마법사 로브(여)
+2357	옷본 - 에메랄드 켈틱 패턴 수트(남)
+2358	옷본 - 에메랄드 켈틱 패턴 수트(여)
+2359	옷본 - 에메랄드 켈틱 패턴 모자
+2360	옷본 - 에메랄드 켈틱 패턴 헤어밴드
+2361	옷본 - 에메랄드 켈틱 패턴 신발
+2362	옷본 - 에메랄드 켈틱 패턴 부츠
+2363	남성용 나쿠루 드래곤 문양 마법사 로브를 만들 수 있는 전개도가 그려져 있는 두루마리
+2364	여성용 나쿠루 드래곤 문양 마법사 로브를 만들 수 있는 전개도가 그려져 있는 두루마리
+2365	남성용 에메랄드 켈틱 패턴 수트를 만들 수 있는 전개도가 그려져 있는 두루마리
+2366	여성용 에메랄드 켈틱 패턴 수트를 만들 수 있는 전개도가 그려져 있는 두루마리
+2367	에메랄드 켈틱 패턴 모자를 만들 수 있는 전개도가 그려져 있는 두루마리
+2368	에메랄드 켈틱 패턴 헤어밴드를 만들 수 있는 전개도가 그려져 있는 두루마리
+2369	에메랄드 켈틱 패턴 신발을 만들 수 있는 전개도가 그려져 있는 두루마리
+2370	에메랄드 켈틱 패턴 부츠를 만들 수 있는 전개도가 그려져 있는 두루마리
+2371	남성용 나쿠루 드래곤 문양 마법사 로브 만들기
+2372	나쿠루 드래곤 문양 마법사 로브 만들기
+2373	남성용 에메랄드 켈틱 패턴 수트 만들기
+2374	여성용 에메랄드 켈틱 패턴 수트 만들기
+2375	에메랄드 켈틱 패턴 모자 만들기
+2376	에메랄드 켈틱 패턴 헤어밴드 만들기
+2377	에메랄드 켈틱 패턴 신발 만들기
+2378	에메랄드 켈틱 패턴 부츠 만들기
+2379	최고급 실크;고급 옷감;최고급 가죽
+2380	최고급 실크;고급 옷감;최고급 가죽
+2383	최고급 옷감;일반 가죽
+2384	최고급 실크;고급 옷감
+2385	일반 옷감;일반 가죽
+2386	일반 옷감;일반 가죽
+2387	(최고급 마감용 실))
+2388	(Common Finishing Thread)
+2389	(Common Finishing Thread)
+2390	(Common Finishing Thread)
+2391	(Finest Finishing Thread)
+2392	(Common Finishing Thread)
+2393	(Fine Finishing Thread)
+2394	(Fine Finishing Thread)
+2395	남성용 나쿠루 드래곤 문양 마법사 로브를 만들 수 있다.
+2396	여성용 나쿠루 드래곤 문양 마법사 로브를 만들 수 있다.
+2397	남성용 에메랄드 켈틱 패턴 수트를 만들 수 있다.
+2398	여성용 에메랄드 켈틱 패턴 수트를 만들 수 있다.
+2399	에메랄드 켈틱 패턴 모자를 만들 수 있다.
+2400	에메랄드 켈틱 패턴 헤어밴드를 만들 수 있다.
+2401	에메랄드 켈틱 패턴 신발을 만들 수 있다.
+2402	에메랄드 켈틱 패턴 부츠를 만들 수 있다.
+2403	고급 실크;최고급 옷감;일반 가죽
+2404	고급 실크;최고급 옷감;일반 가죽
+2405	옷본 - 아라시 익스퀴짓 아머(남)
+2406	옷본 - 아라시 익스퀴짓 아머(여)
+2407	옷본 - 아라시 익스퀴짓 아머(자이언트 남)
+2408	옷본 - 아라시 익스퀴짓 아머(자이언트 여)
+2409	도면 - 아라시 익스퀴짓 헬름
+2410	도면 - 아라시 익스퀴짓 건틀렛(남)
+2414	도면 - 아라시 익스퀴짓 그리브(남)
+2415	도면 - 아라시 익스퀴짓 그리브(여)
+2416	남성용 아라시 익스퀴짓 아머를 만들 수 있는 전개도가 그려져 있는 두루마리
+2417	여성용 아라시 익스퀴짓 아머를 만들 수 있는 전개도가 그려져 있는 두루마리
+2418	자이언트 남성용 아라시 익스퀴짓 아머를 만들 수 있는 전개도가 그려져 있는 두루마리
+2419	자이언트 여성용 아라시 익스퀴짓 아머를 만들 수 있는 전개도가 그려져 있는 두루마리
+2420	아라시 익스퀴짓 헬름을 만들 수 있는 전개도가 그려져 있는 두루마리
+2421	남성용 아라시 익스퀴짓 건틀렛을 만들 수 있는 전개도가 그려져 있는 두루마리
+2425	남성용 아라시 익스퀴짓 그리브를 만들 수 있는 전개도가 그려져 있는 두루마리
+2426	여성용 아라시 익스퀴짓 그리브를 만들 수 있는 전개도가 그려져 있는 두루마리
+2427	남성용 아라시 익스퀴짓 아머 만들기
+2428	여성용 아라시 익스퀴짓 아머 만들기
+2429	자이언트 남성용 아라시 익스퀴짓 아머 만들기
+2430	자이언트 여성용 아라시 익스퀴짓 아머 만들기
+2431	아라시 익스퀴짓 헬름 만들기
+2432	남성용 아라시 익스퀴짓 건틀렛 만들기
+2436	남성용 아라시 익스퀴짓 그리브 만들기
+2437	여성용 아라시 익스퀴짓 그리브 만들기
+2438	고급 가죽;최고급 옷감;질긴끈
+2439	고급 가죽;최고급 옷감;질긴끈
+2440	고급 가죽;최고급 옷감;질긴끈
+2441	고급 가죽;최고급 옷감;질긴끈
+2442	철괴;매듭끈
+2444	철괴;고급 가죽끈;일반 가죽
+2447	철괴;일반 가죽;매듭끈
+2448	철괴;일반 가죽;매듭끈
+2452	(Fine Finishing Thread)
+2453	(Fine Silk)\n(Copper Ingot; Fine Silk)\n(Silver Ingot; Fine Silk)\n(Gold Ingot; Fine Silk)
+2458	(Common Fabric)\n(Copper Ingot; Common Fabric)\n(Silver Ingot; Common Fabric)\n(Gold Ingot; Common Fabric)
+2459	(Common Fabric)\n(Copper Ingot; Common Fabric)\n(Silver Ingot; Common Fabric)\n(Gold Ingot; Common Fabric)
+2460	남성용 아라시 익스퀴짓 아머를 만들 수 있다.
+2462	자이언트 남성용 아라시 익스퀴짓 아머를 만들 수 있다.
+2463	자이언트 여성용 아라시 익스퀴짓 아머를 만들 수 있다.
+2464	아라시 익스퀴짓 헬름을 만들 수 있다.
+2465	남성용 아라시 익스퀴짓 건틀렛을 만들 수 있다.
+2469	남성용 아라시 익스퀴짓 그리브를 만들 수 있다.
+2470	여성용 아라시 익스퀴짓 그리브를 만들 수 있다.
+2491	(고급실크)\n(동괴; 고급실크)\n(은괴; 고급실크)\n(금괴; 고급실크)
+2492	도면 - 아라시 익스퀴짓 건틀렛(여)
+2493	도면 - 아라시 익스퀴짓 건틀렛(자이언트 남)
+2494	도면 - 아라시 익스퀴짓 건틀렛(자이언트 여)
+2495	여성용 아라시 익스퀴짓 건틀렛을 만들 수 있는 전개도가 그려져 있는 두루마리
+2496	자이언트 남성용 아라시 익스퀴짓 건틀렛을 만들 수 있는 전개도가 그려져 있는 두루마리
+2497	자이언트 여성용 아라시 익스퀴짓 건틀렛을 만들 수 있는 전개도가 그려져 있는 두루마리
+2498	여성용 아라시 익스퀴짓 건틀렛 만들기
+2499	자이언트 남성용 아라시 익스퀴짓 건틀렛 만들기
+2500	자이언트 여성용 아라시 익스퀴짓 건틀렛 만들기
+2501	철괴;고급 가죽끈;일반 가죽
+2502	철괴;고급 가죽끈;일반 가죽
+2503	철괴;고급 가죽끈;일반 가죽
+2504	(Fine Silk)\n(Copper Ingot; Fine Silk)\n(Silver Ingot; Fine Silk)\n(Gold Ingot; Fine Silk)
+2505	(Fine Silk)\n(Copper Ingot; Fine Silk)\n(Silver Ingot; Fine Silk)\n(Gold Ingot; Fine Silk)
+2506	(Fine Silk)\n(Copper Ingot; Fine Silk)\n(Silver Ingot; Fine Silk)\n(Gold Ingot; Fine Silk)
+2507	여성용 아라시 익스퀴짓 건틀렛을 만들 수 있다.
+2508	자이언트 남성용 아라시 익스퀴짓 건틀렛을 만들 수 있다.
+2509	자이언트 여성용 아라시 익스퀴짓 건틀렛을 만들 수 있다.
+2510	(Fine Finishing Thread)
+2511	(Fine Finishing Thread)
+2512	(Fine Finishing Thread)
+2513	여성용 아라시 익스퀴짓 아머를 만들 수 있다.
+2514	Sewing Pattern - Iron Pyramid Wristband
+2515	Sewing Pattern - Pearl Shine Bracelet
+2516	Sewing Pattern - Iris Headdress
+2517	Sewing Pattern - Rubber Goggles
+2518	Sewing Pattern - Iris Nightcap
+2519	Sewing Pattern - Stitched Mask
+2520	Sewing Pattern - Pearl Shine Drops
+2521	Sewing Pattern - Romantic Evening Dress
+2522	Sewing Pattern - Romantic Tailcoat
+2523	Sewing Pattern - Enamel Pumps
+2524	Sewing Pattern - Classic Shoes
+2525	A scroll that contains instructions on how to craft an Iron Pyramid Wristband.
+2526	A scroll that contains instructions on how to craft a Pearl Shine Bracelet.
+2527	A scroll that contains instructions on how to craft an Iris Headdress.
+2528	A scroll that contains instructions on how to craft a Rubber Goggles.
+2529	A scroll that contains instructions on how to craft an Iris Nightcap.
+2530	A scroll that contains instructions on how to craft a Stitched Mask.
+2531	A scroll that contains instructions on how to craft Pearl Shine Drops.
+2532	A scroll that contains instructions on how to craft a Romantic Evening Dress.
+2533	A scroll that contains instructions on how to craft a Romantic Tailcoat.
+2534	A scroll that contains instructions on how to craft a Enamel Pumps.
+2535	A scroll that contains instructions on how to craft a Classic Shoes.
+2536	Make an Iron Pyramid Wristband.
+2537	Make a Pearl Shine Bracelet.
+2538	Make an Iris Headdress.
+2539	Make a Rubber Goggles.
+2540	Make an Iris Nightcap.
+2541	Make a Stitched Mask.
+2542	Make Pearl Shine Drops.
+2543	Make a Romantic Evening Dress.
+2544	Make a Romantic Tailcoat.
+2545	Make an Enamel Pumps.
+2546	Make a Classic Shoes.
+2547	Fine Fabric; Common Leather; Metal Sheet
+2549	Finest Silk; Fine Silk; Finest Fabric
+2550	Tough Thread; Braid; Fine Leather
+2551	Finest Fabric; Common Fabric; Fine Silk
+2552	Finest Fabric; Fine Fabric; Common Fabric
+2554	Fine Fabric; Finest Silk; Common Silk
+2555	Finest Fabric; Fine Fabric; Fine Silk
+2556	Fine Silk; Fine Leather; Tough Thread
+2557	Fine Silk; Fine Fabric; Common Leather
+2558	(Finest Finishing Thread; Tough String)
+2559	(Finest Finishing Thread; Tough String)
+2560	(Fine Finishing Thread; Braid)
+2561	(Fine Finishing Thread; Braid)
+2563	(Finest Finishing Thread; Braid)
+2564	(Common Finishing Thread; Tough String)
+2565	(Finest Finishing Thread)
+2566	(Finest Finishing Thread)
+2567	(Common Finishing Thread)
+2568	(Finest Finishing Thread; Braid)
+2569	Used to make an Iron Pyramid Wristband.
+2570	Used to make a Pearl Shine Bracelet.
+2571	Used to make an Iris Headdress.
+2572	Used to make Rubber Goggles.
+2573	Used to make an Iris Nightcap.
+2574	Used to make a Stitched Mask.
+2575	Used to make Pearl Shine Drops.
+2576	Used to make a Romantic Evening Dress.
+2577	Used to make a Romantic Tailcoat.
+2578	Used to make Enamel Pumps.
+2579	Used to make Classic Shoes.
+2580	Fine Fabric; Braid; Finest Silk
+2581	Finest Silk; Fine Silk; Braid
+2582	(Finest Finishing Thread)
+2583	옷본 - 버섯버섯 로브
+2584	Sewing Pattern - Walrus Robe (Male Giant)
+2585	Sewing Pattern - Walrus Robe (Female Giant)
+2586	버섯버섯 로브를 만들 수 있는 전개도가 그려져 있는 두루마리
+2587	A scroll that contains instructions for crafting a Walrus Robe.
+2588	A scroll that contains instructions for crafting a Walrus Robe.
+2589	버섯버섯 로브 만들기
+2590	Making a Walrus Robe
+2591	Making a Walrus Robe
+2592	최고급 옷감;고급 옷감;일반 옷감
+2593	고급 가죽;최고급 옷감;질긴끈
+2594	고급 가죽;최고급 옷감;질긴끈
+2595	(Common Finishing Thread)
+2596	(Common Finishing Thread)
+2597	(Fine Finishing Thread)
+2598	버섯버섯 로브를 만들 수 있다.
+2599	Used to make a Walrus Robe.
+2600	Used to make a Walrus Robe.
+2601	Blacksmith Manual - Viseo's Bronze Mirror Blade
+2602	A scroll that contains instructions on how to craft Viseo's Bronze Mirror Blade.
+2603	Craft Viseo's Bronze Mirror Blade
+2604	Iron Ingot; Copper Ingot; Mythril Ingot; Fine Leather Strap; Braid
+2605	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+2606	Used to make Viseo's Bronze Mirror Blade
+2607	Sewing Pattern - Clover Pig Hat
+2608	Sewing Pattern - Traveler's Bolero Bandana (F)
+2609	Sewing Pattern - Traveler's Bolero Bandana (M)
+2610	Sewing Pattern - Clover Pig Costume (F)
+2611	Sewing Pattern - Clover Pig Costume (M)
+2612	Sewing Pattern - Traveler's Bolero Outfit (Giant Female)
+2613	Sewing Pattern - Traveler's Bolero Outfit (Giant Male)
+2614	Sewing Pattern - Traveler's Bolero Shoes (Giant Female)
+2615	Sewing Pattern - Traveler's Bolero Shoes (Giant Male)
+2616	A scroll that contains instructions on how to craft a Clover Pig Hat.
+2617	A scroll that contains instructions on how to craft a Traveler's Bolero Bandana.
+2618	A scroll that contains instructions on how to craft a Traveler's Bolero Bandana.
+2619	A scroll that contains instructions on how to craft a Clover Pig Costume.
+2620	A scroll that contains instructions on how to craft a Clover Pig Costume.
+2621	A scroll that contains instructions on how to craft a Traveler's Bolero Outfit.
+2622	A scroll that contains instructions on how to craft a Traveler's Bolero Outfit.
+2623	A scroll that contains instructions on how to craft Traveler's Bolero Shoes.
+2624	A scroll that contains instructions on how to craft Traveler's Bolero Shoes.
+2625	Make a Clover Pig Hat
+2626	Make a Traveler's Bolero Bandana
+2627	Make a Traveler's Bolero Bandana
+2628	Make a Clover Pig Costume
+2629	Make a Clover Pig Costume
+2630	Make a Traveler's Bolero Outfit
+2631	Make a Traveler's Bolero Outfit
+2632	Make Traveler's Bolero Shoes
+2633	Make Traveler's Bolero Shoes
+2634	Fine Leather; Finest Fabric; Tough String
+2635	Fine Fabric; Braid; Finest Silk
+2636	Fine Fabric; Braid; Finest Silk
+2637	Finest Silk; Fine Fabric; Finest Leather
+2638	Finest Silk; Fine Fabric; Finest Leather
+2639	Finest Silk; Fine Silk; Finest Fabric
+2640	Finest Silk; Fine Silk; Finest Fabric
+2641	Fine Silk; Fine Fabric; Common Leather
+2642	Fine Silk; Fine Fabric; Common Leather
+2643	(Fine Finishing Thread; Braid)
+2644	(Finest Finishing Thread)
+2645	(Finest Finishing Thread)
+2646	(Finest Finishing Thread)
+2647	(Finest Finishing Thread)
+2648	(Finest Finishing Thread)
+2649	(Finest Finishing Thread)
+2650	(Fine Finishing Thread)
+2651	(Fine Finishing Thread)
+2652	Used to make a Clover Pig Hat.
+2653	Used to make a Traveler's Bolero Bandana.
+2654	Used to make a Traveler's Bolero Bandana.
+2655	Used to make a Clover Pig Costume.
+2656	Used to make a Clover Pig Costume.
+2657	Used to make a Traveler's Bolero Outfit.
+2658	Used to make a Traveler's Bolero Outfit.
+2659	Used to make Traveler's Bolero Shoes.
+2660	Used to make Traveler's Bolero Shoes.
+2661	Make a Vivid Casual Suit
+2662	옷본 - 엘레건트 라멜러 갑옷 (남)
+2663	옷본 - 엘레건트 라멜러 갑옷 (여)
+2664	옷본 - 엘레건트 라멜러 글러브
+2665	옷본 - 엘레건트 라멜러 부츠
+2666	옷본 - 엘레건트 라멜러 헬멧
+2667	도면 - 하프 가드 레더 아머 (자이언트 남)
+2668	도면 - 하프 가드 레더 아머 (자이언트 여)
+2669	도면 - 하프 가더 레더 건틀렛 (자이언트 남)
+2670	도면 - 하프 가더 레더 건틀렛 (자이언트 여)
+2671	도면 - 하프 가더 레더 그리브 (자이언트 남)
+2672	도면 - 하프 가더 레더 그리브 (자이언트 여)
+2673	엘레건트 라멜러 갑옷을 만들 수 있는 전개도가 그려져 있는 두루마리
+2674	엘레건트 라멜러 갑옷을 만들 수 있는 전개도가 그려져 있는 두루마리
+2675	엘레건트 라멜러 글러브를 만들 수 있는 전개도가 그려져 있는 두루마리
+2676	엘레건트 라멜러 부츠를 만들 수 있는 전개도가 그려져 있는 두루마리
+2677	엘레건트 라멜러 헬멧를 만들 수 있는 전개도가 그려져 있는 두루마리
+2678	자이언트 남성용 하프 가더 레더 아머를 만들 수 있는 전개도가 그려져 있는 두루마리
+2679	자이언트 여성용 하프 가더 레더 아머를 만들 수 있는 전개도가 그려져 있는 두루마리
+2680	자이언트 남성용 하프 가더 레더 건틀렛을 만들 수 있는 전개도가 그려져 있는 두루마리
+2681	자이언트 여성용 하프 가더 레더 건틀렛을 만들 수 있는 전개도가 그려져 있는 두루마리
+2682	자이언트 남성용 하프 가더 레더 그리브를 만들 수 있는 전개도가 그려져 있는 두루마리
+2683	자이언트 남성용 하프 가더 레더 그리브를 만들 수 있는 전개도가 그려져 있는 두루마리
+2684	엘레건트 라멜러 갑옷 만들기
+2685	엘레건트 라멜러 갑옷 만들기
+2686	엘레건트 라멜러 글러브 만들기
+2687	엘레건트 라멜러 부츠 만들기
+2688	엘레건트 라멜러 헬멧 만들기
+2689	하프 가더 레더 아머 만들기
+2690	하프 가더 레더 아머 만들기
+2691	하프 가더 레더 건틀렛 만들기
+2692	하프 가더 레더 건틀렛 만들기
+2693	하프 가더 레더 그리브 만들기
+2694	하프 가더 레더 그리브 만들기
+2695	최고급 가죽; 고급 가죽; 질긴끈
+2696	최고급 가죽; 고급 가죽; 질긴끈
+2697	최고급 가죽; 질긴끈
+2698	최고급 가죽; 질긴끈
+2699	최고급 가죽; 고급 가죽; 질긴끈
+2700	철괴; 일반 가죽; 매듭끈
+2701	철괴; 일반 가죽; 매듭끈
+2702	철괴; 일반 가죽; 매듭끈
+2703	철괴; 일반 가죽; 매듭끈
+2704	철괴; 일반 가죽; 매듭끈
+2705	철괴; 일반 가죽; 매듭끈
+2706	(일반 마감용 실; 질긴 끈)
+2707	(일반 마감용 실; 질긴 끈)
+2708	(질긴 끈)
+2709	(질긴 끈)
+2710	(일반 마감용 실; 질긴 끈)
+2711	(최고급 가죽; 질긴끈)\n(동괴; 최고급 가죽; 질긴끈)\n(은괴; 최고급 가죽; 질긴끈)\n(금괴; 최고급 가죽; 질긴끈)
+2712	(최고급 가죽; 질긴끈)\n(동괴; 최고급 가죽; 질긴끈)\n(은괴; 최고급 가죽; 질긴끈)\n(금괴; 최고급 가죽; 질긴끈)
+2713	(일반 가죽;고급 가죽; 질긴끈)\n(동괴; 일반 가죽;고급 가죽; 질긴끈)\n(은괴; 일반 가죽;고급 가죽; 질긴끈)\n(금괴; 일반 가죽;고급 가죽; 질긴끈)
+2714	(일반 가죽;고급 가죽; 질긴끈)\n(동괴; 일반 가죽;고급 가죽; 질긴끈)\n(은괴; 일반 가죽;고급 가죽; 질긴끈)\n(금괴; 일반 가죽;고급 가죽; 질긴끈)
+2715	(일반 가죽;고급 가죽; 질긴끈)\n(동괴; 일반 가죽;고급 가죽; 질긴끈)\n(은괴; 일반 가죽;고급 가죽; 질긴끈)\n(금괴; 일반 가죽;고급 가죽; 질긴끈)
+2716	(일반 가죽;고급 가죽; 질긴끈)\n(동괴; 일반 가죽;고급 가죽; 질긴끈)\n(은괴; 일반 가죽;고급 가죽; 질긴끈)\n(금괴; 일반 가죽;고급 가죽; 질긴끈)
+2717	엘레건트 라멜러 갑옷을 만들 수 있다.
+2718	엘레건트 라멜러 갑옷을 만들 수 있다.
+2719	엘레건트 자멜러 글러브를 만들 수 있다.
+2720	엘레건트 자멜러 부츠를 만들 수 있다.
+2721	엘레건트 자멜러 헬멧을 만들 수 있다.
+2722	하프 가더 레더 아머를 만들 수 있다.
+2723	하프 가더 레더 아머를 만들 수 있다.
+2724	하프 가더 레더 건틀렛을 만들 수 있다.
+2725	하프 가더 레더 건틀렛을 만들 수 있다.
+2726	하프 가더 레더 그리브를 만들 수 있다.
+2727	하프 가더 레더 그리브를 만들 수 있다.
+2728	자이언트 여성용 하프 가더 레더 그리브를 만들 수 있는 전개도가 그려져 있는 두루마리
+2729	Sewing Pattern: See-through Cocktail Dress
+2730	Sewing Pattern: Gothic Riding Suit
+2731	Sewing Pattern: Gothic Riding Shoes
+2733	A scroll that contains instructions on how to craft a Gothic Riding Suit.
+2734	A scroll that contains instructions on how to craft Gothic Riding Shoes.
+2735	Make a See-through Cocktail Dress.
+2736	Make a Gothic Riding Suit.
+2737	Make a pair of Gothic Riding Shoes.
+2738	Finest Fabric; Finest Leather; Finest Silk; Fine Leather Strap
+2739	Finest Fabric; Finest Leather; Fine Leather; Finest Leather Strap
+2740	Fine Leather; Fine Leather Strap; Braid
+2741	(Finest Finishing Thread)
+2742	(Finest Finishing Thread)
+2743	(Fine Finishing Thread)
+2744	시스루 칵테일 드레스 만들 수 있다.
+2745	Used to make a Gothic Riding Suit.
+2746	Used to make a pair of Gothic Riding Shoes.
+2747	A scroll that contains instructions on how to craft a See-through Cocktail Dress.
+2748	Blacksmith Manual - Buckler
+2749	Blacksmith Manual - Steel Claw
+2750	Blacksmith Manual - Winged Helm
+2751	A scroll that contains instructions on how to craft a Buckler.
+2752	A scroll that contains instructions on how to craft a Steel Claw.
+2753	A scroll that contains instructions on how to craft a Winged Helm.
+2754	Make a Buckler.
+2755	Make a Steel Claw.
+2756	Make a Winged Helm.
+2757	Iron Ingot; Finest Leather Strap; Braid
+2758	Iron Ingot; Finest Leather Strap; Braid
+2759	Iron Ingot; Finest Leather Strap; Braid
+2760	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+2761	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+2762	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+2763	Used to make a Buckler.
+2764	Used to make a Steel Claw.
+2765	Used to make a Winged Helm.
+2766	Sewing Pattern - Nightgown
+2767	Sewing Pattern - Slippers
+2768	Sewing Pattern - Bonnet
+2769	Sewing Pattern - Casual Suit - Blue
+2770	Sewing Pattern - Casual Suit - White
+2771	Blacksmith Manual - Wave Bangle
+2772	Blacksmith Manual - Bangle of the Far East
+2773	A scroll that contains instructions on how to craft a Nightgown.
+2774	A scroll that contains instructions on how to craft Slippers.
+2775	A scroll that contains instructions on how to craft a Bonnet.
+2776	A scroll that contains instructions on how to craft a Casual Suit - Blue.
+2777	A scroll that contains instructions on how to craft a Casual Suit - White.
+2778	A scroll that contains instructions on how to craft a Wave Bangle.
+2779	A scroll that contains instructions on how to craft a Bangle of the Far East.
+2780	Make a Nightgown
+2781	Make Slippers
+2782	Make a Bonnet
+2783	Make a Casual Suit - Blue
+2784	Make a Casual Suit - White
+2785	Make a Wave Bangle
+2786	Make a Bangle of the Far East
+2787	Finest Silk; Fine Silk; Finest Fabric
+2788	Finest Fabric; Fine Fabric
+2789	Finest Silk; Fine Silk; Finest Fabric
+2790	Finest Fabric; Fine Fabric; Fine Silk
+2791	Finest Fabric; Fine Fabric; Fine Silk
+2792	Iron Ingot; Silver Ingot
+2793	Iron Ingot; Silver Ingot
+2794	(Finest Finishing Thread)
+2795	(Finest Finishing Thread)
+2796	(Finest Finishing Thread)
+2797	(Finest Finishing Thread)
+2798	(Fine Finishing Thread)
+2799	(Braid)\n(Copper Ingot; Braid)\n(Silver Ingot; Braid)\n(Gold Ingot; Braid)
+2800	(Braid)\n(Copper Ingot; Braid)\n(Silver Ingot; Braid)\n(Gold Ingot; Braid)
+2801	Used to make a Nightgown.
+2802	Used to make a Slippers.
+2803	Used to make a Bonnet.
+2804	Used to make a Casual Suit - Blue.
+2805	Used to make a Casual Suit - White.
+2806	Used to make a Wave Bangle.
+2807	Used to make a Bangle from the Far East.
+2808	Blacksmith Manual - Sword of the Goddess
+2809	A scroll that contains instructions on how to make a Sword of the Goddess.
+2810	Make Sword of the Goddess
+2811	Iron Ingot; Finest Leather Strap; Braid
+2812	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+2813	Used to make Sword of the Goddess
+2814	Make Sword of the Goddess
+2815	Sewing Pattern - Owl Robe
+2816	A scroll that contains instructions on how to craft an Owl Robe.
+2817	Make an Owl Robe
+2818	Finest Fabric; Fine Fabric; Common Fabric
+2819	(Finest Finishing Thread)
+2820	Used to make an Owl Robe.
+2821	Sewing Pattern - Protector's Robe
+2822	A scroll that contains instructions on how to craft a Protector's Robe.
+2823	Making the Protector's Robe
+2824	Finest Fabric; Fine Fabric; Common Fabric
+2825	(Finest Finishing Thread)
+2826	Used to make a Protector's Robe.
+2827	Sewing Pattern - Delightful Orchestra Costume (Giant Female)
+2828	Sewing Pattern - Delightful Orchestra Costume (Giant Male)
+2829	Sewing Pattern - Delightful Orchestra Shoes (Giant Female)
+2830	Sewing Pattern - Delightful Orchestra Shoes (Giant Male)
+2831	Sewing Pattern - Delightful Orchestra Hat
+2832	Sewing Pattern - Traveler Outfit (F)
+2833	Sewing Pattern - Traveler Outfit (M)
+2834	Sewing Pattern - Traveler Boots
+2835	A scroll that contains instructions on how to craft the Delightful Orchestra Costume.
+2836	A scroll that contains instructions on how to craft the Delightful Orchestra Costume.
+2837	A scroll that contains instructions on how to craft the Delightful Orchestra Shoes.
+2838	A scroll that contains instructions on how to craft the Delightful Orchestra Shoes.
+2839	A scroll that contains instructions on how to craft the Delightful Orchestra Hat.
+2840	A scroll of instructions for crafting the Traveler Outfit.
+2841	A scroll of instructions for crafting the Traveler Outfit.
+2842	A scroll of instructions for crafting the Traveler Boots.
+2843	유쾌한 오케스트라 의상 만들기
+2844	유쾌한 오케스트라 의상 만들기
+2845	유쾌한 오케스트라 신발 만들기
+2846	유쾌한 오케스트라 신발 만들기
+2847	유쾌한 오케스트라 모자 만들기
+2848	Craft the Traveler Outfit
+2849	Craft the Traveler Outfit
+2850	Craft the Traveler Boots
+2851	Finest Silk; Fine Silk; Finest Fabric
+2852	Finest Silk; Fine Silk; Finest Fabric
+2853	Fine Silk; Fine Fabric; Common Leather
+2854	Fine Silk; Fine Fabric; Common Leather
+2855	Fine Fabric; Braid; Finest Silk
+2856	Finest Silk; Fine Fabric; Finest Leather
+2857	Finest Silk; Fine Fabric; Finest Leather
+2858	Fine Leather; Fine Leather Strap; Braid
+2859	(Finest Finishing Thread)
+2860	(Finest Finishing Thread)
+2861	(Finest Finishing Thread)
+2862	(Finest Finishing Thread)
+2863	(Finest Finishing Thread)
+2864	(Fine Finishing Thread)
+2865	(Fine Finishing Thread)
+2866	(Fine Finishing Thread)
+2867	Used to make the Delightful Orchestra Costume.
+2868	Used to make the Delightful Orchestra Costume.
+2869	Used to make the Delightful Orchestra Shoes.
+2870	Used to make the Delightful Orchestra Shoes.
+2871	Used to make the Delightful Orchestra Hat.
+2872	Used to make the Traveler Outfit.
+2873	Used to make the Traveler Outfit.
+2874	Used to make the Traveler Boots.
+2875	Sewing Pattern - Rosemary Gloves
+2876	A scroll that contains instructions on how to craft Rosemary Gloves.
+2877	Make Rosemary Gloves
+2878	Ice Silk; Ice Fabric; Finest Leather Strap
+2879	(Finest Finishing Thread)
+2880	Used to make Rosemary Gloves.
+2881	Sewing Pattern - Summer Knit Cap
+2882	Sewing Pattern - Checkered Ankle Boots
+2883	Sewing Pattern - Casual Jumpsuit
+2884	Sewing Pattern - Two Piece Overall Set
+2885	Sewing Pattern - Marksman Leather Armor (M)
+2886	Sewing Pattern - Marksman Leather Armor (F)
+2887	Sewing Pattern - Marksman Leather Gauntlets
+2888	Sewing Pattern - Marksman Leather Boots
+2889	Sewing Pattern - Marksman Leather Helmet
+2890	Sewing Pattern - Bunny Doll
+2891	Sewing Pattern - Vanalen Formal Wear (M)
+2892	Sewing Pattern - Vanalen Formal Wear (M)
+2893	Sewing Pattern - Vanalen Double Bracelets
+2894	Sewing Pattern - Vanalen Ribbon Boots
+2895	Sewing Pattern - Vanalen Flowered Sandals
+2896	Blacksmith Manual - Dragon Slasher
+2897	A scroll printed with the pattern to make a Summer Knit Cap.
+2898	A scroll printed with the pattern to make Checkered Ankle Boots.
+2899	A scroll printed with the pattern to make a Casual Jumpsuit.
+2900	A scroll printed with the pattern to make a Two Piece Overall Set.
+2901	A scroll printed with the pattern to make Marksman Leather Armor (M).
+2902	A scroll printed with the pattern to make Marksman Leather Armor (F).
+2903	A scroll printed with the pattern to make Marksman Leather Gauntlets.
+2904	A scroll printed with the pattern to make Marksman Leather Boots.
+2905	A scroll printed with the pattern to make a Marksman Leather Helmet.
+2906	A scroll printed with the pattern to make a Bunny Doll.
+2907	A scroll printed with the pattern to make Vanalen Formal Wear (M).
+2908	A scroll printed with the pattern to make Vanalen Formal Wear (M).
+2909	A scroll printed with the pattern to make Vanalen Double Bracelets.
+2910	A scroll printed with the pattern to make Vanalen Ribbon Boots.
+2911	A scroll printed with the pattern to make Vanalen Flowered Sandals.
+2912	A scroll that contains instructions on how to craft a Dragon Slasher.
+2913	Make a Summer Knit Cap
+2914	Make Checkered Ankle Boots
+2915	Make a Casual Jumpsuit
+2916	Make a Two Piece Overall Set
+2917	Make a Marksman Leather Armor (M)
+2918	Make a Marksman Leather Armor (F)
+2919	Make Marksman Leather Gauntlets
+2920	Make Marksman Leather Boots
+2921	Make a Marksman Leather Helmet
+2922	Make a Bunny Doll
+2923	Make a Vanalen Formal Wear (F)
+2924	Make a Vanalen Formal Wear (M)
+2925	Make Vanalen Double Bracelets
+2926	Make Vanalen Ribbon Boots
+2927	Make Vanalen Flowered Sandals
+2928	Make a Dragon Slasher
+2929	Fine Silk; Fine Leather; Tough Thread
+2930	Fine Leather; Finest Fabric; Tough String
+2931	Finest Fabric; Fine Fabric; Common Fabric
+2932	Finest Fabric; Fine Fabric; Common Fabric
+2933	Finest Fabric; Finest Leather; Fine Leather; Finest Leather Strap
+2934	Finest Fabric; Finest Leather; Fine Leather; Finest Leather Strap
+2935	Finest Leather; Tough String
+2936	Fine Leather; Fine Leather Strap; Braid
+2937	Fine Leather; Fine Leather Strap; Braid
+2938	Finest Fabric; Fine Fabric; Fine Silk
+2939	Finest Silk; Fine Silk; Finest Fabric
+2940	Finest Silk; Fine Silk; Finest Fabric
+2941	Fine Fabric; Braid
+2942	Finest Fabric; Fine Fabric; Braid
+2943	Finest Fabric; Fine Fabric; Braid
+2944	Iron Ingot; Copper Ingot; Mythril Ingot; Fine Leather Strap; Braid
+2945	(Fine Finishing Thread)
+2946	(Fine Finishing Thread)
+2947	(Fine Finishing Thread)
+2948	(Fine Finishing Thread)
+2949	(Fine Finishing Thread)
+2950	(Fine Finishing Thread)
+2951	(Fine Finishing Thread)
+2952	(Fine Finishing Thread)
+2953	(Fine Finishing Thread)
+2954	(Fine Finishing Thread)
+2955	(Finest Finishing Thread)
+2956	(Finest Finishing Thread)
+2957	(Fine Finishing Thread)
+2958	(Fine Finishing Thread)
+2959	(Fine Finishing Thread)
+2960	(Finest Leather; Tough String)\n(Copper Ingot: Finest Leather; Tough String)\n(Silver Ingot; FInest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+2961	Used to make a Summer Knit Cap.
+2962	Used to make Checkered Ankle Boots.
+2963	Used to make a Casual Jumpsuit.
+2964	Used to make a Two Piece Overall Set.
+2965	Used to make Marksman Leather Armor (M).
+2966	Used to make Marksman Leather Armor (F).
+2967	Used to make Marksman Leather Gauntlets.
+2968	Used to make Marksman Leather Boots.
+2969	Used to make a Marksman Leather Helmet.
+2970	Used to make a Bunny Doll.
+2971	Used to make Vanalen Formal Wear (F).
+2972	Used to make Vanalen Formal Wear (M).
+2973	Used to make Vanalen Double Bracelets.
+2974	Used to make Vanalen Ribbon Boots
+2975	Used to make Vanalen Flowered Sandals.
+2976	Used to make a Dragon Slasher.
+2977	Sewing Pattern - Diamond Patterned Leather Armor (M)
+2978	Sewing Pattern - Diamond Patterned Leather Armor (F)
+2979	Sewing Pattern - Diamond Patterned Leather Gloves
+2980	Sewing Pattern - Diamond Patterned Leather Boots
+2981	Sewing Pattern - Diamond Patterned Leather Helmet
+2982	Sewing Pattern - Quilted Light Armor (Male Giant)
+2983	Sewing Pattern - Quilted Light Armor (Female Giant)
+2984	Sewing Pattern - Quilted Protector
+2985	Sewing Pattern - Quilted Boots
+2986	Sewing Pattern - Quilted Hairband
+2987	A scroll printed with the pattern to make Diamond Patterned Leather Armor.
+2988	A scroll printed with the pattern to make Diamond Patterned Leather Armor.
+2989	A scroll printed with the pattern to make Diamond Patterned Leather Gloves.
+2990	A scroll printed with the pattern to make Diamond Patterned Leather Boots.
+2991	A scroll printed with the pattern to make a Diamond Patterned Leather Helmet.
+2992	A scroll printed with the pattern to make Quilted Light Armor.
+2993	A scroll printed with the pattern to make Quilted Light Armor.
+2994	A scroll printed with the pattern to make a Quilted Protector.
+2995	A scroll printed with the pattern to make Quilted Boots.
+2996	A scroll printed with the pattern to make a Quilted Hairband.
+2997	Make Diamond Patterned Leather Armor
+2998	Make Diamond Patterned Leather Armor
+2999	Make Diamond Patterned Leather Gloves
+3000	Make Diamond Patterned Leather Boots
+3001	Make a Diamond Patterned Leather Helmet
+3002	Make Quilted Light Armor
+3003	Make Quilted Light Armor
+3004	Make a Quilted Protector
+3005	Make Quilted Boots
+3006	Make a Quilted Hairband
+3007	Finest Leather; Fine Leather; Tough String
+3008	Finest Leather; Fine Leather; Tough String
+3009	Finest Leather; Tough String
+3010	Finest Leather; Tough String
+3011	Finest Leather; Fine Leather; Tough String
+3012	Finest Leather; Fine Leather; Tough String
+3013	Finest Leather; Fine Leather; Tough String
+3014	Finest Leather; Tough String
+3015	Finest Leather; Tough String
+3016	Finest Leather; Fine Leather; Tough String
+3017	(Common Finishing Thread; Tough String)
+3018	(Common Finishing Thread; Tough String)
+3019	(Tough String)
+3020	(Tough String)
+3021	(Common Finishing Thread; Tough String)
+3022	(Common Finishing Thread; Tough String)
+3023	(Common Finishing Thread; Tough String)
+3024	(Tough String)
+3025	(Tough String)
+3026	(Common Finishing Thread; Tough String)
+3027	Used to make Diamond Patterned Leather Armor.
+3028	Used to make Diamond Patterned Leathe Armor.
+3029	Used to make Diamond Patterned Leather Gloves.
+3030	Used to make Diamond Patterned Leather Boots.
+3031	Used to make a Diamond Patterned Leather Helmet.
+3032	Used to make Quilted Light Armor.
+3033	Used to make Quilted Light Armor.
+3034	Used to make a Quilted Protector.
+3035	Used to make Quilted Boots.
+3036	Used to make a Quilted Hairband.
+3040	Iron Ingot; Silver Ingot; Mythril Ingot
+3041	(Finest Leather; Tough String)\n(Bronze Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+3047	Blacksmith Manual - Lion Claw Lance
+3048	A manual that contains instructions on how to make a Lion Claw Lance.
+3049	Making Lion Claw Lance
+3050	Allows you to make a Lion Claw Lance.
+3051	Blacksmith Manual - Shield of Avon
+3052	A manual that contains instructions on how to make a Shield of Avon.
+3053	Making Shield of Avon
+3056	Allows you to make a Shield of Avon.
+3057	Iron Bar; Mythril Bar; Silver Bar; Romeo and Juliet Script
+3058	(Finest Leather; Tough String; Romeo and Juliet Script)
+3059	Part-Time Job Blacksmithing Manual - Weeding Hoe
+3060	Part-Time Job Blacksmithing Manual - Sickle
+3061	Part-Time Job Blacksmithing Manual - Round Shield
+3062	Part-Time Job Blacksmithing Manual - Evil Dying Crown
+3063	Part-Time Job Blacksmithing Manual - Cuirassier Helm
+3064	Part-Time Job Blacksmithing Manual - Arish Ashuvain Gauntlets
+3065	Part-Time Job Blacksmithing Manual - Plate Gauntlets
+3066	Part-Time Job Blacksmithing Manual - Vito Crux Greaves
+3067	Part-Time Job Blacksmithing Manual - Arish Ashuvain Boots (M)
+3068	Part-Time Job Blacksmithing Manual - Scale Armor
+3069	Part-Time Job Blacksmithing Manual - Half Guard Leather Armor (Female Giant)
+3070	A scroll with instructions for crafting a Weeding Hoe.
+3071	A scroll with instructions for crafting a Sickle.
+3072	A scroll with instructions for crafting a Round Shield.
+3073	A scroll with instructions for crafting an Evil Dying Crown.
+3074	A scroll with instructions for crafting a Cuirassier Helm.
+3075	A scroll with a pattern for crafting Arish Ashuvain Gauntlets.
+3076	A scroll with instructions for crafting Plate Gauntlets.
+3077	A scroll with instructions for crafting Vito Crux Greaves.
+3078	A scroll with instructions for crafting Arish Ashuvain Boots (M).
+3079	A scroll with instructions for crafting Scale Armor.
+3081	Make a Weeding Hoe
+3082	Make a Sickle
+3083	Make a Round Shield
+3084	Make an Evil Dying Crown
+3085	Make a Cuirassier Helm
+3086	Make Arish Ashuvain Gauntlets
+3087	Make Plate Gauntlets
+3088	Make Vito Crux Greaves
+3089	아이템 만들기
+3090	Make Scale Armor
+3098	Iron Ingot
+3099	Iron Ingot; Copper Ingot
+3102	Iron Ingot; Common Leather; Braid
+3114	Used to make a Weeding Hoe.
+3115	Used to make a Sickle.
+3116	Used to make a Round Shield.
+3117	Used to make an Evil Dying Crown.
+3118	Used to make a Cuirassier Helm.
+3119	Used to make Arish Ashuvain Gauntlet.
+3120	Used to make Plate Gauntlets.
+3121	Used to make Vito Crux Greaves.
+3122	Used to make Arish Ashuvain Boots (M).
+3123	Used to make a Scale Armor.
+3125	Iron Ingot
+3127	Iron Ingot
+3128	Iron Ingot
+3129	Iron Ingot
+3136	(Common Silk; Common Fabric)
+3137	(Common Leather)
+3138	(Cheap Silk)
+3139	(Fine Leather; Thick Thread Ball)
+3140	(Fine Leather; Braid)
+3141	(Fine Silk)
+3142	(Common Fabric; Fomor Token)
+3143	(Finest Leather; Tough String)
+3144	Iron Ingot;Common Leather Strap
+3145	Iron Ingot; Common Leather Strap
+3146	Iron Ingot; Fine Leather Strap
+3149	(Firewood; Common Leather Strap)
+3150	(Firewood)
+3151	(Firewood)
+3152	Iron Ingot;Common Leather Strap
+3153	A scroll with instructions for crafting a Half Guard Leather Armor for Female Giants.
+3154	Make a Half Guard Leather Armor
+3155	Used to make a Half Guard Leather Armor.
+3156	Make Arish Ashuvain Boots
+3157	Blacksmith Manual - Andras Puppet
+3168	A scroll that contains instructions on how to craft an Andras Puppet.
+3179	Make an Andras Puppet
+3200	Iron Ingot; Common Leather Strap
+3201	(Common Fabric) (Copper Ingot; Common Fabric) (Silver Ingot; Common Fabric) (Gold Ingot; Common Fabric)
+3212	Used to make an Andras Puppet.
+3223	Blacksmith Manual - Elatha Puppet
+3224	Blacksmith Manual - Wave Patterned Doughnut
+3225	Blacksmith Manual - Rainbow Sprinkles Doughnut
+3226	Blacksmith Manual - Soft Serve Ice Cream Shortsword
+3227	Blacksmith Manual - Confetti Bow
+3228	Blacksmith Manual - Cotton Candy Poofs Sword
+3229	Blacksmith Manual - Star Candy Mace
+3230	Blacksmith Manual - Roll Cake Cylinder
+3231	Blacksmith Manual - Cookie Shield
+3232	Blacksmith Manual - Doughnut Glasses
+3233	A scroll that contains instructions on how to craft an Elatha Puppet.
+3234	A scroll that contains instructions on how to craft a Wave Patterned Doughnut.
+3235	A scroll that contains instructions on how to craft a Rainbow Sprinkles Doughnut.
+3236	A scroll that contains instructions on how to craft a Soft Serve Ice Cream Shortsword.
+3237	A scroll that contains instructions on how to craft a Confetti Bow.
+3238	A scroll that contains instructions on how to craft a Cotton Candy Poofs Sword.
+3239	A scroll that contains instructions on how to craft a Star Candy Mace.
+3240	A scroll that contains instructions on how to craft a Roll Cake Cylinder.
+3241	A scroll that contains instructions on how to craft a Cookie Shield.
+3242	A scroll that contains instructions on how to craft the Doughnut Glasses.
+3243	Make an Elatha Puppet
+3244	Make a Wave Patterned Doughnut
+3245	Make a Rainbow Sprinkles Doughnut
+3246	Make a Soft Serve Ice Cream Shortsword
+3247	Make a Confetti Bow
+3248	Make a Cotton Candy Poofs Sword
+3249	Make a Star Candy Mace
+3250	Make a Roll Cake Cylinder
+3251	Make a Cookie Shield
+3252	Make Doughnut Glasses
+3253	Iron Ingot; Fine Leather Strap
+3254	Iron Ingot; Fine Leather Strap
+3255	Iron Ingot; Silver Ingot; Copper Ingot
+3256	Iron Ingot; Silver Ingot
+3257	Iron Ingot; Silver Ingot
+3258	Iron Ingot; Silver Ingot
+3259	Iron Ingot; Finest Leather Strap; Braid
+3260	Iron Ingot; Common Leather; Braid
+3261	Iron Ingot; Copper Ingot
+3262	Iron Ingot; Fine Leather Strap
+3263	(Common Fabric; Fine Silk) (Copper Ingot; Common Fabric; Fine Silk) (Silver Ingot; Common Fabric; Fine Silk) (Gold Ingot; Common Fabric; Fine Silk)
+3264	(Common Fabric) (Copper Ingot; Common Fabric) (Silver Ingot; Common Fabric) (Gold Ingot; Common Fabric)
+3265	(Fine Fabric) (Copper Ingot; Fine Fabric) (Silver Ingot; Fine Fabric) (Gold Ingot; Fine Fabric)
+3266	(Fine Leather; Braid) (Copper Ingot; Fine Leather; Braid) (Silver Ingot; Fine Leather; Braid) (Gold Ingot; Fine Leather; Braid)
+3267	(Common Leather; Thin Thread Ball) (Copper Ingot; Common Leather; Thin Thread Ball) (Silver Ingot; Common Leather; Thin Thread Ball) (Gold Ingot; Common Leather; Thin Thread Ball)
+3268	(Fine Leather; Braid) (Copper Ingot; Fine Leather; Braid) (Silver Ingot; Fine Leather; Braid) (Gold Ingot; Fine Leather; Braid)
+3269	(Fine Leather; Braid) (Copper Ingot; Fine Leather; Braid) (Silver Ingot; Fine Leather; Braid) (Gold Ingot; Fine Leather; Braid)
+3270	(Braid) (Copper Ingot; Braid) (Silver Ingot; Braid) (Gold Ingot; Braid)
+3271	(Finest Leather; Tough String) (Bronze Ingot; Finest Leather; Tough String) (Silver Ingot; Finest Leather; Tough String) (Gold Ingot; Finest Leather; Tough String)
+3272	(Common Fabric) (Copper Ingot; Common Fabric) (Silver Ingot; Common Fabric) (Gold Ingot; Common Fabric)
+3273	Used to make an Elatha Puppet.
+3274	Used to make a Wave Patterned Doughnut.
+3275	Used to make a Rainbow Sprinkles Doughnut.
+3276	Used to make a Soft Serve Ice Cream Shortsword.
+3277	Used to make a Confetti Bow.
+3278	Used to make a Cotton Candy Poofs Sword.
+3279	Used to make a Star Candy Mace.
+3280	Used to make a Roll Cake Cylinder.
+3281	Used to make a Cookie Shield.
+3282	Used to make Doughnut Glasses.
+3283	Sewing Pattern - Tulip Hairband
+3284	Sewing Pattern - Tiger Robe
+3285	Sewing Pattern - Tiger Hat
+3286	Sewing Pattern - Frog Robe
+3287	Sewing Pattern - Traditional Plateau Tribal Costume (M)
+3288	Sewing Pattern - Traditional Plateau Tribal Costume (F)
+3289	Sewing Pattern - Traditional Plateau Tribal Hat (M)
+3290	Sewing Pattern - Traditional Plateau Tribal Hat (F)
+3291	Sewing Pattern - Traditional Plateau Tribal Shoes (M)
+3292	Sewing Pattern - Traditional Plateau Tribal Shoes (F)
+3293	A scroll that contains instructions on how to craft a Tulip Hairband.
+3294	A scroll that contains instructions on how to craft a Tiger Robe.
+3295	A scroll that contains instructions on how to craft a Tiger Hat.
+3296	A scroll that contains instructions on how to craft a Frog Robe.
+3297	A scroll that contains instructions on how to craft a Traditional Plateau Tribal Costume (M).
+3298	A scroll that contains instructions on how to craft a Traditional Plateau Tribal Costume (F).
+3299	A scroll that contains instructions on how to craft a Traditional Plateau Tribal Hat (M).
+3300	A scroll that contains instructions on how to craft a Traditional Plateau Tribal Hat (F).
+3301	A scroll that contains instructions on how to craft a pair of Traditional Plateau Tribal Shoes (M).
+3302	A scroll that contains instructions on how to craft a pair of Traditional Plateau Tribal Shoes (F).
+3303	Make a Tulip Hairband
+3304	Make a Tiger Robe
+3305	Make a Tiger Hat
+3306	Make a Frog Robe
+3307	Make a Traditional Plateau Tribal Costume (M)
+3308	Make a Traditional Plateau Tribal Costume (F)
+3309	Make a Traditional Plateau Tribal Hat (M)
+3310	Make a Traditional Plateau Tribal Hat (F)
+3311	Make Traditional Plateau Tribal Shoes (M)
+3312	Make Traditional Plateau Tribal Shoes (F)
+3313	Fine Fabric; Common Silk; Common Fabric
+3314	Fine Fabric; Common Fabric
+3315	Common Fabric; Common Silk; Thick Thread Ball
+3316	Finest Fabric; Finest Silk
+3317	Finest Fabric; Finest Silk
+3318	Common Fabric; Fine Silk
+3319	Common Fabric; Fine Silk
+3320	Common Fabric; Common Silk; Thick Thread Ball
+3321	Common Fabric; Common Silk
+3322	Common Fabric; Common Silk
+3323	(Common Finishing Thread)
+3324	(Common Finishing Thread)
+3325	(Common Finishing Thread)
+3326	(Fine Finishing Thread)
+3327	(Common Finishing Thread)
+3328	(Common Finishing Thread)
+3329	(Common Finishing Thread)
+3330	(Fine Finishing Thread)
+3331	(Fine Finishing Thread)
+3332	(Fine Finishing Thread)
+3333	Used to make a Tulip Hairband.
+3334	Used to make a Tiger Robe.
+3335	Used to make a Tiger Hat.
+3336	Used to make a Frog Robe.
+3337	Used to make a Traditional Plateau Tribal Costume (M).
+3338	Used to make a Traditional Plateau Tribal Costume (F).
+3339	Used to make a Traditional Plateau Tribal Hat (M).
+3340	Used to make a Traditional Plateau Tribal Hat (F).
+3341	Used to make Traditional Plateau Tribal Shoes (M).
+3342	Used to make Traditional Plateau Tribal Shoes (F).
+3344	You are able to make the Arish Ashuvain Boots (M).
+3345	(Common Fabric)\n(Copper Ingot; Common Fabric)\n(Silver Ingot; Common Fabric)\n(Gold Ingot; Common Fabric)
+3346	(Common Fabric; Fine Silk)\n(Copper Ingot; Common Fabric; Fine Silk)\n(Silver Ingot; Common Fabric; Fine Silk)\n(Gold Ingot; Common Fabric; Fine Silk)
+3347	(Common Fabric)\n(Copper Ingot; Common Fabric)\n(Silver Ingot; Common Fabric)\n(Gold Ingot; Common Fabric)
+3348	(Fine Fabric)\n(Copper Ingot; Fine Fabric)\n(Silver Ingot; Fine Fabric)\n(Gold Ingot; Fine Fabric)
+3349	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+3350	(Common Leather; Thin Thread Ball)\n(Copper Ingot; Common Leather; Thin Thread Ball)\n(Silver Ingot; Common Leather; Thin Thread Ball)\n(Gold Ingot; Common Leather; Thin Thread Ball)
+3351	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+3352	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+3353	(Braid)\n(Copper Ingot; Braid)\n(Silver Ingot; Braid)\n(Gold Ingot; Braid)
+3354	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+3355	(Common Fabric)\n(Copper Ingot; Common Fabric)\n(Silver Ingot; Common Fabric)\n(Gold Ingot; Common Fabric)
+3356	Blacksmith Manual - Officer's One-Handed Sword
+3357	A scroll that contains instructions on how to craft an Officer's One-Handed Sword.
+3358	Make Officer's One-Handed Sword
+3360	(Finest Leather; Braid)\n(Copper Ingot; Finest Leather; Braid)\n(Silver Ingot: Finest Leather; Braid)\n(Gold Ingot; Finest Leather; Braid)
+3361	Used to make an Officer's One-Handed Sword.
+3362	Mythril Ingot; Silver Ingot; Iron Ingot; Finest Firewood
+3363	Blacksmith Manual - Ladeca Helm
+3365	Blacksmith Manual - Ladeca Ice Wand
+3366	Blacksmith Manual - Ladeca Shield
+3367	A scroll that contains instructions on how to make a repairable Ladeca Helm with the Blacksmithing skill.
+3369	A scroll that contains instructions on how to make a repairable Ladeca Ice Wand with the Blacksmithing skill.
+3370	A scroll that contains instructions on how to make a repairable Ladeca Shield with the Blacksmithing skill.
+3371	Make a Ladeca Helm
+3373	Make a Ladeca Ice Wand
+3374	Make a Ladeca Shield
+3375	Ladeca Helm;Ladeca Shadow
+3377	Ladeca Ice Wand;Ladeca Shadow
+3378	Ladeca Shield;Ladeca Shadow
+3379	(Ladeca Shadow)
+3380	(Ladeca Shadow)
+3381	(Ladeca Shadow)
+3382	(Ladeca Shadow)
+3383	Used to make a Ladeca Helm.
+3385	Used to make a Ladeca Ice Wand.
+3386	Used to make a Ladeca Shield.
+3387	Blacksmith Manual - Ladeca Short Sword
+3388	A scroll that contains instructions on how to make a repairable Ladeca Short Sword with the Blacksmithing skill.
+3389	Make a Ladeca Short Sword
+3390	Ladeca Short Sword;Ladeca Shadow
+3391	Used to make a Ladeca Short Sword.
+3392	Blacksmith Manual - Thames Plate Armor
+3393	A scroll that contains instructions on how to craft Thames Plate Armor.
+3395	Iron Ingot; Fine Leather Strap; Finest Leather Strap
+3396	(Finest Fabric; Finest Silk; Finest Leather)
+3397	Used to make Thames Plate Armor.
+3398	Sewing Pattern - Druid Robe (M)
+3399	Sewing Pattern - Druid Boots (M)
+3400	Sewing Pattern - Druid Robe (F)
+3402	Blacksmith Manual - Birnam Plate Armor
+3404	Blacksmith Manual - Birnam Plate Boots
+3405	Blacksmith Manual - Birnam Plate Helmet
+3406	Blacksmith Manual - Thames Plate Gauntlets
+3407	Blacksmith Manual - Thames Plate Boots
+3408	Blacksmith Manual - Thames Plate Helmet
+3409	Blacksmith Manual - Falcata
+3410	Blacksmith Manual - Highlander Claymore
+3411	Blacksmith Manual - Volcano Cylinder
+3412	Blacksmith Manual - Tidal Wave Cylinder
+3413	Blacksmith Manual - Dragon Fang
+3414	A scroll that contains instructions on how to craft a Druid Robe (M).
+3415	A scroll that contains instructions on how to craft Druid Boots (M).
+3416	A scroll that contains instructions on how to craft a Druid Robe (F).
+3417	A scroll that contains instructions on how to craft Druid Boots (F).
+3418	A scroll that contains instructions on how to craft Birnam Plate Armor.
+3419	A scroll that contains instructions on how to craft Birnam Plate Gauntlets.
+3420	A scroll that contains instructions on how to craft Birnam Plate Boots.
+3421	A scroll that contains instructions on how to craft a Birnam Plate Helmet.
+3422	A scroll that contains instructions on how to craft Thames Plate Gauntlets.
+3423	A scroll that contains instructions on how to craft Thames Plate Boots.
+3424	A scroll that contains instructions on how to craft a Thames Plate Helmet.
+3430	Make a Druid Robe (M)
+3431	Make Druid Boots (M)
+3432	Make a Druid Robe (F)
+3433	Make Druid Boots (F)
+3434	Make Birnam Plate Armor
+3435	Make Birnam Plate Gauntlets
+3436	Make Birnam Plate Boots
+3437	Make a Birnam Plate Helmet
+3438	Make Thames Plate Armor
+3439	Make Thames Plate Gauntlets
+3440	Make Thames Plate Boots
+3441	Make a Thames Plate Helmet
+3442	Make a Falcata
+3443	Make a Highlander Claymore
+3444	Make a Volcano Cylinder
+3445	Make a Tidal Wave Cylinder
+3446	Make a Dragon Fang
+3447	Finest Silk; Finest Fabric; Tough Thread
+3448	Fine Silk; Common Fabric
+3449	Finest Silk; Finest Fabric; Tough Thread
+3450	Fine Silk; Common Fabric
+3451	Iron Ingot; Fine Leather Strap
+3452	Iron Ingot; Fine Leather Strap; Braid
+3453	Iron Ingot; Fine Leather Strap; Finest Leather Strap
+3454	Iron Ingot; Fine Leather Strap
+3455	Iron Ingot; Fine Leather Strap
+3456	Iron Ingot; Fine Leather Strap; Braid
+3457	Iron Ingot; Silver Ingot; Mythril Ingot
+3458	Iron Ingot; Silver Ingot; Copper Ingot
+3460	Iron Ingot; Mythril Plate; Finest Leather Strap
+3461	Iron Ingot; Iron Plate; Finest Firewood
+3462	Iron Ingot; Fine Leather Strap
+3463	(Finest Finishing Thread; Braid)
+3465	(Finest Finishing Thread; Braid)
+3468	(Fine Fabric; Finest Silk)
+3469	(Finest Fabric; Finest Silk)
+3470	(Finest Fabric; Finest Silk; Finest Leather)
+3472	(Fine Fabric; Finest Silk)
+3473	(Finest Fabric; Finest Silk)
+3474	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+3475	(Finest Leather; Braid)\n(Copper Ingot; Finest Leather; Braid)\n(Silver Ingot; Finest Leather; Braid)\n(Gold Ingot; Finest Leather; Braid)
+3477	(Finest Leather; Thin Thread Ball)\n(Copper Ingot; Finest Leather; Thin Thread Ball)\n(Silver Ingot; Finest Leather; Thin Thread Ball)\n(Gold Ingot; Finest Leather; Thins Thread Ball)
+3478	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+3479	Used to make a Druid Robe (M).
+3480	Used to make Druid Boots (M).
+3483	Used to make Birnam Plate Armor.
+3484	Used to make Birnam Plate Gauntlets.
+3485	Used to make Birnam Plate Boots.
+3486	Used to make a Birnam Plate Helmet.
+3487	Used to make Thames Plate Gauntlets.
+3488	Used to make Thames Plate Boots.
+3489	Used to make a Thames Plate Helmet.
+3490	Used to make a Falcata.
+3491	Used to make a Highlander Claymore.
+3492	Used to make a Volcano Cylinder.
+3493	Used to make a Tidal Wave Cylinder.
+3494	Used to make a Dragon Fang.
+3495	(Fine Fabric; Finest Silk)
+3496	(Fine Fabric; Finest Silk)
+3497	Sewing Pattern - Druid Boots (F)
+3498	A scroll that contains instructions on how to craft a Falcata.
+3499	A scroll that contains instructions on how to craft a Highlander Claymore.
+3500	A scroll that contains instructions on how to craft a Volcano Cylinder.
+3501	A scroll that contains instructions on how to craft a Tidal Wave Cylinder.
+3502	A scroll that contains instructions on how to craft a Dragon Fang.
+3503	(Finest Finishing Thread; Braid)
+3504	(Finest Finishing Thread; Braid)
+3505	Used to make Druid Boots (F).
+3506	Iron Ingot; Mythril Plate; Finest Leather Strap
+3507	(Finest Leather; Thick Thread Ball)\n(Copper Ingot; Finest Leather; Thick Thread Ball)\n(Silver Ingot; Finest Leather; Thick Thread Ball)\n(Gold Ingot; Finest Leather; Thick Thread Ball)
+3509	Blacksmith Manual - Birnam Plate Gauntlets
+3510	Used to make a Druid Robe (F).
+3511	옷본 - 레인저 수트 (남성용)
+3512	옷본 - 레인저 수트 (여성용)
+3513	옷본 - 레인저 장갑
+3514	옷본 - 레인저 신발 (남성용)
+3515	옷본 - 레인저 신발 (여성용)
+3516	남성용 레인저 수트를 만들 수 있다.
+3517	여성용 레인저 수트를 만들 수 있다.
+3518	레인저 장갑을 만들 수 있다.
+3519	남성용 레인저 신발을 만들 수 있다.
+3520	여성용 레인저 신발을 만들 수 있다.
+3521	레인저 수트 (남성용)
+3522	레인저 수트 (여성용)
+3523	Ranger Gloves
+3524	Ranger Shoes (M)
+3525	Ranger Shoes (F)
+3526	Finest Silk; Fine Silk; Finest Fabric
+3527	Finest Silk; Fine Silk; Finest Fabric
+3528	Fine Fabric; Braid
+3529	Finest Fabric; Fine Fabric; Braid
+3530	Finest Fabric; Fine Fabric; Braid
+3531	(Fine Finishing Thread)
+3532	(Fine Finishing Thread)
+3533	(Fine Finishing Thread)
+3534	(Fine Finishing Thread)
+3535	(Fine Finishing Thread)
+3536	레인저 수트 (남성용)을 만들 수 있다.
+3537	레인저 수트 (여성용)을 만들 수 있다.
+3538	레인저 장갑을 만들 수 있다.
+3539	레인저 신발 (남성용)을 만들 수 있다.
+3540	레인저 신발 (여성용)을 만들 수 있다.
+3541	Sewing Pattern - Oriental Robe
+3542	Used to make an Oriental Robe.
+3543	Oriental Robe
+3544	Finest Silk; Finest Fabric; Tough Thread
+3545	(Finest Finishing Thread; Braid)
+3546	   
+3547	Blacksmith Manual - Bracer Knuckle
+3548	A scroll that contains instructions on how to craft a Bracer Knuckle.
+3549	Make a Bracer Knuckle
+3550	Iron Plate; Iron Bar; Finest Leather Strap
+3552	Used to make a Bracer Knuckle.
+3553	(Finest Leather; Large Nail)\n(Copper Ingot; Finest Leather; Large Nail)\n(Silver Ingot; Finest Leather; Large Nail)\n(Gold Ingot; Finest Leather; Large Nail)
+3554	오리엔탈 로브를 만들 수 있다.
+3556	Blacksmith Manual - Barbaric Fox Scythe
+3558	A scroll with instructions on how to craft a Barbaric Fox Scythe.
+3560	Make Barbaric Fox Scythe
+3561	Iron Ingot; Silver Ingot; Copper Ingot
+3563	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+3566	Used to make Barbaric Fox Scythe.
+3567	도면 - 콘누스 레더 아머(남)
+3568	도면 - 콘누스 레더 건틀렛(남)
+3569	도면 - 콘누스 레더 그리브(남)
+3570	도면 - 콘누스 레더 캡(남)
+3571	도면 - 콘누스 레더 아머(여)
+3572	도면 - 콘누스 레더 건틀렛(여)
+3573	도면 - 콘누스 레더 그리브(여)
+3574	도면 - 콘누스 레더 헤어밴드(여)
+3575	남성용 콘누스 레더 아머를 만들 수 있는 도면이 그려져있는 두루마리다.
+3576	남성용 콘누스 레더 건틀렛을 만들 수 있는 도면이 그려져있는 두루마리다.
+3577	남성용 콘누스 레더 그리브를 만들 수 있는 도면이 그려져있는 두루마리다.
+3578	A scroll that contains instructions on how to craft a Connous Leather Cap (M).
+3579	A scroll that contains instructions on how to craft a Connous Leather Cap (F).
+3580	A scroll that contains instructions on how to craft a Connous Leather Gauntlets (F).
+3581	A scroll that contains instructions on how to craft a Connous Leather Greaves (F).
+3582	여성용 콘누스 레더 헤어밴드를 만들 수 있는 도면이 그려져있는 두루마리다.
+3583	Make Connous Leather Armor (M).
+3584	남성용 콘누스 레더 건틀렛 만들기
+3585	남성용 콘누스 레더 그리브 만들기
+3586	남성용 콘누스 레더 캡 만들기
+3587	여성용 콘누스 레더 아머 만들기
+3588	여성용 콘누스 레더 건틀렛 만들기
+3589	여성용 콘누스 레더 그리브 만들기
+3590	여성용 콘누스 레더 헤어밴드 만들기
+3591	철괴; 고급 가죽끈
+3592	철괴; 고급 가죽끈; 매듭끈
+3593	철괴; 고급 가죽끈; 최고급 가죽끈
+3594	철괴; 고급 가죽끈
+3595	철괴; 고급 가죽끈
+3596	철괴; 고급 가죽끈; 매듭끈
+3597	Iron Ingot; Fine Leather Strap
+3598	Iron Ingot; Common Leather; Braid
+3599	(최고급 가죽; 질긴끈)\n(동괴; 최고급 가죽; 질긴끈)\n(은괴; 최고급 가죽; 질긴끈)\n(금괴; 최고급 가죽; 질긴끈)
+3600	(고급 옷감; 최고급 실크)
+3601	(고급 옷감; 최고급 실크)
+3602	(고급 옷감; 최고급 실크)\n(동괴; 고급 옷감; 최고급 실크)\n(은괴; 고급 옷감; 최고급 실크)\n(금괴; 고급 옷감; 최고급 실크)
+3603	(최고급 옷감; 최고급 실크; 최고급 가죽)
+3604	(고급 옷감; 최고급 실크)
+3605	(고급 옷감; 최고급 실크)
+3606	(고급 옷감; 최고급 실크)
+3607	남성용 콘누스 레더 아머를 만들 수 있다
+3608	남성용 콘누스 레더 건틀렛을 만들 수 있다
+3609	남성용 콘누스 레더 그리브를 만들 수 있다
+3610	남성용 콘누스 레더 캡을 만들 수 있다
+3611	여성용 콘누스 레더 아머를 만들 수 있다
+3612	여성용 콘누스 레더 건틀렛을 만들 수 있다
+3613	여성용 콘누스 레더 그리브를 만들 수 있다
+3614	여성용 콘누스 레더 헤어밴드를 만들 수 있다
+3615	Blacksmith Manual - Royal Pumpkin Rapier
+3616	도면 - 요정의 깃으로 만든 활
+3617	A scroll that contains instructions on how to craft a Royal Pumpkin Rapier.
+3618	요정의 깃으로 만든 활을 제조할 수 있는 도면이 그려져 있는 두루마리다.
+3619	Make Royal Pumpkin Rapier
+3620	요정의 깃으로 만든 활 만들기
+3623	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+3624	(일반 가죽; 가는 실뭉치; 세이렌 깃털 가면)\n(동괴; 일반 가죽; 가는 실뭉치; 세이렌 깃털 가면)\n(은괴; 일반 가죽; 가는 실뭉치; 세이렌 깃털 가면)\n(금괴; 일반 가죽; 가는 실뭉치; 세이렌 깃털 가면)
+3625	Used to make Royal Pumpkin Rapier
+3626	요정의 깃으로 만든 활을 만들 수 있다
+3627	Iron Ingot; Gold Ingot
+3628	철괴; 미스릴괴
+3629	도면 - 콘누스 레더 아머(남)
+3630	남성용 콘누스 레더 아머를 만들 수 있는 전개도가 그려져있는 두루마리.
+3631	여성용 콘누스 레더 아머를 만들 수 있는 전개도가 그려져있는 두루마리.
+3632	남성용 콘누스 레더 아머 만들기
+3633	최고급 옷감; 최고급 가죽; 최고급 가죽끈
+3634	최고급 옷감; 최고급 가죽; 최고급 가죽끈
+3635	(Finest Finishing Thread)
+3636	(Finest Finishing Thread)
+3637	남성용 콘누스 레더 아머를 만들 수 있다
+3638	도면 - 요정의 깃으로 만든 활
+3639	요정의 깃으로 만든 활을 제조할 수 있는 도면이 그려져 있는 두루마리다.
+3640	요정의 깃으로 만든 활 만들기
+3641	철괴; 미스릴괴
+3642	(일반 가죽; 가는 실뭉치; 세이렌 깃털 가면)
+3643	요정의 깃으로 만든 활을 만들 수 있다
+3644	Blacksmith Manual - Lyre
+3645	Blacksmith Manual - Hand Chimes
+3646	Blacksmith Manual - Battle Mandolin
+3647	A scroll that contains instructions on how to craft a Lyre.
+3648	A scroll that contains instructions on how to craft Hand Chimes.
+3649	A scroll with instructions on how to craft a Battle Mandolin.
+3650	Make a Lyre
+3651	Make Hand Chimes
+3652	Make a Battle Mandolin
+3653	Fine Leather Strap; Braid; Gold Ingot
+3654	Hand Chime Bar #1; Hand Chime Bar #2; Hand Chime Bar #3; Hand Chime Bar #4;
+3655	Iron Ingot; Mythril Plate;
+3656	(Finest Leather; Braid)\n(Copper Ingot; Finest Leather; Braid)\n(Silver Ingot; Finest Leather; Braid)\n(Gold Ingot; Finest Leather; Braid)
+3657	Hand Chime Bar #5; Hand Chime Bar #6; Hand Chime Bar #7
+3658	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+3659	Used to make a Lyre.
+3660	Used to make Hand Chimes.
+3661	Used to make a Battle Mandolin.
+3662	Blacksmith Manual - Knight Lance
+3663	A scroll that contains instructions on how to craft a Knight Lance.
+3664	Make a Knight Lance
+3665	Iron Ingot; Silver Ingot; Mythril Ingot
+3666	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+3667	Used to make a Knight Lance.
+3668	Blacksmith Manual - Champion Knuckle
+3669	A text that contains instructions on how to craft a Champion Knuckle.
+3670	Make a Champion Knuckle
+3671	Iron Ingot; Silver Ingot; Mythril Ingot
+3672	(Finest Leather; Large Nail)\n(Copper Ingot; Finest Leather; Large Nail)\n(Silver Ingot; Finest Leather; Large Nail)\n(Gold Ingot; Finest Leather; Large Nail)
+3673	Used to make a Champion Knuckle.
+3674	Blacksmith Manual - Soft Serve Ice Cream Shortsword
+3675	A scroll that contains instructions on how to craft a Soft Serve Ice Cream Shortsword.
+3676	Make a Soft Serve Ice Cream Shortsword
+3677	Used to make a Soft Serve Ice Cream Shortsword.
+3678	Sewing Pattern - Grim Reaper's Robe
+3679	Used to make Grim Reaper's Robe.
+3680	Make Grim Reaper's Robe
+3681	Finest Silk; Finest Fabric; Tough Thread
+3682	(Finest Finishing Thread; Braid)
+3683	Used to make Grim Reaper's Robe.
+3710	옷본 - 위자드 로브 아머 (남성용)
+3711	옷본 - 위자드 로브 아머 (여성용)
+3712	옷본 - 위자드 로브 슈즈 (남성용)
+3713	옷본 - 위자드 로브 슈즈 (여성용)
+3714	남성용 위자드 로브 아머를 만들 수 있는 전개도가 그려져 있는 두루마리
+3715	여성용 위자드 로브 아머를 만들 수 있는 전개도가 그려져 있는 두루마리
+3716	남성용 위자드 로브 슈즈를 만들 수 있는 전개도가 그려져 있는 두루마리
+3717	여성용 위자드 로브 슈즈를 만들 수 있는 전개도가 그려져 있는 두루마리
+3718	위자드 로브 아머 (남성용)
+3719	위자드 로브 아머 (여성용)
+3720	위자드 로브 슈즈 (남성용)
+3721	위자드 로브 슈즈 (여성용)
+3722	고급 옷감; 고급 실크; 최고급 실크; 매듭끈
+3723	고급 옷감; 고급 실크; 최고급 실크; 매듭끈
+3724	고급 가죽; 질긴끈; 질긴 실
+3725	고급 가죽; 질긴끈; 질긴 실
+3726	(Finest Finishing Thread; Iron Plate)
+3727	(Finest Finishing Thread; Iron Plate)
+3728	(Fine Finishing Thread)
+3729	(Fine Finishing Thread)
+3730	위자드 로브 아머 (남성용)을 만들 수 있다
+3731	위자드 로브 아머 (남성용)을 만들 수 있다
+3732	위자드 로브 슈즈 (남성용)을 만들 수 있다
+3733	위자드 로브 슈즈 (여성용)을 만들 수 있다
+3734	Blacksmith Manual - Demonic Hellfire Cylinder
+3735	Blacksmith Manual - Demonic Abyss Cylinder
+3736	Blacksmith Manual - Demonic Oculus Lance
+3737	Blacksmith Manual - Demonic Death Penalty Blade
+3738	Blacksmith Manual - Demonic Death Knight Sword
+3739	Blacksmith Manual - Demonic Solitude Knuckle
+3740	Blacksmith Manual - Demonic Fear Shield
+3748	Make Demonic Hellfire Cylinder
+3749	Make Demonic Abyss Cylinder
+3750	Make Demonic Oculus Lance
+3751	Make Demonic Death Penalty Blade
+3752	Make Demonic Death Knight Sword
+3753	Making Demonic Solitude Knuckle
+3754	Making Demonic Fear Shield
+3769	Used to make Demonic Hellfire Cylinder.
+3770	Used to make Demonic Abyss Cylinder.
+3771	Used to make Demonic Oculus Lance.
+3772	Used to make Demonic Death Penalty Blade.
+3773	Used to make Demonic Death Knight Sword.
+3774	Used to make Demonic Solitude Knuckle.
+3775	Used to make Demonic Fear Shield.
+3780	Demonic Ingot
+3783	(Demonic Eye; Demonic Blade)
+3784	(Demonic Eye; Demonic Blade)
+3785	(Demonic Eye; Demonic Blade)
+3786	(Demonic Eye; Demonic Blade)
+3787	(Demonic Eye; Demonic Claw)
+3788	(Demonic Eye; Demonic Blade)
+3789	(Demonic Eye; Demonic Blade)
+3790	A scroll that contains instructions on how to craft a Demonic Hellfire Cylinder.
+3791	A scroll that contains instructions on how to craft a Demonic Abyss Cylinder.
+3792	A scroll that contains instructions on how to craft a Demonic Oculus Lance.
+3793	A scroll that contains instructions on how to craft a Demonic Death Penalty Blade.
+3794	A scroll that contains instructions on how to craft a Demonic Death Knight Sword.
+3795	A scroll that contains instructions on how to craft a Demonic Solitude Knuckle.
+3796	A scroll that contains instructions on how to craft a Demonic Fear Shield.
+3797	Demonic Scale; Demonic Ingot
+3798	Demonic Scale; Demonic Ingot
+3799	Demonic Scale; Demonic Ingot
+3800	Demonic Scale; Demonic Ingot
+3801	Demonic Scale; Demonic Ingot
+3802	Demonic Scale; Demonic Ingot
+3809	큐트 너구리 꼬리 머리 장식(남성용)을 만들 수 있는 전개도가 그려져있는 두루마리.
+3810	큐트 너구리 꼬리 머리 장식(여성용)을 만들 수 있는 전개도가 그려져있는 두루마리.
+3811	큐트 너구리 꼬리 의상(남성용)을 만들 수 있는 전개도가 그려져있는 두루마리.
+3812	큐트 너구리 꼬리 의상(여성용)을 만들 수 있는 전개도가 그려져있는 두루마리.
+3813	큐트 너구리 꼬리 신발(남성용)을 만들 수 있는 전개도가 그려져있는 두루마리.
+3814	큐트 너구리 꼬리 신발(여성용)을 만들 수 있는 전개도가 그려져있는 두루마리.
+3815	큐트 너구리 꼬리 머리 장식(남성용)
+3816	큐트 너구리 꼬리 머리 장식(여성용)
+3817	큐트 너구리 꼬리 의상(남성용)
+3818	큐트 너구리 꼬리 의상(여성용)
+3819	큐트 너구리 꼬리 신발(남성용)
+3820	큐트 너구리 꼬리 신발(여성용)
+3821	고급 옷감; 질긴끈
+3822	고급 옷감; 질긴끈
+3823	고급 옷감; 매듭끈; 질긴 실
+3824	고급 옷감; 매듭끈; 질긴 실
+3825	고급 가죽; 저가형 가죽끈
+3826	고급 가죽; 저가형 가죽끈
+3827	(Fine Finishing Thread)
+3828	(Fine Finishing Thread)
+3829	(Fine Finishing Thread)
+3830	(Fine Finishing Thread)
+3831	(Fine Finishing Thread)
+3832	(Fine Finishing Thread)
+3833	큐트 너구리 꼬리 머리 장식(남성용)을 만들 수 있다.
+3834	큐트 너구리 꼬리 머리 장식(여성용)을 만들 수 있다.
+3835	큐트 너구리 꼬리 의상(남성용)을 만들 수 있다.
+3836	큐트 너구리 꼬리 의상(여성용)을 만들 수 있다.
+3837	큐트 너구리 꼬리 신발(남성용)을 만들 수 있다.
+3838	큐트 너구리 꼬리 신발(여성용)을 만들 수 있다.
+3839	옷본 - 큐트 너구리 꼬리 머리 장식(남성용)
+3840	옷본 - 큐트 너구리 꼬리 머리 장식(여성용)
+3841	옷본 - 큐트 너구리 꼬리 의상(남성용)
+3842	옷본 - 큐트 너구리 꼬리 의상(여성용)
+3843	옷본 - 큐트 너구리 꼬리 신발(남성용)
+3844	옷본 - 큐트 너구리 꼬리 신발(여성용)
+3845	Blacksmith Manual - Hagi's Shuriken
+3846	Blacksmith Manual - Anju's Shuriken
+3847	A scroll that contains instructions on how to craft a Hagi's Shuriken.
+3848	A scroll that contains instructions on how to craft an Anju's Shuriken.
+3849	Craft Hagi's Shuriken
+3850	Craft Anju's Shuriken
+3851	Iron Ingot; Silver Ingot; Gold Ingot
+3852	Iron Ingot; Silver Ingot; Mythril Ingot
+3853	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+3854	(Finest Leather; Tough String)\n(Copper Ingot; Finest Leather; Tough String)\n(Silver Ingot; Finest Leather; Tough String)\n(Gold Ingot; Finest Leather; Tough String)
+3855	Used to make a Hagi's Shuriken.
+3856	Used to make an Anju's Shuriken.
+3857	Blacksmith Manual - Celtic War Hammer
+3858	Blacksmith Manual - Celtic Warrior Hammer
+3859	Blacksmith Manual - Celtic Battle Axe
+3860	Blacksmith Manual - Celtic Warrior Axe
+3861	Blacksmith Manual - Celtic Royal Knight Sword
+3862	Blacksmith Manual - Celtic Royal War Hammer
+3863	Blacksmith Manual - Celtic Royal Warrior Hammer
+3864	Blacksmith Manual - Celtic Royal Battle Axe
+3865	Blacksmith Manual - Celtic Royal Warrior Axe
+3866	A scroll that contains instructions on how to craft a Celtic War Hammer.
+3867	A scroll that contains instructions on how to craft a Celtic Warrior Hammer.
+3868	A scroll that contains instructions on how to craft a Celtic Battle Axe.
+3869	A scroll that contains instructions on how to craft a Celtic Warrior Axe.
+3870	A scroll that contains instructions on how to craft a Celtic Royal Knight Sword.
+3871	A scroll that contains instructions on how to craft a Celtic Royal War Hammer.
+3872	A scroll that contains instructions on how to craft a Celtic Royal Warrior Hammer.
+3873	A scroll that contains instructions on how to craft a Celtic Royal Battle Axe.
+3874	A scroll that contains instructions on how to craft a Celtic Royal Warrior Axe.
+3875	Make a Celtic War Hammer
+3876	Make a Celtic Warrior Hammer
+3877	Make a Celtic Battle Axe
+3878	Make a Celtic Warrior Axe
+3879	Make a Celtic Royal Knight Sword
+3880	Make a Celtic Royal War Hammer
+3881	Make a Celtic Royal Warrior Hammer
+3882	Make a Celtic Royal Battle Axe
+3883	Make a Celtic Royal Warrior Axe
+3884	Iron Ingot; Silver Ingot; Mythril Ingot;
+3885	Iron Ingot; Silver Ingot; Mythril Ingot;
+3886	Iron Ingot; Silver Ingot; Mythril Ingot;
+3887	Iron Ingot; Silver Ingot; Mythril Ingot;
+3888	Silver Ingot; Mythril Ingot; Lightless Metal Fragment; Blackened Blade Fragment;
+3889	Silver Ingot; Mythril Ingot; Lightless Metal Fragment; Huge Armor Fragment ;
+3890	Silver Ingot; Mythril Ingot; Lightless Metal Fragment; Huge Armor Fragment ;
+3891	Silver Ingot; Mythril Ingot; Lightless Metal Fragment; Jagged Soul Shard;
+3892	Silver Ingot; Mythril Ingot; Lightless Metal Fragment; Jagged Soul Shard;
+3893	(Braid; Large Nail; Broken Emblem)\n(Copper Ingot; Braid; Large Nail; Broken Emblem)\n(Silver Ingot; Braid; Large Nail; Broken Emblem)\n(Gold Ingot; Braid; Large Nail; Broken Emblem)
+3894	(Braid; Large Nail; Giant Broken Emblem)\n(Copper Ingot; Braid; Large Nail; Giant Broken Emblem)\n(Silver Ingot; Braid; Large Nail; Giant Broken Emblem)\n(Gold Ingot; Braid; Large Nail; Giant Broken Emblem)
+3895	(Fine Leather; Braid; Large Nail; Broken Emblem)\n(Copper Ingot; Fine Leather; Braid; Large Nail; Broken Emblem)\n(Silver Ingot; Fine Leather; Braid; Large Nail; Broken Emblem)\n(Gold Ingot; Fine Leather; Braid; Large Nail; Broken Emblem)
+3896	(Fine Leather; Braid; Large Nail; Giant Broken Emblem)\n(Copper Ingot; Fine Leather; Braid; Large Nail; Giant Broken Emblem)\n(Silver Ingot; Fine Leather; Braid; Large Nail; Giant Broken Emblem)\n(Gold Ingot; Fine Leather; Braid; Large Nail; Giant Broken Emblem)
+3897	(Tough String; Broken Seal Chain; Large Nail; Broken Emblem)\n(Copper Ingot; Tough String; Broken Seal Chain; Large Nail; Broken Emblem)\n(Silver Ingot; Tough String; Broken Seal Chain; Large Nail; Broken Emblem)\n(Gold Ingot; Tough String; Broken Seal Chain; Large Nail; Broken Emblem)
+3898	(Tough String; Broken Seal Chain; Large Nail; Broken Emblem)\n(Copper Ingot; Tough String; Broken Seal Chain; Large Nail; Broken Emblem)\n(Silver Ingot; Tough String; Broken Seal Chain; Large Nail; Broken Emblem)\n(Gold Ingot; Tough String; Broken Seal Chain; Large Nail; Broken Emblem)
+3899	(Tough String; Rusty Seal Chain; Large Nail; Giant Broken Emblem)\n(Copper Ingot; Tough String; Rusted Seal Chain; Large Nail; Giant Broken Emblem)\n(Silver Ingot; Tough String; Rusted Seal Chain; Large Nail; Giant Broken Emblem)\n(Gold Ingot; Tough String; Rusted Seal Chain; Large Nail; Giant Broken Emblem)
+3900	(Finest Leather; Broken Seal Chain; Large Nail; Broken Emblem)\n(Copper Ingot; Finest Leather; Broken Seal Chain; Large Nail; Broken Emblem)\n(Silver Ingot; Finest Leather; Broken Seal Chain; Large Nail; Broken Emblem)\n(Gold Ingot; Finest Leather; Broken Seal Chain; Large Nail; Broken Emblem)
+3901	(Finest Leather; Rusted Seal Chain; Large Nail; Giant Broken Emblem)\n(Copper Ingot; Finest Leather; Rusted Seal Chain; Large Nail; Giant Broken Emblem)\n(Silver Ingot; Finest Leather; Rusted Seal Chain; Large Nail; Giant Broken Emblem)\n(Gold Ingot; Finest Leather; Rusted Seal Chain; Large Nail; Giant Broken Emblem)
+3902	You can make a Celtic War Hammer.
+3903	You can make a Celtic Warrior Hammer
+3904	You can make a Celtic Battle Axe.
+3905	You can make a Celtic Warrior Axe.
+3906	You can make a Celtic Royal Knight Sword.
+3907	You can make a Celtic Royal War Hammer.
+3908	You can make a Celtic Royal Warrior Hammer
+3909	You can make a Celtic Royal Battle Axe.
+3910	You can make a Celtic Royal Warrior Axe.
+3911	도면 - 데모닉 이너코어 실린더
+3912	도면 - 데모닉 템페스트 실린더
+3913	데모닉 이너코어 실린더를 만들 수 있는 도면이 그려져 있는 두루마리다.
+3914	데모닉 템페스트 실린더를 만들 수 있는 도면이 그려져 있는 두루마리다.
+3915	데모닉 이너코어 실린더 만들기
+3916	데모닉 템페스트 실린더 만들기
+3917	악마의 비늘; 악마의 괴
+3918	악마의 비늘; 악마의 괴
+3919	(악마의 눈; 악마의 칼날)
+3920	(악마의 눈; 악마의 칼날)
+3921	데모닉 이너코어 실린더를 만들 수 있다.
+3922	데모닉 템페스트 실린더를 만들 수 있다.
+3923	Blacksmith Manual - Katana
+3924	Blacksmith Manual - Wakizashi
+3925	Blacksmith Manual - Tanto
+3926	A scroll with instructions on how to craft a Katana.
+3927	A scroll with instructions on how to craft a Wakizashi.
+3928	A scroll with instructions on how to craft a Tanto.
+3929	Make a Katana
+3930	Make a Wakizashi
+3931	Make a Tanto
+3932	Used to make a Katana.
+3933	Used to make a Wakizashi.
+3934	Used to make a Tanto.
+3935	옷본 - 로열 헌터 경갑옷(남성용)
+3936	옷본 - 로열 헌터 경갑옷(여성용)
+3937	옷본 - 로열 헌터 장갑(남성용)
+3938	옷본 - 로열 헌터 장갑(여성용)
+3939	옷본 - 로열 헌터 부츠(남성용)
+3940	옷본 - 로열 헌터 부츠(여성용)
+3941	옷본 - 로열 헌터 베레모(남성용)
+3942	옷본 - 로열 헌터 베레모(여성용)
+3943	옷본 - 라이미라크 성가대 의상(남성용)
+3944	옷본 - 라이미라크 성가대 의상(여성용)
+3945	옷본 - 라이미라크 성가대 신발(남성용)
+3946	옷본 - 라이미라크 성가대 신발(여성용)
+3947	옷본 - 라이미라크 성가대 모자(남성용)
+3948	옷본 - 라이미라크 성가대 모자(여성용)
+3949	옷본 - 순례자 로브(남성용)
+3950	옷본 - 순례자 로브(여성용)
+3951	로열 헌터 경갑옷(남성용)을 만들 수 있다.
+3952	로열 헌터 경갑옷(여성용)을 만들 수 있다.
+3953	로열 헌터 장갑(남성용)을 만들 수 있다.
+3954	로열 헌터 장갑(여성용)을 만들 수 있다.
+3955	로열 헌터 부츠(남성용)를 만들 수 있다.
+3956	로열 헌터 부츠(여성용)를 만들 수 있다.
+3957	로열 헌터 베레모(남성용)를 만들 수 있다.
+3958	로열 헌터 베레모(여성용)를 만들 수 있다.
+3959	라이미라크 성가대 의상(남성용)을 만들 수 있다.
+3960	라이미라크 성가대 의상(여성용)을 만들 수 있다.
+3961	라이미라크 성가대 신발(남성용)을 만들 수 있다.
+3962	라이미라크 성가대 신발(여성용)을 만들 수 있다.
+3963	라이미라크 성가대 모자(남성용)를 만들 수 있다.
+3964	라이미라크 성가대 모자(여성용)를 만들 수 있다.
+3965	순례자 로브(남성용)를 만들 수 있다.
+3966	순례자 로브(여성용)를 만들 수 있다.
+3967	로열 헌터 경갑옷(남성용) 만들기
+3968	로열 헌터 경갑옷(여성용) 만들기
+3969	로열 헌터 장갑(남성용) 만들기
+3970	로열 헌터 장갑(여성용) 만들기
+3971	로열 헌터 부츠(남성용) 만들기
+3972	로열 헌터 부츠(여성용) 만들기
+3973	로열 헌터 베레모(남성용) 만들기
+3974	로열 헌터 베레모(여성용) 만들기
+3975	라이미라크 성가대 의상(남성용) 만들기
+3976	라이미라크 성가대 의상(여성용) 만들기
+3977	라이미라크 성가대 신발(남성용) 만들기
+3978	라이미라크 성가대 신발(여성용) 만들기
+3979	라이미라크 성가대 모자(남성용) 만들기
+3980	라이미라크 성가대 모자(여성용) 만들기
+3981	순례자 로브(남성용) 만들기
+3982	순례자 로브(여성용) 만들기
+3983	최고급 옷감; 최고급 가죽; 최고급 가죽끈
+3984	최고급 옷감; 최고급 가죽; 최고급 가죽끈
+3985	고급 가죽; 고급 가죽끈; 매듭끈
+3986	고급 가죽; 고급 가죽끈; 매듭끈
+3987	고급 가죽; 고급 가죽끈; 매듭끈
+3988	고급 가죽; 고급 가죽끈; 매듭끈
+3989	고급 가죽; 매듭끈
+3990	고급 가죽; 매듭끈
+3991	최고급 실크; 최고급 옷감; 질긴 실
+3992	최고급 실크; 최고급 옷감; 질긴 실
+3993	최고급 옷감;고급 옷감;고급 실크
+3994	최고급 옷감;고급 옷감;고급 실크
+3995	최고급 옷감;고급 옷감;고급 실크
+3996	최고급 옷감;고급 옷감;고급 실크
+3997	최고급 실크; 최고급 옷감; 질긴 실
+3998	최고급 실크; 최고급 옷감; 질긴 실
+3999	(최고급 마감용 실; 철판)
+4000	(최고급 마감용 실; 철판)
+4001	(최고급 마감용 실; 철판)
+4002	(최고급 마감용 실; 철판)
+4003	(Finest Finishing Thread; Braid)
+4004	(Finest Finishing Thread; Braid)
+4005	(Finest Finishing Thread; Braid)
+4006	(최고급 마감용 실)
+4007	(Finest Finishing Thread; Braid)
+4008	(Finest Finishing Thread; Braid)
+4009	(Finest Finishing Thread; Braid)
+4010	(Finest Finishing Thread; Braid)
+4011	(최고급 마감용 실)
+4012	(최고급 마감용 실)
+4013	(최고급 마감용 실)
+4014	(Finest Finishing Thread; Braid)
+4015	로열 헌터 경갑옷(남성용)을 만들 수 있다.
+4016	로열 헌터 경갑옷(여성용)을 만들 수 있다.
+4017	로열 헌터 장갑(남성용)을 만들 수 있다.
+4018	로열 헌터 장갑(여성용)을 만들 수 있다.
+4019	로열 헌터 부츠(남성용)를 만들 수 있다.
+4020	로열 헌터 부츠(여성용)를 만들 수 있다.
+4021	로열 헌터 베레모(남성용)를 만들 수 있다.
+4022	로열 헌터 베레모(여성용)를 만들 수 있다.
+4023	라이미라크 성가대 의상(남성용)을 만들 수 있다.
+4024	라이미라크 성가대 의상(여성용)을 만들 수 있다.
+4025	라이미라크 성가대 신발(남성용)을 만들 수 있다.
+4026	라이미라크 성가대 신발(여성용)을 만들 수 있다.
+4027	라이미라크 성가대 모자(남성용)를 만들 수 있다.
+4028	라이미라크 성가대 모자(여성용)를 만들 수 있다.
+4029	순례자 로브(남성용)를 만들 수 있다.
+4030	순례자 로브(여성용)를 만들 수 있다.
+4031	옷본 - 티 파티 모자장수 정장
+4032	옷본 - 티 파티 토끼 드레스
+4033	옷본 - 티 파티 모자장수 신발
+4034	옷본 - 티 파티 토끼 신발
+4035	옷본 - 티 파티 모자장수 모자
+4036	옷본 - 티 파티 토끼 헤어밴드
+4037	티 파티 모자장수 정장을 만들 수 있다.
+4038	티 파티 토끼 드레스를 만들 수 있다.
+4039	티 파티 모자장수 신발을 만들 수 있다.
+4040	티 파티 토끼 신발을 만들 수 있다.
+4041	티 파티 모자장수 모자를 만들 수 있다.
+4042	티 파티 토끼 헤어밴드를 만들 수 있다.
+4043	티 파티 모자장수 정장 만들기
+4044	티 파티 토끼 드레스 만들기
+4045	티 파티 모자장수 신발 만들기
+4046	티 파티 토끼 신발 만들기
+4047	티 파티 모자장수 모자 만들기
+4048	티 파티 토끼 헤어밴드 만들기
+4049	고급 옷감; 고급 실크; 최고급 실크; 매듭끈
+4050	고급 옷감; 고급 실크; 최고급 실크; 매듭끈
+4051	최고급 옷감;고급 옷감;매듭끈
+4052	최고급 옷감;고급 옷감;매듭끈
+4053	고급 가죽; 매듭끈
+4054	고급 가죽; 매듭끈
+4055	(Finest Finishing Thread; Braid)
+4056	(Finest Finishing Thread; Braid)
+4057	(Finest Finishing Thread; Braid)
+4058	(Finest Finishing Thread; Braid)
+4059	(고급 마감용 실)
+4060	(고급 마감용 실)
+4061	티 파티 모자장수 정장을 만들 수 있다.
+4062	티 파티 토끼 드레스를 만들 수 있다.
+4063	티 파티 모자장수 신발을 만들 수 있다.
+4064	티 파티 토끼 신발을 만들 수 있다.
+4065	티 파티 모자장수 모자를 만들 수 있다.
+4066	티 파티 토끼 헤어밴드를 만들 수 있다.
+4067	Blacksmith Manual - Celtic Throwing Star
+4068	Blacksmith Manual - Celtic Edged Knuckle
+4069	Blacksmith Manual - Celtic Tetra Cylinder
+4070	A scroll containing instructions on crafting a Celtic Throwing Star.
+4071	A scroll containing instructions on crafting a Celtic Edged Knuckle.
+4072	A scroll containing instructions on crafting a Celtic Tetra Cylinder.
+4073	Make a Celtic Throwing Star
+4075	Make a Celtic Tetra Cylinder
+4082	You can make a Celtic Throwing Star.
+4083	You can make a Celtic Edged Knuckle.
+4084	You can make a Celtic Tetra Cylinder.
+4085	Sewing Pattern - Destructive Robe (M)
+4086	Sewing Pattern - Destructive Robe (F)
+4087	Sewing Pattern - Destructive Gloves (M)
+4088	Sewing Pattern - Destructive Gloves (F)
+4089	Sewing Pattern - Destructive Shoes (M)
+4090	Sewing Pattern - Destructive Shoes (F)
+4091	A scroll containing instructions on crafting a Destructive Robe (M).
+4092	A scroll containing instructions on crafting a Destructive Robe (F).
+4093	A scroll containing instructions on crafting Destructive Gloves (M).
+4094	A scroll containing instructions on crafting Destructive Gloves (F).
+4095	A scroll containing instructions on crafting Destructive Shoes (M).
+4096	A scroll containing instructions on crafting Destructive Shoes (F).
+4097	Destructive Robe (M)
+4098	Destructive Robe (F)
+4099	Destructive Gloves (M)
+4100	Destructive Gloves (F)
+4101	Destructive Shoes (M)
+4102	Destructive Shoes (F)
+4103	Finest Silk; Finest Fabric; Tough Thread; Broken Magic Essence; Rich Chaotic Rune
+4104	Finest Silk; Finest Fabric; Tough Thread; Broken Magic Essence; Rich Chaotic Rune
+4105	Finest Fabric; Fine Fabric; Fine Silk; Magic Essence; Chaotic Rune
+4106	Finest Fabric; Fine Fabric; Fine Silk; Magic Essence; Chaotic Rune
+4107	Finest Fabric; Fine Fabric; Fine Silk; Magic Essence; Chaotic Rune
+4108	Finest Fabric; Fine Fabric; Fine Silk; Magic Essence; Chaotic Rune
+4109	(Finest Finishing Thread; Braid; Magical Golden Thread)
+4110	(Finest Finishing Thread; Braid; Magical Golden Thread)
+4111	(Finest Finishing Thread; Magical Golden Thread)
+4112	(Finest Finishing Thread; Magical Golden Thread)
+4113	(Finest Finishing Thread; Magical Golden Thread)
+4114	(Finest Finishing Thread; Magical Golden Thread)
+4115	Used to make a Destructive Robe (M).
+4116	Used to make a Destructive Robe (F).
+4117	Used to make Destructive Gloves (M).
+4118	Used to make Destructive Gloves (F).
+4119	Used to make Destructive Shoes (M).
+4120	Used to make Destructive Shoes (F).
+4121	Make a Celtic Edged Knuckle
+4122	Silver Ingot; Mythril Ingot; Ruptured Black Metal; Subtle Mark;
+4123	Silver Ingot; Mythril Ingot; Ruptured Black Metal; Firm Blade Fragment;
+4124	Silver Ingot; Mythril Ingot; Ruptured Black Metal; Amplified Alchemy Crystal;
+4131	(Forged Weapon Piece; Large Nail; Incomplete Seal Emblem)\n(Copper Ingot; Forged Weapon Piece; Large Nail; Incomplete Seal Emblem)\n(Silver Ingot; Forged Weapon Piece; Large Nail; Incomplete Seal Emblem)\n(Gold Ingot; Forged Weapon Piece; Large Nail; Incomplete Seal Emblem)
+4132	(Destroyed Seal Chain; Large Nail; Incomplete Seal Emblem)\n(Copper Ingot; Destroyed Seal Chain; Large Nail; Incomplete Seal Emblem)\n(Silver Ingot; Destroyed Seal Chain; Large Nail; Incomplete Seal Emblem)\n(Gold Ingot; Destroyed Seal Chain; Large Nail; Incomplete Seal Emblem)
+4133	(Shining Crystal Shard; Large Nail; Incomplete Seal Emblem)\n(Copper Ingot; Shining Crystal Shard; Large Nail; Incomplete Seal Emblem)\n(Silver Ingot; Shining Crystal Shard; Large Nail; Incomplete Seal Emblem)\n(Gold Ingot; Shining Crystal Shard; Large Nail; Incomplete Seal Emblem)
+4134	Sewing Pattern - Succubus Fiend Dress
+4135	Sewing Pattern - Succubus Fiend Bracelets
+4136	Sewing Pattern - Succubus Fiend Boots
+4137	A scroll that contains instructions on how to craft a Succubus Fiend Dress.
+4138	A scroll that contains instructions on how to craft Succubus Fiend Bracelets.
+4139	A scroll that contains instructions on how to craft Succubus Fiend Boots.
+4140	Succubus Fiend Dress
+4141	Succubus Fiend Bracelets
+4142	Succubus Fiend Boots
+4143	Finest Leather; Tough String
+4144	Finest Leather; Tough String
+4145	Finest Fabric; Finest Silk; Finest Leather Strap
+4146	Finest Finishing Thread; Pink Baby Potion; Magical Golden Thread
+4147	Finest Finishing Thread; Pink Baby Potion; Magical Golden Thread
+4148	Finest Finishing Thread; Pink Baby Potion; Magical Golden Thread
+4149	Used to make a Succubus Fiend Dress.
+4150	Used to make Succubus Fiend Bracelets.
+4151	Used to make Succubus Fiend Boots.
+4152	Blacksmith Manual - Soluna Blade
+4153	A scroll that contains instructions on how to craft the Soluna Blade.
+4154	Make the Soluna Blade
+4155	Solite; Lunite; Fate Fragment; Dawnblade; Duskblade;
+4156	(Ladeca Blue Upgrade Stone; Eweca Red Upgrade Stone)
+4157	Used to make the Soluna Blade.
+4158	Sewing Pattern - Tribal Bird Robe
+4159	Used to make a Tribal Bird Robe.
+4160	Make a Tribal Bird Robe
+4161	Finest Silk; Finest Fabric; Tough Thread; Shiny Gold Thread
+4162	(Finest Finishing Thread; Braid)
+4163	Used to make a Tribal Bird Robe.
+4178	Make a Winter Messenger Bracelet (M)
+4179	Fine Fabric; Fine Silk; Finest Silk, Braid
+4180	Fine Fabric; Fine Silk; Finest Silk, Braid
+4181	Finest Fabric;Fine Fabric;Braid
+4182	Finest Fabric;Fine Fabric;Braid
+4183	Fine Leather; Braid
+4184	(Finest Finishing Thread; Braid)
+4185	(Finest Finishing Thread; Braid)
+4186	(Finest Finishing Thread; Braid)
+4187	(Fine Finishing Thread)
+4188	(Fine Finishing Thread)
+4194	Sewing Pattern - Winter Messenger Outfit (M)
+4195	Sewing Pattern - Winter Messenger Outfit (F)
+4196	Sewing Pattern - Winter Messenger Shoes (M)
+4197	Sewing Pattern - Winter Messenger Shoes (F)
+4198	Sewing Pattern - Winter Messenger Bracelet (M)
+4199	Used to make a Winter Messenger Outfit (M).
+4200	Used to make a Winter Messenger Outfit (F).
+4201	Used to make a Winter Messenger Shoes (M).
+4202	Used to make a Winter Messenger Shoes (F).
+4203	Used to make a Winter Messenger Bracelet (M).
+4204	Make a Winter Messenger Outfit (M)
+4205	Make a Winter Messenger Outfit (F)
+4206	Make a Winter Messenger Shoes (M)
+4207	Make a Winter Messenger Shoes (F)
+4208	Used to make a Winter Messenger Outfit (M).
+4209	Used to make a Winter Messenger Outfit (F).
+4210	Used to make a Winter Messenger Shoes (M).
+4211	Used to make a Winter Messenger Shoes (F).
+4212	Used to make a Winter Messenger Bracelet (M).
+4213	옷본 - 저스티스 수트(남성용)
+4214	옷본 - 저스티스 수트(여성용)
+4215	옷본 - 저스티스 수트 부츠
+4216	옷본 - 저스티스 수트 모자
+4217	저스티스 수트(남성용)을 만들 수 있다.
+4218	저스티스 수트(여성용)을 만들 수 있다.
+4219	저스티스 수트 부츠를 만들 수 있다.
+4220	저스티스 수트 모자를 만들 수 있다.
+4221	저스티스 수트(남성용)
+4222	저스티스 수트(여성용)
+4223	저스티스 수트 부츠
+4224	저스티스 수트 모자
+4225	고급 옷감; 고급 실크; 최고급 실크; 매듭끈
+4226	고급 옷감; 고급 실크; 최고급 실크; 매듭끈
+4227	최고급 옷감;고급 옷감;매듭끈
+4228	최고급 옷감;고급 옷감;고급 실크
+4229	(최고급 마감용 실; 매듭끈)
+4230	(최고급 마감용 실; 매듭끈)
+4231	(고급 마감용 실)
+4232	(최고급 마감용 실; 매듭끈)
+4233	저스티스 수트(남성용)을 만들 수 있다.
+4234	저스티스 수트(여성용)을 만들 수 있다.
+4235	저스티스 수트 부츠를 만들 수 있다.
+4236	저스티스 수트 모자를 만들 수 있다.
+4237	Blacksmith Manual - Frosted Borealis Hammer
+4238	A scroll containing instructions on how to craft a Frosted Borealis Hammer.
+4239	Make a Frosted Borealis Hammer
+4240	Silver Ingot; Mythril Ingot; Frosted Borealis Crystal; Resilient Ebony;
+4241	(Finest Leather Strap; Gem of Valor; Large Nail; Essence of Raw Force)\n(Copper Ingot; Finest Leather Strap; Gem of Valor; Large Nail; Essence of Raw Force)\n(Silver Ingot; Finest Leather Strap; Gem of Valor; Large Nail; Essence of Raw Force)\n(Gold Ingot; Finest Leather Strap; Gem of Valor; Large Nail; Essence of Raw Force)
+4242	You can make a Frosted Borealis Hammer.
+4261	Blacksmith Manual - Stinger Chain Blade
+4262	Blacksmith Manual - Cutthroat Chain Blade
+4263	Blacksmith Manual - Celtic Howling Chain Blade
+4264	A scroll containing instructions on how to craft a Stinger Chain Blade.
+4265	A scroll containing instructions on how to craft a Cutthroat Chain Blade.
+4266	A scroll containing instructions on how to craft a Celtic Howling Chain Blade.
+4267	Make a Stinger Chain Blade
+4268	Make a Cutthroat Chain Blade
+4269	Make a Celtic Howling Chain Blade
+4270	Iron Ingot; Silver Ingot; Gold Ingot
+4271	Iron Ingot; Copper Ingot; Mythril Ingot
+4272	Silver Ingot; Mythril Ingot; Ruptured Black Metal; Infernal Blade Fragment
+4273	(Fine Leather; Braid)\n(Copper Ingot; Fine Leather; Braid)\n(Silver Ingot; Fine Leather; Braid)\n(Gold Ingot; Fine Leather; Braid)
+4274	(Finest Leather; Braid)\n(Copper Ingot; Finest Leather; Braid)\n(Silver Ingot; Finest Leather; Braid)\n(Gold Ingot; Finest Leather; Braid)
+4275	(Tough String; Incomplete Seal Emblem; Runestone of Daring)\n(Copper Ingot; Tough String; Incomplete Seal Emblem; Runestone of Daring)\n(Silver Ingot; Tough String; Incomplete Seal Emblem; Runestone of Daring)\n(Gold Ingot; Tough String; Incomplete Seal Emblem; Runestone of Daring)
+4276	Used to make a Stinger Chain Blade.
+4277	Used to make a Cutthroat Chain Blade.
+4278	Used to make a Celtic Howling Chain Blade.
+4279	Sewing Pattern - Ancient Alban Knight Robe (Arthuan)
+4280	Sewing Pattern - Ancient Alban Knight Robe (Elved)
+4281	Sewing Pattern - Ancient Alban Knight Robe (Eiler)
+4282	Sewing Pattern - Ancient Alban Knight Robe (Heruin)
+4283	A scroll that contains instructions on how to craft an Ancient Alban Knight Robe (Arthuan).
+4284	A scroll that contains instructions on how to craft an Ancient Alban Knight Robe (Elved).
+4285	A scroll that contains instructions on how to craft an Ancient Alban Knight Robe (Eiler).
+4286	A scroll that contains instructions on how to craft an Ancient Alban Knight Robe (Heruin).
+4287	Alban Knight Robe (Arthuan)
+4288	Alban Knight Robe (Elved)
+4289	Alban Knight Robe (Eiler)
+4290	Alban Knight Robe (Heruin)
+4291	Finest Fabric; Finest Leather; Iron Plate; Sylvan Dragon Scale
+4292	Finest Fabric; Finest Leather; Iron Plate; Sylvan Dragon Eye
+4293	Finest Fabric; Finest Leather; Iron Plate; Mokkurkalfi Venom
+4294	Finest Fabric; Finest Leather; Iron Plate; Mokkurkalfi Death Mask
+4295	(Finest Finishing Thread; Braid; Mythril Plate)
+4296	(Finest Finishing Thread; Braid; Mythril Plate)
+4297	(Finest Finishing Thread; Braid; Mythril Plate)
+4298	(Finest Finishing Thread; Braid; Mythril Plate)
+4299	Used to make an Ancient Alban Knight Robe (Arthuan).
+4300	Used to make an Ancient Alban Knight Robe (Elved).
+4301	Used to make an Ancient Alban Knight Robe (Eiler).
+4302	Used to make an Ancient Alban Knight Robe (Heruin).
+4303	Sewing Pattern - Ibbie's Teddy Bear
+4304	Used to refurbish Ibbie's Teddy Bear
+4305	Craft Ibbie's Teddy Bear
+4306	Finest Fabric; Tough Thread; Old Teddy Bear Fabric
+4307	(Finest Finishing Thread; Braid)
+4308	Craft Ibbie's Teddy Bear
+4381	Blacksmith Manual - Perseus Tyrannus Cylinder
+4382	Blacksmith Manual - Perseus Tyrannus Guard Cylinder
+4383	Blacksmith Manual - Perseus Tormented Knuckle
+4384	Blacksmith Manual - Revenant Insight Cylinder
+4385	Blacksmith Manual - Revenant Insight Guard Cylinder
+4386	Blacksmith Manual - Revenant Splinter Knuckle
+4387	A scroll that contains instructions on how to craft a Perseus Tyrannus Cylinder. Read it by using the [Phantasmal Sight] Technique.
+4388	A scroll that contains instructions on how to craft a Perseus Tyrannus Guard Cylinder. Read it by using the [Phantasmal Sight] Technique.
+4389	A scroll that contains instructions on how to craft a Perseus Tormented Knuckle. Read it by using the [Phantasmal Sight] Technique.
+4390	A scroll that contains instructions on how to craft a Revenant Insight Cylinder. Read it by using the [Phantasmal Sight] Technique.
+4391	A scroll that contains instructions on how to craft a Revenant Insight Guard Cylinder. Read it by using the [Phantasmal Sight] Technique.
+4392	A scroll that contains instructions on how to craft a Revenant Splinter Knuckle. Read it by using the [Phantasmal Sight] Technique.
+4393	Make a Perseus Tyrannus Cylinder
+4394	Make a Perseus Tyrannus Guard Cylinder
+4395	Make a Perseus Tormented Knuckle
+4396	Make a Revenant Insight Cylinder
+4397	Make a Revenant Insight Guard Cylinder
+4398	Make a Revenant Splinter Knuckle
+4399	Silver Ingot; Mythril Ingot; Mythril Plate; Kraken Sucker
+4400	Silver Ingot; Mythril Ingot; Mythril Plate; Kraken Sucker
+4401	Gold Ingot; Mythril Plate; Kraken Leg Spike
+4402	Silver Ingot; Gold Ingot; Gold Plate; Vengeance-Imbued Alchemy Crystal
+4403	Silver Ingot; Mythril Ingot; Mythril Plate; Vengeance-Imbued Alchemy Crystal
+4404	Gold Ingot; Mythril Plate; Vengeance-Imbued Blade
+4405	(Gold Ingot; Large Nail; Tough String; Kraken Heart; Sealed Strength Crystal: Cylinder; Sealed Strength Fragment: Cylinder; Sealed Strength Powder: Cylinder)
+4406	(Gold Ingot; Large Nail; Tough String; Kraken Heart; Sealed Strength Crystal: Cylinder; Sealed Strength Fragment: Cylinder; Sealed Strength Powder: Cylinder)
+4407	(Gold Ingot; Large Nail; Tough String; Kraken Heart; Sealed Strength Crystal: Knuckle; Sealed Strength Fragment: Knuckle; Sealed Strength Powder: Knuckle)
+4408	(Gold Ingot; Large Nail; Tough String; Misty Red Gem; Sealed Strength Crystal: Cylinder; Sealed Strength Fragment: Cylinder; Sealed Strength Powder: Cylinder)
+4409	(Gold Ingot; Large Nail; Tough String; Misty Red Gem; Sealed Strength Crystal: Cylinder; Sealed Strength Fragment: Cylinder; Sealed Strength Powder: Cylinder)
+4410	(Gold Ingot; Large Nail; Tough String; Misty Red Gem; Sealed Strength Crystal: Knuckle; Sealed Strength Fragment: Knuckle; Sealed Strength Powder: Knuckle)
+4411	You can make a Perseus Tyrannus Cylinder.
+4412	You can make a Perseus Tyrannus Guard Cylinder.
+4413	You can make a Perseus Tormented Knuckle.
+4414	You can make a Revenant Insight Cylinder.
+4415	You can make a Revenant Insight Guard Cylinder.
+4416	You can make a Revenant Splinter Knuckle.
+4423	옷본 - 레드 아이 수트(남성용)
+4424	옷본 - 레드 아이 수트(여성용)
+4425	옷본 - 레드 아이 스트랩(여성용)
+4426	옷본 - 레드 아이 햇
+4427	옷본 - 레드 아이 부츠
+4428	레드 아이 수트(남성용)을 만들 수 있다.
+4429	레드 아이 수트(여성용)을 만들 수 있다.
+4430	레드 아이 스트랩(여성용)을 만들 수 있다.
+4431	레드 아이 햇을 만들 수 있다.
+4432	레드 아이 부츠를 만들 수 있다.
+4433	레드 아이 수트(남성용) 만들기
+4434	레드 아이 수트(여성용) 만들기
+4435	레드 아이 스트랩(여성용) 만들기
+4436	레드 아이 햇 만들기
+4437	레이 아이 부츠 만들기
+4438	최고급 실크; 최고급 옷감; 질긴 실
+4439	최고급 실크; 최고급 옷감; 질긴 실
+4440	고급 가죽; 고급 가죽끈; 매듭끈
+4441	최고급 옷감;고급 옷감;고급 실크
+4442	최고급 옷감;고급 옷감;고급 실크
+4443	(최고급 마감용 실; 매듭끈)
+4444	(최고급 마감용 실; 매듭끈)
+4445	(최고급 마감용 실; 매듭끈)
+4446	(최고급 마감용 실; 매듭끈)
+4447	(최고급 마감용 실)
+4448	레드 아이 수트(남성용)을 만들 수 있다.
+4449	레드 아이 수트(여성용)을 만들 수 있다.
+4450	레드 아이 스트랩(여성용)을 만들 수 있다.
+4451	레드 아이 햇을 만들 수 있다.
+4452	레드 아이 부츠를 만들 수 있다.

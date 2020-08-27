@@ -1,0 +1,152 @@
+﻿3	The White Dragon has appeared near Vales!
+4	You've defeated the White Dragon's army!
+5	The remnants of the White Dragon are disappearing.
+7	You've defeated the summoned White Dragon's army!
+8	The remnants of the summoned White Dragon are disappearing.
+9	The White Dragon was summoned near Vales!
+10	The White Dragon has appeared near Vales!
+11	You've defeated the White Dragon's army!
+12	The remnants of the White Dragon are disappearing.
+13	The Black Dragon has appeared near Filia!
+14	The Black Dragon has appeared near Filia!
+15	You've defeated the Black Dragon's army!
+16	You've defeated the Black Dragon's army!
+17	The remnants of the Black Dragon are disappearing.
+18	The remnants of the Black Dragon are disappearing.
+19	The Black Dragon was summoned near Filia!
+20	You've defeated the summoned Black Dragon's army!
+21	The remnants of the summoned Black Dragon are disappearing.
+22	The Black Dragon has appeared near Filia!
+23	The Black Dragon has appeared near Filia!
+24	The Black Dragon was summoned near Filia!
+25	The Black Dragon has appeared near Filia!
+26	The Black Dragon has appeared near Filia!
+27	The Black Dragon was summoned near Filia!
+28	You've defeated the Black Dragon's army!
+29	You've defeated the Black Dragon's army!
+30	You've defeated the summoned Black Dragon's army!
+31	You've defeated the Black Dragon's army!
+32	You've defeated the Black Dragon's army!
+33	You've defeated the summoned Black Dragon's army!
+34	The remnants of the Black Dragon are disappearing.
+35	The remnants of the Black Dragon are disappearing.
+36	The remnants of the summoned Black Dragon are disappearing.
+37	The remnants of the Black Dragon are disappearing.
+38	The remnants of the Black Dragon are disappearing.
+39	The remnants of the summoned Black Dragon are disappearing.
+40	The White Dragon has appeared near Vales!
+41	The White Dragon was summoned near Vales!
+42	The White Dragon has appeared near Vales!
+43	The White Dragon has appeared near Vales!
+44	You've defeated the White Dragon's army!
+45	You've defeated the White Dragon's army!
+46	You've defeated the summoned White Dragon's army!
+47	You've defeated the White Dragon's army!
+48	You've defeated the White Dragon's army!
+49	The remnants of the White Dragon are disappearing.
+50	The remnants of the White Dragon are disappearing.
+51	The remnants of the summoned White Dragon are disappearing.
+52	The remnants of the White Dragon are disappearing.
+53	The remnants of the White Dragon are disappearing.
+54	The Black Dragon has appeared near Filia!
+55	The Black Dragon has appeared near Filia!
+56	The Black Dragon was summoned near Filia!
+57	You've defeated the Black Dragon's army!
+58	You've defeated the Black Dragon's army!
+59	You've defeated the summoned Black Dragon's army!
+60	The remnants of the Black Dragon are disappearing.
+61	The remnants of the Black Dragon are disappearing.
+62	The remnants of the summoned Black Dragon are disappearing.
+63	필리아 근처에 블랙 드래곤이 나타났습니다!
+64	필리아 근처에 블랙 드래곤이 나타났습니다!
+65	필리아 근처에 블랙 드래곤이 소환되었습니다!
+66	발레스 근처에 화이트 드래곤이 나타났습니다!
+67	발레스 근처에 화이트 드래곤이 나타났습니다!
+68	발레스 근처에 화이트 드래곤이 소환되었습니다!
+69	필리아 근처에 블랙 드래곤이 나타났습니다!
+70	필리아 근처에 블랙 드래곤이 나타났습니다!
+71	필리아 근처에 블랙 드래곤이 소환되었습니다!
+72	발레스 근처에 화이트 드래곤이 나타났습니다!
+73	발레스 근처에 화이트 드래곤이 나타났습니다!
+74	발레스 근처에 화이트 드래곤이 소환되었습니다!
+75	블랙 드래곤 군단을 퇴치했습니다!
+76	블랙 드래곤 군단을 퇴치했습니다!
+77	소환된 블랙 드래곤 군단을 퇴치했습니다!
+78	화이트 드래곤 군단을 퇴치했습니다!
+79	화이트 드래곤 군단을 퇴치했습니다!
+80	소환된 화이트 드래곤 군단을 퇴치했습니다!
+81	블랙 드래곤 군단을 퇴치했습니다!
+82	블랙 드래곤 군단을 퇴치했습니다!
+83	소환된 블랙 드래곤 군단을 퇴치했습니다!
+84	화이트 드래곤 군단을 퇴치했습니다!
+85	화이트 드래곤 군단을 퇴치했습니다!
+86	소환된 화이트 드래곤 군단을 퇴치했습니다!
+87	블랙 드래곤의 흔적이 사라집니다.
+88	블랙 드래곤의 흔적이 사라집니다.
+89	소환된 블랙 드래곤의 흔적이 사라집니다.
+90	화이트 드래곤의 흔적이 사라집니다.
+91	화이트 드래곤의 흔적이 사라집니다.
+92	소환된 화이트 드래곤의 흔적이 사라집니다.
+93	블랙 드래곤의 흔적이 사라집니다.
+94	블랙 드래곤의 흔적이 사라집니다.
+95	소환된 블랙 드래곤의 흔적이 사라집니다.
+96	화이트 드래곤의 흔적이 사라집니다.
+97	화이트 드래곤의 흔적이 사라집니다.
+98	소환된 화이트 드래곤의 흔적이 사라집니다.
+99	The White Dragon has appeared near Vales!
+100	The White Dragon has appeared near Vales!
+101	The White Dragon was summoned near Vales!
+102	You've defeated the White Dragon's army!
+103	You've defeated the White Dragon's army!
+104	You've defeated the summoned White Dragon's army!
+105	The remnants of the White Dragon are disappearing.
+106	The remnants of the White Dragon are disappearing.
+107	The remnants of the summoned White Dragon are disappearing.
+108	Mokkurkalfi has appeared near the Abandoned Camp in Avalon!
+109	Mokkurkalfi has appeared near the Abandoned Camp in Avalon!
+110	The Sylvan Dragon has appeared near Yggdrasil in Avalon!
+111	Sylvan Dragon appeared near Yggdrasil in Avalon!
+114	You defeated Mokkurkalfi!
+115	You defeated Mokkurkalfi!
+116	You defeated the Sylvan Dragon!
+117	You defeated the Sylvan Dragon!
+120	The remnants of Mokkurkalfi are disappearing.
+121	The remnants of Mokkurkalfi are disappearing.
+122	The remnants of the Sylvan Dragon are disappearing.
+123	The remnants of the Sylvan Dragon are disappearing.
+124	Mokkurkalfi has appeared near the Abandoned Camp in Avalon!
+125	Mokkurkalfi has appeared near the Abandoned Camp in Avalon!
+126	The Sylvan Dragon has appeared near Yggdrasil in Avalon!
+127	The Sylvan Dragon has appeared near Yggdrasil in Avalon!
+128	You defeated Mokkurkalfi!
+129	You defeated Mokkurkalfi!
+130	You defeated the Sylvan Dragon!
+131	You defeated the Sylvan Dragon!
+132	The remnants of Mokkurkalfi are disappearing.
+133	The remnants of Mokkurkalfi are disappearing.
+134	The remnants of the Sylvan Dragon are disappearing.
+135	The remnants of the Sylvan Dragon are disappearing.
+136	아발론 버려진 야영지 근처에 모쿠르칼피가 출몰했습니다!
+137	아발론 버려진 야영지 근처에 모쿠르칼피가 출몰했습니다!
+138	아발론 세계수 근처에 실반 드래곤이 출몰했습니다!
+139	아발론 세계수 근처에 실반 드래곤이 출몰했습니다!
+140	모쿠르칼피를 저지했습니다!
+141	모쿠르칼피를 저지했습니다!
+142	실반 드래곤을 저지했습니다!
+143	실반 드래곤을 저지했습니다!
+144	모쿠르칼피의 흔적이 사라집니다.
+145	모쿠르칼피의 흔적이 사라집니다.
+146	실반 드래곤의 흔적이 사라집니다.
+147	실반 드래곤의 흔적이 사라집니다.
+148	아발론 버려진 야영지 근처에 모쿠르칼피가 출몰했습니다!
+149	아발론 버려진 야영지 근처에 모쿠르칼피가 출몰했습니다!
+150	아발론 세계수 근처에 실반 드래곤이 출몰했습니다!
+151	아발론 세계수 근처에 실반 드래곤이 출몰했습니다!
+152	모쿠르칼피를 저지했습니다!
+153	모쿠르칼피를 저지했습니다!
+154	실반 드래곤을 저지했습니다!
+155	실반 드래곤을 저지했습니다!
+156	모쿠르칼피의 흔적이 사라집니다.
+157	모쿠르칼피의 흔적이 사라집니다.
+158	실반 드래곤의 흔적이 사라집니다.
+159	실반 드래곤의 흔적이 사라집니다.

@@ -1,0 +1,25 @@
+﻿1	Bridge
+2	Bridge
+3	Bridge
+4	Bridge
+5	Bridge
+6	Bridge
+7	Bridge
+8	Test Bridge
+9	Test Bridge
+10	Ice Bridge
+11	Ice Bridge
+12	Ice Bridge
+13	Ice Bridge
+14	Ice Bridge
+15	Ice Bridge
+16	Ice Bridge
+17	Ice Bridge
+18	Ice Bridge
+19	Ice Bridge
+20	Ruined Bridge
+21	Ruined Bridge
+22	Ruined Bridge
+23	Ruined Bridge
+24	Ruined Bridge
+25	Ruined Bridge

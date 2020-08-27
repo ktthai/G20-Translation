@@ -1,0 +1,45 @@
+﻿0	Lute
+2	Ukulele
+3	Mandolin
+4	Whistle
+5	Roncadora
+6	Flute
+7	Chalumeau
+8	Music Bottle 'C'
+9	Music Bottle 'D'
+10	Music Bottle 'E'
+11	Music Bottle 'F'
+12	Music Bottle 'G'
+13	Music Bottle 'B'
+14	Music Bottle 'A'
+15	Physis Tuba
+16	Lyre
+17	Electric Guitar
+18	Piano
+19	Violin
+20	Cello
+21	Harp
+22	Festival Lute
+23	Festival Ukulele
+24	Festival Mandolin
+25	Festival Whistle
+26	Festival Flute
+27	Bass Drum
+28	Snare Drum
+29	Cymbals
+30	Handbell 'C'
+31	Handbell 'D'
+32	Handbell 'E'
+33	Handbell 'F'
+34	Handbell 'G'
+35	Handbell 'A'
+36	Handbell 'B'
+37	Handbell 'High C'
+38	Hand Chimes
+41	Song (Male)
+42	Song (Female)
+43	Tuned Violin
+44	Tuned Cello
+45	Tuned Whistle
+46	Tuned Flute
+47	Drums

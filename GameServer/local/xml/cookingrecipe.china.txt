@@ -1,0 +1,780 @@
+﻿1	Assorted Fruits
+2	Mayonnaise
+3	Fruit Salad
+4	Potato Salad
+5	Egg Salad
+6	Potato & Egg Salad
+7	Strawberry Milk
+8	Cheese Bread
+9	Steamed Potato
+10	Hard-Boiled Egg
+11	Fried Button Mushrooms
+12	Fried Onion
+13	Fried Vegetables
+14	Shrimp Fried Rice
+15	Steamed Rice
+16	Button Mushroom Soup
+17	Onion Soup
+18	Vegetable Soup
+19	Fried Shrimp
+20	French Fries
+21	Fried Chicken Wing
+22	Roasted Bacon
+23	Fried Egg
+24	Baked Potato
+25	Roasted Chicken Wing
+26	Beef Steak
+27	Toast
+28	Milk Bread
+29	Sliced Bread
+30	Garlic Bread
+31	Flour Dough
+32	Fry Batter
+33	Broiled Brifne Carp
+34	Steamed Brifne Carp
+35	Taitinn Carp Stew
+36	Fish and Chips
+37	Orange Juice
+38	Lemon Juice
+39	Apple Juice
+40	Chocolate
+41	Chocolate Milk
+42	Rare Cheesecake
+43	Curry Bread
+44	Curry Paste
+45	Croque Monsieur
+46	Butter Biscuit
+47	Chocolate Chip Cookie
+48	Cheese Gratin
+49	Gateau Au Chocolat
+50	Brownie
+51	Roasted Chicken
+52	Barley Bread
+53	T-Bone Steak
+54	Taitinn Carp Brochette
+55	Curry Rice
+56	Steamed Trout
+57	Coq Au Vin
+58	Cheese Fondue
+59	Spicy Fish Stew
+60	Bouillabaisse
+61	Brifne Rocks
+62	Screwdriver
+63	Leighean Sling
+64	B&R
+65	Kiss on the Lips
+66	Red Sunrise
+67	Orange Juice (Part-Time Job)
+68	Lemon Juice (Part-Time Job)
+69	Apple Juice (Part-Time Job)
+70	Croque Monsieur (Part-Time Job)
+71	Butter Biscuit (Part-Time Job)
+72	Brownie (Part-Time Job)
+73	Roasted Chicken (Part-Time Job)
+74	Spicy Fish Stew (Part-Time Job)
+75	Strawberry
+76	Apple
+77	Berry
+78	Egg
+79	Olive Oil
+80	Assorted Fruits
+81	Mayonnaise
+82	Steamed Potato
+83	Onion
+84	Hard-Boiled Egg
+85	Mayonnaise
+86	Hard-Boiled Egg
+87	Steamed Potato
+88	Mayonnaise
+89	Strawberry
+90	Milk
+91	Bread
+92	Slice of Cheese
+93	Potato
+94	Water
+95	Egg
+96	Water
+97	Button Mushroom
+98	Garlic
+99	Onion
+100	Garlic
+101	Cabbage
+102	Carrot
+103	Onion
+104	Steamed Rice
+105	Shrimp
+106	Rice
+107	Water
+108	Fried Button Mushrooms
+109	Whipping Cream
+110	Fried Onion
+111	Whipping Cream
+112	Fried Vegetables
+113	Whipping Cream
+114	Shrimp
+115	Fry Batter
+116	Potato
+117	Fry Batter
+118	Chicken Wing
+119	Fry Batter
+120	Bacon
+121	Egg
+122	Potato
+123	Chicken Wing
+124	Olive Oil
+125	Beef
+126	Garlic
+127	Sliced Bread
+128	Butter
+129	Flour Dough
+130	Butter
+131	Milk
+132	Flour Dough
+133	Butter
+134	Bread
+135	Garlic
+136	Wheat Flour
+137	Yeast
+138	Water
+139	Frying Powder
+140	Egg
+141	Water
+142	Brifne Carp
+143	Olive Oil
+144	Salt
+145	Brifne Carp
+146	Salt
+147	Water
+148	Taitinn Carp
+149	Garlic
+150	Potato
+151	Taitinn Carp
+152	Fry Batter
+153	Potato
+154	Orange
+155	Berry
+156	Sugar
+157	Lemon
+158	Berry
+159	Sugar
+160	Apple
+161	Berry
+162	Sugar
+163	Chocolate Ingredient
+164	Whipping Cream
+165	Sugar
+166	Chocolate
+167	Milk
+168	Sugar
+169	Big Lump of Cheese
+170	Whipping Cream
+171	Butter Biscuit
+172	Bread
+173	Slice of Meat
+174	Curry Powder
+175	Potato
+176	Slice of Meat
+177	Curry Powder
+178	Sliced Bread
+179	Slice of Meat
+180	Slice of Cheese
+181	Wheat Flour
+182	Butter
+183	Sugar
+184	Wheat Flour
+185	Butter
+186	Chocolate Ingredient
+187	Big Lump of Cheese
+188	Cheese Bread
+189	Egg
+190	Wheat Flour
+191	Chocolate
+192	Egg
+193	Wheat Flour
+194	Chocolate
+195	Yeast
+196	Chicken Wing
+197	Thyme
+198	Salt
+199	Barley Flour
+200	Water
+201	Yeast
+202	Large Meat
+203	Thyme
+204	Salt
+205	Taitinn Carp
+206	Thyme
+207	Lemon
+208	Curry Paste
+209	Steamed Rice
+210	Butter
+211	Rainbow Trout
+212	Thyme
+213	Water
+214	Chicken Wing
+215	Emain Macha Wine
+216	Thyme
+217	Slice of Cheese
+218	Slice of Meat
+219	Potato
+220	Golden Scale Fish
+221	Taitinn Carp
+222	Red Pepper Powder
+223	Taitinn Carp
+224	Shrimp
+225	Emain Macha Wine
+226	Brifne Whisky
+227	Lemon
+228	Ice
+229	Brifne Whisky
+230	Lemon
+231	Orange Juice
+232	Leighean Gin
+233	Lemon Juice
+234	Sugar
+235	Brifne Whisky
+236	Leighean Gin
+237	Ice
+238	Brifne Whisky
+239	Lemon Juice
+240	Sugar
+241	Brifne Whisky
+242	Orange Juice
+243	Sugar
+244	Orange (Part-Time Job)
+245	Berry (Part-Time Job)
+246	Sugar (Part-Time Job)
+247	Lemon (Part-Time Job)
+248	Berry (Part-Time Job)
+249	Sugar (Part-Time Job)
+250	Apple (Part-Time Job)
+251	Berry (Part-Time Job)
+252	Sugar (Part-Time Job)
+253	Sliced Bread (Part-Time Job)
+254	Slice of Meat (Part-Time Job)
+255	Slice of Cheese (Part-Time Job)
+256	Wheat Flour (Part-Time Job)
+257	Butter (Part-Time Job)
+258	Sugar (Part-Time Job)
+259	Wheat Flour (Part-Time Job)
+260	Chocolate (Part-Time Job)
+261	Yeast (Part-Time Job)
+262	Chicken Wing (Part-Time Job)
+263	Thyme (Part-Time Job)
+264	Salt (Part-Time Job)
+265	Golden Scale Fish (Part-Time Job)
+266	Taitinn Carp Brochette (Part-Time Job)
+267	Red Pepper Powder (Part-Time Job)
+268	Salt
+269	Sugar
+270	Pepper
+271	Salt
+272	Sugar
+273	Pepper
+274	Salt
+275	Sugar
+276	Pepper
+277	Salt
+278	Sugar
+279	Pepper
+280	Salt
+281	Sugar
+282	Pepper
+283	Salt
+284	Sugar
+285	Pepper
+286	Salt
+287	Sugar
+288	Pepper
+289	Salt
+290	Sugar
+291	Pepper
+292	Salt
+293	Sugar
+294	Pepper
+295	Salt
+296	Sugar
+297	Pepper
+298	Egg
+299	Salt
+300	Sugar
+301	Pepper
+302	Salt
+303	Sugar
+304	Pepper
+305	Salt
+306	Sugar
+307	Pepper
+308	Salt
+309	Sugar
+310	Pepper
+311	Salt
+312	Sugar
+313	Pepper
+314	Salt
+315	Sugar
+316	Pepper
+317	Salt
+318	Sugar
+319	Pepper
+320	Salt
+321	Sugar
+322	Pepper
+323	Salt
+324	Sugar
+325	Pepper
+326	Salt
+327	Sugar
+328	Pepper
+329	Salt
+330	Sugar
+331	Pepper
+332	Salt
+333	Sugar
+334	Pepper
+335	Pepper
+336	Butter
+337	Pepper
+338	Salt
+339	Salt
+340	Pepper
+341	Pepper
+342	Onion
+343	Sugar
+344	Thyme
+345	Water
+346	Thyme
+347	새우 개밥
+348	개 과자
+349	베이컨과 감자 개밥
+350	야채 모둠
+351	오믈렛
+352	옥수수 스콘
+353	옥수수 식빵
+354	찐 옥수수
+355	옥수수 빵 반죽
+356	샥스핀 스프
+357	콘소메
+358	치킨 누들 콘소메
+359	옥수수 스프
+360	소면
+361	누들
+362	양파 튀김
+363	모둠 튀김
+364	콘칩
+365	모듬볶음밥
+366	버섯볶음밥
+367	팝콘
+368	조개구이
+369	비단 청새치구이
+370	Holiday Cake
+371	청새치 스테이크
+372	훈제 개복치
+373	날치 크레이프
+374	킹크랩
+375	가오리 아가미 퓌레
+376	해파리 냉채
+377	아귀찜
+378	구운 콩
+379	물에 불린 콩
+380	뭉개진 두부
+381	마법 콩 두부
+382	버섯 포타주
+383	버섯 콘소메
+384	버섯 카푸치노스프
+385	버섯 카나페
+386	독버섯 스튜
+387	버섯 그라탕
+388	버섯 마리네이드
+389	버섯찜
+390	토마토 소스
+391	크림 소스
+392	해물 소스
+393	파스타 반죽
+394	롱 파스타
+395	쇼트 파스타
+396	토마토 스파게티
+397	크림 파르팔레
+398	해물 스파게티
+399	바질티
+400	레몬티
+401	스팀밀크
+402	핫초코
+403	보리차
+404	타임티
+405	베지터블 카나페
+406	토마토 바질 샐러드
+407	허브 버섯 샐러드
+408	옥수수차
+409	필리아 쿠키 세트
+410	루트라 칵테일 세트
+411	나레스 케익 세트
+412	버섯 쿠키
+413	코코넛 쿠키
+414	코코넛 파운드 케익
+415	코코넛 게살 스프
+416	키시
+417	잣죽
+418	철갑상어 스테이크
+419	캐비어 카나페
+420	에그 캐비어
+421	발레스 화이어
+422	빙어 무침
+423	빙어 튀김
+424	장어 구이
+425	주니퍼 젤리
+426	카멜리아 슬링
+427	까르르 버섯 쿠키
+428	눈물 우동
+429	크레이지 초코볼
+430	잘난체 스테이크
+431	두근두근 가토 오 쇼콜라
+432	우정의 새우 볶음밥
+433	볶은 커피
+434	에스프레소
+435	에스프레소 마끼아또
+436	카푸치노
+437	마끼아또
+438	카페 모카
+439	아이스 카페 모카
+440	아이스 마끼아또
+441	Holiday Rice Cake
+442	Fried Abb Neagh Carp
+443	Corned Abb Neagh Carp and Vegetables
+444	Abb Neagh Carp Stew
+445	Braised Catfish and Clams
+446	Grilled Catfish
+447	Catfish Garden Salad
+448	Salt Grilled Sweetfish
+449	Kamaboko
+450	Pan-fried Silk Striped Marlin with Egg
+451	Round Corn Cake
+452	Assorted Fried Fish Dish
+453	Pickled Celery
+454	Garlic Cheese Roasted Mushroom
+455	Niku Makki
+456	Osechi Yasai
+457	Bacon Wrapped Tuna
+458	문어 샐러드
+459	Onion Fried Tuna
+460	열빙어 튀김
+461	개다래도미 머리 조림
+462	Salmon Salad
+463	Silvervine and Snapper
+464	Silvervine Tea
+465	Pumpkin Jam
+466	Strawberry Jam
+467	Peanut Butter Jam
+468	Apple Jam
+469	Grape Jam
+470	Toast
+471	Club Sandwich
+472	Pan Tart Crust
+473	Pan Pie Crust
+474	Sweet Pumpkin Tart
+475	Egg Tart
+476	Apple Pie
+477	Pecan Pie
+478	Lemon Juice
+479	Mana Herb Garlic Steak
+480	Shrimp Bruschetta
+481	Pasta Marinara
+482	Granita
+483	Starch Syrup
+484	Shrimp Bait
+485	Taitinn Carp Bait
+486	Fish Soup
+487	Curry-Roasted Black Sea Bream
+488	Curry-Roasted Red Sea Bream
+489	Rock Bream Fish Stew
+490	Steamed Shark Fin
+491	Caviar Salad
+492	Spicy Red Sea Bream Stew
+493	Lunch Box of Memories
+494	Butter Grilled Reef Lobster
+495	Mackerel Steak
+496	Belvast Eel Rice Bowl
+497	Beltfish Stew
+498	Cacao Chocolate Cake
+499	Pepper Grilled Silk-Striped Marlin
+500	Show-off Pork Steak
+501	Crunchy Mushroom Cookie
+502	Dragon Flesh Lump
+503	Grilled White Dragon Heart
+504	Grilled Black Dragon Heart
+505	Dragon T-Bone Steak
+506	Dragon Blood White Wine
+507	Dragon Blood Red Wine
+510	BnR
+511	Rice Cake Soup
+512	Large Rice Cake Soup
+513	Jumbo Rice Cake Soup
+514	Moon Cake
+515	Large Moon Cake
+516	Jumbo Moon Cake
+517	Halloween Pumpkin Candy
+518	Halloween Wrapped Candy
+519	Halloween Pumpkin Chocolate
+520	Halloween Wrapped Cookie
+521	Halloween Pumpkin Pie
+522	Halloween Hat Cookie
+523	Halloween Star Cookie
+524	Halloween Owl Cookie
+525	Halloween Ghost Jelly
+526	Halloween Pumpkin Jelly
+527	Fried Dumplings
+528	Large Fried Dumplings
+529	Jumbo Fried Dumplings
+530	Toasted Rice Cake
+531	Fortune Cookie
+532	Roasted Turkey
+533	Tara Sausage Sandwich
+534	Holiday Rice Cake
+535	Truffle Pie
+536	Chocolate Souffle
+537	Celery Salad
+538	Chicken Chow Mein
+539	Grilled Corn
+540	Short Stack
+541	Chocolate Cake
+542	Chicken Soup
+543	Taffy Stick
+544	Giant Star Candy
+545	Bean Stuffing
+546	Simmered Sweet Potato
+547	Simmered Beans
+548	Simmered Octopus
+549	Simmered Cabbage
+550	Simmered Chestnuts
+551	Sweet Pumpkin Puree
+552	White Rice Cake
+553	Meat Pie
+554	Meat Marinade
+555	Hotcakes
+556	Sausage
+557	Shrimp Bait
+558	Crucian Carp Bait
+559	Button Mushroom Soup
+560	Shrimp Dog Food
+561	Fried Onion
+562	Mashed Roasted Bean Flour Tofu
+563	Mashed Peeled Bean Flour Tofu
+564	Mashed Water-soaked Bean Flour Tofu
+565	Silk Striped Marlin Omelette
+566	Round Corn Cake
+567	Apple Pie
+568	Pecan Pie
+569	Seafood Yakisoba
+570	Pad Thai
+571	Fried Shrimp Udon
+572	Roasted Bean Noodles
+573	Peeled Bean Noodles
+574	Water-soaked Bean Noodles
+575	Festive Noodles
+576	Curry Udon
+577	Tofu Noodles A
+578	Tofu Noodles B
+579	Tofu Noodles C
+580	Steamed Egg Casserole
+581	Pork Galbi Stew
+582	Pumpkin Galbi Stew
+583	Steamed Eggplants
+584	Sweet Pumpkin Steamed Seafood
+585	Vegetable Steamed Chicken
+586	Simmered Dumplings
+587	Spaghetti Aglio e Olio
+588	Carbonara
+589	Amatriciana
+590	Spaghetti alle Vongole
+591	Pane
+592	Walnut Pie
+593	Sweet Potato Pie
+594	Almond Pie
+595	Almond Strawberry Jam Tart
+596	Blueberry Jam
+597	Orange Marmalade
+598	Lemon Jam
+599	Pasta Ingredients
+600	Fried Sausage Vegetables
+601	Fried Eggplants
+602	Fried Poulp
+603	Sweet Potato Fries
+604	Potato Croquette
+605	Glazed Sweet Potatoes
+606	Pork Cutlet
+607	Bread Crumb
+608	Roasted Bean Broth
+609	Peeled Bean Broth
+610	Water-soaked Bean Broth
+611	Meat Broth
+612	Steamed Cabbage Beans
+613	Unidentified Sushi
+614	Asuna's Sandwich
+615	Ragu Rabbit Stew
+616	Silvervine and Snapper
+617	Silvervine Tea
+618	Cheesy Hot Fries
+619	Devil's Chocomix
+620	Decadence Platter
+621	Gastro Burger
+622	Festival Turkey Dish
+623	Candied Strawberries
+624	Corn Dog
+625	Antioxidant Juice
+626	Churro
+627	Sparkling Water
+628	죽순 춘권
+629	죽순 팔보채
+630	죽순 유산슬
+631	죽순 해물 파스타
+632	Rose Basil Salad
+633	Rose Pepper Mushroom Stir Fry
+634	Rose Cafe Latte
+635	Witch's Soup
+636	Garlic Wine
+637	Schweinshaxe
+638	Tofu Steak
+639	Grilled Salted Herring
+640	Gyeran-mari
+641	Tortilla
+642	Crepe
+643	Truffle Omelet
+644	S'more
+645	Churrasco
+646	Gochujang Pork Bulgogi
+647	Grilled Pineapple
+648	Pineapple Bacon Skewer
+649	Worcestershire Sauce
+650	Green Plum Tea
+651	Irish Stew
+652	Tteok-bokki
+653	Gochujang Jjigae
+654	Assorted Sashimi Noodles
+655	Beltfish Sashimi Noodles
+656	Vinegar
+657	Wine Vinegar
+658	Pickled Eggs
+659	Pickled Cucumbers
+660	Plain Yogurt
+661	Honey Yogurt
+662	Strawberry Yogurt
+663	Blueberry Yogurt
+664	Anchovy
+665	Salami
+666	Sauerkraut
+667	Umeboshi
+668	Hakarl
+669	Natto
+670	Gochujang
+671	Pineapple Fried Rice
+672	Pulled Pork Sandwich
+673	Moist Salmon Steak
+674	Chicken Breast Salad
+675	Warm Hot Spring Egg
+676	Strip Steak
+677	Handmade Sirloin Ham
+678	Grilled Mackerel with Curry
+679	Chicken Breast Yurinki
+680	Sous Vide Galbi-jjim
+681	Mackerel Jorim
+682	Bossam
+683	Gelatinous Custard Pudding
+684	Mushroom Jangjorim
+685	Oyakodon
+686	Salmon Oyakodon
+687	Sous Vide Pasta Aglio e Olio
+688	Green Plum Syrup
+689	Shrimp Sashimi
+690	Eel Sashimi
+691	Tuna Sashimi
+692	Salmon Sashimi
+693	Beltfish Sashimi
+694	Korean Beef Tartare
+695	Blowfish Sashimi
+696	Trout Sashimi
+697	Reef Lobster Sashimi
+698	Parboiled Octopus
+699	Assorted Sashimi
+700	Assorted Sashimi Bibimbap
+701	Shish Kebab
+702	Iskender Kebab
+703	Picnic Chicken Kebab
+704	Burrito
+705	Red Sauce Pizza Dough
+706	Plain Pizza Dough
+707	Gorgonzola
+708	Margherita
+709	Calzone
+710	Sweet Potato Pizza
+711	Pepperoni Pizza
+712	Fragrant Mushroom Pizza
+713	Chocolate Pizza
+714	Shrimp Pizza
+715	Steak Pizza
+716	Focaccia
+717	Spicy Chicken Pizza
+719	Vegetable Pizza
+721	Chojang
+722	Reuben Sandwich
+723	Ebi Sushi
+724	Unagi Sushi
+725	Tamago Sushi
+726	Toro Sushi
+727	Salmon Sushi
+728	Lassi
+729	Coleslaw
+730	Light Salmon Salad
+731	Marshmallow
+732	Crepe Cake
+733	Strawberry Whipped Cream Crepe
+734	Blueberry Whipped Cream Crepe
+735	Chocolate Crepe Cake
+736	Happy Dessert Time Combo
+737	Tara Deep Dish
+738	Courcle Pizza
+739	캠프파이어용 갈릭 스테이크
+740	환영식용 모둠 쿠키
+741	Dreamy Cotton Candy
+744	Steamed Mushrooms and Shellfish
+745	Boar and Mushroom Skewer
+746	특별한 떡국
+747	Raw Chopped Kraken
+748	Steamed Kraken
+749	Kraken Skewer
+750	Kraken Pulpo
+751	Spicy Fried Kraken
+752	Kraken Ink Pasta
+753	Spicy Kraken Stew
+754	Kraken Stirfry
+755	Full Kraken Meal
+756	Scuabtuinne Sucker Skewers
+757	Scuabtuinne Sucker Sous Vide
+758	Yggdrasil Leaf Vegetable Soup
+759	Yggdrasil Leaf Shrimp Fried Rice
+760	Lipai Tea
+761	Shoyu Ramen
+762	Shio Ramen
+763	Cheeseburger
+764	Shrimp Burger
+765	Bacon Burger
+766	Chicken Burger
+767	Birthday Cake
+768	Cookies and Cream Cake
+769	Pan's Craft Brew
+770	Highball
+771	Hard Cider
+772	Omurice
+773	Egg Porridge
+774	Egg Sandwich
+775	Takoyaki
+776	Soybean Paste
+777	Miso Ramen
+778	Miso Soup
+779	Red Bean Shaved Ice
+780	도토리 떡국
+781	도토리 묵
+782	도토리 전
+783	Japari Bun
+784	Rab's Food
+785	Spicy Hot Pot
+786	Imitation Japari Bun

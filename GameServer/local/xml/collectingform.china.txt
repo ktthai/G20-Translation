@@ -1,0 +1,945 @@
+﻿1	
+2	
+3	
+4	
+5	
+6	
+7	
+8	
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	
+25	
+26	
+27	
+28	That's not how you shear a sheep.
+29	That's not how you gather eggs.
+30	You really botched that cut.|Your axe head bounced right off the bark.|You missed and almost chopped your pinky toe off.|You ruined the lumber.| You got nothing but splinters.
+31	Your pickaxe bounced off.|You didn't find anything but pebbles.|Your pickaxe got stuck in the rock.|There weren't any minerals in that chunk.|You smushed a beetle, but you didn't find any minerals.
+32	You didn't find anything but worms and dirt.|The potato fell apart in your hands.|It looked like a potato, but it was just a fat mole.|That's not even a potato.
+33	You accidentally crushed the wheat.|That wheat was all dried out.|You shredded the wheat... and not in a good way.|That's not right at all.
+34	You accidentally crushed the barley.|The barley you grabbed was actually a tightly bunched group of locusts.|You tripped and fell in the barley.|That's not right at all.
+35	That's not how you milk a cow.|You shot yourself in the eye and lost the whole bottle.|You dropped the bottle on a rock.|You and the cow made eye contact, so you just couldn't go through with it.
+36	A puff of dust came out of the udder.|You had an existential crisis and had to stop. |You were overcome by burger hunger and couldn't continue. |You suddenly forgot where milk comes from.
+37	That's not how you milk a cow.|You shot yourself in the eye and lost the whole bottle.|You dropped the bottle on a rock.|You and the cow made eye contact, so you just couldn't go through with it.
+38	You tried to grab the water with your hands and just got wet. |You forgot how liquid works.|You grabbed a bunch of minnows and had to put them back.|The water wasn't wet enough, so you put it back.
+39	You tried to grab the water with your hands and just got wet. |You forgot how liquid works.|You grabbed a bunch of minnows and had to put them back.|The water wasn't wet enough, so you put it back.
+40	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+41	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+42	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+43	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+44	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+45	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+46	You didn't feel comfortable invading the monster's personal space.|You tried, but the monster bit you on the finger.|You couldn't figure out where the monster was keeping it.|The monster dodged your attempts.
+47	You didn't feel comfortable invading the monster's personal space.|You tried, but the monster bit you on the finger.|You couldn't figure out where the monster was keeping it.|The monster dodged your attempts.
+48	You didn't feel comfortable invading the monster's personal space.|You tried, but the monster bit you on the finger.|You couldn't figure out where the monster was keeping it.|The monster dodged your attempts.
+49	The cob crumbled to dust in your hands. |You missed and grabbed a handful of leaves.|You got lost thinking about how good popcorn is.|You tried to fight a corn plant and lost.
+50	You slipped and smashed the flower.|You sneezed really hard and blew the flower away.|You were overcome by the flower's beauty and stopped to write a poem.
+51	You slipped and smashed the flower.|You sneezed really hard and blew the flower away.|You were overcome by the flower's beauty and stopped to write a poem.
+52	You slipped and smashed the flower.|You sneezed really hard and blew the flower away.|You were overcome by the flower's beauty and stopped to write a poem.
+53	Your pickaxe bounced off.|You didn't find anything but pebbles.|Your pickaxe got stuck in the rock.|There weren't any minerals in that chunk.|You smushed a beetle, but you didn't find any minerals.
+54	That's not how you gather eggs.
+55	There's just no wool left.|Stop trying to shear this sheep!|You should look for a different sheep.|Try another sheep.|This sheep needs a break.
+56	This chicken's not laying eggs for awhile.|Stop messing with this chicken!|You should look for a different chicken.|Try another chicken.|This chicken needs a break.
+57	This tree looks like swiss cheese.|Taking any more wood from this tree will kill it.|Stop picking on this tree.|Your obsession with this tree is reaching unhealthy levels.
+58	There aren't any more minerals here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+59	All the potatoes here have been harvested.|You need to give the potatoes more time to grow.|All the good ones are gone.|Look elsewhere for your french fry-making needs.
+60	All the wheat here has been harvested.|You need to give the wheat more time to grow.|Go somewhere else to find wheat.|Look elsewhere for your bread-making needs.
+61	All the barley here has been harvested.|You need to give the barley more time to grow.|Go somewhere else to find barley.|Look elsewhere for your stew-making needs.
+62	This cow is all dried up.|This poor cow needs a break.|Maybe try a different cow now.|This cow's run dry.|Give those udders a break!
+63	This cow is all dried up.|This poor cow needs a break.|Maybe try a different cow now.|This cow's run dry.|Give those udders a break!
+64	This cow is all dried up.|This poor cow needs a break.|Maybe try a different cow now.|This cow's run dry.|Give those udders a break!
+65	
+66	
+67	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+68	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+69	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+70	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+71	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+72	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+73	No elementals here...|This monster doesn't have any elementals.
+74	No elementals here...|This monster doesn't have any elementals.
+75	No elementals here...|This monster doesn't have any elementals.
+76	All the corn here has been harvested.|You need to give the corn more time to grow.|Go somewhere else to find corn.|Look elsewhere for your syrup-making needs.
+77	All the flowers here are wilted.|This place has been picked clean. |You get the feeling that these plants want you to leave.
+78	All the flowers here are wilted.|This place has been picked clean. |You get the feeling that these plants want you to leave.
+79	All the flowers here are wilted.|This place has been picked clean. |You get the feeling that these plants want you to leave.
+80	There aren't any more minerals here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+81	This chicken's not laying eggs for awhile.|Stop messing with this chicken!|You should look for a different chicken.|Try another chicken.|This chicken needs a break.
+82	The sheep moved and spoiled your shearing.
+83	The chicken moved! No egg for you.|The chicken got away with its egg.
+84	
+85	
+86	
+87	
+88	
+89	Yikes! The cow moved.|The cow escaped!
+90	Yikes! The cow moved.|The cow escaped!
+91	Yikes! The cow moved.|The cow escaped!
+92	
+93	
+94	
+95	
+96	
+97	
+98	
+99	
+100	The monster moved! | The monster ran away!
+101	The monster moved! | The monster ran away!
+102	The monster moved! | The monster ran away!
+103	
+104	
+105	
+106	
+107	
+108	The chicken moved! No egg for you.|The chicken got away with its egg.
+109	Your blade is too dull.
+110	
+111	Your axe blade needs a good sharpening.|You need to fix your axe before you hurt yourself.
+112	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+113	This hoe is broken.|You need a new hoe.|You need to fix your hoe before you hurt yourself.
+114	This sickle is broken.|You need a new sickle.|You need to fix your sickle before you hurt yourself.
+115	This sickle is broken.|You need a new sickle.|You need to fix your sickle before you hurt yourself.
+116	
+117	
+118	
+119	
+120	
+121	
+122	
+123	
+124	
+125	
+126	
+127	This wand is busted.|You need a new wand.|You need to fix your wand before you blow yourself up.
+128	This wand is busted.|You need a new wand.|You need to fix your wand before you blow yourself up.
+129	This wand is busted.|You need a new wand.|You need to fix your wand before you blow yourself up.
+130	This sickle is broken.|You need a new sickle.|You need to fix your sickle before you hurt yourself.
+131	This hoe is broken.|You need a new hoe.|You need to fix your hoe before you hurt yourself.
+132	This hoe is broken.|You need a new hoe.|You need to fix your hoe before you hurt yourself.
+133	This hoe is broken.|You need a new hoe.|You need to fix your hoe before you hurt yourself.
+134	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+135	
+136	
+137	
+138	
+139	
+140	
+141	
+142	
+143	You need a bottle to hold the milk.|Where are you going to put that? Get a bottle!
+144	You need a bottle to hold the milk.|Where are you going to put that? Get a bottle!
+145	You need a bottle to hold the milk.|Where are you going to put that? Get a bottle!
+146	
+147	
+148	
+149	
+150	
+151	
+152	
+153	
+154	
+155	
+156	
+157	
+158	
+159	
+160	
+161	
+162	
+163	Your pickaxe bounced off.|You didn't find anything but pebbles.|Your pickaxe got stuck in the rock.|There weren't any minerals in that chunk.|You smushed a beetle, but you didn't find any minerals.
+164	There aren't any more minerals here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+165	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+166	
+167	
+168	
+169	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and got a smooch on the face.
+170	There aren't any herbs here.
+171	The herb pig moved! |The herb pig was too wiggly.
+172	
+173	
+174	
+175	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+176	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+177	
+178	
+179	
+180	
+181	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+182	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+183	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+184	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+185	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+186	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+187	
+188	
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	You forgot how to work a pickaxe. |You missed all the moon stones. |You didn't feel like getting all sweaty. |You forgot what moon stones look like.
+200	You should try somewhere else.
+201	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+202	
+203	
+204	
+206	You should mine a different deposit.|There's nothing useful here.
+207	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+208	
+209	
+210	
+211	You forgot how to work a pickaxe. |You missed all the moon stones. |You didn't feel like getting all sweaty. |You forgot what moon stones look like.
+212	You thought you found good stone, but it was an old baguette. |All the stone crumbled in your sweaty hands.|You took a pebble in the eye and had to stop.
+213	You thought you found good stone, but it was an old baguette. |All the stone crumbled in your sweaty hands.|You took a pebble in the eye and had to stop.
+214	You forgot how to work a pickaxe. |You missed all the moon stones. |You didn't feel like getting all sweaty. |You forgot what moon stones look like.
+215	You should try somewhere else.
+216	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+217	
+218	
+219	
+220	The shellfish was busy yelling at its fry-cook, so you let it go.|The shellfish distracted you with a song about mermaids.|You accidentally touched seaweed and it grossed you out.
+221	All the clams here are too stuck up. |You should find another clam bed to raid. |There aren't any good clams here.
+222	Your Weeding Hoe is broken!|How can you expect to do anything with a broken Weeding Hoe?|You need to repair your Weeding Hoe.
+223	
+224	
+225	
+226	You failed to find a small rock. |You couldn't find a nice enough piece of the statue to take.
+227	You failed to find a small rock. |You couldn't find a nice enough piece of the statue to take.
+228	You failed to find a small rock. |You couldn't find a nice enough piece of the statue to take.
+229	There are no more rocks to find here. |Your rock-gathering senses tingle and tell you to look elsewhere.
+230	There are no more rocks to find here. |Your rock-gathering senses tingle and tell you to look elsewhere.
+231	There are no more rocks to find here. |Your rock-gathering senses tingle and tell you to look elsewhere.
+232	
+233	
+234	
+235	
+236	
+237	
+238	
+239	
+240	
+241	
+242	
+243	
+244	You failed to find a small rock. |You couldn't find a nice enough piece of the statue to take.
+245	There are no more rocks to find here. |Your rock-gathering senses tingle and tell you to look elsewhere.
+246	
+247	
+248	
+249	
+250	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and got a smooch on the face.
+251	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and got a smooch on the face.
+252	You chickened out at the last second and didn't extract any poison.|Your hands slipped.|You dropped the bottle. Whoops!|Poisons are tricky. You must have made a mistake.
+253	There aren't any herbs here.
+254	There aren't any herbs here.
+255	The cobra is out of poison. Poor cobra. |You've milked the cobra for all the poison it's worth.|Maybe you should find another cobra. This one's looking pretty pale.|This cobra has absolutely no poison left. Not a single drop.|If you want to keep hassling this particular cobra, wait for it to regenerate more poison.
+256	The Clover Pig moved! You couldn't gather anything.|The Clover Pig is playing coy, so you couldn't gather anything.
+257	The Clover Gnu moved! You couldn't gather anything.|The Clover Gnu is playing coy, so you couldn't gather anything.
+258	The Cobra moved! You couldn't gather anything.|The Cobra is playing coy, so you couldn't gather anything.
+259	
+260	
+261	
+262	
+263	
+264	
+265	
+266	
+267	You don't have a bottle. Where would you put the poison? In your pocket?|You thought about storing the poison in your mouth but decided a bottle would be better.
+268	You chickened out at the last second and didn't extract any poison.|Your hands slipped.|You dropped the bottle. Whoops!|Poisons are tricky. You must have made a mistake.
+269	The cobra is out of poison. Poor cobra. |You've milked the cobra for all the poison it's worth.|Maybe you should find another cobra. This one's looking pretty pale.|This cobra has absolutely no poison left. Not a single drop.|If you want to keep hassling this particular cobra, wait for it to regenerate more poison.
+270	The Cobra moved! You couldn't gather anything.|The Cobra is playing coy, so you couldn't gather anything.
+271	
+272	
+273	You don't have a bottle. Where would you put the poison? In your pocket?|You thought about storing the poison in your mouth but decided a bottle would be better.
+274	The rock eluded you.|You failed to gather any rocks.|Your hands slipped. |You didn't gather any rocks. |Oops, you must've made a mistake.
+275	Save some rocks for nature. Go gather somewhere else. |You don't see any more easily gatherable rock chunks here.|Maybe you should mine somewhere else.
+276	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+277	
+278	
+279	
+280	You failed to find a small rock. |You couldn't find a nice enough piece of the statue to take.
+281	You failed to find a small rock. |You couldn't find a nice enough piece of the statue to take.
+282	There are no more rocks to find here. |Your rock-gathering senses tingle and tell you to look elsewhere.
+283	There are no more rocks to find here. |Your rock-gathering senses tingle and tell you to look elsewhere.
+284	
+285	
+286	
+287	
+288	
+289	
+290	
+291	
+292	You tried to grab the water with your hands and just got wet. |You forgot how liquid works.|You grabbed a bunch of minnows and had to put them back.|The water wasn't wet enough, so you put it back.
+293	
+294	
+295	
+296	
+297	
+298	You failed to find a small rock. |You couldn't find a nice enough piece of the statue to take.
+299	There are no more rocks to find here. |Your rock-gathering senses tingle and tell you to look elsewhere.
+300	
+301	
+302	
+303	
+304	The beans danced away when they saw you.|You got so excited at the thought of fresh beans, your hands slipped.|No beans for you! Not this time!|You thought you saw a bean, but it was caterpillar.
+305	The beans have all marched away.|The only beans left are moldy gross ones.|There are no beans left.|Maybe you should try a different spot.
+306	This hoe is broken.|You need a new hoe.|You need to fix your hoe before you hurt yourself.
+307	
+308	
+309	
+310	The magic beans whisked into hiding at your approach. |You were so excited to get some magic beans, your hands slipped!|Are you sure you're doing that right?
+311	No magic beans in sight. Find another spot.|Magic bean proximity count: zero. Dig elsewhere.
+312	
+313	
+314	
+315	
+316	There are no more mushrooms left to be found.
+317	There are no more mushrooms left to be found.
+318	There are no more mushrooms left to be found.
+319	
+320	
+321	
+322	
+323	
+324	
+325	
+326	
+327	
+328	
+329	
+330	
+331	
+332	
+333	
+334	You almost got a quill but chickened out at the last second. |Your hands slipped. OUCH!|The hedgehog looked too cute to disturb.|The hedgehog looks rather vicious, so you changed your mind.
+335	You almost got a scale but chickened out at the last second. |Your hands slipped. Brrrr, cold!|The Ice Worm looks a little too gross to touch.|The Ice Worm looks like it's about to wake up, so you change your mind.
+336	
+337	
+338	
+339	
+340	
+341	
+342	
+343	
+344	
+345	
+346	You failed to shear away the cotton candy.
+347	This sheep is plumb out of cotton candy.|It'd be cruel to keep shearing this sheep.|Despite your best efforts, this sheep is out of cotton candy.|You should stop picking on this particular sheep.|There are other sheep in the fields! Try one of them!
+348	You can't shear a moving sheep! That's just mean!
+349	Your blade is too dull.
+350	
+351	
+355	
+356	
+357	
+358	Ice Crystals collected: Zero. Awwww. |The crystal melted before you could collect it.
+359	There doesn't seem to be any more Ice Crystals here.|Try another spot. This one's plumb out of Ice Crystals.
+360	
+361	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+362	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+363	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+364	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+365	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+366	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+367	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+368	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+369	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+370	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+371	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+372	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+373	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+374	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+375	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+376	You explored your bum off, but couldn't find any artifacts. |The artifacts are playing coy today. You couldn't uncover any.
+377	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+378	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+379	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+380	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+381	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+382	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+383	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+384	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+385	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+386	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+387	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+388	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+389	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+390	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+391	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+392	There are no more artifacts here to be found.|All the artifacts have been found. Try searching somewhere else.
+393	
+394	
+395	
+396	
+397	
+398	
+399	
+400	
+401	
+402	
+403	
+404	
+405	
+406	
+407	
+408	
+409	
+410	
+411	
+412	
+413	
+414	
+415	
+416	
+417	
+418	
+419	
+420	
+421	
+422	
+423	
+424	
+425	
+426	
+427	
+428	
+429	
+430	
+431	
+432	
+433	
+434	
+435	
+436	
+437	
+438	
+439	
+440	
+441	
+442	
+443	
+444	
+445	
+446	
+447	
+448	
+449	
+450	
+451	
+452	
+453	
+454	
+455	
+456	
+457	Your pickaxe bounced off.|You didn't find anything but pebbles.|Your pickaxe got stuck in the rock.|There weren't any minerals in that chunk.|You smushed a beetle, but you didn't find any minerals.
+458	There aren't any more minerals here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+459	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+460	
+461	
+462	
+463	
+464	
+465	
+466	
+467	
+468	
+475	The water reflected too much glare. You couldn't find anything. |All the minerals slipped right out of your sieve.|You failed to collect any minerals.|No luck this time.|The minerals washed away with the current.
+476	The water reflected too much glare. You couldn't find anything. |All the minerals slipped right out of your sieve.|You failed to collect any minerals.|No luck this time.|The minerals washed away with the current.
+477	You've sieved this spot dry. Metaphorically.|You don't see any more minerals around.|You might have more luck somewhere else.
+478	You've sieved this spot dry. Metaphorically.|You don't see any more minerals around.|You might have more luck somewhere else.
+479	Your Metallurgy Sieve is broken! Oh no!|Repair your Metallurgy Sieve first.
+480	Your Metallurgy Sieve is broken! Oh no!|Repair your Metallurgy Sieve first.
+481	
+482	
+483	
+484	
+485	
+486	
+488	There's no more snow to be found here. Not snow you can pick up, at least. Look elsewhere.
+489	
+490	
+491	
+492	
+494	Your hands were frozen solid, so you dropped all the snow you tried to pick up.
+495	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+496	
+497	
+498	
+499	
+500	
+501	Your pickaxe bounced off.|You didn't find anything but pebbles.|Your pickaxe got stuck in the rock.|There weren't any minerals in that chunk.|You smushed a beetle, but you didn't find any minerals.
+502	Your pickaxe bounced off.|You didn't find anything but pebbles.|Your pickaxe got stuck in the rock.|There weren't any minerals in that chunk.|You smushed a beetle, but you didn't find any minerals.
+503	There aren't any more minerals here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+504	There aren't any more minerals here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+505	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+506	
+507	The Magic Cacao Beans whisked into hiding at your approach. |You were so excited to get some magic beans, your hands slipped!|Are you sure you're doing that right?
+508	No Magic Cacao Beans in sight. Find another spot.|Magic Cacao Bean proximity count: zero. Dig elsewhere.
+509	
+510	
+511	
+512	
+513	Your pickaxe bounced off.|You didn't find anything but pebbles.|Your pickaxe got stuck in the rock.|There weren't any minerals in that chunk.|You smushed a beetle, but you didn't find any minerals.
+514	There aren't any more minerals here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+515	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+516	
+517	
+518	
+519	
+520	
+521	
+522	
+523	
+524	
+525	You failed to shear away the cotton candy.
+526	This sheep is plumb out of cotton candy.|It'd be cruel to keep shearing this sheep.|Despite your best efforts, this sheep is out of cotton candy.|You should stop picking on this particular sheep.|There are other sheep in the fields! Try one of them!
+527	You can't shear a moving sheep! That's just mean!
+528	Your blade is too dull.
+529	
+530	
+531	You failed to shear any wool.
+532	There's just no wool left.|Stop trying to shear this sheep!|You should look for a different sheep.|Try another sheep.|This sheep needs a break.
+533	The sheep moved and spoiled your shearing.
+534	Your blade is too dull.
+535	
+536	
+537	곡괭이질이 제대로 되지 않았다|광물 채집에 실패했다|손이 미끄러졌다|광물을 얻는 데 실패했다|실수를 한 것 같다
+538	야금이 제대로 되지 않았다|광물 채집에 실패했다|손이 미끄러졌다|광물을 얻는 데 실패했다|실수를 한 것 같다
+539	쓸만한 광물은 다 캐낸 것 같다|더 이상 쓸만한 광물이 보이지 않는다|다른 곳을 캐보는 것이 좋겠다
+540	쓸만한 광물은 다 야금한 것 같다|더 이상 쓸만한 광물이 보이지 않는다|다른 곳을 야금해보는 것이 좋겠다
+541	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+542	야금용 체가 망가져서 야금을 할 수 없다|야금용 체를 수리해야 할 것 같다
+543	
+544	
+545	
+546	
+547	
+548	
+553	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+554	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+555	
+556	
+557	
+558	
+559	
+560	
+561	You forgot how to work a pickaxe. |You missed all the minerals. |You didn't feel like getting all sweaty. |You forgot what you were doing half-way through.
+562	You forgot how to work a pickaxe. |You missed all the minerals. |You didn't feel like getting all sweaty. |You forgot what you were doing half-way through.
+563	There aren't any more stones here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+564	There aren't any more stones here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+565	You suddenly felt guilty for destroying nature.|Your hands slipped.|You were distracted by a passing butterfly.
+566	There are no more violets left here.
+567	
+568	
+569	
+570	
+571	You forgot how to work a pickaxe. |You missed all the moon stones. |You didn't feel like getting all sweaty. |You forgot what moon stones look like.
+572	You should try somewhere else.
+573	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+574	
+575	
+576	
+577	You found the 3rd piece of the Astrologer's Shredded Letter.
+578	You started daydreaming, so your hands slipped. |You hiccuped and messed up.
+579	
+580	
+581	
+582	
+583	You found the 1st piece of the Astrologer's Shredded Letter.
+584	You forgot how to work a pickaxe.|You dropped the pickaxe! Luckily, you jumped out of the way just in time.|You tried using the pickaxe with your other hand and failed.
+585	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+586	
+587	
+588	
+589	You've successfully harvested some Blago Noir grapes.
+590	You've successfully harvested some Errans Sauvignon grapes.
+591	You started daydreaming, so your hands slipped. |You hiccuped and messed up.
+592	You started daydreaming, so your hands slipped. |You hiccuped and messed up.
+593	You've harvested all the grapes at this spot.
+594	You've harvested all the grapes at this spot.
+595	
+596	
+597	
+598	
+599	
+600	
+601	You successfully harvested some Silvervine Fruit.
+602	You started daydreaming, so your hands slipped. |You hiccuped and messed up.
+603	You've harvested all the Silvervine Fruit at this spot.
+604	
+605	
+606	
+607	The water reflected too much glare. You couldn't find anything. |All the minerals slipped right out of your sieve.|You failed to collect any minerals.|No luck this time.|The minerals washed away with the current.
+608	You've sieved this spot dry. Metaphorically.|You don't see any more minerals around.|You might have more luck somewhere else.
+609	Your Metallurgy Sieve is broken! Oh no!|Repair your Metallurgy Sieve first.
+610	
+611	
+612	
+613	You snatched the Leprechaun's treasure!
+614	Shoot, you failed to grab the Leprechaun's treasure.
+616	The Leprechaun moved.
+617	
+618	
+620	Shoot, you failed to grab the Leprechaun's treasure.
+621	You snatched the Leprechaun's treasure!
+624	The Leprechaun moved.
+625	
+626	
+627	This Leprechaun is all out of treasure.
+628	This Leprechaun is all out of treasure.
+631	You can't chop wood with a broken lumber axe. |Repair your axe first.
+632	
+633	
+634	
+635	You were distracted by a passing bird and almost chopped off your foot.|Chopping firewood is a lot harder than it sounds!|The axe flew out of your hand. Whoops!|You accidentally chopped the wood into tiny bits.|You failed to collect any firewood.
+638	This chopping block is all tired out. Find another. |Hey, even chopping blocks need a break now and then.|The other chopping blocks want a turn, too.
+639	야금이 제대로 되지 않았다|광물 채집에 실패했다|손이 미끄러졌다|광물을 얻는 데 실패했다|실수를 한 것 같다
+640	쓸만한 광물은 다 야금한 것 같다|더 이상 쓸만한 광물이 보이지 않는다|다른 곳을 야금해보는 것이 좋겠다
+641	야금용 체가 망가져서 야금을 할 수 없다|야금용 체를 수리해야 할 것 같다
+642	
+643	
+644	
+645	Your pickaxe bounced off.|You didn't find anything but pebbles.|Your pickaxe got stuck in the rock.|There weren't any minerals in that chunk.|You smushed a beetle, but you didn't find any minerals.
+646	There aren't any more minerals here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+647	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+648	
+649	
+650	
+651	Your attempt to gather failed miserably.
+652	This sheep has nothing left to give.|Stop trying to shear this sheep!|You should look for a different sheep.|Try another sheep.|This sheep needs a break.
+653	The Paper Sheep moved, so you couldn't shear properly.
+654	Your blade is too dull.
+655	
+656	
+657	You forgot how to work a pickaxe. |You missed all the moon stones. |You didn't feel like getting all sweaty. |You forgot what moon stones look like.
+658	You should try somewhere else.
+659	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+660	
+661	
+662	
+663	You snatched the Leprechaun's treasure!
+664	You snatched the Leprechaun's treasure!
+665	Shoot, you failed to grab the Leprechaun's treasure.
+666	Shoot, you failed to grab the Leprechaun's treasure.
+667	This Leprechaun is all out of treasure.
+668	This Leprechaun is all out of treasure.
+669	The Leprechaun moved.
+670	The Leprechaun moved.
+671	
+672	
+673	
+674	
+675	
+676	
+677	
+678	
+679	
+680	
+681	You've acquired a Homestead Stone.
+682	That's it for today. Go enjoy your Homestead!
+684	This pickaxe is too worn down.
+687	You've failed to gather any Homestead Stones.
+688	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+689	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+690	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+691	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+692	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+693	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+694	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+695	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+696	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+697	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+698	
+699	
+700	
+701	
+702	
+703	
+704	
+705	
+706	
+707	
+708	
+709	
+710	
+711	
+712	
+713	
+714	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+715	That's not how you gather herbs. |You slipped and crushed the herbs.|That wasn't even an herb.|You tripped and stuck your hand in the dirt.
+716	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+717	This place is all herbed out.|All the herbs are gone. Look elsewhere.
+726	You just couldn't figure out the best way to gather the Verona Herb.|You crushed the delicate herb. Oops.|A worm in the dirt distracted you.|Picking this fragile herb might be too complex for you.
+727	You just couldn't figure out the best way to gather the Mantua Poison Herb.|You crushed the delicate herb. Oops.|A worm in the dirt distracted you.|Picking this fragile herb might be too complex for you.
+728	There are no more herbs here. |Try another herb patch.
+729	There are no more herbs here. |Try another herb patch.
+730	You can't cut firewood with a broken axe. That's just not safe. |It looks like you're going to need to repair your axe first.
+731	You just couldn't figure out the best way to gather the Mugwort.|You crushed the delicate herb. Oops.|A worm in the dirt distracted you.|Picking this fragile herb might be too complex for you.
+737	There are no more herbs here. |Try another herb patch.
+744	You snatched the Leprechaun's treasure!
+745	Shoot, you failed to grab the Leprechaun's treasure.
+746	This Leprechaun is all out of treasure.
+747	The Leprechaun moved.
+748	팜 스톤을 획득했다
+749	팜 스톤 채집에 실패했다
+750	That's it for today. Go enjoy your Homestead!
+758	Your pickaxe bounced off.|You didn't find anything but pebbles.|Your pickaxe got stuck in the rock.|There weren't any minerals in that chunk.|You smushed a beetle, but you didn't find any minerals.
+759	Your pickaxe bounced off.|You didn't find anything but pebbles.|Your pickaxe got stuck in the rock.|There weren't any minerals in that chunk.|You smushed a beetle, but you didn't find any minerals.
+760	Your pickaxe bounced off.|You didn't find anything but pebbles.|Your pickaxe got stuck in the rock.|There weren't any minerals in that chunk.|You smushed a beetle, but you didn't find any minerals.
+761	There aren't any more minerals here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+762	There aren't any more minerals here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+763	There aren't any more minerals here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+764	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+765	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+766	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+767	You accidentally crushed the wheat.|That wheat was all dried out.|You shredded the wheat... and not in a good way.|That's not right at all.
+768	You accidentally crushed the barley.|The barley you grabbed was actually a tightly bunched group of locusts.|You tripped and fell in the barley.|That's not right at all.
+769	You didn't find anything but worms and dirt.|The potato fell apart in your hands.|It looked like a potato, but it was just a fat mole.|That's not even a potato.
+770	The cob crumbled to dust in your hands. |You missed and grabbed a handful of leaves.|You got lost thinking about how good popcorn is.|You tried to fight a corn plant and lost.
+771	All the wheat here has been harvested.|You need to give the wheat more time to grow.|Go somewhere else to find wheat.|Look elsewhere for your bread-making needs.
+772	All the barley here has been harvested.|You need to give the barley more time to grow.|Go somewhere else to find barley.|Look elsewhere for your stew-making needs.
+773	All the potatoes here have been harvested.|You need to give the potatoes more time to grow.|All the good ones are gone.|Look elsewhere for your french fry-making needs.
+774	All the corn here has been harvested.|You need to give the corn more time to grow.|Go somewhere else to find corn.|Look elsewhere for your syrup-making needs.
+775	This sickle is broken.|You need a new sickle.|You need to fix your sickle before you hurt yourself.
+776	This sickle is broken.|You need a new sickle.|You need to fix your sickle before you hurt yourself.
+777	This hoe is broken.|You need a new hoe.|You need to fix your hoe before you hurt yourself.
+778	This sickle is broken.|You need a new sickle.|You need to fix your sickle before you hurt yourself.
+779	That's not how you shear a sheep.
+780	That's not how you gather eggs.
+781	That's not how you milk a cow.|You shot yourself in the eye and lost the whole bottle.|You dropped the bottle on a rock.|You and the cow made eye contact, so you just couldn't go through with it.
+782	There's just no wool left.|Stop trying to shear this sheep!|You should look for a different sheep.|Try another sheep.|This sheep needs a break.
+783	This chicken's not laying eggs for awhile.|Stop messing with this chicken!|You should look for a different chicken.|Try another chicken.|This chicken needs a break.
+784	This cow is all dried up.|This poor cow needs a break.|Maybe try a different cow now.|This cow's run dry.|Give those udders a break!
+785	The sheep moved and spoiled your shearing.
+786	The chicken moved! No egg for you.|The chicken got away with its egg.
+787	Yikes! The cow moved.|The cow escaped!
+788	Your blade is too dull.
+789	You need a bottle to hold the milk.|Where are you going to put that? Get a bottle!
+790	That's not how you milk a cow.|You shot yourself in the eye and lost the whole bottle.|You dropped the bottle on a rock.|You and the cow made eye contact, so you just couldn't go through with it.
+791	This cow is all dried up.|This poor cow needs a break.|Maybe try a different cow now.|This cow's run dry.|Give those udders a break!
+792	Yikes! The cow moved.|The cow escaped!
+793	You need a bottle to hold the milk.|Where are you going to put that? Get a bottle!
+802	You failed to gather any White Herbs. Bummer.
+803	You failed to gather any White Herbs. Bummer.
+804	You failed to gather any White Herbs. Bummer.
+805	You failed to gather any White Herbs. Bummer.
+806	You failed to gather any White Herbs. Bummer.
+807	You failed to gather any ore. Drats!
+808	You failed to gather any ore. Drats!
+809	You failed to gather any ore. Drats!
+810	You failed to gather any ore. Drats!
+811	You failed to gather any ore. Drats!
+812	You failed to gather any ore. Drats!
+813	You failed to gather any ore. Drats!
+814	You failed to gather any ore. Drats!
+815	You failed to gather any Plant Specimens.
+816	You failed to gather any Plant Specimens.
+817	You failed to gather any Plant Specimens.
+818	You failed to gather any Plant Specimens.
+819	You failed to gather any Plant Specimens.
+820	You failed to gather any Plant Specimens.
+821	This spot looks plumb out of minerals.
+822	This spot looks plumb out of minerals.
+823	This spot looks plumb out of minerals.
+824	This spot looks plumb out of minerals.
+825	This spot looks plumb out of minerals.
+826	This spot looks plumb out of minerals.
+827	This spot looks plumb out of minerals.
+828	This spot looks plumb out of minerals.
+829	This spot looks plumb out of specimens.
+830	This spot looks plumb out of specimens.
+831	This spot looks plumb out of specimens.
+832	This spot looks plumb out of specimens.
+833	This spot looks plumb out of specimens.
+834	This spot looks plumb out of specimens.
+835	Your Drill needs to be repaired.
+836	Your Drill needs to be repaired.
+837	Your Drill needs to be repaired.
+838	Your Drill needs to be repaired.
+839	Your Drill needs to be repaired.
+840	Your Drill needs to be repaired.
+841	Your Drill needs to be repaired.
+842	Your Drill needs to be repaired.
+843	Your Blasted Oak Wand needs to be repaired.
+844	Your Blasted Oak Wand needs to be repaired.
+845	Your Blasted Oak Wand needs to be repaired.
+846	Your Blasted Oak Wand needs to be repaired.
+847	Your Blasted Oak Wand needs to be repaired.
+848	Your Blasted Oak Wand needs to be repaired.
+852	You can't gather any more from this spot.
+853	You can't gather any more from this spot.
+854	You can't gather any more from this spot.
+855	You've failed to gather anything. Drats.
+856	You've failed to gather anything. Drats.
+857	You've failed to gather anything. Drats.
+858	You tried to grab the water with your hands and just got wet. |You forgot how liquid works.|You grabbed a bunch of minnows and had to put them back.|The water wasn't wet enough, so you put it back.
+859	You can't gather any more from this spot.
+860	You tried to grab the water with your hands and just got wet. |You forgot how liquid works.|You grabbed a bunch of minnows and had to put them back.|The water wasn't wet enough, so you put it back.
+861	You can't gather any more from this spot.
+862	You failed to shear the Alpaca.
+863	There's just no fur left.|Stop trying to shear this Alpaca! It's mean!|Don't you care about the Alpaca's feelings?|The Alpaca is going to go bald at the rate you're going.|The Alpaca needs a break.
+864	The Alpaca moved, so you couldn't shear it.
+865	Your blade is too dull.
+866	You tried to grab the water with your hands and just got wet. |You forgot how liquid works.|You grabbed a bunch of minnows and had to put them back.|The water wasn't wet enough, so you put it back.
+867	무지개 양털 깎기가 실패했다
+868	이 빨간 양으로부터 더 이상 무기개 양털을 깎을 수 없을 것 같다|더 이상 깎는 것은 무지개 양이 너무 불쌍하다|다른 무지개 양을 찾는 것이 좋겠다|이 빨간 양은 이제 그만 하는게 좋겠다|이 빨간 양에서는 더 이상 쓸만한 무지개 양털이 나오지 않을 것 같다
+869	빨간 양이 움직여 버려서 실패했다
+870	칼날이 무뎌져서 이 칼로는 더 깎을 수가 없다
+871	무지개 양털 깎기가 실패했다
+872	무지개 양털 깎기가 실패했다
+873	무지개 양털 깎기가 실패했다
+874	무지개 양털 깎기가 실패했다
+875	무지개 양털 깎기가 실패했다
+876	무지개 양털 깎기가 실패했다
+877	이 주홍 양으로부터 더 이상 무기개 양털을 깎을 수 없을 것 같다|더 이상 깎는 것은 무지개 양이 너무 불쌍하다|다른 무지개 양을 찾는 것이 좋겠다|이 주홍 양은 이제 그만 하는게 좋겠다|이 주홍 양에서는 더 이상 쓸만한 무지개 양털이 나오지 않을 것 같다
+878	이 노란 양으로부터 더 이상 무기개 양털을 깎을 수 없을 것 같다|더 이상 깎는 것은 무지개 양이 너무 불쌍하다|다른 무지개 양을 찾는 것이 좋겠다|이 노란 양은 이제 그만 하는게 좋겠다|이 노란 양에서는 더 이상 쓸만한 무지개 양털이 나오지 않을 것 같다
+879	이 초록 양으로부터 더 이상 무기개 양털을 깎을 수 없을 것 같다|더 이상 깎는 것은 무지개 양이 너무 불쌍하다|다른 무지개 양을 찾는 것이 좋겠다|이 초록 양은 이제 그만 하는게 좋겠다|이 초록 양에서는 더 이상 쓸만한 무지개 양털이 나오지 않을 것 같다
+880	이 파란 양으로부터 더 이상 무기개 양털을 깎을 수 없을 것 같다|더 이상 깎는 것은 무지개 양이 너무 불쌍하다|다른 무지개 양을 찾는 것이 좋겠다|이 파란 양은 이제 그만 하는게 좋겠다|이 파란 양에서는 더 이상 쓸만한 무지개 양털이 나오지 않을 것 같다
+881	이 남색 양으로부터 더 이상 무기개 양털을 깎을 수 없을 것 같다|더 이상 깎는 것은 무지개 양이 너무 불쌍하다|다른 무지개 양을 찾는 것이 좋겠다|이 남색 양은 이제 그만 하는게 좋겠다|이 남색 양에서는 더 이상 쓸만한 무지개 양털이 나오지 않을 것 같다
+882	이 보라 양으로부터 더 이상 무기개 양털을 깎을 수 없을 것 같다|더 이상 깎는 것은 무지개 양이 너무 불쌍하다|다른 무지개 양을 찾는 것이 좋겠다|이 보라 양은 이제 그만 하는게 좋겠다|이 보라 양에서는 더 이상 쓸만한 무지개 양털이 나오지 않을 것 같다
+883	주홍 양이 움직여 버려서 실패했다
+884	노란 양이 움직여 버려서 실패했다
+885	초록 양이 움직여 버려서 실패했다
+886	파란 양이 움직여 버려서 실패했다
+887	남색 양이 움직여 버려서 실패했다
+888	보라 양이 움직여 버려서 실패했다
+889	칼날이 무뎌져서 이 칼로는 더 깎을 수가 없다
+890	칼날이 무뎌져서 이 칼로는 더 깎을 수가 없다
+891	칼날이 무뎌져서 이 칼로는 더 깎을 수가 없다
+892	칼날이 무뎌져서 이 칼로는 더 깎을 수가 없다
+893	칼날이 무뎌져서 이 칼로는 더 깎을 수가 없다
+894	칼날이 무뎌져서 이 칼로는 더 깎을 수가 없다
+895	You got all tangled up in your wings and messed up. | Your hand slipped. |You need to work on your shearing technique. | The wool got tangled.
+896	You'd better not shear here anymore.|You're going to make the sheep mad. |That's all the wool this sheep has.
+897	The sheep moved and spoiled your shearing.
+898	Your blade is too dull.
+901	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+904	곡괭이질이 제대로 되지 않았다|쿠키 채집에 실패했다|손이 미끄러졌다|쿠키를 얻는 데 실패했다|실수를 한 것 같다
+905	머핀 캐기에 실패했다|손이 미끄러졌다|실수를 한 것 같다|내 실력으로 이 머핀을 캐는 것은 무리다
+906	달콤한 쿠키는 다 캐낸 것 같다|더 이상 맛있는 쿠키는 않는다|다른 곳을 캐보는 것이 좋겠다
+907	더이상 머핀이 나올 것 같지 않다|이 곳에는 머핀이 다 떨어진 것 같으니, 다른 곳을 찾아보자
+909	You made a mistake.
+910	You made a mistake.
+911	You made a mistake.
+912	You made a mistake.
+913	You made a mistake.
+914	You can't gather any more from this spot.
+915	You can't gather any more from this spot.
+916	You can't gather any more from this spot.
+917	You can't gather any more from this spot.
+918	You can't gather any more from this spot.
+919	You broke the tool.
+920	You broke the tool.
+921	You broke the tool.
+922	You broke the tool.
+923	You broke the tool.
+929	Your hand slipped.
+930	Your hand slipped.
+931	Your hand slipped.
+932	Your hand slipped.
+933	Your hand slipped.
+934	You successfully gathered the Essence of Spring using Yela's special tool.|The essence has successfully been gathered! You can feel the warmth of spring energy in your hand.
+935	You successfully gathered the Essence of Spring using Yela's special tool.|The essence has successfully been gathered! You can feel the warmth of spring energy in your hand.
+936	You successfully gathered the Essence of Spring using Yela's special tool.|The essence has successfully been gathered! You can feel the warmth of spring energy in your hand.
+937	You successfully gathered the Essence of Spring using Yela's special tool.|The essence has successfully been gathered! You can feel the warmth of spring energy in your hand.
+938	You successfully gathered the Essence of Spring using Yela's special tool.|The essence has successfully been gathered! You can feel the warmth of spring energy in your hand.
+939	You successfully gathered the Essence of Spring using Yela's special tool.|The essence has successfully been gathered! You can feel the warmth of spring energy in your hand.
+940	You successfully gathered the Essence of Spring using Yela's special tool.|The essence has successfully been gathered! You can feel the warmth of spring energy in your hand.
+941	You made a mistake.
+942	You made a mistake.
+943	You can't gather any more from this spot.
+944	You can't gather any more from this spot.
+945	Your hand slipped.
+946	Your hand slipped.
+947	You broke the tool.
+948	You broke the tool.
+949	You successfully gathered the Essence of Spring using Yela's special tool.|The essence has successfully been gathered! You can feel the warmth of spring energy in your hand.
+950	You made a mistake.
+951	You can't gather any more from this spot.
+952	Your hand slipped.
+953	You broke the tool.
+954	You fumbled and messed up.|Your hands slipped.|You just aren't used to these bulky mittens!|The snowball fell apart in your hands.
+955	It's probably wiser not to gather any more snow here.|You're going to make somebody angry...|There's no more free snow for you to collect.
+956	Your hands slipped.
+957	Your hands slipped.
+958	Lil Jack moved, interrupting your attempt.
+959	The gloves are worn out, so you'd better not.
+960	Your pickaxe bounced off.|All you were able to turn up was pebbles.|Your pickaxe got stuck in the rock.|All stone, no minerals...|You smushed a beetle, but you didn't find any minerals.
+961	Too much glare off the water. You couldn't find anything. |The slivers of ore sifted straight through your sieve.|You failed to gather any minerals.|No luck this time.|The ore fragments washed away with the current.
+962	You accidentally crushed the wheat.|That wheat was all dried out.|You shredded the wheat... and not in a good way.|That's not right at all.
+963	You accidentally crushed the barley.|The barley you grabbed was actually a tightly bunched group of locusts.|You tripped and fell in the barley.|That's not right at all.
+964	The cob crumbled to dust in your hands. |You missed and grabbed a handful of leaves.|You got lost thinking about how good popcorn is.|You tried to fight a corn plant and lost.
+965	You didn't find anything but worms and dirt.|The potato fell apart in your hands.|It looked like a potato, but it was just a fat mole.|That's not even a potato.
+966	The shellfish was busy yelling at its fry-cook, so you let it go.|The shellfish distracted you with a song about mermaids.|You accidentally touched seaweed and it grossed you out.
+967	There aren't any more minerals here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+968	You've sifted this spot dry. Metaphorically.|You don't see any more minerals around.|You might have more luck somewhere else.
+969	All the wheat here has been harvested.|You need to give the wheat time to grow back.|Go somewhere else to find wheat.|Look elsewhere for your bread-making needs.
+970	All the barley here has been harvested.|You need to give the barley time to grow back.|Go somewhere else to find barley.|Look elsewhere for your stew-making needs.
+971	All the corn here has been harvested.|You need to give the corn time to grow back.|Go somewhere else to find corn.|Look elsewhere for your syrup-making needs.
+972	All the potatoes here have been harvested.|You need to give the potatoes time to grow back.|All the good ones are gone.|Look elsewhere for your french fry-making needs.
+973	All the clams here are too stuck up. |You should find another clam bed to raid. |There aren't any good clams here.
+974	You've found all the mushrooms there were to find here.
+975	You've found all the mushrooms there were to find here.
+976	You've found all the mushrooms there were to find here.
+977	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+978	Your Metallurgy Sieve is broken! Oh no!|Repair your Metallurgy Sieve first.
+979	This sickle is broken.|You need a new sickle.|You need to fix your sickle before you hurt yourself.
+980	This sickle is broken.|You need a new sickle.|You need to fix your sickle before you hurt yourself.
+981	This sickle is broken.|You need a new sickle.|You need to fix your sickle before you hurt yourself.
+982	This hoe is broken.|You need a new hoe.|You need to fix your hoe before you hurt yourself.
+983	Your Weeding Hoe is broken!|How can you except to do anything with a broken Weeding Hoe?|You need to repair your Weeding Hoe.
+984	That's not how you milk a cow.|You shot yourself in the eye and lost the whole bottle.|You dropped the bottle on a rock.|You and the cow made eye contact, so you just couldn't go through with it.
+985	That's not how you shear a sheep.
+986	This cow is all dried up.|This poor cow needs a break.|Maybe try a different cow now.|This cow's run dry.|Give those udders a break!
+987	There's just no wool left.|Stop trying to shear this sheep!|You should look for a different sheep.|Try another sheep.|This sheep needs a break.
+988	Yikes! The cow moved.|The cow escaped!
+989	The sheep moved and spoiled your shearing.
+990	Your blade is too dull.
+991	You need a bottle to hold the milk.|Where are you going to put that? Get a bottle!
+992	You removed a chunk of the hard Kraken Leg
+993	You can't break off any more parts.
+994	You slipped and smashed the flower.|You sneezed really hard and blew the flower away.|You were overcome by the flower's beauty. You stopped to write a poem about the flowers.
+995	All the flowers here are wilted.|This place has been picked clean. |You get the feeling that these plants want you to leave.
+996	This hoe is broken.|You need a new hoe.|You need to fix your hoe before you hurt yourself.
+997	Too much glare off the water. You couldn't find anything. |The slivers of ore sifted straight through your sieve.|You failed to gather any minerals.|No luck this time.|The ore fragments washed away with the current.
+998	Too much glare off the water. You couldn't find anything. |The slivers of ore sifted straight through your sieve.|You failed to gather any minerals.|No luck this time.|The ore fragments washed away with the current.
+999	You've sifted this spot dry. Metaphorically.|You don't see any more minerals around.|You might have more luck somewhere else.
+1000	You've sifted this spot dry. Metaphorically.|You don't see any more minerals around.|You might have more luck somewhere else.
+1001	Your Metallurgy Sieve is broken! Oh no!|Repair your Metallurgy Sieve first.
+1002	Your Metallurgy Sieve is broken! Oh no!|Repair your Metallurgy Sieve first.
+1003	The shellfish was busy yelling at its fry-cook, so you let it go.|The shellfish distracted you with a song about mermaids.|You accidentally touched seaweed and it grossed you out.
+1004	All the clams here are too stuck up. |You should find another clam bed to raid. |There aren't any good clams here.
+1005	Your Weeding Hoe is broken!|How can you except to do anything with a broken Weeding Hoe?|You need to repair your Weeding Hoe.
+1006	You dropped and shattered a Smooth Ice Crystal while mining...|Try mining with a gentler touch.|You made a mistake.|Your hand slipped.
+1007	It looks like you can't get Smooth Ice Crystals anymore.
+1008	The old pickaxe is broken.\nGo back to Bhatair.
+1009	Your pickaxe bounced off.|All you were able to turn up was pebbles.|Your pickaxe got stuck in the rock.|All stone, no minerals...|You didn't find any minerals, and now your arms are tired.
+1010	You couldn't see anything because of the glare off the water.|The slivers of ore fell straight through your sieve.|You failed to gather any minerals.|No luck this time.|The ore fragments washed away with the current.
+1011	You couldn't see anything because of the glare off the water.|The slivers of ore fell straight through your sieve.|You failed to gather any minerals.|No luck this time.|The ore fragments washed away with the current.
+1012	There aren't any more minerals here.|Look for another place to mine.|There are other piles of rocks in the world, you know?
+1013	You've sifted this spot dry. Metaphorically.|You don't see any more minerals around.|You might have more luck somewhere else.
+1014	You've sifted this spot dry. Metaphorically.|You don't see any more minerals around.|You might have more luck somewhere else.
+1015	Your pickaxe is busted.| You need to fix your pickaxe before you hurt yourself.
+1016	Your Metallurgy Sieve is broken! Oh no!|Repair your Metallurgy Sieve first.
+1017	Your Metallurgy Sieve is broken! Oh no!|Repair your Metallurgy Sieve first.
+1018	You failed to hold water.|Your hand slipped.|You failed to hold water.|You made a mistake.
+738	대본 채집이 실패했다

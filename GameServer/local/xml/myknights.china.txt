@@ -1,0 +1,66 @@
+﻿0	I-I'm sorry. I would like some counseling before I begin my mission. Would that be okay?|I'm sorry, captain. I really need some counseling. I'm so exhausted.
+1	Even for me, a tight schedule is...|Is he even thinking about the unit's wellbeing?|Ugh, do we need to be shouting about stress to get the message across?
+2	I-I'm sorry... I can't anymore... I'm too tired...|I-I'm sorry... If you'd just let me... Rest a little...
+3	I haven't been feeling well lately... I wanted to get some counseling, if I could...
+4	We can't complete missions under these conditions.|Why don't you check on everyone before giving out missions?
+5	Ugh! I'm about to explode from all this stress!|Gahhh... This stress is making my stomach... I-I'm serious! Look!
+6	Hee hee, all clear, sir!
+7	Hee hee, all clear, sir! No wait, not all clear! I need your help!
+8	Ahaha, sorry. I kind of broke something... So I'm helping them out in return. Ahaha.|Ahh, what do I do? I was practicing my sword strokes at the inn, and split the bed in two!
+9	Ahaha, I left for my mission without bringing my wallet... So I've been sleeping rough the whole time.|Gahh... Captain, have you seen my sword? Where is it? Where did I leave it?
+10	Hee hee hee, that's it for missions! Don't worry. I'm completely focused on my duties so I can see you that much sooner!|Heh, what do you know? Doing things your way makes everything go much smoother, captain.
+11	There isn't much to report.|I don't think we need to make so many reports.
+12	Nothing to report, sir. Don't mind me.|Whee, how exciting! How nice is it, not having to see the captain! Hmph!
+13	Your personal feelings should not affect the mission... Oh, sorry. Just talking to myself.|I'm not used to taking orders... But this isn't so bad. No, I think I'm learning.
+14	Well, I can take care of a mission like this quickly... Um, no, it's nothing.|I know, I should prioritize missions... But... Never mind, forget about it.
+15	Ahh... I hope this mission goes fast. No, I'm just really tired... Eek!|Don't worry, I'll take care of it no matter what... And not just for you, either!
+16	Um... Hm... There's nothing really special...|I still have... to report...
+17	I-I'm sorry... I got stuck... Too many enemies... Had to... Destroy...|There are... Too many people I don't know outside... But still... I'll try my best...
+18	There was this monster... Almost too big for my hammer... Almost.|I-I'm sorry... There was a butterfly... So I got lost chasing it... I-I'll return to the mission soon... I-I'm sorry!
+19	I miss you... Captain...|I will hurry back... After the mission...
+20	|I miss you... Captain...|I miss you... Captain...|I miss you... Captain...|I miss you... Captain...|Someone was... hitting on me earlier... I-It's okay... There's no witness either... I took care of it...|I miss you... Captain...|Someone was... hitting on me earlier... I-It's okay... There's no witness either... I took care of it...|I miss you... Captain...|Someone was... hitting on me earlier... I-It's okay... There's no witness either... I took care of it...|I miss you... Captain. Ever since I came out to embark on this mission, I've only been waiting for the day I'll see you again. What do I do? I can't do anything, engulfed in your thoughts. Captain, you will be waiting for me until the day I return too, won't you? Hm? You're going to welcome me with those warm eyes you had last time, right? Captain... Those eyes, they were only for me. Right? What you showed Kanna and Eirlys was just to spark some jealousy in me, wasn't it? You don't have any funny ideas about them, do you? You're not... No... You're not out with Kanna or Eirlys while I'm out here on my missions... Right? Only I can go out with you, yes? Hm? Captain! Answer me, please. Why are you looking at them the same way you looked at me? You're making me think... bad thoughts. Hm? You don't need that careless girl and that selfish girl, as long as you have me. Isn't that right? Captain, captain! Hm? Hm?? Answer me, captain! Captain! Captain!!
+21	I am taking care of the assigned mission with no issues.
+22	I had a little problem, but I think I'll be able to handle it soon. You don't have to worry.
+23	There wasn't anything unexpected on the mission.|There wasn't anything unexpected on the mission.|There wasn't anything unexpected on the mission.|Alban Knights are really amazing. I can't believe they do such difficult tasks daily...
+24	You don't have to worry about the mission. Just worry about yourself.|You don't have to worry about the mission. Just worry about yourself.|The mission is fine. Anyway, I wonder if everyone's doing well. I wonder who's taking care of their meals... I doubt Kanna would be, right? Hahaha.
+25	I thought this would be an easy mission... But it's not. I lack the focus needed... To be honest, worrying about you is making it difficult to concentrate.|I'd like to return as soon as possible and share what I learned during this mission.|You don't have to worry about me. Please always consider your safety first.
+26	I don't think this is the kind of mission to give a progress report on.|I would like to focus on my mission as much as possible. Could we skip the progress report?
+27	I don't think this is the kind of mission to give a progress report on.|I would like to focus on my mission as much as possible. Could we skip the progress report?
+28	It's a relief that I can spend some time alone during missions. I'm disappointed that I didn't realize it before...|It's actually pretty fun to see all sorts of people while doing missions. How do they live such lives of leisure...
+29	I'm also curious about your wellbeing... But quick execution is critical to missions, so let us forgo the progress report.|Are you worried about the mission? Or are you worried about me?
+30	It's good, not being bothered by others... But I can't help feeling like there's a hole in my heart...|I'll finish things up soon. Please wait until I return.
+31	Progress report? What, you don't believe me?|Hmph... Overcautious much? Don't worry. The mission... is going.
+32	Ugh, I'm so tired of this. I hate this kind of stuff. I want to go back already.|The mission, well... Ah, don't worry, don't worry. I'll take care of it.
+33	Ahh I'm bored! Can I just go back now?|Whoa! This place is amazing!
+34	Is this mission fun right now... Or not? Or is my mind on something else?|Are you going to tend me if I get hurt during the mission? Aw, I want to be cared for! Hm... But still, getting hurt is...
+35	I miss you, captain... And Kaour... I'm sure you both miss me, right? What? No?|Are you eating well? You're not getting bullied by some weird monster somewhere, are you? Hm... I'm way too worried. I'll finish up my mission, so don't do anything dangerous, okay! Wait for me!
+36	I will report on the mission!
+37	I will report on the mission!
+38	I will report on the mission!
+39	I will report on the mission!
+40	I will report on the mission!
+41	The mission report is pending.
+42	The mission report is pending.
+43	The mission report is pending.
+44	The mission report is pending.
+45	The mission report is pending.
+46	I will... report on the mission...
+47	I will... report on the mission...
+48	I will... report on the mission...
+49	I will... report on the mission...
+50	I will... report on the mission...
+51	I will give a report after completing the mission.
+52	I will give a report after completing the mission.
+53	I will give a report after completing the mission.
+54	I will give a report after completing the mission.
+55	I will give a report after completing the mission.
+56	You want to know the results of the mission, right?
+57	You want to know the results of the mission, right?
+58	You want to know the results of the mission, right?
+59	You want to know the results of the mission, right?
+60	You want to know the results of the mission, right?
+61	Mission results! That's what you want, right?
+62	Mission results! That's what you want, right?
+63	Mission results! That's what you want, right?
+64	Mission results! That's what you want, right?
+65	Mission results! That's what you want, right?

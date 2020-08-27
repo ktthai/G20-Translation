@@ -1,0 +1,111 @@
+﻿0	Renown from Nele, a bard who's deeply fascinated with talented composers.
+1	Renown from Yvona, a reserved elf who only acknowledges the most brilliant musicians.
+2	Renown from Briana, a passionate girl who deeply appreciates all kinds of music.
+3	You can acquire Renown from Nele through music composition.
+4	You can acquire Renown from Yvona through playing instruments.
+5	You can acquire Renown from Briana through music appreciation.
+6	Critical Rate Max Value
+7	Critical Damage
+8	Shadow Mission Completion EXP
+9	Shadow Mission Completion Reward
+10	value% Increase
+11	value% Increase
+12	value% Increase
+13	value% Increase
+27	Complete a Music Score consisting of 200 or more notes
+28	Have someone play your Music Score consisting of 300 or more notes to the end
+37	Successfully perform 5 combos during a Freestyle Jam
+38	Listen to a Jam Session from beginning to end in Pure Music Mode
+40	Clear the Musical Math Dungeon
+45	Complete the Pub Part-Time Job
+48	Have 10 or more people watch a Jam Session you participated in while in Pure Music Mode
+49	Participate in a weekly performance appreciation
+50	Listen to a partner play music
+51	Receive a Music Skill buff from another person
+52	Listen to a Festia NPC's performance
+53	Transcribe a Music Score from the Bard Bulletin Board
+54	Have someone transcribe a Music Score you uploaded to the Bard Bulletin Board
+55	Have a Music Score you uploaded to the Bard Bulletin Board be liked by another player
+58	Complete a Jam Session by playing a Music Score with 300 or more notes without making a mistake
+59	Renown from Nele, a bard who's deeply fascinated with talented composers
+60	Renown from Yvona, a reserved elf who only acknowledges the most brilliant musicians
+61	You can acquire Renown from Nele through music composition
+62	You can acquire Renown from Yvona through playing instruments
+63	Donate 1,000 Gold to another person's donation box and listen to the performance to the end
+65	Play a Music Score that lasts at least 1 minute and consists of 300 or more notes to the end
+66	Expertly play a Music Score that lasts at least 1 minute and consists of 300 or more notes to the end
+67	Play a Music Score that lasts at least 1 minute and consists of 300 or more notes to the end with a partner
+68	Play a Music Score that lasts at least 1 minute and consists of 300 or more notes to the end in a party of 3 or more
+69	Collect 1,000 or more Gold in a donation box for a performance that lasts at least 1 minute
+71	Composing Skill Rank Up
+72	Musical Knowledge Skill Rank Up
+73	Host a Freestyle Jam and play a melody that lasts at least 1 minute to the end
+74	Participate in a Freestyle Jam that's been in progress for at least 30 seconds and play to the end
+75	Playing Instrument Skill Rank Up
+76	Listen to a partner's performance that lasts at least 1 minute
+77	Complete a melody consisting of 200 or more notes
+79	Listen to a Festia NPC's performance from beginning to end
+82	Have 3 or more people listen to a Jam Session you participated in while in Pure Music Mode that lasts at least 1 minute and consists of 300 or more notes
+84	Listen to a piece your partner performs that lasts at least 1 minute
+85	Host the Blessing of Cairbre Freestyle Jam and play a melody that lasts at least 1 minute and to the end
+86	Participate in a Blessing of Cairbre Freestyle Jam that's in progress for at least 30 seconds and play it to the end
+87	Successfully perform 5 combos during the Blessing of Cairbre Freestyle Jam
+88	Have someone play your Music Score that consists of 200 or more notes to the end
+89	Play a Music Score that lasts at least 1 minute and consists of 300 or more notes to the end in a party of 3 or more
+90	Play a Music Score that lasts at least 1 minute and consists of 300 or more notes to the end without a mistake in a party of 3 or more
+91	Unknown
+92	Receive a Music Skill buff from another player
+93	Renown from Briana, a passionate girl who has a deep appreciation for all kinds of music
+94	Listen to a Jam Session that lasts at least 1 minute in Pure Music Mode
+95	Renown given by Endelyon, proclaiming those skilled in the ways of gathering
+96	Renown given by Edern, proclaiming those skilled in the ways of crafting
+97	Renown from Eluned, proclaiming fellowship with those who enjoy fine food and drink
+98	You can gain Renown from Endelyon through gathering.
+99	You can gain Renown from Edern through crafting.
+100	You can gain Renown from Eluned through consuming food, drink, and restorative items.
+101	Stamina
+102	HP
+103	MP
+104	value increased
+105	value increased
+106	value increased
+107	Use a skill to gather something from nature
+108	Use a skill to gather something from an animal
+109	Gather a crop from your Homestead
+110	Gather something from under a Rain Casting Cloud
+111	Gather a Gold Mushroom
+112	Catch a fish larger than 100cm
+113	Acquire a gem through Metallurgy
+114	Trigger a huge lucky bonus while gathering
+115	Complete the Flower Shop Part-Time Job
+116	Complete the Firewood Chopping Part-Time Job
+117	Complete the Sheep Shearing Part-Time Job
+118	Complete the Mine Iron Ore Part-Time Job
+119	Complete the Alchemist's House Part-Time Job
+120	Complete the Healer's House Part-Time Job
+121	Complete the Church Part-Time Job
+122	Complete the Grocery Store Part-Time Job
+123	Craft an item using Refining/Weaving/Handicraft skills
+124	Craft an item using Carpentry/Magic Craft/Hillwen Engineering skills
+125	Produce something using Tailoring/Blacksmithing skills
+126	Successfully craft an item using Cooking/Potion Making skills or produce something at a Windmill
+127	Produce something under a Rain Casting Cloud
+128	Craft an item of high quality
+129	Complete the Puppet Shop Part-Time Job
+130	Complete the Lighthouse Part-Time Job
+131	Complete the Blacksmith's Shop Part-Time Job
+132	Complete the Clothing Shop Part-Time Job
+133	Complete the General Shop Part-Time Job
+134	Succeed or Fail crafting an item using ingredients
+135	Consume a handmade dish
+136	Consume a craftable potion greater than a 300 Potion or Boost Potion
+137	Treat a wound using a handmade bandage
+138	Decrease the durability of a piece of equipment
+139	Burn a piece of equipment or an enchant scroll in a Campfire
+140	Share a dish with another person
+141	Fragment an item using the Fragmentation skill
+142	Synthesize an item using the Synthesis skill
+143	Try upgrading an item
+144	Try increasing an item's Erg or raising its Erg level
+145	Listen to a song from beginning to end during an NPC concert at either Festia, or the Arpeggio Concert Hall.
+146	Craft an item using Carpentry/Magic Craft/Hillwen Engineering/Fynn Crafting skills

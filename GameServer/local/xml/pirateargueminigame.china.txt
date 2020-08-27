@@ -1,0 +1,145 @@
+﻿0	Let's fight!
+1	Uh, I think I've got the wrong person.
+2	Haha, nice weather today!
+3	You've got a tough face to look at.
+4	You can't outwit me. I'm brilliant!
+5	It doesn't take much to make me look great!
+6	Bartender! Get me a drink! I can't look at this ugly mug sober.
+7	The eyepatch is the mark of a great pirate.
+8	Watch out! I've got you in my sights.
+9	Without confidence, you're nothing.
+10	Do ya hear them cheering on their leader? That's me!
+11	I could take ya on with a belly full of rum.
+12	I could beat you with my eyes closed.
+13	You can't think yer a match for me!
+14	I may look weak, but I have my tricks!
+15	Yer lookin' pretty fluffy, landlubber!
+16	You're all looks.
+17	I'm faster than the wind.
+18	This is where your luck runs out.
+19	Yer all talk!
+20	Back down now and I won't kill ya.
+21	I thought I smelled old cheese...
+22	Work hard, and ya might be half as good a pirate as I am.
+23	It's time ya got a look at a true pirate.
+24	This is easier than shooting minnows with a cannon.
+25	My glare is enough to defeat you, guppy!
+26	Call my name, and I appear.
+27	Lemme show you what fear looks like.
+28	I've eaten boogers bigger than you!
+29	I'm handsome enough to be famous.
+30	I've never lost a fight.
+31	There's no pirate braver than I!
+32	If I knew they'd let a wimp like you be a pirate, I woulda joined the circus.
+33	Ya dance around like a monkey when ya fight!
+34	You should go, while I'm feeling merciful.
+35	I'll shock ya into submission!
+36	Hey, ready to have some fun?
+37	Be careful. You don't want to wake the dragon!
+38	This'll be over before you can blink.
+39	Let me show you my power.
+40	I'll show you hell.
+41	It's not over until it's over.
+42	You'll be spilling tears before you're spilling blood.
+43	Aiming for my face? You must be feeling brave.
+44	You should feel honored to see me fight.
+45	Any last words? My sword would like to hear them.
+46	I read your mind. You're terrified!
+47	That's not a sword! That's scrap metal!
+48	You're not fit to be a first mate!
+49	You're already dead.
+50	Are my taunts making you hot under the collar?
+51	Temp 51
+52	Temp 53
+53	Temp 54
+54	Temp 55
+55	Temp 56
+56	Temp 57
+57	Temp 58
+58	Temp 59
+59	Temp 60
+60	Go away before I mop the floor with you.
+61	Hmph. You got lucky!
+62	What?
+63	I know. It's difficult to confront such beauty every day.
+64	So is a lightbulb, but I turn those off all the time.
+65	You're right. Just put a bag over your head. Much better!
+66	Is that what you say into the mirror every morning?
+67	The only pirates that wear eyepatches are the slow ones.
+68	Lucky me. You're blind as an angler fish!
+69	I'm confident that I am something.
+70	Laughing at you isn't the same thing as cheering.
+71	Looks like you've already had a few too many bellyfuls of rum as it is.
+72	Let's test that out. I have a blindfold right here.
+73	I know you're a little below my level, but I'm willing to let you try.
+74	Tricks are for kids! Strength is all that matters.
+75	I'm perfect just the way I am!
+76	You're all ugly.
+77	More like a gentle breeze.
+78	That's not what me rabbit's foot says!
+79	And yer all stupid!
+80	I never back down.
+81	That was just your breath. You should brush your teeth.
+82	How much is half of not very good?
+83	Oh yeah? Where is he?
+84	Everything is easier than that. Minnows are small and difficult to hit!
+85	Is that a glare? Your eyes are barely open!
+86	Sillyface McPoopdeck, I summon thee!
+87	No need. I got a good look the moment you decided to fight me.
+88	You eat boogers? Gross!
+89	If only you didn't have that rotten personality.
+90	There's a first time for everything!
+91	That's because brave pirates don't live long.
+92	It's a shame. You've really got the face to be a clown.
+93	That never stopped the Monkey King!
+94	Mercy's just another word for chicken.
+95	Try it. I'm wearing rubber boots.
+96	I came for a fight. Have fun on your own time!
+97	Dragon? More like a salamander.
+98	I just blinked. Look, I did it again.
+99	I've got more power than you in my pinky finger!
+100	You did that when you opened your mouth.
+101	It's over when I say it's over.
+102	I'll be spilling my lunch if you keep using those cheesy lines.
+103	I was just trying to fix it up. It's a mess!
+104	I feel a lot of revulsion right now. Is that close enough?
+105	You're an idiot. Swords don't have ears.
+106	What am I thinking now, then? Hint: it's about how dumb you sound.
+107	Really? I got it from your bag.
+108	I know. I should be a captain!
+109	What are you? The fist of the wimp star?
+110	Not at all. I'm cooler than a sea cucumber.
+111	_Temp51
+112	_Temp52
+113	Argh...
+114	Ack! I-I can't...
+115	Ugh, I can't fall now!
+116	I can't believe this!
+117	That attack!
+118	You're quite strong.
+119	Ya got me, but I'm not givin' up!
+120	Calico Jack
+121	Flail
+122	Barbados
+123	Blackbeard
+124	Black Bart
+125	El Draco
+126	I'd better show you what's up.
+127	How about a drink?
+128	D-do you need something?
+129	I used to be the boss in my town! Wanna get a taste?
+130	Huh? You must be out of your mind.
+131	What sort of insignificant flea are you?
+132	Yeah, get outta here.
+133	Hic! I'mma little drunk...
+134	Oh well, stuff happens, ya know?
+135	You make it so easy for me.
+136	Stop bugging me.
+137	Go away.
+138	Have mercy!
+139	Nooo!
+140	I don't have the will to go on.
+141	Please forgive me!
+142	Ahhhhh!
+143	I-I'm scared...
+144	ARGHHHHHH! Do-over! I demand a do-over!

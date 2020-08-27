@@ -1,0 +1,899 @@
+﻿1	Rock Back and Forth
+2	Nod
+3	Flinch
+4	Enter
+5	Exit
+6	Sulk
+7	Success
+8	Success (Giant)
+9	Huge Success!
+10	Failure
+11	Huge Failure
+12	Pow
+13	Explosion
+14	Massive Explosion
+15	Plop
+16	Thunder
+17	Ring
+18	Burp
+19	Pit-Pat
+20	Slam
+21	Crowd
+22	Trumpet
+23	Wind
+24	Moo
+25	Baa
+26	Cock-a-doodle-doo
+27	None
+28	20's My Way (Malcolm's Theme)
+29	The One Who Blocks, The One Who Surpasses
+30	Masquerade (Eluned's Theme)
+31	How 'bout a Drink? (Wanst's Theme)
+32	Pure Glowing Eyes (Little Tarlach's Theme)
+33	Woman's Heart Behind the Armor (Awanwen's Theme)
+34	Formidable Adversary (Boss Theme)
+35	Strong Yet Tender Smile (Jocelin's Theme)
+36	Massive Victory (The Saga: IRIA Season2 Ending)
+37	Mirror Inside the Spring (Granat's Theme)
+38	Dark-winged Goddess (Morrighan's Theme)
+39	Close to Nostalgia (The Saga: IRIA Season 1 EP7 Cutscene)
+40	The Noble Life (Karpfen's Theme)
+41	Starlight of Ancient Times (Karu Forest/Maize Plains Ruins's Theme)
+42	Friend of Solitude and Loneliness (Odran's Theme)
+43	Mirror that Sheds Light on Loneliness (Granites's Theme)
+44	A Lone Warrior Fighting (Waboka's Theme)
+45	Let Us Not Fret (Riocard's Theme)
+46	A Twitch Amidst Silence (Ciar / Rabbie Dungeon's Theme)
+47	Goddess of Terror and Destruction (Boss Macha's Theme)
+48	Unjust Swings of a Pickaxe (Seumas's Theme)
+49	Solid Trust (Antonio's Theme)
+50	The Locked Door (Scathach Patrol Camp's Theme)
+51	A Cute Girl's Misjudgment is Not a Crime (Vena's Theme)
+52	The World Painted by the Girl (Ibbie's Theme)
+53	Sentimental Reason (Leslie's Theme)
+54	Heart Song (Caitin's Theme)
+55	She's a Kind Mentor (School's Theme)
+56	Rosy Lipstick On Wine Glass (Bean Lua's Theme)
+57	Palace of Shadows (Tara Shadow Realm's Theme)
+58	The Long Shadows (Boss Shadow's Theme)
+59	Hunter at World's End (Belita's Theme)
+60	Grief-stricken Glass (Jennifer's Theme)
+61	Globe Theater (Marlowe's Theme)
+62	The Feeling of Swimming in Gold Coins (Keith's Theme)
+63	At the End of the Wait (Ascon's Theme)
+64	Order of Pride (Alban Knights Training Grounds Dungeon's Theme)
+65	Deep Forest (Fiodh/Coill Dungeon's Theme)
+66	Little Lady's Apron (Alissa's Theme)
+67	Straight Pride (Eirawen's Theme)
+68	Waltz of Flower (Brenda's Theme)
+69	Hidden Petals of Poison (Witch Scathach's Theme)
+70	A Dreaming Village (Bangor's Theme)
+71	Girl with Glittering Eyes (Elain's Theme)
+72	Chest of Dreams (Alexina's)
+73	The Dream's Reward (Stewart's Theme)
+74	Fuzzy Friend (Ruwai's Theme)
+75	Rosemary (Ophelia's Theme)
+76	Own Love (Myrddin's Theme)
+77	The Lumberjack's Skies (Dugald Aisle Logging Camp's Theme)
+78	The Dance of Leaves (Tir Chonaill's Theme)
+79	I'm Fine (Nora's Theme)
+80	A Credible Roadsign (Field's Theme)
+81	Lovely Parties (Avelin's Theme)
+82	My Dream, Served Fresh (Fraser's Theme)
+83	My Heart! (Gilmore's Theme)
+84	Look at My Cool Makeover! (Coco's Theme)
+85	My Life is Like the Ocean Waves (Petra's Theme)
+86	Governor's Worry for the Country (Weide's  Theme)
+87	Heart Under Blade (Nerys's Theme)
+88	A Youth's Elegant Hand Posture (Lepus's Theme)
+89	Man on the Moon (Piaras's Theme)
+90	Primrose Beneath the Moon (Rua's Theme)
+91	Divine Storm (Girgashiy's Theme)
+92	Prince of Denmark (Hamlet's Theme)
+93	City Girl (Dilys's Theme)
+94	Draw your Mind on Paper (Hans's Theme)
+95	Eagle's Eye (Ranald's Theme)
+96	A Little Bit Tired (Berched's Theme)
+97	Lighthouse Overlooking the Sea (Port Cobh's Theme)
+98	A Foolish Tragedy (Berry's Theme)
+99	Lymilark's Torch (Corentin's Theme)
+100	Lymilark's Torch (Corentin's Theme)
+101	Lymilark's Torch (Corentin's Theme)
+102	Welcome to Rath Castle (Rath Castle's Theme)
+103	Business Against Crumena (Boss Renes's Theme)
+104	Romeo and Juliet
+105	Marionette (Huw's Theme)
+106	Unspeakable Evil (Albey Dungeon's Theme)
+107	The Festivity Mindset (Pierrick's Theme)
+108	Song Performed by Mind (Briana's Theme)
+109	The Sky which Folds Clearly (Tailteann Field's Theme)
+110	Final Resting Place (Peaca Dungeon's Theme)
+111	A Dreaming Village (Ferghus's Theme)
+112	Leave It to Me! (Elen's Theme)
+113	Wind-biting Blade (Hillwen Mine's Theme)
+114	Eat or be Eaten (Skatha Beach's Theme)
+115	Full of Dusty Memories (Arzhela's Theme)
+116	Morrighan's Caprice (Math Dungeon's Theme)
+117	Weapon and Agony (Meles's Theme)
+118	Over the Rainbows (Dugald's Theme)
+119	The Rainbow's Light Wishes to Burn (Abb Neagh's Theme)
+120	Reflected Scenery on Water (Emain Macha's Theme)
+121	Secret Waters (Siren's Theme)
+122	Fairy of Water (Nele's Theme)
+123	The Spirit's Tears (Aer's Theme)
+124	Shadow of Early Dawn (Uroborus's Theme)
+125	Cheerfully Even Above the Sea (Annick's Theme)
+126	Fair Winds (Admiral Owen's Theme)
+127	The Wind, the Cloud, and the Field (Mabinogi Intro)
+128	Gentle Breeze that Carries a Smile (Heulfryn's Theme)
+129	Song of Wind (Sliab Cuilin's Theme)
+130	Whisper of Wind
+131	Wishes Travel (Tailteann's Theme)
+132	Wanderer (Tir Chonaill Field's Theme)
+133	Lilies, Do You Like Them? (Endelyon's Theme)
+134	Fickle Boy's Love (Romeo's Theme)
+135	Place Where Starlights Gather (Tir Chonaill: Cemetary's Theme)
+136	Dreaming Moon and Star (Altam's Theme)
+137	A Hidden Scar Inside the Gem (Eavan's Theme)
+138	Bolero (Krug's Theme)
+139	Destroy, Destroy, and Burn (Drama Staff Roll's Theme)
+140	Obsession about Impossible (Dian's Theme)
+141	A Magical Place (Shyllien Nature Reserve's Theme)
+142	Emperor of the Immortal Kingdom (Longa Desert Ruins Dungeon's Theme)
+143	The Returning Seasons (Saga Opening Theme)
+144	The Beginning and The End of Tragedy (Boss Ruiari's Theme)
+145	Garden of Secret (Alpin's Theme)
+146	Counter-Attack of Light (Claimh Solas's Theme)
+147	Cheater's Temperament (Voight's Theme)
+148	Love to Win (Portia's Theme)
+149	Passionate Duel (Fiodh/Coill Dungeon Boss Room's Theme)
+150	A Boy's First Love (Sion's Theme)
+151	New Street (Dunbarton's Theme)
+152	New Hopes (Corrib Valley's Theme)
+153	Secret of Shamala (Shamala's Theme)
+154	When Two Hands Crisscross (Emain Macah Church's Theme)
+155	The Rewarding Stand (Farm's Theme)
+156	Illuminati's Call (Hagel's Theme)
+157	Snowfield Moonlight (Kirine's Theme)
+158	Honoring the Martyr (Meven's Theme)
+159	The World is Not Free! (Mont's Theme)
+160	My God, Alone (Millia's Theme)
+161	Faithful to Work at World's End (Arenen's Theme)
+162	Young Explorer (Gairech's Theme)
+163	Shadow of Soul Stream (Soul Stream's Theme)
+164	Wish (Mabinogi Theme)
+165	The Cluster of Grapes (Blago Prarie's Theme)
+166	Narcissus Bouquet (Dorren's Theme)
+167	Slash! (Battle Arena's Theme)
+168	Being Sad, as Certainty hides Certainly (Andras's Theme)
+169	Soul-eating Grief (Python Knight's Theme)
+170	The Victor's Star (Battle Arena Lobby's Theme)
+171	Rawr (Fleta's Theme)
+172	My Life Led by Him (Comgan's Theme)
+173	A Different Charm, a Free Smile (Lorraine's Theme)
+174	Deeper and Deeper, Into the Abyss (Black Mask's Theme)
+175	Twin Stars (Del's Theme)
+176	Experience Turns Gold (Duncan's Theme)
+177	For the Fallen (Knockdown Theme)
+178	Distant Thought on the Other Side
+179	Shadow of Arat (Doppelganger's Theme)
+180	Lacks Beauty (Simon's Theme)
+181	That Beautiful Day (Beauty Shop's Theme)
+182	The Father's Promise (Bryce's Theme)
+183	Gatekeeper of Avon (Bran's Theme)
+184	Wake Up in the Morning Sun (Sen Mag Residential Area's Theme)
+185	Airgetlam (Nuadha's Theme)
+186	Andras' Music Box (Elatha's Theme)
+187	Aonbharr's Soaring (Falias's Theme)
+188	A Safe Zone (Dungeon Lobby's Theme)
+189	My Wooly Life (Deian's Theme)
+190	Ruler of the Dark
+191	Echo (Rabbie Dungeon's Theme)
+192	Do not Tease Me 'You're Young'! (Lileas's Theme)
+193	An Old Story from Grandma (Login Theme)
+194	Always Great Spirit (Kawsay's Theme)
+195	Frozen Lake of Tears (Dungeon Theme)
+196	Youth of Summer's Seashore (Seanan's Theme)
+197	How Many Secretary's Morning? (Sinead's Theme)
+198	Mysterious Goddess (Neamhain's Theme)
+199	Lay Thy Lips on Goddess' Wings (Sidhe Sneachta's Theme)
+200	Lands of Epidemic (Shadow Realm Boss Room's Theme)
+201	The Foundation of Alchemy (Eabha's Theme)
+202	The Generation of Alchemy (Return of the Hero Ending Theme)
+203	Love Simulator (Nicca's Theme)
+204	Glory of the Stone (Dugald/Sen Mag Castle's Theme)
+205	Old Hero's Visage (Zeder's Theme)
+206	Music Box of Soul (Goddess of Light Ending Theme)
+207	An Old Partholon Story (Sword of the Gods Main Theme)
+208	Today I Wander (Price's Theme)
+209	Today is Also a Professional Job! (Erhard's Theme)
+210	Wine Stacked and Locked at Dusk (Lezard's Theme)
+211	Capital City of Empire (Tara's Theme)
+212	Old Superstar (Carasek's Theme)
+213	Prince of Solitude (Castle Dungeon's Theme)
+214	When Cooking Art (Glewyas's Theme)
+215	Iron Chef (Gordon's Theme)
+216	Fairy's Flight (Emain Macha Town Square Theme)
+217	Prude, but Elegant Lady (Cliona's Theme)
+218	May the Blessings of the Lord Be With Us (Alby Dungeon's Theme)
+219	The Bell That Never Tolls (Kristell's Theme)
+220	Through the Eyes of a Banker (Austeyn's Theme)
+221	The Privilege of Great Cause (Guard's Theme)
+222	This is My Pride (Edern's Theme)
+223	Nameless Tombstone (Sen Mag Plains's Theme)
+224	The End of the Saga (Saga Ending Theme)
+225	The End of the Saga Piano Ver. (Saga Ending Theme)
+226	A Leisure (Walter's Theme)
+227	Separation, Breaking of a Relationship (Taunes's Theme)
+228	One-way (Osna Sail's Theme)
+229	Soul of Freedom (Yvona's Theme)
+230	Love and Cruel Fate (Human Scathach's Theme)
+231	Tranquil but Smiling Cure (Atrata's Theme)
+232	Please Advise Me (Meriel's Theme)
+233	A Prayer for the Sleeping (Nao Appearance's Theme)
+234	Mischievous Soul (Akule's Theme)
+235	A Magnificent Sight (G2 Theme)
+236	Splitting a Gray Sky (Alchemist Credits Theme)
+237	Desolation (Another World: Gairech / Bangor's Theme)
+238	The Legendary Magician (Tarlach's Theme)
+239	Tale Untold (The Saga: IRIA Season2 Opening Theme)
+240	For Justice (Aodhan's Theme)
+241	A Lost Music Box (Effie's Theme)
+242	Death March (Macbeth Cut Scene Theme)
+243	Hate (Barri Dungeon's Theme)
+244	As the Old Days Flutter Past in the Wind (Glenis's Theme)
+245	Leaning on a Cane (Dougal's Theme)
+246	A Flower Atop Ochre Silk (Ailionoa's Theme)
+247	O Glorious Sword of Light (Lugh's Theme)
+248	The Earth of Pale Gloom (Shadow Realm of Taillteann's Theme)
+249	Stacking Books Up to My Height (Aeira's Theme)
+250	The Knights of God (Cutscene Theme)
+251	Smile like a Cherry (Shena's Theme)
+252	The Final Stand (Albey G1 Final Boss Room's Theme)
+253	Tears of Memories (Macbeth Cutscene 26 Theme)
+254	Tears of Memories (Macbeth Cutscene 25 Theme)
+255	Song of Blessing (Castanea's Theme)
+256	Maze Without an Exit (The Saga: IRIA Season1 EP4 Cutscene Theme)
+257	Kind Lesson (Lassar's Theme)
+258	Words Drowned in Silence (Collen's Theme)
+259	Blade Above the Sand (Maike's Theme)
+260	Pride of Dragon (Legatus's Theme)
+261	The Only Thing Holding the Knife (Padan's  Theme)
+262	Goddess of the Town (Kusina's Theme)
+263	Sword Lifted for the Sun (Morva Aisle's Theme)
+264	Please Don't Touch the Helmet (Tin's Theme)
+265	Tupai, It's Like a Wolf (Tupai's Theme)
+266	Song of Partholon (Shadow Realm's Theme)
+267	Prince of Partholog (G11 Mainstream Scenario Ending 2 Theme)
+268	Lost Memories at the World's End (Kelpie's Theme)
+269	Flag of Paladins (Craig's Theme)
+270	The Star Above Falias (Nuadha's Theme)
+271	Bird Drifting Into Ruins (Tir Chonaill's Theme)
+272	The Lady with the Poker Face (Bebhinn's Theme)
+273	Runaway Girl (Ethna's Theme)
+274	The Storm is Coming
+275	One Day a Storm (Dowra's Theme)
+276	Ffion's Picture is Better in Books (Ffion's Theme)
+277	Hah! You Thought I'm a Woman? (Tracy's Theme)
+278	Happy Happy Life (Osla's Life)
+279	Back in the Happy Days
+280	Cute, Curious Girl's Dignified Love (Juliet's Theme)
+281	Edge of Chaos II (Ciar/Rabbie Dungeon's Theme)
+282	Father Left Alone (Shylock's Theme)
+283	Energetic Welcome (Galvin's Theme)
+284	Long Live, Hurray, Hurrah! (Manus's Theme)
+285	Twilight Memories (Hywell's Theme)
+286	Viridian Emerald (Agnes's Theme)
+287	Does the Martial Art of Meeting Act the Part Merrily? (Devi's Theme)
+288	The Story of a White Deer (Nao Talk's Theme)
+289	With Hyacinth in Mind (Dugald Aisle's Theme)
+290	belfast
+291	Believe Your Force
+292	catastrophe
+293	Silent
+294	commerce_battle
+295	commerce_start
+296	deux ex machina
+297	devCAT
+298	elatha_orgel_mp3
+299	Epilogue
+300	g14_dungeon
+301	Nao Stage
+302	Homestead
+303	Scene 00
+304	Scene 01
+305	Scene 02
+306	Scene 03
+307	Scene 04
+308	Scene 05
+309	Scene 06
+310	Scene 07
+311	Scene 08
+312	Scene 09
+313	Scene 10
+314	Scene 12
+315	Scene 13
+316	Scene 14
+317	Scene 23
+318	Siren Pipe
+319	Soft Sunshine
+320	staratford upon Avon
+321	Sweet Care
+322	Gairech Hills
+323	Nares Plateau
+324	Nubes Mountains
+325	Dunbarton
+326	Dugald Aisle
+327	Rabbie Dungeon
+328	Raspa Volcano
+329	La Terra Highlands
+330	Rath Royal Castle
+331	Lappa
+332	Renes
+333	Longa Desert Ruins
+334	Lunae Valley
+335	Rupes Desert
+336	Rundal Dungeon
+337	Witch's Cave
+338	Math Dungeon
+339	Maiz Prairie
+340	Maiz Prairie Ruins
+341	Metus
+342	Morva Aisle
+343	Muyu Desert
+344	Barba Basin
+345	Barri Dungeon
+346	Bangor
+347	Vales
+348	Belvast Port
+349	Blago Prairie
+350	Sen Mag Prairie
+351	Sella Seashore
+352	Solea
+353	Scathach Patrol Camp
+354	Sliab Cuilin
+355	Sidhe Sneachta
+356	Silva Forest
+357	Avon
+358	Abb Neagh
+359	Alby Dungeon
+360	Iria Falls
+361	Forest of Temptation
+362	Emain Macha
+363	Karu Forest
+364	Karu Forest Ruins
+365	Port Cobh
+366	Kaypi Canyon
+367	Lake Calida
+368	Cenae Meadows
+369	Port Ceann
+370	Qilla Base Camp
+371	Port Qilla
+372	Cor Village
+373	Corrib Valley
+374	Coill Dungeon
+375	Ciar Dungeon
+376	Tara
+377	Taillteann
+378	Tir Chonaill
+379	Par Ruins
+380	Pantay Swamp
+381	Pera Volcano
+382	Peaca Dungeon
+383	Fiodh Dungeon
+384	Filia
+385	Herba Jungle
+386	Black Beach
+387	Galvin
+388	Beggar
+389	Gertrude
+390	Black Dragon Knight
+391	Black Dragon Knight
+392	Gordon
+393	Goro
+394	Golvan
+395	Bear
+396	Naco the Trade Helper
+397	Nico the Trade Helper
+398	Digo the Trade Helper
+399	Digo the Trade Helper
+400	Laco the Trade Helper
+401	Lougo the Trade Helper
+402	Ringo the Trade Helper
+403	Uko the Trade Helper
+404	Pongo the Trade Helper
+405	Granat
+406	Granites
+407	Glewyas
+408	Glenis
+409	Guildenstern
+410	Gilmore
+411	Nao
+412	Spirit of the Male Sword
+413	Spirit of the Male Blunt Weapon
+414	Male Cylinder Spirit
+415	Spirit of the Male Wand
+416	Spirit of the Male Bow
+417	Nerys
+418	Neamhain
+419	Nessa
+420	Nele
+421	Nora
+422	Nuadha
+423	Nicca
+424	Dowra
+425	Duncan
+426	Devi
+427	Del
+428	Delen
+429	Dorren
+430	Dougal
+431	Starlet
+432	Dian
+433	Dilys
+434	Lanier
+435	Lassar
+436	Languhiris
+437	Legatus
+438	Lennox
+439	Lelach
+440	Leslie
+441	Laertes
+442	Ranald
+443	Leymore
+444	Lezarro
+445	Lepus
+446	Lorraine
+447	Laurence
+448	Romeo
+449	Rosencrantz
+450	Lugh Lavada
+451	Rua
+452	Ruairi
+453	Ruairi
+454	Ruairi
+455	Ruairi
+456	Ruairi
+457	Ruairi
+458	Ruairi
+459	Ruairi
+460	Ruwai
+461	Lucas
+462	Redire
+463	Lileas
+464	Rian
+465	Rian
+466	Riocard
+467	Manus
+468	Mari
+469	Marcellus
+470	Culinary Artist
+471	Mores
+472	Mata
+473	Macha
+474	Marlowe
+475	Malcolm
+476	Myrddin
+477	Mercutio
+478	Merlin
+479	Meriel
+480	Meven
+481	Maike
+482	Meles
+483	Morgant
+484	Morgant
+485	Marcan
+486	Morrighan
+487	Morrighan
+488	Morc
+489	Mont
+490	Muro
+491	Millia
+492	Bassanio
+493	Weide
+494	Bhafel
+495	Wanst
+496	Walter
+497	Bernardo
+498	Bebhinn
+499	Beirnes
+500	Berched
+501	Bella
+502	Belita
+503	Voight
+504	Buchanan
+505	Bryce
+506	Brenda
+507	Briana
+508	Brilluen
+509	Blyss
+510	Neru the Merchant
+511	Nunu the Merchant
+512	Lanu the Merchant
+513	Meru the Merchant
+514	Beru the Merchant
+515	Sena the Merchant
+516	Aru the Merchant
+517	Eru the Merchant
+518	Piru the Merchant
+519	Shamala
+520	Shylock
+521	Shena
+522	Shenon
+523	Seumas
+524	Shakespeare
+525	Sion
+526	Scathach
+527	Scathach
+528	Stewart
+529	Sinead
+530	Simon
+531	Agnes
+532	Shayla
+533	Annick
+534	Adniel
+535	Aranwen
+536	Aer
+537	Arenen
+538	Arzhela
+539	Avelin
+540	Ascon
+541	Aodhan
+542	Edern
+543	Aeira
+544	Jenna
+545	Eabha
+546	Eabha
+547	Akule
+548	Akule
+549	Atrata
+550	Andras
+551	Anju
+552	Antonio
+553	Alexina
+554	Alissa
+555	Altam
+556	Alpin
+557	Aisling
+558	Shepherd Boy Deian
+559	Eirawen
+560	Erhard
+561	Eavan
+562	Esras
+563	Elen
+564	Ethna
+565	Effie
+566	Endelyon
+567	Elatha
+568	Ailionoa
+569	Eluned
+570	Spirit of the Female Sword
+571	Spirit of the Female Blunt Weapon
+572	Female Cylinder Spirit
+573	Spirit of the Female Wand
+574	Spirit of the Female Bow
+575	Odran
+576	Austeyn
+577	Osla
+578	Admiral Owen
+579	Ophelia
+580	Yoff
+581	Ghelp the Transportation Helper
+582	Demp the Transportation Helper
+583	Derp the Transportation Helper
+584	Rolph the Transport Helper
+585	Louve the Transportation Helper
+586	Bove the Transportation Helper
+587	Kope the Transportation Helper
+588	Popi the Transportation Helper
+589	Houpe the Transportation Helper
+590	Waboka
+591	Vena
+592	Wyllow
+593	Yvona
+594	Ibbie
+595	Elain
+596	Ilsa
+597	Jarlath
+598	Jenna
+599	Jenna
+600	Jennifer
+601	Zeder
+602	James
+603	Jocelin
+604	Juliet
+605	Carasek
+606	Karpfen
+607	Castanea
+608	Colm
+609	Comgan
+610	Cai
+611	Caitin
+612	Kelpie
+613	Corentin
+614	Kousai
+615	Collen
+616	Kusina
+617	Cessair
+618	Cessair's Heart
+619	Craig
+620	Crumena
+621	Krug
+622	Kristell
+623	Kristell
+624	Claudius
+625	Cliona
+626	Kirine
+627	Keith
+628	Cichol
+629	Black Mask
+630	Tarlach
+631	Young Tarlach
+632	Young Tarlach
+633	Tarlach
+634	Tarlach
+635	Taunes
+636	Tethra
+637	Talvish
+638	Tuan
+639	Tupai
+640	Trefor
+641	Tracy
+642	Treasure Hunter
+643	Triona
+644	Tyron
+645	Tybalt
+646	Tin
+647	Python Knight
+648	Fallon
+649	Paris
+650	Paris
+651	Ferghus
+652	Pero
+653	Padan
+654	Petra
+655	Pennar
+656	Pencast
+657	Portia
+658	Polonius
+659	Price
+660	Fraser
+661	Professor J
+662	Fleta
+663	Finola
+664	Piaras
+665	Pierrick
+666	Ffion
+667	Hagel
+668	Hagi
+669	Hans
+670	Hamlet
+671	Heledd
+672	Helvetius
+673	Horatio
+674	Huw
+675	Heulfryn
+676	Eiry
+677	Coco
+678	Belisha
+679	Belisha
+680	Trickster
+681	Trickster
+682	Ferghus
+683	Shirou Emiya
+684	Shirou Emiya
+685	Shirou Emiya
+686	Shirou Emiya
+687	Rin Tohsaka
+688	Rin Tohsaka
+689	Rin Tohsaka
+690	Rin Tohsaka
+691	Illyasviel
+692	Illyasviel
+693	Illyasviel
+694	Illyasviel
+695	Saber
+696	Saber
+697	Saber
+698	Saber
+699	Archer
+700	Archer
+701	Archer
+702	Archer
+703	Berserker
+704	Berserker
+705	Lancer
+706	Lancer
+707	Lancer
+708	Lancer
+709	Rider
+710	Rider
+711	Rider
+712	Caster
+713	Caster
+714	Caster
+715	Caster
+716	Assassin
+717	Assassin
+718	Assassin
+719	Gilgamesh
+720	Gilgamesh
+721	Gilgamesh
+722	Gilgamesh
+723	\nBecause it makes me happy to help others,\nI don't think that's wrong.
+724	Even if you are allies,\ndon't hang around Rin too much.
+725	Whatever happens, I have no regrets.\nI can't acknowledge you.
+726	I won't lose... Even if it is foolish, I won't go back.\nThis dream, even if it might not be real,\nthere is nothing wrong with it!
+727	Sorry.\nIt will take a little longer...\n
+728	Why else? To have fun, of course.\nIt's a date!
+729	Have you ever regretted the things you've done?\nIf I can help it, I want to avoid any regrets.\nThat's easier said than done, though.
+730	You are now as I am. Pledge your blade to me.\nUnder the will of the Holy Grail, pledge fealty to the ideals... to me!\nThis fate is in your blade!
+731	Destroy them,\nBerserker!
+732	Berserker won't lose to anyone.\nBecause he's the strongest in the world!
+733	Magic? Human's aid?\nOnly humans feel satisfaction from that.\nWhat are we living for?
+734	Ah... That's good.\nJust stay there... Berserker...
+735	I will ask.\nAre you my master?
+736	From now on, I shall serve as your blade.\nMy fate is your fate.
+737	We have no will to share our stories, nor freedom to speak our names.\nThe only thing we share is the act of killing others.\nThat's why I will obey the order to attack.
+738	If that is what you want, I will respect your decision.\nI've sworn that my body will be your shield.\nI will watch until the end.
+739	Is that the first thing you say?\nWhat a ridiculous master.\nHow unlucky could I be.
+740	What?\nI'm the servant you've summoned.\nOf course I'm the best.
+741	There must be a reason for fighting. But that reason must never be an ideal. If you fight for an ideal, you aren't really helping anyone.\n
+742	I am the bone of my sword.\nUnknown to Death. Nor known to Life.\nUnlimited blade works!
+743	GRUU~...
+744	GRAAAA~~~!!
+745	I'm impressed.\nThought you were clueless, but you are aware of the point.\nI shouldn't have started this conversation.
+746	I was only interested in investigating...\nBut I'll gladly take your heart!\nGae Blog!
+747	No, I feel good about this.\nIt's rare to be fond of the dirty work I have to deal with.\nSo let me help until the end.
+748	I wouldn't have had any complaints if I had a female partner like you.\nUnfortunately, I've never had luck with women.\nIt never gets better.
+749	Unlike my Master, you posses courage.\nIn that case, I will take a different tack.\nI shall give you a merciful death.
+750	No, this is the end for you.\nYou were at my mercy all along.
+751	Now then... What was that amusing thing you were saying?\nSomething about my being inferior to other Servants?\nThat won't do at all.
+752	All the city's denizens are mine.\nNow, does that imply you are prepared\nto hand over your Command Spell?
+753	Ahahah! Have I surprised you?\nThis is my Noble Phantasm, Rule Breaker.\nIt nullifies any and all magic cast in this world... The dagger of betrayal and negation!
+754	I'm sorry. But all of this is for my Master...\nMy only purpose is to help you win.\nThere is no other reason.
+755	It won't happen...\nMy hope...\nIt has come true already...
+756	No matter.\nMy blade will tell me all I need to know of my enemy.\nIf you wish to pass, then force your way through.
+757	I may have no true name, but I have devoted my life to the sword.\nIf giving all for this fight is not an option, shall I break open that belief with brute force?\nConcealed sword... Swallow Reversal!
+758	I am indeed letting you go.\nTo find a worthy opponent is a rare thing.\nIf you are not in peak form, it would be a waste to defeat you.
+759	Still, I am not unsympathetic to your feelings.\nRevenge feels wonderful... To seek pleasure is proof of being human.\nOnce I have done what needs to be done, I shall join in your games.
+760	Bring it on, great hero.\nYou'll bring an end to my boredom.\nShall we reenact the legendary fight right here?
+761	How ridiculous.\nSurpassing his own myth...
+762	I don't need imbeciles.\nThose who can survive hell,\nthey are the ones worth ruling.
+763	Standing Before the Gate
+764	Standing Before the Gate
+765	Complete Silence
+766	Blind King of the Dead
+767	Avalon Gate
+768	Avalon Gate
+769	Kanna
+770	Eirlys
+771	Elsie
+772	Logan
+773	Kaour
+774	Dai
+775	Caswyn
+776	Caswyn
+777	Pihne
+778	An Old Tale from Grandma (Halloween Version)
+779	Little Ghost
+780	Kyle
+781	Colton
+782	William
+783	Sparkling Eyes in the Dark
+784	The Moon's Shadow
+785	An Old Tale from Grandma (Sluagh Version)
+786	Crystal of Peaca Dungeon
+787	Cracked Crystal of Peaca Dungeon
+788	Eiren
+789	Vestige of a Forgotten Time
+790	Divinity of the Faded Knight
+791	Honed Echo that Reaps the Twilight
+792	Clashing Powers of the Awakened
+793	God's Will, Veiled by Time
+794	The First Sword of Aton Cimeni
+795	Outskirts of Avalon
+796	Avalon Knights' Epitaph
+797	Avalon Yggdrasil
+798	Avalon Abandoned Camp
+799	Avalon City Ruins
+800	Avalon Forgotten Shore
+801	Avalon Berg Mesa
+802	Avalon Sanctum
+803	Llywelyn
+804	Avelin
+805	Kaelic
+806	Kaelic
+807	Innes
+808	Talvish
+809	Sight hindered by the magical mists
+810	Doubhca, the Rising Black Moon
+811	Hysterical Night
+812	Howling Curse Eye of Death
+813	An Old Tale from Grandma (Apocalypse Version)
+814	Tech Duinn Entrance
+815	Feth Fiada
+816	Ruins of Doubhca
+817	Piran
+818	Marleid
+819	Vayne
+820	Cethlenn
+821	Beimnech
+822	The Dark Night Rises
+823	The Languid Blue
+824	Ending Hunger
+825	Breaking the Waves
+826	Such Small Laughter
+827	Rain over Belvast
+828	Scuabtuinne Tranquility Reach (Shore)
+829	Scuabtuinne Tranquility Reach
+830	Scuabtuinne Deception Reach
+831	Scuabtuinne Desolation Reach
+832	Manannan's Temple
+833	Murielle
+834	Bhatair
+835	Morfyd
+836	Talek
+837	Mutant Talek
+838	Manannan
+839	Tani
+840	From the Depths of Despair
+841	The Value of Chaos
+842	A Resentful Requiem
+843	Bittersweet Nightmare
+844	Fever Dreams
+845	A Colorless Deja Vu
+846	A Legend's Landing
+847	Belvast Mykeeness Cliffs
+848	Tory Ravine Decaying Swamp
+849	Tory Ravine Blackstone Beach
+850	Tory Ravine Broken Bridge
+851	Tory Ravine Altar of Doubhca
+852	Carved Tory Ravine Cliff Doors
+853	Samhain Ghost Ship Ballroom
+854	Burning Bangor
+855	Black Moon Cromm Cruaich at Rath Royal Castle
+856	Sera
+857	Incubus King
+858	Fodla
+859	Deirbhile
+860	Piran
+861	Tani
+862	Balor
+863	Cethlenn
+864	Marleid
+865	Piran
+866	Merlin
+867	Treasure Hunter
+868	Eiren
+869	Starlet
+870	Professor J
+871	Culinary Artist
+872	Bhatair
+873	Murielle
+874	Dowra
+875	Maike
+876	Manannan
+877	Eirawen
+878	Admiral Owen
+879	Blyss
+880	An Old Tale from Grandma (Fynn Version)
+881	Better Together
+882	The Honey Forest Beyond the Mists
+883	The Mysterious Forest Beyond the Mists
+884	A Floral March
+885	The Dark Green Watchman
+886	The Gateway to Mag Mell
+887	Mag Mell by Daylight
+888	Mag Mell by Moonlight
+889	In Mag Mell 1
+890	In Mag Mell 2
+891	In Mag Mell 3
+892	The Forest of Four Seasons
+893	Deep in the Forest of Four Seasons
+894	Dynamic Lands
+895	Deep in the Dynamic Lands
+896	Pinkie
+897	Fynni Fynn
+898	Katell
+899	Bare Forehead Katell

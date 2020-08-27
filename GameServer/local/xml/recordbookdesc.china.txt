@@ -1,0 +1,24 @@
+﻿0	The First Memoir
+1	The Second Memoir
+2	New Memoir
+3	The first memoir will fill up as you recover my lost memories. It's probably best if you retrieve my most basic memories first. Once you've completed the first chapter, the second one will unlock. Once you've finished them all, the first memoir will be done!\n\nAs you complete special quests and fill up the memoir, the memories you collect will be saved in the book. To see them again, just click on the button on the corresponding page!\n\nUse the table of contents to the right to easily track your progress. Click any of the flower icons to jump to that section of the book. Click the purple flower bookmark tab to quickly move to your current quest. You can always return back to this page by clicking the red bookmark at the bottom of the memoir.\n\nIf the memoir starts to get unwieldy, you can also use your quest notifications to track your current quest. Just close the memoir and it'll pop up and show you what you need to do!\n\nI guess that's it! Good luck on completing the first memoir!\n\n-Blaanid
+4	The second memoir contains more detailed memories. This time, you'll be able to freely progress through the quests in whatever order you'd like. Once you've finished the quests in all the chapters, the second memoir will  be done! \n\nAs you complete quests and fill up the memoir, the memories you collect will be saved in the book. To see them again, just click on the button on the corresponding page!\n\nUse the table of contents to the right to easily track your progress. Click any of the flower icons to jump to that section of the book. Click the purple flower bookmark tab to quickly move to your current quest. You can always return back to this page by clicking the red bookmark at the bottom of the memoir.\n\nIf the memoir starts to get unwieldy, you can also use your quest notifications to track your current quest. Just close the memoir and it'll pop up and show you what you need to do!\n\nI guess that's it! Good luck on completing the second memoir!\n\n-Blaanid
+5	This new memoir records the new memories that we make together as we participate in activities through Erinn! \n\nYou can get stickers for completing a lot of the quests in this memoir, but let me warn you now: it'll get harder and harder as you progress through the quests! It's worth it though, I promise! When you finish the sticker board, I'll give you Gold, EXP, and a flower pot that I made just for you! \n\nI added little notes that might be helpful as you tackle each quest. And don't forget to collect your reward when you finish the sticker board, because you won't get any more stickers when it's full! I hope you enjoy filling up this memoir with new memories!!\n\n-Blaanid
+6	Adapting to Life in Erinn
+7	Preparing for Adventure
+8	Preparing for Battle
+9	First Steps
+10	A Taste of Life
+11	Close Combat Memories
+12	Magic Combat Memories
+13	Support Combat Memories
+14	Ranged Combat Memories
+15	Life Skill Memories
+16	Memories of Growth
+17	Weapon Enhancement Memories
+18	Armor Enhancement Memories
+19	Enchanting and Reforging Memories
+20	Dungeon Memories
+21	Memories of the Goddess
+22	Memories of Adventure
+23	

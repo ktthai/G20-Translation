@@ -1,0 +1,39 @@
+﻿0	Max Damage
+1	Min Damage
+2	Shooting Range
+3	Balance
+4	Casting Speed
+5	Chain Casting
+6	Gathering Speed
+7	Critical
+8	Defense
+9	Max Durability
+10	Magic Auto Defense
+11	Close Range Auto Defense
+12	Long Range Auto Defense
+13	Magic Damage
+14	MP Evaporation Protection
+15	Magic MP
+16	Protection
+17	Range Attack Damage
+18	Range Attack Distance
+19	Max Injury Rate
+20	Min Injury Rate
+21	Alchemy Stamina
+22	Fire Damage
+23	Earth Damage
+24	Wind Damage
+25	Water Damage
+26	Item Exclusivity
+27	Shield Defense
+28	Physical Damage
+29	Magic Damage
+30	Stamina Recovery Rate
+31	MP Recovery Rate
+32	Barrier Spikes Durability
+33	Freeze Duration
+34	Freeze Range
+35	Max Damage
+36	Critical Damage
+37	Min Damage
+38	Magic Attack

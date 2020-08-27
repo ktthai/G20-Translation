@@ -1,0 +1,3673 @@
+﻿1	Rebirth Info
+2	Birthday
+3	Time Since Last Rebirth
+4	Availability
+5	Rebirth Count
+6	Level
+7	Exploration
+8	Rebirth
+9	PvP Info
+10	Win Count
+11	Lose Count
+12	Win Ratio
+13	Jousting Tournament Record
+14	Win Count
+15	Lose Count
+16	Point(s)
+17	Marriage Info
+18	Spouse
+19	Date
+20	Heart Points Info
+21	Total
+22	Current
+23	Demigod Support Info
+24	Exploration\nInfo
+25	Journal
+26	Family\nTree
+27	PvP\nRanking
+28	Name
+29	Title
+30	A title comes after your name and is visible to those around you. Wear your titles with pride!
+31	Age
+32	Race
+33	Destiny
+34	HP
+35	MP
+36	Stamina
+37	XP
+38	Expl. XP
+39	AP
+40	Basic
+41	STR
+42	[@strDesc;string]
+43	INT
+44	[@intDesc;string]
+45	DEX
+46	[@dexDesc;string]
+47	Will
+48	[@willDesc;string]
+49	Luck
+50	[@luckDesc;string]
+51	[@strDesc;string]
+52	[@intDesc;string]
+53	[@dexDesc;string]
+54	[@willDesc;string]
+55	[@luckDesc;string]
+56	Attack
+57	Damage
+58	[@attackDesc;string]
+59	Magic Attack
+60	[@magicAttackDesc;string]
+61	Injury Rate
+62	[@woundDesc;string]
+63	Critical
+64	[@criticalDesc;string]
+65	Balance
+66	[@balanceDesc;string]
+67	[@attackDesc;string]
+68	[@magicAttackDesc;string]
+69	[@woundDesc;string]
+70	[@criticalDesc;string]
+71	[@balanceDesc;string]
+72	Defense
+73	Defense
+74	[@defenceDesc;string]
+75	Magic Def.
+76	[@magicDefenceDesc;string]
+77	Protection
+78	[@protectDesc;string]
+79	[@defenceDesc;string]
+80	[@magicDefenceDesc;string]
+81	[@protectDesc;string]
+82	Status Effects
+83	Your physical strength. The more Strength you have, the stronger your attacks and the more bonuses you gain from Strength-dependent skills.
+84	Your rational capability. The more Intelligence you have, the more bonuses you gain from Intelligence-dependent skills.
+85	Your ability to work. The more Dexterity you have, the faster and better you can create items and the more bonuses you gain from Dexterity-dependent skills.
+86	Your mental prowess and determination. The more Will you have, the better you can survive dangerous situations and the more bonuses you gain from Will-dependent skills and Will-affected circumstances.
+87	A mysterious and inexplicable phenomena that helps you. The more Luck you have, the more often good things happen to you and the more bonuses you gain from Luck-related skills.
+88	A representation of your life. When your HP reaches 0, you are knocked unconscious. The more HP you have, the longer you can survive battles against powerful enemies.
+89	A representation of the magical energy granted by the power of Eweca. When you run out of MP, you can no longer cast magical spells. It is smart to raise your Max MP, since MP only regenerates at night or through potions.
+90	A representation of the basic energy required to perform most actions. Watch your Stamina carefully. The more Stamina you have, the more work you can do without needing to rest.
+91	The amount of damage you deal to enemies when you attack them with physical weapons like swords and bows.
+92	The amount of damage you deal to enemies when you attack them with magic skills. Your Magic Attack is affected by your Intelligence. Every 1 point of Magic Attack increases damage by 1%.
+93	The chance that an attack you deal to an enemy will injure them. Injuries cannot be treated with potions or healing magic.
+94	The chance that an attack you deal will inflict deadly damage to enemies. Your Critical rate is affected by your Luck and Will.
+95	The likelihood that your attacks will deal damage close to the max damage you are capable of. The more Balance you have, the higher the chance. Balance is affected by Dexterity and certain skill ranks.
+96	The amount of damage you absorb when you're hit by a physical attack. The more Defense you have, the less damage you take.
+97	The amount of damage you absorb when you're hit by a magic attack. The more Magic Defense you have, the less damage you take. Your Magic Defense is affected by your Intelligence.
+98	The amount of an enemy's critical attack you block. The more Protection you have, the more you block. Displayed as a ratio.
+99	Character Info
+100	Basic Info
+101	Additional Info
+102	Part-Time Job
+103	Keyword
+104	Pet
+105	Rebirth Info
+106	Birthday
+107	Time Since Last Rebirth
+108	Rebirth Count
+109	Cumulative Level
+110	Rebirth
+111	PvP Info
+112	Win Count
+113	Lose Count
+114	Win Ratio
+115	PvP Ranking
+116	Name
+117	Race
+118	Age
+119	HP
+120	MP
+121	Stamina
+122	EXP
+123	Basic
+124	STR
+125	INT
+126	DEX
+127	Will
+128	Luck
+129	Attack
+130	Damage
+131	Magic Attack
+132	Injury Rate
+133	Critical
+134	Balance
+135	Defense
+136	Defense
+137	Magic Def.
+138	Protection
+139	Status
+140	Animal Character Info
+141	Basic Info
+142	Additional Info
+143	Summon
+144	Summon to Protect Personal Shop
+145	New Pet
+146	AI Settings
+147	(Auto Sort)
+148	Sort - Most Recent Summons
+149	Sort - Alphabetical
+150	Sort - Character Creation Date
+151	<symbol>\x1b<alphanumeric><symbol>\x1b<alphanumeric>
+152	<symbol>\x1b<alphanumeric>
+153	<symbol>\x1c<alphanumeric>
+154	<symbol>\x1c<alphanumeric><symbol>\x1c<alphanumeric>
+155	Save
+156	End
+157	Sort <
+158	Sort >
+159	Name
+160	Race
+161	Age
+162	HP
+163	MP
+164	Stamina
+165	EXP
+166	Basic
+167	STR
+168	INT
+169	DEX
+170	Will
+171	Luck
+172	Attack
+173	Damage
+174	Magic Attack
+175	Injury Rate
+176	Critical
+177	Balance
+178	Defense
+179	Defense
+180	Magic Def.
+181	Protection
+182	Status
+183	Character Info
+184	Basic Info
+185	Decorate Profile Shot
+186	Black 
+187	White
+188	Red
+189	Blue
+190	Yellow
+191	Green
+192	Pink
+193	Purple
+194	Colors the closed area.
+195	Clears the entire screen.
+196	Reverts to the previous operation.
+197	Selects the round brush.
+198	Selects the rectangular brush.
+199	1
+200	2
+201	3
+202	4
+203	5
+204	6
+205	7
+206	8
+207	9
+208	10
+209	11
+210	12
+211	13
+212	14
+213	15
+214	<mini>BRUSH</mini>
+215	<mini>SIZE</mini>
+216	Complete
+217	Cancel
+219	Open Erinn On Talk
+220	Close
+221	Decorate Screen Shot
+222	Black
+223	White
+224	Red
+225	Blue
+226	Yellow
+227	Green
+228	Pink
+229	Purple
+230	Colors the closed area.
+231	Clears the entire screen.
+232	Reverts to the previous operation.
+233	Selects the round brush.
+234	Selects the rectangular brush.
+235	1
+236	2
+237	3
+238	4
+239	5
+240	6
+241	7
+242	8
+243	9
+244	10
+245	11
+246	12
+247	13
+248	14
+249	15
+250	<mini>BRUSH</mini>
+251	<mini>SIZE</mini>
+252	Complete
+253	Cancel
+254	Total Sales Amount
+255	Kiosk Transaction List
+256	Close
+257	Closes the Kiosk.
+258	Exit
+259	Closes this window.
+260	Kiosk Title
+261	Edit
+262	Edits the title.
+263	OK
+264	Item Type
+265	Equippable Race
+266	Item Name
+267	Search
+268	Searches items.
+269	Seller
+270	Character selling the item.
+271	Sale Item
+272	Item Name
+273	Sale Price
+274	Item Price
+275	Buy
+276	Buy Item
+277	<<
+278	Previous 10 Pages
+279	<
+280	Previous Page
+281	[1]
+282	>
+283	Next Page
+284	>>
+285	Next 10 Pages
+286	Close
+287	Closes the search window.
+288	Price
+289	Gold
+290	OK
+291	Selects the item price.
+292	Cancel
+293	Cancels the item price selection.
+294	Age
+295	Face
+296	Selects the skin color.
+297	Skin Color
+298	Hair
+299	Selects the hair color.
+300	Hair Color
+301	Eyes
+302	Selects the eye color.
+303	Eye Color
+304	Lips
+305	Random Appearance
+306	Stats Corresponding to Age
+307	STR
+308	INT
+309	DEX
+310	Will
+311	Luck
+312	Starting Stats
+313	Every Year
+314	(Gain 25% of the above stats for every level up.)
+315	1
+316	+1
+317	1
+318	+1
+319	1
+320	+1
+321	1
+322	+1
+323	1
+324	+1
+325	Humans are blessed with versatility. Their skills are spread evenly between Stamina and Intelligence, and they possess a variety of skills. Humans are well-versed in close-ranged combat but can also learn to effectively wield a bow as well. Once they master their combat skills, Humans can excel at whatever style of combat they desire.
+326	Elves are innately skilled at archery and move more quickly than Humans and Giants. They also possess high Intelligence and MP. Elves primarily wield bows and magic, allowing them to attack from a distance. Since Elves can perform long-ranged attacks at a younger age than other races, they have a slight advantage over Humans and Giants.
+327	Giants are tall, brawny, and exceptionally strong. They are able to handle powerful weapons that no other race can wield. They are capable melee fighters. Even young, unlearned Giants can hold their own in close quarters combat.
+328	Gender
+329	Male
+330	Female
+331	Job
+332	Warrior
+333	Mage
+334	Ranger
+335	Merchant
+336	Alchemist
+337	Adventurer
+338	Create New Character
+339	Server
+340	Traffic
+341	<outlinecolor=3><color=2>Please select a server.</color></outlinecolor>\n\nYou will not be able to change servers once your character is created, so choose carefully.
+342	Server Description
+343	Name
+344	Enter your name.
+345	Name requirements:
+346	- Between 3-12 characters
+347	Names cannot contain:
+348	- Profanity\n- Spaces or special characters
+349	Race
+350	Human
+351	Elf
+352	Giant
+353	<< Previous
+354	Next >>
+355	Create
+356	Cancel
+357	Rebirth
+358	Basic Info
+359	Name:\n\n\nLevel:\nExploration Level :\nAge:
+360	\n\n\n           <symbol>\\x1d<alphanumeric>\n           <symbol>\\x1d<alphanumeric>\n           <symbol>\\x1d<alphanumeric>
+361	(Current)     (After Rebirth)
+362	32
+363	3
+364	3
+365	32
+366	3
+367	3
+368	Rebirth Info
+369	Level:\nExploration Level:\nAge:
+370	Current
+371	After Rebirth
+372	->\n->\n->
+373	Option
+374	Level and Age Reset
+375	Gender and Appearance
+376	Rebirth Location
+377	Last Location
+378	Tir Chonaill
+379	Iria
+380	Race
+381	Human
+382	Elf
+383	Giant
+384	<< Previous
+385	Next >>
+386	Rebirth
+387	Cancel
+388	Select Color
+389	Skill Info
+390	[SkillDesc $skillName]
+391	[SkillDesc $skillLocalName]
+392	View Details
+393	<gap=2>[SkillDesc $skillEffectDesc]
+394	[SkillDesc $skillEffectDesc]
+395	Training Method
+396	Hint
+397	COMPLETED
+398	Advancement Method
+399	Hint
+400	<color=2>Advance</color>
+401	Close
+402	Closes this window.
+403	Passive
+404	Use
+405	Rank D
+406	Train
+407	Unlearned
+408	<color=2>Learn Method</color>
+409	Click the button find out how to learn this skill.
+410	Stop
+411	Use
+412	Skill Learn Method
+413	[SkillInfo $skillName]
+414	[SkillInfo $skillLocalName]
+415	[SkillInfo $howToGetDesc]
+416	Close
+417	Closes this window.
+418	Go to parent folder.
+419	/[@fileName;string]
+420	<bold>[@fileName;string]</bold>
+421	Enter the color value.
+422	<outlinecolor=3><color=4>Open File</color> <color=2>(F3)</color></outlinecolor>
+423	Retrieve UI files.
+424	<outlinecolor=3><color=4>Refresh</color> <color=2>(F5)</color></outlinecolor>
+425	Refreshes the UI file being worked on.
+426	Theme
+427	Background Color
+428	<color=3><outlinecolor=2>0x[color]</outlinecolor></color>
+429	Open File
+430	Open
+431	Not Selected
+432	Adoption History
+433	Times Adopted
+434	Combo Card
+435	알림
+436	캐시샵
+437	보이지 않기
+438	Close
+439	+9%
+440	+10%
+441	+11%
+442	+12%
+443	+13%
+444	+14%
+445	+9%
+446	+10%
+447	+11%
+448	+12%
+449	+13%
+450	+14%
+451	This card is...
+452	Remaining time is...
+453	Activate
+454	Deactivate
+455	Eliminate
+456	Hide Combo Progress UI
+457	Create new Mabinogi account.
+458	[@title;string]
+459	[@contents;string]
+460	[@strName;string]
+461	[@strDesc;string]
+462	Enter Homestead name.
+463	Create
+464	Cancel
+465	Please wait.
+466	Incorrect format.  Name should be between 2 - 20 characters, including numbers and spaces.
+467	Harvest List
+468	Crop
+469	Explanation
+470	Time Spent
+471	Required Material
+472	Create
+473	Close
+474	Loading. \nPlease wait.
+475	Decorate my house \nHarvest crops \n\nRequired Item: Homestead Ticket
+476	Go to Homestead
+477	Create a Homestead
+478	Refresh
+479	Unable to access your Homestead. \nPlease try again later.
+480	You need a Homestead Ticket in order to create a Homestead. \nThe ticket can be acquired at total level 10.
+481	In order to save data safely,  \nentrance will be limited for {0}.
+482	Please press the Refresh button.
+483	Building Information
+484	Building Name
+485	[$parent $facilityDesc]
+486	Explanation
+487	[$parent $parent $facilityDescText]
+488	Harvest
+489	Close
+490	[$parent $facilityDesc]
+491	[$parent $facilityName]
+492	[$parent $facilityLevel]
+493	Construction List
+494	Building
+495	Product
+496	Farmland
+497	Ornament
+498	Explanation
+499	Time Spent
+500	Required Material
+501	Create
+502	Close
+503	{color=3}PageUp{/color} :  Rotate Clockwise\n{color=3}PageDown{/color} : Rotate Counter Clockwise
+504	[$parent $facilityDesc]
+505	Your Homestead level has increased.
+506	[@LevelUpText;string]
+507	The following buildings are available.
+508	Press the button below\nto expand a farm.
+509	{color=2}Expand{/color}
+510	Your farm will be expanded.
+511	Close
+512	[$parent $zoneName]
+513	0
+514	Kon
+515	?
+516	Kons are the value of your Homestead.
+517	Lv.
+518	1
+519	0 / 4000
+520	Homestead Stone
+521	0
+522	 
+523	Building Upgrade List
+524	Building
+525	Explanation
+526	Time Spent
+527	Required Material
+528	Select
+529	Close
+530	View Visitor List
+531	View Homestead Map
+532	View Visitor List
+533	Paint
+534	Please select a part to paint.
+535	Before
+536	After
+537	Select the paint \nyou'd like to use.
+538	Click on the button below\nto start painting.
+539	Start Painting
+540	After selecting the part and placing the Paint on the left,\nclick on this button to start painting.
+541	Click the button below to\nreturn to the default color.
+542	Remove Paint
+543	Returning to the default color.\n\nClick "Preview" to check how the \ndefault color looks.\n\nYou can only change it if the part is\nnot the default color and no Paint is selected.
+544	Preview
+545	You can see how it will look in the default color.
+546	Cancel
+547	Add Favorites
+548	Delete Favorites
+549	Additional Ornament List
+550	Ornament
+551	Notice
+552	The following items were dropped on the ground.\nIf you continue to exit, they might be lost.
+553	Exit Homestead?
+554	Exit
+555	Cancel
+556	[$parent $facilityDesc]
+557	[$parent $facilityName]
+558	Name Change
+559	[$parent $changeReasonText]
+560	Please select a new name.
+561	Condition
+562	- The entry should be between 2 - 20 characters including letters, numbers and spaces.\n- You cannot use a blank name.\n- Profanity and banned words cannot be used.
+563	Complete
+564	Cancel
+565	You can only create a Homestead in Uladh, Connous, or Physis.
+566	[@strRegionDesc0;string]
+567	Select a farm location.
+568	[@strRegionDesc1;string]
+569	Select a farm location.
+570	[@strRegionDesc2;string]
+571	Select a farm location.
+572	Exit Homestead.
+573	Authorization Setting
+574	Anyone
+575	Owner
+576	Owner's Friends
+577	Guild members
+578	Set up various buildings on a Homestead.
+579	Can be activated from Construction Mode.
+580	Switching to Construction Mode.
+581	Switching to Edit Mode.
+582	Available upon Homestead expansion.
+583	Mix Paint
+584	Put Paint in and balance the ratio of each Paint.\nWhen you have a color you want, click Start Mix.
+585	Success Rate
+586	%
+587	Put 2 or more Paint in to Start Mix.
+588	Cancel
+589	Notice
+590	Exit Homestead?
+591	Exit
+592	Cancel
+593	Visitor Information
+594	Request
+595	Select All
+596	Accept
+597	Delete
+598	Block
+599	Allow
+600	Select All
+601	Delete
+602	Block
+603	Block
+604	Select All
+605	Accept
+606	Delete
+607	Close
+608	Map of Uladh
+609	View Continent of Iria
+610	World Map
+611	View Continent of Uladh
+612	[@title;string]
+613	View Information
+614	Move
+615	Paint
+616	Remove
+617	Close
+618	Name is too short. You must enter a minimum of 2 characters.
+619	로그오프
+620	매우\n만족
+621	만족
+622	보통
+623	불만
+624	매우\n불만
+625	데브캣에 한 마디
+626	0 / 160
+627	정말로 로그오프 하시겠습니까?
+628	Confirm
+629	Cancel
+630	Extend
+631	Fishing Journal
+632	Cooking Journal
+633	Taming Journal
+634	Collection Journal
+635	Check the fish you have collected.
+636	Fishing
+637	Check the dishes you have collected.
+638	Cooking
+639	Check the animals you have tamed.
+640	Taming
+641	View Appearance
+642	Searches by the word entered.
+643	Resets the search.
+644	Searches by the word entered.
+645	Resets the search.
+646	Searches by the word entered.
+647	Resets the search.
+648	A Word from the Master Chef
+649	You have completed the best dish.\nGo and brag about it to others.
+650	Send
+651	Close
+652	A Word from the Master Chef
+653	You can get more star points if you tame stronger animals.
+654	You can get more star points if you catch bigger fish.
+655	You can get more star points if you catch bigger fish.
+656	You can get more star points if you eat more delicious dish.
+657	You can get more star points if you eat more delicious dish.
+658	You can get more star points if you tame stronger animals.
+659	Select Combo Card
+660	Please select a Combo Card.
+661	Close
+662	Select Combo Card
+663	Would you like to change this skill?\n\nYou will not be able to undo this.
+664	OK
+665	Cancel
+666	Revive
+668	Select Premium Combo Card
+669	Please select a Premium Combo Card.
+670	Password Box
+671	0
+672	0
+673	0
+674	Remaining Attempts: 8
+675	OK
+676	Puzzle
+677	OK
+678	Card Collecting
+679	Please select a Pentacle.
+680	Select
+681	Bet!
+682	Cancel
+683	Homestead Level
+684	:
+685	Homestead Value
+686	:
+687	Homestead Stone
+688	:
+689	Sealed Monster Urn
+690	Would you like to summon a monster with this?\nIf you ascend the summoned monster, it will disappear soon after.
+691	Ascend
+692	OK
+693	Cancel
+694	Color Metal Dye Ampoule
+695	Change Wheel
+696	Return to the Full Map.
+697	Return to the Full Map.
+698	Return to the Full Map.
+699	Check the Trade Goods being transported.
+700	Forfeit the transport.
+701	Close
+702	Trade Assistant Imp
+703	{color=4}{outlinecolor=5}Wagon{/outlinecolor}{/color}
+704	{color=4}Slot{/color} {color=5}{outlinecolor=6}4{/outlinecolor}{/color} {color=4}Slots / Weight{/color} {color=5}{outlinecolor=6}450{/outlinecolor}{/color}
+705	Weight
+707	Current Ducats
+709	Trading Post
+710	My Merchant Rating Level
+711	Current market price of each town
+712	You cannot sell the item at this Trading Post
+713	Quantity
+715	Ducats
+716	Weight
+717	Slot
+718	Purchase
+719	Close
+720	Reforging
+721	Place the item in the slot above.
+722	Reforge
+723	Mabinogi
+724	Continent Warp
+725	Guide with "Continent Warp" action.
+726	Change Channel
+727	Full Screen
+728	Screen Shot
+729	Homepage
+730	Game Forum
+731	Strategy Guide
+732	Ask an Expert
+733	Web Shop
+734	Erinn On Talk
+735	Options
+736	Log Off
+737	End Game
+738	Full Screen
+739	Switch to Full Screen mode.\n(Press 'Alt + Enter')
+740	Windowed Mode
+741	Switch to Windowed mode.\n(Press 'Alt + Enter')
+742	Export Results
+743	Ducats
+744	EXP
+745	Gold
+746	Close
+747	Reforging Restoration
+748	Place the item in the slot above.
+749	Restore
+750	Bingo Board
+751	Hide Coin Timer
+752	Show Coin Timer
+753	Timer
+754	Doing that will summon a monster mercenary. Continue?
+755	Commerce
+756	Create New Partner
+757	Personality
+758	Choose a personality from the list above.
+759	Description
+760	Build
+761	Height
+762	cm
+763	Weight
+764	kg
+765	Upper Body
+766	Lower Body
+767	Partner
+768	Partner Character
+769	{color=4}{outlinecolor=5}Wagon{/outlinecolor}{/color}
+770	Current Ducats
+771	1,234,567
+772	Weight
+773	45/450
+774	Close
+775	View Belvast Island
+776	View Belvast Island
+777	Close
+778	Alarm
+779	Accept
+780	Close
+781	Trading Post
+782	Current market price of each town
+783	You cannot sell the item at this Trading Post.
+784	Qty.
+785	Ducats
+786	Weight
+787	Slot
+788	Sell
+789	Close
+793	[@descText;string]
+794	[@strQuizText;string]
+796	0 / 100 
+797	Skill
+798	Confirm Color Change
+799	Using this potion will change the color of your character's name and chat to the following:
+800	Use this item?
+801	[NameChattingColorChangeView $playerName]
+802	Speech Bubble Message
+803	Confirm
+804	Cancel
+805	Confirm Name Color Change
+806	If you use this potion the color of your character's name\nwill be changed to the following:
+807	Use this item?
+808	[NameChattingColorChangeView $playerName]
+809	OK
+810	Cancel
+811	Select Reward
+812	Close
+813	Clock
+814	Add Alarm
+815	{color=6}This is a transformation alarm set for{/color} {color=5}12:00 A.M.{/color}
+816	Erinn
+817	Reality
+818	A.M.
+819	P.M.
+820	00
+821	01
+822	02
+823	03
+824	04
+825	05
+826	06
+827	07
+828	08
+829	09
+830	10
+831	11
+832	00
+833	05
+834	10
+835	15
+836	20
+837	25
+838	30
+839	35
+840	40
+841	45
+842	50
+843	55
+844	10:10 A.M.
+845	10:10 A.M.
+846	10:10 A.M.
+847	Preserve
+848	<Quickening>
+849	Remaining
+850	Total EXP
+851	Number of Pursuers
+852	Close
+853	View information on your current target.
+854	Stop the pursuit.
+855	Wanted Board
+856	Please contact the nearest Trading Post if you have seen them.
+857	Trading Post
+858	Pursue
+859	Reward
+860	Number of Pursuers
+861	Crime
+862	Characteristics
+863	Please select the Ice Dragon whose color you want to change.
+864	Change
+865	Examine Egg
+866	Save
+867	Quit
+868	> Set Note
+869	<  Set Note
+870	Save
+871	End
+872	> Set Note
+873	< Set Note
+874	다그다의 마법 항아리
+875	추출할 아이템을 올리세요
+876	위광 추출
+880	Dressing Room
+881	Dressing Room
+882	Facial Expression
+883	Motion
+884	Shopping Bag
+885	Type
+886	Name
+887	Price
+888	Own
+889	0 Pon
+890	Require
+891	0 Pon
+892	Buy
+893	Rotates your character counterclockwise.
+894	Rotates your character clockwise.
+895	Pon
+896	Open the Dressing Room
+897	Buy Pon
+906	Active Talent
+907	15 Coupons\nChance: 100%
+963	Select a card to use.
+964	Purchase Card
+965	Can be created with a Human Card
+966	Can be created with an Elf Card
+967	Can be created with a Giant Card
+968	Select a card to use to rebirth
+969	Purchase Card
+1016	Skill Reset Results
+1017	Related Skills
+1018	Choose Talent
+1019	Cancel
+1020	Choose Active Talent
+1021	Register a Recall Book
+1022	Confirm
+1023	Recall List
+1024	Unregistered
+1025	Cannot be used
+1026	Unregistered
+1027	Cannot be used
+1028	Unregistered
+1029	Cannot be used
+1030	Unregistered
+1031	Cannot be used
+1032	Move
+1033	Move
+1034	Move
+1035	Move
+1036	Close
+1037	Please select a Transmutation.
+1038	Talent Title
+1039	OK
+1040	Talent
+1041	Talent Bonuses
+1042	Total Talent Bonuses
+1043	OK
+1044	Talent
+1045	Talent Bonuses
+1046	Total Talent Bonuses
+1047	Pet Information
+1048	Tax
+1049	You are about to pay the Homestead maintenance fee.
+1050	Homestead Penalty is applied.
+1051	Open Hunting Diary.
+1052	Hunting
+1053	0/10
+1054	Open Transformation Diary
+1055	Transformation
+1056	0/10
+1057	Left-side Bonus
+1058	Right-side Bonus
+1059	Collection Bonus
+1060	Transform Bonus
+1061	Rank
+1062	Select All
+1063	Disable All
+1064	Rank F
+1065	Rank E
+1066	Rank D
+1067	Rank C
+1068	Rank B
+1069	Rank A
+1070	Rank 9
+1071	Rank 8
+1072	Rank 7
+1073	Rank 6
+1074	Rank 5
+1075	Rank 4
+1076	Rank 3
+1077	Rank 2
+1078	Rank 1
+1079	NPC
+1080	Click to see detailed information.
+1081	After collecting all of a transformation, you can transform by moving the character icon to the hotkey bar.
+1082	You can transform after you compete the collection.
+1083	Tax
+1084	You are about to pay the Homestead maintenance fee.
+1085	Homestead Penalty is applied.
+1086	OK
+1087	Talent
+1088	Talent Bonuses
+1089	Total Talent Bonuses
+1105	Hunt Diary
+1106	Transformation Diary
+1107	Filter
+1108	Select a rank to filter.
+1109	Only display collected characters.
+1110	Enable this function to check the monster collection category with the Alt key.
+1111	Click for details.
+1112	Total Bonus
+1113	Game Board
+1114	Roll Gold Marble
+1115	Roll Silver Marble
+1116	Roll Copper Marble
+1117	Animal
+1118	Recommended Farm
+1119	Close
+1120	Refresh
+1121	Pon Coin
+1122	Tax
+1123	Use Pon
+1124	Pon Coin
+1125	Tax
+1126	Use Pon
+1127	Recommended Farm
+1128	Maintenance Fee
+1129	[$parent $parent $farmstonetaxtext]
+1130	Total Maintenance Costs
+1131	Pon Coin
+1132	Maintenance Fee
+1133	Use Pon
+1134	Pon Coin
+1135	Maintenance Fee
+1136	Use Pon
+1137	Pon Coin
+1138	Maintenance Fee
+1139	Use Pon
+1140	Maintenance Fee
+1141	[$parent $parent $farmstonetaxtext]
+1142	Pon Coin
+1143	Maintenance Fee
+1144	Use Pon
+1145	Total Maintenance Costs
+1146	Pon Coin
+1147	Maintenance Fee
+1148	Use Pon
+1149	DevcatChatViewer
+1150	Search
+1151	Include Word :
+1152	Timeline
+1153	You get a 150% collection rate bonus when you have the Adventure talent. This is in addition to any bonuses you're getting from items and other sources.
+1154	Transform
+1155	Gained through collection. Applied through Transformation.
+1156	When you transform into this monster, the corresponding bonus will be added to your Total Collection Bonus.
+1157	Penalty applies in Homestead
+1158	Replay Previous
+1159	Replay All
+1160	Stop
+1161	Play
+1162	Saga
+1163	A new Saga has begun.
+1164	Tries
+1165	Spin
+1166	Spin the wheel!
+1167	[@TITLE;string]
+1168	Required Materials:
+1169	Add Materials
+1170	Automatically adds the necessary\nitems. This may take some time.\n\nIf the "Queue Items" option is\nenabled, then items will be created\none at a time depending on the\nnumber of attempts specified.\nWhen disabled, the success rate\nof all items will depend on a single\naction.
+1171	Start
+1172	Cancel
+1173	Queue Items
+1174	You can receive the episode's reward right away by using Pon or a Replay Coupon.
+1175	Mission Contribution Ranking
+1176	Mission :
+1177	[@FieldQuestName;string]
+1178	My Rank :
+1179	[@MyRank;string]
+1180	Ranking
+1181	Name
+1182	Contribution
+1183	Close
+1184	[@ShareQuestName;string]
+1185	Mission Success!
+1186	[@SubQuestName;string]
+1187	Contribution
+1188	[@Honor;string]
+1189	Check Ranking
+1190	Choose your destiny.
+1191	Ace
+1192	Choose this path to walk in the footsteps of heroes.\nYou can support the growth of other Milletians.
+1193	Milletian
+1194	Choose this path to become the master of your own fate.
+1195	Select Hero Talent
+1196	Merlin
+1197	Hero Support
+1198	Support another character on your account. Select a character.
+1199	Cancel Selection
+1200	Choose Later
+1201	Digitized Captcha
+1202	Enter what you see
+1203	Security Option - Matrix
+1204	Enter the number according to your matrix
+1205	Security Option - SMS
+1206	Enter the text you receive
+1207	Security Option - Token
+1208	Enter the code on your device
+1209	Rock Paper Scissors Match Book
+1210	Today's Record
+1211	Overall Record
+1212	Daily Triple Victory
+1213	Life Skill Training Exp
+1214	1.3x
+1215	Daily Six Shot
+1216	Combat EXP
+1217	2x
+1218	Daily Dozen
+1219	Shadow Mission EXP
+1220	One more time
+1221	Merchandise List
+1222	Purchased Merchandise
+1223	Total
+1224	Purchase
+1225	Cancel
+1226	Starpoints based on the total number of items on the server
+1227	View only collected items
+1228	Previous
+1229	Next
+1230	<Dye>
+1231	Seal
+1232	EquipmentCollectionTab
+1233	EquipmentCollectionTab
+1234	Dressing Room
+1235	EquipmentCollectionTab
+1236	AppearanceChangeTab
+1237	AppearanceChangeTab
+1238	Appearance Change
+1239	AppearanceChangeTab
+1240	HairTab
+1241	HairTab
+1242	Hair Change
+1243	HairTab
+1244	EyeTab
+1245	EyeTab
+1246	Eye Surgery
+1247	EyeTab
+1248	FaceAndMouthTab
+1249	FaceAndMouthTab
+1250	Cosmetic Surgery
+1251	FaceAndMouthTab
+1252	ArmorTab
+1253	ArmorTab
+1254	Clothing
+1255	ArmorTab
+1256	HelmetTab
+1257	HelmetTab
+1258	Hat
+1259	HelmetTab
+1260	ShoesTab
+1261	ShoesTab
+1262	Shoes
+1263	ShoesTab
+1264	GlovesTab
+1265	GlovesTab
+1266	Gloves
+1267	GlovesTab
+1268	MantleTab
+1269	MantleTab
+1270	Robe
+1271	MantleTab
+1272	UniTab
+1273	UniTab
+1274	All items
+1275	UniTab
+1276	FemaleTab
+1277	FemaleTab
+1278	For Females
+1279	FemaleTab
+1280	MaleTab
+1281	MaleTab
+1282	For Males
+1283	MaleTab
+1284	Recommended Merchandise
+1285	Merchandise List
+1286	Color
+1287	Face Shape
+1288	Change
+1289	Cancel
+1290	Attribute Marble
+1291	Fire
+1292	Water
+1293	Wind
+1294	Earth
+1295	Dressing Room
+1296	오늘 5승 보상
+1297	경험치
+1298	50000
+1299	오늘 10승 보상
+1300	아이템
+1301	AP 3 포션
+1302	Purchase Summary
+1303	Cost
+1304	Wallet
+1305	Reset
+1306	Level, age, appearance, and gender can be altered.\nClassic Talent can be selected.
+1307	Allows you to reset your level and age, and alter your appearance.\nClassic Talents can be selected.
+1308	Appearance Change
+1309	Classic Talent
+1310	Starlet
+1311	Professor J
+1312	Hero Talent
+1313	Current Talent
+1314	Catering
+1315	Prepares a feast with a variety of dishes.
+1316	Catering Effect
+1317	Catering Ingredient
+1318	Start
+1319	- Daily Bonus Applied -\nEXP +100000       Gold +30000\nAP Coupon +13\nGreatly increases your chance to obtain a rare item from the Saga Box.
+1320	Select Character
+1321	Select a character to receive the items.
+1322	Claim
+1323	Cancel
+1324	Related Talents
+1325	Corresponding Skills
+1326	Choose Talent
+1327	Culinary Artist
+1328	Treasure Hunter
+1329	Magic Prot.
+1330	Magic Prot.
+1331	Armor Pierce
+1332	[@pierceDesc;string]
+1333	[@pierceDesc;string]
+1334	[@pierceDesc;string]
+1335	A measure of the damage you deal to enemies with physical attacks.
+1336	A measure of the bonus damage you deal to enemies with magical attacks.\nThe higher the INT, the higher the M. ATT.
+1337	The amount of damage you absorb when you're hit by a physical attack. The more Defense you have, the less physical damage you take. Your Defense is affected by your Strength.
+1338	A measure of your magical damage mitigation.\nThe more Defense you have, the less damage you take.\nThe higher the Will, the higher the Magic Defense.
+1339	Defense Penetration allows you to bypass your enemy's Defense by some amount for physical attacks. Your Defense Penetration is affected by your Dexterity.
+1340	Yui
+1341	Raid
+1342	White Wyrm 1
+1343	Traveler's Guide
+1344	Contents
+1345	Search
+1346	Life
+1347	Exploration
+1348	Social
+1349	Combat
+1350	10
+1351	10
+1352	Contents
+1353	Item
+1354	FAQ
+1355	3:40 AM
+1356	3:40 AM
+1357	3:40 AM
+1358	3:40 AM
+1359	3:40 AM
+1360	Magic Prot.
+1361	Armor Pierce
+1362	Magic Prot.
+1363	Armor Pierce
+1364	A similar item is on the ground.\nIf you expand the farm like this, the item will disappear.\n(If you cancel the farm expansion, the farm will be expanded after you exit and re-enter.)
+1365	Would you like to expand the farm now?
+1366	Expand
+1367	Corresponding Skills
+1368	Character Info
+1369	Talent
+1370	Quest Tracker
+1371	Your Quest Tracker is empty. \nOpen the Quest window and select quests to add.
+1372	quest_name
+1373	quest_detail
+1374	Race Tutorial
+1375	Maiz Prairie Course
+1376	(0/5)
+1377	LAP Time 00 : 00 : 00
+1378	[Stop Race]
+1379	ID Search:
+1380	Search
+1381	Reset
+1382	View Rank
+1383	Ranking
+1384	Player Name
+1385	Pets
+1386	Record
+1387	Change Partner Appearance
+1388	Reset
+1389	Random Appearance
+1390	Change
+1391	Cancel
+1392	Partner Appearance
+1393	Type
+1394	Before
+1395	After
+1396	Price
+1397	Rank
+1398	Mission:
+1399	Mission Name
+1400	My Rank:
+1401	Ranking
+1402	Rank
+1403	Name
+1404	Score
+1405	Close
+1406	Ranks
+1407	Close
+1408	Growing Dahlia Flower
+1409	Nurtured
+1410	[{0}] / [{1}] Dahlia
+1411	Planted on {0}/{1} at {2}:{3} hours  Planted on Month {0} Day {1} Hour {2} Minute {3}
+1412	Current Stage: [{0}]
+1413	[{0}]nurturing needed before next stage
+1414	[{0}] : {1}
+1415	Soulmate
+1416	Your Soulmate
+1417	Soulmate Location
+1418	Soulmate Duration
+1419	Romance Points
+1420	Leave Soulmate
+1421	Reveal Fortune
+1422	Select your active Talent.
+1423	Talent Difficulty
+1424	Starter Talent
+1425	Combat Talent
+1426	Life Talent
+1427	Hero Talent
+1428	Recommended Talents
+1429	Talent Types
+1430	Humans have unlimited potential for any style of play. They can choose any talent, do not have any talent penalties or bonuses, and can use all skills. Humans stat growth is equally balanced.
+1431	Elves are specialized for Ranged talents. They can choose any talent except Lance Combat, receive a bonus to Archery skills, receive a penalty to Close Combat skills, and are the fastest of all races. Elves gain more Dexterity, Intelligence, and Mana.
+1432	Giants are specialized for Melee Talents. They can choose any Talent except Archery, receive bonuses to all Melee skills, receive penalties in both Magic and Ranged Combat skills, and are the second fastest race. Giants gain more HP, Strength, and Will.
+1433	Style
+1434	Pon
+1435	Required Coupon
+1436	totalCoupon
+1437	Humans develop all stats equally and can choose any Talent.
+1438	Elves specialize in Dexterity, Intelligence, and Mana, and can choose all Talents but [Lance Combat].
+1439	Giants specialize in Strength, Will, and Health, and can choose all Talents but [Archery].
+1440	Outfit Tryout
+1441	Type 1
+1442	Type 2
+1443	Type 3
+1444	Reset Level and Age
+1445	Change Gender
+1446	Purchase Pon
+1447	Purchase Summary
+1448	Cost
+1449	Wallet
+1450	HairTab
+1451	HairTab
+1452	Change Hair
+1453	HairTab
+1454	EyeTab
+1455	EyeTab
+1456	Eye
+1457	EyeTab
+1458	FaceAndMouthTab
+1459	FaceAndMouthTab
+1460	Face and Lips
+1461	FaceAndMouthTab
+1462	FaceTab
+1463	FaceTab
+1464	Face
+1465	FaceTab
+1466	MouthTab
+1467	MouthTab
+1468	Mouth
+1469	MouthTab
+1470	Show Clothes
+1471	Randomize
+1472	Restore
+1473	Restore All
+1474	Swimsuit Costume
+1475	School Uniform Costume
+1476	Armor Costume
+1477	View Collectible Items
+1478	View Collected Items
+1479	Item
+1480	Enchant Scroll
+1481	Magic Powder
+1482	Item to Burn
+1483	Sunlight Herb
+1484	Required Gold
+1485	5000 Gold
+1486	Request
+1487	Cancel
+1488	Request Enchant
+1489	Enchant Burning
+1490	Bingo Inventory
+1491	All
+1492	Today
+1493	Delete
+1494	Rearrange
+1495	Cancel
+1496	Enchant Skill Rank 1
+1497	Treasure Hunter
+1498	Z
+1499	ESC: Cancel Aiming
+1500	Select All
+1501	<
+1502	Previous Page
+1503	>
+1504	Next Page
+1505	선거 게시판
+1506	투표하기
+1507	Magical Bingo Gachapon
+1508	SHUFFLE
+1509	Recharge Shuffles
+1510	Buy
+1511	Item
+1512	Amount
+1513	Shuffle x1
+1514	1
+1515	Pon Balance
+1516	Cost
+1517	Wallet
+1518	Buy
+1519	Cancel
+1520	Sub-skill Info
+1521	How to Learn Sub-skills
+1522	Manage Crusader Skills
+1523	Reset Warding Skill
+1524	Reset Binding Skill
+1525	Reset Smiting Skill
+1526	Crusader Level
+1527	Points Remaining
+1528	Redistribute Skills
+1529	Apply
+1530	Cancel
+1531	Reset All Skills
+1532	Unlearned
+1533	Distribute
+1534	Unlearned
+1535	Manage Skills
+1536	Manage Skills
+1537	획득 아이템 정보
+1538	획득 아이템 정보
+1539	1회
+1540	사용하기
+1541	10회
+1542	사용하기
+1543	Raid Bulletin
+1544	Accept Mission
+1545	Create Squad
+1546	Target Apostles
+1547	Mission Info
+1548	Mode:
+1549	Apostle:\nTime Limit:\nParticipants:\nTalent Level:
+1550	Mission Details
+1551	Rewards
+1552	Post Party Recruitment
+1553	Squad Search
+1554	Squad Search
+1555	Objective:
+1556	Mode:
+1557	Level:
+1558	or higher
+1559	Search
+1560	Cancel
+1561	Squad Channel Change
+1562	Select a channel, then press OK to send a \nrequest to all members.
+1563	Confirm
+1564	Cancel
+1565	Help
+1566	Unit Goal
+1567	Enter this unit's mission.
+1568	Squad Info
+1569	Members
+1570	Level
+1571	Goal
+1572	Name
+1573	Group Channel Change
+1574	Ready for Battle
+1575	Finish Rules
+1576	EXP Rules
+1577	Recruit Squad
+1578	Set Password
+1579	Settings
+1580	Leave Squad
+1581	Party Board
+1582	Move
+1583	Squad Settings
+1584	Objective:
+1585	Mode:
+1586	Name:
+1587	Password:
+1588	Level Req:
+1589	Members:
+1590	Post to Party Board
+1591	Squad Bulletin
+1592	Create Squad
+1593	Cancel
+1594	Squad Settings
+1595	Make New Party
+1596	Normal
+1597	Squad
+1598	Erinn\nPopularity\nContest
+1599	Votes Left
+1600	Log
+1601	This event is not open at the moment.
+1602	1
+1603	Name
+1604	1
+1605	100%
+1606	2
+1607	Name
+1608	1
+1609	0%
+1610	3
+1611	Name
+1612	1
+1613	100%
+1614	4
+1615	Name
+1616	1
+1617	100%
+1618	5
+1619	Name
+1620	1
+1621	100%
+1622	6
+1623	Name
+1624	1
+1625	100%
+1626	7
+1627	Name
+1628	1
+1629	100%
+1630	8
+1631	Name
+1632	1
+1633	100%
+1634	9
+1635	Name
+1636	1
+1637	100%
+1638	10
+1639	Name
+1640	1
+1641	100%
+1642	1/16
+1643	Vote
+1644	Vote
+1645	Preparing...
+1646	Win!
+1647	Restart
+1648	You will be matched with a public squad that fits your requirements.
+1649	Tie List
+1650	OK
+1651	Ranks
+1652	Duration {1}-{2}
+1653	Name:
+1654	Search
+1655	Search Rank
+1656	Ranking
+1657	Name
+1658	Record
+1659	Tie
+1660	[ 0 / 0 ]
+1661	Page:
+1662	Go
+1663	Perfect Clear Reward
+1664	Report User
+1665	Fake reports or poor behavior may get you banned.
+1666	Take Screenshot
+1667	Only the last screenshot you take will be sent.
+1668	From Chat
+1669	Nearby
+1670	Select Character
+1671	Name:
+1672	Reason
+1673	Bad Language
+1674	Explicit Talk
+1675	Illegal Trade
+1676	Fake GM
+1677	Farmer/Bot
+1678	Reason
+1679	Please write a detailed explanation.
+1680	Send
+1681	Cancel
+1682	Select a desired age appearance
+1683	Attendance Book
+1684	Set Tab Name
+1685	Please choose a name for the tab.
+1686	Confirm
+1687	Cancel
+1688	Remove From List
+1689	Assign tab to Favorites Hotkey
+1690	+
+1691	Favorites
+1692	Assign to Tab
+1693	Create Tab
+1694	Rename tab
+1695	Delete Tab
+1696	Favorites
+1697	Fortune-Telling
+1698	O-mikuji Fortune
+1699	Enter Beauty Shop
+1700	VIP Membership Shop
+1701	Emblem Synthesis
+1702	Base
+1703	Material
+1704	Synthesize
+1705	Cancel
+1706	Bonus Roulette
+1707	Spin
+1708	UCD UI
+1709	Training Contents
+1710	Insert a red training stone to change\nthe possible number of trainees.
+1711	Insert a green training stone to change\nthe condition of all party members. 
+1712	Insert a yellow training stone to change\nthe training's difficulty mode.
+1713	Insert a gray training stone to change\nthe condition of all enemies. 
+1714	Insert a blue training stone to unseal\na hidden floor.
+1715	Insert Training Stones
+1716	 into the slots above
+1717	to alter the Training Grounds.\nIncrease the difficulty for greater rewards.\nAny party member can alter training.
+1718	Conditions
+1719	Mode:
+1720	Basic
+1721	Trainees:
+1722	1-3 Players
+1723	Entry Limit:
+1724	Up to 3 times per day.
+1725	3/3
+1726	Up to 3 times per day.
+1727	Modifiers
+1728	Reward Tier
+1729	C
+1730	Begin
+1731	빙고 빙고 이벤트가 진행 중입니다.
+1732	The Fairy's Tale
+1733	Village Level
+1734	Fairies Met
+1735	Current
+1736	Next Level
+1737	Melty
+1738	Refining Skill EXP
+1739	Blacksmithing Skill EXP
+1740	Met
+1741	Munchy
+1742	Cooking Skill EXP
+1743	Wine Making Skill EXP
+1744	Met
+1745	Dressy
+1746	Weaving Skill EXP
+1747	Tailoring Skill EXP
+1748	Met
+1749	Healthy
+1750	Potion Making Skill EXP
+1751	Met
+1752	Woody
+1753	Carpentry Skill EXP
+1754	Handicraft Skill EXP
+1755	Met
+1756	빙고 빙고
+1757	Chat Window
+1758	Execution Vote
+1759	Yea
+1760	Nay
+1761	Mafia Settings
+1762	Basic
+1763	Mafia Member
+1764	Citizen
+1765	Vote
+1766	Check
+1767	Cancel
+1768	Status
+1769	Name
+1770	Status
+1771	Notes
+1772	Player
+1773	Suspect
+1774	Vote Log
+1775	Vote
+1776	Cast Vote
+1777	Fill out the info below to create a new party.
+1778	Name:\n(4 char+)
+1779	Type:
+1780	Set the max members for the party, up to 16.
+1781	Max:
+1782	Pick a password for your party (optional).
+1783	Pass: 
+1784	Post Party Bulletin
+1785	Party Board
+1786	Create Party
+1787	Cancel
+1788	Change Party Settings
+1789	Weapon Appearance Extraction
+1790	The weapon's appearance will be extracted.
+1791	The weapon will disappear.
+1792	Extract
+1793	Weapon Appearance Extraction
+1794	[Select the weapon to start extraction.]
+1795	Weapon Appearance Change
+1796	Only the weapon's appearance changes and stats remain the same.
+1797	Weapon Appearance
+1798	The used scroll will disappear.
+1799	Weapon
+1800	Weapon Name
+1801	Select the weapon to change appearance.
+1802	Appearance Change
+1803	Weapon Appearance Change
+1804	[Select the weapon to change appearance.]
+1805	Weapon Appearance Recovery
+1806	The weapon will revert to its original appearance.
+1807	The used scroll will disappear.
+1808	Recover
+1809	Weapon Appearance Recovery
+1810	[Recover the changed weapon's appearance.]
+1811	MabiNovel Bulletin Board
+1812	Title
+1813	Author Name
+1814	Transcriptions
+1815	Views
+1816	Expires
+1817	Title Search
+1818	Author Search
+1819	Search
+1820	All
+1821	Royalties
+1822	Report
+1823	Remove
+1824	Transcribe
+1825	View
+1826	MabiNovel Editor
+1827	Submit
+1828	Please add a title for your MabiNovel.
+1829	Enter Title and Submit
+1830	Cancel
+1831	Background
+1832	Background Music
+1833	Sound Effect
+1834	Animation Effect
+1835	Character
+1836	Left
+1837	Right
+1838	Enter Dialogue
+1839	Delete
+1840	Dialogue List
+1841	Save as Draft
+1842	Import Draft
+1843	Preview
+1844	Submit
+1845	MabiNovel
+1846	Write or view MabiNovel.
+1847	Write MabiNovel
+1848	MabiNovel Bulletin Board
+1849	MabiNovel
+1850	Next
+1851	End
+1852	Policies
+1853	Content that violates the MabiNovel Terms of Use (including nudity, bullying, graphic violence, and spam) \nwill be removed and no royalties will be given. You may face additional disciplinary action for violating \nPolicy 2.2 - Code of Conduct. Plagiarized material and advertisements will also be removed. 
+1854	Enter
+1855	Edit
+1856	Required Coupon
+1857	Select Dice
+1858	-1
+1859	1
+1860	2
+1861	3
+1862	4
+1863	5
+1864	Dice Game Information
+1865	Game Order
+1866	Description
+1867	Select the value of the dice.
+1868	Click this button to move the screen with a right-click.
+1869	Click this button to return to the starting screen.
+1870	Select a direction to move.
+1871	Select a character to move.
+1872	Unit Name:
+1873	Unit Size:
+1874	CMD EXP
+1875	TRA PTS:
+1876	Create your Baltane Special Unit to clear the lock.
+1877	Enter Camp
+1878	Missions
+1879	DIV
+1880	INT
+1881	WILL
+1882	STR
+1883	DEX
+1884	LUCK
+1885	TRA PTS
+1886	DIV
+1887	INT
+1888	WILL
+1889	DEX
+1890	STR
+1891	LUCK
+1892	Stress
+1893	Squire Training
+1894	All
+1895	DIV
+1896	STR
+1897	INT
+1898	DEX
+1899	WILL
+1900	LUCK
+1901	Training Points
+1902	Training Name
+1903	Specialty
+1904	Training Points
+1905	Likeability
+1906	Current Mission
+1907	Mission Details
+1908	Mission Target
+1909	Apostle
+1910	Basic
+1911	History
+1912	Object
+1913	Prophet
+1914	Char.
+1915	Briefing
+1916	Reward
+1917	Select Squire for Mission
+1918	Mission Progress
+1919	Time Remaining
+1920	Mission Report
+1921	Preferred Mission
+1922	Mission Command
+1923	Close
+1924	Special Unit Training Board
+1925	Command Level 
+1926	View Mission Notification
+1927	Close
+1928	Would you like to leave?
+1929	Squires Information
+1930	Unit
+1931	Specialty
+1932	Status
+1933	DIV
+1934	INT
+1935	WILL
+1936	STR
+1937	DEX
+1938	LUCK
+1939	Special Unit
+1940	There is no mission in the Mission Notification.\nOpen the Mission Bulletin Board to save Preferred Missions.
+1941	My Role and Active Time
+1942	My
+1943	Role
+1944	Do you really wish to destroy the expired items below?
+1945	Destroy
+1946	Cancel
+1947	All
+1948	Basic
+1949	Spec
+1950	Preference
+1951	Unit Info
+1952	Mission Title
+1953	Target
+1954	Time Remaining
+1955	Mission Title
+1956	Target
+1957	Cmd Level
+1958	Time
+1959	<< Previous
+1960	Next >>
+1961	Instant
+1962	Halloween Rock Paper Scissors Match Book
+1963	Daily Triple Victory
+1964	Life Skill Training Exp
+1965	1.3x
+1966	1.3x
+1967	Daily Six Shot
+1968	Combat EXP
+1969	2x
+1970	2x
+1971	Daily Dozen
+1972	Shadow Mission EXP
+1973	One more time
+1974	One more time
+1975	Check Folio
+1976	Remove
+1977	Close
+1978	Essence Bottle
+1979	02/26/2014 (Wed)
+1980	Current Essence
+1981	350000 / 350000
+1982	Total Collected
+1983	0000000
+1984	Absorb Soul Essence
+1985	* -1 Stress per 10 secs.\n* +1 Likeability per 1 hr.\n(-1 Likeability if Likeability is more than 120, +1 if less than 120. No change if at 120.)
+1986	Create a Fixed Color Flashy Dye Ampoule
+1987	Flash Type
+1988	Fixed
+1989	Random
+1990	Recipro.
+1991	Toggle
+1992	Speed
+1993	Fast
+1994	Slow
+1995	#FFFFFF
+1996	Color 1
+1997	Color 2
+1998	Confirm
+1999	Cancel
+2000	My Ribbons
+2001	Event Duration: 2015/12/17 - 2016/01/14 Before Maintenance
+2002	Enter
+2003	Notice
+2004	 You can give points\n to the person who provided aid.\n Select the desired point value.
+2005	1 Pt
+2006	2 Pt
+2007	3 Pt
+2008	4 Pt
+2009	5 Pt
+2010	second(s) until the message is deleted.
+2011	Make a Choice
+2012	Help
+2013	[Altruism Quest Board]
+2014	[Altruism Quest Board]
+2015	Petition others for help with quests, or find people to help.\nOnly accessible by characters who have completed the Altruism introductory quest.
+2016	- Request
+2017	- Request\n* Petition for help on a current quest by selecting it.\n* Once your petition is made, altruists will receive a notification automatically.\n* You petition will be fulfilled once you click "Complete" on the quest.
+2018	- Help Out
+2019	- Help Out\n*Select a petition from the Altruism Quest Board to help with.\n* Registered altruists may receive a notification when a petition is made.\n* Altruism quests are completed once the petitioner clicks "Complete" on their quest.
+2020	22
+2021	1/5
+2022	Help Out
+2023	Help
+2024	[Quest Chat Room]
+2025	[Quest Chat Room]
+2026	Here, the petitioner and the altruist can chat in real-time.\nThe chat will end if either party leaves, or when the quest expires.\nThe altruism quest completes automatically\nwhen the petitioner marks the quest complete.
+2027	- Look for an Altruist (Petitioners Only)
+2028	- Look for an Altruist (Petitioners Only)\n* You can send an invitation to altruists every minute.
+2029	- View Location (Altruist Only)
+2030	- View Location (Altruist Only)\n* You can get information on your petitioner's location.\n* When in the same region, check the minimap, otherwise try the world map.
+2031	- Participant Info
+2032	- Participant Info\n* You can check the character info of chat room participants.\n* Right-click to see the character's additional info.
+2033	- Quest Info
+2034	- Quest Info\n* You can check the requested quest's information.\n* Petitioned quests cannot be changed or forfeited.
+2035	Quest Chat Room
+2036	Petitioner: 
+2037	Chat Room Participants: 
+2038	Petitioner's Quest: 
+2039	View Location
+2040	Altruist Search
+2041	Participant Info
+2042	Quest Info
+2043	Send
+2044	End
+2045	Participant Info
+2046	Close
+2047	Help
+2048	[Altruist Rank]
+2049	[Altruist Rank]
+2050	Characters with altruism points are ranked.\nYou can check your altruism score, and altruism points.
+2051	- Rank
+2052	- Rank\n* The record will be updated with your points at midnight every day.\n* People with identical scores will have the same rank.\n* Altruists who rank from 1-3, 4-6, or 7-10 will be marked accordingly.
+2053	- Altruism Points
+2054	- Altruism Points\n* You'll obtain these points after successfully helping a petitioner.\n* You'll obtain extra points after helping a beginner or a returning user.\n* You can only receive points for helping any individual once per day.\n* Your altruism points diminish if you're inactive for 3 consecutive days.\n* Your altruism score will be unaffected.
+2055	Petition for Help
+2056	Select Quest
+2057	Select Number of Altruists
+2058	Input Request Details:
+2059	Use Import to select a quest
+2060	Import
+2061	1
+2062	2
+2063	3
+2064	Register
+2065	Cancel
+2066	Character Menu
+2067	Add Friends
+2068	Copy Name
+2069	Erinn On - Info
+2070	Enter Homestead
+2071	Close
+2072	Detailed Info
+2073	Creator
+2074	Creator
+2075	Request Details
+2076	Request Details
+2077	Quest
+2078	Quest
+2079	Category
+2080	Category
+2081	Contents
+2082	Contents
+2083	Quest Description
+2084	Once you confirm, you'll be connected to the Quest Chat Room immediately.\nDo you want to help out right now?
+2085	Make a Choice
+2086	Close
+2087	Later
+2088	Minimap Help
+2089	 : Reset your current path.
+2090	 : Zoom in to the minimap for more details.
+2091	 : Zoom out from the minimap to see more area.
+2092	 : Open the World Map for a global view.
+2093	 : You can lock the minimap to areas outside of\n your current location.
+2094	 : Set the transparency of your minimap.
+2095	 : Type in the name of an NPC to view their location.
+2096	Changing the Minimap Scale:\nDrag the corner of the minimap to adjust its size.
+2097	Setting Your Destination:\nClick the minimap to head to a location automatically.\nClick the minimap while holding the left Shift key to set multiple waypoints.\nManually moving your character cancels the path you set.
+2098	NPC Search
+2099	Search
+2100	Type in the name of an NPC.
+2101	NPC Search Result
+2102	Altruist Rank
+2103	Name:
+2104	Search
+2105	Search Rank
+2106	Rank
+2107	Name
+2108	Altruism Points
+2109	Page:
+2110	Go
+2111	1/1
+2112	First Page
+2113	Last Page
+2114	[Altruism Quest Board]
+2115	Channel
+2116	Character
+2117	Category
+2118	Quest
+2119	Members
+2120	Time Left
+2121	Help Out
+2122	First Page
+2123	Last Page
+2124	Report
+2125	Request
+2126	Refresh
+2127	Close
+2128	Altruist Rank
+2129	[@desc;string]
+2130	Rebirth allows you to swap genders.
+2131	[@desc;string]
+2132	Characters age each Saturday.\nRebirth won't make characters older!
+2133	Active Talent
+2134	Unavailable Talent
+2135	Exclusive Abilities
+2136	Close
+2137	The race of choice for many, due to their versatility.\nTheir growth is well-rounded, making for balanced heroes.\nLike Giants, Humans can dual-wield, though Humans dual-wield one-handed swords. After mastering their combat skills, Humans are proficient at all styles of combat.
+2138	Elves are fleet of foot, and skilled archers. Their basic bow attacks\nloose two arrows at once, and they're famous for shooting while mounted.\nThey also possess a high Intelligence and MP. These traits mean\nElves are primarily ranged fighters, using bows and magic to attack targets.
+2139	Giants are tall, brawny, and strong enough to wield heavier weaponry than other races. They're capable melee fighters. Even young Giants are formidable in close-quarters combat. Giants can wield some blunt weapons, and even carry a two-handed weapon in a single hand.
+2140	※ You cannot change your race after choosing it.
+2141	※ You cannot change your race after choosing it.
+2142	※ You cannot change your race after choosing it.
+2143	[@raceDesc;string]
+2144	Be certain. Race selection is final!
+2145	Fomor Scroll Quest
+2146	Search
+2147	Collection
+2148	Search
+2149	Fomor Scroll Quest
+2150	Fomor Scroll Collection Quest
+2151	Do you want to do this quest?
+2152	Take Quest
+2153	Cancel
+2154	Quest
+2155	Mission Reward
+2160	Left: 
+2161	Me:
+2162	0
+2163	Time Left
+2164	55
+2165	Opponent:
+2166	0
+2167	123456789
+2168	999
+2169	0
+2170	0
+2171	Goal
+2172	TIME
+2173	00:00:00
+2174	Successful Cakes
+2175	0
+2176	Cakes: 
+2177	Caravan Joe Gauge
+2178	View All
+2179	In progress
+2180	Complete
+2181	You completed all mission objectives!\nClick EXIT.
+2182	You failed to carry out the objective.\nClick EXIT.
+2183	A race of many talents
+2184	Specialized in Archery and Magic
+2185	Specialized in Close Combat
+2186	A magical button that doubles your training EXP!
+2187	Festia Diary
+2188	Basic
+2189	Limited
+2190	Mini-game
+2191	Attraction
+2192	Waiting List Status
+2193	Game Name
+2194	Mode
+2195	Waiting List
+2196	Status
+2197	Start
+2198	Forfeit
+2199	Leave
+2200	Clobbermeister
+2201	0
+2202	Matryoshka
+2203	My Score
+2204	9999
+2205	Opponent
+2206	9999
+2207	TIME
+2208	00:00
+2209	Hammer Slam
+2210	Martial Darts
+2211	Shooting Gallery
+2212	Clobbermeister (Single)
+2213	Clobbermeister (Multi)
+2214	Lorraine's Nightmare
+2215	Cave of Trials
+2216	Crystal Defender
+2217	Festia Ranking
+2218	Game Ranking
+2219	Name: 
+2220	Search
+2221	Search Rank
+2222	Ranking
+2223	Name
+2224	Rank Points
+2225	<<
+2226	<
+2227	>
+2228	>>
+2229	Mission Pts
+2230	Earn Points
+2231	Mission Pts
+2232	Daily
+2233	Weekly
+2234	Monthly
+2235	Point Shop
+2236	Complete
+2237	Reset Quest
+2238	Festia
+2239	에린\n몬스터 인기투표
+2240	Switch Setting Mode
+2241	Equipment Set Name
+2242	No Hotkey Slot!
+2243	Hotkey Slot 1
+2244	Hotkey Slot 2
+2245	Hotkey Slot 3
+2246	Hotkey Slot 4
+2247	Hotkey Slot 5
+2248	Hotkey Slot 6
+2249	Hotkey Slot 7
+2250	Hotkey Slot 8
+2251	Apply
+2252	The Timed Item Event is in progress.
+2253	Timed Item\nEvent
+2254	Percentage
+2255	(%)
+2256	(Receiving the event information...)
+2257	To receive the items
+2258	Range: 
+2259	Monthly
+2260	Weekly
+2261	Daily
+2262	Category
+2263	Average Price
+2264	Trade Volume
+2265	Item Details
+2266	Loading item details...
+2267	Average: 
+2268	(Recent)  
+2269	Lowest: 
+2270	(per unit)  
+2271	Quantity: 
+2272	0
+2273	0
+2274	0
+2275	gold
+2276	gold
+2277	pcs
+2278	Details
+2279	Details
+2280	Current Bid: 
+2281	0
+2282	gold
+2283	Minimum: 
+2284	0
+2285	gold
+2286	Top Bid: 
+2287	0
+2288	gold
+2289	(0)
+2290	Buyout: 
+2291	0
+2292	gold
+2293	This item has no bids.
+2294	Preview
+2295	Top Bid
+2296	Re-bid
+2297	Buyout
+2298	Cancel Sale
+2299	Close
+2300	Item Name
+2301	Time Left
+2302	Sale Type
+2303	Price
+2304	 
+2305	Price
+2306	Number
+2307	Search By Lowest Price
+2308	Lowest Unit Price
+2309	Close
+2310	Auction House
+2311	Close
+2312	Help
+2313	Refresh (F5)
+2314	Advanced
+2315	View advanced search options.
+2316	Exact Match
+2317	Used in General and Advanced searches.
+2318	Item 
+2319	Search
+2320	Reset Search
+2321	Buy
+2322	Category
+2323	Ench: 
+2324	Item
+2325	Time Left
+2326	Sale Type
+2327	Price
+2328	<outlinecolor=3><color=1>To find a specific item, use the search bar above.</color></outlinecolor>
+2329	[1/1]
+2330	<<
+2331	First
+2332	<
+2333	Previous
+2334	>>
+2335	Last
+2336	>
+2337	Next
+2338	(Temporary) Bidding in Progress
+2339	Item Name
+2340	Time Left
+2341	Sale Type
+2342	Price
+2343	List items to sell or search for items to buy in the Auction House.
+2344	Listings
+2345	My Auctions
+2346	(0/0)
+2347	View
+2348	Auction Status
+2349	Item
+2350	Time Left
+2351	Sale Type
+2352	Price
+2353	[1/1]
+2354	<<
+2355	First
+2356	<
+2357	Previous
+2358	>>
+2359	Last
+2360	>
+2361	Next
+2362	Filter: 
+2363	Range: 
+2364	Range: 
+2365	-
+2366	Name: 
+2367	Rank: 
+2368	R Range: 
+2369	-
+2370	G Range: 
+2371	-
+2372	B Range: 
+2373	-
+2374	Rank: 
+2375	Name: 
+2376	Search Filters
+2377	Advanced Search
+2378	Fine tune your search parameters.
+2379	Search
+2380	Close
+2381	Listings
+2382	Please list an item first.
+2383	Average: 
+2384	(Recent)  
+2385	Lowest: 
+2386	(per unit)  
+2387	Quantity: 
+2388	0
+2389	0
+2390	0
+2391	gold
+2392	gold
+2393	pcs
+2394	Details
+2395	Details
+2396	Duration: 
+2397	hr
+2398	The Listing Fee is based on the sale price and list time,\nranging from 500 Gold up to 100,000 Gold, and is charged automatically.\nTransaction fees are 5% of the item's sale price.
+2399	Regular Listing
+2400	Unit Price: 
+2401	0
+2402	gold
+2403	Total Price: 
+2404	0
+2405	gold
+2406	List
+2407	Auction Listing
+2408	Start Bid: 
+2409	0
+2410	gold
+2411	0
+2412	Buyout: 
+2413	0
+2414	gold
+2415	0
+2416	List
+2417	6
+2418	12
+2419	Close
+2420	Item Details
+2421	Loading item details...
+2422	Average: 
+2423	(Recent)  
+2424	Lowest: 
+2425	(per unit)  
+2426	Quantity: 
+2427	0
+2428	0
+2429	0
+2430	gold
+2431	gold
+2432	pcs
+2433	Details
+2434	Details
+2435	Price: 
+2436	0
+2437	gold
+2438	Per Unit: 
+2439	0
+2440	gold
+2441	Preview
+2442	Purchase
+2443	Cancel Sale
+2444	Close
+2445	<color=2><outlinecolor=3>[Using the Auction House]</outlinecolor></color>\nThe Auction House window is split into two tabs: <color=4><outlinecolor=3>Auction House</outlinecolor></color> and <color=4><outlinecolor=3>My Auctions</outlinecolor></color>.\nUnder Auction House you can search, purchase, or bid on items.\nMy Auctions is where you can list items for sale, check your bids, or manage your listed items.\nFees and payments are processed through the bank.\n\n<color=2><outlinecolor=3>[Searching the Auction House]</outlinecolor></color>\nYou must enter the full item name when performing a general search.\nA link to the item's category will appear during entry.\n\nYou can also search using partial terms with a detailed search.\nClicking on detailed search will display all items listed under the entered terms.\n\n<color=2><outlinecolor=3>[Auction House Slots]</outlinecolor></color>\nThe Auction House is shared across all characters on your account, including a limited number of usage slots (10 by default).\nAny sale, purchase, or bid takes up 1 slot, and no further transactions are allowed when all your slots are filled.\n\n<color=2><outlinecolor=3>[Auction House Fees]</outlinecolor></color>\nThe listing fee ranges from 500 Gold to 100,000 Gold and will be charged when listing the item.\nWhen the item is sold, 5% of the sales price will be charged as a sales fee.\nIf your bank account is full, payment will be sent as a certified check which will cost another 5% of the check amount.\n\n<color=2><outlinecolor=3>[Auction House Benefits]</outlinecolor></color>\nWhen you reach Lv. 1,000 and Lv. 2,000, you will receive an additional Auction House slot (one per account).\nIf you have housing, you’ll also receive additional sale listing time.
+2446	Searching for numbers lower than the number entered will return numbers between 1 and the number entered.
+2447	Searching for numbers higher than the number entered will return numbers between the number entered and 999.
+2448	Renown
+2449	Fishing Reward Status
+2450	Item Name
+2451	Quantity
+2452	Reward Status
+2453	Bard Bulletin Board Help
+2454	[Bard Bulletin Board]
+2455	- This is a bulletin board where you can share and transcribe Music Scores.
+2456	* Solo Score/Jam Session Score
+2457	- In the Solo Score Tab, you can view Music Scores for solo songs,\nand in the Jam Session Score Tab, you can view Music Scores for Jam Sessions that can be played with up to 16 people.\nIf the chords are hidden, then the music chords cannot be viewed\nby anyone other than the creator or cannot be copied via clipboard.\n- The 100 newest posts show up first. Press '>>' to see the next 100.
+2458	* Liked Scores
+2459	- You can view Music Scores in order of their likes.\n- These are reset every day at midnight.
+2460	* Transcribe
+2461	- Quickly transcribe scores to a Music Score Scroll. Your Composing Skill must be the same or higher as the selected score.\n- If scores with hidden chords are transcribed, they will remain hidden.
+2462	* Register Music Score
+2463	- You can register a Music Score Scroll with a finished composition to the bulletin board. The scroll will be consumed.\n- Music Score Scrolls composed with hidden chords cannot be posted.
+2464	* Search Music Scores
+2465	- Use various filters to find specific scores. Search by Composing Rank, title, composer, instruments, and band size.\n- For Composing Rank, all ranks up to the selected rank will be shown.\n- 100 results will be displayed. Press '>>' to expand your search.
+2466	Bard Bulletin Board
+2467	Preview/Stop
+2468	+9999
+2469	By:
+2470	Delete
+2471	Category
+2472	Jam Session
+2473	Performers
+2474	16
+2475	Instrument
+2476	The instrument recommended by the composer when performing this song.
+2477	Composer's Comments
+2478	Edit
+2479	You cannot view or edit this content because the composer\nhas hidden the chords of this Music Score.\n\nTranscribing this score will compose the hidden chords\nwithout revealing them on the Music Score.
+2480	Melody
+2481	(0/0)
+2482	Harmony 1
+2483	(0/0)
+2484	Harmony 2
+2485	(0/0)
+2486	Song
+2487	(0/0)
+2488	Transcribe
+2489	Clipboard
+2490	Close
+2491	Current Music Scores/Total Music Scores
+2492	Title
+2493	Composer
+2494	Rank
+2495	The Composing skill rank needed to compose this song.
+2496	Liked
+2497	No.
+2498	Register
+2499	Refresh
+2500	10
+2501	1
+2502	2
+2503	3
+2504	4
+2505	5
+2506	6
+2507	7
+2508	8
+2509	9
+2510	10
+2511	Rank
+2512	Practice Rank
+2513	Rank F
+2514	Rank E
+2515	Rank D
+2516	Rank C
+2517	Rank B
+2518	Rank A
+2519	Rank 9
+2520	Rank 8
+2521	Rank 7
+2522	Rank 6
+2523	Rank 5
+2524	Rank 4
+2525	Rank 3
+2526	Rank 2
+2527	Rank 1
+2528	Title
+2529	Composer
+2530	Search
+2531	Search based on the currently loaded Music Score.
+2532	Cancel Search
+2533	Bard Bulletin Board
+2534	Solo
+2535	Jam Session
+2536	Liked
+2537	ABCDEFGHI
+2538	Beethoven
+2539	1
+2540	+9999
+2541	8
+2542	Preview/Stop
+2543	Register Music Score to Bard Bulletin Board
+2544	Text Title
+2545	* Register a finished scroll in a slot below. Cannot register scrolls with hidden chords.\n1 scroll = Solo Score, 2+ scrolls = Jam Session Score (Up to 16 can be registered at a time)\n
+2546	* Music Scores that violate copyright laws may be deleted without warning!
+2547	Composer's Comments
+2548	Registered Music Scores: 
+2549	Hidden Chords
+2550	Register
+2551	Compose
+2552	Song Title
+2553	Bard Bulletin Board
+2554	This is a bulletin board where you can share and transcribe Music Scores.
+2555	O3
+2556	O4
+2557	T Tempo
+2558	120
+2559	Settings
+2560	The value entered on the left is the tempo.
+2561	V Volume
+2562	0
+2563	1
+2564	2
+2565	3
+2566	4
+2567	5
+2568	6
+2569	7
+2570	8
+2571	9
+2572	10
+2573	11
+2574	12
+2575	13
+2576	14
+2577	15
+2578	O Octave
+2579	0
+2580	1
+2581	2
+2582	3
+2583	4
+2584	5
+2585	6
+2586	7
+2587	8
+2588	L Basic Note Length
+2589	Whole Note
+2590	1/2 Note
+2591	1/4 Note
+2592	1/8 Note
+2593	1/16 Note
+2594	1/32 Note
+2595	1/64 Note
+2596	Dotted 1/2 Note
+2597	Dotted 1/4 Note
+2598	Dotted 1/8 Note
+2599	Dotted 1/16 Note
+2600	Dotted 1/32 Note
+2601	Dotted 1/64 Note
+2602	Note Length
+2603	No Selection
+2604	Whole Note
+2605	1/2 Note
+2606	1/4 Note
+2607	1/8 Note
+2608	1/16 Note
+2609	1/32 Note
+2610	1/64 Note
+2611	Dotted 1/2 Note
+2612	Dotted 1/4 Note
+2613	Dotted 1/8 Note
+2614	Dotted 1/16 Note
+2615	Dotted 1/32 Note
+2616	Dotted 1/64 Note
+2617	R Comma
+2618	Enter a comma equivalent to the length of the selected note to the left.
+2619	Sound
+2620	Preview/Stop
+2621	Read from Clipboard
+2622	Melody
+2623	(0/0)
+2624	Harmony 1
+2625	(0/0)
+2626	Harmony 2
+2627	(0/0)
+2628	Song
+2629	(0/0)
+2630	Hidden Chords
+2631	Compose
+2632	Delete
+2633	Composing Tip
+2634	Composing Tip
+2635	1/2
+2636	Bard Bulletin Board
+2670	Block Character
+2671	Enter the name of a character you'd like to block or unblock during the performance.\nYou can also right-click on the character.
+2672	Confirm
+2673	Pure Music Mode Help
+2674	[Pure Music Mode]
+2675	[Pure Music Mode]
+2676	Concentrate on a specific Jam Band while blocking out all other sound. Listen to a Jam Band's performance at a constant volume regardless of the distance!
+2677	- How to Use
+2678	- How to Use\n* Click the icon above a Jam Band leader's head to switch to Pure Music Mode. It will be disabled if you move too far away from the Jam Band leader, change the channel, or log off.
+2679	- Block Character
+2680	- Block Character\n* A Jam Band leader can block disruptive characters and make them invisible. Open the Block List to view and unblock blocked characters. Blocked characters cannot join Jam Bands or enter Pure Music Mode. The Block List will be reset if the leader changes.
+2681	Block List
+2682	Unblock
+2683	Block List
+2684	Pure Music Mode
+2685	Party Name
+2686	Jam Band Setup
+2687	[@title;string]
+2688	[@concertDate;string]
+2689	Venue: 
+2690	[@conertTitle;string]
+2691	[@concertBidMoney;string]
+2692	Gold
+2693	[@bankdeposit;string]
+2694	[@apply;string]
+2695	[@cancel;string]
+2696	Weekly Performance Request
+2697	Date/Time:
+2698	Title:
+2699	Request
+2700	Bid Amount:
+2701	Cancel
+2702	Bank Balance:
+2703	Jam Band
+2704	Max: 
+2705	Block Character
+2706	Settings
+2707	Enter Jam Session
+2708	Recruit Party
+2709	Leave Party
+2710	Bulletin Board
+2711	Help
+2712	<color=2><outlinecolor=3>[Jam Band]</outlinecolor></color>\nThis party specializes in Jam Sessions. Up to 16 people can join.\nWhen a party is created, Pure Music Mode will automatically become available for the Jam Band.\nClick the icon above a Jam Band leader's head to enter Pure Music Mode.\n
+2713	<color=4><outlinecolor=3>\n- Enter a Jam Session</outlinecolor></color>\n* Click Enter Jam Session to perform Jam Session or Chorus actions.\n* When Jam Session or Chorus actions are in use, a party member's Jam Preparation icon will be activated.\n\n<color=4><outlinecolor=3>- Instrument/Score Icons</outlinecolor></color>\n* Instruments and scores being used by party members will be displayed as icons,\nand you can view the details by hovering your mouse over each icon.\n\n<color=4><outlinecolor=3>- Appointing Leaders and Removing Party Members</outlinecolor></color>\n* A Jam Band leader can appoint a party leader or remove party members\nby right-clicking the party member list.\n\n<color=4><outlinecolor=3>- Jam Band Chat</outlinecolor></color>\n* A Jam Band leader can shout by typing /p in the party chat window.\n\n<color=4><outlinecolor=3>- Blocking Characters in Pure Music Mode</outlinecolor></color>\n* A Jam Band leader can use the Block Character button\nor right-click on the character to block from Pure Music Mode.\n
+2714	Bulletin Board
+2715	Bulletin Board
+2716	Enter the details to register to the Party Board.
+2717	Select the party's goal.
+2718	Goal: 
+2719	Details: 
+2720	You can limit the skill rank or cumulative level\nwhen you join a party.
+2721	You can recruit a Jam Band if the Jam Session action is available.
+2722	Stat Point Distribution
+2723	Config 1
+2724	Config 2
+2725	Stats
+2726	Current
+2727	Cost
+2728	11111
+2729	22
+2730	Add
+2731	Add
+2732	Add
+2733	Add
+2734	Add
+2735	Apply
+2736	Reset
+2737	Potential
+2738	Your Potential Level will increase for every 10th character level you achieve.\nThe amount your Potential Level grows will increase based on your character level.\nUpon reaching pre-determined Potential Levels, you will receive special rewards, such as Stat Points you may distribute, or additional skills.
+2739	Potential Level: 1
+2740	Stat Points
+2741	Stat Point Distribution
+2742	Potential
+2743	Reward
+2744	Status
+2745	Your Potential Level will increase for every 10th character level you achieve.\nThe amount your Potential Level grows will increase based on your character level.\nUpon reaching pre-determined Potential Levels, you will receive special rewards, such as Stat Points you may distribute, or additional skills.
+2746	Potential
+2747	Details
+2748	Insect Book
+2749	Dragonfly
+2750	Dragonfly
+2751	Dragonfly
+2752	Butterfly
+2753	Butterfly
+2754	Butterfly
+2755	Bee
+2756	Bee
+2757	Bee
+2758	Ladybug
+2759	Ladybug
+2760	Ladybug
+2761	Cicada
+2762	Cicada
+2763	Cicada
+2764	Beetle
+2765	Beetle
+2766	Beetle
+2767	Chafer
+2768	Chafer
+2769	Chafer
+2770	Cost (Coins)
+2771	Reward:\nGesture Card
+2772	Warning: Nothing can be learned from this used book.
+2773	All
+2774	>
+2775	>
+2776	Train using AP
+2777	[APSkillTrainView $skillLocalName]
+2778	Training
+2779	Increases the Training EXP of the skill.
+2780	Close
+2781	Close this window.
+2782	Enter
+2783	After your first Rebirth,
+2784	you'll be able to join the fun!
+2785	Score
+2786	Regular\n 1005/17115
+2787	Limited\n 1005/17115
+2788	Mini-game\n 1005/17115
+2789	Attraction\n 1005/17115
+2790	Notice
+2791	All skills will be reset to Rank F.
+2792	Skill Reset Cost:
+2793	Confirm
+2794	Cancel
+2795	Direct Bank Transaction
+2796	Level
+2797	Use AP to train the skill.\nYou can only train the skills with at least 30 Training EXP.
+2798	Skill Training EXP Boost
+2799	Hair Dye
+2800	The selected dye will be used to change your hair color.
+2801	Before
+2802	After
+2803	Cancel
+2804	Apply Dye
+2805	You chose this talent to cultivate in this life.\nClick to see detailed talent information.
+2806	Echostone Awakening
+2807	Echostone Awakening
+2808	Echostone Awakening
+2809	Place the Awakening Stimulant and the Echostone to awaken its powers. The higher the Echostone grade, the higher the stats granted. Awakening Stimulants of better quality can be used in dungeons of higher difficulty. The required AP amount will gradually increase with each awakening attempt.
+2810	Current Awakening Abilities
+2811	Awaken
+2812	Ways to play the Ancient Music Box
+2813	Can amplify an Echostone's magical abilities, or awaken new powers.\nSelect 1 of 3 performance methods to fill the air with the otherworldly melodies of the Ancient Music Box.\nYou can do this to enhance Echostones or fragmentize them into useful items.\nA performance method can be selected multiple times.
+2814	Advance
+2815	Awaken
+2816	Fragment
+2817	TIP
+2818	Fragmentize into different items via a spontaneous performance.
+2819	Echostone Fragmentation
+2820	Echostone Fragmentation
+2821	Place the Echostone below.\nFragmentize the Echostone into various items.\nFragmentizing a higher graded Echostone\nwill increase your chances of obtaining rare items.
+2822	Obtainable Items
+2823	????????????????
+2824	Fragment
+2825	Fragment
+2826	Echostone Advancement
+2827	Echostone Advancement
+2828	Place the Echostone below.\nAdvance the Echostone to a higher grade.\nUnique stats and awakened stats will also\nincrease when the Echostone is upgraded.\nIf you are inside a dungeon of higher difficulty,\nthere will also be an increase in success rates.
+2829	Advance Effect
+2830	Boost
+2831	Success Rate: 
+2832	0%
+2833	Remaining Attempts: 
+2834	time(s)
+2835	Echostone grade lowered when advancement fails.
+2836	Highest Grade Achieved
+2837	Advance
+2838	Advance
+2839	Echostone grade has been lowered due to advancement failure.
+2840	Boost
+2841	Confirm
+2842	Upgrade the Echostone with a stirring performance.
+2843	Awaken new spontaneous performance Echostone power.
+2844	Fragmentize for graceful performance items from the Echostone.
+2845	You can change skill options, train AP, and utilize advancements.
+2846	Manage Skills
+2847	Advance
+2848	Train AP
+2849	Theme
+2850	Mood
+2851	Close
+2852	Dance of Death: Mood
+2853	The effect changes according to the selected mood when performing the Dance of Death.
+2854	Dance of Death: Theme
+2855	The step pattern changes according to the selected theme when performing the Dance of Death.
+2856	desc
+2857	Effect of currently achieved talent level.
+2858	Grandmaster Unique Effect
+2859	* Advance talent level to receive effect 
+2860	Talent Bonus
+2861	desc
+2862	This is the effect received at the next talent level.
+2863	Unique Effect
+2864	desc
+2865	This effect is exclusive to those who are grandmasters of this talent.\n When activated, it's calculated on top of the talent bonus.\nOnly one talent's Unique Effect can be activated at a time.\nYou need AP to change to a different talent's Unique Effect.
+2866	Activate Unique Effect
+2867	Peddler Event
+2868	(Receiving the event information...)
+2869	Collect Coin
+2870	Assigned Hotkey
+2871	Set Tab Name
+2872	Hotkeys Settings
+2873	Extra Equipment Slot
+2874	Set Tab Name
+2875	Name the tab.\nUse 2-6 characters.
+2876	Apply
+2877	Cancel
+2878	Veiw Details
+2879	Stamp Rally Event
+2880	Stamp Rally Event
+2881	Congratulations.
+2882	Confirm
+2883	Ranks
+2884	Name:
+2885	Search
+2886	Search Rank
+2887	Ranking
+2888	Ranking
+2889	Name
+2890	Record
+2891	Check Skill Change
+2892	Do you want to change the skill as seen above?\nThe change cannot be reversed.\nThe damage bonus of that slot will be reset.\n\nCost
+2893	<color=4><outlinecolor=5>You can't afford the cost.</outlinecolor></color>
+2894	Confirm
+2895	Cancel
+2896	Custom Combo Card
+2897	Select Combo Card
+2898	Skill Change
+2899	0/0
+2900	Apply
+2901	Cancel
+2903	Hairstyle
+2904	Using the coupon will change your hair.
+2905	Before change
+2906	After change
+2907	Change
+2908	<color=2><outlinecolor=3>[Using the Auction House]</outlinecolor></color>\nThe Auction House window is split into two tabs: <color=4><outlinecolor=3>Auction House</outlinecolor></color> and <color=4><outlinecolor=3>My Auctions</outlinecolor></color>.\nUnder Auction House you can search, purchase, or bid on items.\nMy Auctions is where you can list items for sale, check your bids, or manage your listed items.\nFees and payments are processed through the bank.\n\n<color=2><outlinecolor=3>[Searching the Auction House]</outlinecolor></color>\nYou must enter the full item name when performing a general search.\nA link to the item's category will appear during entry.\n\nYou can also search using partial terms with a detailed search.\nClicking on detailed search will display all items listed under the entered terms.\n\n<color=2><outlinecolor=3>[Auction House Slots]</outlinecolor></color>\nThe Auction House is shared across all characters on your account, including a limited number of usage slots (10 by default).\nAny sale, purchase, or bid takes up 1 slot, and no further transactions are allowed when all your slots are filled.\n\n<color=2><outlinecolor=3>[Auction House Fees]</outlinecolor></color>\nThe listing fee ranges from 500 Gold to 100,000 Gold and will be charged when listing the item.\nWhen the item is sold, 5% of the sales price will be charged as a sales fee.\nIf your bank account is full, payment will be sent as a certified check which will cost another 5% of the check amount.\n\n<color=2><outlinecolor=3>[Auction House Benefits]</outlinecolor></color>\nWhen you reach Lv. 1,000 and Lv. 2,000, you will receive an additional Auction House slot (one per account).\nIf you are using Mabinogi VIP Service, you will receive 5 additional Auction House slots and additional sale listing time.
+2910	Attendance Check
+2911	Total Pts\nTotal Time
+2912	Get Stamp
+2913	Point Shop
+2914	My Points
+2915	Buy
+2916	Get Reward
+2917	0
+2918	P
+2919	All
+2920	Regular
+2921	Bid
+2922	Search Filters
+2923	<color=2><outlinecolor=3>[Using the Auction House]</outlinecolor></color>\nThe Auction House window is split into two tabs: <color=4><outlinecolor=3>Auction House</outlinecolor></color> and <color=4><outlinecolor=3>My Auctions</outlinecolor></color>.\nUnder Auction House you can search, purchase, or bid on items.\nMy Auctions is where you can list items for sale, check your bids, or manage your listed items.\nFees and payments are processed through the bank.\n\n<color=2><outlinecolor=3>[Searching the Auction House]</outlinecolor></color>\nYou must enter the full item name when performing a general search.\nA link to the item's category will appear during entry.\n\nYou can also search using partial terms with a detailed search.\nClicking on detailed search will display all items listed under the entered terms.\n\n<color=2><outlinecolor=3>[Auction House Slots]</outlinecolor></color>\nThe Auction House is shared across all characters on your account, including a limited number of usage slots (10 by default).\nAny sale, purchase, or bid takes up 1 slot, and no further transactions are allowed when all your slots are filled.\n\n<color=2><outlinecolor=3>[Auction House Fees]</outlinecolor></color>\nWhen the item is sold, 5% of the sales price will be charged as a sales fee.\nIf your bank account is full, payment will be sent as a certified check which will cost another 5% of the check amount.\n\n<color=2><outlinecolor=3>[Auction House Benefits]</outlinecolor></color>\nWhen you reach Lv. 1,000 and Lv. 2,000, you will receive an additional Auction House slot (one per account).\nIf you have housing, you'll also receive additional sale listing time.
+2924	<color=2><outlinecolor=3>[Using the Auction House]</outlinecolor></color>\nThe Auction House window is split into two tabs: <color=4><outlinecolor=3>Auction House</outlinecolor></color> and <color=4><outlinecolor=3>My Auctions</outlinecolor></color>.\nUnder Auction House you can search, purchase, or bid on items.\nMy Auctions is where you can list items for sale, check your bids, or manage your listed items.\nFees and payments are processed through the bank.\n\n<color=2><outlinecolor=3>[Searching the Auction House]</outlinecolor></color>\nYou must enter the full item name when performing a general search.\nA link to the item's category will appear during entry.\n\nYou can also search using partial terms with a detailed search.\nClicking on detailed search will display all items listed under the entered terms.\n\n<color=2><outlinecolor=3>[Auction House Slots]</outlinecolor></color>\nThe Auction House is shared across all characters on your account, including a limited number of usage slots (10 by default).\nAny sale, purchase, or bid takes up 1 slot, and no further transactions are allowed when all your slots are filled.\n\n<color=2><outlinecolor=3>[Auction House Fees]</outlinecolor></color>\nWhen the item is sold, 5% of the sales price will be charged as a sales fee.\nIf your bank account is full, payment will be sent as a certified check which will cost another 5% of the check amount.\n\n<color=2><outlinecolor=3>[Auction House Benefits]</outlinecolor></color>\nWhen you reach Lv. 1,000 and Lv. 2,000, you will receive an additional Auction House slot (one per account).\nIf you are using the Mabinogi VIP Plus Service, you will get 5 additional Auction House slots and additional sale listing time.
+2925	Festia Instant Prize
+2926	*Time until next prize
+2927	23:40
+2928	Refresh
+2929	Ticket Entry
+2930	Gold Entry
+2931	* The prize list changes every Thursday at 7:00 AM.\n* The number of possible gold entries resets daily at 7:00 AM.
+2932	Gold Entries
+2933	1/30
+2934	Submit Gold Entry
+2935	Winnings
+2936	Gold Entry
+2937	Ticket Entry
+2944	Advancement Test Result
+2945	Result Text
+2946	Reward Text
+2947	OK
+2948	Advancement Test Score
+2949	Current Score
+2950	99999 pts
+2951	Time
+2952	Time
+2953	11:59 AM
+2954	Participation Fee: 15,000 Gold
+2955	Apply
+2956	Apply for the Advancement Test
+2957	This is the list of skills that can be advanced.\nTo take the test for a skill, you need to reach at least 100 on the skill's training progression and also pay a participation fee.
+2958	Dorcha Gauge
+2959	Advancement Test
+2960	Huge Lucky Finish Event
+2961	Period: 12/14/2017 - 1/17/2018
+2962	Daily Challenge
+2963	{0} HR {1} MIN 
+2964	Daily Challenge rewards reset.
+2965	Daily Attendance
+2966	Consecutive Attendance (Today and Yesterday)
+2967	Stay Logged into the Game
+2968	NEXT
+2969	Complete Daily Shadow Mission Quest
+2970	Complete Baltane Mission
+2971	Challenges
+2972	Complete these for a reward! Note: rewards don't reset.
+2973	Complete Chain Slash Skill Learning Quest
+2974	Achieve Chain Slash Skill Rank A
+2975	Achieve Chain Slash Skill Rank 5
+2976	Achieve Chain Slash Skill Rank 1
+2977	Huge Lucky Finish Event
+2978	Recent Uses
+2979	Special Unit Combat Status
+2980	Bonus Item List
+2981	List of items for which bonuses are available.
+2982	Please choose the item you'd like to use.
+2983	Vote
+2984	Close
+2985	Confirm
+2986	Bonus Point Event
+2987	Close
+2988	Confirm
+2989	Bonus Point Event
+2990	Use
+2991	You'll automatically accumulate a point each\ntime you use the item above.
+2992	View Benefits
+2993	Select an Item.
+2994	BONUS TIME!
+2995	FEVER TIME!
+2996	You can't accumulate bonus points right now.
+2997	The Bonus Point Event has ended.\nBonus rewards will be given upon logging back in.
+2998	Until {0}/{1}/{2} points have been accumulated
+2999	Point Inventory
+3000	Prism Collection
+3001	Number of Collected Prisms
+3002	Test Item
+3003	Convert
+3004	Click to change the color of the other eye.
+3005	Enter
+3006	Extend
+3007	Unfurnish
+3008	Enter
+3009	List
+3010	You must enter the Homestead to view that.
+3011	Kick
+3012	Block
+3013	Install Furniture or Redecorate Walls
+3014	Furniture
+3015	Walls
+3016	Description
+3017	Gold
+3018	Pon Coin
+3019	Floor
+3020	Wall
+3021	Columns
+3022	0 GOLD
+3023	Price
+3024	Retrieve Furniture
+3025	Furniture
+3026	Description
+3027	Retrieve
+3028	Furniture Info
+3029	Furniture Name
+3030	Installing furniture in the house.
+3031	Activated Installation Mode.
+3032	Switching to Installation Mode.
+3033	Switching to Edit Mode.
+3034	<color=2><outlinecolor=3>[Using the Auction House]</outlinecolor></color>\nThe Auction House window is split into two tabs: <color=4><outlinecolor=3>Auction House</outlinecolor></color> and <color=4><outlinecolor=3>My Auctions</outlinecolor></color>.\nIn the Auction House tab, you can search for, purchase, or bid on items.\nIn the My Auctions tab, you can list items for sale, check your bids, or manage your listed items.\nFees and payments are processed through the bank.\n\n<color=2><outlinecolor=3>[Searching the Auction House]</outlinecolor></color>\nYou must enter the full item name when performing a general search.\nA link to the item's category will appear during entry.\n\nYou can also search using partial terms with a detailed search.\nClicking on detailed search will display all items listed under the entered terms.\n\n<color=2><outlinecolor=3>[Auction House Slots]</outlinecolor></color>\nAuction House listings are shared across all characters on your account, including a limited number of usage slots (10 by default).\nAny sale, purchase, or bid takes up 1 slot, and no further transactions are allowed when all your slots are filled.\n\n<color=2><outlinecolor=3>[Auction House Fees]</outlinecolor></color>\nWhen an item is sold, 5% of its final sale price will be taken as a sales fee.\nIf your bank account is full, payment will be sent as a certified check.\nHowever, receiving a check will cost another 5% of the sale price.\n\n<color=2><outlinecolor=3>[Auction House Benefits]</outlinecolor></color>\nWhen you reach cumulative Lv. 1,000 and Lv. 2,000, you will receive an additional Auction House slot (one per account).\nIf you are using the Mabinogi Premium Service, you will get 5 additional Auction House slots and additional sale listing time along with discounted sales fees,\nand 1 additional Auction House slot if using shops in the Marketplace or houses in Homestead. (Effects cannot be stacked)
+3035	Guardian Guild Tournament Final Round Status
+3036	Guardian Guild Tournament Final Round Results
+3037	Close
+3038	Tir Chonaill Guild Battle Results
+3039	Guardian Guild
+3040	GUARDIANGUILDNAME
+3041	Flag Steal Results
+3042	Mabinogi
+3043	x 00
+3044	Content2Unit
+3045	x 00
+3046	Milk Tea
+3047	x 00
+3048	Eiren
+3049	x 00
+3050	MVP
+3051	[GUILDNAME]\nMVPUSERNAME
+3052	Flags Captured
+3053	x 00
+3054	Monsters Defeated
+3055	x 00
+3056	Debilitating Items Used
+3057	x 000
+3058	Times Knocked Out
+3059	x 000
+3060	MVP
+3061	Most Flags Captured
+3062	[GUILDNAME]\nUSERNAME
+3063	Most Fomors Defeated
+3064	[GUILDNAME]\nUSERNAME
+3065	Most Debilitating Items Used
+3066	[GUILDNAME]\nUSERNAME
+3067	The Weakest
+3068	[GUILDNAME]\nUSERNAME
+3069	Flag Capture Status
+3070	Guild1
+3071	MMMMMMMMMMMM: x 00
+3072	Guild3
+3073	Guild4
+3074	Flag Steals Possible: 0
+3075	Capturable Flags: 00
+3076	Time Remaining: 00 min 00 sec
+3077	Scoreboard
+3078	Round Progress
+3081	- Between 3-16 characters
+3082	If you continue, the following items \nwill be consumed as materials.
+3083	Continue?
+3084	Progress
+3085	Cancel
+3086	Erg
+3087	Erg Level
+3088	Erg Max Level
+3089	Erg EXP
+3090	Basic Effect
+3091	Bonus Effect
+3092	Required Materials
+3093	Additional Materials
+3094	Erg EXP has been filled to max. \nPlease expand the max Erg level.
+3095	Materials marked with ! will disappear even if the process fails.
+3096	Fill
+3097	Fill
+3098	This item has reached its maximum\nErg EXP amount and max Erg level.
+3099	Inject
+3100	Inject
+3101	Expand
+3102	Expand
+3103	Close
+3104	Close
+3108	세공할 아이템을 슬롯에 올려주세요.
+3109	세공 후 기존 능력치를 유지하거나\n새로운 능력치로 교체할 것인지 선택을 할 수 있습니다.\n\n세공할 때마다 세공 도구가 소모되며\n능력치를 선택하지 않고 다시 세공할 경우에는 새로운 능력치만 갱신됩니다.
+3110	Vote
+3111	Vote
+3112	Activate Eidos
+3113	Activate Eidos.\nYou can pour Otherworldly Essence into an Eidos to give it a new effect.\nThe effect will be active in Nascent Divinity mode.
+3114	Place the Eidos you'd like to activate.
+3115	Activate
+3116	Eidos Recharge
+3117	Recharge Eidos using Otherworldly Essence.
+3118	0
+3119	0
+3120	Recharge
+3121	Cooking Expertise
+3122	Smithing Expertise
+3123	Tailoring Expertise
+3124	Medicine Expertise
+3125	Carpentry Expertise
+3126	Homestead Bulletin Board
+3127	Homestead Bulletin Board
+3128	Liked
+3129	Let people know what's good about this homestead.
+3130	This homestead is beautifully decorated
+3131	Aesthetic
+3132	This homestead is perfect for training your skill in cooking\nor gathering cooking-related materials
+3133	Cooking
+3134	This homestead is perfect for training your skill in smithing\nor gathering smithing-related materials
+3135	Smithing
+3136	This homestead is perfect for training your skill in tailoring\nor gathering tailoring-related materials
+3137	Tailoring
+3138	This homestead is perfect for training your skill in medicine\nor gathering medicine-related materials
+3139	Medicine
+3140	This homestead is perfect for training your skill in carpentry\nor gathering carpentry-related materials
+3141	Carpentry
+3142	Enter
+3143	Expertise Point
+3144	Cooking
+3145	Smithing
+3146	Tailoring
+3147	Medicine
+3148	Carpentry
+3149	Workshop
+3150	Expertise Info
+3151	Expertise
+3152	Workshop Bench Info
+3153	Inspiration Index Info
+3154	Move
+3155	Exit
+3156	Call House Manager Brownie
+3157	Check Homestead Housing Info
+3158	Research effect activated
+3159	Research effect
+3160	Req. Bench Level
+3161	Training EXP Multiplier
+3162	Duration
+3163	Expertise Needed
+3164	Workshop Bench upgrade
+3165	Complete research task
+3166	Research effect activated
+3167	Workshop Bench upgrade
+3168	Workshop
+3169	Complete research task
+3170	Research Task
+3171	Level
+3172	Time
+3173	Reward
+3174	Homestead Bulletin Board
+3175	Search Term
+3176	to Homestead name
+3177	to Homestead Owner's name
+3178	Search
+3179	Points and rank are refreshed hourly. Only homesteads\nwith recommendation points will be displayed on the list.
+3180	Overall Rank
+3181	Homestead Name
+3182	Homestead Owner
+3183	Aesthetic
+3184	Cooking
+3185	Smithing
+3186	Tailoring
+3187	Medicine
+3188	Carpentry
+3189	Enter
+3190	Enter
+3191	1
+3192	<<
+3193	<
+3194	>
+3195	>>
+3196	Refresh
+3197	Close
+3198	Housing Info
+3199	Select a room and check its info or move directly to it.
+3200	Make Natural Dye
+3201	* You can only place the fixed color ampoule once each day in real time, and it gets reset on 07:00 AM each day.\n* Controls: [Space] Change combine dish multiplier [<-] Move dish left [->] Move dish right
+3202	128
+3203	128
+3204	128
+3205	Start
+3206	Place on Fixed Color Dye Ampoule
+3207	Place on Fixed Color Metal Dye Ampoule
+3209	The target weapon's Erg information will be\noverwritten by that of the source weapon.\nYou may lose the current Erg Level and EXP, up to\n4 levels. The weapon that receives the Erg transfer\nwill be <color=2><outlinecolor=3>bound to you</outlinecolor></color>.
+3210	Erg Transfer
+3211	Erg Transfer
+3212	You can use a Transference Catalyst to transfer Erg from a weapon\nthat has had its Erg level raised at least once to another weapon.
+3213	Only a weapon of same type with a lower Erg Level\nthat has not yet been personalized can receive Erg\nfrom another weapon.
+3214	Extraction Source
+3215	ExtractionItemName
+3216	Transfer Recipient
+3217	TargetItemName
+3218	Transfer
+3219	Transfer
+3220	Equipment Appearance Change
+3221	Only the equipment's appearance changes; the stats remain the same.
+3222	Equipment Appearance
+3223	Equipment
+3224	Select equipment.
+3225	Equipment Appearance Change
+3226	[You can change the appearance of the selected item using the scroll.]
+3227	Equipment Appearance Extraction
+3228	The equipment's appearance will be extracted.
+3229	The equipment will disappear.
+3230	Equipment Appearance Extraction
+3231	[After selecting the equipment, you can extract its appearance.]
+3232	Equipment Appearance Recovery
+3233	The equipment will be restored to its original appearance.
+3234	Equipment Appearance Recovery
+3235	[Restore the equipment to its original appearance.]
+3236	Memoir
+3237	Quest Board
+3238	Quest Info
+3239	Acquired Sticker
+3240	Sticker Board
+3241	Reward: Blaanid's Flower Box
+3242	Table of Contents
+3243	EXP:\nGold:\nItem(s):
+3244	Claim Reward
+3245	Location
+3246	Quest Title
+3247	Date, Location
+3248	Briogh AP Input
+3249	Confirm
+3250	Cancel
+3251	Lv. 
+3252	{0}% EXP
+3253	-
+3254	+
+3255	Advance
+3256	Technique Info
+3257	0
+3258	AP
+3259	Use AP to obtain briogh.\nOnly 10 AP can be used for this per day, across all types of briogh.
+3260	0
+3261	[APBrigh1 title]
+3262	Use AP to obtain briogh.\nOnly 10 AP can be used for this per day, across all types of briogh.
+3263	0
+3264	[APBrigh1 title]
+3265	Use AP to obtain briogh.\nOnly 10 AP can be used for this per day, across all types of briogh.
+3266	 Display Info
+3267	Technique 
+3268	Set
+3269	Activate Set
+3270	1
+3271	2
+3272	3
+3273	4
+3274	5
+3275	Technique Set Effect
+3276	Save Set Settings
+3277	Change Set Name
+3278	Enter a new set name\nof 5 characters or less.
+3279	Confirm
+3280	Cancel
+3281	Chapter Info
+3282	Prereqs:
+3283	To Start: 
+3284	Rewards:
+3285	Watch
+3286	New Chapter Update
+3287	View Info
+3288	Close
+3289	Stop showing
+3290	(Complete)
+3291	Collect Wingheart Coins Event
+3292	Period: 01/10/2019—02/14/2019
+3293	Daily Challenge
+3294	{0} hr {1} m
+3295	Rewards will reset at 7 am
+3296	Daily Attendance
+3297	/
+3298	Consecutive Attendance (Today && Yesterday)
+3299	/
+3300	Stay Logged Into the Game
+3301	NEXT
+3302	/
+3303	Stay Logged In with a Party of 3+
+3304	NEXT
+3305	/
+3306	Complete Daily Shadow Mission Quest
+3307	/
+3308	Challenges
+3309	Reward record will not reset
+3310	Level Up
+3311	/
+3319	알림
+3320	핸드폰 번호 인증을 거친 후 게임 접속이 가능합니다.\n아래 절차에 따라 인증을 진행 부탁드립니다.
+3321	Select Seat
+3322	Please choose your seat.
+3323	(Taken)
+3324	(Available)
+3327	Memoirs
+3328	Your Memoir Tracker is empty.\nOpen the Memoir window and start a Memoir.
+3329	Enter Manually
+3330	Gambling
+3331	Misc.
+3332	About the Rewards
+3333	Claim
+3334	Master's Gift Card
+3335	About the Common Rewards
+3336	Claim
+3337	Skill
+3338	Action
+3339	Start
+3340	Darrig Coin Collectathon
+3341	Period: 06/20/2019 after maintenance - 07/25 before maintenance
+3342	{0} hr {1} m
+3343	Rewards will reset at 7 AM.
+3344	Daily Challenge
+3345	Log in Once a Day
+3346	Stay Logged Into the Game
+3347	NEXT
+3348	30:00
+3349	Clear Daily Shadow Mission
+3350	{0} hr {1} m
+3351	until Weekly Challenge Records resets.
+3352	Weekly Challenge
+3353	Log in Once a Week
+3354	Reach Level 50
+3355	Reach Level 100
+3356	Rebirth
+3357	Challenges
+3358	Rewards can be claimed once.
+3359	Clear G23 Part 1
+3360	Obtain Phantasmal Sight
+3361	Obtain Tenacious Taunt
+3362	Not Applied
+3363	Actions
+3364	Group
+3365	1
+3366	If there are multiple action groups, 1 will be randomly selected to play. \nYou can raise the probability that a specific action will play by applying \na two-digit, weighted value to it (Max 2 digits). \nHigher numbers trigger actions more often!
+3367	Interaction Ucc
+3368	Refresh
+3369	Edit Interaction
+3370	Search: 
+3371	Total
+3372	Type
+3373	Actions
+3374	Search
+3375	Close
+3376	Save
+3377	Name:
+3378	Desc:
+3379	Help
+3380	Condition
+3381	Manage Interaction
+3382	Total
+3383	Interaction List
+3384	Interaction Name
+3385	Target
+3386	Recommended Target
+3387	Target List
+3388	Target Name
+3389	Target Category
+3390	Applied Status
+3391	Edit
+3392	New Edit
+3393	Delete
+3394	Share
+3395	Apply
+3396	Disabled
+3397	Help
+3398	Refresh
+3399	Select Target
+3400	Confirm
+3401	Cancel
+3402	Interaction Target
+3403	Please select a target.
+3404	Select Target
+3405	<color=2><outlinecolor=3><Using the Interaction Crafter></outlinecolor></color>\n    - You can use the Interaction Crafter to create a variety of interactions.\n    - Each interaction is composed of linked [Conditions] and [Actions].\n    - You can edit [Conditions] and [Actions] to create unique interactions.\n\n<color=2><outlinecolor=3><Conditions></outlinecolor></color>\n    - Meeting a [Condition] triggers the [Actions] you applied to your target.\n    - For example, your target could perform an action every time you \n       level up if you set a [Character Level Up] condition!\n    - There are several conditions, like Chat Keyword and Character Condition.\n    - If you want to add more conditions, just click the [+] button.\n    - If you want to remove a condition, click the [-] button.\n\n<color=2><outlinecolor=3><Actions></outlinecolor></color>\n    - You can add a variety of actions like Facial Expressions, Motions, \n       Speech Bubbles, Messages, and more.\n    - If you want to add more actions, just click the [+] button.\n    - If you want to remove an action, click the [-] button.\n    - You can't add duplicate actions within the same action group.\n\n<color=2><outlinecolor=3><Action Group></outlinecolor></color>\n    - An [Action Group] includes a variety of [Actions].\n    - When a condition is met, all actions in the [Action Group] will trigger!\n    - If you want to add more action groups, just click the [+] button.\n    - If you want to remove an action group, click the [-] button.\n    - If you apply multiple action groups to a single condition, then a \n       random action group will play when it's triggered.\n    - You can adjust the frequency of actions by applying a two-digit, \n       weighted value to them!\n\n<color=2><outlinecolor=3><Playing the Actions></outlinecolor></color>\n    - You can preview actions by clicking [Play] on the right.\n    - When you click [Play], all actions in a single group will play!\n\n<color=2><outlinecolor=3><Saving an Interaction></outlinecolor></color>\n    - Once you enter a name and description for each interaction, click [Save].\n    - The interaction file gets saved to the following path:\n       [/Users/User Name/Documents/Mabinogi/Interaction]\n    - Then you can share your interaction files by posting them on the forums.\n\n
+3406	<color=2><outlinecolor=3><What is the Interaction Crafter?></outlinecolor></color>\n    - The Interaction Crafter is a system that can apply interaction macros\n       to things like Pets, Partners, Props, and more!\n    - You can create your own unique friends that can respond in a \n       variety of ways to different scenarios!\n    - Then you can share your interactions by posting them on the forums.\n\n<color=2><outlinecolor=3><Using an Interaction></outlinecolor></color>\n    - You can select an interaction from the list on the left.\n    - Choose a target Pet, Partner, or Prop from the list on the right.\n    - Then click [Apply] to apply the interaction!\n    - To remove an interaction, select the target and click [Disable]. \n\n<color=2><outlinecolor=3><Managing Interactions></outlinecolor></color>\n    - To open the editor, click [New Edit] at the bottom.\n    - To edit an existing interaction, select an interaction and click [Edit].\n    - To create a new interaction, click [New Edit].\n    - To remove an interaction, select an interaction and click [Delete].\n\n<color=2><outlinecolor=3><Sharing an Interaction></outlinecolor></color>\n    - The interaction file gets saved to the following path:\n       [/Users/User Name/Documents/Mabinogi/Interaction]\n    - You can share your interaction files for other players to use.\n    - You can also download and use interactions from other players.\n
+3407	Tryouts Bingo Board
+3408	Bingo Row Rewards
+3409	Bingo Coins
+3410	100
+3411	Play Bingo
+3412	Keep Equipped Equipment
+3413	Rebirth while keeping any equipment that was equipped before the Rebirth. Equipment that can no longer be equipped due to a change in age or gender will be moved to the inventory window. The default outfit normally given during a Rebirth will not be provided.
+3414	Invite friends and collect Melodies!
+3415	Enter
+3416	Melodies held
+3417	Your invitation code
+3418	Mandolin@OneTwoThreeFourFiveSixSevenEight
+3419	An additional Melody you can obtain when you log in
+3420	0/12
+3421	Next 29:59
+3422	*21 Hr 15 Min
+3423	later, the number of additional Melodies you can obtain\nwill be reset.
+3424	Fantastic Memory Event
+3425	8.15.2019 - 10.10.2019
+3426	Invite/refer friends
+3427	Bonus Melody in
+3428	First Event
+3429	Second Event
+3430	Third Event
+3431	Fourth Event
+3432	Reward for Clearing All Events
+3433	14 Day Perfect Attendance Check Event
+3434	Simply log in each day between 00:00 and 23:59 to enjoy a shower of free gifts!
+3435	Day 1
+3436	Day 2
+3437	Day 3
+3438	Day 4
+3439	Day 5
+3440	Day 6
+3441	Day 7
+3442	Day 8
+3443	Day 9
+3444	Day 10
+3445	Day 11
+3446	Day 12
+3447	Day 13
+3448	Day 14
+3449	COMING SOON!
+3450	Additional gifts lie in store for those who claim lots of attendance rewards!
+3451	17/56
+3452	Info
+3453	* The criteria for New/Returning Players and Existing Players is defined as shown below. 
+3454	- New/Returning Players: Players with accounts newly created during the Fantastic Memory Event,\nor players who possess the 'Returned Milletian' title and have a friend referral code to enter.
+3455	- Existing Players: Players whose account was not newly created during \nthe Fantastic Memory Event and who do not possess the 'Returned Milletian' title.
+3456	* If you're referring or referred by a friend, you'll immediately receive the appropriate gift box \nlisted below, which contains items to help you enjoy the game. (Given once per account)
+3457	- Referring Player: Welcome Milletian Gift Box
+3458	- Referred Player: Diligent Milletian Gift Box
+3459	* Friend referral is only possible with characters who are logged in on the same channel on the same server.
+3460	* Melodies accumulate at an account level, and up to 30 can be obtained per day, regardless of the number of friends you have.
+3461	- You'll receive a Melody each time a player who referred you achieves a Character Level Up or Exploration Level Up (Max of 18 per day)
+3462	- You'll receive a Melody for every 30 minutes (real-time) you stay logged in each day (Max of 12 per day)
+3463	- The maximum number of Melodies you can receive per day will be reset at midnight each day.
+3464	* Melodies obtained while the Fantastic Memory Event is running can be exchanged for a variety of items from NPC Pan, located in Festia.
+3476	Add Again
+3477	Add Again
+3478	Interaction Crafter
+3479	Pet/Partner Information
+3480	Pet
+3481	Pets/Partners?
+3482	Additional Info
+3483	Perk\nDetails
+3484	Set Note
+3485	Interaction Crafter
+3486	Additional Info
+3487	Perk\nDetails
+3488	Set Note
+3489	Interaction Crafter
+3490	Additional Info
+3491	Perk\nDetails
+3492	Set Note
+3493	Interaction Crafter
+3494	Pets/Partners?
+3495	<color=2><outlinecolor=3>[Pets]</outlinecolor></color>\nA <color=4><outlinecolor=3>Pet</outlinecolor></color> is a companion who can accompany you throughout your daily life in\nErinn. It can fight alongside you, heal you, store items, and more! Erinn,\nis full of pets of varied abilities and appearances.\n\n<color=2><outlinecolor=3>[Partner]</outlinecolor></color>\nA <color=4><outlinecolor=3>Partner</outlinecolor></color> is another type of companion who can accompany you. Partners have\na variety of personalities, and you can change their appearance as much as\nyou like. You can even grow closer to them by raising your Likeability\nthrough conversation or gift-giving.\n\n <color=2><outlinecolor=3>[Fynni Pet]</outlinecolor></color>\nHaving undergone a transformation via the Fynni Blossoming skill,\nthese pets possess characteristics quite different from those of regular pets.\nFor example, Fynni Pets cannot level up and don't have their own inventory.\nYou can read up on these unique pets in greater detail in the Traveler's Guide.\n
+3496	Perk Information
+3497	Title
+3498	Percentage
+3499	Perk
+3500	Level
+3501	Pet Point
+3502	Perk List
+3503	Interaction Crafter
+3504	Confirm
+3505	Choose Perk for Next Life
+3506	\nAre you sure you want to rebirth this pet?\nIts level and age will be reset upon rebirth.\n(Its cumulative level will be retained.)
+3507	Current Perk
+3508	Rebirth
+3509	Cancel
+3510	Perk Acquisition
+3511	Choose a Pet Perk
+3512	Acquire
+3513	Cancel
+3514	Perk Information
+3515	Advance a Skill
+3516	Advance
+3517	Later
+3518	Switching to multi-selection mode.
+3519	Switching to single selection mode.
+3520	All selected Props will be retrieved.
+3521	Will be activated in multi-selection mode.
+3522	Rental Request
+3523	Date Selected
+3524	Please select a date
+3525	Time Selected
+3526	Please select a time
+3527	Concert Ticket Price\n(0 - 100,000 Gold)
+3528	0
+3529	Concert Invites to Be Purchased\n(Same cost as Concert Tickets)
+3530	0
+3531	Submit
+3532	Manage Milletian Concert
+3533	End Concert
+3534	Select Target
+3535	Select Target
+3536	Select Target
+3537	Select Target
+3538	Select All
+3539	Confirm
+3540	Pet
+3541	Spirit
+3542	Attack
+3543	Exclusive
+3544	Awakening
+3545	You can reset all effects to level 0.\nThe points distributed in each of the effects will be returned.\nThere is no limit on how many times you can reset, but the cost will vary depending on the Spirit's level.
+3546	Reset
+3547	Apply the points distributed to each of the effects.
+3548	Apply
+3549	Reverts the points distributed to each of the effects, instead of applying them.
+3550	Revert
+3551	Display Stats
+3552	Select All
+3553	Unselect All
+3554	Enhanced Equipment
+3555	Regular Equipment
+3556	Misc. Items
+3557	High Value Items
+3558	Low Value Items
+3559	Gem
+3560	Powder
+3561	Etc.
+3562	Expected EXP
+3563	Filter
+3564	Automatically selects the items that will be fed to the Spirit.\nEnhanced items will not be automatically selected.
+3565	Auto
+3566	The selected items will be fed to the Spirit.\nYou can feed up to 30 items at once.
+3567	Feed
+3568	Cancel the item selection.
+3569	Cancel
+3570	Divide Spirit Food
+3571	Quantity
+3572	Confirm
+3573	Cancel
+3574	Select All
+3575	Unselect All
+3576	Topaz
+3577	Star Sapphire
+3578	Emerald
+3579	Aquamarine
+3580	Garnet
+3581	Jasper
+3582	Ruby
+3583	Spinel
+3584	Diamond
+3585	Heliodor
+3586	Bloodstone
+3587	Jade
+3588	Tourmaline
+3589	Pink Sapphire
+3590	Jet
+3591	Opal
+3592	Phantom Quartz
+3593	Tanzanite
+3594	Ametrine
+3595	1 cm
+3596	2 cm
+3597	3 cm
+3598	4 cm
+3599	5 cm
+3600	6 cm
+3601	7 cm
+3602	8 cm
+3603	9 cm
+3604	10 cm
+3605	Spirit Information
+3606	Spirit Information
+3607	Spirit Management
+3608	Ego Points
+3609	Can be obtained when the Spirit's level rises, or when you complete a quest.\nStarting from level 55, you can obtain bonus Ego Points from the Spirit Bond.
+3610	Bond
+3611	Represents how much the Spirit has experienced and bonded with you.\nYou can strengthen the Spirit Bond by having a conversation or entering combat with the Spirit.\nStronger Spirit Bonds grant additional EXP or Ego Points.
+3612	Spirit Information
+3613	Spirit Enhancement
+3614	Feed Item
+3615	Spirit Dialog
+3616	[Spirit Contract]\n- You can form a contract with a new Spirit.\n- It is not possible to form a contract with more than 2 of the same weapon type.\n\n[Spirit Transfer]\n- Without damaging the weapon, you can transfer a Spirit from a weapon into a different weapon.\n- The Spirit can be transferred to any type of weapon.\n- Spirit effects must be reset before transferring.\n\n[Destroy Contract]\n- You can destroy a contract without damaging the weapon.\n- You will receive a Remembering Spirit Stone when the contract ends.\n- The EXP retained by the Remembering Spirit Stone depends on the Spirit's growth.\n\n[Change Effects]\n- You can change the effects of the Spirit Weapon.\n\n[Spirit Weapon Characteristics]\n- Regardless of the weapon attributes, it will not be tradable.\n- The weapon's attributes will return to its defaults when the contract is destroyed.
+3617	Spirit Contract
+3618	Spirit Transfer
+3619	Destroy Contract
+3620	Character Change
+3621	Change Effects
+3622	Next
+3623	Name
+3624	The name has the following requirements.\n- 3-12 characters\n- No profanity\n- No spaces or special characters\n- Cannot match another of your Spirit's names
+3625	Previous
+3626	Complete
+3627	Spirit Memory Inheritance
+3628	Spirits can inherit the memories stored\ninside a Spirit Stone to grow. They can\nreach up to level 50 through this method.
+3629	Keyword
+3630	Select a conversation topic to chat with your Spirit.\nYou can add conversation topics by using the Interaction Crafter.
+3631	Spirit Dialogue
+3632	Green Heliodor
+3633	Red Heliodor
+3634	눈 스타일
+3635	보관 쿠폰을 사용하면 눈이 변경 됩니다.
+3636	변경 전
+3637	변경 후
+3638	취소
+3639	변경
+3640	Manage Crystals
+3641	Corresponding Skills
+3642	Select
+3643	TailTab
+3644	TailTab
+3645	Tail
+3646	TailTab
+3647	SpecialAccTab
+3648	SpecialAccTab
+3649	Face Accessory
+3650	SpecialAccTab
+3651	Spirit
+3652	Description Description Description
+3653	Select a Spirit to accompany you.
+3654	Name
+3655	Enter your name.
+3656	Name requirements:
+3657	- Between 3-12 characters
+3658	Names cannot contain:
+3659	- Profanity\n- Spaces or special characters\n- Name already being used by your Spirits
+3660	Confirm
+3661	Cancel
+3662	Represents how much the Spirit has experienced and bonded with you.\nYou can strengthen the Spirit Bond by entering combat with the Spirit.\nStronger Spirit Bonds grant additional EXP or Ego Points.
+3663	Info
+3664	Enhanced
+3665	Growth
+3666	Chat
+3667	Exclusive Pet Pouch
+3668	Expands summoned pet's <color=2><outlinecolor=3>Inventory</outlinecolor></color> by <color=2><outlinecolor=3>2 rows</outlinecolor></color>.\nSelect direction to expand.
+3669	<color=2>* Each pet can only use one of these.</color>
+3670	Add Two Rows to the Right
+3671	Add Two Rows to the Bottom
+3672	Cancel Use
+3673	Spirit Tips
+3674	[Spirit Weapon]
+3675	- Spirit Contract, Spirit Transfer, Spirit Conversion, and Destroy Contract can be done through Berched.\n- You can have up to 3 Spirit Weapons.\n- Spirit Weapons with active contracts cannot be traded, but will be unbound once the contract is destroyed.\n- Transferring the Spirit will not damage the Growth status of the Spirit, nor the weapon.\n- You must reset any active effects to transfer the Spirit.
+3676	- Spirit Contract, Spirit Transfer, Spirit Conversion, Destroy Contract, and Transformation can be done through Berched.\n- You can have up to 3 Spirit Weapons.\n- Spirit Weapons with active contracts cannot be traded, but will be unbound once the contract is destroyed.\n- Transferring the Spirit will not damage the Growth status of the Spirit, nor the weapon.\n- You must reset any active effects to transfer the Spirit.
+3677	[Spirit Enhancement]
+3678	- You can enhance Spirits by spending Ego Points earned from Spirit Growth.\n- Each category of effects has an ultimate effect if you spend 75 points or more in it.\n- Effects distributed with Ego Points can be reset. (The reset cost varies depending on the Spirit level)
+3679	[Spirit Growth]
+3680	- You can feed items to Spirits to help them grow, up to 30 at once.\n- You can continue to feed items until the Spirit's EXP reaches the weekly limit.\n- The weekly limit resets at 7 AM every Saturday.\n- The Spirit earns 1 Ego Point every time they level up.\n- You can earn additional Ego Points depending on the Spirit Bond when the Spirit levels up.\n- Strengthen the Spirit Bond by going into combat with the Spirit Weapon equipped.
+3681	- You can feed items to Spirits to help them grow, up to 30 at once.\n- You can continue to feed items until the Spirit's EXP reaches the weekly limit.\n- The weekly limit resets at 7 AM every Saturday.\n- The Spirit earns 1 Ego Point every time they level up.\n- You can earn additional Ego Points depending on the Spirit Bond when the Spirit levels up.\n- Strengthen the Spirit Bond by having a conversation with the Spirit or going into combat with the Spirit Weapon equipped.\nConversations can be had 3 times a day, and this limit is reset at 6 AM Erinn time.
+3682	[Spirit Awakening]
+3683	- Awakening Energy gathers when you go into combat with the Spirit Weapon equipped, and allows use of the Awakening Skill once it reaches 100%.\n- Awakening Energy is reset when you use the Awakening Skill.
+3684	추억담 안내 팝업
+3685	퀘스트 열기
+3686	닫기
+3687	일주일간 보지 않기
+3688	Pillow Fight: Skill Rock Paper Scissors Match Book
+3689	Obtain Reward
+3690	Puzzle Event
+3691	Fit
+3692	Opened Puzzle
+3693	Ends In:
+3694	Until Next Piece
+3695	Craft Pots
+3696	Place materials
+3697	Success Rate:
+3698	Auto-craftable Quantity:
+3699	Auto-crafted Quantity
+3700	Start
+3701	Cancel
+3702	Pet Type
+3703	Fatigue
+3704	Pets that go on Expeditions expend a great deal of energy, and upon their return are usually quite tired. Their fatigue will disappear after getting plenty of rest at a Homestead Pet House, or after noon on Samhain (Saturday in real time).
+3705	Pet Type / Fatigue
+3706	Pet Expedition Help
+3707	* What is a Pet Expedition?
+3708	- Use the <color=2><outlinecolor=3><Pet Expedition Bulletin Board></outlinecolor></color> installed on your Homestead\nto send multiple pets in your possession on expeditionary ventures.
+3709	* Expeditionary Ventures
+3710	- New expeditions are refreshed daily.\n- <color=2><outlinecolor=3>Today's Expedition</outlinecolor></color> guarantees a 15% Huge Lucky Bonus rate by default.\n- <color=2><outlinecolor=3>Special Expeditions</outlinecolor></color> with better rewards will sometimes appear.\n- Complete expeditions to obtain <color=2><outlinecolor=3>Basic Rewards</outlinecolor></color>.\n- <color=2><outlinecolor=3>Bonus Rewards</outlinecolor></color> can be obtained when a <color=2><outlinecolor=3>Huge Lucky Bonus</outlinecolor></color> is triggered.\n- No rewards are given when you give up on an expedition.\n- Up to <color=2><outlinecolor=3>12</outlinecolor></color> expeditions can be in progress at one time.
+3711	* Huge Lucky Bonuses
+3712	- Some <color=2><outlinecolor=3>pet types</outlinecolor></color> have an advantage or disadvantage on certain expeditions.\nSending more pets with advantage will increase the Huge Lucky Bonus rate, while pets with disadvantage will decrease it.\n- The higher a pet's stats, the greater the advantage.
+3713	* Fatigue
+3714	- When pets return from an expedition, their <color=2><outlinecolor=3>Fatigue</outlinecolor></color> increases by 1.\n- If the Fatigue value is 3, the pet cannot be sent on further Ventures.\n- Fatigue is reset by getting lots of rest at a <color=2><outlinecolor=3><Pet House></outlinecolor></color>,\nor at noon on Saturday (real time).
+3715	* Things to Keep in Mind
+3716	- Pets sent on an Expedition cannot be summoned until it is complete.\nExpedition progress is applied equally to all pets on the same account.\n- The following actions are restricted for pets in the middle of an expedition:\n<color=2><outlinecolor=3>    > Taking on a different Expeditionary Venture.\n    > Resting at a Pet House.\n    > Being summoned, logging in, or requesting the deletion of the pet.
+3717	Pet List
+3718	* View Available Pets.
+3719	<color=2>* Pets currently engaged, under LV reqs, or\nhave Fatigue of 3 or higher not shown.</color>
+3720	* Right-click to exclude from auto-formation.
+3721	Pet Expedition
+3722	Loading...
+3723	Expedition Command
+3724	Select a pet to send on an Expedition!
+3725	<color=3>Expedition Time</color>
+3726	<color=3>Huge Lucky Bonus Chance</color>
+3727	The more pets with advantage there are in an expeditionary team, the higher the chances of receiving bonus rewards.
+3728	<color=3>Bonus Rewards</color>
+3729	Additional rewards that can be received when a Huge Lucky Bonus occurs during an expedition.
+3730	<color=3>Basic Rewards</color>
+3731	Rewards that can be acquired upon completing expeditions.
+3732	Auto-Formation
+3733	Automatically selects pets to send on expeditions for slots that are currently empty. Pets set as locked in the pet list on the right are excluded.
+3734	Launch
+3735	Ongoing Expedition
+3736	Expedition Name
+3737	Participating Pets
+3738	Bonus Chance
+3739	Time Remaining
+3740	Cancel
+3741	Stopping the selected expedition will cause the pets involved to return without bringing back any rewards.
+3742	Complete
+3743	Embark on Expeditionary Venture
+3744	Commencement Text
+3745	Pet List\nPet\nPet
+3746	<color=2>Pets sent on Expeditions\ncannot be summoned until it\nis completed or canceled.</color>
+3747	Confirm
+3748	Cancel
+3749	Expeditionary Venture Results
+3750	Confirm
+3751	<color=2>Basic Rewards</color>
+3752	<color=2>Bonus Rewards</color>
+3753	<color=2>Returning Pet's Name</color>
+3754	<color=2>Huge Lucky Bonus!</color>
+3755	Pet House Rest
+3756	Description
+3757	Rest Duration
+3758	Rest Effect
+3759	Full Rest
+3760	Rest Info
+3761	Select a pet to rest.\nPets already engaged are not shown.
+3762	Close
+3763	Start Resting
+3764	Upgrade
+3765	Notice
+3766	Confirm
+3767	Upgrade
+3768	Pet House
+3769	Homestead Bonuses
+3770	Displays the stat bonuses applied to the Homestead. Hover over each stat to see the item granting each effect.\n\nThe bonuses of Homestead decorations (including Figures), Sequel Figures, and Pet Houses are combined. However, if there are multiple bonuses in the same stat, only the highest will be applied.
+3771	Pet House
+3772	Pet Inventory Window Selection
+3773	Pets can have up to 3 Inventory windows.\n- The Inventory window you started with when creating the pet\ncannot be removed.\n- Inventory windows containing items cannot be removed.\n- A pet's inventory window must be empty to set it to a sub-slot.
+3774	Selection Complete
+3775	Fynn Bead\nSkill Details
+3776	Fynni Pet
+3777	Fynn Bead Burnishing
+3778	Use W, A, S, and D to infuse the power of the Fynn.\nThe amount required for the infusion must be maintained until the Fynn Bead Burnishing is finished.
+3779	Time Remaining
+3780	Fynn Bead Burnishing
+3781	Place a Faded Fynn Bead to attempt burnishing.\nIf successful, you'll restore the Fynn Bead to a usable state.\nHowever, if you fail, the bead will be destroyed.
+3782	Attempt Burnishing
+3783	Close
+3784	Fynn Pet Element Change
+3785	The Fynni imbued in pets via Fynn Syncing manifest powers corresponding to one of the elements, with Uis being the Fynni with power over water.\nWhen the pet uses its normal attacks, it has a chance of performing an additional water-elemental area of effect attack.
+3786	Uis
+3787	The Fynni imbued in pets via Fynn Syncing manifest powers corresponding to one of the elements, with Sola being the Fynni with power over lightning.\nWhen the pet uses its normal attacks, it has a chance of performing an additional lightning-elemental attack, which can fork out to other enemies and damage them.
+3788	Sola
+3789	The Fynni imbued in pets via Fynn Syncing manifest powers corresponding to one of the elements, with Tein being the Fynni with power over fire.\nWhen the pet uses its normal attacks, it has a chance of performing an additional fire-elemental attack. An enemy struck by this attack will be set ablaze, taking damage over time for a set duration.
+3790	Tein
+3791	The Fynni imbued in pets via Fynn Syncing manifest powers corresponding to one of the elements, with Gao being the Fynni with power over wind.\nWhen the pet uses its normal attacks, it has a chance of performing an additional wind-elemental area of effect attack. An enemy struck by this attack will take damage over time for a set duration, also affecting other enemies who come close to it.
+3792	Gao
+3793	The Fynni imbued in pets via Fynn Syncing manifest powers corresponding to one of the elements, with Tala being the Fynni with power over earth.\nWhen the pet uses its normal attacks, it has a chance of performing an additional earth-elemental area of effect attack. An enemy struck by this attack will have their defenses reduced, taking more damage from attacks.
+3794	Tala
+3795	Select the element you wish to change.\n(Transformative Aster Perfume is required to change elemental attributes.)
+3796	Fynn Sync Success
+3797	Fynn Sync Success
+3798	Confirm
+3799	Select Sub-Pet
+3800	All
+3801	General
+3802	Fynn Pet
+3803	Fynni Pet
+3804	Up to 10 Fynni Pets can be selected at the same time. (Other types of pets cannot be selected.)
+3805	You can write pet memos here.
+3806	Selected Pets: 0 / 1
+3807	Selection Complete
+3808	Blossoming Cage
+3809	Place the Fynni Gem in the slot, then press the 'Start Blossoming' button. Fynni Gems that blossom will become whistles that can call forth Fynni Pets, with the time required dependent on the gem's grade.\nWhen summoning a Fynni Pet with a whistle, its level will be randomly determined based on the gem's grade.
+3810	Start Blossoming
+3811	Remove
+3812	Close
+3813	Fynn Sync
+3814	Sub
+3815	Click to\nselect a pet
+3816	Click here and perform a Fynn Sync to add an extra Fynn Bead slot.\nThe materials consumed will depend on the slot added.\n2nd Slot: 1 Courageous Borage Perfume\n3rd Slot: 1 Potent Courageous Borage Perfume
+3817	Fynn Bead
+3818	Click here to change the element of a pet after a Fynn Sync to one of your choice.\nOne Transformative Aster Perfume will be consumed and the elemental attribute rank will drop by 1.\n(The element of a pet attempting to Fynn Sync for the first time cannot be changed.)
+3819	Element
+3820	Click here and perform a Fynn Sync to add an extra Friend Summon slot.\nThe materials consumed will depend on the slot added.\n\n- 1st Slot: 1 Bonding Violet Perfume\n- 2nd Slot: 2 Bonding Violet Perfumes\n- 3rd Slot: 3 Bonding Violet Perfumes\n- 4th Slot: 5 Bonding Violet Perfumes\n- 5th Slot: 1 Potent Bonding Violet Perfume
+3821	Friend Summon
+3822	Main
+3823	Cumulative\nLevel
+3824	100000
+3825	100000
+3826	100000
+3827	100000
+3828	00 hr 00 min
+3829	00 hr 00 min
+3830	Replace
+3831	This Fynn Pet has reached the maximum number of Inventory windows.\nClick this button to select up to 3 Inventory windows you want to keep.
+3832	Specialty
+3833	Mastery
+3834	Element
+3835	Fynn Bead\nSlot
+3836	Friend Summon\nSlot
+3837	Start Fynn Sync
+3838	Fynn Sync has a 2% (5% if Grandmaster) chance of Great Success, which will grant 5 times the training EXP for Fynn Pet Mastery and element skills.
+3839	<color=2><outlinecolor=3>How to Fynn Sync</outlinecolor></color>\n<color=4>Click the <outlinecolor=3>sub-slot</outlinecolor></color> to choose a pet to become one with the summoned pet, then press the <color=4><outlinecolor=3>Start Fynn Sync</outlinecolor></color> button to begin the Fynn Syncing process.\n\n<color=5><outlinecolor=3>* Fynn Syncing Precautions *</outlinecolor></color>\nThe Inventory windows of pets you intend to set to sub-slots must be empty.\nPets set to sub-slots will disappear after the Fynn Sync is performed.\n\n\n<color=2><outlinecolor=3>Fynn Pets</outlinecolor></color>\nPets that have gained strength through Fynn Syncing are known as <color=4><outlinecolor=3>Fynn Pets</outlinecolor></color> and are granted the following effects.\n- <color=4><outlinecolor=3>Targets hit with normal attacks will not be knocked down,</outlinecolor></color>making a continuous chain of attacks possible, and <color=4><outlinecolor=3>elements</outlinecolor></color> that confer special bonus effects are made accessible for use.\n- The <color=4><outlinecolor=3>Fynn Pet Mastery</outlinecolor></color> skill, which increases damage, MAG ATK, etc, is enabled.\n- <color=4><outlinecolor=3>Fynn Bead Slots</outlinecolor></color> are unlocked, allowing you to place Fynn Beads into them.\n- The <color=4><outlinecolor=3>Friend Summon</outlinecolor></color> function is enabled, allowing you to temporarily summon another pet to receive summon skill effects. (<color=4><outlinecolor=3>Bonding Violet Perfume</outlinecolor></color> is required.)\n- The sub-pet's Inventory window and summon time are transferred, and up to 3 Inventory windows and a maximum of 23 hours of summon time are granted.\n(The increased summon time will be applied starting the following day.)\n\n\n<color=2><outlinecolor=3>Items Needed for Pin Syncing</outlinecolor></color>\n<color=4><outlinecolor=3>Harmonious Cosmos Perfume</outlinecolor></color>: Requires 1 for each pet registered to a sub-slot.\n<color=4><outlinecolor=3>	Transformative Aster Perfume</outlinecolor></color>: Required to change a Fynn Pet's elemental attribute.\n<color=4><outlinecolor=3>Courageous Borage Perfume</outlinecolor></color>: Required to unlock additional Fynn Bead skill slots. A (<color=4><outlinecolor=3>Potent Courageous Borage Perfume</outlinecolor></color> is required for the last slot.)\n<color=4><outlinecolor=3>Bonding Violet Perfume</outlinecolor></color>: Required to unlock additional Friend Summon slots. (<color=4><outlinecolor=3>Potent Bonding Violet Perfume</outlinecolor></color> is required for the last slot.)\n\n\n<color=2><outlinecolor=3>Fynn Pet Mastery and Elements</outlinecolor></color>\n<color=4><outlinecolor=3>Fynn Pet Mastery</outlinecolor></color>: Raises Fynn Pet stats that are useful in battle, such as damage and MAG ATK.\n<color=4><outlinecolor=3>Elemental Attributes</outlinecolor></color>: Aligning a Fynn Pet with one of five possible elemental attributes enables a special effect during normal attacks.\n\n<color=5><outlinecolor=3>* Training Method *</outlinecolor></color>\nFynn Pet Mastery and elemental attributes earn Training EXP through Fynn Sync.\nThe higher the cumulative level of the pet used as a sub, the more Training EXP will be earned.\n(Applied by up to a cumulative level of 200. Normal pets have a Training EXP increase 2 times higher than Fynni Pets.)
+3840	Absorbs the cumulative level of pets registered to the sub-slot.\n(Maximum of 10,000 per sub-pet.)
+3841	Absorbs the pet points of pets registered to the sub-slot.
+3842	Absorbs the summon time of pets registered to the sub-slot.\n(Maximum of 23 hours. The increased summon time will be applied starting the following day.)
+3843	If the pet registered to the sub-slot has an Inventory window, it will be transferred to the main pet.\nFynn Pets can have up to 3 Inventory windows.\nIf this process would cause a pet to exceed 3, press the 'Replace' button to select the Inventory windows you want to keep.
+3844	Perks can be randomly obtained upon performing a Fynn Sync.\nIf a sub-slot pet has a perk that the main pet doesn't, it will be transferred.
+3845	Once a pet becomes a Fynn Pet, it gains access to Fynn Pet Mastery, which increases its abilities.
+3846	Upon becoming a Fynn Pet, a pet will be aligned with 1 of 5 elemental attributes, gaining access to a unique skill corresponding to that element. This skill's effect may be activated during normal attacks.
+3847	The number of slots in which Fynn Beads can be set.\nIf you have a Courageous Borage Perfume in your possession, click on the Fynn Bead slot at the top of the Fynn Sync window to add extra slots.
+3848	The number of Friend Summon slots determines the number of other pets you can call while the pet is summoned.\nIf you have a Bonding Violet Perfume in your possession, click on the Friend Summon slot at the top of the fynn Sync window to add extra slots.
+3849	Fynn Sync Results
+3852	 Sort by Fynni Grade
+3853	A
+3854	B
+3855	C
+3856	D
+3857	E
+3890	나의 결과는?
+3891	최종 기록
+3892	경과 시간\n실패 횟수\n예상 등수
+3893	기록\n경신
+3894	확인
+3895	풍선터트리기
+3896	경과시간
+3897	성공횟수
+3898	실패횟수
+3899	Pet Trainer Update Event
+3900	Period: 7/16/2020 - 8/20/2020 before maintenance
+3901	Dice Battle
+3902	Bold Battling Dice
+3903	Roll the Dice
+3904	Earn rewards by rolling the dice in the Dice Battle, up to once per day!\nThe dice battle will not save if you close the window in the middle of it.
+3910	콘서트까지
+3934	환생과 함께 레벨업 안내
+3935	* 캐릭터 레벨이 2레벨 이상이면 <color=6>해당 레벨</color>업에 필요한 경험치가 지급됩니다.
+3936	Level UP!
+3938	챌린지 상품 추첨
+3939	챌린지 마스터
+3940	챌린지 특급
+3941	챌린지 베테랑
+3942	챌린지 초보
+3943	상품 추첨

@@ -1,0 +1,67 @@
+﻿0	Tutorial
+1	Event
+2	Repeat
+3	Basic
+4	Skill
+5	The Divine Knights
+6	Saga
+7	Shakespeare
+8	Alchemist
+9	Iria
+10	Advent of the Goddess
+11	Squires
+12	Field
+13	[Adventure]
+14	[Close Combat]
+15	[Magic]
+16	[Archery]
+17	[Mercantile]
+18	[Battle Alchemy]
+19	[Martial Arts]
+20	[Music]
+21	[Puppetry]
+22	[Lance]
+23	[Holy Arts]
+24	[Transmutation]
+25	[Cooking]
+26	[Smithing]
+27	[Tailoring]
+28	[Medicine]
+29	[Carpentry]
+30	[Gunslinger]
+31	[Ninja]
+32	[Merlin]
+33	[Starlet]
+34	[Professor J]
+35	[Culinary Artist]
+36	[Treasure Hunter]
+37	[Event]
+38	[Guide]
+39	[Normal]
+40	[Life]
+41	[Common]
+42	[Action]
+43	[Paladin]
+44	[Hidden Talent]
+45	[Contents]
+46	[Exploration]
+47	[Partner]
+48	[Guild]
+49	[Daily]
+50	[Party]
+51	[Tutorial]
+52	[Part-Time Job]
+53	[Return Incentive]
+54	Midsummer Mission
+55	[Daily]
+56	[Weekly]
+57	[Monthly]
+58	[Renown]
+59	Stamp Sprint
+60	[Chain Slash]
+61	Apocalypse
+62	Technique
+63	[Technique]
+64	[Spirit]
+65	[Challenge]
+66	[Pet Training]

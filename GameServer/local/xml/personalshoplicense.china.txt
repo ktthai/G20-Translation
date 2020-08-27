@@ -1,0 +1,15 @@
+﻿1	Tir Chonail
+2	Dunbarton
+3	Bangor
+4	Emain Macha
+5	Rano
+6	Connous
+7	Physis
+8	Tir Chonail
+9	Courcle
+10	Zardine
+11	Taillteann
+12	Tara
+13	Doki Doki Island
+14	Port Cobh
+15	Belvast

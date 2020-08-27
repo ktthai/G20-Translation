@@ -1,0 +1,24 @@
+﻿1	Hair-Do and I will go after the Hot-Air Balloon. You attack.
+2	I'll tell you when I see an enemy. Get the Ballista ready!
+3	Whatever you do, don't let our Hot-Air Balloon take too much damage.
+4	The Ballista takes time to reload. Make those shots count.
+5	There's a wyvern off the forward bow! Man the Ballista!
+6	Keep that Ballista primed! You'll have a better chance to hit.
+7	We've got a few Flints in case of emergency, but use them sparingly.
+8	They keep coming!
+9	Wyverns incoming!
+10	Where are they all coming from?!
+11	More incoming. Brace yourselves!
+12	More incoming. Brace yourselves!
+13	They've gotten above us! I can't see the other balloon.
+14	More wyverns coming at us. These might be tough...
+15	Take a break on that side. We're in the clear.
+16	Don't let your guard down!
+17	Look! It's the kidnapper's balloon! After them!
+18	Don't let the wyverns distract you. We have to take down that other balloon!
+19	More wyverns coming in hot!
+20	Argh, we have to faster or we'll lose them!
+21	We won't make it at this rate...
+22	Darn it. They're coming out of the woodworks.
+23	...I don't see the other balloon.
+24	I think we lost them.

@@ -1,0 +1,19 @@
+﻿0	Adventurer
+1	Warrior
+2	Mage
+3	Ranger
+4	Merchant
+5	Alchemist
+6	Adventurers can freely use most skills and equipment. They are versatile, a jack of all trades, but they have a difficult time specializing in any one thing.
+7	Warriors are proficient with most weapons. They run right into the heart of battle, since their skills are mostly close-ranged. Their thick metal armor protects them from the enemies' blows.
+8	Mages wield incredible magical powers and can even heal their teammates, but it is not easy for them to master their abilities. The path of a Mage requires patience and determination.
+9	Rangers are agile and light on their feet, masters of bows and arrows. They keep their distance from enemies, supporting their allies with ceaseless long-ranged attacks.
+10	Merchants are schooled in the arts of business and trade. They are able to craft various medicines, weapons, and tools. They're weak in combat but can gain EXP through selling goods.
+11	Alchemists have spent years studying how to change the properties of different substances. They reap the benefits of their study by being able to perform powerful attacks using cylinders and crystals right from the start.
+12	Merchants can craft various outfits, weapons, and tools.\nThey aren't the strongest in battle, but they can gain EXP through Collection, Production, and Commerce.
+14	Fighters unleash an endless barrage of attacks on enemies with knuckle weapons. They excel at one-on-one battles, keeping their foes off-balance as they deal large amounts of damage.
+16	Fighter
+17	Bard
+18	Bards play music to sway the tide of battle and use their instruments as deadly weapons.
+20	Puppeteers control a Marionette to fight for them, keeping themselves and their allies safe.
+22	Puppeteer

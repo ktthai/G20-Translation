@@ -1,0 +1,227 @@
+﻿0	Emblem Outline
+1	Emblem Mark
+2	Stripes
+3	Hexagon
+4	Reverse Triangle
+5	Round Shield
+6	Circular
+7	Cross
+8	Square
+9	Rings
+10	Venn Diagram
+11	Sprout
+12	Striped Tail Snake
+13	Kite Shield
+14	Laurel
+15	Violet
+16	Crystal
+17	Night Sky
+18	Cruciate Flower
+19	Celtic Mark
+20	Seed
+21	Arrowtip
+22	Double Cross
+23	Pillar
+24	Intersection
+25	Window Frame
+26	Symbol of Amity
+27	Checkered
+28	Knitted
+29	Celtic Knot
+30	Twisted Knot
+31	Twisted Lines
+32	Sprout
+33	Twisted Scrub
+34	Circular Mirror
+35	Fruit
+36	Four Slices
+37	Transparent
+38	Two-handed Sword
+39	Double Sword
+40	Crossbow
+41	Blunt Weapon
+42	Circular Armor
+43	Bow
+44	Armor
+45	Laurel Shield
+46	Goddess Statue
+47	Pickaxe
+48	Sickle and Hoe
+49	Needle
+50	Herb
+51	Baker's Hat
+52	Hammer and Anvil
+53	Bonfire
+54	Lute
+55	Broom
+56	Drums
+57	Emotion
+58	Feathered Hat
+59	Colleague
+60	Tree
+61	Tiger
+62	Dragon
+63	Snake
+64	Fish
+65	Unicorn
+66	Spider
+67	Owl
+68	Black Leopard
+69	Imp
+70	Mugwort
+71	Wild Flower
+72	Rose
+73	Tropical Fruit
+74	Berry
+75	Sugar Tree Fruit
+76	Lily Cross
+77	Sharp Cross
+78	Infinity
+79	Cross Anchor
+80	Triangular Wire
+81	Ring Cross
+82	Eye of Fomor
+83	Piece of Crystal
+84	Wing
+85	Water Bottle
+86	Moon
+87	Thunder
+88	Transparent
+89	Crossing
+90	Leaf
+91	Tornado
+92	Wave
+93	Pinwheel
+94	Thin Chain
+95	Knot
+96	Celtic Mark
+97	Wheel
+98	Cross
+99	Tree Trunk
+100	Lizard
+101	Barbed wire
+102	Blank Pattern
+103	Robe Badge Color
+104	Emblem Outline Color
+105	Emblem Mark Color
+106	Stripe Color
+107	Blonde
+108	Silver Blonde
+109	Orange
+110	Light Brown
+111	Briquet
+112	Khaki Gray
+113	Dark Khaki
+114	Cadet Blue
+115	Light Sky Blue
+116	Deep Sky Blue
+117	Dodger Blue
+118	Medium Violet Red
+119	Crimson
+120	Deep Violet Red
+121	Dark Violet Red
+122	Distle
+123	Dim Gray
+124	White
+125	Black
+126	Dark Slate Blue
+127	Light Violet
+128	Medium Orchard
+129	Plum
+130	Violet
+131	Slate Gray
+132	Dark Sea Green
+133	Medium Aqua Green
+134	Sea Green
+135	Lime Green
+136	Light Green
+137	Blonde
+138	Silver Blonde
+139	Orange
+140	Light Brown
+141	Briquet
+142	Khaki Gray
+143	Dark Khaki
+144	Cadet Blue
+145	Light Sky Blue
+146	Deep Sky Blue
+147	Dodger Blue
+148	Medium Violet Red
+149	Crimson
+150	Deep Violet Red
+151	Dark Violet Red
+152	Distle
+153	Dim Gray
+154	White
+155	Black
+156	Dark Slate Blue
+157	Light Violet
+158	Medium Orchard
+159	Plum
+160	Violet
+161	Slate Gray
+162	Dark Sea Green
+163	Medium Aqua Green
+164	Sea Green
+165	Lime Green
+166	Light Green
+167	Blonde
+168	Silver Blonde
+169	Orange
+170	Light Brown
+171	Briquet
+172	Khaki Gray
+173	Dark Khaki
+174	Cadet Blue
+175	Light Sky Blue
+176	Deep Sky Blue
+177	Dodger Blue
+178	Medium Violet Red
+179	Crimson
+180	Deep Violet Red
+181	Dark Violet Red
+182	Distle
+183	Dim Gray
+184	White
+185	Black
+186	Dark Slate Blue
+187	Light Violet
+188	Medium Orchard
+189	Plum
+190	Violet
+191	Slate Gray
+192	Dark Sea Green
+193	Medium Aqua Green
+194	Sea Green
+195	Lime Green
+196	Light Green
+197	Blonde
+198	Silver Blonde
+199	Orange
+200	Light Brown
+201	Briquet
+202	Khaki Gray
+203	Dark Khaki
+204	Cadet Blue
+205	Light Sky Blue
+206	Deep Sky Blue
+207	Dodger Blue
+208	Medium Violet Red
+209	Crimson
+210	Deep Violet Red
+211	Dark Violet Red
+212	Distle
+213	Dim Gray
+214	White
+215	Black
+216	Dark Slate Blue
+217	Light Violet
+218	Medium Orchard
+219	Plum
+220	Violet
+221	Slate Gray
+222	Dark Sea Green
+223	Medium Aqua Green
+224	Sea Green
+225	Lime Green
+226	Light Green

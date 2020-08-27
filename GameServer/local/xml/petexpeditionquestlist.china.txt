@@ -1,0 +1,474 @@
+﻿0	Uladh Dungeon Expedition
+1	Uladh Dungeon (Basic)
+2	Uladh Dungeon (Intermediate)
+3	Uladh Dungeon (Advanced)
+4	Uladh Dungeon (Veteran)
+5	Can You Hear Me?
+6	Abyss Sephirot
+7	Abyss Duke
+8	Where is the Phantasm?
+9	Alby Hard Training
+10	Ciar Golem Breaker
+11	Like Rundal, Except Not
+12	Kitchen Dungeon? Dinner Party?!
+13	Archaeologists Dig Ruins!
+14	Castle Dungeon Infiltration
+15	Taillteann Shadow Mission Intro
+16	Between Taillteann's Intro and Advanced Levels
+17	Taillteann Advanced Mission
+18	Entering Taillteann Hard Mode!
+19	Taillteann Elite Course
+20	Tara Shadow Mission Intro
+21	Between Tara's Intro and Advanced Levels
+22	Tara Advanced Mission
+23	Entering Tara Hard Mode!
+24	Tara Elite Course
+25	Somebody Help Me!
+26	Secret in the Cave
+27	Right Back at Ya!
+28	Little More than an Illusion
+29	As Simple as Slime
+30	A True Foodie
+31	My Eyes Didn't Deceive Me
+32	The Slimes Weren't the Problem
+33	Super Tasty
+34	Balor's Big-time Bravado!
+35	Feth Addict
+36	Demon of the Depths
+37	Kicking Butt from Hillwen to Shyllien
+38	There's Always a Demand
+39	The Basics of Credit
+40	No Questions Asked
+41	A Local Institution
+42	To the Victor, the Spoils
+43	A Full Bag
+44	Play it Loud!
+45	Feeding the Soul
+46	Dig In Harder!
+47	The Monkey's Friend
+48	Feeding the Body
+49	Early Morning Delivery
+50	Exploring Uladh
+51	Exploring an Island Beyond the Sea
+52	Exploring an Expansive Continent
+53	An Easy Sketch
+54	Relic Hunting with Pinky
+55	Miraculous Tory Springwater
+56	Lethal Alligator Leather
+57	Lucky Charm: Rabbit's Foot
+58	Tastes Like Purple
+59	Seeking Substitute Sheep Herder
+60	Elf Wanted
+61	Adniel's Small Shooting Egg
+62	Please Excuse My Tardiness
+63	Super Pet Model Survival
+64	Daily Erinn Workshop Experience
+65	Silver, Gold, Copper, and Iron
+66	DIY Clothing
+67	Glewyas's Cooking Class
+68	Time After Time
+69	Dig, Dig, and Dig Again
+70	In Search of Jewels 1: The Beach
+71	In Search of Jewels 2: The River
+72	In Search of Jewels 3: The Tory Ravine
+73	Seeking Materials in Erinn
+74	Uladh Dungeon (Veteran)
+75	Abyss Sephirot
+76	Abyss Duke
+77	Where is the Phantasm?
+78	Alby Hard Training
+79	Ciar Golem Breaker
+80	Like Rundal, Except Not
+81	Somebody Help Me!
+82	Secret in the Cave
+83	Right Back at Ya!
+84	Little More than an Illusion
+85	As Simple as Slime
+86	A True Foodie
+87	My Eyes Didn't Deceive Me
+88	The Slimes Weren't the Problem
+89	Super Tasty
+90	Balor's Big-time Bravado!
+91	Feth Addict
+92	Demon of the Depths
+93	There's Always a Demand
+94	The Basics of Credit
+95	No Questions Asked
+96	A Local Institution
+97	To the Victor, the Spoils
+98	A Full Bag
+99	Play it Loud!
+100	In Search of Jewels 1: The Beach
+101	In Search of Jewels 2: The River
+102	In Search of Jewels 3: The Tory Ravine
+103	All Milletians get their start in the Alby Dungeon. Everyone has to learn to walk before they can run, just like Master!
+104	When you've learned to walk, it's time to work your way up to running! Give the Uladh Basic Dungeon a go!
+105	Apparently, Master is starting to outgrow the Uladh Intermediate Dungeons. Could we be outgrowing them too?
+106	Does experience really start to count once you get to the Uladh Advanced Dungeons?\nLuckily, we've got no shortage of that!
+107	Going from Basic to Advanced was just a warm-up. We may not be Milletians,\nbut we're the PETS of a Milletian! Let's take this expedition to the limit!
+108	Apparently, a mysterious music can be heard in the Math Dungeon. Maybe our sensitive ears can pick up on it.
+109	A handsome, long-haired man was rumored to have been seen in the Abyss Coill Dungeon...\nUnfortunately, it turns out it was just a Sephirot Tree!
+110	The Abyss Duke? It sounds like the kind of strange name Milletians seem to be keen on.\nWait... Did that coffin just move?
+111	Master must have finally lost it after seeing all those Succubi.\nAre we really supposed to deal with the Succubus Queen?
+112	This training is going to be tough in more ways than one. But...how hard could Alby's Hard Mode be, anyway?
+113	Finished blasting through all the golems? Then there's just one more thing\nleft to do! Let's get ready to rumble in Ciar Hard Mode!
+114	Rundal Hard Mode is nothing like Rundal, and the Pet Expedition is ready to dive right in!
+115	It sounds like a place where you eagerly feast while trying to guess the ingredients of each dish. But...is it really like that?
+116	The Longa Desert Ruins and its bounty of Berries and Coconuts might just be the perfect place for people on a diet.
+117	Is there anything as thrilling as sneaking into an old castle dungeon? You've really gotta try your best not to get caught!
+118	Why does Master keep chuckling to themselves? No matter, it's time to go on a Taillteann Shadow Mission!
+119	Some think a pet's talent has nothing to do with its strength, but is that really true?\nEither way, it's time to try an Intermediate Taillteann Shadow Mission.
+120	You've obtained the Earth, Fire, Wind, and now the Water Crystal. Will the Heart Crystal be next?
+121	You need deep inner strength to take something hard and make it soft!\nGo on the Hard Mission in search of the elusive Heart Crystal.
+122	It looks like this place is totally unrelated to the Elite Course that Master is thinking of, so just go on and hand over that entry pass.
+123	It feels like it takes even longer to shake the trees to get Arat Berries than it does to deal with the Fomors of the Shadow Realm.
+124	Overindulging in Arat Berries made you nauseous, but it's time to attempt the Intermediate Tara Shadow Mission.
+125	Get it together! This dizziness is just from eating too many Arat Berries. The Advanced Tara Shadow Mission is up next.
+126	The Milletian and their pets have finally overcome their nausea from the Arat Berries.\nTime to go even harder in the Tara Shadow Realm!
+127	Will getting through Tara Royal Castle's Elite Course make you a true-blue elite? Clear it to find out!
+128	Master, the Belvast hostages keep saying things hostages probably shouldn't say. Do we still have to rescue them?
+129	There's a witch in a cave who mesmerizes people, then gobbles them up. Could the beautiful Scathach actually be that witch?
+130	We were the ones who got bounced off the spider's leg, and it most definitely was not fine.\nHurry and guard the wagon! Gather the convoy escort!
+131	What could be so tough about an illusion?\nWhat do you think, Master? ...Master?
+132	Master, the Slimes of the Feth Fiada aren't like the jiggly monsters we're used to. They can't be beaten up with a simple kick.
+133	Giant Squids don't make for very good calamari...\nKrakens might be similar, but do they TASTE just as bad?
+134	Please, do you have to keep sending us to face the revived illusion? M-Master? Where did you go?
+135	The Slime was the weakest one of them all.\nAn even stronger foe is waiting. Are we going to be all right?
+136	Unlike the Giant Squid, the Kraken was pretty tasty.\nDefinitely worth risking life and limb to go up against the Awakened Abyssal Lord for.
+137	Balor's illusions of grandeur? More like an Illusion of Balor.. The Revived Illusion of Balor could probably punch a hole in a mountain...
+138	That nervous twitching is just our excitement to leap into the unknown.\nIt's time to challenge the Feth Fiada!
+139	The Awakened Abyssal Lord is cranky from a lack of sleep. This doesn't bode well...
+140	Marking monsters up close will help in gathering ore and contribute to scholarly research!
+141	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+142	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+143	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+144	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+145	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+146	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+147	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+148	Go to the Arpeggio Concert Hall to nourish your creative impulses with something besides books.\nNow, what time does the performance start?
+149	In the space between life and death, taking one more step forward is the difference between life and...a high score.\nThrow Nyan Punches to your heart's content in Clobbermeister.
+150	They say you can make friends with the hot spring monkeys by offering them tasty treats. What kinds of foods do monkeys like, anyway?
+151	From fresh milk straight from the source to gourmet Kraken calamari...\nExperience the delicacies of Erinn with Pet Expeditions!
+152	There's supposedly a secret shop that's run on the down-low. Let's keep shipping these gifts to help Master get access!
+153	From Tir Chonaill to Tara, venture through the highways and byways of the Uladh continent.
+154	Things have stabilized within the city of Belvast, but danger still lurks beyond its walls. Apparently there's a witch living in a cave by the beach?
+155	Walk, walk, and walk some more through an endless stretch of forests, deserts, and snowfields.\nIt's not against the rules to just fly instead, right?
+156	Sketch special relics and rare animals.\nCome rain or shine, the flames of artistic passion can never be extinguished!
+157	(The muddled footprints everywhere make it difficult to see the details, but\nit definitely seems like a suggestion from Pinky to go relic hunting together.)
+158	Drinking the liquid of the Cravans that live in the Decaying Swamp can help fix broken scooters, or so they say. All hail Aton Cimeni!
+159	Curious alligators lurk in the swamps of the Tory Ravine. Their spines are poisonous, so um...watch out for that.
+160	Collect charms made from the front left feet of mutant rabbits hunted down using Suntouched Mana Bullets when Ladeca is in the Alban Elved night sky.
+161	Carefully collect the mucilage of the Mutant Carnivorous Plants in Zone 1 of the Shyllien Nature Reserve's outskirts.
+162	A boy from Tir Chonaill whose heart's desire is to loaf around and do nothing all day is asking for help.
+163	Escort the missing Elf through the vast desert and back to the village. Captain Maike will be so proud!
+164	Guard Adniel's egg from the enemies swarming in from all directions.
+165	Participate in the blessing of Cairbre by playing instruments and breaking out all your dance moves to keep the festivities going!
+166	"Desperately seeking a chic pet to become the new face of high-fashion trends in Tara." - Hans
+167	Help Edern and Tracy with their tasks and bring all the leftover materials back to Master.
+168	Are you refining gold plates or silver plates? Ah, I see. You're refining ALL the plates!
+169	If Master's too cheap to buy good clothes, we'll just make them ourselves!\nGather all the leftover materials from making clothes and return them to Master!
+170	Take a cooking class from Glewyas, the best chef in the kingdom.\nThere might be a few dexterity issues to overcome, but keep at it and you'll become a gourmet foodie in no time.
+171	If you're looking to land a big catch, go either freshwater, ocean, or ice fishing! No one will notice if you eat a few as a snack.
+172	Mine the mineral vein you discovered while exploring the abandoned mines to gather a variety of minerals.
+173	Look closely at the light glittering off the beach.\nMaster will surely be delighted by these pretty little pebbles!
+174	Look closely at the light glittering off the Erkey Falls.\nMaster will surely be delighted by these pretty little pebbles!
+175	Look closely at the light glittering off the Blackstone Beach.\nMaster will surely be delighted by these pretty little pebbles!
+176	Gather a wide variety of materials that can be found throughout Erinn. Who knows, maybe some of it will be valuable!
+177	Going from Basic to Advanced was just a warm-up. We may not be Milletians,\nbut we're the PETS of a Milletian! Let's take this expedition to the limit!
+178	A handsome, long-haired man was rumored to have been seen in the Abyss Coill Dungeon...\nUnfortunately, it turns out it was just a Sephirot Tree!
+179	The Abyss Duke? It sounds like the kind of strange name Milletians seem to be keen on.\nWait... Did that coffin just move?
+180	Master must have finally lost it after seeing all those Succubi.\nAre we really supposed to deal with the Succubus Queen?
+181	This training is going to be tough in more ways than one. But...how hard could Alby's Hard Mode be, anyway?
+182	Finished blasting through all the golems? Then there's only more thing left to do!\nLet's get ready to rumble in Ciar Hard Mode!
+183	Rundal Hard Mode is nothing like Rundal, and the Pet Expedition is ready to dive right in!
+184	Master, the Belvast hostages keep saying things hostages probably shouldn't say. Do we still have to rescue them?
+185	There's a witch in a cave who mesmerizes people, then gobbles them up. Could the beautiful Scathach actually be that witch?
+186	We were the ones who got bounced off the spider's leg, and it most definitely was not fine.\nHurry and guard the wagon! Gather the convoy escort!
+187	What could be so tough about an illusion?\nWhat do you think, Master? ...Master?
+188	Master, the Slimes of the Feth Fiada aren't like the jiggly monsters we're used to. They can't be beaten up with a simple kick.
+189	Giant Squids don't make for very good calamari...\nKrakens might be similar, but do they TASTE just as bad?
+190	Please, do you have to keep sending us to face the revived illusion? M-Master? Where did you go?
+191	The Slime was the weakest one of them all.\nAn even stronger foe is waiting. Are we going to be all right?
+192	Unlike the Giant Squid, the Kraken was pretty tasty.\nDefinitely worth risking life and limb to go up against the Awakened Abyssal Lord for.
+193	Balor's illusions of grandeur? More like an Illusion of Balor.. The Revived Illusion of Balor could probably punch a hole in a mountain...
+194	That nervous twitching is just our excitement to leap into the unknown.\nIt's time to challenge the Feth Fiada!
+195	The Awakened Abyssal Lord is cranky from a lack of sleep. This doesn't bode well...
+196	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+197	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+198	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+199	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+200	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+201	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+202	You agree to deliver a shipment of goods for the Trading Post.\nReceive the items from nearby Trading Posts and transport them carefully.
+203	Look closely at the light glittering off the beach.\nMaster will surely be delighted by these pretty little pebbles!
+204	Look closely at the light glittering off the Erkey Falls.\nMaster will surely be delighted by these pretty little pebbles!
+205	Look closely at the light glittering off the Blackstone Beach.\nMaster will surely be delighted by these pretty little pebbles!
+206	Uladh (Regular) reward x1
+207	Uladh (Basic) reward x1
+208	Uladh (Intermediate) reward x1
+209	Uladh (Advanced) reward x1
+210	Uladh (Veteran) reward x1
+211	Musical Math Dungeon reward x1
+212	Abyss Coill reward x1
+213	Abyss Peaca reward x1
+214	Rabbie Phantasm reward x1
+215	Alby Hard Mode reward x1
+216	Ciar Hard Mode reward x1
+217	Rundal Hard Mode reward x1
+218	Royal Cuisine Invoice x1
+219	Ruins Dungeon reward x1
+220	Castle Dungeon reward x1
+221	Big Gold Pouch (30,000 Gold)
+222	Taillteann Shadow Mission (Intermediate) reward x1
+223	Taillteann Shadow Mission (Advanced) reward x1
+224	Taillteann Shadow Mission (Hard) reward x1
+225	Taillteann Shadow Mission (Elite) reward x1
+226	Big Gold Pouch (30,000 Gold)
+227	Tara Shadow Mission (Intermediate) reward x1
+228	Tara Shadow Mission (Advanced) reward x1
+229	Tara Shadow Mission (Hard) reward x1
+230	Tara Shadow Mission (Elite) reward x1
+231	Belvast Hostage Rescue reward x1
+232	Secret of Scathach Caverns Mission reward x1
+233	Abb Neagh Convoy Escort Mission reward x1
+234	Revived Illusion (Normal) reward x1
+235	Feth Fiada (Normal) reward x1
+236	Awakened Abyssal Lord (Normal) reward x1
+237	Revived Illusion (Hard) reward x1
+238	Feth Fiada (Hard) reward x1
+239	Awakened Abyssal Lord (Hard) reward x1
+240	Revived Illusion (Very Hard) reward x1
+241	Feth Fiada (Very Hard) reward x1
+242	Awakened Abyssal Lord (Very Hard) reward x1
+243	Hillwen Mine, Shyllien Nature Reserve monster drop x1
+244	1,600 Ducats
+245	3,200 Ducats
+246	4,800 Ducats
+247	6,400 Ducats
+248	7,900 Ducats
+249	9,500 Ducats
+250	11,200 Ducats
+251	Performance Appreciation Gift x1
+252	Festia Commemorative Gift Box x1
+253	Hot Spring Monkey's Gift x1
+254	Delicious Meals x3
+255	Secret Shop Ticket Piece x1
+256	Special Artifact (10%) x1
+257	Special Artifact (10%) x1
+258	Special Artifact (10%) x1
+259	Special Artifact (10%) x1
+260	Special Artifact (10%) x1
+261	Cravan Liquid x1\nComprehensive Recovery 500 Potion x1
+262	Comprehensive Recovery 500 Potion x1
+263	Mutant Rabbit Feet x10\nComprehensive Recovery 500 Potion x1
+264	Mutant Plant Mucilages x10\nComprehensive Recovery 500 Potion x1
+265	Wool x10
+266	Special Artifact (10%) x1
+267	Big Gold Pouch (30,000 Gold)
+268	Appreciation Gift for keeping the good times rolling x1
+269	Big Gold Pouch (10,000 Gold)
+270	Blacksmithing, Carpentry material x1
+271	Refining-related item x1
+272	Tailoring material x1
+273	Cooking ingredients x3
+274	Fished-out items x3
+275	Mining collectible item x1
+276	Metallurgy collectible item x1
+277	Metallurgy collectible item x1
+278	Metallurgy collectible item x1
+279	Collectible item obtained through Gathering x1
+280	Uladh Dungeon (Veteran) reward x1\nPet Essential Oil x1
+281	Abyss Coill Dungeon reward x1\nPet Essential Oil x1
+282	Abyss Peaca Dungeon reward x1\nPet Essential Oil x1
+283	Rabbie Phantasm Dungeon reward x1\nPet Essential Oil x1
+284	Alby Hard Mode reward x1\nPet Essential Oil x1
+285	Ciar Hard Mode reward x1\nPet Essential Oil x1
+286	Rundal Hard Mode reward x1\nPet Essential Oil x1
+287	Belvast Hostage Rescue Mission reward x1\nPet Essential Oil x1
+288	Secret of Scathach Caverns Mission reward x1\nPet Essential Oil x1
+289	Abb Neagh Convoy Escort Mission reward x1\nPet Essential Oil x1
+290	Revived Illusion (Normal) reward x1\nPet Essential Oil x1
+291	Feth Fiada (Normal) reward x1\nPet Essential Oil x1
+292	Awakened Abyssal Lord (Normal) reward x1\nPet Essential Oil x1
+293	Revived Illusion (Hard) reward x1\nPet Essential Oil x1
+294	Feth Fiada (Hard) reward x1\nPet Essential Oil x1
+295	Awakened Abyssal Lord (Hard) reward x1\nPet Essential Oil x1
+296	Revived Illusion (Very Hard) reward x1\nPet Essential Oil x1
+297	Feth Fiada (Very Hard) reward x1\nPet Essential Oil x1
+298	Awakened Abyssal Lord (Very Hard) reward x1\nPet Essential Oil x1
+299	7,100 Ducats\nPet Essential Oil x1
+300	14,200 Ducats\nPet Essential Oil x1
+301	21,300 Ducats\nPet Essential Oil x1
+302	28,400 Ducats\nPet Essential Oil x1
+303	35,500 Ducats\nPet Essential Oil x1
+304	42,600 Ducats\nPet Essential Oil x1
+305	49,700 Ducats\nPet Essential Oil x1
+306	Star Sapphire 3cm\nAquamarine 3cm\nJasper 3cm\nRuby 3cm\nDiamond 1cm\nPet Essential Oil x1
+307	Topaz 3cm\nEmerald 3cm\nGarnet 3cm\nSpinel 3cm\nDiamond 1cm\nPet Essential Oil x1
+308	Spirit's Preferred Gem x1\nPet Essential Oil x1
+309	Erinn Environmentalism
+310	This Challenge is Mine!
+311	The Sea is Calling
+312	The Culinary Artist's Late Night Snacktime
+313	Erinn Soul Food
+314	Armed with Cuteness!
+315	A Nightmarish Task
+316	Season of Mushrooms
+317	Master of the Elements
+318	Music Hall Part-timers
+319	Beats for the Bouncers
+320	Wear and Tear
+321	Oops! My Hand Slipped
+322	Pretty Li'l Bouquet
+323	Cor to Explore
+324	Crooked Are the Far Darrigs!
+325	Help! Help Cat!
+326	The Hot Spring
+327	Table Manners are Hard
+328	Dungeon-bound
+329	A Big Fish Story
+330	Mascot of the Pontiff's Court
+331	Tea Time Escort
+332	Maiz Prairie Trip
+333	The Shadow Grows
+334	Cleaning the Moon Stone Mess
+335	Surprise Ruin Exploration?!
+336	I might find some useful materials if I volunteer to clean the city streets.\nThe townsfolk will be pleased, too, and might reward me with some snacks!
+337	When I mine for ore, I always get piles of weird-looking pebbles.\nI wonder what use my master has for those, anyway...
+338	Let's catch some wiggly, floppy fish!\nOh, the excitement when you catch a big fish is the best! The thrill! The cheers! Wheeee!
+339	I have a chance to taste some new dishes from the Culinary Artist, Erinn's master chef!\nIt's a real treat to have the chance to eat such delicious food!
+340	"Hello, my sweets! The king potatoes from Alban Eiler are the most delicious of all!\nDo your masters have these? I'd be glad to share some if you come and help out at my shop." - Glenis
+341	Let's stare at the shop owners with big, whimpering eyes.\nSuch brute force cuteness can't be defended against, so I'm sure we can get some snacks!
+342	I hear Lorraine suffers from nightmares every night... *whimpers* \nI hear a horde of scary things appear in her dreams! Master, that sounds s-scary...
+343	Let's gather the mushrooms growing all over the forest.\nPets with night vision or a good sense of smell would probably be best!
+344	The Dunbarton Magic School has requested that we gather some elementals.\nLet's pay our sprite friends on Ceo Island a visit!
+345	"Come and gather, all you adorable little friends! Embark on a snack shop business with Uncle Rubato! Shake it, shake it wherever you are! It's okay to surrender to the rhythm!" - Rubato
+346	Everyone loves a bouncing melody that lingers in your ears and reaches right down to your toes!\nLet's enjoy a great performance while we keep order in the Arpeggio Concert Hall.
+347	"Seeking a volunteer to test clothes made from a new fabric that'll never rip or tear, no matter what you put 'em through!\nI'll reward you with the leftover materials, so come help me!" - Ailionoa
+348	They're recruiting a safety aide for a hands-on class designed for young children interested in blacksmithing.\nW-wait a minute... It says this request comes from...Tir Chonaill?
+349	The old grandpa at Port Cobh is asking for some materials he can use to create a pretty bouquet.\nHe claims his sister used to love them as a child. But...what is he going to DO with it?
+350	People like master flashed in and out picking up something. I wonder\nwhat we'd find if we gave the place a good search? *sniff* *sniff*
+351	There's a whole bunch of squishy, slimy friends that say 'Far-dar' on some strange looking island!\nWe promised to play Hide-and-Seek, catch wiggly little insects, and sketch each other!
+352	A little black cat offered a handmade snack we could eat together.\nHmm... The cat said a lady with a beautiful voice was giving out snacks. I wonder what she needs help with.
+353	Sometimes, you just need to dip yourself in the Hot Springs and relax.\nYou might make friends with the Hot Spring Monkeys if you make conversation with them.
+354	*sob* A giant spoon scolded me 'cause I blew on the soup...!\nLook! An Incubus is watching us from behind, as if we're a bunch of morons! It's not fair!
+355	Is this the Uladh Dungeon? The place where master first saw a giant spider?\nWe ought to be careful while we're out on this expedition.
+356	We've spotted a huge, scary-looking fish.\nDo you think we can catch it? It had razor-sharp teeth!
+357	I've been tasked with guarding the offering box at the Tara Pontiff's Court from any would-be thieves.\nI heard a scary-looking old grandpa comes from time to time, and he likes giving out snacks!
+358	I've been chosen to be a security guard for a Tara Noble Family's daily tea time. *sniff* Wait a minute!\nI could swear I smelled gunpowder on that glittering person... Is it just my nose playing tricks on me?
+359	I came across an adventurer and a gorilla while crossing the vast Maiz Prairie.\nWe played together and made a campfire. They even gave me some snacks! What a nice pair!
+360	This place is a bit dark and somber. Where is this, anyway?\nI remember being on top of some altar while master glanced at me with a smile. The next thing I know, I'm here!
+361	Let's clean up the moon stone debris littering the ground in the Tory Ravine.\nBe careful of the scary looking trees, crocodiles, and horses!
+362	Who knew I'd find a place like this inside a little crevice I dug myself into while trying to avoid a sudden rainstorm?\nHow mysterious! Let's see where it leads! There are so many things I've never seen before!
+363	Gathering collectible item x1
+364	Mining collectible item x1
+365	Fished-out items x3
+366	Cooking ingredients x3
+367	Giant Potato x1\nPotato x10
+368	Secret Shop Ticket Piece x1
+369	Festia Commemorative Gift Box x1
+370	Hazelnut Mushroom x10\nLight Brown Pine Mushroom x10\nGold Mushroom x1
+371	Fire Elemental x1\nIce Elemental x1\nLightning Elemental x1
+372	Arpeggio Hall Souvenir x1
+373	Performance Appreciation Gift x1
+374	Fine Fabric x5\nFinest Fabric x3
+375	Refining-related item x1
+376	Wood Board x3
+377	Special Artifact (10%) x1
+378	Special Artifact (10%) x1
+379	Delicious Meal x3
+380	Hot Spring Monkey's Gift x1
+381	Castle Dungeon reward x1
+382	Uladh (Regular) reward x1
+383	Carnivorous Fish x1
+384	Holy Flame x1
+385	Homestead Chamomile Seed x3
+386	Special Artifact (10%) x1
+387	Big Gold Pouch (30,000 Gold)
+388	Comprehensive Recovery 500 Potion x1
+389	Ruins Dungeon reward x1
+390	울라 던전 원정대
+391	울라 던전 하급편
+392	울라 던전 중급편
+393	울라 던전 상급편
+394	발로르는 허세가 아냐!
+395	페스 말고 패스
+396	바다의 악마
+397	누구나 쉽게 내 옷 만들기, D.I.Y
+398	던전으로의 첫걸음
+399	발로르는 허세가 아냐!
+400	Feth Addict
+401	Demon of the Depths
+402	All Milletians get their start in the Alby Dungeon. Everyone has to learn to walk before they can run, just like Master!
+403	When you've learned to walk, it's time to work your way up to running! Give the Uladh Basic Dungeon a go!
+404	Apparently, Master is starting to outgrow the Uladh Intermediate Dungeons. Could we be outgrowing them too?
+405	Does experience really start to count once you get to the Uladh Advanced Dungeons?\nLuckily, we've got no shortage of that!
+406	Balor's illusions of grandeur? More like an Illusion of Balor.. The Revived Illusion of Balor could probably punch a hole in a mountain...
+407	That nervous twitching is just our excitement to leap into the unknown.\nIt's time to challenge the Feth Fiada!
+408	The Awakened Abyssal Lord is cranky from a lack of sleep. This doesn't bode well...
+409	If Master's too cheap to buy good clothes, we'll just make them ourselves!\nGather all the leftover materials from making clothes and return them to Master!
+410	Is this the Uladh Dungeon? The place where master first saw a giant spider?\nWe ought to be careful while we're out on this expedition.
+411	Balor's illusions of grandeur? More like an Illusion of Balor.. The Revived Illusion of Balor could probably punch a hole in a mountain...
+412	That nervous twitching is just our excitement to leap into the unknown.\nIt's time to challenge the Feth Fiada!
+413	The Awakened Abyssal Lord is cranky from a lack of sleep. This doesn't bode well...
+414	Uladh (Regular) reward x1
+415	Uladh (Basic) reward x1
+416	Uladh (Intermediate) reward x1
+417	Uladh (Advanced) reward x1
+418	Revived Illusion (Very Hard) reward x1
+419	Feth Fiada (Very Hard) reward x1
+420	Awakened Abyssal Lord (Very Hard) reward x1
+421	Tailoring material x1
+422	Uladh (Regular) reward x1
+423	Revived Illusion (Very Hard) reward x1\nPet Essential Oil x1
+424	Feth Fiada (Very Hard) reward x1\nPet Essential Oil x1
+425	Awakened Abyssal Lord (Very Hard) reward x1\nPet Essential Oil x1
+426	Uladh Dungeon Expedition
+427	Uladh Dungeon (Basic)
+428	Uladh Dungeon (Intermediate)
+429	Uladh Dungeon (Advanced)
+430	Balor's Big-time Bravado!
+431	Feth Addict
+432	Demon of the Depths
+433	DIY Clothing
+434	Dungeon-bound
+435	Balor's Big-time Bravado!
+436	Feth Addict
+437	Demon of the Depths
+438	All Milletians get their start in the Alby Dungeon. Everyone has to learn to walk before they can run, just like Master!
+439	When you've learned to walk, it's time to work your way up to running! Give the Uladh Basic Dungeon a go!
+440	Apparently, Master is starting to outgrow the Uladh Intermediate Dungeons. Could we be outgrowing them too?
+441	Does experience really start to count once you get to the Uladh Advanced Dungeons?\nLuckily, we've got no shortage of that!
+442	Balor's illusions of grandeur? More like an Illusion of Balor.. The Revived Illusion of Balor could probably punch a hole in a mountain...
+443	That nervous twitching is just our excitement to leap into the unknown.\nIt's time to challenge the Feth Fiada!
+444	The Awakened Abyssal Lord is cranky from a lack of sleep. This doesn't bode well...
+445	If Master's too cheap to buy good clothes, we'll just make them ourselves!\nGather all the leftover materials from making clothes and return them to Master!
+446	Is this the Uladh Dungeon? The place where master first saw a giant spider?\nWe ought to be careful while we're out on this expedition.
+447	Balor's illusions of grandeur? More like an Illusion of Balor.. The Revived Illusion of Balor could probably punch a hole in a mountain...
+448	That nervous twitching is just our excitement to leap into the unknown.\nIt's time to challenge the Feth Fiada!
+449	The Awakened Abyssal Lord is cranky from a lack of sleep. This doesn't bode well...
+450	Uladh (Regular) reward x1
+451	Uladh (Basic) reward x1
+452	Uladh (Intermediate) reward x1
+453	Uladh (Advanced) reward x1
+454	Revived Illusion (Very Hard) reward x1
+455	Feth Fiada (Very Hard) reward x1
+456	Awakened Abyssal Lord (Very Hard) reward x1
+457	Tailoring material x1
+458	Uladh (Regular) reward x1
+459	Revived Illusion (Very Hard) reward x1\nPet Essential Oil x1
+460	Feth Fiada (Very Hard) reward x1\nPet Essential Oil x1
+461	Awakened Abyssal Lord (Very Hard) reward x1\nPet Essential Oil x1
+462	The Monkey's Friend
+463	The Monkey's Friend
+464	The Hot Spring
+465	The Hot Spring
+466	They say you can make friends with the hot spring monkeys by offering them tasty treats. What kinds of foods do monkeys like, anyway?
+467	They say you can make friends with the hot spring monkeys by offering them tasty treats. What kinds of foods do monkeys like, anyway?
+468	Sometimes, you just need to dip yourself in the Hot Springs and relax.\nYou might make friends with the Hot Spring Monkeys if you make conversation with them.
+469	Sometimes, you just need to dip yourself in the Hot Springs and relax.\nYou might make friends with the Hot Spring Monkeys if you make conversation with them.
+470	Hot Spring Monkey's Gift x1
+471	Hot Spring Monkey's Gift x1
+472	Hot Spring Monkey's Gift x1
+473	Hot Spring Monkey's Gift x1

@@ -1,0 +1,300 @@
+﻿1	Black
+2	Dark Blue
+3	Dark Green
+4	Dark Cyan
+5	Dark Red
+6	Dark Purple
+7	Dark Orange
+8	Light Gray
+9	Dark Gray
+10	Blue
+11	Green
+12	Red
+13	Yellow
+14	Purple
+15	Cyan
+16	White
+17	Pearly
+18	White-yellow
+19	Orange-yellow
+20	Light Yellow
+21	Yellow
+22	Peach
+23	Grayish-red
+24	Coffee
+25	Earthen
+26	Bronzed
+27	Reddish-brown
+28	Dark Brown
+29	Black
+30	Blue-black
+31	Blue-gray
+32	Violet
+33	Light Blue
+34	Light Violet
+35	Silver-violet
+36	Blonde
+37	Orange
+38	Light Brown
+39	Red
+40	Brown
+41	Black
+42	Midnight Blue
+43	Deep Blue
+44	Ultramarine
+45	Goblin Blue
+46	Azurite Blue
+47	-
+48	-
+49	-
+50	Smalt Blue
+51	-
+52	Caelum Blue
+53	Viridis Green
+54	Kynnbragg Green
+55	-
+56	Egyptian Blue
+57	-
+58	Sky Blue
+59	Realm Green
+60	Vallandry Green
+61	-
+62	-
+63	-
+64	-
+65	-
+66	-
+67	-
+68	-
+69	-
+70	-
+71	Acid Green
+72	Lime Green
+73	-
+74	-
+75	-
+76	Aqua
+77	Brown Ochre
+78	Dark Grape
+79	Iris
+80	Indigo
+81	Sapphire
+82	-
+83	Turndail Green
+84	-
+85	-
+86	-
+87	-
+88	-
+89	Forestis Green
+90	Earth Green
+91	Malachite Green
+92	-
+93	-
+94	Royal Blue
+95	-
+96	Emerald
+97	-
+98	-
+99	-
+100	Bilan Blue
+101	-
+102	-
+103	-
+104	-
+105	Turquoise
+106	-
+107	-
+108	-
+109	-
+110	-
+111	-
+112	-
+113	Maedere Red
+114	Eternium Red
+115	Prepeace Wine
+116	-
+117	Adamantium Violet
+118	-
+119	Red Ochre
+120	Chocolate
+121	Goblin Violet
+122	-
+123	-
+124	-
+125	Lowendal Green
+126	-
+127	-
+128	Slate Blue
+129	Eweca Blue
+130	-
+131	Grass Green
+132	Verte Green
+133	Goblin Green
+134	-
+135	Steel Blue
+136	Cornflower Blue
+137	-
+138	-
+139	-
+140	-
+141	-
+142	-
+143	-
+144	-
+145	-
+146	-
+147	Aquamarine
+148	-
+149	Carmine Red
+150	-
+151	-
+152	-
+153	-
+154	-
+155	Saddle Brown
+156	Brick Red
+157	-
+158	-
+159	-
+160	-
+161	Ochre
+162	Desertum
+163	-
+164	-
+165	-
+166	-
+167	Olive
+168	-
+169	-
+170	-
+171	-
+172	-
+173	-
+174	-
+175	-
+176	-
+177	-
+178	Iceberg Blue
+179	Chartreuse Green
+180	-
+181	-
+182	-
+183	-
+184	-
+185	Bloody Red
+186	Crimson Red
+187	-
+188	-
+189	Enndoria Pink
+190	-
+191	Vermilion Red
+192	Lamoah Hong
+193	Palarua Red
+194	-
+195	-
+196	-
+197	Meldeceit Desertum
+198	Glandernos Ochre
+199	Ladeca Red
+200	Meldeceit Red
+201	Orchid
+202	-
+203	Meldeceit Yellow
+204	-
+205	Yellow Ochre
+206	Rosy Brown
+207	-
+208	-
+209	-
+210	-
+211	Khaki
+212	-
+213	-
+214	Mythril White
+215	Lemon Yellow
+216	-
+217	-
+218	-
+219	-
+220	Zilberlandow White
+221	Burning Red
+222	Ruby Red
+223	Meldeceit Sun
+224	-
+225	-
+226	Poison Magenta
+227	Lava Red
+228	Forging Sword
+229	-
+230	-
+231	-
+232	Fuchsia
+233	Chroma Orange
+234	Rahj-al-ghar Orange
+235	Tomato
+236	Apricot
+237	Hot Pink
+238	-
+239	Orange
+240	Meldeceit Yellow
+241	Coral
+242	Salmon
+243	Prill Pink
+244	Plum Pink
+245	Imperial Yellow
+246	Canaria Yellow
+247	Xanthe Yellow
+248	Palarua Yellow
+249	Misty Rose
+250	-
+251	Chroma Yellow
+252	-
+253	-
+254	Hatchling Yellow
+255	-
+256	Seraphim White
+257	Red
+258	Orange
+259	Yellow
+260	Green-yellow
+261	Green
+262	Lime
+263	Cyan
+264	Sky Blue
+265	Blue
+266	Violet
+267	Magenta
+268	Crimson
+269	Pale
+270	Light Gray
+271	Gray
+272	Dark Gray
+273	Light
+274	Soft
+275	Dull
+276	Dark
+277	Bright
+278	Strong
+279	Deep
+280	Vivid
+281	Black
+282	Dark Gray
+283	Dark Gray
+284	Dark Gray
+285	Gray
+286	Gray
+287	Gray
+288	Light Gray
+289	Light Gray
+290	Light Gray
+291	White
+292	라이트 그레이
+293	Green-gray
+295	Brown Khaki
+296	Deep Blue
+297	Dark Gray
+298	Dark Chocolate Brown
+299	터키블루
+300	사파이어블루
+301	카나리아옐로

@@ -1,0 +1,43 @@
+﻿0	Iria
+2	Fate's Origin: The Demon
+3	Hero's Return: The Trap
+42	Iria is a cursed land, forsaken by Irinid. And yet the air still stirs with unrest, to the great dismay of its unfortunate inhabitants.
+43	You met the greatest shaman of this world, Akule, in Courcle. Akule crafted a Relic for you with Millia's help, insisting that it would protect you from demons. However, a huge black dragon appeared right at the climax of the ritual...
+52	data/gfx/gui/Iria_Drama_logo.dds
+101	Waking Nightmare: The Chase
+102	Millia is shocked after hearing of Akule's death. However, you and Millia could not wait for him longer with danger approaching from all sides. Meanwhile, Shamala escapes from the Karu Forest Ruins where she's been locked up...
+111	Mystic Training: The Ritual
+112	As the power of Irinid wanes, Iria begins experiencing dramatic changes. The fate of the mine discovered between the camps of Elves and Giants is one such change. The long, dark shadow of evil is another...
+113	Proud Heritage: The Battle
+114	You have reunited with Millia, but Ruairi has left her again. Millia and Shamala have been fighting bitterly as well, but they need each other to get to the shaman village and learn new magics.
+115	Demon Night: The Truth
+117	Heroic Path: The Choice
+122	NPC Commentary
+124	Why do you think Ruairi has grown a beard? How does Akule manage to say all the right things at the right times? Everything you wanted to know but don't know yet are about to be revealed!
+125	The Elves and Giants have been contemplating revenge ever since the Fomors captured their ancient lands. The attack on Hillwen Mine is a success, but some feel the victory was too easy. All that is forgotten, however, when the secret of the Milletians is revealed, turning the situation against them.
+126	On top of the demonic attacks, the appearance of the Black Dragon Knight has plunged Iria into its darkest hour. The allied forces are greatly upset by the true identity of the demons, to say nothing of the Black Dragon Knight's identity...
+127	Millia and the shamans that went with her have vanished. Akule intends to use the demonic possession afflicting Milletians to find her. Meanwhile, the hidden past of the Black Mask starts to come to light...
+128	Holy Land: The Sacrifice
+129	Fate's Design: The Stand
+130	To rescue Millia, the allied forces wage a fierce war against the Fomors, with the active Lia Fail between them. However, a sudden surge in the Lia Fail changes everything...
+132	Divine Fury: The Advent
+133	You, Shamala, Millia, and Akule have survived the coming of a goddess. But how will this affect your lives in the long run?
+134	Iria II
+138	Prologue
+140	data/gfx/gui/Iria_Drama2_logo.dds
+141	Aces
+142	Merlin
+143	Berched left for a hot spring holiday, leaving a dismayed Merlin behind to babysit Tarlach. But Merlin's caretaking has left a lot to be desired, and Tarlach has reached out for help.
+144	The Aces, along with young Tarlach, finally catch up to the great Culinary Artist. With a taste of the world's best cooking in their bellies, things are looking up!
+146	The gang decides to host a concert to make up for Merlin's lost donations, but Starlet's dark secret threatens to derail the show. Meanwhile, Tarlach meets a mysterious man...
+147	The Missing
+152	Pursuit
+153	The gang teams up with the great Treasure Hunter to track down Tarlach, but Merlin's pocketbook might not survive the journey!
+155	Tarlach was kidnapped by the Cessair! It's up to the gang to get him back, but things aren't quite as simple as they first appeared...
+156	The Black Book
+159	Dian Cecht
+160	The Cessair fled to a pyramid containing a strange crystal and a wealth of old books, and when they left, they found a beautiful tower awaiting them. The only way forward was up!
+163	Ritual and Sacrifice
+164	With Dian out of the way, the ritual continued under Ruairi's guidance. He claimed to want to extract the "God Fragment" from Tarlach to turn him into a normal child, yet the ritual itself could be a sham...
+165	Prequel: Shamala and Nightmare
+166	A black panther has appeared near Cor Village and is wreaking havoc on the nearby wildlife. Kousai is concerned, saying it's on a matter of time before the creature starts attacking humans...

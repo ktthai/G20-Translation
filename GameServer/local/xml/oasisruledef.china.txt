@@ -1,0 +1,342 @@
+﻿1	Auto Attack Mode
+2	Collaborative Attack Mode
+3	Healing Mode
+4	Command Mode
+5	Even if the master does not attack, it'll find the target and attack by itself. Use commands such as firstattack!, aggro!,fa!,hit_first! On the chat window to toggle modes.
+6	Attacks the master's target together. Use commands such as Collabo! and team! on the chat window to toggle modes.
+7	Uses Healing on the master when the master's attacked. In this mode, the pet will not counter even if the master or itself is attacked. Enter Support!, Healing_Mode! on the chat window to toggle modes.
+8	Moves only on master's commands. In this mode, the pet will not coutner even if the master or itself is attacked.
+9	All Attack
+10	Basic Attack
+11	Defense
+12	Smash
+13	Counter
+14	Windmill
+15	Final Blow
+16	Lightning Bolt
+17	Firebolt
+18	Icebolt
+19	Healing
+20	Thunder
+21	Fireball
+22	Ice Spear
+23	Range Attack
+24	Magnum Shot
+25	Support Shot
+26	Arrow Revolver
+27	Mirage Missile
+28	All Attack
+29	Basic Attack
+30	Smash
+31	Counter
+32	Windmill
+33	Final Blow
+34	Lightning Bolt
+35	Firebolt
+36	Icebolt
+37	Thunder
+38	Fireball
+39	Ice Spear
+40	Range Attack
+41	Magnum Shot
+42	Support Shot
+43	Arrow Revolver
+44	Mirage Missile
+45	Basic Attack
+46	Defense
+47	Smash
+48	Counter
+49	Windmill
+50	Lightning Bolt
+51	Firebolt
+52	Icebolt
+53	Healing
+54	Thunder
+55	First Aid
+56	All Attack
+57	Basic Attack
+58	Windmill
+59	Lightning Bolt
+60	Firebolt
+61	Icebolt
+62	Range Attack
+63	Magnum Shot
+64	Support Shot
+65	Arrow Revolver
+66	Mirage Missile
+67	Lightning Bolt
+68	Firebolt
+69	Icebolt
+70	Thunder
+71	Cast
+72	Do not Cast
+73	Walking
+74	Walking or Running
+75	Stopping
+76	Walking or Stopping
+77	Running
+78	Hit and flying away
+79	Hit and moving back
+80	Hit and frozen
+81	3 feet
+82	6 feet
+83	9 feet
+84	12 feet
+85	15 feet
+86	18 feet
+87	21 feet
+88	24 feet
+89	27 feet
+90	30 feet
+91	33 feet
+92	36 feet
+93	39 feet
+94	42 feet
+95	45 feet
+96	3 feet
+97	6 feet
+98	9 feet
+99	12 feet
+100	15 feet
+101	18 feet
+102	21 feet
+103	24 feet
+104	27 feet
+105	30 feet
+106	33 feet
+107	36 feet
+108	39 feet
+109	42 feet
+110	45 feet
+111	Not knocked down
+112	Knocked down
+113	Not triggered
+114	Triggered
+115	Target
+116	Mine
+117	Master
+118	Close from the target
+119	Target's location
+120	My location
+121	Target
+122	Master
+123	Run
+124	Walk
+125	3 feet
+126	6 feet
+127	9 feet
+128	12 feet
+129	15 feet
+130	18 feet
+131	21 feet
+132	24 feet
+133	27 feet
+134	30 feet
+135	Clock
+136	Half Clock
+137	1x
+138	2x
+139	3x
+140	4x
+141	5x
+142	5 sec.
+143	None
+144	1 sec.
+145	2 sec.
+146	3 sec.
+147	4 sec.
+148	6 sec.
+149	7 sec.
+150	8 sec.
+151	9 sec.
+152	10 sec.
+153	Wait
+154	Not wait
+155	None
+156	1x
+157	2x
+158	3x
+159	4x
+160	5x
+161	3 feet
+162	6 feet
+163	9 feet
+164	12 feet
+165	15 feet
+166	18 feet
+167	21 feet
+168	24 feet
+169	27 feet
+170	30 feet
+171	33 feet
+172	36 feet
+173	39 feet
+174	42 feet
+175	45 feet
+176	Follow
+177	Pause when stopped
+178	Recognize
+179	On Alert
+180	1 sec.
+181	2 sec.
+182	3 sec.
+183	4 sec.
+184	5 sec.
+185	6 sec.
+186	7 sec.
+187	8 sec.
+188	9 sec.
+189	10 sec.
+190	1 sec.
+191	2 sec.
+192	3 sec.
+193	4 sec.
+194	5 sec.
+195	6 sec.
+196	7 sec.
+197	8 sec.
+198	9 sec.
+199	10 sec.
+200	20
+201	40
+202	60
+203	80
+204	100
+205	120
+206	140
+207	160
+208	180
+209	200
+210	Start
+211	End
+212	Pet finds the enemy
+213	Pet is targetting the enemy
+214	Pet attacks the enemy
+215	Pet is recognized by the enemy
+216	Pet's enemy uses Ranged Attack
+217	Pet's enemy uses Melee Attack
+218	Pet's enemy uses Magic Attack
+219	Pet blocks the attack with Defense
+220	Pet is attacked by the enemy
+221	Master is recognized by the enemy
+222	Master's enemy uses Ranged Attack
+223	Master's enemy uses Melee Attack
+224	Master's enemy uses Magic Attack
+225	Master blocks the attack with Defense
+226	Master is attacked by the enemy
+227	Master prepares a skill
+228	Master attacks
+229	Enemy Condition
+230	Enemy Distance
+231	Skill Availability
+232	If the master's lost HP is above a certain number
+233	Wait for the enemy
+234	Run away from the enemy for a set amount of distance
+235	Chase the enemy
+236	Hover around the enemy
+237	Attack the enemy using Melee Attack
+238	Attack the enemy using Magic Attack
+239	Prepare skill
+240	Charging a magic skill
+241	Use a prepared skill
+242	Cancel skill
+243	Use Rest
+244	Pet finds the enemy
+245	Pet is targetting the enemy
+246	Pet attacks using {pet_skill}. Is the enemy down? {down}
+247	Pet is attacked by the enemy with {targeting_type} 
+248	Pet's enemy uses Ranged Attack
+249	Pet's enemy uses Melee Attack
+250	Pet's enemy uses Magic Attack
+251	Pet blocks {defence_enable_skill} with Defense
+252	Pet is attacked by the enemy with {master_skill}, and is down: {down}
+253	Master is {targeting_type} by the enemy
+254	Master's enemy uses Ranged Attack
+255	Master's enemy uses Melee Attack
+256	Master's enemy uses Magic Attack
+257	Master blocks {defence_enable_skill} with Defense
+258	Master is attacked by the enemy with {master_skill}, and is down: {down}
+259	Master is preparing {event_skill}
+260	Master attacks the enemy with {master_skill}
+261	If the enemy is {state}
+262	If the distance to the enemy is farther than {min_distance}, but closer than {max_distance} 
+263	If {pet_skill} can be used right away
+264	If the master's lost HP is above {life}
+265	Wait for the enemy from {min} to {max}.
+266	Run away from enemy to {distance}. Run away by {run}. Time limit: {timeout}
+267	Chase {chase_target} for {timeout} seconds. Chase by {run}
+268	Hover around the enemy in {clockwise} direction, maintaining {radius}. Hover around by {run}. Time limit: {timeout}
+269	Attack the enemy with Melee Attack. Time limit: {timeout}
+270	Charge {stack_magic} for {charge}, then attack. Time limit: {timeout}
+271	Prepare {pet_skill}. Retry {try_cnt} times. Time limit: {timeout}
+272	Charge {stack_magic} until {charge}.
+273	Use the prepared skill on {target}. Time limit: {timeout}
+274	Cancel skill
+275	{on} the Rest skill.
+276	Rule\n1. Animal Character looks for a target to attack once.\n2. If already engaged in a battle against an enemy,\n   this will not occur again until\n   the battle is over and a new target is spotted.\n\nRecommended Strategy\n1. If attacking first\n\nRecommended Rule\n1. If standing close to the enemy,\n   we highly recommend using a regular attack (3 hits) \n   which will allow you to immediately attack the enemy.\n2. If the enemy is standing afar,\n   First, use Lightning Bolt/Firebolt/Icebolt \n   and other Range Attack skills to keep the enemy at bay, then,\n   transition to regular attacks (3 hits)\n   which will allow you to apply immediate damage on the enemy.\n\nTip\n1. We recommend using this tactic against monsters\n   that do not attack the animal character first.\n2. This is all about locating your target before the enemy recognizes you, so\n   for monsters that attack first, the Animal Character\n   may find itself in a 2:1 situation.\n   This sequence will allow for a speedy battle, but\n   with it comes a good amount of risk, so this type of strategy is not really recommended.
+277	Rule\n1. This strategy entails what to do when\n   the Animal Character is either in battle, or,\n   at least recognizes the enemy.\n\nRecommended Strategy\n1. If attacking first\n2. If attacking with others\n\nRecommended Sequence\n1. If the enemy is running,\n   the enemy is probably going to attack using Smash or regular attack, so\n   first, use Lightning Bolt/Firebolt/Icebolt \n   and other Range Attack skills to keep the enemy at bay, then,\n   transition to regular attack (3 hits)\n   which will allow you to apply immediate damage on the enemy.\n2. If the enemy is walking,\n   it's highly likely that it is using Defense,\n   so we highly recommend using Smash.\n3. If the enemy is standing still,\n   it is highly likely that the enemy is gearing up for Windmill or Counterattack, so\n   first, use Lightning Bolt/Firebolt/Icebolt \n   and other Range Attack skills to keep the enemy at bay, then,\n   transition to regular attack (3 hits)\n   which will allow you to apply immediate damage on the enemy.\n4. If the enemy is running or standing still, \n   we also recommend using Lightning Bolt/Firebolt/Icebolt  \n   and other Range Attack skills\n   to draw the enemy in, then\n   counter the enemy's attack using Counterattack or Windmill.\n\nTip\n1. If the enemy is too far, then the tactic of using\n     Lightning Bolt/Firebolt/Icebolt and other Range Attack skills to\n   acquire an opportunity to attack, followed by a barrage of regular attacks may fail.
+278	Rules\n1. This strategy entails which skill the Animal Character will use the attack the enemy.\n\nRecommended Strategy\n1. If attacking first\n2. If attacking with others\n\nRecommended Sequence\n1. If the enemy has just been knocked down by\n   using a regular attack or Smash,\n   then we highly recommend using Counterattack or Windmill afterwards.\n2. If you have acquired an attacking opportunity\n   by using Lightning Bolt/Firebolt/Icebolt,\n   we recommend using regular attack (3 hits)\n   to apply immediate damage on the enemy.\n\nTip\n1. If the enemy is too far, then the tactic of using\n     Lightning Bolt/Firebolt/Icebolt and other Range Attack skills to\n   acquire an opportunity to attack, followed by a barrage of regular attacks may fail.
+279	Rules\n1. This strategy entails which skill the Animal Character will use to react\n   when it is being recognized or on alert by an enemy.\n2. Recognized means the monster has one exclamation point above its head, and\n   On Alert is when the monster has two exclamation points above its head.\n\nRecommended Strategy\n1. If attacking first\n2. If attacking with others\n\nRecommended Sequence\n1. If recognized by the enemy, use Smash, regular attacks, or other skills\n   that'll allow you to quickly approach the enemy and\n   apply significant damage.\n2. If you are on alert, use Counterattack, Windmill, or other skills\n   that'll allow you to counter your enemy's attacks.\n   We also highly recommend using Lightning Bolt/Firebolt/Icebolt\n   and other skills that'll allow you to\n   acquire attacking opportunities.\n\nTip\n1. For a typical monster, it takes up a bit of time for it to recognize an enemy\n   and then placing itself in a position to attack.\n   This means if you can attack a monster that has just recognized you,\n   you'll be able to effectively attack the monster first.\n2. If you encounter a monster that has a quick turnaround\n   between recognizing an enemy straight to an attacking motion,\n   this sequence may be dangerous.
+280	Rules\n1. This strategy entails how to react when the\n   Animal Character's enemy is using range attacks.\n\nRecommended Strategy\n1. If attacking first\n2. If attacking with others\n\nRecommended Sequence\n1. If the enemy is using Melee Attacks,\n   we highly recommend using a regular attack (3 hits) \n   which will allow you to apply immediate damage on the enemy.\n2. If the enemy is using range attacks from afar,\n   we highly recommend continually using Lightning Bolt/Firebolt/Icebolt\n   and other skills that'll allow you to\n   acquire attacking opportunities.\n   Then, move in closer until the monster is within range, and then\n   we highly recommend using a regular attack (3 hits) \n   which will allow you to apply immediate damage on the enemy.\n\nTip\n1. If the enemy does not use Magnum Shot,\n   we also recommend using Defense to approach the enemy,\n   and then use a regular attack (3 hits) \n   to apply a significant amount of damage.
+281	Rules\n1. This strategy entails how the Animal Character reacts\n   when the enemy uses Melee Attack skills.\n\nRecommended Strategy\n1. If attacking first\n2. If attacking with others\n\nRecommended Sequence\n1. If the enemy is running,\n   there's a high chance of the enemy using a regular attack or Smash,\n   so we highly recommend first using Lightning Bolt/Firebolt/Icebolt\n   to keep the enemy at bay,\n   then transition to a barrage of regular attacks (3 hits)\n   which will allow you to apply immediate damage on the enemy.\n2. If the enemy is walking,\n   that means the enemy is most likely using Defense, so\n   we recommend using Smash to combat that.\n3. If the enemy is standing still,\n   there's a good chance the enemy is using Windmill or Counterattack, so\n   \n   first, use Lightning Bolt/Firebolt/Icebolt \n   and other Range Attack skills to keep the enemy at bay, then,\n   transition to regular attack (3 hits)\n   which will allow you to apply immediate damage on the enemy.\n4. If the enemy is running or standing still,\n   we also recommend first use Lightning Bolt/Firebolt/Icebolt\n   to draw the enemy to you, then\n   use Counterattack or Windmill to counter your enemy's potential attacks.\n\nTip\n1. If the enemy is too far, then the tactic of using\n     Lightning Bolt/Firebolt/Icebolt and other Range Attack skills to\n   acquire an opportunity to attack, followed by a barrage of regular attacks may fail.
+282	Rules\n1. This strategy entails what the Animal Character should do\n   when the enemy is using magic skills.\n\nRecommended Strategy\n1. If attacking first\n2. If attacking with others\n\nRecommended Sequence\n1. If the enemy is using spells from up close,\n   we highly recommend using a regular attack (3 hits) \n   which will allow you to apply immediate damage on the enemy.\n2. If the enemy is using spells from afar,\n   first, use Lightning Bolt/Firebolt/Icebolt \n   and other Range Attack skills to keep the enemy at bay, then,\n   transition to regular attack (3 hits)\n   which will allow you to apply immediate damage on the enemy.\n\nTip\n1. If the Chain Casting enemy is using the spells from afar,\n   it'll be hard to combat against it, so it's best for you to run away from it.
+283	Rules\n1. This strategy entails how the Animal Character reacts to\n   when it successfully guards against an enemy attack\n   using Defense.\n\nRecommended Strategy\n1. If attacking first\n2. If attacking with others\n\nRecommended Sequence\n1. If you have successfully used Defense to guard the enemy attack\n   that may be Melee/Range/Magic attacks\n   then it's best to follow that up with a regular attackd.\n\nTip\n1. You cannot use Defense to combat Smash, Magnum Shot, or magic attacks with Chain Casting.
+284	Rules\n1. This strategy entails how the Animal Character should react\n   when it is attacked by a certain skill.\n2. It also determines what to do after being knocked to the ground.\n\nRecommended Strategy\n1. If attacking first\n2. If attacking with others\n\nRecommended Sequence\n1. If you have received a significant damage\n   and the enemy is standing far away,\n   then we recommend using Healing.\n2. If the enemy is running,\n   there's a high chance of the enemy using Smash or regular attacks, so\n   \n   first, use Lightning Bolt/Firebolt/Icebolt \n   and other Range Attack skills to keep the enemy at bay, then,\n   transition to regular attack (3 hits)\n   which will allow you to apply immediate damage on the enemy.\n3. If the enemy is walking,\n   there's a good chance of the enemy using Defense at the moment, \n   so we recommend combating that with Smash.\n4. If the enemy is standing still,\n   it is most likely that the enemy is using Windmill or Counterattack, so\n   L\n   first, use Lightning Bolt/Firebolt/Icebolt \n   and other Range Attack skills to keep the enemy at bay, then,\n   transition to regular attack (3 hits)\n   which will allow you to apply immediate damage on the enemy.\n5. If the enemy is running or standing still,\n   we also recommend first use Lightning Bolt/Firebolt/Icebolt\n   to draw the enemy to you, then\n   use Counterattack or Windmill to counter your enemy's potential attacks.\n\nTip\n1. After attacking its enemy, a Giant Monster may use its hefty size to\n   quickly approach the fallen victim, so\n   we highly recommend using Counterattack or Windmill to combat the approach. \n2. If you're attacked with Smash or Counterattack,\n   you'll be flying back further than usual.
+285	Rules\n1. This strategy entails what to do when the master is\n   either being recognized or on alert by an enemy.\n2. Recognized means one exclamation mark over the monster's head, and\n   on alert means two exclamation points over the monster's head.\n\nRecommended Strategy\n1. If attacking with others\n\nRecommended Sequence\n1. If you wish to use the Animal Character to check/seek out the enemies,\n   we recommend only using Lightning Bolt/Firebolt/Icebolt\n   regardless of whether the enemy is running, walking, or standing still. \n2. If you wish to use the Animal Character as the focal point of offense,\n   then we recommend only using regular attacks or Smash\n   regardless of whether the enemy is running, walking, or standing still.\n3. If you want to balance out the attack between the master and the Animal Character,\n   then we recommend mixing up combat skills with spells, based on the enemy.\n\nTip\n1. If you encounter a monster that has a quick turnaround\n   between recognizing an enemy straight to an attacking motion,\n   we recommend using regular attacks.
+286	Rules\n1. This strategy entails how to react when the master's enemy is\n   using range attacks.\n\nRecommended Strategy\n1. If attacking with others\n\nRecommended Sequence\n1. If the master's enemy is using range attacks to attack from afar,\n   we recommend using regular attacks (3 hits)\n   which will allow you to apply immediate damage on the enemy.\n\nTip\n1. Against an enemy with a low HP, \n   if the Animal Character lands a regular attack on the enemy,\n   causing it to move back or fly back,\n   then the enemy will try to locate the source of the attack,\n   which will then chase the Animal Character,\n   allowing the master to attack the enemy with ease.
+287	Rules\n1. This strategy entails how to react when the master's enemy is\n   using Melee Attacks.\n\nRecommended Strategy\n1. If attacking with others\n\nRecommended Sequence\n1. If the master's enemy is running,\n   this means it is running towards the enemy to \n   successfully use regular attacks or Smash,\n   so you should counter that with regular attacks (3 hits),\n   which will allow you to apply immediate damage on the enemy.\n2. If the master's enemys is walking,\n   the enemy is most likely using Defense, \n   so we recommend using Smash to combat that. \n3. If the master's enemy is standing still,\n   it is most likely the monster is using Windmill or Counterattack, so\n   first, use Lightning Bolt/Firebolt/Icebolt \n   and other Range Attack skills to keep the enemy at bay, then,\n   transition to regular attack (3 hits)\n   which will allow you to apply immediate damage on the enemy.\n4 . Against an enemy that's just standing still, we also recommend\n   first using Lightning Bolt/Firebolt/Icebolt to draw the enemy in, \n   followed by Counterattack or Windmill  to combat the enemy's attacks.\n\nTip\n1.If the enemy is too far, then the tactic of using\n     Lightning Bolt/Firebolt/Icebolt and other Range Attack skills to\n   acquire an opportunity to attack, followed by a barrage of regular attacks may fail.
+288	Rules\n1. This strategy entails how to react\n   when the master's enemy is using spells.\n\nRecommended Strategy\n1. If attacking with others\n \nRecommended Sequence\n1. If the master's enemy is using spells to attack,\n   we highly recommend using a regular attack (3 hits) \n   which will allow you to apply immediate damage on the enemy.\n\nTip\n1. Against an enemy with a low HP,\n   if the Animal Character lands a regular attack,\n   causing the enemy to move back or fly back,\n   then move the Animal Character to the opposite direction of the enemy\n   If the animal character chases the master,\n   the enemy will only chase the Animal Character,\n   making it much easier for you to finish the enemy off.
+289	Rules\n1. This strategy entails how the Animal Character reacts to\n   when the master successfully guards against an enemy attack\n   using Defense.\n\nRecommended Strategy\n1. If attacking with others\n\nRecommended Sequence\n1. If the master successfully defends\n   melee/range/magic attacks using Defense,\n   the master will acquire an attacking opportunity and fight back,\n   so we highly recommend the Animal Character using Smash\n   to apply maximum damage against the enemy. \n\nTip\n1. If the Animal Character successfully lands Smash,\n   the enemy will recognize Animal Character,\n   so move the Animal Character to the opposite of the enemy,\n   or follow the master.\n   The monster will then chase around the Animal Character,\n   which will make the master's job easier to finish off the enemy.
+290	Rules\n1. This strategy entails how the Animal Character should react\n   when the master is attacked by a certain skill.\n2. It also determines what to do after being knocked to the ground.\n\nRecommended Strategy\n1. If attacking with others\n2. While Healing\n\nRecommended Sequence\n1 . If the master's HP is low, then\n   we recommend the Animal Character using Healing to\n   immediately cure the master.\n2 . If the master is attacked by an enemy, but not knocked to the ground,\n   we highly recommend using a regular attack (3 hits) \n   which will allow you to apply immediate damage on the enemy.\n3 . If the master is knocked to the ground by an enemy attack,\n    first, use Lightning Bolt/Firebolt/Icebolt \n   and other Range Attack skills to keep the enemy at bay, then,\n   transition to regular attack (3 hits)\n   which will allow you to apply immediate damage on the enemy.\n\nTip\n1. Take the master's HP and the enemy's level of difficulty\n   when deciding whether to heal the master,\n   or help the master attack the enemy.
+291	Rules\n1. This strategy entails what the Animal Character should do\n   when the Animal Character is preparing a skill.\n\nRecommended Strategy\n1. If attacking with others\n2. While Healing\n\nRecommended Sequence\n1. If the master is approaching an enemy in a collaborative attack mode,\n   we recommend that the Animal Character use\n   regular attacks or Smash to quickly enter the battle. \n2. If the master is using Defense for protection,\n   the Animal Character should use Smash\n   to apply maximum damage against the enemy. \n3. If the master is using skills that are unrelated to combat to recover,\n   then check the master's HP and use Healing on the master accordingly.\n \nTip\n1. Not only just in battle, but when the master wants to apply First Aid on the Animal Character,\n   make the Animal Character sit for a more effective healing process.
+292	Rules\n1. This strategy entails what the Animal Character should do\n   whent he master is attacking an enemy.\n\nRecommended Strategy\n1. If attacking with others\n2. While Healing\n\nRecommended Sequence\n1. If the master is approaching an enemy in a collaborative attack mode,\n   we recommend that the Animal Character use\n   regular attacks or Smash to quickly enter the battle. \n2. If the master is using skills that are unrelated to combat to recover,\n   then check the master's HP and use Healing on the master accordingly.\n\nTip\n1. If you used a spell to combat the approaching enemy,\n   only for it to successfully guard itself using Defense,\n   we highly recommend the Animal Character use a regular attack (3 hits) \n   which will allow you to apply immediate damage on the enemy.
+293	Rules\n1. This sets up the strategy of how the Animal Character should act\n   before and after the enemy gets hit by the master or the Animal Character.\n\nTraits\n1. Walking\n   1) The enemy is using Defense, so use Smash to negate it.\n   2) Some enemies walk even while using Smash or regular attacks\n      to psych out its opponent.\n\n2. Walking or Running\n   1) If walking, the enemy is using Defense. \n      Use Smash to negate it.\n   2) If running, the enemy is using either Smash or regular attacks,\n      so user Counterattack to combat those attacks.\n   3) Some enemies use magic spells while walking or running, \n      and in that case, defending is impossible.\n   4) These rules allow the enemy to combat in multiple different ways,\n      making it hard for the Animal Character, so we don't recommend using this.\n\n3. Standing Still\n   1) The enemy is most likely using Counterattack or Windmill,\n      so combat it by using Lightning Bolt/Firebolt/Icebolt.\n   2) Some of them will be using Defense or using spells, then\n      standing still.\n\n4. Walking or Standing Still\n   1) If walking, the enemy is using Defense. \n      Use Smash to negate it.\n   2) If standing still,\n   the enemy is most likely using Counterattack or Windmill,\n      so combat it by using Lightning Bolt/Firebolt/Icebolt.\n   3) These rules allow the enemy to combat in multiple different ways,\n      making it hard for the Animal Character, so we don't recommend using this.\n\n5. Running\n   1) The enemy is most likely using either Smash or regular attacks,\n      so use Counterattack, Windmill, or spells to combat it.\n   2) A few enemies use magic skills, then run. \n      Under this circumstance, it's impossible to defend yourself.\n\n6. Flying Back After Getting Hit\n   1) If it's the master who hit last, then use regular attacks or\n      Smash to keep the offense going.\n   2) If it's the Animal Character who hit last, use\n   Counterattack, Windmill, or spells to get ready for a possible attack.\n      \n7. If Moving Back AFter Getting Hit\n   1) Same as when the enemy is flying back after getting hit.\n\n8. Standing Frozen Still After Getting Hit\n   1) Same as when the enemy is flying back after getting hit.
+294	Rules\n1. This allows the Animal Character to determine its distance to the enemy.\n\nFeatures\n1. Minimum Distance\n   1) When combatting an enemy with a skill,\n      the distance needs to be at least 4m to safely use the skill.\n   2) If the distance is less than 4m,\n      skills other than regular attacks will most likely fail.\n2. Maximum Distance\n   1) When combating an enemy with a skill,\n      the distance needs to be no more than 12m\n   to safely use the skill.\n   2) If the distance is more than 12m,\n      any skill other than spells will most likely fail.\
+295	Rules\n1. Checks if the Animal Character has a designated skill or not.\n2. Checks if you're lacking MP or Stamina.\n\nFeatures\n1. When all Animal Characters have different set of skills,\n   if this condition is added before using the skill,\n   it checks the animal characters and see if they have it or not.\n   If not, this will cancel the rules regarding the skill.\n2. Before Using the Skill \n   Checks the animal character to see if it is short on MP or Stamina,\n   and if it is, then\n   this will cancel the rules regarding the skill.
+296	Rules\n1. Checks if the master's HP is above a certain level.\n\nFeatures\n1. Determines how much HP can be recovered, excluding\n   the amount lost due to injury.\n2. The HP that can be recovered is an actual number, not the percentage.\n
+297	Rules\n1. Waits for an enemy by standing still for a set amount of time.\n\nFeatures\n1. This is useful when you want to wait for an enemy at a certain point\n   without using one skill.\n2. As for skills, select "Use a Prepared Skill"\n   and set a time for it.
+298	Rules\n1. Runs away from an enemy until the distance between the two reaches a certain number.\n2. Determine whether to walk or run when avoiding the monster.\n\nFeatures\n1. Moves up to 3m per second.\n2. If the Animal Character reaches a certain distance\n   before the time runs out,\n   then the Animal Character may only move on to the next act after the time runs out.
+299	Rules\n1. Chases the enemy or the master for a set amount of time.\n2. Determines whether to walk or run when chasing.\n\nFeatures\n1. When chasing, the enemy must NOT recognize the Animal Character\n   and rather the master\n   in order to safely follow the enemy.\n2. Slect a skill to use after the chase\n   to attack the enemy. \n3. You may trick the enemy into falling for it by using Smash,\n  then chasing the enemy by walking up to it.\n   This does not apply against the monsters, however.
+300	Rules\n1. Designates the Animal Character into circling around the monster\n   clockwise or counter-clockwise, keeping a certain distance\n   and within a certain amount of time\n2. Assign whether to run or walk while circling around\n\nFeatures\n1. Even if the enemy moves while circling around keeping a distance,\n   the Animal Character will still keep the distance between the two intact while circling around the enemy.\n2. If there's a closed door like a dungeon, there may be an instance where\n   the animal character may be blocked from a closed entrance, forcing it to be stuck,\n   so we don't recommend using this in a dungeon.
+301	Rules\n1. Melee-Attack an enemy.\n\nFeatures\n1. Melee Attacks consist of 3 hits.\n2. You can set a time limit for each hit,\n   utilizing the split second the monster is stuck standing still\n   and you may even attempt a 4-hit combo.\n   It has a high rate of failure, however, so we don't recommend you using it.
+302	Rules\n1. This allows you to predetermine the Animal Character's combat style,\n   from the type of spells to use to the number of times it charges\n   against different types of enemies.\n\nFeatures\n1. When attacking after charging the spell once,\n   if the enemy is close to the character, use Melee Attacks.\n2. When attacking after charging the spell once,\n   if the enemy is far away, then use Counterattack or Windmill\n   and other skills that waits for the enemy to attack first. \n3. All Animal Characters have a different set of spells, so\n   go to 'Skill Availability' \n   and see if your animal character is capable of using the skill.\n4. The enemy's knock-down point differs based on\n   the types of spells, and the number of spells applied, so\n   it's best to apply different settings per each spell.
+303	Rules\n1. This allows you to designate a certain skill for a certain number of times\n   for a certain amount of time to Animal Characters.\n2. If the Animal Character is knocked back by an enemy attack,\n   set the time limit to acquire enough time to use a designated skill, and\n    if no skill is designated, then all this will be canceled.\n\nFeatures\n1. Most skills should be re-tried only once more. \n2. If there's already a skill that has been summoned, then it'll cancel that skill,\n   then re-summon, so we recommend using the skill first\n   and then use this. \n3. There is also a method where the Animal Character may just keep the Healing skill\n    available to improve the defense, minimizing the damage against the enemy attack\n    but we recommend not using this tactic.
+304	\nRules\n1. Charges the spell upto a designated number of times and prepares the skill.\n\nNote\n1. If you do not wish to immediately attack after charging up the skill,\n   this will be a good one to use.
+305	Rules\n1. Use a skill that's been summoned for either the master or the enemy\n   for only a certain amount of time.\n\nFeatures\n1. For some skills like Counterattack and Windmill,\n   use the time limit to make sure that the Animal Character\n   doesn't just stand still for hours at a time.\n2. As for Windmill\n   this can be used near the target, but\n   other skills can only be used against the master, itself, or the enemy.
+306	Rules\n1. Immediately cancels the skill that's being used.\n\nFeatures\n1. If the Animal Character is damaged to the point\n   where it is in critical condition,\n   we commend immediately canceling the skill it's using and\n   run away from the enemy as far as possible to Heal itself.\n   Please know that enclosed spaces like the dungeons\n   will not allow one to run away, so we recommend not using this under this circumstance. \n2. If it uses Healing on itself\n   the amount of HP recovered will match that of the amount of Stamina used for recovery,\n   which will make the Animal Character not ready for the next attack.\n   Please remember this when Healing.\n3. If the master is in critical condition,\n   then we recommend the Animal Character cancelling the skill\n   and using the Healing on the master.
+307	Rules\n1. Starts or cancels Rest.\n\nNote\n1. When preparing/using a skill other than Rest,\n   the Rest skill gets automatically canceled.
+308	Final Hit
+309	Party Heal
+310	Final Hit
+311	Flying due to getting hit
+312	0.5 sec
+313	Pet attacks using {pet_attackable_skill}. Is the enemy down? {down}
+314	Ice Shield
+315	Fire Shield
+316	Lightning Shield
+317	Natural Shield
+318	Partner Healing
+319	Wild Frenzy
+320	Frozen Earth
+321	Wings of Haste
+322	Blue Shield
+323	Healing Rays
+324	Bonding Ties
+325	Floral Shield
+326	Healing Bubble
+327	Fynni Punch
+328	Rush of Wind
+329	Pulling Force
+330	Repelling Force
+331	Perk Availability
+332	Fynn Bead Skill Availability
+333	The Pet used a perk.
+334	The Pet used a Fynn Bead skill.
+335	{pet_st} is ready for use
+336	{pet_eq} is ready for use
+337	{pet_st} is prepared. Time limit: {timeout}
+338	{pet_eq} is prepared. Time limit: {timeout}
+339	Definition\n1. Examines whether the pet has the assigned perk.\n2. Examines whether they're either short on MP or Stamina.\n\nCharacteristic\n1. When each of the pets have different skills,\n   if this condition is added before using the skill,\n   determines whether they have this skill.\n   If they don't have the skill, ensures that none of the conditions or actions get processed.\n2. Before using the skill, \n   examines whether they're short on MP or Stamina,\n   and if they don't have the required MP or Stamina,\n   ensures that none of the conditions or actions get processed.
+340	Definition\n1. Examines whether the pet has the assigned skill.\n2. Examines whether they're either short on MP or Stamina.\n\nCharacteristic\n1. When each of the pets have different skills,\n   if this condition is added before using the skill\n   determines whether they have this skill.\n   If they don't have the skill, ensures that none of the conditions or actions get processed.\n2. Before using the skill, \n   examines whether they're short on MP or Stamina,\n   and if they don't have the required MP or Stamina,\n   ensures that none of the conditions or actions get processed.
+341	Definition\n1. Ensures the assigned perk is ready by the time limit.\n2. If hit by an opponent and pushed back or blown away,\n   sets a time limit\n   to use the assigned perk.\n   If no perk is assigned, all of these actions will be canceled.\n\nCharacteristic\n1. It is recommended to retry using most of the perks just once. \n2. If a perk has already been cast, it will be canceled and re-cast.\n  Thus, it's better to choose this action \n   after using the previous perk.
+342	Definition\n1. Ensures the assigned skill is ready by the time limit.\n2. If hit by an opponent and pushed back or blown away,\n   sets a time limit\n   to use the assigned skill.\n   If no skill is assigned, all of these actions will be canceled.\n\nCharacteristic\n1. It is recommended to retry using most of the skills just once. \n2. If a skill has already been cast, it will be canceled and re-cast.\n   Thus, it's better to choose this action \n   after using the previous skill.

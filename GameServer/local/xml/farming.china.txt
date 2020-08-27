@@ -1,0 +1,10 @@
+﻿1	Pumpkin
+2	Strawberry
+3	Tomato
+4	Eggplant
+5	Cabbage
+6	Watering
+7	Fertilizing
+8	Bug Catching
+9	Harvesting
+10	Planting

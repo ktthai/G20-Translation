@@ -1,0 +1,1032 @@
+﻿0	Weapon Damage +{0}
+1	Weapon Damage +{0}
+2	Weapon Damage +{0}
+3	Marionette Damage +{0}
+4	Weapon Damage +{0}
+5	Weapon Damage +{0}
+6	Weapon Damage +{0}
+7	Weapon Magic Damage +{0}
+8	Weapon Magic Damage +{0}
+9	Fire/Wind/Earth/Water Alchemic Damage +{0}
+10	Weapon Damage +{0}
+11	Weapon Damage +{0}
+12	Weapon Damage +{0}
+13	Weapon Damage +{0}
+14	Weapon Damage +{0}
+15	Weapon Damage +{0}
+16	Weapon Damage +{0}
+17	Weapon Damage +{0}
+18	{0}% chance for an additional hit during regular attacks
+19	{0}% chance for an additional hit during regular attacks
+20	{0}% chance for an additional hit during regular attacks
+21	Marionette Defense, Protection, Magic Defense, and Magic Protection +{0}
+22	Ranged Aiming Speed +{0}%
+23	Ranged Aiming Speed +{0}%
+24	Enemy Stun Duration +{0} sec
+25	Intermediate Magic Skill MP Usage -{0}%
+26	Heat Buster Effect +{0}%
+27	Defense, Protection, Magic Defense, and Magic Protection +{0}
+28	Defense, Protection, Magic Defense, and Magic Protection +{0}
+29	Defense, Protection, Magic Defense, and Magic Protection +{0}
+30	Defense, Protection, Magic Defense, and Magic Protection +{0}
+31	Defense, Protection, Magic Defense, and Magic Protection +{0}
+32	Defense, Protection, Magic Defense, and Magic Protection +{0}
+33	Shooting Rush Damage +{0}%
+34	Kunai Storm Damage +{0}%
+35	Dorcha acquired from Dorcha Snatch +{0}
+36	Marionette Stun Resistance Rate +{0}%
+37	Skill cooldown upon aim failure -{0} sec
+38	Skill cooldown upon aim failure -{0} sec
+39	Combo Damage +{0}%
+40	Intermediate Magic Casting Time -{0}%
+41	Flame Burst Damage Cycle -{0}%
+42	Splash Range +{0} cm
+43	Windmill Damage +{0}%
+44	Stun Resistance Rate +{0}%
+45	Stun Resistance Rate +{0}%
+46	Stun Resistance Rate +{0}%
+47	Stun Resistance Rate +{0}%
+48	Dual Gun Skill Cooldowns -{0}%
+49	Ninja Skill Cooldowns -{0}%
+50	Marionette Show Skill Cooldowns -{0}%
+51	Crash Shot Cooldown -{0} sec
+52	Crash Shot Cooldown -{0} sec
+53	Combo Cooldown -{0}%
+54	Chain Cylinder Cooldown -{0} sec
+55	Close Combat Skill Cooldowns -{0}% (except for race-exclusive skills)
+56	Close Combat Skill Cooldowns -{0}% (except for race-exclusive skills)
+57	Close Combat Skill Cooldowns -{0}% (except for race-exclusive skills)
+58	Close Combat Skill Cooldowns -{0}% (except for race-exclusive skills)
+59	Close Combat Skill Cooldowns -{0}% (except for race-exclusive skills)
+60	Iron Ingot x20
+61	Iron Plate x5
+62	Divine Mineral Fragment x3
+63	Ancient Monster Core
+64	Slender Robe
+65	Dual Gun
+66	Gold Ingot x20
+67	Gold Plate x5
+68	Divine Mineral Fragment x3
+69	Ancient Monster Core x3
+70	White Owl Brooch
+71	R1 or higher Shuriken
+72	Mythril Ingot x20
+73	Mythril Plate x5
+74	Divine Mineral Fragment x3
+75	Ancient Monster Core x5
+76	Finest Leather Strap Spinning Wheel
+77	R1 or higher Chain Blade
+78	Finest Silk x10
+79	Finest Fabric x5
+80	Divine Mineral Fragment x3
+81	Desecrated Charm Chunk x3
+82	Milky Way Ukulele
+83	R2 or higher Control Bar
+84	Hillwen Alloy x5
+85	Lucky Rabbit Foot
+86	Divine Mineral Fragment x3
+87	Desecrated Charm Chunk x5
+88	5-Star Fried Vegetables
+89	R2 or higher Demonic Illusion Control Bar
+90	Fine Firewood x5
+91	Finest Firewood x5
+92	Divine Mineral Fragment x3
+93	Massive Turtle Shell Chip x5
+94	Signed Chic Suit
+95	R3 or higher Cutthroat Chain Blade
+96	Wood Board x3
+97	Finest Handmade Bandage x10
+98	Divine Mineral Fragment x3
+99	Corrupted Apostle Leather x5
+100	Signed Birnam Plate Helmet
+101	R4 or higher Celtic Dowra Ace
+102	Antidote Potion x5
+103	HP & Stamina 50 Potion x20
+104	Divine Mineral Fragment x3
+105	Revelation of the Guardian
+106	Signed Colossal Valiance Armor (F)
+107	R5 or higher Throwing Star
+108	Tough Thread x5
+109	Finest Leather Strap x10
+110	Divine Mineral Fragment x3
+111	Purified Apostle Essence
+112	Signed Languhiris Chaser Armor (F)
+113	R6 or higher Celtic Control Bar
+114	Iron Ingot x20
+115	Iron Plate x5
+116	Divine Mineral Fragment x3
+117	Ancient Monster Core
+118	Tail Hat
+119	Dual Gun
+120	Gold Ingot x20
+121	Gold Plate x5
+122	Divine Mineral Fragment x3
+123	Ancient Monster Core x3
+124	Amulet
+125	R1 or higher Shuriken
+126	Mythril Ingot x20
+127	Mythril Plate x5
+128	Divine Mineral Fragment x3
+129	Ancient Monster Core x5
+130	Fine Leather Strap Spinning Wheel
+131	R1 or higher Chain Blade
+132	Finest Silk x10
+133	Finest Fabric x5
+134	Divine Mineral Fragment x3
+135	Desecrated Charm Chunk x3
+136	Milky Way Chalumeau
+137	R2 or higher Control Bar
+138	Hillwen Alloy x5
+139	Lucky Rabbit Foot
+140	Divine Mineral Fragment x3
+141	Desecrated Charm Chunk x5
+142	5-Star Fish and Chips
+143	R2 or higher Demonic Illusion Control Bar
+144	Fine Firewood x5
+145	Finest Firewood x5
+146	Divine Mineral Fragment x3
+147	Massive Turtle Shell Chip x5
+148	Signed High-Class Leather Armor
+149	R3 or higher Cutthroat Chain Blade
+150	Wood Board x3
+151	Finest Handmade Bandage x10
+152	Divine Mineral Fragment x3
+153	Corrupted Apostle Leather x5
+154	Signed Thames Plate Armor
+155	R4 or higher Celtic Dowra Ace
+156	Antidote Potion x5
+157	HP & Stamina 50 Potion x20
+158	Divine Mineral Fragment x3
+159	Revelation of the Guardian
+160	Signed Colossal Valiance Gauntlets (M)
+161	R5 or higher Throwing Star
+162	Tough Thread x5
+163	Finest Leather Strap x10
+164	Divine Mineral Fragment x3
+165	Purified Apostle Essence
+166	Signed Languhiris Chaser Armor (F)
+167	R6 or higher Celtic Control Bar
+168	Iron Ingot x20
+169	Iron Plate x5
+170	Divine Mineral Fragment x3
+171	Ancient Monster Core
+172	Handicraft Kit
+173	Dual Gun
+174	Gold Ingot x20
+175	Gold Plate x5
+176	Divine Mineral Fragment x3
+177	Ancient Monster Core x3
+178	Ring Torque
+179	R1 or higher Shuriken
+180	Mythril Ingot x20
+181	Mythril Plate x5
+182	Divine Mineral Fragment x3
+183	Ancient Monster Core x5
+184	Fabric Weaving Loom
+185	R1 or higher Chain Blade
+186	Finest Silk x10
+187	Finest Fabric x5
+188	Divine Mineral Fragment x3
+189	Desecrated Charm Chunk x3
+190	Milky Way Cello
+191	R2 or higher Control Bar
+192	Hillwen Alloy x5
+193	Lucky Rabbit Foot
+194	Divine Mineral Fragment x3
+195	Desecrated Charm Chunk x5
+196	5-Star Seafood Spaghetti
+197	R2 or higher Demonic Illusion Control Bar
+198	Fine Firewood x5
+199	Finest Firewood x5
+200	Divine Mineral Fragment x3
+201	Massive Turtle Shell Chip x5
+202	Signed Apron Dress
+203	R3 or higher Cutthroat Chain Blade
+204	Wood Board x3
+205	Finest Handmade Bandage x10
+206	Divine Mineral Fragment x3
+207	Corrupted Apostle Leather x5
+208	Signed Thames Plate Gauntlets
+209	R4 or higher Celtic Dowra Ace
+210	Antidote Potion x5
+211	HP & Stamina 50 Potion x20
+212	Divine Mineral Fragment x3
+213	Revelation of the Guardian
+214	Signed Colossal Valiance Gauntlets (F)
+215	R5 or higher Throwing Star
+216	Tough Thread x5
+217	Finest Leather Strap x10
+218	Divine Mineral Fragment x3
+219	Purified Apostle Essence
+220	Signed Languhiris Chaser Armor (F)
+221	R6 or higher Celtic Control Bar
+222	Iron Ingot x20
+223	Iron Plate x5
+224	Divine Mineral Fragment x3
+225	Ancient Monster Core
+226	Wood-rimmed Glasses
+227	Dual Gun
+228	Gold Ingot x20
+229	Gold Plate x5
+230	Divine Mineral Fragment x3
+231	Ancient Monster Core x3
+232	Ankh
+233	R1 or higher Shuriken
+234	Mythril Ingot x20
+235	Mythril Plate x5
+236	Divine Mineral Fragment x3
+237	Ancient Monster Core x5
+238	Silk Weaving Loom
+239	R1 or higher Chain Blade
+240	Finest Silk x10
+241	Finest Fabric x5
+242	Divine Mineral Fragment x3
+243	Desecrated Charm Chunk x3
+244	Milky Way Roncadora
+245	R2 or higher Control Bar
+246	Hillwen Alloy x5
+247	Lucky Rabbit Foot
+248	Divine Mineral Fragment x3
+249	Desecrated Charm Chunk x5
+250	5-Star Peanut Butter Jam
+251	R2 or higher Demonic Illusion Control Bar
+252	Fine Firewood x5
+253	Finest Firewood x5
+254	Divine Mineral Fragment x3
+255	Massive Turtle Shell Chip x5
+256	Signed Bonita Silky Dress
+257	R3 or higher Cutthroat Chain Blade
+258	Wood Board x3
+259	Finest Handmade Bandage x10
+260	Divine Mineral Fragment x3
+261	Corrupted Apostle Leather x5
+262	Signed Thames Plate Helmet
+263	R4 or higher Celtic Dowra Ace
+264	Antidote Potion x5
+265	HP & Stamina 50 Potion x20
+266	Divine Mineral Fragment x3
+267	Revelation of the Guardian
+268	Signed Colossal Valiance Greaves (M)
+269	R5 or higher Throwing Star
+270	Tough Thread x5
+271	Finest Leather Strap x10
+272	Divine Mineral Fragment x3
+273	Purified Apostle Essence
+274	Signed Languhiris Chaser Armor (F)
+275	R6 or higher Celtic Control Bar
+276	Iron Ingot x20
+277	Iron Plate x5
+278	Divine Mineral Fragment x3
+279	Ancient Monster Core
+280	Pet Instructor Stick
+281	Bow
+282	Gold Ingot x20
+283	Gold Plate x5
+284	Divine Mineral Fragment x3
+285	Ancient Monster Core x3
+286	Ring Torque
+287	S1 or higher Wand
+288	Mythril Ingot x20
+289	Mythril Plate x5
+290	Divine Mineral Fragment x3
+291	Ancient Monster Core x5
+292	Standing Lamp
+293	S1 or higher Staff
+294	Finest Silk x10
+295	Finest Fabric x5
+296	Divine Mineral Fragment x3
+297	Desecrated Charm Chunk x3
+298	Milky Way Cymbals
+299	S2 or higher Cylinder
+300	Hillwen Alloy x5
+301	Lucky Rabbit Foot
+302	Divine Mineral Fragment x3
+303	Desecrated Charm Chunk x5
+304	5-Star Butter Grilled Reef Lobster
+305	S2 or higher Staff
+306	Fine Firewood x5
+307	Finest Firewood x5
+308	Divine Mineral Fragment x3
+309	Massive Turtle Shell Chip x5
+310	Signed Short Swordsmanship School Uniform (F)
+311	S3 or higher Demonic Abyss Cylinder
+312	Tough Thread x5
+313	Finest Leather Strap x10
+314	Divine Mineral Fragment x3
+315	Corrupted Apostle Leather x5
+316	Signed Birnam Plate Armor
+317	S4 or higher Celtic Tribolt Wand
+318	Wood Board x3
+319	Finest Handmade Bandage x10
+320	Divine Mineral Fragment x3
+321	Revelation of the Guardian
+322	Signed Colossal Valiance Armor (M)
+323	S5 of higher Celtic Guardian Staff
+324	Antidote Potion x5
+325	HP & Stamina 50 Potion x20
+326	Divine Mineral Fragment x3
+327	Purified Apostle Essence
+328	Signed Languhiris Chaser Armor (M)
+329	S6 of higher Celtic Tetra Cylinder
+330	Iron Ingot x20
+331	Iron Plate x5
+332	Divine Mineral Fragment x3
+333	Ancient Monster Core
+334	Pet Instructor Stick
+335	Bow
+336	Gold Ingot x20
+337	Gold Plate x5
+338	Divine Mineral Fragment x3
+339	Ancient Monster Core x3
+340	Ring Torque
+341	S1 or higher Wand
+342	Mythril Ingot x20
+343	Mythril Plate x5
+344	Divine Mineral Fragment x3
+345	Ancient Monster Core x5
+346	Standing Lamp
+347	S1 or higher Staff
+348	Finest Silk x10
+349	Finest Fabric x5
+350	Divine Mineral Fragment x3
+351	Desecrated Charm Chunk x3
+352	Milky Way Cymbals
+353	S2 or higher Cylinder
+354	Hillwen Alloy x5
+355	Lucky Rabbit Foot
+356	Divine Mineral Fragment x3
+357	Desecrated Charm Chunk x5
+358	5-Star Butter Grilled Reef Lobster
+359	S2 or higher Staff
+360	Fine Firewood x5
+361	Finest Firewood x5
+362	Divine Mineral Fragment x3
+363	Massive Turtle Shell Chip x5
+364	Signed Short Swordsmanship School Uniform (F)
+365	S3 or higher Demonic Abyss Cylinder
+366	Tough Thread x5
+367	Finest Leather Strap x10
+368	Divine Mineral Fragment x3
+369	Corrupted Apostle Leather x5
+370	Signed Birnam Plate Armor
+371	S4 or higher Celtic Tribolt Wand
+372	Wood Board x3
+373	Finest Handmade Bandage x10
+374	Divine Mineral Fragment x3
+375	Revelation of the Guardian
+376	Signed Colossal Valiance Armor (M)
+377	S5 of higher Celtic Guardian Staff
+378	Antidote Potion x5
+379	HP & Stamina 50 Potion x20
+380	Divine Mineral Fragment x3
+381	Purified Apostle Essence
+382	Signed Languhiris Chaser Armor (M)
+383	S6 of higher Celtic Tetra Cylinder
+384	Iron Ingot x20
+385	Iron Plate x5
+386	Divine Mineral Fragment x3
+387	Ancient Monster Core
+388	Tailoring Kit
+389	One-handed Sword
+390	Gold Ingot x20
+391	Gold Plate x5
+392	Divine Mineral Fragment x3
+393	Ancient Monster Core x3
+394	Amulet
+395	R1 or higher One-handed Axe
+396	Mythril Ingot x20
+397	Mythril Plate x5
+398	Divine Mineral Fragment x3
+399	Ancient Monster Core x5
+400	Tree Costume Kit
+401	R1 or higher One-handed Blunt Weapon
+402	Finest Silk x10
+403	Finest Fabric x5
+404	Divine Mineral Fragment x3
+405	Desecrated Charm Chunk x3
+406	Milky Way Electric Guitar
+407	R2 or higher Two-handed Axe
+408	Hillwen Alloy x5
+409	Lucky Rabbit Foot
+410	Divine Mineral Fragment x3
+411	Desecrated Charm Chunk x5
+412	5-Star Spaghetti alle Vongole
+413	R2 or higher Knuckle
+414	Fine Firewood x5
+415	Finest Firewood x5
+416	Divine Mineral Fragment x3
+417	Thorny Blue Shackle x5
+418	Signed See-Through Cocktail Dress
+419	R3 or higher Demonic Solitude Knuckle
+420	Antidote Potion x5
+421	HP & Stamina 50 Potion x20
+422	Divine Mineral Fragment x3
+423	Corrupted Apostle Leather x5
+424	Signed Dustin Silver Knight Greaves
+425	R4 or higher Celtic Royal Battle Axe
+426	Tough Thread x5
+427	Finest Leather Strap x10
+428	Divine Mineral Fragment x3
+429	Revelation of the Guardian
+430	Signed Colossal Valiance Circlet (F)
+431	R5 or higher Celtic Royal Warrior Hammer
+432	Wood Board x3
+433	Finest Handmade Bandage x10
+434	Divine Mineral Fragment x3
+435	Purified Apostle Essence
+436	Signed Bhafel Slayer Guard (F)
+437	R6 or higher Celtic Edged Knuckle
+438	Iron Ingot x20
+439	Iron Plate x5
+440	Divine Mineral Fragment x3
+441	Ancient Monster Core
+442	Music Score Scroll (100)
+443	Bow
+444	Gold Ingot x20
+445	Gold Plate x5
+446	Divine Mineral Fragment x3
+447	Ancient Monster Core x3
+448	Ankh
+449	S1 or higher Wand
+450	Mythril Ingot x20
+451	Mythril Plate x5
+452	Divine Mineral Fragment x3
+453	Ancient Monster Core x5
+454	Stationary Table
+455	S1 or higher Staff
+456	Finest Silk x10
+457	Finest Fabric x5
+458	Divine Mineral Fragment x3
+459	Desecrated Charm Chunk x3
+460	Milky Way Whistle
+461	S2 or higher Cylinder
+462	Hillwen Alloy x5
+463	Lucky Rabbit Foot
+464	Divine Mineral Fragment x3
+465	Desecrated Charm Chunk x5
+466	5-Star Mackerel Steak
+467	S2 or higher Staff
+468	Fine Firewood x5
+469	Finest Firewood x5
+470	Divine Mineral Fragment x3
+471	Massive Turtle Shell Chip x5
+472	Signed Bolero and Jumper Skirt
+473	S3 or higher Demonic Abyss Cylinder
+474	Tough Thread x5
+475	Finest Leather Strap x10
+476	Divine Mineral Fragment x3
+477	Corrupted Apostle Leather x5
+478	Signed Birnam Plate Gauntlets
+479	S4 or higher Celtic Tribolt Wand
+480	Wood Board x3
+481	Finest Handmade Bandage x10
+482	Divine Mineral Fragment x3
+483	Revelation of the Guardian
+484	Signed Colossal Valiance Armor (F)
+485	S5 of higher Celtic Guardian Staff
+486	Antidote Potion x5
+487	HP & Stamina 50 Potion x20
+488	Divine Mineral Fragment x3
+489	Purified Apostle Essence
+490	Signed Languhiris Chaser Armor (M)
+491	S6 of higher Celtic Tetra Cylinder
+492	Iron Ingot x20
+493	Iron Plate x5
+494	Divine Mineral Fragment x3
+495	Ancient Monster Core
+496	Music Score Scroll (100)
+497	Bow
+498	Gold Ingot x20
+499	Gold Plate x5
+500	Divine Mineral Fragment x3
+501	Ancient Monster Core x3
+502	Ankh
+503	S1 or higher Wand
+504	Mythril Ingot x20
+505	Mythril Plate x5
+506	Divine Mineral Fragment x3
+507	Ancient Monster Core x5
+508	Stationary Table
+509	S1 or higher Staff
+510	Finest Silk x10
+511	Finest Fabric x5
+512	Divine Mineral Fragment x3
+513	Desecrated Charm Chunk x3
+514	Milky Way Whistle
+515	S2 or higher Cylinder
+516	Hillwen Alloy x5
+517	Lucky Rabbit Foot
+518	Divine Mineral Fragment x3
+519	Desecrated Charm Chunk x5
+520	5-Star Mackerel Steak
+521	S2 or higher Staff
+522	Fine Firewood x5
+523	Finest Firewood x5
+524	Divine Mineral Fragment x3
+525	Massive Turtle Shell Chip x5
+526	Signed Bolero and Jumper Skirt
+527	S3 or higher Demonic Abyss Cylinder
+528	Tough Thread x5
+529	Finest Leather Strap x10
+530	Divine Mineral Fragment x3
+531	Corrupted Apostle Leather x5
+532	Signed Birnam Plate Gauntlets
+533	S4 or higher Celtic Tribolt Wand
+534	Wood Board x3
+535	Finest Handmade Bandage x10
+536	Divine Mineral Fragment x3
+537	Revelation of the Guardian
+538	Signed Colossal Valiance Armor (F)
+539	S5 of higher Celtic Guardian Staff
+540	Antidote Potion x5
+541	HP & Stamina 50 Potion x20
+542	Divine Mineral Fragment x3
+543	Purified Apostle Essence
+544	Signed Languhiris Chaser Armor (M)
+545	S6 of higher Celtic Tetra Cylinder
+546	Iron Ingot x20
+547	Iron Plate x5
+548	Divine Mineral Fragment x3
+549	Ancient Monster Core
+550	Empty Bottle
+551	Bow
+552	Gold Ingot x20
+553	Gold Plate x5
+554	Divine Mineral Fragment x3
+555	Ancient Monster Core x3
+556	Celtic Cross
+557	S1 or higher Wand
+558	Mythril Ingot x20
+559	Mythril Plate x5
+560	Divine Mineral Fragment x3
+561	Ancient Monster Core x5
+562	Wooden Birdcage
+563	S1 or higher Staff
+564	Finest Silk x10
+565	Finest Fabric x5
+566	Divine Mineral Fragment x3
+567	Desecrated Charm Chunk x3
+568	Milky Way Lyre
+569	S2 or higher Cylinder
+570	Hillwen Alloy x5
+571	Lucky Rabbit Foot
+572	Divine Mineral Fragment x3
+573	Desecrated Charm Chunk x5
+574	5-Star Belvast Eel Rice Bowl
+575	S2 or higher Staff
+576	Fine Firewood x5
+577	Finest Firewood x5
+578	Divine Mineral Fragment x3
+579	Massive Turtle Shell Chip x5
+580	Signed Lace Layered Skirt
+581	S3 or higher Demonic Abyss Cylinder
+582	Tough Thread x5
+583	Finest Leather Strap x10
+584	Divine Mineral Fragment x3
+585	Corrupted Apostle Leather x5
+586	Signed Birnam Plate Boots
+587	S4 or higher Celtic Tribolt Wand
+588	Wood Board x3
+589	Finest Handmade Bandage x10
+590	Divine Mineral Fragment x3
+591	Revelation of the Guardian
+592	Signed Colossal Valiance Armor (M)
+593	S5 of higher Celtic Guardian Staff
+594	Antidote Potion x5
+595	HP & Stamina 50 Potion x20
+596	Divine Mineral Fragment x3
+597	Purified Apostle Essence
+598	Signed Languhiris Chaser Armor (M)
+599	S6 of higher Celtic Tetra Cylinder
+600	Iron Ingot x20
+601	Iron Plate x5
+602	Divine Mineral Fragment x3
+603	Ancient Monster Core
+604	Dice
+605	One-handed Sword
+606	Gold Ingot x20
+607	Gold Plate x5
+608	Divine Mineral Fragment x3
+609	Ancient Monster Core x3
+610	Celtic Cross
+611	R1 or higher One-handed Axe
+612	Mythril Ingot x20
+613	Mythril Plate x5
+614	Divine Mineral Fragment x3
+615	Ancient Monster Core x5
+616	Rock Costume Kit
+617	R1 or higher One-handed Blunt Weapon
+618	Finest Silk x10
+619	Finest Fabric x5
+620	Divine Mineral Fragment x3
+621	Desecrated Charm Chunk x3
+622	Milky Way Bass Drum
+623	R2 or higher Two-handed Axe
+624	Hillwen Alloy x5
+625	Lucky Rabbit Foot
+626	Divine Mineral Fragment x3
+627	Desecrated Charm Chunk x5
+628	5-Star Pumpkin Galbi Stew
+629	R2 or higher Knuckle
+630	Fine Firewood x5
+631	Finest Firewood x5
+632	Divine Mineral Fragment x3
+633	Thorny Blue Shackle x5
+634	Signed Elegant Gothic Dress (Long)
+635	R3 or higher Demonic Solitude Knuckle
+636	Antidote Potion x5
+637	HP & Stamina 50 Potion x20
+638	Divine Mineral Fragment x3
+639	Corrupted Apostle Leather x5
+640	Signed Dustin Silver Knight Vambrace
+641	R4 or higher Celtic Royal Battle Axe
+642	Tough Thread x5
+643	Finest Leather Strap x10
+644	Divine Mineral Fragment x3
+645	Revelation of the Guardian
+646	Signed Colossal Valiance Greaves (F)
+647	R5 or higher Celtic Royal Warrior Hammer
+648	Wood Board x3
+649	Finest Handmade Bandage x10
+650	Divine Mineral Fragment x3
+651	Purified Apostle Essence
+652	Signed Bhafel Slayer Guard (M)
+653	R6 or higher Celtic Edged Knuckle
+654	Iron Ingot x20
+655	Iron Plate x5
+656	Divine Mineral Fragment x3
+657	Ancient Monster Core
+658	Fishing Rod
+659	One-handed Sword
+660	Gold Ingot x20
+661	Gold Plate x5
+662	Divine Mineral Fragment x3
+663	Ancient Monster Core x3
+664	White Owl Brooch
+665	R1 or higher One-handed Axe
+666	Mythril Ingot x20
+667	Mythril Plate x5
+668	Divine Mineral Fragment x3
+669	Ancient Monster Core x5
+670	Thicket Costume Kit
+671	R1 or higher One-handed Blunt Weapon
+672	Finest Silk x10
+673	Finest Fabric x5
+674	Divine Mineral Fragment x3
+675	Desecrated Charm Chunk x3
+676	Milky Way Electric Guitar
+677	R2 or higher Two-handed Axe
+678	Hillwen Alloy x5
+679	Lucky Rabbit Foot
+680	Divine Mineral Fragment x3
+681	Desecrated Charm Chunk x5
+682	5-Star Orange Marmalade
+683	R2 or higher Knuckle
+684	Fine Firewood x5
+685	Finest Firewood x5
+686	Divine Mineral Fragment x3
+687	Thorny Blue Shackle x5
+688	Signed Vivid Casual Suit
+689	R3 or higher Demonic Solitude Knuckle
+690	Antidote Potion x5
+691	HP & Stamina 50 Potion x20
+692	Divine Mineral Fragment x3
+693	Corrupted Apostle Leather x5
+694	Signed Dustin Silver Knight Armor
+695	R4 or higher Celtic Royal Battle Axe
+696	Tough Thread x5
+697	Finest Leather Strap x10
+698	Divine Mineral Fragment x3
+699	Revelation of the Guardian
+700	Signed Colossal Valiance Circlet (M)
+701	R5 or higher Celtic Royal Warrior Hammer
+702	Wood Board x3
+703	Finest Handmade Bandage x10
+704	Divine Mineral Fragment x3
+705	Purified Apostle Essence
+706	Signed Bhafel Slayer Guard (F)
+707	R6 or higher Celtic Edged Knuckle
+708	Iron Ingot x20
+709	Iron Plate x5
+710	Divine Mineral Fragment x3
+711	Ancient Monster Core
+712	Fishing Rod
+713	One-handed Sword
+714	Gold Ingot x20
+715	Gold Plate x5
+716	Divine Mineral Fragment x3
+717	Ancient Monster Core x3
+718	White Owl Brooch
+719	R1 or higher One-handed Axe
+720	Mythril Ingot x20
+721	Mythril Plate x5
+722	Divine Mineral Fragment x3
+723	Ancient Monster Core x5
+724	Thicket Costume Kit
+725	R1 or higher One-handed Blunt Weapon
+726	Finest Silk x10
+727	Finest Fabric x5
+728	Divine Mineral Fragment x3
+729	Desecrated Charm Chunk x3
+730	Milky Way Electric Guitar
+731	R2 or higher Two-handed Axe
+732	Hillwen Alloy x5
+733	Lucky Rabbit Foot
+734	Divine Mineral Fragment x3
+735	Desecrated Charm Chunk x5
+736	5-Star Orange Marmalade
+737	R2 or higher Knuckle
+738	Fine Firewood x5
+739	Finest Firewood x5
+740	Divine Mineral Fragment x3
+741	Thorny Blue Shackle x5
+742	Signed Vivid Casual Suit
+743	R3 or higher Demonic Solitude Knuckle
+744	Antidote Potion x5
+745	HP & Stamina 50 Potion x20
+746	Divine Mineral Fragment x3
+747	Corrupted Apostle Leather x5
+748	Signed Dustin Silver Knight Armor
+749	R4 or higher Celtic Royal Battle Axe
+750	Tough Thread x5
+751	Finest Leather Strap x10
+752	Divine Mineral Fragment x3
+753	Revelation of the Guardian
+754	Signed Colossal Valiance Circlet (M)
+755	R5 or higher Celtic Royal Warrior Hammer
+756	Wood Board x3
+757	Finest Handmade Bandage x10
+758	Divine Mineral Fragment x3
+759	Purified Apostle Essence
+760	Signed Bhafel Slayer Guard (F)
+761	R6 or higher Celtic Edged Knuckle
+762	Iron Ingot x20
+763	Iron Plate x5
+764	Divine Mineral Fragment x3
+765	Ancient Monster Core
+766	Fishing Rod
+767	One-handed Sword
+768	Gold Ingot x20
+769	Gold Plate x5
+770	Divine Mineral Fragment x3
+771	Ancient Monster Core x3
+772	White Owl Brooch
+773	R1 or higher One-handed Axe
+774	Mythril Ingot x20
+775	Mythril Plate x5
+776	Divine Mineral Fragment x3
+777	Ancient Monster Core x5
+778	Thicket Costume Kit
+779	R1 or higher One-handed Blunt Weapon
+780	Finest Silk x10
+781	Finest Fabric x5
+782	Divine Mineral Fragment x3
+783	Desecrated Charm Chunk x3
+784	Milky Way Electric Guitar
+785	R2 or higher Two-handed Axe
+786	Hillwen Alloy x5
+787	Lucky Rabbit Foot
+788	Divine Mineral Fragment x3
+789	Desecrated Charm Chunk x5
+790	5-Star Orange Marmalade
+791	R2 or higher Knuckle
+792	Fine Firewood x5
+793	Finest Firewood x5
+794	Divine Mineral Fragment x3
+795	Thorny Blue Shackle x5
+796	Signed Vivid Casual Suit
+797	R3 or higher Demonic Solitude Knuckle
+798	Antidote Potion x5
+799	HP & Stamina 50 Potion x20
+800	Divine Mineral Fragment x3
+801	Corrupted Apostle Leather x5
+802	Signed Dustin Silver Knight Armor
+803	R4 or higher Celtic Royal Battle Axe
+804	Tough Thread x5
+805	Finest Leather Strap x10
+806	Divine Mineral Fragment x3
+807	Revelation of the Guardian
+808	Signed Colossal Valiance Circlet (M)
+809	R5 or higher Celtic Royal Warrior Hammer
+810	Wood Board x3
+811	Finest Handmade Bandage x10
+812	Divine Mineral Fragment x3
+813	Purified Apostle Essence
+814	Signed Bhafel Slayer Guard (F)
+815	R6 or higher Celtic Edged Knuckle
+816	Iron Ingot x20
+817	Iron Plate x5
+818	Divine Mineral Fragment x3
+819	Ancient Monster Core
+820	Dice
+821	One-handed Sword
+822	Gold Ingot x20
+823	Gold Plate x5
+824	Divine Mineral Fragment x3
+825	Ancient Monster Core x3
+826	Celtic Cross
+827	R1 or higher One-handed Axe
+828	Mythril Ingot x20
+829	Mythril Plate x5
+830	Divine Mineral Fragment x3
+831	Ancient Monster Core x5
+832	Rock Costume Kit
+833	R1 or higher One-handed Blunt Weapon
+834	Finest Silk x10
+835	Finest Fabric x5
+836	Divine Mineral Fragment x3
+837	Desecrated Charm Chunk x3
+838	Milky Way Bass Drum
+839	R2 or higher Two-handed Axe
+840	Hillwen Alloy x5
+841	Lucky Rabbit Foot
+842	Divine Mineral Fragment x3
+843	Desecrated Charm Chunk x5
+844	5-Star Pumpkin Galbi Stew
+845	R2 or higher Knuckle
+846	Fine Firewood x5
+847	Finest Firewood x5
+848	Divine Mineral Fragment x3
+849	Thorny Blue Shackle x5
+850	Signed Elegant Gothic Dress (Long)
+851	R3 or higher Demonic Solitude Knuckle
+852	Antidote Potion x5
+853	HP & Stamina 50 Potion x20
+854	Divine Mineral Fragment x3
+855	Corrupted Apostle Leather x5
+856	Signed Dustin Silver Knight Vambrace
+857	R4 or higher Celtic Royal Battle Axe
+858	Tough Thread x5
+859	Finest Leather Strap x10
+860	Divine Mineral Fragment x3
+861	Revelation of the Guardian
+862	Signed Colossal Valiance Greaves (F)
+863	R5 or higher Celtic Royal Warrior Hammer
+864	Wood Board x3
+865	Finest Handmade Bandage x10
+866	Divine Mineral Fragment x3
+867	Purified Apostle Essence
+868	Signed Bhafel Slayer Guard (M)
+869	R6 or higher Celtic Edged Knuckle
+870	Iron Ingot x20
+871	Iron Plate x5
+872	Divine Mineral Fragment x3
+873	Ancient Monster Core
+874	Dice
+875	One-handed Sword
+876	Gold Ingot x20
+877	Gold Plate x5
+878	Divine Mineral Fragment x3
+879	Ancient Monster Core x3
+880	Celtic Cross
+881	R1 or higher One-handed Axe
+882	Mythril Ingot x20
+883	Mythril Plate x5
+884	Divine Mineral Fragment x3
+885	Ancient Monster Core x5
+886	Rock Costume Kit
+887	R1 or higher One-handed Blunt Weapon
+888	Finest Silk x10
+889	Finest Fabric x5
+890	Divine Mineral Fragment x3
+891	Desecrated Charm Chunk x3
+892	Milky Way Bass Drum
+893	R2 or higher Two-handed Axe
+894	Hillwen Alloy x5
+895	Lucky Rabbit Foot
+896	Divine Mineral Fragment x3
+897	Desecrated Charm Chunk x5
+898	5-Star Pumpkin Galbi Stew
+899	R2 or higher Knuckle
+900	Fine Firewood x5
+901	Finest Firewood x5
+902	Divine Mineral Fragment x3
+903	Thorny Blue Shackle x5
+904	Signed Elegant Gothic Dress (Long)
+905	R3 or higher Demonic Solitude Knuckle
+906	Antidote Potion x5
+907	HP & Stamina 50 Potion x20
+908	Divine Mineral Fragment x3
+909	Corrupted Apostle Leather x5
+910	Signed Dustin Silver Knight Vambrace
+911	R4 or higher Celtic Royal Battle Axe
+912	Tough Thread x5
+913	Finest Leather Strap x10
+914	Divine Mineral Fragment x3
+915	Revelation of the Guardian
+916	Signed Colossal Valiance Greaves (F)
+917	R5 or higher Celtic Royal Warrior Hammer
+918	Wood Board x3
+919	Finest Handmade Bandage x10
+920	Divine Mineral Fragment x3
+921	Purified Apostle Essence
+922	Signed Bhafel Slayer Guard (M)
+923	R6 or higher Celtic Edged Knuckle
+924	Iron Ingot x20
+925	Iron Plate x5
+926	Divine Mineral Fragment x3
+927	Ancient Monster Core
+928	Dice
+929	One-handed Sword
+930	Gold Ingot x20
+931	Gold Plate x5
+932	Divine Mineral Fragment x3
+933	Ancient Monster Core x3
+934	Celtic Cross
+935	R1 or higher One-handed Axe
+936	Mythril Ingot x20
+937	Mythril Plate x5
+938	Divine Mineral Fragment x3
+939	Ancient Monster Core x5
+940	Rock Costume Kit
+941	R1 or higher One-handed Blunt Weapon
+942	Finest Silk x10
+943	Finest Fabric x5
+944	Divine Mineral Fragment x3
+945	Desecrated Charm Chunk x3
+946	Milky Way Bass Drum
+947	R2 or higher Two-handed Axe
+948	Hillwen Alloy x5
+949	Lucky Rabbit Foot
+950	Divine Mineral Fragment x3
+951	Desecrated Charm Chunk x5
+952	5-Star Pumpkin Galbi Stew
+953	R2 or higher Knuckle
+954	Fine Firewood x5
+955	Finest Firewood x5
+956	Divine Mineral Fragment x3
+957	Thorny Blue Shackle x5
+958	Signed Elegant Gothic Dress (Long)
+959	R3 or higher Demonic Solitude Knuckle
+960	Antidote Potion x5
+961	HP & Stamina 50 Potion x20
+962	Divine Mineral Fragment x3
+963	Corrupted Apostle Leather x5
+964	Signed Dustin Silver Knight Vambrace
+965	R4 or higher Celtic Royal Battle Axe
+966	Tough Thread x5
+967	Finest Leather Strap x10
+968	Divine Mineral Fragment x3
+969	Revelation of the Guardian
+970	Signed Colossal Valiance Greaves (F)
+971	R5 or higher Celtic Royal Warrior Hammer
+972	Wood Board x3
+973	Finest Handmade Bandage x10
+974	Divine Mineral Fragment x3
+975	Purified Apostle Essence
+976	Signed Bhafel Slayer Guard (M)
+977	R6 or higher Celtic Edged Knuckle
+978	Iron Ingot x20
+979	Iron Plate x5
+980	Divine Mineral Fragment x3
+981	Ancient Monster Core
+982	Fishing Rod
+983	One-handed Sword
+984	Gold Ingot x20
+985	Gold Plate x5
+986	Divine Mineral Fragment x3
+987	Ancient Monster Core x3
+988	White Owl Brooch
+989	R1 or higher One-handed Axe
+990	Mythril Ingot x20
+991	Mythril Plate x5
+992	Divine Mineral Fragment x3
+993	Ancient Monster Core x5
+994	Thicket Costume Kit
+995	R1 or higher One-handed Blunt Weapon
+996	Finest Silk x10
+997	Finest Fabric x5
+998	Divine Mineral Fragment x3
+999	Desecrated Charm Chunk x3
+1000	Milky Way Electric Guitar
+1001	R2 or higher Two-handed Axe
+1002	Hillwen Alloy x5
+1003	Lucky Rabbit Foot
+1004	Divine Mineral Fragment x3
+1005	Desecrated Charm Chunk x5
+1006	5-Star Orange Marmalade
+1007	R2 or higher Knuckle
+1008	Fine Firewood x5
+1009	Finest Firewood x5
+1010	Divine Mineral Fragment x3
+1011	Thorny Blue Shackle x5
+1012	Signed Vivid Casual Suit
+1013	R3 or higher Demonic Solitude Knuckle
+1014	Antidote Potion x5
+1015	HP & Stamina 50 Potion x20
+1016	Divine Mineral Fragment x3
+1017	Corrupted Apostle Leather x5
+1018	Signed Dustin Silver Knight Armor
+1019	R4 or higher Celtic Royal Battle Axe
+1020	Tough Thread x5
+1021	Finest Leather Strap x10
+1022	Divine Mineral Fragment x3
+1023	Revelation of the Guardian
+1024	Signed Colossal Valiance Circlet (M)
+1025	R5 or higher Celtic Royal Warrior Hammer
+1026	Wood Board x3
+1027	Finest Handmade Bandage x10
+1028	Divine Mineral Fragment x3
+1029	Purified Apostle Essence
+1030	Signed Bhafel Slayer Guard (F)
+1031	R6 or higher Celtic Edged Knuckle

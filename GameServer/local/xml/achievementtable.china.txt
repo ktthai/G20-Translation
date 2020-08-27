@@ -1,0 +1,1916 @@
+﻿1	Reached! Cumulative Level 100
+2	Reached! Cumulative Level 300
+3	Reached! Cumulative Level 500
+4	Reached! Cumulative Level 1000
+5	Reached! Cumulative Level 2000
+6	Reached! Cumulative Level 3000
+7	Reached! Cumulative Level 4000
+8	Reached! Cumulative Level 5000
+9	Reached! Cumulative Level 6000
+10	Reached! Cumulative Level 7000
+11	Reached! Cumulative Level 8000
+12	Reached! Cumulative Level 9000
+13	Reached! Cumulative Level 10000
+14	Reached! Level 10
+15	Reached! Level 20
+16	Reached! Level 30
+17	Reached! Level 40
+18	Reached! Level 50
+19	Reached! Level 60
+20	Reached! Level 70
+21	Reached! Level 80
+22	Reached! Level 90
+23	Reached! Level 100
+24	Pioneer of Iria
+25	Mana Tunnel Master
+26	Animal Lover
+27	Animal Farm
+28	Look! It's me again!
+29	Born Again...and Again
+30	Seeya in the Next Life
+31	Obsessed with Rebirthing
+32	Reincarnation Master
+33	From the Ashes of a Phoenix
+34	Immortal
+35	Hurray for King Krug!
+36	Hurray for Castanea!
+37	The Old Ball and Chain
+38	Mastered! 1 Skill
+39	Mastered! 10 Skills
+40	Mastered! 20 Skills
+41	Dungeon Crawler
+42	Step Lightly
+43	Seal Breaker
+44	Champion
+45	Infra Black
+46	Lord
+47	Sage
+48	Spirit Weapon Maker
+49	100 PvP Wins
+50	The Early Bird Catches the Worm
+51	Employed
+52	Gotta Pay the Bills
+53	Workaholic
+54	Dugald Aisle Seal Breaker
+55	Ciar Seal Breaker
+56	Rabbie Seal Breaker
+57	Math Seal Breaker
+58	Bangor Seal Breaker
+59	Fiodh Seal Breaker
+60	South Emain Macha Seal Breaker
+61	North Emain Macha Seal Breaker
+62	Sliab Cuilin Seal Breaker
+63	Abb Neagh Seal Breaker
+64	Tara Seal Breaker
+65	Super Diligent
+66	Reach Cumulative Level 100
+67	Reach Cumulative Level 300
+68	Reach Cumulative Level 500
+69	Reach Cumulative Level 1000
+70	Reach Cumulative Level 2000
+71	Reach Cumulative Level 3000
+72	Reach Cumulative Level 4000
+73	Reach Cumulative Level 5000
+74	Reach Cumulative Level 6000
+75	Reach Cumulative Level 7000
+76	Reach Cumulative Level 8000
+77	Reach Cumulative Level 9000
+78	Reach Cumulative Level 10000
+79	Reach Level 10
+80	Reach Level 20
+81	Reach Level 30
+82	Reach Level 40
+83	Reach Level 50
+84	Reach Level 60
+85	Reach Level 70
+86	Reach Level 80
+87	Reach Level 90
+88	Reach Level 100
+89	Reach Exploration Level 25
+90	Use all Mana Tunnels
+91	Own 30 Pets
+92	Own 50 Pets
+93	Rebirth 1 Time
+94	Rebirth 10 Times
+95	Rebirth 25 Times
+96	Rebirth 50 Times
+97	Rebirth 100 Times
+98	Rebirth 150 Times
+99	Rebirth 200 Times
+100	Support the Giants
+101	Support the Elves
+102	Get Married
+103	Obtain 1 Master Title
+104	Obtain 10 Master Titles
+105	Obtain 20 Master Titles
+106	Visit All Dungeons (Including Arenas)
+107	Step on All Emblems in Iria
+108	Get the Seal Breaker Title
+109	Become a Paladin-Champion
+110	Become a Dark Knight-Infra Black
+111	Become a Beast-Lord
+112	Become a Falcon-Sage
+113	Make a Spirit Weapon
+114	Win 100 PvP Matches
+115	Acquire the Diligent Title
+116	Complete 9999 Part-Time Jobs
+117	Complete 20000 Part-time Jobs
+118	Complete 30000 Part-time Jobs
+119	Acquire the Dugald Aisle Seal Breaker Title
+120	Acquire the Ciar Seal Breaker Title
+121	Acquire the Rabbie Seal Breaker Title
+122	Acquire the Math Seal Breaker Title
+123	Acquire the Bangor Seal Breaker Title
+124	Acquire the Fiodh Seal Breaker Title
+125	Acquire the South Emain Macha Seal Breaker Title
+126	Acquire the North Emain Macha Seal Breaker Title
+127	Acquire the Sliab Cuilin Seal Breaker Title
+128	Acquire the Abb Neagh Seal Breaker Title
+129	Acquire the Tara Seal Breaker Title
+130	Acquire the Super Diligent Title
+131	You've reached a Cumulative Level of 100.
+132	You've reached a Cumulative Level of 300.
+133	You've reached a Cumulative Level of 500.
+134	You've reached a Cumulative Level of 1000.
+135	You've reached a Cumulative Level of 2000.
+136	You've reached a Cumulative Level of 3000.
+137	You've reached a Cumulative Level of 4000.
+138	You've reached a Cumulative Level of 5000.
+139	You've reached a Cumulative Level of 6000.
+140	You've reached a Cumulative Level of 7000.
+141	You've reached a Cumulative Level of 8000.
+142	You've reached a Cumulative Level of 9000.
+143	You've reached a Cumulative Level of 10000.
+144	You've reached Level 10.
+145	You've reached Level 20.
+146	You've reached Level 30.
+147	You've reached Level 40.
+148	You've reached Level 50.
+149	You've reached Level 60.
+150	You've reached Level 70.
+151	You've reached Level 80.
+152	You've reached Level 90.
+153	You've reached Level 100!
+154	You've reached Exploration Level 25.
+155	You've used all the Mana Tunnels.
+156	You have 30 Animal Friends.
+157	You have 50 Animal Friends.
+158	You've rebirthed for the first time. You feel alive again.
+159	You've rebirthed 10 times.
+160	You've rebirthed 25 times.
+161	You've rebirthed 50 times.
+162	You've rebirthed 100 times.
+163	You've rebirthed 150 times.
+164	You've rebirthed 200 times.
+165	You supported the Giants.
+166	You supported the Elves.
+167	You were married in Erinn.
+168	You've obtained a Master Title.
+169	You've obtained 10 Master Titles.
+170	You've obtained 20 Master Titles.
+171	You've visited all the dungeons in Uladh and Iria.
+172	You've personally stepped on every emblem in Iria.
+173	You have at least one Seal Breaker amongst all the ones that can be obtained in Erinn. 
+174	You've become a Champion.
+175	You've become an Infra Black.
+176	You've become a Lord.
+177	You've become a Sage.
+178	You've successfully made a Spirit Weapon.
+179	You've won 100 PvP matches.
+180	You have the Dilligent Title.
+181	You've completed 9999 part-time jobs.
+182	You've completed 20000 part-time jobs.
+183	You've completed 30000 part-time jobs.
+184	You've broken the Seal Stone of Dugald Aisle.
+185	You've broken the Seal Stone of Ciar Dungeon.
+186	You've broken the Seal Stone of Rabbie Dungeon.
+187	You've broken the Seal Stone of Math Dungeon.
+188	You've broken the Seal Stone of Bangor Dungeon.
+189	You've broken the Seal Stone of Fiodh Dungeon.
+190	You've broken the Seal Stone of South Emain Macha.
+191	You've broken the Seal Stone of North Emain Macha.
+192	You've broken the Seal Stone of Sliab Cuilin.
+193	You've broken the Seal Stone of Abb Neagh.
+194	You've broken the Seal Stone of Tara.
+195	You have the Super Diligent Title.
+196	Mountable Pet Owner
+197	Flying Pet Owner
+198	Obtain a Mountable Pet
+199	Obtain a Flying Pet
+202	Taking a Census
+203	Lighting Fires
+204	Visit Every Town
+205	Share a Campfire
+206	You've visited every town in Erinn.
+208	Enchant, Please!
+211	A Born Gladiator
+212	Win Battle Arena
+213	You've won a match in the Battle Arena.
+214	Advent of the Goddess
+215	Paladin
+216	Dark Knight
+217	Alchemist
+218	Goddess of Light
+219	Sword of the Gods
+220	Cleared Advent of the Goddess (Excluding Skips).
+221	Cleared Paladin (Excluding Skips).
+222	Cleared Dark Knight (Excluding Skips).
+223	Cleared Alchemist.
+224	Cleared Goddess of Light.
+225	Cleared Sword of the Gods.
+226	You've cleared Advent of the Goddess by playing through it.
+227	You've cleared Paladin by playing through it.
+228	You've cleared Dark Knight by playing through it.
+229	You've cleared Alchemist.
+230	You've cleared Goddess of Light.
+231	You've cleared Sword of the Gods.
+232	Reached! Social Level 30
+233	Reached! Social Level 40
+234	Reached! Social Level 45
+235	Reached! Social Level 50
+236	Reach Social Level 30
+237	Reach Social Level 40
+238	Reach Social Level 45
+239	Reach Social Level 50
+240	Your Spirit Weapon's social level has reached 30.
+241	Your Spirit Weapon's social level has reached 40.
+242	Your Spirit Weapon's social level has reached 45.
+243	Your Spirit Weapon's social level has reached 50.
+244	Fashionable Diva
+245	Get 1st place in a Fashion Show.
+246	You've placed 1st place in a Fashion Show.
+247	Country Living
+250	Wyvern Thrills
+251	Crack'n Egg!
+252	Obtain 100 Stars
+253	Clear Renes Play
+254	You obtained at least 100 stars aboard a Hot Air Balloon.
+255	You've successfully defended dragon eggs.
+256	Complete! Rua's Gift Quest
+257	Complete Rua's Gift Quest
+259	Where are the Ruins?
+260	L-Rod Master
+261	Find 10000 Relics
+262	Find 20000 Relics
+263	You've found 10000 Relics.
+264	You've found 20000 Relics.
+265	Gender Change Operation!
+266	Change Gender
+267	You changed your gender when rebirthing. That's different...
+268	We Are Family
+269	Join a Guild
+270	You have joined a Guild
+271	Receive Enchant Request
+272	Elite Alchemist
+273	Become Royal Alchemist
+274	You've become a Royal Alchemist.
+275	You've obtained a mountable pet.
+276	You've obtained a flying pet.
+277	You received Rua's Dress as a gift.
+278	You've received a request for an Enchant.
+285	Cleared! Guardian of Partholon Rank S
+286	Cleared! Red Dragon inside Shadow Realm Rank S
+287	Cleared! Secret Experiment in Waterway Rank S
+288	Clear Guardian of Partholon Rank S
+289	Clear Red Dragon inside Shadow Realm Rank S
+290	Clear Secret Experiment in Underground Waterway Rank S
+294	You've cleared the Guardian of Partholon Mission with Rank S.
+295	You've cleared the Red Dragon inside Shadow Realm Mission with Rank S.
+296	You've cleared the Secret Experiment in Underground Waterway Mission with Rank S.
+297	You've shared food with other using Camp Sharing.
+298	Earn 400,000 Gold Farming
+299	You've earned at least 400,000 Gold raising crops at the Farm.
+300	Philanthropist
+303	Donate more than others to help those in need.
+304	You've donated more than other people to help those in need!
+305	Return of the Hero
+306	Clear Return of the Hero.
+307	You've cleared Return of the Hero.
+309	Become a member of a full Family Tree.
+310	You've become a member of a family of 8!
+311	Big Family
+333	Clear the Stones of Sliab Cuilin Beginner
+334	Clear the Stones of Sliab Cuilin Intermediate
+335	Clear the Stones of Sliab Cuilin Advanced
+336	Clear the Stones of Sliab Cuilin Hard
+337	Complete the Stones of Sliab Cuilin
+338	Clear Conflict! An Unexpected Battle Beginner
+339	Clear Conflict! An Unexpected Battle Intermediate
+340	Clear Conflict! An Unexpected Battle Advanced
+341	Clear Conflict! An Unexpected Battle Hard
+342	Complete Conflict! An Unexpected Battle
+343	Clear Defeat the Shadow Warrior Beginner
+344	Clear Defeat the Shadow Warrior Intermediate
+345	Clear Defeat the Shadow Warrior Advanced
+346	Clear Defeat the Shadow Warrior Hard
+347	Complete Defeat the Shadow Warrior
+348	Clear Battle for Taillteann I Beginner
+349	Clear Battle for Taillteann I Intermediate
+350	Clear Battle for Taillteann I Advanced
+351	Clear Battle for Taillteann I Hard
+352	Complete Battle for Taillteann I
+353	Clear Battle for Taillteann II Beginner
+354	Clear Battle for Taillteann II Intermediate
+355	Clear Battle for Taillteann II Advanced
+356	Clear Battle for Taillteann II Hard
+357	Complete Battle for Taillteann II 
+358	Clear Rescue the Scout Beginner
+359	Clear Rescue the Scout Intermediate
+360	Clear Rescue the Scout Advanced
+361	Clear Rescue the Scout Hard
+362	Complete Rescue the Scout
+363	Clear Defeat Fomor Commander I Beginner
+364	Clear Defeat Fomor Commander I Intermediate
+365	Clear Defeat Fomor Commander I Advanced
+366	Clear Defeat Fomor Commander I Hard
+367	Complete Defeat Fomor Commander I
+368	Clear Defeat Fomor Commander II Beginner
+369	Clear Defeat Fomor Commander II Intermediate
+370	Clear Defeat Fomor Commander II Advanced
+371	Clear Defeat Fomor Commander II Hard
+372	Complete Defeat Fomor Commander II
+373	Clear Offering Beginner
+374	Clear Offering Intermediate
+375	Clear Offering Advanced
+376	Clear Offering Hard
+377	Complete Offering
+378	Clear Provocation Beginner
+379	Clear Provocation Intermediate
+380	Clear Provocation Advanced
+381	Clear Provocation Hard
+382	Complete Provocation
+453	Clear the Stones of Sliab Cuilin Beginner
+454	Clear the Stones of Sliab Cuilin Intermediate
+455	Clear the Stones of Sliab Cuilin Advanced
+456	Clear the Stones of Sliab Cuilin Hard
+457	Clear the Stones of Sliab Cuilin on all difficulties
+458	Clear Conflict! An Unexpected Battle Beginner
+459	Clear Conflict! An Unexpected Battle Intermediate
+460	Clear Conflict! An Unexpected Battle Advanced
+461	Clear Conflict! An Unexpected Battle Hard
+462	Clear Conflict! An Unexpected Battle on all difficulties
+463	Clear Defeat the Shadow Warrior Beginner
+464	Clear Defeat the Shadow Warrior Intermediate
+465	Clear Defeat the Shadow Warrior Advanced
+466	Clear Defeat the Shadow Warrior Hard
+467	Clear Defeat the Shadow Warrior on all difficulties
+468	Clear Battle for Taillteann I Beginner
+469	Clear Battle for Taillteann I Intermediate
+470	Clear Battle for Taillteann I Advanced
+471	Clear Battle for Taillteann I Hard
+472	Clear Battle for Taillteann I on all difficulties
+473	Clear Battle for Taillteann II Beginner
+474	Clear Battle for Taillteann II Intermediate
+475	Clear Battle for Taillteann II Advanced
+476	Clear Battle for Taillteann II Hard
+477	Clear Battle for Taillteann II on all difficulties
+478	Clear Rescue the Scout Beginner
+479	Clear Rescue the Scout Intermediate
+480	Clear Rescue the Scout Advanced
+481	Clear Rescue the Scout Hard
+482	Clear Rescue the Scout on all difficulties
+483	Clear Defeat Fomor Commander I Beginner
+484	Clear Defeat Fomor Commander I Intermediate
+485	Clear Defeat Fomor Commander I Advanced
+486	Clear Defeat Fomor Commander I Hard
+487	Clear Defeat Fomor Commander I on all difficulties
+488	Clear Defeat Fomor Commander II Beginner
+489	Clear Defeat Fomor Commander II Intermediate
+490	Clear Defeat Fomor Commander II Advanced
+491	Clear Defeat Fomor Commander II Hard
+492	Clear Defeat Fomor Commander II on all difficulties
+493	Clear Offering Beginner
+494	Clear Offering Intermediate
+495	Clear Offering Advanced
+496	Clear Offering Hard
+497	Clear Offering on all difficulties
+498	Clear Provocation Beginner
+499	Clear Provocation Intermediate
+500	Clear Provocation Advanced
+501	Clear Provocation Hard
+502	Clear Provocation on all difficulties
+574	You've cleared the Stones of Sliab Cuilin Beginner.
+575	You've cleared the Stones of Sliab Cuilin Intermediate.
+576	You've cleared the Stones of Sliab Cuilin Advanced.
+577	You've cleared the Stones of Sliab Cuilin Hard.
+579	You've cleared Conflict! An Unexpected Battle Beginner.
+580	You've cleared Conflict! An Unexpected Battle Intermediate.
+581	You've cleared Conflict! An Unexpected Battle Advanced.
+582	You've cleared Conflict! An Unexpected Battle Hard.
+584	You've cleared Defeat the Shadow Warrior Beginner.
+585	You've cleared Defeat the Shadow Warrior Intermediate.
+586	You've cleared Defeat the Shadow Warrior Advanced.
+587	You've cleared Defeat the Shadow Warrior Hard.
+589	You've cleared Battle for Taillteann I Beginner.
+590	You've cleared Battle for Taillteann I Intermediate.
+591	You've cleared Battle for Taillteann I Advanced.
+592	You've cleared Battle for Taillteann I Hard.
+594	You've cleared Battle for Taillteann II Beginner.
+595	You've cleared Battle for Taillteann II Intermediate.
+596	You've cleared Battle for Taillteann II Advanced.
+597	You've cleared Battle for Taillteann II Hard.
+599	You've cleared Rescue the Scout Beginner.
+600	You've cleared Rescue the Scout Intermediate.
+601	You've cleared Rescue the Scout Advanced.
+602	You've cleared Rescue the Scout Hard.
+604	You've cleared Defeat Fomor Commander I Beginner.
+605	You've cleared Defeat Fomor Commander I Intermediate.
+606	You've cleared Defeat Fomor Commander I Advanced.
+607	You've cleared Defeat Fomor Commander I Hard.
+609	You've cleared Defeat Fomor Commander II Beginner.
+610	You've cleared Defeat Fomor Commander II Intermediate.
+611	You've cleared Defeat Fomor Commander II Advanced.
+612	You've cleared Defeat Fomor Commander II Hard.
+614	You've cleared Offering Beginner.
+615	You've cleared Offering Intermediate.
+616	You've cleared Offering Advanced.
+617	You've cleared Offering Hard.
+619	You've cleared Provocation Beginner.
+620	You've cleared Provocation Intermediate.
+621	You've cleared Provocation Advanced.
+622	You've cleared Provocation Hard.
+694	Clear Taillteann Defensive Battle Beginner
+695	Clear Taillteann Defensive Battle Intermediate
+696	Clear Taillteann Defensive Battle Advanced
+697	Clear Taillteann Defensive Battle Hard
+698	Complete Taillteann Defensive Battle
+699	Clear Defeat the Shadow Wizard Beginner
+700	Clear Defeat the Shadow Wizard Intermediate
+701	Clear Defeat the Shadow Wizard Advanced
+702	Clear Defeat the Shadow Wizard Hard
+703	Complete Defeat the Shadow Wizard
+704	Clear Dorren's Request Beginner
+705	Clear Dorren's Request Intermediate
+706	Clear Dorren's Request Advanced
+707	Clear Dorren's Request Hard
+708	Complete Dorren's Request
+709	Clear Mobilizing the Expeditionary Force Beginner
+710	Clear Mobilizing the Expeditionary Force Intermediate
+711	Clear Mobilizing the Expeditionary Force Advanced
+712	Clear Mobilizing the Expeditionary Force Hard
+713	Complete Mobilizing the Expeditionary Force
+714	Clear The Sulfur Spider inside Shadow Realm Beginner
+715	Clear The Sulfur Spider inside Shadow Realm Intermediate
+716	Clear The Sulfur Spider inside Shadow Realm Advanced
+717	Clear The Sulfur Spider inside Shadow Realm Hard
+718	Complete The Sulfur Spider inside Shadow Realm
+719	Clear Fomor Attack Beginner
+720	Clear Fomor Attack Intermediate
+721	Clear Fomor Attack Advanced
+722	Clear Fomor Attack Hard
+723	Complete Fomor Attack
+724	Clear The Other Alchemists Beginner
+725	Clear The Other Alchemists Intermediate
+726	Clear The Other Alchemists Advanced
+727	Clear The Other Alchemists Hard
+728	Complete The Other Alchemists 
+729	Clear Ghost of Partholon Beginner
+730	Clear Ghost of Partholon Intermediate
+731	Clear Ghost of Partholon Advanced
+732	Clear Ghost of Partholon Hard
+733	Complete Ghost of Partholon 
+734	Clear Shadow Cast City Beginner
+735	Clear Shadow Cast City Intermediate
+736	Clear Shadow Cast City Advanced
+737	Clear Shadow Cast City Hard
+738	Complete Shadow Cast City Hard
+739	Clear Their Method Beginner
+740	Clear Their Method Intermediate
+741	Clear Their Method Advanced
+742	Clear Their Method Hard
+743	Complete Their Method
+744	Clear Lingering Darkness Beginner
+745	Clear Lingering Darkness Intermediate
+746	Clear Lingering Darkness Advanced
+747	Clear Lingering Darkness Hard
+748	Complete Lingering Darkness
+749	Clear Enemy Behind Beginner
+750	Clear Enemy Behind Intermediate
+751	Clear Enemy Behind Advanced
+752	Clear Enemy Behind Hard
+753	Complete Enemy Behind
+754	Clear Protect Corrib Valley Beginner
+755	Clear Protect Corrib Valley Intermediate
+756	Clear Protect Corrib Valley Advanced
+757	Clear Protect Corrib Valley Hard
+758	Complete Protect Corrib Valley
+759	Clear The Smell of Wine Beginner
+760	Clear The Smell of Wine Intermediate
+761	Clear The Smell of Wine Advanced
+762	Clear The Smell of Wine Hard
+763	Complete The Smell of Wine
+764	Clear The Smell of Wine Beginner
+765	Clear The Smell of Wine Intermediate
+766	Clear The Smell of Wine Advanced
+767	Clear The Smell of Wine Hard
+774	Clear Alby Dungeon
+775	Clear Alby Basic Dungeon
+776	Clear Alby Intermediate Dungeon
+777	Clear Alby Advanced Dungeon
+778	Complete Alby Dungeon
+779	Clear Taillteann Defensive Battle Beginner
+780	Clear Taillteann Defensive Battle Intermediate
+781	Clear Taillteann Defensive Battle Advanced
+782	Clear Taillteann Defensive Battle Hard
+783	Clear Taillteann Defensive Battle on all difficulties
+784	Clear Defeat the Shadow Wizard Beginner
+785	Clear Defeat the Shadow Wizard Intermediate
+786	Clear Defeat the Shadow Wizard Advanced
+787	Clear Defeat the Shadow Wizard Hard
+788	Clear Defeat the Shadow Wizard on all difficulties
+789	Clear Dorren's Request Beginner
+790	Clear Dorren's Request Intermediate
+791	Clear Dorren's Request Advanced
+792	Clear Dorren's Request Hard
+793	Clear Dorren's Request on all difficulties
+794	Clear Mobilizing the Expeditionary Force Beginner
+795	Clear Mobilizing the Expeditionary Force Intermediate
+796	Clear Mobilizing the Expeditionary Force Advanced
+797	Clear Mobilizing the Expeditionary Force Hard
+798	Clear Mobilizing the Expeditionary Force on all difficulties
+799	Clear The Sulfur Spider inside Shadow Realm Beginner
+800	Clear The Sulfur Spider inside Shadow Realm Intermediate
+801	Clear The Sulfur Spider inside Shadow Realm Advanced
+802	Clear The Sulfur Spider inside Shadow Realm Hard
+803	Clear The Sulfur Spider inside Shadow Realm on all difficulties
+804	Clear Fomor Attack Beginner
+805	Clear Fomor Attack Intermediate
+806	Clear Fomor Attack Advanced
+807	Clear Fomor Attack Hard
+808	Clear Fomor Attack on all difficulties
+809	Clear The Other Alchemists Beginner
+810	Clear The Other Alchemists Intermediate
+811	Clear The Other Alchemists Advanced
+812	Clear The Other Alchemists Hard
+813	Clear The Other Alchemists on all difficulties
+814	Clear Ghost of Partholon Beginner
+815	Clear Ghost of Partholon Intermediate
+816	Clear Ghost of Partholon Advanced
+817	Clear Ghost of Partholon Hard
+818	Clear Ghost of Partholon on all difficulties
+819	Clear Shadow Cast City Beginner
+820	Clear Shadow Cast City Intermediate
+821	Clear Shadow Cast City Advanced
+822	Clear Shadow Cast City Hard
+823	Clear Shadow Cast City on all difficulties
+824	Clear Their Method Beginner
+825	Clear Their Method Intermediate
+826	Clear Their Method Advanced
+827	Clear Their Method Hard
+828	Clear Their Method on all difficulties
+829	Clear Lingering Darkness Beginner
+830	Clear Lingering Darkness Intermediate
+831	Clear Lingering Darkness Advanced
+832	Clear Lingering Darkness Hard
+833	Clear Lingering Darkness on all difficulties
+834	Clear Enemy Behind Beginner
+835	Clear Enemy Behind Intermediate
+836	Clear Enemy Behind Advanced
+837	Clear Enemy Behind Hard
+838	Clear Enemy Behind on all difficulties
+839	Clear Protect Corrib Valley Beginner
+840	Clear Protect Corrib Valley Intermediate
+841	Clear Protect Corrib Valley Advanced
+842	Clear Protect Corrib Valley Hard
+843	Clear Protect Corrib Valley on all difficulties
+848	Clear Smell of Wine on all difficulties
+859	Clear Alby Dungeon
+860	Clear Alby Basic Dungeon
+861	Clear Alby Intermediate Dungeon
+862	Clear Alby Advanced Dungeon
+863	Complete Alby Dungeon
+864	You've cleared Taillteann Defensive Battle Beginner.
+865	You've cleared Taillteann Defensive Battle Intermediate.
+866	You've cleared Taillteann Defensive Battle Advanced.
+867	You've cleared Taillteann Defensive Battle Hard.
+869	You've cleared Defeat the Shadow Wizard Beginner.
+870	You've cleared Defeat the Shadow Wizard Intermediate.
+871	You've cleared Defeat the Shadow Wizard Advanced.
+872	You've cleared Defeat the Shadow Wizard Hard.
+874	You've cleared Dorren's Request Beginner.
+875	You've cleared Dorren's Request Intermediate.
+876	You've cleared Dorren's Request Advanced.
+877	You've cleared Dorren's Request Hard.
+879	You've cleared Mobilizing the Expeditionary Force Beginner.
+880	You've cleared Mobilizing the Expeditionary Force Intermediate.
+881	You've cleared Mobilizing the Expeditionary Force Advanced.
+882	You've cleared Mobilizing the Expeditionary Force Hard.
+884	You've cleared The Sulfur Spider inside Shadow Realm Beginner.
+885	You've cleared The Sulfur Spider inside Shadow Realm Intermediate.
+886	You've cleared The Sulfur Spider inside Shadow Realm Advanced.
+887	You've cleared The Sulfur Spider inside Shadow Realm Hard.
+889	You've cleared Fomor Attack Beginner.
+890	You've cleared Fomor Attack Intermediate.
+891	You've cleared Fomor Attack Advanced.
+892	You've cleared Fomor Attack Hard.
+894	You've cleared The Other Alchemists Beginner.
+895	You've cleared The Other Alchemists Intermediate.
+896	You've cleared The Other Alchemists Advanced.
+897	You've cleared The Other Alchemists Hard.
+899	You've cleared Ghost of Partholon Beginner.
+900	You've cleared Ghost of Partholon Intermediate.
+901	You've cleared Ghost of Partholon Advanced.
+902	You've cleared Ghost of Partholon Hard.
+904	You've cleared Shadow Cast City Beginner.
+905	You've cleared Shadow Cast City Intermediate.
+906	You've cleared Shadow Cast City Advanced.
+907	You've cleared Shadow Cast City Hard.
+909	You've cleared Their Method Beginner.
+910	You've cleared Their Method Intermediate.
+911	You've cleared Their Method Advanced.
+912	You've cleared Their Method Hard.
+914	You've cleared Lingering Darkness Beginner.
+915	You've cleared Lingering Darkness Intermediate.
+916	You've cleared Lingering Darkness Advanced.
+917	You've cleared Lingering Darkness Hard.
+919	You've cleared Enemy Behind Beginner.
+920	You've cleared Enemy Behind Intermediate.
+921	You've cleared Enemy Behind Advanced.
+922	You've cleared Enemy Behind Hard.
+924	You've cleared Protect Corrib Valley Beginner.
+925	You've cleared Protect Corrib Valley Intermediate.
+926	You've cleared Protect Corrib Valley Advanced.
+927	You've cleared Protect Corrib Valley Hard.
+929	You've cleared Smell of Wine Beginner.
+930	You've cleared Smell of Wine Intermediate.
+931	You've cleared Smell of Wine Advanced.
+932	You've cleared Smell of Wine Hard.
+944	You've cleared Alby Dungeon.
+1159	Clear Ciar Dungeon
+1160	Clear Ciar Basic Dungeon
+1161	Clear Ciar Intermediate Dungeon
+1162	Clear Ciar Advanced Dungeon
+1163	Complete Ciar Dungeon
+1164	Clear Barri Dungeon
+1165	Clear Barri Basic Dungeon
+1166	Clear Barri Intermediate Dungeon
+1167	Clear Barri Advanced Dungeon
+1168	Complete Barri Dungeon
+1169	Clear Rabbie Dungeon
+1170	Clear Rabbie Basic Dungeon
+1171	Clear Rabbie Intermediate Dungeon
+1172	Clear Rabbie Advanced Dungeon
+1173	Complete Rabbie Dungeon
+1174	Clear Math Dungeon
+1175	Clear Math Basic Dungeon
+1176	Clear Math Intermediate Dungeon
+1177	Clear Math Advanced Dungeon
+1178	Complete Math Dungeon
+1179	Clear Rundal Dungeon
+1180	Clear Rundal Basic Dungeon
+1182	Clear Rundal Advanced Dungeon
+1183	Complete Rundal Dungeon
+1184	Clear Coill Dungeon
+1185	Clear Coill Basic Dungeon
+1186	Clear Coill Intermediate Dungeon
+1187	Clear Coill Advanced Dungeon
+1188	Complete Coill Dungeon
+1189	Clear Peaca Dungeon
+1190	Clear Peaca Basic Dungeon
+1191	Clear Peaca Intermediate Dungeon
+1192	Clear Peaca Advanced Dungeon
+1193	Complete Peaca Dungeon
+1194	Clear Fiodh Dungeon
+1195	Clear Fiodh Basic Dungeon
+1196	Clear Fiodh Intermediate Dungeon
+1197	Clear Fiodh Advanced Dungeon
+1198	Complete Fiodh Dungeon
+1214	Clear Maiz Prairie Dungeon
+1218	Complete Maiz Prairie Dungeon
+1219	Clear Karu Forest Dungeon
+1223	Complete Karu Forest Dungeon
+1224	Clear Longa Dungeon
+1228	Complete Longa Dungeon
+1229	Clear Par Dungeon
+1233	Complete Par Dungeon
+1234	Clear Dugald Castle Dungeon
+1235	Clear Sen Mag Castle Dungeon
+1236	Clear Abb Neagh Castle Dungeon
+1237	Clear Ciar Dungeon
+1238	Clear Ciar Basic Dungeon
+1239	Clear Ciar Intermediate Dungeon
+1240	Clear Ciar Advanced Dungeon
+1241	Complete Ciar Dungeon
+1242	Clear Barri Dungeon
+1243	Clear Barri Basic Dungeon
+1244	Clear Barri Intermediate Dungeon
+1245	Clear Barri Advanced Dungeon
+1246	Complete Barri Dungeon
+1247	Clear Rabbie Dungeon
+1248	Clear Rabbie Basic Dungeon
+1249	Clear Rabbie Intermediate Dungeon
+1250	Clear Rabbie Advanced Dungeon
+1251	Complete Rabbie Dungeon
+1252	Clear Math Dungeon
+1253	Clear Math Basic Dungeon
+1254	Clear Math Intermediate Dungeon
+1255	Clear Math Advanced Dungeon
+1256	Complete Math Dungeon
+1257	Clear Rundal Dungeon
+1258	Clear Rundal Basic Dungeon
+1260	Clear Rundal Advanced Dungeon
+1261	Complete Rundal Dungeon
+1262	Clear Coill Dungeon
+1263	Clear Coill Basic Dungeon
+1264	Clear Coill Intermediate Dungeon
+1265	Clear Coill Advanced Dungeon
+1266	Complete Coill Dungeon
+1267	Clear Peaca Dungeon
+1268	Clear Peaca Basic Dungeon
+1269	Clear Peaca Intermediate Dungeon
+1270	Clear Peaca Advanced Dungeon
+1271	Complete Peaca Dungeon
+1272	Clear Fiodh Dungeon
+1273	Clear Fiodh Basic Dungeon
+1274	Clear Fiodh Intermediate Dungeon
+1275	Clear Fiodh Advanced Dungeon
+1276	Complete Fiodh Dungeon
+1292	Clear Maiz Prairie Dungeon
+1296	Complete Maiz Prairie Dungeon
+1297	Clear Karu Forest Dungeon
+1301	Complete Karu Forest Dungeon
+1302	Clear Longa Dungeon
+1306	Complete Longa Dungeon
+1307	Clear Par Dungeon
+1311	Complete Par Dungeon
+1312	Clear Dugald Castle Dungeon
+1313	Clear Sen Mag Castle Dungeon
+1314	Clear Abb Neagh Castle Dungeon
+1315	You've cleared Ciar Dungeon.
+1320	You've cleared Barri Dungeon.
+1325	You've cleared Rabbie Dungeon.
+1330	You've cleared Math Dungeon.
+1335	You've cleared Rundal Dungeon.
+1340	You've cleared Coill Dungeon.
+1345	You've cleared Peaca Dungeon.
+1350	You've cleared Fiodh Dungeon.
+1370	You've cleared Maiz Prairie Dungeon.
+1375	You've cleared Karu Forest Dungeon.
+1380	You've cleared Longa Dungeon.
+1385	You've cleared Par Dungeon.
+1390	You've cleared Dugald Castle Dungeon.
+1391	You've cleared Sen Mag Castle Dungeon.
+1392	You've cleared Abb Neagh Castle Dungeon.
+1393	Clear Rundal Siren Dungeon
+1395	Clear Rundal Siren Dungeon
+1399	Clear Maiz Prairie Stone Gargoyle Dungeon
+1400	Clear Maiz Prairie Glowing Stone Gargoyle Dungeon
+1401	Clear Maiz Prairie Stone Gargoyle Dungeon
+1402	Clear Maiz Prairie Glowing Stone Gargoyle Dungeon
+1405	Clear Karu Forest Glowing Statue Dungeon
+1406	Clear Longa Gem Arrow Dungeon
+1407	Clear Longa Mysterious Arrow Dungeon
+1408	Clear Karu Forest Glowing Statue Dungeon
+1409	Clear Longa Gem Arrow Dungeon
+1410	Clear Longa Mysterious Arrow Dungeon
+1414	Clear Par Snow Crystal Dungeon
+1415	Clear Par Snow Crystal Dungeon
+1417	Clear Karu Forest Fragment Dungeon
+1418	Clear Karu Forest Fragment Dungeon
+1449	You've reached a Cumulative Level of 100.
+1495	Clear Defeat Crag Cow Beginner
+1496	Clear Defeat Crag Cow Intermediate
+1497	Clear Defeat Crag Cow Advanced
+1498	Clear Defeat Crag Cow Hard
+1499	Complete Defeat Crag Cow
+1500	Clear Defeat Crag Cow Beginner
+1501	Clear Defeat Crag Cow Intermediate
+1502	Clear Defeat Crag Cow Advanced
+1503	Clear Defeat Crag Cow Hard
+1504	Clear Defeat Crag Cow on all difficulties
+1505	You've cleared Defeat Crag Cow Beginner.
+1506	You've cleared Defeat Crag Cow Intermediate.
+1507	You've cleared Defeat Crag Cow Advanced.
+1508	You've cleared Defeat Crag Cow Hard.
+1551	You've cleared Alby Basic Dungeon.
+1552	You've cleared Alby Intermediate Dungeon.
+1553	You've cleared Alby Advanced Dungeon.
+1554	You've cleared Ciar Basic Dungeon.
+1555	You've cleared Ciar Intermediate Dungeon.
+1556	You've cleared Ciar Advanced Dungeon.
+1557	You've cleared Barri Basic Dungeon.
+1558	You've cleared Barri Intermediate Dungeon.
+1559	You've cleared Barri Advanced Dungeon.
+1560	You've cleared Rabbie Basic Dungeon.
+1561	You've cleared Rabbie Intermediate Dungeon.
+1562	You've cleared Rabbie Advanced Dungeon.
+1563	You've cleared Math Basic Dungeon.
+1564	You've cleared Math Intermediate Dungeon.
+1565	You've cleared Math Advanced Dungeon.
+1566	You've cleared Rundal Basic Dungeon.
+1567	You've cleared Rundal Siren Dungeon.
+1568	You've cleared Rundal Advanced Dungeon.
+1569	You've cleared Coill Basic Dungeon.
+1570	You've cleared Coill Intermediate Dungeon.
+1571	You've cleared Coill Advanced Dungeon.
+1572	You've cleared Peaca Basic Dungeon.
+1573	You've cleared Peaca Intermediate Dungeon.
+1574	You've cleared Peaca Advanced Dungeon.
+1575	You've cleared Fiodh Basic Dungeon.
+1576	You've cleared Fiodh Intermediate Dungeon.
+1577	You've cleared Fiodh Advanced Dungeon.
+1587	You've cleared Maiz Prairie Stone Gargoyle Dungeon.
+1588	You've cleared Maiz Prairie Glowing Stone Gargoyle Dungeon.
+1589	You've cleared Karu Forest Fragment Dungeon.
+1590	You've cleared Karu Forest Glowing Statue Dungeon.
+1591	You've cleared Longa Gem Arrow Dungeon.
+1592	You've cleared Longa Mysterious Arrow Dungeon.
+1593	You've cleared Par Snow Crystal Dungeon.
+1594	You've cleared all the difficulty levels of the Defeat Crag Cow mission. The journal entry for each difficulty will be reset.
+1595	You've cleared all the difficulty levels of the Stones of Sliab Cuilin mission. The journal entry for each difficulty will be reset.
+1596	You've cleared all the difficulty levels of the Conflict! An Unexpected Battle mission. The journal entry for each difficulty will be reset.
+1597	You've cleared all the difficulty levels of the Defeat the Shadow Warrior mission. The journal entry for each difficulty will be reset.
+1598	You've cleared all the difficulty levels of the Battle for Taillteann I mission. The journal entry for each difficulty will be reset.
+1599	You've cleared all the difficulty levels of the Battle for Taillteann II mission. The journal entry for each difficulty will be reset.
+1600	You've cleared all the difficulty levels of the Rescue the Scout mission. The journal entry for each difficulty will be reset.
+1601	You've cleared all the difficulty levels of the Defeat Fomor Commander I mission. The journal entry for each difficulty will be reset.
+1602	You've cleared all the difficulty levels of the Defeat Fomor Commander II mission. The journal entry for each difficulty will be reset.
+1603	You've cleared all the difficulty levels of the Offering mission. The journal entry for each difficulty will be reset.
+1604	You've cleared all the difficulty levels of the Provocation mission. The journal entry for each difficulty will be reset.
+1605	You've cleared all the difficulty levels of the Taillteann Defensive Battle mission. The journal entry for each difficulty will be reset.
+1606	You've cleared all the difficulty levels of the Defeat the Shadow Wizard mission. The journal entry for each difficulty will be reset.
+1607	You've cleared all the difficulty levels of the Dorren's Request mission. The journal entry for each difficulty will be reset.
+1608	You've cleared all the difficulty levels of the Mobilizing the Expeditionary Force mission. The journal entry for each difficulty will be reset.
+1609	You've cleared all the difficulty levels of the Sulfur Spider inside Shadow Realm mission. The journal entry for each difficulty will be reset.
+1610	You've cleared all the difficulty levels of the Fomor Attack mission. The journal entry for each difficulty will be reset.
+1611	You've cleared all the difficulty levels of the Other Alchemists mission. The journal entry for each difficulty will be reset.
+1612	You've cleared all the difficulty levels of the Ghost of Partholon mission. The journal entry for each difficulty will be reset.
+1613	You've cleared all the difficulty levels of the Shadow Cast City mission. The journal entry for each difficulty will be reset.
+1614	You've cleared all the difficulty levels of the Their Method mission. The journal entry for each difficulty will be reset.
+1615	You've cleared all the difficulty levels of the Lingering Darkness mission. The journal entry for each difficulty will be reset.
+1616	You've cleared all the difficulty levels of the Enemy Behind mission. The journal entry for each difficulty will be reset.
+1617	You've cleared all the difficulty levels of the Protect Corrib Valley mission. The journal entry for each difficulty will be reset.
+1618	You've cleared all the difficulty levels of the Smell of Wine mission. The journal entry for each difficulty will be reset.
+1619	You've cleared all the difficulty levels of Alby Dungeon. The journal entry for each difficulty will be reset.
+1620	You've cleared all the difficulty levels of Ciar Dungeon. The journal entry for each difficulty will be reset.
+1621	You've cleared all the difficulty levels of Barri Dungeon. The journal entry for each difficulty will be reset.
+1622	You've cleared all the difficulty levels of Rabbie Dungeon. The journal entry for each difficulty will be reset.
+1623	You've cleared all the difficulty levels of Math Dungeon. The journal entry for each difficulty will be reset.
+1624	You've cleared all the difficulty levels of Rundal Dungeon. The journal entry for each difficulty will be reset.
+1625	You've cleared all the difficulty levels of Coill Dungeon. The journal entry for each difficulty will be reset.
+1626	You've cleared all the difficulty levels of Peaca Dungeon. The journal entry for each difficulty will be reset.
+1627	You've cleared all the difficulty levels of Fiodh Dungeon. The journal entry for each difficulty will be reset.
+1631	You've cleared all the difficulty levels of Maiz PrairieDungeon. The journal entry for each difficulty will be reset.
+1632	You've cleared all the difficulty levels of Karu Forest Dungeon. The journal entry for each difficulty will be reset.
+1633	You've cleared all the difficulty levels of Longa Dungeon. The journal entry for each difficulty will be reset.
+1634	You've cleared all the difficulty levels of Par Dungeon. The journal entry for each difficulty will be reset.
+1635	Clear Hard Mode Alby Dungeon
+1636	Clear Hard Mode Alby Basic Dungeon
+1637	Clear Hard Mode Alby Intermediate Dungeon
+1638	Clear Hard Mode Alby Advanced Dungeon
+1639	Complete Hard Mode Alby Dungeon
+1640	Clear Hard Mode Ciar Dungeon
+1641	Clear Hard Mode Ciar Basic Dungeon
+1642	Clear Hard Mode Ciar Intermediate Dungeon
+1643	Clear Hard Mode Ciar Advanced Dungeon
+1644	Complete Hard Mode Ciar Dungeon
+1645	Clear Hard Mode Rundal Dungeon
+1646	Clear Hard Mode Rundal Basic Dungeon
+1647	Clear Hard Mode Rundal Siren Dungeon
+1648	Clear Hard Mode Rundal Advanced Dungeon
+1649	Complete Hard Mode Rundal Dungeon
+1650	Clear Hard Mode Alby Dungeon
+1651	Clear Hard Mode Alby Basic Dungeon
+1652	Clear Hard Mode Alby Intermediate Dungeon
+1653	Clear Hard Mode Alby Advanced Dungeon
+1654	Complete Hard Mode Alby Dungeon
+1655	Clear Hard Mode Ciar Dungeon
+1656	Clear Hard Mode Ciar Basic Dungeon
+1657	Clear Hard Mode Ciar Intermediate Dungeon
+1658	Clear Hard Mode Ciar Advanced Dungeon
+1659	Complete Hard Mode Ciar Dungeon
+1660	Clear Hard Mode Rundal Dungeon
+1661	Clear Hard Mode Rundal Basic Dungeon
+1662	Clear Hard Mode Rundal Siren Dungeon
+1663	Clear Hard Mode Rundal Advanced Dungeon
+1664	Complete Hard Mode Rundal Dungeon
+1665	You've cleared Hard Mode Alby Dungeon.
+1666	You've cleared Hard Mode Alby Basic Dungeon.
+1667	You've cleared Hard Mode Alby Intermediate Dungeon.
+1668	You've cleared Hard Mode Alby Advanced Dungeon.
+1669	You've cleared all the difficulty levels of Hard Mode Alby Dungeon. The journal entry for each difficulty will be reset.
+1670	You've cleared Hard Mode Ciar Dungeon.
+1671	You've cleared Hard Mode Ciar Basic Dungeon.
+1672	You've cleared Hard Mode Ciar Intermediate Dungeon.
+1673	You've cleared Hard Mode Ciar Advanced Dungeon.
+1674	You've cleared all the difficulty levels of Hard Mode Ciar Dungeon. The journal entry for each difficulty will be reset.
+1675	You've cleared Hard Mode Rundal Dungeon.
+1676	You've cleared Hard Mode Rundal Basic Dungeon.
+1677	You've cleared Hard Mode Rundal Siren Dungeon.
+1678	You've cleared Hard Mode Rundal Advanced Dungeon.
+1679	You've cleared all the difficulty levels of Hard Mode Rundal Dungeon. The journal entry for each difficulty will be reset.
+1680	Clear Cuilin Castle Dungeon.
+1681	Clear Cuilin Castle Dungeon.
+1682	You've cleared Cuilin Castle Dungeon.
+1683	Hamlet
+1684	Clear Defeat Crag Cow Elite
+1685	Complete Defeat Crag Cow Perfect
+1686	Clear the Stones of Sliab Cuilin Elite
+1687	Complete the Stones of Sliab Cuilin Perfect
+1688	Clear Conflict! An Unexpected Battle Elite
+1689	Complete Conflict! An Unexpected Battle Perfect
+1690	Clear Defeat the Shadow Warrior Elite
+1691	Complete Defeat the Shadow Warrior Perfect
+1692	Clear Battle for Taillteann I Elite
+1693	Complete Battle for Taillteann I Perfect
+1694	Clear Battle for Taillteann II Elite
+1695	Complete Battle for Taillteann II Perfect
+1696	Clear Rescue the Scout Elite
+1697	Complete Rescue the Scout Perfect
+1698	Clear Defeat Fomor Commander I Elite
+1699	Complete Defeat Fomor Commander I Perfect
+1700	Clear Defeat Fomor Commander II Elite
+1701	Complete Defeat Fomor Commander II Perfect
+1702	Clear Offering Elite
+1703	Complete Offering Perfect
+1704	Clear Provocation Elite
+1705	Complete Provocation Perfect
+1706	Clear Taillteann Defensive Battle Elite
+1707	Complete Taillteann Defensive Battle Perfect
+1708	Clear Defeat the Shadow Wizard Elite
+1709	Complete Defeat the Shadow Wizard Perfect
+1710	Clear Dorren's Request Elite
+1711	Complete Dorren's Request Perfect
+1712	Clear Mobilizing the Expeditionary Force Elite
+1713	Complete Mobilizing the Expeditionary Force Perfect
+1714	Clear The Sulfur Spider inside Shadow Realm Elite
+1715	Complete The Sulfur Spider inside Shadow Realm Perfect
+1716	Clear Fomor Attack Elite
+1717	Complete Fomor Attack Perfect
+1718	Clear The Other Alchemists Elite
+1719	Complete The Other Alchemists Perfect
+1720	Clear Ghost of Partholon Elite
+1721	Complete Ghost of Partholon Perfect
+1722	Clear Shadow Cast City Elite
+1723	Complete Shadow Cast City Perfect
+1724	Clear Their Method Elite
+1725	Complete Their Method Perfect
+1726	Clear Lingering Darkness Elite
+1727	Complete Lingering Darkness Perfect
+1728	Clear Enemy Behind Elite
+1729	Complete Enemy Behind Perfect
+1730	Clear Protect Corrib Valley Elite
+1731	Complete Protect Corrib Valley Perfect
+1732	Clear The Smell of Wine Elite
+1733	Complete The Smell of Wine Perfect
+1734	Clear G13
+1735	Clear Defeat Crag Cow Elite
+1736	Clear Defeat Crag Cow on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1737	Clear the Stones of Sliab Cuilin Elite
+1738	Clear the Stones of Sliab Cuilin on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1739	Clear Conflict! An Unexpected Battle Elite
+1740	Clear Conflict! An Unexpected Battle on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1741	Clear Defeat the Shadow Warrior Elite
+1742	Clear Defeat the Shadow Warrior on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1743	Clear Battle for Taillteann I Elite
+1744	Clear Battle for Taillteann I on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1745	Clear Battle for Taillteann II Elite
+1746	Clear Battle for Taillteann II on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1747	Clear Rescue the Scout Elite
+1748	Clear Rescue the Scout on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1749	Clear Defeat Fomor Commander I Elite
+1750	Clear Defeat Fomor Commander I on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1751	Clear Defeat Fomor Commander II Elite
+1752	Clear Defeat Fomor Commander II on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1753	Clear Offering Elite
+1754	Clear Offering on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1755	Clear Provocation Elite
+1756	Clear Provocation on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1757	Clear Taillteann Defensive Battle Elite
+1758	Clear Taillteann Defensive Battle on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1759	Clear Defeat the Shadow Wizard Elite
+1760	Clear Defeat the Shadow Wizard on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1761	Clear Dorren's Request Elite
+1762	Clear Dorren's Request on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1763	Clear Mobilizing the Expeditionary Force Elite
+1764	Clear Mobilizing the Expeditionary Force on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1765	Clear The Sulfur Spider inside Shadow Realm Elite
+1766	Clear The Sulfur Spider inside Shadow Realm on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1767	Clear Fomor Attack Elite
+1768	Clear Fomor Attack on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1769	Clear The Other Alchemists Elite
+1770	Clear The Other Alchemists on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1771	Clear Ghost of Partholon Elite
+1772	Clear Ghost of Partholon on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1773	Clear Shadow Cast City Elite
+1774	Clear Shadow Cast City on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1775	Clear Their Method Elite
+1776	Clear Their Method on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1777	Clear Lingering Darkness Elite
+1778	Clear Lingering Darkness on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1779	Clear Enemy Behind Elite
+1780	Clear Enemy Behind on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1781	Clear Protect Corrib Valley Elite
+1782	Clear Protect Corrib Valley on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1783	Clear The Smell of Wine Elite
+1784	Clear The Smell of Wine on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1785	You've Cleared G13.
+1786	You've cleared Defeat Crag Cow Elite.
+1788	You've cleared the Stones of Sliab Cuilin Elite.
+1790	You've cleared Conflict! An Unexpected Battle Elite.
+1792	You've cleared Defeat the Shadow Warrior Elite.
+1794	You've cleared Battle for Taillteann I Elite.
+1796	You've cleared Battle for Taillteann II Elite.
+1798	You've cleared Rescue the Scout Elite.
+1800	You've cleared Defeat Fomor Commander I Elite.
+1802	You've cleared Defeat Fomor Commander II Elite.
+1804	You've cleared Offering Elite.
+1806	You've cleared Provocation Elite.
+1808	You've cleared Taillteann Defensive Battle Elite.
+1810	You've cleared Defeat the Shadow Wizard Elite.
+1812	You've cleared Dorren's Request Elite.
+1814	You've cleared Mobilizing the Expeditionary Force Elite.
+1816	You've cleared The Sulfur Spider inside Shadow Realm Elite.
+1818	You've cleared Fomor Attack Elite.
+1820	You've cleared The Other Alchemists Elite.
+1822	You've cleared Ghost of Partholon Elite.
+1824	You've cleared Shadow Cast City Elite.
+1826	You've cleared Their Method Elite.
+1828	You've cleared Lingering Darkness Elite.
+1830	You've cleared Enemy Behind Elite.
+1832	You've cleared Protect Corrib Valley Elite.
+1834	You've cleared Smell of Wine Elite.
+1836	Clear Fortinbras's Expedition Beginner
+1837	Clear Fortinbras's Expedition Intermediate
+1838	Clear Fortinbras's Expedition Advanced
+1839	Clear Fortinbras's Expedition Hard
+1840	Complete Fortinbras's Expedition
+1841	Clear Fortinbras's Expedition Elite
+1842	Complete Fortinbras's Expedition Perfect
+1843	Clear The New King's Request Beginner
+1844	Clear The New King's Request Intermediate
+1845	Clear The New King's Request Advanced
+1846	Clear The New King's Request Hard
+1847	Complete The New King's Request
+1848	Clear The New King's Request Elite
+1849	Complete The New King's Request Perfect
+1850	Clear Guardian of Avon Beginner
+1851	Clear Guardian of Avon Intermediate
+1852	Clear Guardian of Avon Advanced
+1853	Clear Guardian of Avon Hard
+1854	Complete Guardian of Avon
+1855	Clear Guardian of Avon Elite
+1856	Complete Guardian of Avon Perfect
+1857	Clear Fortinbras's Expedition Beginner
+1858	Clear Fortinbras's Expedition Intermediate
+1859	Clear Fortinbras's Expedition Advanced
+1860	Clear Fortinbras's Expedition Hard
+1861	Clear Fortinbras's Expedition on all difficulties
+1862	Clear Fortinbras's Expedition Elite
+1863	Clear Fortinbras's Expedition on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1864	Clear The New King's Request Beginner
+1865	Clear The New King's Request Intermediate
+1866	Clear The New King's Request Advanced
+1867	Clear The New King's Request Hard
+1868	Clear The New King's Request on all difficulties
+1869	Clear The New King's Request Elite
+1870	Clear The New King's Request on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1871	Clear Guardian of Avon Beginner
+1872	Clear Guardian of Avon Intermediate
+1873	Clear Guardian of Avon Advanced
+1874	Clear Guardian of Avon Hard
+1875	Clear Guardian of Avon in all difficulties
+1876	Clear Guardian of Avon Elite
+1877	Clear Guardian of Avon on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties
+1878	You've cleared Fortinbras's Expedition Beginner.
+1879	You've cleared Fortinbras's Expedition Intermediate.
+1880	You've cleared Fortinbras's Expedition Advanced.
+1881	You've cleared Fortinbras's Expedition Hard.
+1882	You've cleared all the difficulty levels of the Fortinbras's Expedition mission. The journal entry for each difficulty will be reset.
+1883	You've cleared Fortinbras's Expedition Elite.
+1885	You've cleared the New King's Request Beginner.
+1886	You've cleared the New King's Request Intermediate.
+1887	You've cleared the New King's Request Advanced.
+1888	You've cleared the New King's Request Hard.
+1889	You've cleared all the difficulty levels of the New King's Request mission. The journal entry for each difficulty will be reset.
+1890	You've cleared the New King's Request Elite.
+1892	You've cleared the Guardian of Avon Beginner.
+1893	You've cleared the Guardian of Avon Intermediate.
+1894	You've cleared the Guardian of Avon Advanced.
+1895	You've cleared the Guardian of Avon Hard.
+1896	You've cleared all the difficulty levels of the Guardian of Avon mission. The journal entry for each difficulty will be reset.
+1897	You've cleared the Guardian of Avon Elite.
+1927	Cleared all difficulties of Defeat Crag Cow, including Elite. Individual journal entries reset.
+1928	Cleared all difficulties of Stones of Sliab Cuilin, including Elite. Individual journal entries reset.
+1929	Cleared all difficulties of Conflict! An Unexpected Battle, including Elite. Individual journal entries reset.
+1930	Cleared all difficulties of Defeat Crag Cow, including Elite. Individual journal entries reset.
+1931	Cleared all difficulties of Battle for Taillteann I, including Elite. Individual journal entries reset.
+1932	Cleared all difficulties of Battle for Taillteann II, including Elite. Individual journal entries reset.
+1933	Cleared all difficulties of Rescue the Scout, including Elite. Individual journal entries reset.
+1934	Cleared all difficulties of Defeat Fomor Commander I, including Elite. Individual journal entries reset.
+1935	Cleared all difficulties of Defeat Fomor Commander II, including Elite. Individual journal entries reset.
+1936	Cleared all difficulties of Offering, including Elite. Individual journal entries reset.
+1937	Cleared all difficulties of Provocation, including Elite. Individual journal entries reset.
+1938	Cleared all difficulties of Taillteann Defensive Battle, including Elite. Individual journal entries reset.
+1939	Cleared all difficulties of Defeat the Shadow Wizard, including Elite. Individual journal entries reset.
+1940	Cleared all difficulties of Dorren's Request, including Elite. Individual journal entries reset.
+1941	Cleared all difficulties of Mobilizing the Expeditionary Force, including Elite. Individual journal entries reset.
+1942	Cleared all difficulties of Sulfur Spider inside Shadow Realm, including Elite. Individual journal entries reset.
+1943	Cleared all difficulties of Fomor Attack, including Elite. Individual journal entries reset.
+1944	Cleared all difficulties of Other Alchemists, including Elite. Individual journal entries reset.
+1945	Cleared all difficulties of Ghost of Partholon, including Elite. Individual journal entries reset.
+1946	Cleared all difficulties of Shadow Cast City, including Elite. Individual journal entries reset.
+1947	Cleared all difficulties of Their Method, including Elite. Individual journal entries reset.
+1948	Cleared all difficulties of Lingering Darkness, including Elite. Individual journal entries reset.
+1949	Cleared all difficulties of Enemy Behind, including Elite. Individual journal entries reset.
+1950	Cleared all difficulties of Protect Corrib Valley, including Elite. Individual journal entries reset.
+1951	Cleared all difficulties of Smell of Wine, including Elite. Individual journal entries reset.
+1952	Cleared all difficulties of Fortinbras's Expedition, including Elite. Individual journal entries reset.
+1953	Cleared all difficulties of New King's Request, including Elite. Individual journal entries reset.
+1954	Cleared all difficulties of Guardian of Avon, including Elite. Individual journal entries reset.
+1955	Romeo and Juliet
+1956	Clear G14
+1957	You've cleared G14.
+1959	Complete the Golvan Quest
+1960	You've cleared the Golvan Quest.
+1961	For Golvan
+1962	Clear Warden of the Gods Beginner
+1963	Clear Warden of the Gods Intermediate
+1964	Clear Warden of the Gods Advanced
+1965	Clear Warden of the Gods Hard
+1966	Complete Warden of the Gods
+1967	Clear Warden of the Gods Elite
+1968	Complete Warden of the Gods Perfect
+1969	Clear Warden of the Gods Beginner
+1970	Clear Warden of the Gods Intermediate
+1971	Clear Warden of the Gods Advanced
+1972	Clear Warden of the Gods Hard
+1973	Clear Warden of the Gods on all difficulties
+1974	Clear Warden of the Gods Elite
+1975	Clear Warden of the Gods on Beginner, Intermediate, Advanced, Hard, and Elite Difficulties.
+1976	You've cleared Warden of the Gods Beginner.
+1977	You've cleared Warden of the Gods Intermediate.
+1978	You've cleared Warden of the Gods Advanced.
+1979	You've cleared Warden of the Gods Hard.
+1980	You've cleared all the difficulty levels of Warden of the Gods. The journal entry for each difficulty will be reset.
+1981	You've cleared Warden of the Gods Elite.
+1982	Cleared all difficulties of Warden of the Gods, including Elite. Individual journal entries reset.
+1983	Recipe Collector
+1984	Animal Collector
+1985	Inscription Collector
+1986	Epicure
+1987	Man vs. Nature
+1988	Forever Fishing
+1989	Collect at least 100 entries in your Cooking Journal
+1990	Collect at least 60 entries in your Taming Journal
+1991	Collect at least 15 entries in your Fishing Journal
+1992	Collect at least 100 max ranked entries in your Cooking Journal
+1993	Collect at least 60 max ranked entries in your Taming Journal
+1994	Collect at least 15 max ranked entries in your Fishing Journal
+1995	You've collected at least 100 entries in your Cooking Journal.
+1996	You've collected at least 60 entries in your Taming Journal.
+1997	You've collected at least 15 entries in your Fishing Journal.
+1998	You've collected at least 100 max ranked entries in your Cooking Journal.
+1999	You've collected at least 60 max ranked entries in your Taming Journal.
+2000	You've collected at least 15 max ranked entries in your Fishing Journal.
+2002	Clear G15
+2003	You've cleared G15.
+2005	The Merchant of Venice
+2006	Destroy Tir Chonaill Signboard
+2007	Destroy Dunbarton Alliance Signboard
+2008	Destroy Emain Macha Signboard
+2009	Destroy Bangor Signboard
+2010	Destroy Taillteann Signboard
+2011	Destroy Tara Signboard
+2012	Destroy Iria Human Alliance Signboard
+2014	Fleta! Show yourself!
+2015	Win in the finals against Tir Chonaill
+2016	Win in the finals against the Dunbarton Alliance
+2017	Win in the finals against Emain Macha
+2018	Win in the finals against Bangor
+2019	WIn in the finals against Taillteann
+2020	Win in the finals against Tara
+2021	Win in the finals against the Iria Human Alliance
+2022	Win in the finals against the Iria Special Alliance
+2023	Win the Erinn Martial Arts Competition Final Round
+2024	Won against Tir Chonaill in the Erinn Martial Arts Competition finals.
+2025	Won against the Dunbarton Alliance in the Erinn Martial Arts Competition finals.
+2026	Won against Emain Macha in the Erinn Martial Arts Competition finals.
+2027	Won against Bangor in the Erinn Martial Arts Competition finals.
+2028	Won against Taillteann in the Erinn Martial Arts Competition finals.
+2029	Won against Tara in the Erinn Martial Arts Competition finals.
+2030	Won against the Iria Human Alliance in the Erinn Martial Arts Competition finals.
+2031	Won against the Iria Special Alliance in the Erinn Martial Arts Competition finals.
+2032	Won the Erinn Martial Arts Competition Final Round.
+2033	Destroy Iria Outside Race Alliance Signboard
+2034	Defeat "One-Eye" Klugger
+2036	Defeat "Zippy" Nipmore
+2037	Defeat "No-Face" Nelson
+2038	Defeat "Horrifying" Herbert
+2039	Defeat "Shifty" Shankleton
+2040	Defeat "Scandalous" Charlene
+2041	"One-Eye" Klugger: Captured!
+2043	"Zippy" Nipmore: Captured!
+2044	"No-Face" Nelson: Captured!
+2045	"Horrifying" Herbert: Captured!
+2047	"Scandalous" Charlene: Captured!
+2048	You've defeated "One-Eye" Klugger.
+2050	You've defeated "Zippy" Nipmore.
+2051	You've defeated "No-Face" Nelson.
+2052	You've defeated "Horrifying" Herbert.
+2053	You've defeated "Shifty" Shankleton.
+2054	You've defeated "Scandalous" Charlene.
+2055	"Stinky" Berkkus: Captured!
+2056	Defeat "Stinky" Berkkus
+2057	You've defeated "Stinky" Berkkus.
+2058	"Shifty" Shankleton: Captured!
+2059	Macbeth
+2060	Clear G16
+2061	You've cleared G16.
+2062	Rush of Love
+2063	Clear Rush of Love
+2064	You've cleared Rush of Love.
+2065	Star of the Banquet
+2066	Rent a hall in Rath Royal Castle and hold a banquet.
+2067	Rented Rath Royal Castle Gate Hall and held a banquet.
+2069	Clear Abb Neagh Convoy Escort
+2070	Clear the Secret of Scathach Caverns
+2071	Clear Perilous Defense
+2072	Clear the Abb Neagh Convoy Escort Mission
+2073	Clear the Secret of Scathach Caverns Mission
+2074	Clear the Perilous Defense Mission
+2075	You cleared the Abb Neagh Convoy Escort Mission.
+2076	You cleared the Secret of Scathach Caverns Mission.
+2077	You cleared the Perilous Defense Mission.
+2078	30 Monster Transformations!
+2079	50 Monster Transformations!
+2080	100 Monster Transformations!
+2081	150 Monster Transformations!
+2082	200 Monster Transformations!
+2083	250 Monster Transformations!
+2084	300 Monster Transformations!
+2085	50 NPC Transformations!
+2086	100 NPC Transformations!
+2087	200 NPC Transformations!
+2088	Collect 30 monsters in your Transformation Diary.
+2089	Collect 50 monsters in your Transformation Diary.
+2090	Collect 100 monsters in your Transformation Diary.
+2091	Collect 150 monsters in your Transformation Diary.
+2092	Collect 200 monsters in your Transformation Diary.
+2093	Collect 250 monsters in your Transformation Diary.
+2094	Collect 300 monsters in your Transformation Diary.
+2095	Collect 50 NPCs in your Transformation Diary.
+2096	Collect 100 NPCs in your Transformation Diary.
+2097	Collect 200 NPCs in your Transformation Diary.
+2098	You have collected 30 monsters in your Transformation Diary.
+2099	You have collected 50 monsters in your Transformation Diary.
+2100	You have collected 100 monsters in your Transformation Diary.
+2101	You have collected 150 monsters in your Transformation Diary.
+2102	You have collected 200 monsters in your Transformation Diary.
+2103	You have collected 250 monsters in your Transformation Diary.
+2104	You have collected 300 monsters in your Transformation Diary.
+2105	You have collected 30 NPCs in your Transformation Diary.
+2106	You have collected 100 NPCs in your Transformation Diary.
+2107	You have collected 200 NPCs in your Transformation Diary.
+2108	Belvast Hostage Rescue Clear
+2109	Belvast  Terror Hostage Rescue Mission Cleared.
+2110	You cleared the Belvast Hostage Rescue Mission.
+2111	You have collected 50 monsters in your Transformation Diary.
+2112	Finished watching the first half of the Saga - Iria
+2113	Finished watching the latter half of the Saga - Iria
+2114	Watch the EP 1 - 5 of the Saga - Iria
+2115	Watch the EP 6 - 10 of the Saga - Iria
+2116	Watched the EP 1 - 5 of the Saga - Iria.
+2117	Watched the EP 6 - 10 of the Saga - Iria.
+2118	Novice Adventurer [AP+]
+2119	Naive Adventurer [AP+]
+2120	Advanced Adventurer [AP+]
+2121	Expert Adventurer [AP+]
+2122	Novice Warrior [AP+]
+2123	Naive Warrior [AP+]
+2124	Advanced Warrior [AP+]
+2125	Expert Warrior [AP+]
+2126	Novice Mage [AP+]
+2127	Naive Mage [AP+]
+2128	Advanced Mage [AP+]
+2129	Expert Mage [AP+]
+2130	Novice Archer [AP+] [Restricted]
+2131	Naive Archer [AP+] [Restricted]
+2132	Advanced Archer [AP+] [Restricted]
+2133	Expert Archer [AP+] [Restricted]
+2134	Novice Merchant [AP+]
+2135	Naive Merchant [AP+]
+2136	Advanced Merchant [AP+]
+2137	Expert Merchant [AP+]
+2138	Novice Battle Alchemist [AP+]
+2139	Naive Battle Alchemist [AP+]
+2140	Advanced Battle Alchemist [AP+]
+2141	Expert Battle Alchemist [AP+]
+2142	Novice Fighter [AP+]
+2143	Naive Fighter [AP+]
+2144	Advanced Fighter [AP+]
+2145	Expert Fighter [AP+]
+2146	Novice Bard [AP+]
+2147	Naive Bard [AP+]
+2148	Advanced Bard [AP+]
+2149	Expert Bard [AP+]
+2150	Novice Puppeteer [AP+]
+2151	Naive Puppeteer [AP+]
+2152	Advanced Puppeteer [AP+]
+2153	Expert Puppeteer [AP+]
+2154	Novice Knight [AP+] [Restricted]
+2155	Naive Knight [AP+] [Restricted]
+2156	Advanced Knight [AP+] [Restricted]
+2157	Expert Knight [AP+] [Restricted]
+2158	Novice Cleric [AP+]
+2159	Naive Cleric [AP+]
+2160	Advanced Cleric [AP+]
+2161	Expert Cleric [AP+]
+2162	Novice Construct Alchemist [AP+]
+2163	Naive Construct Alchemist [AP+]
+2164	Advanced Construct Alchemist [AP+]
+2165	Expert Construct Alchemist [AP+]
+2166	Novice Chef [AP+]
+2167	Naive Chef [AP+]
+2168	Advanced Chef [AP+]
+2169	Expert Chef [AP+]
+2170	Novice Blacksmith [AP+]
+2171	Naive Blacksmith [AP+]
+2172	Advanced Blacksmith [AP+]
+2173	Expert Blacksmith [AP+]
+2174	Novice Tailor [AP+]
+2175	Naive Tailor [AP+]
+2176	Advanced Tailor [AP+]
+2177	Expert Tailor [AP+]
+2178	Novice Carpenter [AP+]
+2179	Naive Carpenter [AP+]
+2180	Advanced Carpenter [AP+]
+2181	Expert Carpenter [AP+]
+2182	Novice Gunslinger [AP+]
+2183	Naive Gunslinger [AP+]
+2184	Advanced Gunslinger [AP+]
+2185	Expert Gunslinger [AP+]
+2186	Novice Adventurer
+2187	Naive Adventurer
+2188	Advanced Adventurer
+2189	Expert Adventurer
+2190	Novice Warrior
+2191	Naive Warrior
+2192	Advanced Warrior
+2193	Expert Warrior
+2194	Novice Mage
+2195	Naive Mage
+2196	Advanced Mage
+2197	Expert Mage
+2198	Novice Archer
+2199	Naive Archer
+2200	Advanced Archer
+2201	Expert Archer
+2202	Novice Merchant
+2203	Naive Merchant
+2204	Advanced Merchant
+2205	Expert Merchant
+2206	Novice Battle Alchemist
+2207	Naive Battle Alchemist
+2208	Advanced Battle Alchemist
+2209	Expert Battle Alchemist
+2210	Novice Fighter
+2211	Naive Fighter
+2212	Advanced Fighter
+2213	Expert Fighter
+2214	Novice Bard
+2215	Naive Bard
+2216	Advanced Bard
+2217	Expert Bard
+2218	Novice Puppeteer
+2219	Naive Puppeteer
+2220	Advanced Puppeteer
+2221	Expert Puppeteer
+2222	Novice Knight
+2223	Naive Knight
+2224	Advanced Knight
+2225	Expert Knight
+2226	Novice Cleric
+2227	Naive Cleric
+2228	Advanced Cleric
+2229	Expert Cleric
+2230	Novice Construct Alchemist
+2231	Naive Construct Alchemist
+2232	Advanced Construct Alchemist
+2233	Expert Construct Alchemist
+2234	Novice Chef
+2235	Naive Chef
+2236	Advanced Chef
+2237	Expert Chef
+2238	Novice Blacksmith
+2239	Naive Blacksmith
+2240	Advanced Blacksmith
+2241	Expert Blacksmith
+2242	Novice Tailor
+2243	Naive Tailor
+2244	Advanced Tailor
+2245	Expert Tailor
+2246	Novice Carpenter
+2247	Naive Carpenter
+2248	Advanced Carpenter
+2249	Expert Carpenter
+2250	Novice Gunslinger
+2251	Naive Gunslinger
+2252	Advanced Gunslinger
+2253	Expert Gunslinger
+2254	Reach Novice Adventurer to earn this achievement. Grants AP.
+2255	Reach Naive Adventurer to earn this achievement. Grants AP.
+2256	Reach Advanced Adventurer to earn this achievement. Grants AP.
+2257	Reach Expert Adventurer to earn this achievement. Grants AP.
+2258	Reach Novice Warrior to earn this achievement. Grants AP.
+2259	Reach Naive Warrior to earn this achievement. Grants AP.
+2260	Reach Advanced Warrior to earn this achievement. Grants AP.
+2261	Reach Expert Warrior to earn this achievement. Grants AP.
+2262	Reach Novice Mage to earn this achievement. Grants AP.
+2263	Reach Naive Mage to earn this achievement. Grants AP.
+2264	Reach Advanced Mage to earn this achievement. Grants AP.
+2265	Reach Expert Mage to earn this achievement. Grants AP.
+2266	Reach Novice Archer to earn this achievement. Grants AP. Unavailable to Giants.
+2267	Reach Naive Archer to earn this achievement. Grants AP. Unavailable to Giants.
+2268	Reach Advanced Archer to earn this achievement. Grants AP. Unavailable to Giants.
+2269	Reach Expert Archer to earn this achievement. Grants AP. Unavailable to Giants.
+2270	Reach Novice Merchant to earn this achievement. Grants AP.
+2271	Reach Naive Merchant to earn this achievement. Grants AP.
+2272	Reach Advanced Merchant to earn this achievement. Grants AP.
+2273	Reach Expert Merchant to earn this achievement. Grants AP.
+2274	Reach Novice Battle Alchemist to earn this achievement. Grants AP.
+2275	Reach Naive Battle Alchemist to earn this achievement. Grants AP.
+2276	Reach Advanced Battle Alchemist to earn this achievement. Grants AP.
+2277	Reach Expert Battle Alchemist to earn this achievement. Grants AP.
+2278	Reach Novice Fighter to earn this achievement. Grants AP.
+2279	Reach Naive Fighter to earn this achievement. Grants AP.
+2280	Reach Advanced Fighter to earn this achievement. Grants AP.
+2281	Reach Expert Fighter to earn this achievement. Grants AP.
+2282	Reach Novice Bard to earn this achievement. Grants AP.
+2283	Reach Naive Bard to earn this achievement. Grants AP.
+2284	Reach Advanced Bard to earn this achievement. Grants AP.
+2285	Reach Expert Bard to earn this achievement. Grants AP.
+2286	Reach Novice Puppeteer to earn this achievement. Grants AP.
+2287	Reach Naive Puppeteer to earn this achievement. Grants AP.
+2288	Reach Advanced Puppeteer to earn this achievement. Grants AP.
+2289	Reach Expert Puppeteer to earn this achievement. Grants AP.
+2290	Reach Novice Knight to earn this achievement. Grants AP. Unavailable to Elves.
+2291	Reach Naive Knight to earn this achievement. Grants AP. Unavailable to Elves.
+2292	Reach Advanced Knight to earn this achievement. Grants AP. Unavailable to Elves.
+2293	Reach Expert Knight to earn this achievement. Grants AP. Unavailable to Elves.
+2294	Reach Novice Cleric to earn this achievement. Grants AP.
+2295	Reach Naive Cleric to earn this achievement. Grants AP.
+2296	Reach Advanced Cleric to earn this achievement. Grants AP.
+2297	Reach Expert Cleric to earn this achievement. Grants AP.
+2298	Reach Novice Construct Alchemist to earn this achievement. Grants AP.
+2299	Reach Naive Construct Alchemist to earn this achievement. Grants AP.
+2300	Reach Advanced Construct Alchemist to earn this achievement. Grants AP.
+2301	Reach Expert Construct Alchemist to earn this achievement. Grants AP.
+2302	Reach Novice Chef to earn this achievement. Grants AP.
+2303	Reach Naive Chef to earn this achievement. Grants AP.
+2304	Reach Advanced Chef to earn this achievement. Grants AP.
+2305	Reach Expert Chef to earn this achievement. Grants AP.
+2306	Reach Novice Blacksmith to earn this achievement. Grants AP.
+2307	Reach Naive Blacksmith to earn this achievement. Grants AP.
+2308	Reach Advanced Blacksmith to earn this achievement. Grants AP.
+2309	Reach Expert Blacksmith to earn this achievement. Grants AP.
+2310	Reach Novice Tailor to earn this achievement. Grants AP.
+2311	Reach Naive Tailor to earn this achievement. Grants AP.
+2312	Reach Advanced Tailor to earn this achievement. Grants AP.
+2313	Reach Expert Tailor to earn this achievement. Grants AP.
+2314	Reach Novice Carpenter to earn this achievement. Grants AP.
+2315	Reach Naive Carpenter to earn this achievement. Grants AP.
+2316	Reach Advanced Carpenter to earn this achievement. Grants AP.
+2317	Reach Expert Carpenter to earn this achievement. Grants AP.
+2318	Reach Novice Gunslinger to earn this achievement. Grants AP.
+2319	Reach Naive Gunslinger to earn this achievement. Grants AP.
+2320	Reach Advanced Gunslinger to earn this achievement. Grants AP.
+2321	Reach Expert Gunslinger to earn this achievement. Grants AP.
+2322	Novice Apothecary [AP+]
+2323	Naive Apothecary[AP+]
+2324	Advanced Apothecary [AP+]
+2325	Expert Apothecary [AP+]
+2326	Novice Apothecary
+2327	Naive Apothecary
+2328	Advanced Apothecary
+2329	Expert Apothecary
+2330	Reach Novice Apothecary to earn this achievement.
+2331	Reach Naive Apothecary to earn this achievement.
+2332	Reach Advanced Apothecary to earn this achievement.
+2333	Reach Expert Apothecary to earn this achievement.
+2334	Novice Ninja [AP+]
+2335	Naive Ninja [AP+]
+2336	Advanced Ninja [AP+]
+2337	Expert Ninja [AP+]
+2338	Novice Ninja
+2339	Naive Ninja
+2340	Advanced Ninja
+2341	Expert Ninja
+2342	Reach Novice Ninja to earn this achievement. Grants AP.
+2343	Reach Naive Ninja to earn this achievement. Grants AP.
+2344	Reach Advanced Ninja to earn this achievement. Grants AP.
+2345	Earned the Expert Ninja to earn this achievement. Grants AP.
+2481	Clear the Alban Knights Training Grounds Basic Mode
+2482	Clear the Alban Knights Training Grounds Intermediate Mode
+2483	Clear the Alban Knights Training Grounds Advanced Mode
+2484	Clear the Alban Knights Training Grounds Hard Mode
+2486	Alban Knights Training Grounds Complete
+2487	Clear the Alban Knights Training Grounds Basic Mode
+2488	Clear the Alban Knights Training Grounds Intermediate Mode
+2489	Clear the Alban Knights Training Grounds Advanced Mode
+2490	Clear the Alban Knights Training Grounds Hard Mode
+2492	Alban Knights Training Grounds Complete
+2493	You have cleared the Alban Knights Training Grounds Basic Mode.
+2494	You have cleared the Alban Knights Training Grounds Intermediate Mode.
+2495	You have cleared the Alban Knights Training Grounds Advanced Mode.
+2496	You have cleared the Alban Knights Training Grounds Hard Mode.
+2497	You have cleared the Alban Knights Training Grounds Heroic Mode.
+2498	You've cleared every difficulty of the Alban Knights Training Grounds. The journal entry for each difficulty will reset.
+2499	Clear the Alban Knights Training Grounds Heroic Mode
+2500	Clear the Alban Knights Training Grounds Heroic Mode
+2501	City of Light
+2502	City of Darkness
+2503	Protector of the City
+2504	Quick Fingers
+2505	Unfairly Accused
+2506	Mafia Spaz
+2507	Win the Mafia mini-game as a Citizen.
+2508	Win the Mafia mini-game as part of the Mafia.
+2509	Citizens win the Mafia game while you're a Cop.
+2510	Be a super skilled Prankster...
+2511	You're innocent, yet everyone wants you dead!
+2512	You need to brush up on your acting skills.
+2516	Whoa! You pranked 3 or more players as a Prankster in the Mafia game.
+2520	You were suspected and executed as an innocent Citizen 50 times! Unfair!
+2522	You've been victorious many times in Mafia games on the side of the Citizens.
+2523	You've been victorious many times in Mafia games as part of the Mafia.
+2524	When YOU play Cop, the city stays protected.
+2525	You need to work on your poker face. When you're part of the Mafia, everyone knows it!
+2526	Finished watching Saga - Iria II.
+2527	The Divine Knights
+2528	Gate of Sanctuary
+2529	Watch the entire Saga - Iria II.
+2530	G19 Clear Journal
+2531	G20 Clear
+2532	Watched the entire Saga - Iria II.
+2533	You've cleared G19.
+2534	You've cleared G20.
+2535	Petition Watch
+2536	A Fairy Appears!
+2537	Perform well as an altruist of the Altruism Quest Board.
+2538	You've helped beginners or returning players 50 times. Are you some mystical fairy who appears when people are in need?
+2539	You've completed more than 300 missions. This is no ordinary feat, and you have demonstrated both persistence and generosity.
+2540	You've helped beginners or returning players 50 times. Are you some mystical fairy who appears when people are in need?
+2541	Clear the Rabbie Phantasm Dungeon
+2542	Clear the Rabbie Phantasm Dungeon
+2543	You cleared the Rabbie Phantasm Dungeon.
+2544	Blessing of Cairbre
+2545	Enter a Freestyle Jam that received the Blessing of Cairbre
+2546	Entered a Freestyle Jam that received the Blessing of Cairbre.
+2547	Moonlight of Eweca
+2548	Achieve Shine of Eweca Rank 1
+2549	You receive the maximum blessing of Eweca\none can receive in a life.
+2555	Achieve Grandmaster title
+2556	Achieve 5 Grandmaster titles
+2557	Achieve 10 Grandmaster titles
+2558	Achieve 15 Grandmaster titles
+2559	Achieved 20 Grandmaster titles
+2560	Achieved Grandmaster title!
+2561	Achieved 5 Grandmaster titles
+2562	Achieved 10 Grandmaster titles
+2563	Achieved 15 Grandmaster titles
+2564	Achieved 20 Grandmaster titles
+2565	Song Drawn by the Winds
+2566	Clear Sidhe Finnachaid of Curiosity Beginner
+2567	Clear Sidhe Finnachaid of Curiosity Intermediate
+2568	Clear Sidhe Finnachaid of Curiosity Advanced
+2569	Complete Sidhe Finnachaid of Curiosity
+2570	Clear Sidhe Finnachaid of Fear Beginner
+2571	Clear Sidhe Finnachaid of Fear Intermediate
+2572	Clear Sidhe Finnachaid of Fear Advanced
+2573	Complete Sidhe Finnachaid of Fear
+2574	Clear Sidhe Finnachaid of Sorrow Beginner
+2575	Clear Sidhe Finnachaid of Sorrow Intermediate
+2576	Clear Sidhe Finnachaid of Sorrow Advanced
+2577	Complete Sidhe Finnachaid of Sorrow
+2578	Complete Song Drawn by the Winds Quest
+2579	Clear Sidhe Finnachaid of Curiosity Beginner
+2580	Clear Sidhe Finnachaid of Curiosity Intermediate
+2581	Clear Sidhe Finnachaid of Curiosity Advanced
+2582	Complete Sidhe Finnachaid of Curiosity
+2583	Clear Sidhe Finnachaid of Fear Beginner
+2584	Clear Sidhe Finnachaid of Fear Intermediate
+2585	Clear Sidhe Finnachaid of Fear Advanced
+2586	Complete Sidhe Finnachaid of Fear
+2587	Clear Sidhe Finnachaid of Sorrow Beginner
+2588	Clear Sidhe Finnachaid of Sorrow Intermediate
+2589	Clear Sidhe Finnachaid of Sorrow Advanced
+2590	Complete Sidhe Finnachaid of Sorrow
+2591	Found all of Enn's memories.
+2592	Cleared Sidhe Finnachaid of Curiosity on beginner difficulty.
+2593	Cleared Sidhe Finnachaid of Curiosity on intermediate difficulty.
+2594	Cleared Sidhe Finnachaid of Curiosity on advanced difficulty.
+2595	You've cleared all the difficulty levels of the Sidhe Finnachaid of Curiosity. The journal entry for each difficulty level will be reset.
+2596	Cleared Sidhe Finnachaid of Fear on beginner difficulty.
+2597	Cleared Sidhe Finnachaid of Fear on intermediate difficulty.
+2598	Cleared Sidhe Finnachaid of Fear on advanced difficulty.
+2599	You've cleared all the difficulty levels of the Sidhe Finnachaid of Fear. The journal entry for each difficulty level will be reset.
+2600	Cleared Sidhe Finnachaid of Sorrow on beginner difficulty.
+2601	Cleared Sidhe Finnachaid of Sorrow on intermediate difficulty.
+2602	Cleared Sidhe Finnachaid of Sorrow on advanced difficulty.
+2603	You've cleared all the difficulty levels of the Sidhe Finnachaid of Sorrow. The journal entry for each difficulty level will be reset.
+2604	Grandmaster!
+2605	Grandmaster! 5
+2606	Grandmaster! 10
+2607	Grandmaster! 15
+2608	A Grandmaster 20 Times Over!
+2609	The Road Less-Traveled
+2610	Fighting Spirit!
+2612	Distributor of Golden Eggs
+2613	Street-smart Street Fighter
+2614	Marionette Controller
+2615	Lightspeed Gun
+2616	First-class Ninja Trainee
+2617	Light at the End of the Tunnel
+2618	A Fighter in Erinn
+2620	Layer of Golden Eggs
+2622	Who is the Puppeteer?
+2623	Merciless Bullet
+2624	Greatest Ninja Ever
+2625	Advancement! Be the Best
+2626	Advancement! Achieved Dan 1 Five Times
+2627	Advancement! Get Tough, Try Harder
+2628	Advancement! Achieved Dan 2 Ten Times
+2629	Advancement! Be The Last One Standing
+2630	Advancement! Achieved Dan 3 Ten Times
+2631	Advancement! Achieved Dan 3 Twenty Times
+2632	Advancement! Achieved Dan 3 Thirty Times
+2633	Advance at least 1 Life skill to Dan 1.
+2634	Advance at least 1 Combat skill to Dan 1.
+2635	Advance at least 1 Magic skill to Dan 1.
+2636	Advance at least 1 Alchemy skill to Dan 1.
+2637	Advance at least 1 Martial Arts skill to Dan 1.
+2638	Advance at least 1 Puppetry skill to Dan 1.
+2639	Advance at least 1 Dual Gun skill to Dan 1.
+2641	Advance at least 1 Life skill to Dan 3.
+2642	Advance at least 1 Combat skill to Dan 3.
+2643	Advance at least 1 Magic skill to Dan 3.
+2644	Advance at least 1 Alchemy skill to Dan 3.
+2645	Advance at least 1 Martial Arts skill to Dan 3.
+2646	Advance at least 1 Puppetry skill to Dan 3.
+2647	Advance at least 1 Dual Gun skill to Dan 3.
+2649	Advance at least 1 current skill to Dan 1.
+2650	Advance at least 5 current skills to Dan 1.
+2651	Advance at least 1 current skill to Dan 2.
+2652	Advance at least 10 current skills to Dan 2.
+2653	Advance at least 1 current skill to Dan 3.
+2654	Advance at least 10 current skills to Dan 3.
+2655	Advance at least 20 current skills to Dan 3.
+2656	Advance at least 30 current skills to Dan 3.
+2657	You advanced at least 1 Life skill to Dan 1.
+2658	You advanced at least 1 Combat skill to Dan 1.
+2659	You advanced at least 1 Magic skill to Dan 1.
+2660	You advanced at least 1 Alchemy skill to Dan 1.
+2661	You advanced at least 1 Martial Arts skill to Dan 1.
+2662	You advanced at least 1 Puppetry skill to Dan 1.
+2663	You advanced at least 1 Dual Gun skill to Dan 1.
+2665	You advanced at least 1 Life skill to Dan 3.
+2666	You advanced at least 1 Combat skill to Dan 3.
+2667	You advanced at least 1 Magic skill to Dan 3.
+2668	You advanced at least 1 Alchemy skill to Dan 3.
+2669	You advanced at least 1 Martial Arts skill to Dan 3.
+2670	You advanced at least 1 Puppetry skill to Dan 3.
+2671	You advanced at least 1 Dual Gun skill to Dan 3.
+2673	Advance at least 1 current skill to Dan 1.
+2674	Advance at least 5 current skills to Dan 1.
+2675	Advance at least 1 current skill to Dan 2.
+2676	Advance at least 10 current skills to Dan 2.
+2677	Advance at least 1 current skill to Dan 3.
+2678	Advance at least 10 current skills to Dan 3.
+2679	Advance at least 20 current skills to Dan 3.
+2680	Advance at least 30 current skills to Dan 3.
+2681	Magic School Master's Degree
+2682	Magic School Doctorate Degree
+2683	Martial Arts Expert
+2684	Advance at least 1 Ninja skill to Dan 1.
+2685	Advance at least 1 Ninja skill to Dan 3.
+2686	You advanced at least 1 Ninja skill to Dan 1.
+2687	You advanced at least 1 Ninja skill to Dan 3.
+2688	Novice Chain Slasher [AP+]
+2689	Naive Chain Slasher [AP+]
+2690	Advanced Chain Slasher [AP+]
+2691	Expert Chain Slasher [AP+]
+2692	Novice Chain Slasher
+2693	Naive Chain Slasher
+2694	Advanced Chain Slasher
+2695	Expert Chain Slasher
+2696	Reach Novice Chain Slasher to earn this achievement. Grants AP.
+2697	Reach Naive Slasher to earn this achievement. Grants AP.
+2698	Reach Advanced Slasher to earn this achievement. Grants AP.
+2699	Reach Expert Slasher to earn this achievement. Grants AP.
+2700	The bridge is blocked. Please go back.
+2701	There is no escape.
+2702	Meeting in progress! Do not disturb.
+2703	Do Not Enter
+2704	Make a relentless pursuit!
+2705	Counter-Siege Weapon
+2706	Clear the Avalon Bridge Mission up to PHASE 5
+2707	Play the Nowhere to Run Mission for 30 minutes
+2708	Emerge victorious in the Knights of the Round Table mission!
+2709	Survive the Gatekeeper Mission for 15 minutes.
+2710	Defeat the boss yourself during the Counterattack Mission
+2711	Clear the Siege Weapon Mission
+2712	Cleared Avalon Bridge Mission up to PHASE 5.
+2713	Played the Nowhere to Run Mission for 30 minutes.
+2714	Emerged victorious in the Knights of the Round Table Mission.
+2715	Survived 15 minutes in the Gatekeeper Mission.
+2716	Defeated the boss yourself during the Counterattack Mission.
+2717	Cleared the Siege Weapon Mission.
+2718	Your darkness is my light
+2719	Chain of Destruction
+2720	Advance at least 1 Chain Slash skill to Dan 1.
+2721	Advance at least 1 Chain Slash skill to Dan 3.
+2722	You advanced at least 1 Chain Slash skill to Dan 1.
+2723	You advanced at least 1 Chain Slash skill to Dan 3.
+2724	Becoming a Guardian Guild
+2725	Becoming a Guardian Guild: Finals
+2726	Guardians of Dunbarton
+2727	Guardians of Tir Chonaill
+2728	True Brilliance
+2729	A Good Day to Dye
+2730	Who Could Ask Fomor
+2731	Center of the Maelstrom
+2732	Down But Not Out
+2733	Participate in the Guardian Guild Tournament Preliminary Round
+2734	Participate in the Guardian Guild Tournament Final Round
+2735	Win the Dunbarton\nGuardian Guild Tournament
+2736	Win the Tir Chonaill\nGuardian Guild Tournament
+2737	Rose above the competition to\ngive a peerless performance.
+2738	Those flags? You could say\nI got them for a steal!
+2739	I eat Fomors for breakfast! And sometimes even for lunch.
+2740	Drew the other guilds into a spiral\nof chaos and destruction!
+2741	As long as I keep getting up,\nI'm never down for the count!
+2742	Participated in the Guardian Guild Tournament Preliminary Round.
+2743	Participated in the Guardian Guild Tournament Final Round.
+2744	Became the Guardian Guild\nof Dunbarton.
+2745	Became the Guardian Guild\nof Tir Chonaill.
+2746	Won MVP in\nthe Final Round!
+2747	Stole the most flags\nin the Final Round.
+2748	Defeated the most monsters\nin the Final Round.
+2749	Used the greatest number of debilitating\nitems in the Final Round.
+2750	Got knocked out the most times\nin the Final Round.
+2751	Guardian of Avalon Plains
+2752	Guardian of Avalon Forest
+2753	Defeat the Avalon Field Raid Monster Mokkurkalfi
+2754	Defeat the Avalon Field Raid Monster Sylvan Dragon
+2755	You defeated the Avalon Field Raid Monster Mokkurkalfi and protected Avalon Plains.
+2756	You defeated the Avalon Field Raid Monster Sylvan Dragon and protected Avalon Forest.
+2757	You've purified the Forgotten Shore.
+2758	You've purified the City Ruins.
+2759	You've purified Berg Mesa.
+2760	Cleanse Avalon's Forgotten Shore of Unholy Light.
+2761	Cleanse Avalon's City Ruins of Unholy Light.
+2762	Cleanse Avalon's Berg Mesa of Unholy Light.
+2763	You've cleansed Avalon's Forgotten Shore of Unholy Light.
+2764	You've cleansed Avalon's CIty Ruins of Unholy Light.
+2765	You've cleansed Avalon's Berg Mesa of Unholy Light.
+2766	the Avalon Seal Breaker
+2767	Possess the Avalon Seal Breaker title
+2768	You broke the Seal Stone of Avalon.
+2769	Usage restriction index
+2770	Usage restriction index
+2771	A journal index that is no longer useable
+2772	The Guardian's Path
+2773	G21 Clear
+2774	You've cleared the G21 story.
+2775	Apocalypse
+2776	Clear G22
+2777	You've cleared G22.
+2778	Blaanid's Recollections
+2780	Found all of Blaanid's memories.
+2781	Second Memoir Quest Complete
+2782	Clear Revived Illusion Normal
+2783	Clear Revived Illusion Advanced
+2784	Clear Revived Illusion Elite
+2785	Complete Revived Illusion
+2786	Clear Feth Fiada Normal
+2787	Clear Feth Fiada Advanced
+2788	Clear Feth Fiada Elite
+2789	Complete Feth Fiada
+2790	Clear Seven Nightmares Normal
+2791	Clear Seven Nightmares Advanced
+2792	Clear Seven Nightmares Elite
+2793	Complete Seven Nightmares
+2794	Clear Revived Illusion Normal
+2795	Clear Revived Illusion Advanced
+2796	Clear Revived Illusion Elite
+2797	Complete Revived Illusion
+2798	Clear Feth Fiada Normal
+2799	Clear Feth Fiada Advanced
+2800	Clear Feth Fiada Elite
+2801	Complete Feth Fiada
+2802	Clear Seven Nightmares Normal
+2803	Clear Seven Nightmares Advanced
+2804	Clear Seven Nightmares Elite
+2805	Complete Seven Nightmares
+2806	Cleared Revived Illusion on normal difficulty.
+2807	Cleared Revived Illusion on advanced difficulty.
+2808	Cleared Revived Illusion on elite difficulty.
+2809	You've cleared all the difficulty levels of the Revived Illusion mission. The journal entry for each difficulty will be reset.
+2810	Cleared Feth Fiada on normal difficulty.
+2811	Cleared Feth Fiada on advanced difficulty.
+2812	Cleared Feth Fiada on elite difficulty.
+2813	You've cleared all the difficulty levels of the Feth Fiada mission. The journal entry for each difficulty will be reset.
+2814	Cleared Seven Nightmares on normal difficulty.
+2815	Cleared Seven Nightmares on advanced difficulty.
+2816	Cleared Seven Nightmares on elite difficulty.
+2817	You've cleared all the difficulty levels of the Seven Nightmares mission. The journal entry for each difficulty will be reset.
+2818	Tempest
+2819	Clear G23
+2820	You've cleared the G23 story.
+2821	Clear Awakened Abyssal Lord Normal
+2822	Clear Awakened Abyssal Lord Advanced
+2823	Clear Awakened Abyssal Lord Elite
+2824	Complete Awakened Abyssal Lord
+2825	Clear Awakened Abyssal Lord Normal
+2826	Clear Awakened Abyssal Lord Advanced
+2827	Clear Awakened Abyssal Lord Elite
+2828	Complete Awakened Abyssal Lord
+2829	Cleared Awakened Abyssal Lord on normal difficulty.
+2830	Cleared Awakened Abyssal Lord on advanced difficulty.
+2831	Cleared Awakened Abyssal Lord on elite difficulty.
+2832	You've cleared all the difficulty levels of the Awakened Abyssal Lord mission. The journal entry for each difficulty will be reset.
+2833	the Tory Ravine Seal Breaker
+2834	Possess the Tory Ravine Seal Breaker title
+2835	You broke the Eweca Moon Stone sealing the entrance to Tory Ravine.
+2836	Veteran of Alby Dungeon
+2837	Veteran of Ciar Dungeon
+2838	Veteran of Rabbie Dungeon
+2839	Veteran of Math Dungeon
+2840	Veteran of Fiodh Dungeon
+2841	Veteran of Barri Dungeon
+2842	Veteran of Coill Dungeon
+2843	Veteran of Rundal Dungeon
+2844	Veteran of Peaca Dungeon
+2845	Veteran of Veterans
+2846	Clear Alby Veteran Dungeon
+2847	Clear Ciar Veteran Dungeon
+2848	Clear Rabbie Veteran Dungeon
+2849	Clear Math Veteran Dungeon
+2850	Clear Fiodh Veteran Dungeon
+2851	Clear Barri Veteran Dungeon
+2852	Clear Coill Veteran Dungeon
+2853	Clear Rundal Veteran Dungeon
+2854	Clear Peaca Veteran Dungeon
+2855	Clear all Uladh Dungeons in Veteran difficulty.
+2856	You cleared Alby Veteran Dungeon!
+2857	You cleared Ciar Veteran Dungeon!
+2858	You cleared Rabbie Veteran Dungeon!
+2859	You cleared Math Veteran Dungeon!
+2860	You cleared Fiodh Veteran Dungeon!
+2861	You cleared Barri Veteran Dungeon!
+2862	You cleared Coill Veteran Dungeon!
+2863	You cleared Rundal Veteran Dungeon!
+2864	You cleared Peaca Veteran Dungeon!
+2865	You cleared all of the Veteran Dungeons! The Journal for each of the dungeons will be reset.
+2866	Reach Spirit Level 30
+2867	Reach Spirit Level 40
+2868	Reach Spirit Level 45
+2869	Reach Spirit Level 50
+2870	Reach Spirit Level 60
+2871	Reach Spirit Level 70
+2872	Reach Spirit Level 80
+2873	Reach Spirit Level 90
+2874	Reach Spirit Level 100
+2875	Reach Spirit Level 30
+2876	Reach Spirit Level 40
+2877	Reach Spirit Level 45
+2878	Reach Spirit Level 50
+2879	Reach Spirit Level 60
+2880	Reach Spirit Level 70
+2881	Reach Spirit Level 80
+2882	Reach Spirit Level 90
+2883	Reach Spirit Level 100
+2884	The Spirit reached level 30.
+2885	The Spirit reached level 40.
+2886	The Spirit reached level 45.
+2887	The Spirit reached level 50.
+2888	The Spirit reached level 60.
+2889	The Spirit reached level 70.
+2890	The Spirit reached level 80.
+2891	The Spirit reached level 90.
+2892	The Spirit reached level 100.
+2900	Clear G24
+2901	You've cleared G24.
+2902	Reach Spirit Level 10
+2903	Reach Spirit Level 20
+2904	Reach Spirit Level 10
+2905	Reach Spirit Level 20
+2906	The Spirit reached level 10.
+2907	The Spirit reached level 20.
+2908	Ascension
+2909	Moon Fragment Collector
+2910	Purify and remove corrupted Moon Stones
+2911	You purified and removed all corrupted Moon Stones in Belvast and Uladh.
+2912	Novice Pet Trainer [AP+]
+2913	Naive Pet Trainer [AP+]
+2914	Advanced Pet Trainer [AP+]
+2915	Expert Pet Trainer [AP+]
+2916	Novice Pet Trainer
+2917	Naive Pet Trainer
+2918	Advanced Pet Trainer
+2919	Expert Pet Trainer
+2920	Reach Novice Pet Trainer to earn this achievement.
+2921	Reach Naive Pet Trainer to earn this achievement.
+2922	Reach Advanced Pet Trainer to earn this achievement.
+2923	Reach Expert Pet Trainer to earn this achievement.

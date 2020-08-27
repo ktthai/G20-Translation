@@ -1,0 +1,62 @@
+﻿0	레트로 전설의 활
+1	레트로 전설의 태양과 달의 검
+2	레트로 전설의 망치
+3	레트로 전설의 지팡이
+4	레트로 전설의 방패
+5	도트 그래픽이 돋보이는 전설의 활.\n화려한 겉모습에 어울리는 성능을 가졌다.
+6	도트 그래픽이 돋보이는 전설의 검.\n마치 태양과 달의 검처럼 생겼다.
+7	도트 그래픽이 돋보이는 전설의 망치.\n인간과 엘프도 휘두를 수 있는 손쉬운 사용성도 장점이다.
+8	도트 그래픽이 돋보이는 전설의 지팡이.\n3속성의 모든 마법을 사용할 수 있으며 중급 마법을 사용하기 위해 특별히 속성을 모을 필요도 없다.\n지팡이를 손에 쥐면 몸의 마나와 공명하게 되어 달리면서도 메디테이션을 할 수 있다.
+9	도트 그래픽이 돋보이는 전설의 방패.\n경갑옷에서 중갑옷까지 유용하게 사용할 수 있다.
+10	Soldier's Field Shovel
+11	Soldier's Gear Bag
+12	Soldier's Field Axe
+13	Soldier's Automatic Pistol
+14	Soldier's Binoculars
+15	A handy tool that lets you dig trenches or even attack enemies, in a pinch. It's very durable.
+16	A fully-packed bag of gear that contains everything you need in battle. It's been built to be strong and sturdy in any situation.
+17	A one-handed axe that can be used to remove obstacles or even for combat, in a pinch. It looks sturdy and sharp.
+18	An automatic pistol whose size and recoil have been reduced to attack enemies more efficiently.
+19	A pair of binoculars used to assess surrounding terrain. Makes it a cinch to spot enemies sneaking up on you.
+20	Crow Knuckle
+21	A knuckle that feels remarkably light. Crafted from an enchanted feather, it holds potent destructive force despite its unnaturally light heft.
+24	레트로 전설의 대양과 담의 검
+25	도트 그래픽이 돋보이는 전설의 검.\n얼핏 보면 태양과 달의 검처럼 보이지만, 성능은 전혀 다르다. (수리 불가)
+26	Secret Garden Bottle
+27	Secret Garden Flower Basket
+28	Secret Garden Cylinder
+29	Secret Garden Guard Cylinder
+30	A transparent bottle in an elegant shape that was used to decorate the Secret Garden. It is filled with an unknown liquid that has a mysterious aura.
+31	A flower basket decorated with flowers from the Secret Garden. The strong floral scent shows the effort that was put into making this.
+32	A cylinder decorated with flowers from the Secret Garden. It can be used to fire alchemy crystals. It is delicately made and cannot be used to physically attack enemies.
+33	A defensive Cylinder that was hidden in the depths of the Secret Garden. An elegant and beautiful shield is attached to the top of the cylinder, allowing you to use powerful Alchemy skills while protecting yourself, especially from magic attacks. Without a cylinder, some of your Alchemy skills will be limited.
+34	Crow Sword
+35	Crow Dual Gun
+36	A one-handed sword that feels remarkably light. Crafted from an enchanted feather, it holds potent destructive force despite its unnaturally light heft.
+37	A dual gun that feels remarkably light. Crafted from an enchanted feather, it holds potent destructive force despite its unnaturally light heft.
+38	Baby Chinchilla Doll
+39	Bright Conch Shell
+40	A chinchilla doll wearing a Marine outfit. Getting hit with this might not hurt your body, but your pride may never recover.
+41	A beautiful conch shell glimmering with all sorts of colors. You can almost hear the crashing of the waves if you hold it up to your ear. It glimmers brilliantly in the night.
+42	Balloon Sword
+43	A one-handed sword that remarkably feels as light as air, and with good reason. Crafted from an enchanted balloon, it holds considerable destructive power despite its unnaturally light heft.
+46	스팀 엔진 파이프 보우
+47	스팀 엔진 워리어 해머
+48	스팀 엔진 스파크 스태프
+49	스팀 엔진 체인 블레이드
+50	증기 기관에 사용되는 파이프를 이용해 만든 활. 금속 파이프 답지 않는 탄성을 가지고 있다.
+51	강력한 스팀 엔진이 달린 거대한 양손 망치. 엔진에서 뿜어져 나오는 추진력을 통해 적들을 강하게 후려칠 수 있다.
+52	증기 기관을 통해 전기를 만들어내는 장치를 가진 스태프. 상단부의 강력한 스파크가 위협적이다.
+53	강력한 스팀 엔진을 장착한 체인 블레이드. 엔진에서 뿜어져 나오는 강한 증기가 포인트이다.
+54	Star-Spangled Banner
+55	The flag waves from high atop the flagpole.
+68	역사학자의 트렁크
+69	깃털 펜 양손검
+70	레플리카 워리어 해머
+71	펜촉 랜스
+72	어느 역사학자가 즐겨 지니고 다니던 트렁크 가방. 각종 문서와 두루마리, 그리고 가방에 달린 시계가 인상적인 느낌을 준다.
+73	깃털 팬 모양의 양손검. 깃털 처럼 생긴 날은 의외로 날카롭다.
+74	이웨카와 라데카의 모양을 본떠 만든 레플리카로 만든 망치.
+75	거대한 팬으로 만들어진 랜스. 팬촉의 날카로움이 적으로 하여금 보는 것만으로도 두려움에 빠지게 만든다.
+76	인어의 소중한 어항
+77	인어가 소중하게 여기는 신비로운 어항. 신비로운 산호들과 금붕어 모양 장식이 아름답다. 쏟아버리지 않게 조심하자.

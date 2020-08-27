@@ -1,0 +1,1215 @@
+﻿0	Warding skill max range increased by 10cm
+1	Warding skill max range increased by 20cm
+2	Warding skill max range increased by 30cm
+3	Warding skill max range increased by 40cm
+4	Warding skill max range increased by 50cm
+5	Warding skill max range increased by 60cm
+6	Warding skill max range increased by 70cm
+7	Warding skill max range increased by 80cm
+8	Warding skill max range increased by 90cm
+9	Warding skill max range increased by 110cm
+10	Warding skill max range increased by 130cm
+11	Warding skill max range increased by 150cm
+12	Warding skill max range increased by 170cm
+13	Warding skill max range increased by 190cm
+14	Warding skill max range increased by 210cm
+15	Restores target HP by 10 points
+16	Restores target HP by 20 points
+17	Restores target HP by 30 points
+18	Restores target HP by 40 points
+19	Restores target HP by 50 points
+20	Restores target HP by 60 points
+21	Restores target HP by 70 points
+22	Restores target HP by 80 points
+23	Restores target HP by 90 points
+24	Restores target HP by 110 points
+25	Restores target HP by 130 points
+26	Restores target HP by 150 points
+27	Restores target HP by 170 points
+28	Restores target HP by 190 points
+29	Restores target HP by 210 points
+30	Add 1 to Magic Defense
+31	Add 2 to Magic Defense
+32	Add 3 to Magic Defense
+33	Add 4 to Magic Defense
+34	Add 5 to Magic Defense
+35	Add 6 to Magic Defense
+36	Add 7 to Magic Defense
+37	Add 8 to Magic Defense
+38	Add 9 to Magic Defense
+39	Add 10 to Magic Defense
+40	Add 11 to Magic Defense
+41	Add 12 to Magic Defense
+42	Add 13 to Magic Defense
+43	Add 14 to Magic Defense
+44	Add 15 to Magic Defense
+45	Movement Speed 10%
+46	Movement Speed 12%
+47	Movement Speed 14%
+48	Movement Speed 16%
+49	Movement Speed 18%
+50	Movement Speed 20%
+51	Movement Speed 22%
+52	Movement Speed 24%
+53	Movement Speed 26%
+54	Movement Speed 28%
+55	Movement Speed 30%
+56	Movement Speed 32%
+57	Movement Speed 34%
+58	Movement Speed 36%
+59	Movement Speed 38%
+60	Heal 10% of target's wound
+61	Heal 12% of target's wound
+62	Heal 14% of target's wound
+63	Heal 16% of target's wound
+64	Heal 18% of target's wound
+65	Heal 20% of target's wound
+66	Heal 22% of target's wound
+67	Heal 24% of target's wound
+68	Heal 26% of target's wound
+69	Heal 28% of target's wound
+70	Heal 30% of target's wound
+71	Heal 32% of target's wound
+72	Heal 34% of target's wound
+73	Heal 36% of target's wound
+74	Heal 38% of target's wound
+75	Recovers 10 MP to self
+76	Recovers 12 MP to self
+77	Recovers 14 MP to self
+78	Recovers 16 MP to self
+79	Recovers 18 MP to self
+80	Recovers 20 MP to self
+81	Recovers 22 MP to self
+82	Recovers 24 MP to self
+83	Recovers 26 MP to self
+84	Recovers 28 MP to self
+85	Recovers 30 MP to self
+86	Recovers 32 MP to self
+87	Recovers 34 MP to self
+88	Recovers 36 MP to self
+89	Recovers 38 MP to self
+90	Increases cast range by 10cm
+91	Increases cast range by 20cm
+92	Increases cast range by 30cm
+93	Increases cast range by 40cm
+94	Increases cast range by 50cm
+95	Increases cast range by 60cm
+96	Increases cast range by 70cm
+97	Increases cast range by 80cm
+98	Increases cast range by 90cm
+99	Increases cast range by 110cm
+100	Increases cast range by 130cm
+101	Increases cast range by 150cm
+102	Increases cast range by 170cm
+103	Increases cast range by 190cm
+104	Increases cast range by 210cm
+105	Increase Divine damage by 2
+106	Increase Divine damage by 4
+107	Increase Divine damage by 6
+108	Increase Divine damage by 8
+109	Increase Divine damage by 10
+110	Increase Divine damage by 12
+111	Increase Divine damage by 14
+112	Increase Divine damage by 16
+113	Increase Divine damage by 18
+114	Increase Divine damage by 20
+115	Increase Divine damage by 22
+116	Increase Divine damage by 24
+117	Increase Divine damage by 26
+118	Increase Divine damage by 28
+119	Increase Divine damage by 30
+120	Range: 50cm, Enemies Hit: 2, Duration: 6 sec, Movement Speed reduced by 10%
+121	Range: 70 cm, Enemies Hit: 2, Duration: 6 sec, Movement Speed reduced by 10%
+122	Range: 90cm, Enemies Hit: 2, Duration: 6 sec, Movement Speed reduced by 10%
+123	Range: 110cm, Enemies Hit: 3, Duration: 6 sec, Movement Speed reduced by 10%
+124	Range: 130cm, Enemies Hit: 3, Duration: 6 sec, Movement Speed reduced by 10%
+125	Range: 150cm, Enemies Hit: 3, Duration: 6 sec, Movement Speed reduced by 10%
+126	Range: 170cm, Enemies Hit: 4, Duration: 6 sec, Movement Speed reduced by 10%
+127	Range: 190cm, Enemies Hit: 4, Duration: 6 sec, Movement Speed reduced by 10%
+128	Range: 210cm, Enemies Hit: 4, Duration: 6 sec, Movement Speed reduced by 20%
+129	Range: 230cm, Enemies Hit: 5, Duration: 6 sec, Movement Speed reduced by 20%
+130	Range: 250cm, Enemies Hit: 5, Duration: 6 sec, Movement Speed reduced by 20%
+131	Range: 270cm, Enemies Hit: 5, Duration: 6 sec, Movement Speed reduced by 20%
+132	Range: 290cm, Enemies Hit: 6, Duration: 6 sec, Movement Speed reduced by 20%
+133	Range: 310cm, Enemies Hit: 6, Duration: 6 sec, Movement Speed reduced by 20%
+134	Range: 330cm, Enemies Hit: 6, Duration: 6 sec, Movement Speed reduced by 20%
+135	Range: 50cm, Hit Enemies: 2, Duration: 6 sec, Divine Damage: 1
+136	Range: 70cm, Hit Enemies: 2, Duration: 6 sec, Divine Damage: 2
+137	Range: 90cm, Hit Enemies: 3, Duration: 6 sec, Divine Damage: 3
+138	Range: 110cm, Hit Enemies: 3, Duration: 6 sec, Divine Damage: 4
+139	Range: 130cm, Hit Enemies: 3, Duration: 6 sec, Divine Damage: 5
+140	Range: 150cm, Hit Enemies: 3, Duration: 6 sec, Divine Damage: 6
+141	Range: 170cm, Hit Enemies: 4, Duration: 6 sec, Divine Damage: 7
+142	Range: 190cm, Hit Enemies: 4, Duration: 6 sec, Divine Damage: 8
+143	Range: 210cm, Hit Enemies: 4, Duration: 6 sec, Divine Damage: 9
+144	Range: 230cm, Hit Enemies: 5, Duration: 6 sec, Divine Damage: 10
+145	Range: 250cm, Hit Enemies: 5, Duration: 6 sec, Divine Damage: 15
+146	Range: 270cm, Hit Enemies: 5, Duration: 6 sec, Divine Damage: 20
+147	Range: 290cm, Hit Enemies: 6, Duration: 6 sec, Divine Damage: 25
+148	Range: 310cm, Hit Enemies: 6, Duration: 6 sec, Divine Damage: 30
+149	Range: 330cm, Hit Enemies: 6, Duration: 6 sec, Divine Damage: 35
+150	Smiting attack range increased by 10cm
+151	Smiting attack range increased by 30cm
+152	Smiting attack range increased by 50cm
+153	Smiting attack range increased by 70cm
+154	Smiting attack range increased by 90cm
+155	Smiting attack range increased by 110cm
+156	Smiting attack range increased by 130cm
+157	Smiting attack range increased by 150cm
+158	Smiting attack range increased by 170cm
+159	Smiting attack range increased by 190cm
+160	Smiting attack range increased by 210cm
+161	Smiting attack range increased by 230cm
+162	Smiting attack range increased by 250cm
+163	Smiting attack range increased by 270cm
+164	Smiting attack range increased by 290cm
+165	Increases Smiting duration by 0.1 sec\nCan be stacked up to 5 times
+166	Increases Smiting duration by 0.2 sec\nCan be stacked up to 5 times
+167	Increases Smiting duration by 0.3 sec\nCan be stacked up to 5 times
+168	Increases Smiting duration by 0.4 sec\nCan be stacked up to 5 times
+169	Increases Smiting duration by 0.5 sec\nCan be stacked up to 5 times
+170	Increases Smiting duration by 0.6 sec\nCan be stacked up to 5 times
+171	Increases Smiting duration by 0.7 sec\nCan be stacked up to 5 times
+172	Increases Smiting duration by 0.8 sec\nCan be stacked up to 5 times
+173	Increases Smiting duration by 0.9 sec\nCan be stacked up to 5 times
+174	Increases Smiting duration by 1 sec\nCan be stacked up to 5 times
+175	Increases Smiting duration by 1.1 sec\nCan be stacked up to 5 times
+176	Increases Smiting duration by 1.2 sec\nCan be stacked up to 5 times
+177	Increases Smiting duration by 1.3 sec\nCan be stacked up to 5 times
+178	Increases Smiting duration by 1.4 sec\nCan be stacked up to 5 times
+179	Increases Smiting duration by 1.5 sec\nCan be stacked up to 5 times
+180	Smiting defense debuff increased by 0.2%
+181	Smiting defense debuff increased by 0.4%
+182	Smiting defense debuff increased by 0.6%
+183	Smiting defense debuff increased by 0.8%
+184	Smiting defense debuff increased by 1%
+185	Smiting defense debuff increased by 1.2%
+186	Smiting defense debuff increased by 1.4%
+187	Smiting defense debuff increased by 1.6%
+188	Smiting defense debuff increased by 1.8%
+189	Smiting defense debuff increased by 2%
+190	Smiting defense debuff increased by 2.2%
+191	Smiting defense debuff increased by 2.4%
+192	Smiting defense debuff increased by 2.6%
+193	Smiting defense debuff increased by 2.8%
+194	Smiting defense debuff increased by 3%
+195	Increases Judgment Blade critical damage by 10%
+196	Increases Judgment Blade critical damage by 20%
+197	Increases Judgment Blade critical damage by 30%
+198	Increases Judgment Blade critical damage by 40%
+199	Increases Judgment Blade critical damage by 50%
+200	Increases Judgment Blade critical damage by 60%
+201	Increases Judgment Blade critical damage by 70%
+202	Increases Judgment Blade critical damage by 80%
+203	Increases Judgment Blade critical damage by 90%
+204	Increases Judgment Blade critical damage by 100%
+205	Increases Judgment Blade critical damage by 110%
+206	Increases Judgment Blade critical damage by 120%
+207	Increases Judgment Blade critical damage by 130%
+208	Increases Judgment Blade critical damage by 140%
+209	Increases Judgment Blade critical damage by 150%
+210	Recovers own Stamina by 10
+211	Recovers own Stamina by 20
+212	Recovers own Stamina by 30
+213	Recovers own Stamina by 40
+214	Recovers own Stamina by 50
+215	Recovers own Stamina by 60
+216	Recovers own Stamina by 70
+217	Recovers own Stamina by 80
+218	Recovers own Stamina by 90
+219	Recovers own Stamina by 100
+220	Recovers own Stamina by 110
+221	Recovers own Stamina by 120
+222	Recovers own Stamina by 130
+223	Recovers own Stamina by 140
+224	Recovers own Stamina by 150
+225	add(100, "Protect allies 100cm or further away from you during an Apostle's Mineral Hail attacks ");
+226	add(50, "Protect allies 110cm or further away from you during an Apostle's Mineral Hail attacks ");
+227	add(25, "Protect allies 120cm or further away from you during an Apostle's Mineral Hail attacks ");
+228	add(20, "Protect allies 130cm or further away from you during an Apostle's Mineral Hail attacks ");
+229	add(10, "Protect allies 140cm or further away from you during an Apostle's Mineral Hail attacks ");
+230	add(6.25, "Protect allies 150cm or further away from you during an Apostle's Mineral Hail attacks ");
+231	add(6.25, "Protect allies 160cm or further away from you during an Apostle's Mineral Hail attacks ");
+232	add(5, "Protect allies 170cm or further away from you during an Apostle's Mineral Hail attacks ");
+233	add(5, "Protect allies 180cm or further away from you during an Apostle's Mineral Hail attacks ");
+234	add(4, "Protect allies 200cm or further away from you during an Apostle's Mineral Hail attacks ");
+235	add(3.125, "Protect allies 220cm or further away from you during an Apostle's Mineral Hail attacks ");
+236	add(2, "Protect allies 240cm or further away from you during an Apostle's Mineral Hail attacks ");
+237	add(1, "Protect allies 260cm or further away from you during an Apostle's Mineral Hail attacks ");
+238	add(0.5, "Protect allies 280cm or further away from you during an Apostle's Mineral Hail attacks ");
+240	add(20, "Use skill on targets with less than 80% HP");
+241	add(12.5, "Use skill on targets with less than 80% HP");
+242	add(10, "Use skill on targets with less than 80% HP");
+243	add(6.25, "Use skill on targets with less than 60% HP");
+244	add(5, "Use skill on targets with less than 60% HP");
+245	add(4, "Use skill on targets with less than 60% HP");
+246	add(2.5, "Use skill on targets with less than 50% HP");
+247	add(2, "Use skill on targets with less than 50% HP");
+248	add(1, "Use skill on targets with less than 50% HP");
+249	add(0.5, "Use skill on targets with less than 40% HP");
+250	add(0.1, "Use skill on targets with less than 40% HP");
+251	add(0.05, "Use skill on targets with less than 40% HP");
+252	add(0.04, "Use skill on targets with less than 30% HP");
+253	add(0.02, "Use skill on targets with less than 30% HP");
+255	add(20, "Get hit by the enemy while the skill is active");
+256	add(12.5, "Get hit by the enemy while the skill is active");
+257	add(10, "Get hit by the enemy while the skill is active");
+258	add(6.25, "Get hit by the enemy while the skill is active");
+259	add(5, "Get hit by the enemy while the skill is active");
+260	add(4, "Get hit by the enemy while the skill is active");
+261	add(2.5, "Get hit by the enemy while the skill is active");
+262	add(2, "Get hit by the enemy while the skill is active");
+263	add(1, "Get hit by the enemy while the skill is active");
+264	add(0.5, "Get hit by the enemy while the skill is active");
+265	add(0.1, "Get hit by the enemy while the skill is active");
+266	add(0.05, "Get hit by the enemy while the skill is active");
+267	add(0.04, "Get hit by the enemy while the skill is active");
+268	add(0.02, "Get hit by the enemy while the skill is active");
+270	add(100, "Protect allies within 100cm during an Apostle's Mineral Hail attacks ");
+271	add(50, "Protect allies within 95cm during an Apostle's Mineral Hail attacks ");
+272	add(25, "Protect allies within 90cm during an Apostle's Mineral Hail attacks ");
+273	add(20, "Protect allies within 85cm during an Apostle's Mineral Hail attacks ");
+274	add(10, "Protect allies within 80cm during an Apostle's Mineral Hail attacks ");
+275	add(6.25, "Protect allies within 75cm during an Apostle's Mineral Hail attacks ");
+276	add(6.25, "Protect allies within 70cm during an Apostle's Mineral Hail attacks ");
+277	add(5, "Protect allies within 65cm during an Apostle's Mineral Hail attacks ");
+278	add(5, "Protect allies within 60cm during an Apostle's Mineral Hail attacks ");
+279	add(4, "Protect allies within 55cm during an Apostle's Mineral Hail attacks ");
+280	add(3.125, "Protect allies within 50cm during an Apostle's Mineral Hail attacks ");
+281	add(2, "Protect allies within 45cm during an Apostle's Mineral Hail attacks ");
+282	add(1, "Protect allies within 40cm during an Apostle's Mineral Hail attacks ");
+283	add(0.5, "Protect allies within 35cm during an Apostle's Mineral Hail attacks ");
+285	add(100, "Use skill on target with wound of 30% or more");
+286	add(50, "Use skill on target with wound of 30% or more");
+287	add(50, "Use skill on target with wound of 30% or more");
+288	add(25, "Use skill on target with wound of 40% or more");
+289	add(25, "Use skill on target with wound of 40% or more");
+290	add(20, "Use skill on target with wound of 40% or more");
+291	add(20, "Use skill on target with wound of 50% or more");
+292	add(12.5, "Use skill on target with wound of 50% or more");
+293	add(10, "Use skill on target with wound of 50% or more");
+294	add(6.25, "Use skill on target with wound of 60% or more");
+295	add(5, "Use skill on target with wound of 60% or more");
+296	add(4, "Use skill on target with wound of 60% or more");
+297	add(3.125, "Use skill on target with wound of 70% or more");
+298	add(2.5, "Use skill on target with wound of 70% or more");
+300	add(100, "Use the skill when your MP is below 30%");
+301	add(50, "Use the skill when your MP is below 30%");
+302	add(25, "Use the skill when your MP is below 30%");
+303	add(20, "Use the skill when your MP is below 40%");
+304	add(12.5, "Use the skill when your MP is below 40%");
+305	add(10, "Use the skill when your MP is below 40%");
+306	add(6.25, "Use the skill when your MP is below 50%");
+307	add(5, "Use the skill when your MP is below 50%");
+308	add(4, "Use the skill when your MP is below 50%");
+309	add(3.125, "Use the skill when your MP is below 60%");
+310	add(2.5, "Use the skill when your MP is below 60%");
+311	add(2, "Use the skill when your MP is below 60%");
+312	add(1, "Use the skill when your MP is below 70%");
+313	add(0.5, "Use the skill when your MP is below 70%");
+315	add(0.4, "Use the skill from at least 500cm away");
+316	add(0.4, "Use the skill from at least 510cm away");
+317	add(0.4, "Use the skill from at least 520cm away");
+318	add(0.4, "Use the skill from at least 530cm away");
+319	add(0.4, "Use the skill from at least 540cm away");
+320	add(0.4, "Use the skill from at least 550cm away");
+321	add(0.4, "Use the skill from at least 560cm away");
+322	add(0.4, "Use the skill from at least 570cm away");
+323	add(0.4, "Use the skill from at least 580cm away");
+324	add(0.4, "Use the skill from at least 590cm away");
+325	add(0.4, "Use the skill from at least 600cm away");
+326	add(0.4, "Use the skill from at least 610cm away");
+327	add(0.4, "Use the skill from at least 620cm away");
+328	add(0.4, "Use the skill from at least 630cm away");
+330	add(100, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+331	add(100, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+332	add(50, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+333	add(50, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+334	add(25, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+335	add(25, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+336	add(20, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+337	add(20, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+338	add(10, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+339	add(10, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+340	add(5, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+341	add(5, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+342	add(4, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+343	add(2, "Use Celestial Spike to eliminate an enemy with Divine Damage");
+345	add(0.4, "Attack one or more enemies at once.");
+346	add(0.4, "Attack one or more enemies at once.");
+347	add(0.4, "Attack one or more enemies at once.");
+348	add(0.4, "Attack one or more enemies at once.");
+349	add(0.4, "Attack one or more enemies at once.");
+350	add(0.4, "Attack one or more enemies at once.");
+351	add(0.4, "Attack two or more enemies at once.");
+352	add(0.4, "Attack two or more enemies at once.");
+353	add(0.4, "Attack two or more enemies at once.");
+354	add(0.4, "Attack three or more enemies at once.");
+355	add(0.4, "Attack three or more enemies at once.");
+356	add(0.4, "Attack three or more enemies at once.");
+357	add(0.4, "Attack four or more enemies at once.");
+358	add(0.4, "Attack four or more enemies at once.");
+360	add(0.4, "Attack one or more enemies at once.");
+361	add(0.4, "Attack one or more enemies at once.");
+362	add(0.4, "Attack one or more enemies at once.");
+363	add(0.4, "Attack one or more enemies at once.");
+364	add(0.4, "Attack two or more enemies at once.");
+365	add(0.4, "Attack two or more enemies at once.");
+366	add(0.4, "Attack two or more enemies at once.");
+367	add(0.4, "Attack two or more enemies at once.");
+368	add(0.4, "Attack three or more enemies at once.");
+369	add(0.4, "Attack three or more enemies at once.");
+370	add(0.4, "Attack three or more enemies at once.");
+371	add(0.4, "Attack three or more enemies at once.");
+372	add(0.4, "Attack four or more enemies at once.");
+373	add(0.4, "Attack four or more enemies at once.");
+375	add(20, "Attack three or more enemies at once.");
+376	add(12.5, "Attack three or more enemies at once.");
+377	add(10, "Attack three or more enemies at once.");
+378	add(6.25, "Attack three or more enemies at once.");
+379	add(5, "Attack four or more enemies at once.");
+380	add(4, "Attack four or more enemies at once.");
+381	add(2.5, "Attack four or more enemies at once.");
+382	add(2, "Attack four or more enemies at once.");
+383	add(1, "Attack five or more enemies at once.");
+384	add(0.5, "Attack five or more enemies at once.");
+385	add(0.1, "Attack five or more enemies at once.");
+386	add(0.05, "Attack six or more enemies at once.");
+387	add(0.04, "Attack six or more enemies at once.");
+388	add(0.02, "Attack six or more enemies at once.");
+390	add(50, "Use skill when the Smiting timer is at 5 seconds or less");
+391	add(25, "Use skill when the Smiting timer is at 4.8 seconds or less");
+392	add(20, "Use skill when the Smiting timer is at 4.6 seconds or less");
+393	add(12.5, "Use skill when the Smiting timer is at 4.4 seconds or less");
+394	add(10, "Use skill when the Smiting timer is at 4.2 seconds or less");
+395	add(6.25, "Use skill when the Smiting timer is at 4 seconds or less");
+396	add(5, "Use skill when the Smiting timer is at 3.8 seconds or less");
+397	add(4, "Use skill when the Smiting timer is at 3.6 seconds or less");
+398	add(3.125, "Use skill when the Smiting timer is at 3.4 seconds or less");
+399	add(2.5, "Use skill when the Smiting timer is at 3.2 seconds or less");
+400	add(2, "Use skill when the Smiting timer is at 3 seconds or less");
+401	add(1, "Use skill when the Smiting timer is at 2.8 seconds or less");
+402	add(0.5, "Use skill when the Smiting timer is at 2.6 seconds or less");
+403	add(0.25, "Use skill when the Smiting timer is at 2.4 seconds or less");
+405	add(50, "Attack with the skill when an Apostle's HP is below 52%");
+406	add(20, "Attack with the skill when an Apostle's HP is below 49%");
+407	add(12.5, "Attack with the skill when an Apostle's HP is below 46%");
+408	add(10, "Attack with the skill when an Apostle's HP is below 43%");
+409	add(5, "Attack with the skill when an Apostle's HP is below 40%");
+410	add(4, "Attack with the skill when an Apostle's HP is below 37%");
+411	add(2, "Attack with the skill when an Apostle's HP is below 34%");
+412	add(1, "Attack with the skill when an Apostle's HP is below 31%");
+413	add(0.5, "Attack with the skill when an Apostle's HP is below 28%");
+414	add(0.2, "Attack with the skill when an Apostle's HP is below 25%");
+415	add(0.1, "Attack with the skill when an Apostle's HP is below 22%");
+416	add(0.05, "Attack with the skill when an Apostle's HP is below 19%");
+417	add(0.04, "Attack with the skill when an Apostle's HP is below 16%");
+418	add(0.02, "Attack with the skill when an Apostle's HP is below 13%");
+420	add(50, "Get a Critical Hit with the skill.");
+421	add(25, "Get a Critical Hit with the skill.");
+422	add(20, "Get a Critical Hit with the skill.");
+423	add(12.5, "Get a Critical Hit with the skill.");
+424	add(10, "Get a Critical Hit with the skill.");
+425	add(6.25, "Get a Critical Hit with the skill.");
+426	add(5, "Get a Critical Hit with the skill.");
+427	add(4, "Get a Critical Hit with the skill.");
+428	add(3.125, "Get a Critical Hit with the skill.");
+429	add(2.5, "Get a Critical Hit with the skill.");
+430	add(2, "Get a Critical Hit with the skill.");
+431	add(1, "Get a Critical Hit with the skill.");
+432	add(0.5, "Get a Critical Hit with the skill.");
+433	add(0.25, "Get a Critical Hit with the skill.");
+435	add(50, "Use the skill when your Stamina is below 50%");
+436	add(25, "Use the skill when your Stamina is below 48%");
+437	add(20, "Use the skill when your Stamina is below 46%");
+438	add(12.5, "Use the skill when your Stamina is below 44%");
+439	add(10, "Use the skill when your Stamina is below 42%");
+440	add(6.25, "Use the skill when your Stamina is below 40%");
+441	add(5, "Use the skill when your Stamina is below 38%");
+442	add(4, "Use the skill when your Stamina is below 36%");
+443	add(3.125, "Use the skill when your Stamina is below 34%");
+444	add(2.5, "Use the skill when your Stamina is below 32%");
+445	add(2, "Use the skill when your Stamina is below 30%");
+446	add(1, "Use the skill when your Stamina is below 25%");
+447	add(0.5, "Use the skill when your Stamina is below 20%");
+448	add(0.25, "Use the skill when your Stamina is below 15%");
+450	It's often strategically beneficial to keep your party members at a distance to keep them safe. 
+451	It's often strategically beneficial to keep your party members at a distance to keep them safe.
+452	It's often strategically beneficial to keep your party members at a distance to keep them safe.
+453	It's often strategically beneficial to keep your party members at a distance to keep them safe.
+454	It's often strategically beneficial to keep your party members at a distance to keep them safe.
+455	It's often strategically beneficial to keep your party members at a distance to keep them safe.
+456	It's often strategically beneficial to keep your party members at a distance to keep them safe.
+457	It's often strategically beneficial to keep your party members at a distance to keep them safe.
+458	It's often strategically beneficial to keep your party members at a distance to keep them safe.
+459	It's often strategically beneficial to keep your party members at a distance to keep them safe.
+460	It's often strategically beneficial to keep your party members at a distance to keep them safe.
+461	It's often strategically beneficial to keep your party members at a distance to keep them safe.
+462	It's often strategically beneficial to keep your party members at a distance to keep them safe.
+463	It's often strategically beneficial to keep your party members at a distance to keep them safe.
+464	You have reached the highest level of this skill.
+465	If you are facing a dangerous situation without enough HP, use this skill.
+466	If you are facing a dangerous situation without enough HP, use this skill.
+467	If you are facing a dangerous situation without enough HP, use this skill.
+468	If you are facing a dangerous situation without enough HP, use this skill.
+469	If you are facing a dangerous situation without enough HP, use this skill.
+470	If you are facing a dangerous situation without enough HP, use this skill.
+471	If you are facing a dangerous situation without enough HP, use this skill.
+472	If you are facing a dangerous situation without enough HP, use this skill.
+473	If you are facing a dangerous situation without enough HP, use this skill.
+474	If you are facing a dangerous situation without enough HP, use this skill.
+475	If you are facing a dangerous situation without enough HP, use this skill.
+476	If you are facing a dangerous situation without enough HP, use this skill.
+477	If you are facing a dangerous situation without enough HP, use this skill.
+478	If you are facing a dangerous situation without enough HP, use this skill.
+479	You have reached the highest level of this skill.
+480	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+481	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+482	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+483	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+484	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+485	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+486	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+487	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+488	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+489	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+490	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+491	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+492	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+493	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+494	You have reached the highest level of this skill.
+495	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+496	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+497	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+498	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+499	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+500	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+501	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+502	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+503	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+504	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+505	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+506	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+507	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+508	The most effective way to protect your companions during battle is proper formation. Keep your team safe with a tight defense.
+509	You have reached the highest level of this skill.
+510	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+511	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+512	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+513	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+514	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+515	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+516	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+517	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+518	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+519	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+520	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+521	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+522	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+523	If you are facing a dangerous situation due to a severe wound, this skill may save your life.
+524	You have reached the highest level of this skill.
+525	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+526	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+527	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+528	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+529	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+530	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+531	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+532	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+533	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+534	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+535	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+536	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+537	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+538	Being low on MP in the middle of a fight can put you and your team in danger. Use this skill to fuel your casting.
+539	You have reached the highest level of this skill.
+540	Attack an enemy from a distance.
+541	Attack an enemy from a distance.
+542	Attack an enemy from a distance.
+543	Attack an enemy from a distance.
+544	Attack an enemy from a distance.
+545	Attack an enemy from a distance.
+546	Attack an enemy from a distance.
+547	Attack an enemy from a distance.
+548	Attack an enemy from a distance.
+549	Attack an enemy from a distance.
+550	Attack an enemy from a distance.
+551	Attack an enemy from a distance.
+552	Attack an enemy from a distance.
+553	Attack an enemy from a distance.
+554	You have reached the highest level of this skill.
+555	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+556	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+557	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+558	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+559	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+560	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+561	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+562	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+563	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+564	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+565	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+566	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+567	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+568	A flurry of weak attacks can be just as effective as a single powerful blow. Defeat enemies using Divine damage.
+569	You have reached the highest level of this skill.
+570	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+571	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+572	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+573	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+574	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+575	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+576	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+577	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+578	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+579	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+580	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+581	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+582	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+583	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+584	You have reached the highest level of this skill.
+585	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+586	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+587	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+588	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+589	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+590	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+591	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+592	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+593	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+594	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+595	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+596	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+597	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+598	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+599	You have reached the highest level of this skill.
+600	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+601	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+602	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+603	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+604	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+605	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+606	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+607	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+608	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+609	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+610	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+611	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+612	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+613	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+614	You have reached the highest level of this skill.
+615	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+616	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+617	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+618	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+619	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+620	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+621	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+622	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+623	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+624	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+625	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+626	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+627	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+628	This skill extends stun duration, giving you and your team more time to coordinate an attack.
+629	You have reached the highest level of this skill.
+630	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+631	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+632	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+633	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+634	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+635	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+636	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+637	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+638	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+639	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+640	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+641	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+642	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+643	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+644	You have reached the highest level of this skill.
+645	Land a Critical Hit using the Judgment Blade skill.
+646	Land a Critical Hit using the Judgment Blade skill.
+647	Land a Critical Hit using the Judgment Blade skill.
+648	Land a Critical Hit using the Judgment Blade skill.
+649	Land a Critical Hit using the Judgment Blade skill.
+650	Land a Critical Hit using the Judgment Blade skill.
+651	Land a Critical Hit using the Judgment Blade skill.
+652	Land a Critical Hit using the Judgment Blade skill.
+653	Land a Critical Hit using the Judgment Blade skill.
+654	Land a Critical Hit using the Judgment Blade skill.
+655	Land a Critical Hit using the Judgment Blade skill.
+656	Land a Critical Hit using the Judgment Blade skill.
+657	Land a Critical Hit using the Judgment Blade skill.
+658	Land a Critical Hit using the Judgment Blade skill.
+659	You have reached the highest level of this skill.
+660	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+661	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+662	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+663	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+664	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+665	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+666	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+667	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+668	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+669	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+670	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+671	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+672	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+673	Having not enough Stamina can put you in danger. Use this skill to maintain a good level.
+674	You have reached the highest level of this skill.
+675	add(0,"");
+676	add(0,"");
+677	add(0,"");
+678	add(0,"");
+679	add(0,"");
+680	add(0,"");
+681	add(0,"");
+682	add(0,"");
+683	add(0,"");
+684	add(0,"");
+685	add(0,"");
+686	add(0,"");
+687	add(0,"");
+688	add(0,"");
+689	add(0,"");
+690	Caster's EXP gain increased by 3% while souls are linked
+691	Caster's EXP gain increased by 6% while souls are linked
+692	Caster's EXP gain increased by 9% while souls are linked
+693	Caster's EXP gain increased by 12% while souls are linked
+694	Caster's EXP gain increased by 15% while souls are linked
+695	Caster's EXP gain increased by 18% while souls are linked
+696	Caster's EXP gain increased by 21% while souls are linked
+697	Caster's EXP gain increased by 24% while souls are linked
+698	Caster's EXP gain increased by 27% while souls are linked
+699	Caster's EXP gain increased by 30% while souls are linked
+700	Caster's EXP gain increased by 33% while souls are linked
+701	Caster's EXP gain increased by 36% while souls are linked
+702	Caster's EXP gain increased by 39% while souls are linked
+703	Caster's EXP gain increased by 42% while souls are linked
+704	Caster's EXP gain increased by 45% while souls are linked
+705	When linked, increase pet's Min Damage by 15, Max Damage by 30
+706	When linked, increase pet's Min Damage by 17, Max Damage by 33
+707	When linked, increase pet's Min Damage by 19, Max Damage by 36
+708	When linked, increase pet's Min Damage by 21, Max Damage by 39
+709	When linked, increase pet's Min Damage by 23, Max Damage by 42
+710	When linked, increase pet's Min Damage by 25, Max Damage by 45
+711	When linked, increase pet's Min Damage by 27, Max Damage by 48
+712	When linked, increase pet's Min Damage by 29, Max Damage by 51
+713	When linked, increase pet's Min Damage by 31, Max Damage by 54
+714	When linked, increase pet's Min Damage by 33, Max Damage by 57
+715	When linked, increase pet's Min Damage by 35, Max Damage by 60
+716	When linked, increase pet's Min Damage by 37, Max Damage by 63
+717	When linked, increase pet's Min Damage by 39, Max Damage by 66
+718	When linked, increase pet's Min Damage by 41, Max Damage by 69
+719	When linked, increase pet's Min Damage by 43, Max Damage by 72
+720	When linked, pet's Stun Resistance chance is 30%
+721	When linked, pet's Stun Resistance chance is 32%
+722	When linked, pet's Stun Resistance chance is 34%
+723	When linked, pet's Stun Resistance chance is 36%
+724	When linked, pet's Stun Resistance chance is 38%
+725	When linked, pet's Stun Resistance chance is 40%
+726	When linked, pet's Stun Resistance chance is 42%
+727	When linked, pet's Stun Resistance chance is 44%
+728	When linked, pet's Stun Resistance chance is 46%
+729	When linked, pet's Stun Resistance chance is 48%
+730	When linked, pet's Stun Resistance chance is 50%
+731	When linked, pet's Stun Resistance chance is 52%
+732	When linked, pet's Stun Resistance chance is 54%
+733	When linked, pet's Stun Resistance chance is 56%
+734	When linked, pet's Stun Resistance chance is 58%
+735	When linked, the pet's HP Recovery Speed is 800%\nWounds are recovered equal to the amount of HP Recovery
+736	When linked, the pet's HP Recovery Speed is 1100%\nWounds are recovered equal to the amount of HP Recovery
+737	When linked, the pet's HP Recovery Speed is 1400%\nWounds are recovered equal to the amount of HP Recovery
+738	When linked, the pet's HP Recovery Speed is 1700%\nWounds are recovered equal to the amount of HP Recovery
+739	When linked, the pet's HP Recovery Speed is 2000%\nWounds are recovered equal to the amount of HP Recovery
+740	When linked, the pet's HP Recovery Speed is 2300%\nWounds are recovered equal to the amount of HP Recovery
+741	When linked, the pet's HP Recovery Speed is 2600%\nWounds are recovered equal to the amount of HP Recovery
+742	When linked, the pet's HP Recovery Speed is 2900%\nWounds are recovered equal to the amount of HP Recovery
+743	When linked, the pet's HP Recovery Speed is 3200%\nWounds are recovered equal to the amount of HP Recovery
+744	When linked, the pet's HP Recovery Speed is 3500%\nWounds are recovered equal to the amount of HP Recovery
+745	When linked, the pet's HP Recovery Speed is 3800%\nWounds are recovered equal to the amount of HP Recovery
+746	When linked, the pet's HP Recovery Speed is 4100%\nWounds are recovered equal to the amount of HP Recovery
+747	When linked, the pet's HP Recovery Speed is 4400%\nWounds are recovered equal to the amount of HP Recovery
+748	When linked, the pet's HP Recovery Speed is 4700%\nWounds are recovered equal to the amount of HP Recovery
+749	When linked, the pet's HP Recovery Speed is 5000%\nWounds are recovered equal to the amount of HP Recovery
+750	When linked, 1x instant revival if the pet is unconscious.
+751	When linked, 1x instant revival if the pet is unconscious.
+752	When linked, 1x instant revival if the pet is unconscious.
+753	When linked, 1x instant revival if the pet is unconscious.
+754	When linked, 1x instant revival if the pet is unconscious.
+755	When linked, 1x instant revival if the pet is unconscious.
+756	When linked, 1x instant revival if the pet is unconscious.
+757	When linked, 2x instant revival if the pet is unconscious.
+758	When linked, 2x instant revival if the pet is unconscious.
+759	When linked, 2x instant revival if the pet is unconscious.
+760	When linked, 2x instant revival if the pet is unconscious.
+761	When linked, 2x instant revival if the pet is unconscious.
+762	When linked, 2x instant revival if the pet is unconscious.
+763	When linked, 2x instant revival if the pet is unconscious.
+764	When linked, 3x instant revival if the pet is unconscious.
+765	add(10, "Over 5000 EXP gained while the souls are linked");
+766	add(10, "Over 8000 EXP gained while the souls are linked");
+767	add(5, "Over 10000 EXP gained while the souls are linked");
+768	add(5, "Over 10000 EXP gained while the souls are linked");
+769	add(4, "Over 10000 EXP gained while the souls are linked");
+770	add(3, "Over 13000 EXP gained while the souls are linked");
+771	add(2, "Over 13000 EXP gained while the souls are linked");
+772	add(1, "Over 13000 EXP gained while the souls are linked");
+773	add(0.8, "Over 15000 EXP gained while the souls are linked");
+774	add(0.8, "Over 15000 EXP gained while the souls are linked");
+775	add(0.5, "Over 15000 EXP gained while the souls are linked");
+776	add(0.5, "Over 18000 EXP gained while the souls are linked");
+777	add(0.2, "Over 18000 EXP gained while the souls are linked");
+778	add(0.2, "Over 20000 EXP gained while the souls are linked");
+779	add(0,"");
+780	add(10, "Pet defeated the enemy while the souls were linked");
+781	add(10, "Pet defeated 2 or more enemies while the souls were linked");
+782	add(5, "Pet defeated 3 or more enemies while the souls were linked");
+783	add(5, "Pet defeated 4 or more enemies while the souls were linked");
+784	add(5, "Pet defeated 5 or more enemies while the souls were linked");
+785	add(4, "Pet defeated 6 or more enemies while the souls were linked");
+786	add(3, "Pet defeated 7 or more enemies while the souls were linked");
+787	add(2, "Pet defeated 8 or more enemies while the souls were linked");
+788	add(1.5, "Pet defeated 9 or more enemies while the souls were linked");
+789	add(1.5, "Pet defeated 10 or more enemies while the souls were linked");
+790	add(1, "Pet defeated 11 or more enemies while the souls were linked");
+791	add(1, "Pet defeated 12 or more enemies while the souls were linked");
+792	add(0.8, "Pet defeated 13 or more enemies while the souls were linked");
+793	add(0.5, "Pet defeated 14 or more enemies while the souls were linked");
+794	add(0,"");
+795	add(10, "Pet resisted stun while the souls were linked");
+796	add(10, "Pet resisted stun while the souls were linked");
+797	add(5, "Pet resisted stun while the souls were linked");
+798	add(5, "Pet resisted stun while the souls were linked");
+799	add(4, "Pet resisted stun while the souls were linked");
+800	add(3, "Pet resisted stun while the souls were linked");
+801	add(3, "Pet resisted stun 3 times or more while the souls were linked");
+802	add(2, "Pet resisted stun 3 times or more while the souls were linked");
+803	add(1, "Pet resisted stun 3 times or more while the souls were linked");
+804	add(0.8, "Pet resisted stun 3 times or more while the souls were linked");
+805	add(0.8, "Pet resisted stun 5 times or more while the souls were linked");
+806	add(0.5, "Pet resisted stun 5 times or more while the souls were linked");
+807	add(0.4, "Pet resisted stun 5 times or more while the souls were linked");
+808	add(0.3, "Pet resisted stun 5 times or more while the souls were linked");
+809	add(0,"");
+810	add(20, "Use Skill when pet's HP is below 50%");
+811	add(15, "Use Skill when pet's HP is below 50%");
+812	add(10, "Use Skill when pet's HP is below 50%");
+813	add(8, "Use Skill when pet's HP is below 40%");
+814	add(5, "Use Skill when pet's HP is below 40%");
+815	add(4, "Use Skill when pet's HP is below 40%");
+816	add(3, "Use Skill when pet's HP is below 30%");
+817	add(2, "Use Skill when pet's HP is below 30%");
+818	add(2, "Use Skill when pet's HP is below 30%");
+819	add(1.5, "Use Skill when pet's HP is below 20%");
+820	add(1, "Use Skill when pet's HP is below 20%");
+821	add(0.8, "Use Skill when pet's HP is below 20%");
+822	add(0.8, "Use Skill when pet's HP is below 10%");
+823	add(0.4, "Use Skill when pet's HP is below 10%");
+824	add(0,"");
+825	add(20, "Pet revived while the souls were linked");
+826	add(15, "Pet revived while the souls were linked");
+827	add(10, "Pet revived while the souls were linked");
+828	add(8, "Pet revived while the souls were linked");
+829	add(6, "Pet revived while the souls were linked");
+830	add(5, "Pet revived while the souls were linked");
+831	add(4, "Pet revived while the souls were linked");
+832	add(1.5, "Pet revived while the souls were linked");
+833	add(1, "Pet revived while the souls were linked");
+834	add(0.8, "Pet revived while the souls were linked");
+835	add(0.5, "Pet revived while the souls were linked");
+836	add(0.4, "Pet revived while the souls were linked");
+837	add(0.3, "Pet revived while the souls were linked");
+838	add(0.2, "Pet revived while the souls were linked");
+839	add(0,"");
+840	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+841	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+842	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+843	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+844	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+845	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+846	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+847	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+848	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+849	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+850	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+851	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+852	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+853	Pets and casters gain more EXP through Soul Link. Remember, you can earn more EXP if you repeat the action.
+854	You have reached the highest level of this skill.
+855	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+856	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+857	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+858	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+859	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+860	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+861	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+862	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+863	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+864	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+865	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+866	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+867	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+868	Pets get stronger by protecting their owners and defeating enemies. Draw out the soul's potential power to the max.
+869	You have reached the highest level of this skill.
+870	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+871	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+872	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+873	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+874	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+875	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+876	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+877	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+878	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+879	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+880	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+881	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+882	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+883	Utilize the pet's Stun Resistance as much as possible when battling multiple enemies.
+884	You have reached the highest level of this skill.
+885	Avoid disaster by using the skill when the pet's HP is low.
+886	Avoid disaster by using the skill when the pet's HP is low.
+887	Avoid disaster by using the skill when the pet's HP is low.
+888	Avoid disaster by using the skill when the pet's HP is low.
+889	Avoid disaster by using the skill when the pet's HP is low.
+890	Avoid disaster by using the skill when the pet's HP is low.
+891	Avoid disaster by using the skill when the pet's HP is low.
+892	Avoid disaster by using the skill when the pet's HP is low.
+893	Avoid disaster by using the skill when the pet's HP is low.
+894	Avoid disaster by using the skill when the pet's HP is low.
+895	Avoid disaster by using the skill when the pet's HP is low.
+896	Avoid disaster by using the skill when the pet's HP is low.
+897	Avoid disaster by using the skill when the pet's HP is low.
+898	Avoid disaster by using the skill when the pet's HP is low.
+899	You have reached the highest level of this skill.
+900	Revive an incapacitated pet.
+901	Revive an incapacitated pet.
+902	Revive an incapacitated pet.
+903	Revive an incapacitated pet.
+904	Revive an incapacitated pet.
+905	Revive an incapacitated pet.
+906	Revive an incapacitated pet.
+907	Revive an incapacitated pet.
+908	Revive an incapacitated pet.
+909	Revive an incapacitated pet.
+910	Revive an incapacitated pet.
+911	Revive an incapacitated pet.
+912	Revive an incapacitated pet.
+913	Revive an incapacitated pet.
+914	You have reached the highest level of this skill.
+915	Restores target HP by 10 points
+916	Restores target HP by 20 points
+917	Restores target HP by 30 points
+918	Restores target HP by 40 points
+919	Restores target HP by 50 points
+920	Restores target HP by 60 points
+921	Restores target HP by 70 points
+922	Restores target HP by 80 points
+923	Restores target HP by 90 points
+924	Restores target HP by 110 points
+925	Restores target HP by 130 points
+926	Restores target HP by 150 points
+927	Restores target HP by 170 points
+928	Restores target HP by 190 points
+929	Restores target HP by 210 points
+930	Add 1 to Magic Defense and 1 to Magic Protection
+931	Add 2 to Magic Defense and 2 to Magic Protection
+932	Add 3 to Magic Defense and 3 to Magic Protection
+933	Add 4 to Magic Defense and 4 to Magic Protection
+934	Add 5 to Magic Defense and 5 to Magic Protection
+935	Add 6 to Magic Defense and 6 to Magic Protection
+936	Add 7 to Magic Defense and 7 to Magic Protection
+937	Add 8 to Magic Defense and 8 to Magic Protection
+938	Add 9 to Magic Defense and 9 to Magic Protection
+939	Magic Defense +10, Magic Protection +10
+940	Add 11 to Magic Defense and 11 to Magic Protection
+941	Add 12 to Magic Defense and 12 to Magic Protection
+942	Add 13 to Magic Defense and 13 to Magic Protection
+943	Add 14 to Magic Defense and 14 to Magic Protection
+944	Add 15 to Magic Defense and 15 to Magic Protection
+945	Increases cast range by 10cm
+946	Increases cast range by 20cm
+947	Increases cast range by 30cm
+948	Increases cast range by 40cm
+949	Increases cast range by 50cm
+950	Increases cast range by 60cm
+951	Increases cast range by 70cm
+952	Increases cast range by 80cm
+953	Increases cast range by 90cm
+954	Increases cast range by 110cm
+955	Increases cast range by 130cm
+956	Increases cast range by 150cm
+957	Increases cast range by 170cm
+958	Increases cast range by 190cm
+959	Increases cast range by 210cm
+960	Range: 50cm, Enemies Hit: 2, Duration: 6 sec, Movement Speed reduced by 10%
+961	Range: 70 cm, Enemies Hit: 2, Duration: 6 sec, Movement Speed reduced by 10%
+962	Range: 90cm, Enemies Hit: 2, Duration: 6 sec, Movement Speed reduced by 10%
+963	Range: 110cm, Enemies Hit: 3, Duration: 6 sec, Movement Speed reduced by 10%
+964	Range: 130cm, Enemies Hit: 3, Duration: 6 sec, Movement Speed reduced by 10%
+965	Range: 150cm, Enemies Hit: 3, Duration: 6 sec, Movement Speed reduced by 10%
+966	Range: 170cm, Enemies Hit: 4, Duration: 6 sec, Movement Speed reduced by 10%
+967	Range: 190cm, Enemies Hit: 4, Duration: 6 sec, Movement Speed reduced by 10%
+968	Range: 210cm, Enemies Hit: 4, Duration: 6 sec, Movement Speed reduced by 20%
+969	Range: 230cm, Enemies Hit: 5, Duration: 6 sec, Movement Speed reduced by 20%
+970	Range: 250cm, Enemies Hit: 5, Duration: 6 sec, Movement Speed reduced by 20%
+971	Range: 270cm, Enemies Hit: 5, Duration: 6 sec, Movement Speed reduced by 20%
+972	Range: 290cm, Enemies Hit: 6, Duration: 6 sec, Movement Speed reduced by 20%
+973	Range: 310cm, Enemies Hit: 6, Duration: 6 sec, Movement Speed reduced by 20%
+974	Range: 330cm, Enemies Hit: 6, Duration: 6 sec, Movement Speed reduced by 20%
+975	Range: 50cm, Hit Enemies: 2, Duration: 6 sec, Divine Damage: 1
+976	Range: 70cm, Hit Enemies: 2, Duration: 6 sec, Divine Damage: 2
+977	Range: 90cm, Hit Enemies: 3, Duration: 6 sec, Divine Damage: 3
+978	Range: 110cm, Hit Enemies: 3, Duration: 6 sec, Divine Damage: 4
+979	Range: 130cm, Hit Enemies: 3, Duration: 6 sec, Divine Damage: 5
+980	Range: 150cm, Hit Enemies: 3, Duration: 6 sec, Divine Damage: 6
+981	Range: 170cm, Hit Enemies: 4, Duration: 6 sec, Divine Damage: 7
+982	Range: 190cm, Hit Enemies: 4, Duration: 6 sec, Divine Damage: 8
+983	Range: 210cm, Hit Enemies: 4, Duration: 6 sec, Divine Damage: 9
+984	Range: 230cm, Hit Enemies: 5, Duration: 6 sec, Divine Damage: 10
+985	Range: 250cm, Hit Enemies: 5, Duration: 6 sec, Divine Damage: 15
+986	Range: 270cm, Hit Enemies: 5, Duration: 6 sec, Divine Damage: 20
+987	Range: 290cm, Hit Enemies: 6, Duration: 6 sec, Divine Damage: 25
+988	Range: 310cm, Hit Enemies: 6, Duration: 6 sec, Divine Damage: 30
+989	Range: 330cm, Hit Enemies: 6, Duration: 6 sec, Divine Damage: 35
+990	Smiting attack range increased by 10cm
+991	Smiting attack range increased by 30cm
+992	Smiting attack range increased by 50cm
+993	Smiting attack range increased by 70cm
+994	Smiting attack range increased by 90cm
+995	Smiting attack range increased by 110cm
+996	Smiting attack range increased by 130cm
+997	Smiting attack range increased by 150cm
+998	Smiting attack range increased by 170cm
+999	Smiting attack range increased by 190cm
+1000	Smiting attack range increased by 210cm
+1001	Smiting attack range increased by 230cm
+1002	Smiting attack range increased by 250cm
+1003	Smiting attack range increased by 270cm
+1004	Smiting attack range increased by 290cm
+1005	Smiting defense debuff increased by 0.2%
+1006	Smiting defense debuff increased by 0.4%
+1007	Smiting defense debuff increased by 0.6%
+1008	Smiting defense debuff increased by 0.8%
+1009	Smiting defense debuff increased by 1%
+1010	Smiting defense debuff increased by 1.2%
+1011	Smiting defense debuff increased by 1.4%
+1012	Smiting defense debuff increased by 1.6%
+1013	Smiting defense debuff increased by 1.8%
+1014	Smiting defense debuff increased by 2%
+1015	Smiting defense debuff increased by 2.2%
+1016	Smiting defense debuff increased by 2.4%
+1017	Smiting defense debuff increased by 2.6%
+1018	Smiting defense debuff increased by 2.8%
+1019	Smiting defense debuff increased by 3%
+1020	add(20, "Use skill on targets with less than 80% HP");
+1021	add(12.5, "Use skill on targets with less than 80% HP");
+1022	add(10, "Use skill on targets with less than 80% HP");
+1023	add(6.25, "Use skill on targets with less than 60% HP");
+1024	add(5, "Use skill on targets with less than 60% HP");
+1025	add(4, "Use skill on targets with less than 60% HP");
+1026	add(3.125, "Use skill on targets with less than 50% HP");
+1027	add(2.5, "Use skill on targets with less than 50% HP");
+1028	add(2, "Use skill on targets with less than 50% HP");
+1029	add(1, "Use skill on targets with less than 40% HP");
+1030	add(0.5, "Use skill on targets with less than 40% HP");
+1031	add(0.3125, "Use skill on targets with less than 40% HP");
+1032	add(0.2, "Use skill on targets with less than 30% HP");
+1033	add(0.1, "Use skill on targets with less than 30% HP");
+1034	add(0,"");
+1035	add(20, "Get hit by the enemy while the skill is active");
+1036	add(12.5, "Get hit by the enemy while the skill is active");
+1037	add(10, "Get hit by the enemy while the skill is active");
+1038	add(6.25, "Get hit by the enemy while the skill is active");
+1039	add(5, "Get hit by the enemy while the skill is active");
+1040	add(4, "Get hit by the enemy while the skill is active");
+1041	add(3.125, "Get hit by the enemy while the skill is active");
+1042	add(2.5, "Get hit by the enemy while the skill is active");
+1043	add(2, "Get hit by the enemy while the skill is active");
+1044	add(1, "Get hit by the enemy while the skill is active");
+1045	add(0.5, "Get hit by the enemy while the skill is active");
+1046	add(0.3125, "Get hit by the enemy while the skill is active");
+1047	add(0.2, "Get hit by the enemy while the skill is active");
+1048	add(0.1, "Get hit by the enemy while the skill is active");
+1049	add(0,"");
+1050	add(20, "Use the skill from at least 500cm away");
+1051	add(10, "Use the skill from at least 510cm away");
+1052	add(10, "Use the skill from at least 520cm away");
+1053	add(5, "Use the skill from at least 530cm away");
+1054	add(5, "Use the skill from at least 540cm away");
+1055	add(4, "Use the skill from at least 550cm away");
+1056	add(4, "Use the skill from at least 560cm away");
+1057	add(3.125, "Use the skill from at least 570cm away");
+1058	add(3.125, "Use the skill from at least 580cm away");
+1059	add(2, "Use the skill from at least 590cm away");
+1060	add(2, "Use the skill from at least 600cm away");
+1061	add(1, "Use the skill from at least 610cm away");
+1062	add(1, "Use the skill from at least 620cm away");
+1063	add(0.4, "Use the skill from at least 630cm away");
+1064	add(0,"");
+1065	add(20, "Attack one or more enemies at once.");
+1066	add(10, "Attack one or more enemies at once.");
+1067	add(10, "Attack one or more enemies at once.");
+1068	add(5, "Attack one or more enemies at once.");
+1069	add(5, "Attack one or more enemies at once.");
+1070	add(4, "Attack one or more enemies at once.");
+1071	add(4, "Attack two or more enemies at once.");
+1072	add(3.125, "Attack two or more enemies at once.");
+1073	add(3.125, "Attack two or more enemies at once.");
+1074	add(2, "Attack three or more enemies at once.");
+1075	add(2, "Attack three or more enemies at once.");
+1076	add(1, "Attack three or more enemies at once.");
+1077	add(1, "Attack four or more enemies at once.");
+1078	add(0.4, "Attack four or more enemies at once.");
+1079	add(0,"");
+1080	add(20, "Attack one or more enemies at once.");
+1081	add(10, "Attack one or more enemies at once.");
+1082	add(10, "Attack one or more enemies at once.");
+1083	add(5, "Attack one or more enemies at once.");
+1084	add(5, "Attack two or more enemies at once.");
+1085	add(4, "Attack two or more enemies at once.");
+1086	add(4, "Attack two or more enemies at once.");
+1087	add(3, "Attack two or more enemies at once.");
+1088	add(3, "Attack three or more enemies at once.");
+1089	add(2, "Attack three or more enemies at once.");
+1090	add(2, "Attack three or more enemies at once.");
+1091	add(1, "Attack three or more enemies at once.");
+1092	add(1, "Attack four or more enemies at once.");
+1093	add(0.4, "Attack four or more enemies at once.");
+1094	add(0,"");
+1095	add(20, "Attack three or more enemies at once.");
+1096	add(12.5, "Attack three or more enemies at once.");
+1097	add(10, "Attack three or more enemies at once.");
+1098	add(6.25, "Attack three or more enemies at once.");
+1099	add(5, "Attack four or more enemies at once.");
+1100	add(4, "Attack four or more enemies at once.");
+1101	add(3.125, "Attack four or more enemies at once.");
+1102	add(2.5, "Attack four or more enemies at once.");
+1103	add(2, "Attack five or more enemies at once.");
+1104	add(1, "Attack five or more enemies at once.");
+1105	add(0.5, "Attack five or more enemies at once.");
+1106	add(0.3125, "Attack six or more enemies at once.");
+1107	add(0.2, "Attack six or more enemies at once.");
+1108	add(0.1, "Attack six or more enemies at once.");
+1109	add(0,"");
+1110	add(50, "Attack with the skill when an Apostle's HP is below 52%");
+1111	add(20, "Attack with the skill when an Apostle's HP is below 49%");
+1112	add(12.5, "Attack with the skill when an Apostle's HP is below 46%");
+1113	add(10, "Attack with the skill when an Apostle's HP is below 43%");
+1114	add(6.25, "Attack with the skill when an Apostle's HP is below 40%");
+1115	add(5, "Attack with the skill when an Apostle's HP is below 37%");
+1116	add(4, "Attack with the skill when an Apostle's HP is below 34%");
+1117	add(3.125, "Attack with the skill when an Apostle's HP is below 31%");
+1118	add(2.5, "Attack with the skill when an Apostle's HP is below 28%");
+1119	add(2, "Attack with the skill when an Apostle's HP is below 25%");
+1120	add(1, "Attack with the skill when an Apostle's HP is below 22%");
+1121	add(0.5, "Attack with the skill when an Apostle's HP is below 19%");
+1122	add(0.25, "Attack with the skill when an Apostle's HP is below 16%");
+1123	add(0.1, "Attack with the skill when an Apostle's HP is below 13%");
+1124	add(0,"");
+1125	If you face a dangerous situation without enough HP, use this skill.
+1126	If you face a dangerous situation without enough HP, use this skill.
+1127	If you face a dangerous situation without enough HP, use this skill.
+1128	If you face a dangerous situation without enough HP, use this skill.
+1129	If you face a dangerous situation without enough HP, use this skill.
+1130	If you face a dangerous situation without enough HP, use this skill.
+1131	If you face a dangerous situation without enough HP, use this skill.
+1132	If you face a dangerous situation without enough HP, use this skill.
+1133	If you face a dangerous situation without enough HP, use this skill.
+1134	If you face a dangerous situation without enough HP, use this skill.
+1135	If you face a dangerous situation without enough HP, use this skill.
+1136	If you face a dangerous situation without enough HP, use this skill.
+1137	If you face a dangerous situation without enough HP, use this skill.
+1138	If you face a dangerous situation without enough HP, use this skill.
+1139	You have reached the highest level of this skill.
+1140	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1141	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1142	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1143	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1144	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1145	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1146	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1147	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1148	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1149	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1150	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1151	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1152	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1153	If you want to prove that you are blessed by God, allow yourself to be attacked by the enemy.
+1154	You have reached the highest level of this skill.
+1155	Attack an enemy from a distance.
+1156	Attack an enemy from a distance.
+1157	Attack an enemy from a distance.
+1158	Attack an enemy from a distance.
+1159	Attack an enemy from a distance.
+1160	Attack an enemy from a distance.
+1161	Attack an enemy from a distance.
+1162	Attack an enemy from a distance.
+1163	Attack an enemy from a distance.
+1164	Attack an enemy from a distance.
+1165	Attack an enemy from a distance.
+1166	Attack an enemy from a distance.
+1167	Attack an enemy from a distance.
+1168	Attack an enemy from a distance.
+1169	You have reached the highest level of this skill.
+1170	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1171	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1172	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1173	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1174	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1175	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1176	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1177	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1178	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1179	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1180	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1181	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1182	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1183	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1184	You have reached the highest level of this skill.
+1185	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1186	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1187	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1188	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1189	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1190	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1191	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1192	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1193	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1194	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1195	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1196	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1197	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1198	Intensify Celestial Spike's power to attack multiple enemies in range. Cluster them together, then attack.
+1199	You have reached the highest level of this skill.
+1200	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1201	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1202	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1203	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1204	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1205	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1206	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1207	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1208	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1209	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1210	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1211	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1212	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1213	Judgment Blade has the ability to hit all enemies in a straight line. Time your blow, then skewer the enemy.
+1214	You have reached the highest level of this skill.
+1215	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1216	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1217	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1218	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1219	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1220	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1221	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1222	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1223	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1224	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1225	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1226	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1227	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1228	Judgment Blade is an execution skill, meant to neutralize an Apostle's defenses and deal huge damage. Strike when their health is low and you may even get an instant KO.
+1229	You have reached the highest level of this skill.

@@ -1,0 +1,122 @@
+﻿1	Advent of the Goddess
+2	Pioneer of Iria
+3	Alchemist
+4	Shakespeare
+5	The Saga
+6	The Divine Knights
+7	Apocalypse
+8	Advent of the Goddess
+9	Paladin
+10	Dark Knight
+11	Dragon
+12	Alchemist
+13	Goddess of Light
+14	Sword of the Gods
+15	Return of the Hero
+16	Hamlet
+17	Romeo and Juliet
+18	The Merchant of Venice
+19	Macbeth
+20	Iria Part 1
+21	Iria Part 2
+22	The Divine Knights
+23	Gate of Sanctuary
+24	The Guardian's Path
+25	Apocalypse
+26	A new journey begins with a message from the dark-winged goddess.\nPeace in Erinn is coming to an end, and the Milletian's journey begins here.
+27	The Milletian receives a message from the goddess Morrighan to seek the Knights of Light.\nFollow her words onto the path to becoming a Paladin.
+28	If the seal that connects Erinn and Another World is broken, it could spell disaster.\nMorrighan's urgent message summons the Milletian to once again rise up and protect the land.
+29	The kind Blue Dragon and the imposing Red Dragon rule the skies.\nUncover the secret of why Ruairi and Cromm Cruaich's disappearance coincided with the coming of dragons.
+30	The Kingdom of Aliech is threatened by political instability and the Shadow Realm of Taillteann.\nCan Erinn be saved from the looming shadows?
+31	The Shadow Realm has come to the gates of Tara, capital of the kingdom. In the battle against the darkness, new information about Tir Na Nog and the goddess Neamhain comes to light.
+32	Experience the story of Brionac, the Sword of the Gods!\nHead to Rath to experience the alchemist's grand adventure to prevent Erinn's collapse.
+33	A new tale of heroes begins with the emergence of Falias, where Nuadha and Erinn's gods once dwelled.
+34	The mysterious bard invites you to a performance of his masterpiece.\nTravel to Avon and meet Hamlet, the tragic prince.
+35	The second play from the shadowy bard chronicles star-crossed lovers and their heartbreaking fate.
+36	In Shakespeare's third tale, the cruel Shylock seeks Antonio's heart as consequence for his unpaid debt.
+37	The tales of Avon come to a close as Bella tricks Shakespeare into assassinating King Ethur Mac Cuill the Second.\nThis act seals the Soul Stream once and for all...
+38	Iria is a cursed land, forsaken by Irinid.\nA new conflict arises in this blighted place, threatening all of Erinn.
+39	The Aces and Young Tarlach finally catch up to the Legendary Chef. Sometimes all you need is a good meal to keep you going!
+40	Mysterious events are happening all over Erinn. To face these threats, the Milletian becomes an Alban Knight and fights for Erinn.
+41	Something foul is happening where the dead once rested, and prophets are rising across Erinn. The Alban Knights mobilize their captains in response, and turn to the Milletian for help.
+42	The Sealed Land of Avalon, holy to the Alban Knights, has been invaded. With the Milletian's help, they have a chance to cleanse their home of evil.
+43	Prophecies of Erinn's past, present, and future are coming to a head.\nThe Milletian must stop the revival of Balor, the old king of the Fomors.
+44	Tutorial Complete
+45	G1 Advent of the Goddess complete (Must have cumulative level 100 or higher if started from Duncan)
+46	G2 Paladin complete (Must have cumulative level 170 or higher if started from Duncan)
+47	[Atrata's Message] Quest Complete
+48	Chapter 1 complete (Must have cumulative level 260 or higher if started from Duncan)
+49	G9 Alchemist complete (Must have cumulative level 320 or higher and G9 complete if started from Duncan)
+50	G10 Goddess of Light complete (Must have cumulative level 380 or higher and G9 complete if started from Duncan)
+51	G10 Sword of the Gods complete (Must have cumulative level 450 or higher and G9 complete if started from Duncan)
+52	Chapter 3 complete (Must have cumulative level 510 or higher if started from Duncan)
+53	G13 Hamlet complete (Must have cumulative level 570 or higher and G13 complete if started from Duncan)
+54	G14 Romeo and Juliet complete (Must have cumulative level 640 or higher and G13 complete if started from Duncan)
+55	G15 The Merchant of Venice complete (Must have cumulative level 700 or higher and G13 complete if started from Duncan)
+56	None
+57	None
+58	Cumulative level 800 or higher
+59	G19 Clear The Divine Knights
+60	G20 Clear Gate of Sanctuary
+61	Cumulative level 5,000 or higher
+62	Automatically starts when conditions are met
+63	Automatically starts after completing G1 Advent of the Goddess or starts from Duncan when conditions are met
+64	Automatically starts after completing G2 Paladin or starts from Duncan when conditions are met
+65	Automatically starts after completing the [Atrata's Message] quest
+66	Automatically starts after completing Chapter 1 or starts from Duncan when conditions are met
+67	Automatically starts after completing G9 Alchemist or starts from Duncan when conditions are met
+68	Automatically starts after completing G10 Goddess of Light or starts from Duncan when conditions are met
+69	Automatically starts after completing G11 Sword of the Gods or starts from Duncan when conditions are met
+70	Automatically starts after completing Chapter 3 or starts from Duncan when conditions are met
+71	Automatically starts after completing G13 Hamlet or starts from Duncan when conditions are met
+72	Automatically starts after completing G14 Romeo and Juliet or starts from Duncan when conditions are met
+73	Automatically starts after completing G15 The Merchant of Venice or starts from Duncan when conditions are met
+74	Start from [Watch Saga]
+75	Start from [Watch Saga]
+76	Automatically starts when conditions are met
+77	Automatically starts when conditions are met
+78	Automatically starts when conditions are met
+79	Automatically starts when conditions are met
+80	Acquired [who Saved the Goddess] Title and [Goddess's] Enchant
+81	Acquired Transformation [Paladin] (Elf and Giant Beast Mode)
+82	Acquired [the Savior of Erinn] Title and [Obsidian] Enchant
+83	Acquired [the Dragon Knight] Title, removed limitations on use of G9 reward [Adniel's Horn Bugle]
+84	Acquired [Adniel's Horn Bugle]
+85	Acquired Demigod Skills. [Fury of Light], [Spear of Light], and [Demigod] available for use
+86	[Brionac], Acquired Demigod Skill [Shadow Spirit]
+87	Acquired Demigod Skills [Wings of Eclipse] and [Wings of Rage], and [Falias Relic] slot opened.
+88	Acquired Skills [Enthralling Performance], [Hamlet's Anguish], [Claudius's Conspiracy], and [Ophelia's Tears]
+89	Acquired [Juliet's Feelings], [Tybalt's Fencing Skills], Persona [Romeo's Confession], and Blacksmith Manual [Shield of Avon]
+90	Acquired Persona [Shylock's Step], and [the Sharer of Joy] Title or [the Lone Wolf] Title
+91	Acquired Journal [Macbeth]
+92	Reward Box for Each Saga Chapter
+93	Reward Box for Each Saga Chapter
+94	Acquired Divine Skills [Judgment Blade], [Celestial Spike], and [Shield of Trust]
+95	Acquired Divine Skill [Divine Link], and [the Guardian of the Gate] Title
+96	Acquired [the New Divinity] Title, [Nascent Divinity] available for use
+97	Acquired Techniques [Iron Will], [Vital Surge], [Dampen Shock], [Blunting Field], [Defiance], and the [Tech Duinn Expeditionary Force] Title
+98	Ancient Secrets of Irinid
+99	Among the rivers, jungles, and swamps of this new land lie the secrets of ancient Irinid.
+100	The Aces and Young Tarlach finally catch up to the Legendary Chef. Sometimes all you need is a good meal to keep you going!
+101	None
+102	G7 Complete Ancient Secrets of Irinid or skip G7 from Kousai.
+103	Talk to Kousai after offering Frostbitten Pieces, Suntouched Pieces, and Stormcharged Pieces to the altars at Erkey Falls.
+104	Automatically starts when conditions are met
+105	No Main Rewards
+106	No Main Rewards
+107	G10 Goddess of Light complete (Must have cumulative level 380 or higher and G10 complete if started from Duncan)
+108	G11 Sword of the Gods complete (Must have cumulative level 450 or higher and G10 complete if started from Duncan)
+109	G13 Hamlet complete (Must have cumulative level 570 or higher if started from Duncan)
+110	G14 Romeo and Juliet complete (Must have cumulative level 640 or higher if started from Duncan)
+111	G15 The Merchant of Venice complete (Must have cumulative level 700 or higher if started from Duncan)
+112	G9 Alchemist complete (Must have cumulative level 320 or higher if started from Duncan)
+113	Tempest
+114	A new prophecy foretells doom for the world.\nA fever rips across Erinn as signs of a great flood appear. What do all these prophesized disasters mean?
+115	Cumulative level 5,000 or higher
+116	Start by clicking the [Start] button on the G23 Tempest category in the Chapter Info UI
+117	Obtain the [Phantasmal Sight], [Tenacious Taunt], [Zone of Renewal], [Fateweaver], and [Unified Might] Techniques
+118	Ascension
+119	New challenges appear and Tory Ravine opens.\nThe Order of the Black Moon's identity and purpose become clear...
+120	Cumulative level 5,000 or higher
+121	Start by clicking the [Start] button on the G24 Ascension category in the Chapter Info UI
+122	Obtain the [Shield] Technique and [Brilliant Backlight] title

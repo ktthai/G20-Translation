@@ -1,0 +1,11 @@
+﻿0	[열공도서 : 될 때까지 암기해라] 아이템을 한 권 받았습니다.
+1	[펫풍당당 펫스티벌] 30분 플레이 보상을 받았습니다.
+2	[파트너에게 주는 초콜릿] 아이템을 받았습니다.
+3	You received a KEMONO FRIENDS Spin.
+5	[던바튼 불꽃놀이 키트] 아이템을 1개받았습니다.
+6	You received Kenny's Lucky Coupon x1.
+7	You obtained Fynn Bell Coin x5 as a reward for playing for 30 minutes.
+8	You received Kenny's Lucky Coupon x1.
+9	You received Kenny's Lucky Coupon x1.
+10	You obtained Fynn Bell Coin x5 as a reward for playing for 30 minutes.
+11	You obtained Fynn Bell Coin x5 as a reward for playing for 30 minutes.

@@ -1,0 +1,3 @@
+﻿1	Counter if attacked
+2	Counter if knocked down
+3	Attack all the time

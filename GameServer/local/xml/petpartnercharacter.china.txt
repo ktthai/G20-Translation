@@ -1,0 +1,16 @@
+﻿0	Basic
+1	Basic
+2	Conceited
+3	Warm
+4	Clumsy
+5	Stoic
+6	Friendly
+7	Aggressive
+8	She's never worked a day in her life, but no one knows the ins and outs of court life better than her. This maid is the perfect partner for a Milletian with noble aspirations.
+9	She's full of energy and always speaks what's on her mind. If you're looking for a trustworthy companion, she's your gal!
+10	She's clumsy, shy, and a little slow, but she tries so hard! If you take this unlucky maid under your wing, you'll have a loyal companion for life.
+11	An aura of mystery surrounds him. What's his story? Where did he come from? Maybe you'll be the first master he opens up to!
+12	Always cheerful and utterly shameless, he'll do whatever it takes to bring a smile to your lips. Dance the night away with this bantering butler!
+13	He may be a butler, but he's built like a pit fighter. He may be working for you, but be careful or you'll have a fight on your hands!
+14	She's never worked a day in her life, but no one knows the ins and outs of court life better than her. This maid is the perfect partner for a Milletian with noble aspirations.
+15	She's clumsy, shy, and a little slow, but she tries so hard! If you take this unlucky maid under your wing, you'll have a loyal companion for life.

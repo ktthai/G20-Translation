@@ -1,0 +1,8 @@
+﻿1	Normal
+2	Battle
+3	Explo
+4	Comm
+5	Skill
+6	Content
+7	Special
+8	Savvy

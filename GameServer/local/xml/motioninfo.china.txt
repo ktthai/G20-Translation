@@ -1,0 +1,473 @@
+﻿10	Standing Pose
+11	Expression
+12	Communication
+13	Sit
+14	Lie Down
+15	Greeting
+16	Combat
+17	Skill
+18	Life
+19	Dance
+20	Specific Action
+21	Jump
+22	Spin
+23	Trip
+24	Show Off
+25	Investigate/Patrol
+26	Eat
+27	Hand/Arm Gesture
+28	Specific Target
+29	O Gesture 1
+30	O Gesture 2
+31	O Gesture 3
+32	X Gesture 1
+33	X Gesture 2
+34	X Gesture 3
+35	Teach
+36	Awaken
+37	Precise Jump
+38	Frog Pose
+39	Arrogant Pose
+40	Refuse
+41	Worry 1
+42	Worry 2
+43	Silly Me
+44	Cheers
+45	Swordfighting 1
+46	Swordfighting 2
+47	Swordfighting Pose
+48	Swordfighting Prep
+49	Formal Greeting 1
+50	Formal Greeting 2
+51	Formal Greeting 3
+52	Formal Greeting 4
+53	Formal Greeting 5
+54	Martial Arts Pose
+55	Martial Arts
+56	Salute
+57	Anguish 1
+58	Anguish 2
+59	Contemplate
+60	Courtship
+61	Cat Pose
+62	Terror
+63	Insect Collector
+64	Attack 1
+65	Attack 2
+66	Attack 3
+67	Polite Pose 1
+68	Polite Pose 2
+69	Horror
+70	Read Horror Novel
+71	Good Idea
+72	Feign Charm 1
+73	Feign Charm 2
+74	Cute Greeting
+75	Cute Jump
+76	Groggy
+77	Boastful Flex 1
+78	Boastful Flex 2
+79	Write
+80	Positive 1
+81	Positive 2
+82	Pray 1
+83	Pray 2
+84	Basic Pose
+85	Knight Pose 1
+86	Knight Pose 2
+87	Inspect
+88	Stretch 1
+89	Stretch 2
+90	Wake
+91	Share
+92	Copy Nao
+93	Flap Wings (Phoenix)
+94	Ducked Pose
+95	Whack 1
+96	Whack 2
+97	Whack 3 (Spin)
+98	Whack 4 (Jump)
+99	Smell
+100	Surprised 1
+101	Surprised 2
+102	Ninja
+103	Ninja Pose
+104	Ninja Jump
+105	Down
+106	Blacksmith
+107	Throw 2 (Pick Up)
+108	Shiver 1
+109	Shiver 2
+110	Shiver 3
+111	Devil's Cry (Bone Dragon)
+112	Spin and Fall
+113	Spin and Jump
+114	Spin and Jump (Little Hopper)
+115	Headache
+116	Turn Around 1
+117	Turn Around 2
+118	Hands Behind Back 1
+119	Hands Behind Back 2
+120	Hands Behind Back 3 (One Hand)
+121	Dual Gun
+122	Drop Kick
+123	Disco
+124	Defense
+125	Follow me
+126	Argue 1
+127	Argue 2
+128	Draw on Ground
+129	Ready to Smack
+130	Stubborn
+131	Respite
+132	Magic
+133	Magic Sword
+134	Freestyle Dancing 1
+135	Freestyle Dancing 2
+136	Talk 1
+137	Talk 2
+138	Talk 3 (Polite)
+139	Talk 4 (Polite)
+140	Talk 5 (Happy)
+141	Talk 6 (Hands Behind Back)
+142	Talk 7 (Hands Behind Back)
+143	Talk 8 (Swagger)
+144	Talk 9 (Dissatisfied)
+145	Talk 10 (Denial)
+146	Talk 11 (Obsequious)
+147	Talk 12 (Sorrow)
+148	Talk 13 (Obliged)
+149	Talk 14 (Sincere)
+150	Talk 15 (Touching Chin)
+151	Raise Hammer
+152	Scratch Head
+153	Eat 1
+154	Eat 2
+155	Eat 3 (Unappetizing)
+156	Eat 4 (Seated)
+157	Cool Pose
+158	Playing in Sand
+159	Don't Know
+160	Boast Shape
+161	Body Clash
+162	Kneeling Apology
+163	Bound Pose
+164	Sit while Bound 1
+165	Sit while Bound 2
+166	Lift an Object 1 (Right Hand)
+167	Lift an Object 2 (Left Hand)
+168	Give an Object
+169	Holding an Object Pose
+170	Handstand Push-up
+171	Push
+172	Sweep (Broom)
+173	Investigate Ground
+174	Clap 1
+175	Clap (Seal)
+176	Clap 2
+177	Sincere Greeting
+178	Cheerful Spin
+179	Ballet
+180	Kick 1
+181	Kick 2
+182	Kick 3
+183	Kick 4
+184	Defensive Pose
+185	Hungry
+186	Tumble
+187	Rage
+188	Punishment
+189	Shy 1
+190	Shy 2
+191	Denial 1
+192	Denial 2
+193	Fan Dance
+194	Ask Favor 1
+195	Ask Favor 2
+196	Call Together
+197	Draw Breath (Dragon)
+198	Exhale (Dragon)
+199	Break Dance
+200	Humble
+201	Humble Pose
+202	Beach Ball
+203	Stagger 1
+204	Stagger 2
+205	Spin Fast
+206	Harvest Quickly
+207	I Love You
+208	Sign Autograph
+209	Coy Pose
+210	Think
+211	Oath
+212	Persuade
+213	Somersault Kick
+214	Success 1
+215	Success 2
+216	Success 2
+217	Success 3
+218	Success 4
+219	Success 5
+220	Success 6
+221	Respectful Bow
+222	Shout
+223	Sleeve
+224	Summon (Possess Skill)
+225	Kiss Hand
+226	Wave Greeting
+227	Gussy Up
+228	Jump with Hands Raised
+229	Research
+230	Giggle 1
+231	Giggle 2
+232	Giggling Pose
+233	Dizzy
+234	Smash
+235	Spinning Uppercut
+236	Skiing Pose
+237	Stretching
+238	Victory 1
+239	Victory 2
+240	Victory 3
+241	Dislike
+242	Collapse
+243	Look Down 1
+244	Look Down 2
+245	Yearning
+246	Toady
+247	Squee 1
+248	Squee 2
+249	Repair
+250	Hug
+251	Fall Forward
+252	Darling Jump
+253	Boo
+254	Clasp Hands
+255	Fold Hands 1
+256	Fold Hands 2
+257	Reach Forward
+258	Roll Sleeves Up
+259	Spin with Arms Out
+260	Clumsy Pose
+261	Clumsy
+262	Welcome
+263	Bashful
+264	Butt Wiggle 1
+265	Butt Wiggle
+266	Ahem
+267	Content Pose
+268	Study
+269	Alchemy
+270	Lecture
+271	Start Performance
+272	Brainstorming Pose
+273	Raise Right Hand 1
+274	Raise Right Hand 2
+275	Raise Right Hand 3
+276	Raise Left Hand 1
+277	Extend Right Hand 1
+278	Extend Right Hand 2
+279	Extend Right Hand 3
+280	Right Arm Pillow
+281	Upper Cut
+282	Stylish
+283	Boast Costume
+284	Left Arm Pillow
+285	Demand
+286	Barf
+287	Cry (Seal)
+288	Cry 1
+289	Cry 2
+290	Cry 3
+291	Cry 4 (Hands to Ground)
+292	Cry 5 (Hands Hitting Ground)
+293	Cry 6 (Sitting)
+294	Wail (Ostrich)
+295	Wail (Puppy)
+296	Laugh 1
+297	Laugh 2 (Shy)
+298	Laugh 3 (O-hoho)
+299	Curl Up (Phoenix)
+300	Curl Up 1
+301	Curl Up 2
+302	Curl Up 3
+303	Curl Up 4
+304	Wave
+305	Look Up 1
+306	Look Up 2
+307	Look Up 3
+308	Threaten
+309	Windmill
+310	Applause 1 (Red Stick)
+311	Cheer 2 (Ice Stick)
+312	Doubt
+313	Greet (Fez, Tia)
+314	Ninjutsu
+315	Puppetry
+316	Swift Exhale
+317	Farewell 1
+318	Farewell 2
+319	Farewell 3
+320	Prepare
+321	Show Off 1
+322	Show Off 2
+323	Show Off 3
+324	Show Off 4
+325	Show Off 5 (Stumble)
+326	Chat
+327	Sneeze 1
+328	Sneeze 2
+329	Resist 1
+330	Resist 2
+331	Resist 3
+332	Resist 4
+333	Combat Pose
+334	Preparing for Battle
+335	Jump (Seal)
+336	Jump (Little Hopper)
+337	Courteous Pose
+338	Take Aim
+339	Zombie 1
+340	Zombie 2
+341	Discouraged 1
+342	Discouraged 2
+343	Discouraged 3
+344	Hands in Pockets
+345	Patrol 1
+346	Patrol 2
+347	Patrol 3
+348	Patrol 4
+349	Patrol 5
+350	Patrol 6 (Surprised)
+351	Patrol 7 (Sitting)
+352	Hesitate
+353	Warm-up
+354	Straighten Up 1
+355	Straighten Up 2 (Diligently)
+356	Straighten Up 3 (Sweep)
+357	Bored 1
+358	Bored 2
+359	Tremor 1
+360	Tremor 2
+361	Curl Down
+362	Stab and Back Spin Kick
+363	Multiple Stabs
+364	Pose
+365	Morningstar Swing
+366	Splat
+367	Chain Slash
+368	Exercise Jump
+369	Antsy
+370	Aim Gun
+371	Holy Arts
+372	Dance (Alto, Lento, Gio)
+373	Dance 1
+374	Dance 2
+375	Dance 3
+376	Dance 4
+377	Camera Filming
+378	Counter
+379	Casting 1
+380	Casting 2
+381	Casting 3
+382	Casting 4
+383	Casting 5
+384	Casting 6
+385	Casting 7
+386	Casting 8
+387	Kiss
+388	Ostrich Warm Up
+389	Ostrich Pose
+390	Search
+391	Tap Dance 1
+392	Tap Dance 2
+393	Set Trap
+394	Triple Axel 1
+395	Triple Axel 2
+396	Triple Axel Fail
+397	Arm Pillow 2
+398	Fold Arms 1
+399	Fold Arms 3
+400	Poppin Dance
+401	Defeat 1
+402	Defeat 2
+403	Defeat 3
+404	Clobbermeister
+405	Fencing Attack
+406	Fencing Miss
+407	Fencing Pose
+408	Fencing Parry
+409	Fencing Warm Up
+410	Fencing Finish
+411	Roar 1
+412	Roar 2
+413	Roar 3
+414	Hit 1
+415	Hit 2
+416	Lunge
+417	Kneel 1
+418	Kneel 2
+419	Rabble
+420	Handicraft 1
+421	Handicraft 2
+422	Grab Waist 1
+423	Grab Waist 2
+424	Grab Waist 3 (One Hand)
+425	Grab Waist 4 (One Hand)
+426	Grab Waist 5 (One Hand)
+427	Help Me
+428	Promote
+429	Complain
+430	Huzzah
+431	Holy Rush (Pegasus)
+432	Angry 1 (Sulky)
+433	Angry 2 (Furious)
+434	Welcome
+435	Cheer
+436	Spinning Slash 1
+437	Spinning Slash 2
+438	Evasion
+439	Swing 1
+440	Swing 2
+441	Swing 3
+442	Swing 5
+443	Swing Skill 1
+444	Swing Skill 2
+445	Swing Warm Up
+446	Stagger
+447	Advertise
+448	Healing 1
+449	Healing 2
+450	Raise Left Hand 2 (Energetic)
+451	Energetic Jump
+452	Rock Paper Scissors 1
+453	Rock Paper Scissors 2
+454	Sit Legs-Spread
+455	Sit Comfortably 1
+456	Throw 1
+457	Shoot Magic 1
+458	Shoot Magic 2
+459	Shoot Magic 3
+460	Shoot Magic 4
+461	Shoot Magic 5
+462	Shoot Magic 6
+463	Shoot Magic 7
+464	Swing Hammer
+465	Kneel and Sit 1
+466	Kneel and Sit 2
+467	Sit Comfortably 2
+468	Lie Down Flat
+469	Breath (Dragon)
+470	Flight (Bird)
+471	Sit
+472	Look Cute
+473	Wail (Bear)
+474	Wail (Griffin)
+475	Windmill (Possess Skill)
+476	Listen to Music
+477	Jump (Flamemare)
+478	Focused Fist
+479	Lie Down Arms Crossed
+480	Arm Pillow 1
+481	Fold Arms 2
+482	Swing 4

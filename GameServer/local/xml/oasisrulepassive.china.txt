@@ -1,0 +1,26 @@
+﻿1	Counter if attacked
+2	Counter if knocked down
+3	Successful Icebolt - Melee Attack
+4	Successful Lightning Bolt - Melee Attack
+5	If the target is running after triggering the skill, use melee attack to combat it
+6	If the target is walking after triggering the skill, use Smash
+7	If the target stopped after triggering the skill, use Windmill
+8	If the target stopped after triggering the skill, use Lightning Bolt
+9	If the target stopped after triggering the skill, use Counter
+10	Targeting - If the enemy is running, use melee attack
+11	Targeting - If the enemy stops, and is far away, use lightning bolt
+12	Targeting - If the enemy is walking, use Smash
+13	Targeting - If the enemy is close, use melee attack
+14	Targeting - If the target has stopped, use Windmill
+15	Targeting - If the enemy has stopped, use Lightning Bolt
+16	Targeting - Roam Around
+17	If the enemy's range-attacking, use melee attack
+18	If the target is moving after the master has targeted it, use melee attack
+19	If the master is knocked down, use melee attack
+20	If the master's target is using Smash, use melee attack to combat it
+21	If the master is attacked
+22	If the master's target is using Defense
+23	If the master's attacking, then attack with the master
+24	If the enemy's in Defense, use melee attack
+25	Knock down the enemy
+26	Targeting - Melee Attack

@@ -1,0 +1,13 @@
+﻿1	Seal Stone of Ciar Dungeon
+2	Seal Stone of Dugald Aisle
+3	Seal Stone of Rabbie Dungeon
+4	Seal Stone of Math Dungeon
+5	Seal Stone of Bangor
+6	Seal Stone of Fiodh
+7	Seal Stone of South Emain Macha
+8	Seal Stone of North Emain Macha
+9	Seal Stone of Abb Neagh
+10	Seal Stone of Sliab Cuilin
+11	Seal Stone of Tara
+12	Avalon Seal Stone
+13	Tory Ravine Seal Stone

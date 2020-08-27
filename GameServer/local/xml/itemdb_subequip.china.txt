@@ -1,0 +1,112 @@
+﻿0	Soldier's Combat Raincoat
+1	A robe designed to camouflage you while sheltering you from the rain. You can wear it with the hood up or down. Wear this during a rainy night to disappear into the terrain.
+2	Abyssal Crow Feather Halo
+3	Dynamic Crow Feather Halo
+4	Midnight Crow Feather Halo
+5	A beautiful ornament made with crow feathers. It shines elegantly behind the wearer's head.
+6	A beautiful ornament made with crow feathers. It shines elegantly behind the wearer's head.
+7	A beautiful ornament made with crow feathers. It shines elegantly behind the wearer's head.
+8	Abyssal Crow Wings
+9	Midnight Crow Wings
+10	Dynamic Crow Wings
+11	Abyssal Raven Wings
+12	Midnight Raven Wings
+13	Dynamic Raven Wings
+14	Wings as mysterious as the night sky. The powerful flapping of the wings makes the wearer stand out.
+15	Wings as mysterious as the night sky. The powerful flapping of the wings makes the wearer stand out.
+16	Wings as mysterious as the night sky. The powerful flapping of the wings makes the wearer stand out.
+17	Wings as mysterious as the night sky. The powerful flapping of the wings makes the wearer stand out.
+18	Wings as mysterious as the night sky. The powerful flapping of the wings makes the wearer stand out.
+19	Wings as mysterious as the night sky. The powerful flapping of the wings makes the wearer stand out.
+20	Special Secret Garden Wings (Enchantable)
+21	Passionate Secret Garden Wings (Enchantable)
+22	Refined Secret Garden Wings (Enchantable)
+23	Refreshing Secret Garden Wings (Enchantable)
+24	Warm Secret Garden Wings (Enchantable)
+25	Pure Secret Garden Wings (Enchantable)
+26	Abyss Secret Garden Wings (Enchantable)
+27	Wings both magnificent and delicate! The curve of the wings add a mysterious touch. Can be fully dyed. (Can be enchanted)
+28	Wings both magnificent and delicate! The curve of the wings add a mysterious touch. (Can be enchanted)
+29	Wings both magnificent and delicate! The curve of the wings add a mysterious touch. (Can be enchanted)
+30	Wings both magnificent and delicate! The curve of the wings add a mysterious touch. (Can be enchanted)
+31	Wings both magnificent and delicate! The curve of the wings add a mysterious touch. (Can be enchanted)
+32	Wings both magnificent and delicate! The curve of the wings add a mysterious touch. (Can be enchanted)
+33	Wings both magnificent and delicate! The curve of the wings add a mysterious touch. (Can be enchanted)
+34	스위트 로즈 쿼츠 펜던트
+35	스위트 로즈 쿼츠로 만들어진 펜던트 형태의 액세서리. 착용하고 프리스타일 잼을 하면 날리는 스위트 로즈 꽃잎을 볼 수 있다.
+36	테루테루보즈 풍선(5번)
+37	테루테루보즈가 그려진 풍선. 풍선을 장착한 상태에서 행동 불능 상태가 되면, 1회 사용량이 줄어들며 즉시 부활하게 된다. 최대 5번 사용할 수 있다.
+38	Plain Sparkling Halo
+39	Lemon Sparkling Halo
+40	Strawberry Sparkling Halo
+41	Blueberry Sparkling Halo
+42	A halo that can refresh you just like a fizzy soft drink. Color extends behind the head, leaving quite the impression.
+43	A halo that can refresh you just like a fizzy soft drink. Color extends behind the head, leaving quite the impression.
+44	A halo that can refresh you just like a fizzy soft drink. Color extends behind the head, leaving quite the impression.
+45	A halo that can refresh you just like a fizzy soft drink. Color extends behind the head, leaving quite the impression.
+46	햇살의 아르크 날개
+47	대천사의 날개 모양을 본떠 만든 날개. 왠지 모를 화사함이 느껴진다
+48	Fragrant Rose Wings
+49	A pair of wings decorated with beautiful roses. Wearing it makes one feel as though they are embraced with the delicate scent of roses.
+50	톱니 장식 돋보기 안경(얼굴 장식 슬롯 전용)
+51	스팀펑크 가죽 고글(얼굴 장식 슬롯 전용)
+52	톱니 장식 깃털 반 가면(얼굴 장식 슬롯 전용)
+53	톱니 장식 깃털 가면(얼굴 장식 슬롯 전용)
+54	톱니 장식 모노클(얼굴 장식 슬롯 전용)
+55	톱니 장식 반무테 안경(얼굴 장식 슬롯 전용)
+56	톱니 장식 귀걸이(얼굴 장식 슬롯 전용)
+57	톱니 깃털 귀 장식(얼굴 장식 슬롯 전용)
+58	스팀펑크 기계 마스크(얼굴 장식 슬롯 전용)
+59	스팀펑크 안대와 마스크(얼굴 장식 슬롯 전용)
+60	톱니 바퀴 모양으로 장식된 돋보기 안경. 세밀하고 복잡해 보이는 장치들이 달려있다. 모자 슬롯의 일부 아이템과 함께 착용할 수 있다.
+61	투박한 모양의 고글. 생각보다 튼튼하여 거친 작업 환경에서 사용하기 알맞을 것 같다. 모자 슬롯의 일부 아이템과 함께 착용할 수 있다.
+62	톱니 바퀴 모양의 장식과 깃털이 달린 반쪽짜리 가면. 모자 슬롯의 일부 아이템과 함께 착용할 수 있다.
+63	톱니 바퀴 모양의 장식과 깃털이 달린 가면. 신비로운 느낌을 연출할 수 있을 것 같다. 모자 슬롯의 일부 아이템과 함께 착용할 수 있다.
+64	돋보기가 달린 모노클. 무언가를 확대하여 볼 수 있다. 모자 슬롯의 일부 아이템과 함께 착용할 수 있다.
+65	다소 냉소적인 느낌을 줄 수 있는 안경. 톱니 바퀴 모양의 장식과 체인이 돋보인다. 모자 슬롯의 일부 아이템과 함께 착용할 수 있다.
+66	톱니 바퀴 모양으로 장식된 귀걸이. 모자 슬롯의 일부 아이템과 함께 착용할 수 있다.
+67	톱니 바퀴 장식과 체인 그리고 깃털로 이루어진 액세서리. 모자 슬롯의 일부 아이템과 함께 착용할 수 있다.
+68	복잡한 톱니 바퀴들이 정교하게 짜맞춰 있는 방독면 형태의 마스크. 위협적인 가스로부터 보호 할 수 있다. 모자 슬롯의 일부 아이템과 함께 착용할 수 있다.
+69	렌즈가 달린 안대와 금속 테두리가 인상적인 마스크. 모자 슬롯의 일부 아이템과 함께 착용할 수 있다.
+70	테크니컬 기어 윙
+71	오토매틱 기어 윙
+72	어셈블리 기어 윙
+73	테크니컬 디바이스 윙
+74	오토매틱 디바이스 윙
+75	어셈블리 디바이스 윙
+76	복잡하게 얽힌 기계장치로 장식 되어진 날개. 여러 종류의 톱니바퀴와 장치들이 무엇을 움직이게 하는지는 알 수 없다.
+77	복잡하게 얽힌 기계장치로 장식 되어진 날개. 여러 종류의 톱니바퀴와 장치들이 무엇을 움직이게 하는지는 알 수 없다.
+78	복잡하게 얽힌 기계장치로 장식 되어진 날개. 여러 종류의 톱니바퀴와 장치들이 무엇을 움직이게 하는지는 알 수 없다.
+79	복잡하게 얽힌 기계장치로 장식 되어진 날개. 무언갈 측정하는 계기판과 장치들이 무엇을 움직이게 하는지는 알 수 없다.
+80	복잡하게 얽힌 기계장치로 장식 되어진 날개. 무언갈 측정하는 계기판과 장치들이 무엇을 움직이게 하는지는 알 수 없다.
+81	복잡하게 얽힌 기계장치로 장식 되어진 날개. 무언갈 측정하는 계기판과 장치들이 무엇을 움직이게 하는지는 알 수 없다.
+82	강철의 글래디에이터 날개(인챈트)
+83	투지의 글래디에이터 날개(인챈트)
+84	검투사들의 날카로운 공격이 형상화된 듯한 날개이다. 염색이 가능하다.(인챈트 가능)
+85	검투사들의 투지가 형상화된 듯한 날개이다. 염색이 가능하다.(인챈트 가능)
+90	스콜라 윙
+93	스콜라 듀얼 윙
+96	잉크가 번진 듯한 그라데이션이 특징인 날개. 기나긴 시간의 흔적이 남아 있는 듯 하다. 다양한 색상으로 염색이 가능하다.
+99	잉크가 번진 듯한 그라데이션이 특징인 날개. 기나긴 시간의 흔적이 남아 있는 듯 하다. 다양한 색상으로 염색이 가능하다.
+102	깊은 바다의 인어 헤일로
+103	인어가 사랑하는 금붕어가 헤엄치는 모양의 헤일로. 머리 뒤에서 신비롭게 빛나며 존재감을 나타낸다.
+104	깊은 바다의 인어 아가미 장식(얼굴 장식 슬롯 전용)
+105	깊은 바다의 인어 꼬리
+106	깊은 바다의 인어 꼬리(1년)
+107	스페셜 깊은 바다의 인어 날개(인챈트)
+108	깊은 황혼 바다의 인어 날개
+109	깊은 새벽 바다의 인어 날개
+110	깊은 밤 바다의 인어 날개
+111	얕은 황혼 바다의 인어 날개
+112	얕은 새벽 바다의 인어 날개
+113	얕은 밤 바다의 인어 날개
+114	신비로운 바닷속 기운이 느껴지는 인어 아가미 장식. 모자 슬롯의 일부 아이템과 함께 착용할 수 있다.
+115	하늘하늘한 지느러미로 만들어진 꼬리. 착용하면 뒷모습에서 지느러미가 신비롭게 흔들리는 모습을 볼 수 있다.
+116	하늘하늘한 지느러미로 만들어진 꼬리. 착용하면 뒷모습에서 지느러미가 신비롭게 흔들리는 모습을 볼 수 있다.
+117	아름다운 지느러미로 만들어진 날개. 보고 있으면 바다의 신비로운 힘이 느껴진다. 염색이 가능하다.(인챈트 가능)
+118	아름다운 지느러미로 만들어진 날개. 보고 있으면 바다의 신비로운 힘이 느껴진다.
+119	아름다운 지느러미로 만들어진 날개. 보고 있으면 바다의 신비로운 힘이 느껴진다.
+120	아름다운 지느러미로 만들어진 날개. 보고 있으면 바다의 신비로운 힘이 느껴진다.
+121	아름다운 지느러미로 만들어진 날개. 보고 있으면 바다의 신비로운 힘이 느껴진다.
+122	아름다운 지느러미로 만들어진 날개. 보고 있으면 바다의 신비로운 힘이 느껴진다.
+123	아름다운 지느러미로 만들어진 날개. 보고 있으면 바다의 신비로운 힘이 느껴진다.

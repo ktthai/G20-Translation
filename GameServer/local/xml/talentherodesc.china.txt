@@ -1,0 +1,5 @@
+﻿0	Merlin
+1	Soul Star
+2	Vates
+3	Culinary Artist
+4	Treasure Hunter

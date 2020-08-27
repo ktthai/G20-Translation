@@ -1,0 +1,16 @@
+﻿14	Basic
+15	Ballet
+16	Fan Dance
+17	Breakdance
+18	A dance of conviction done your own way without fear of prying eyes. This passionate dance is unexpectedly potent. It may look like just flailing around to some, but make no mistake -- it's got power.
+19	A graceful, elegant dance. Balanced movements display the performer's discipline and restrained (but deep) emotion. Stretch your arms and legs like a swan!
+20	A beautiful dance performed with a fan in each hand. The way the fans arc through the air while the dancer spins is enough to utterly entrance anyone.
+21	A dynamic dance that demands a strong, loud rhythm. Big movements and bold expressions are key. Bystanders shouldn't get too close if they don't want to be hurt.
+22	Basic
+23	Lively Tape
+24	Hot Pink Heart
+25	Weird Mask
+26	Strong energy is gathered up and exuded, roiling like ocean waves.
+27	Confetti rains down, filling the area with whirling colors.
+28	Small, lovely hearts float around.
+29	Strange masks swirl about the body.

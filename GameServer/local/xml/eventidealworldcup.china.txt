@@ -1,0 +1,101 @@
+﻿1	Ferghus
+2	Simon
+3	Culinary Artist
+4	Merlin
+5	Tarlach
+6	Young Tarlach
+7	Huw
+8	Derp
+9	Edern
+10	Ruwai
+11	Akule
+12	Cichol
+13	Price
+14	Krug
+15	Ruairi
+16	Aodhan
+17	Duncan
+18	Professor J
+19	Triona
+20	Nao
+21	Starlet
+22	Treasure Hunter
+23	Macha
+24	Morrighan
+25	Castanea
+26	Kristell
+27	Belisha
+28	Millia
+29	Shamala
+30	Neamhain
+31	Yvona
+32	Rua
+33	Anju
+34	Altam
+35	Avelin
+36	Talvish
+37	Hagi
+38	Mirror Witch
+39	Arc Lich
+40	Master Lich
+41	Banshee
+42	Succubus Queen
+43	Succubus Fiend
+44	Siren
+45	Incubus
+46	Merrow
+47	Duke
+48	Dian Cecht
+49	Grim Reaper
+50	Glas Ghaibhleann
+51	Tabhartas
+52	Silver Tableware
+53	Crumena
+54	Claimh Solas
+55	Sephirot
+56	Uroborus
+57	White Dragon
+58	Black Dragon
+59	Dullahan
+60	Neid
+61	Fox
+62	Bear
+63	Blinker
+64	Succubus
+65	Golem
+66	Spider
+67	Armored Girgashiy
+68	Mimic
+69	Training Dummy
+70	Enn
+71	Kanna
+72	Eirlys
+73	Logan
+74	Dai
+75	Kaour
+76	Elsie
+77	Tin
+78	Alfie
+79	Colton
+80	William
+81	Kyle
+82	Caswyn
+83	Altam
+84	Avelin
+85	Talvish
+86	Pihne
+87	Pan
+88	Lorna
+89	Meryl
+90	Shenon
+91	Young Tarlach
+92	Nao
+93	Starlet
+94	Morrighan
+95	Belisha
+96	Kristell
+97	Ruairi
+98	Tarlach
+99	Merlin
+100	Professor J
+101	Ferghus

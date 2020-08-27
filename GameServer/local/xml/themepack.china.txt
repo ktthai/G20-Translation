@@ -1,0 +1,26 @@
+﻿5	Ivory
+6	Opaque
+7	Translucent
+8	Transparent
+9	Spring Herbs
+10	Opaque
+11	Translucent
+12	Transparent
+13	Old Mustard
+14	Opaque
+15	Translucent
+16	Transparent
+17	Summer Sea
+18	Opaque
+19	Translucent
+20	Transparent
+21	Golden Apricot
+22	Urban Man
+23	Cherry Pink
+24	Neon Green
+25	Neon Pink
+26	Gray Thin Glass
+27	Electric Gray
+28	Sky Blue Glass
+29	Doll Pink
+30	Flaming Dev

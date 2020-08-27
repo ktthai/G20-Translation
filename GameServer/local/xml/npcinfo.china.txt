@@ -1,0 +1,4201 @@
+﻿1	Nora
+2	Duncan
+3	Dilys
+4	Lassar
+5	Ranald
+6	Malcolm
+7	Meven
+8	Bebhinn
+9	Shepherd Boy Deian
+10	Endelyon
+11	Caitin
+12	Trefor
+13	Ferghus
+14	Piaras
+15	Aeira
+16	Aranwen
+17	Austeyn
+18	Eavan
+19	Fordyce
+20	Glenis
+21	Kristell
+22	Manus
+23	Nerys
+24	Pascow
+25	Simon
+26	Stewart
+27	Walter
+28	Tracy
+29	Nao
+30	산타클로스
+31	Caravan-Joe
+32	Alissa
+33	Gilmore
+34	Riocard
+35	Bryce
+36	Sion
+37	Edern
+38	Elen
+39	Jennifer
+40	Goro
+41	Ibbie
+42	Seumas
+43	Comgan
+44	Morrighan
+45	Tarlach
+46	Bear
+47	Dougal
+48	Caravan
+49	Weird Cat
+50	Devil Cat
+51	Agnes
+52	Ailionoa
+53	Aodhan
+54	Del
+55	Delen
+56	Galvin
+57	Jocelin
+58	Lucas
+59	Nele
+60	Osla
+61	Gordon
+62	Fraser
+63	Shena
+64	Wyllow
+65	James
+66	Rua
+67	Rua's Brother
+68	Viewscope
+69	Telescope
+70	Esras
+71	Rian
+72	Craig
+73	Tyron
+74	Price
+75	Aer
+76	Bean Rua Attendant
+77	주정꾼
+78	낚시소년
+79	낚시할아버지
+80	Beggar
+81	네일팬클럽소녀
+82	네일팬클럽소년
+83	기다리는소녀
+84	기다리는소년
+85	놀러나온소녀
+86	놀러나온엄마
+87	수녀1
+88	수녀2
+89	수녀3
+90	휴식을취하는검사
+91	우유부단청년
+92	사랑에빠진청년
+93	Rich person
+94	할머니
+95	관광객01
+96	Wooden Man
+97	일광욕하는소녀
+98	Guardsman
+99	Bean Rua Doorman
+100	Muro
+101	Tin
+102	Santa's Helper
+103	Race Usher
+104	Race Usher
+105	Race Usher
+106	Race Usher
+107	Race Usher
+108	Race Usher
+109	Race Usher
+110	Race Usher
+111	Race Usher
+112	Race Usher
+113	Crystal Ball
+114	Crystal Ball
+115	Crystal Ball
+116	Crystal Ball
+117	Bookshelf - Self Improvement
+118	Bookshelf - Literature
+119	Bookshelf - Literature/Philosophy
+120	Bookshelf - History
+121	Bookshelf - Specialties
+122	Bookshelf - Magazine
+123	Tin
+124	Fleta
+125	Fleta's Rab
+126	Spirit Sword (F)
+127	Spirit Sword (M)
+128	Spirit Bow (F)
+129	Spirit Bow (M)
+130	Spirit Mace (F)
+131	Spirit Mace (M)
+132	Spirit Wand (F)
+133	Spirit Wand (M)
+134	마도원정 이벤트 도우미
+135	마도원정 이벤트 도우미
+136	Tin
+137	Morc
+138	Wedding Usher
+139	Wedding Dress Renter
+140	Minister
+141	House Manager
+142	Cutter
+143	Lorraine
+144	Erhard
+145	Pero
+146	Eiry
+147	Shop Brownie
+148	Weaving Brownie
+149	Refining Brownie
+150	Chalumeau Brownie
+151	Flute Brownie
+152	Mandolyn Brownie
+153	Tiro
+154	Naak
+155	Black Wizard
+156	과제용NPC
+157	Leslie
+158	Elain
+159	Shenon
+160	Worker
+161	Worker
+162	Alexina
+163	Quest Board
+164	Carasek
+165	Carasek
+166	Carasek
+167	Carasek
+168	Effie
+169	Ethna
+170	Heulfryn
+171	Nicca
+172	Ffion
+173	Crystal Ball
+174	Entrance to Iria Ruins
+175	Personal Shop Brownie
+176	Personal Shop Brownie
+177	Personal Shop Brownie
+178	Dugald Royal Guard
+179	Sen Mag Royal Guard
+180	Petra
+181	Myrddin
+182	Lost Elf
+183	Elf Headman
+184	Quest Board
+185	Lost Elf
+186	Castanea
+187	Hagel
+188	Vena
+189	Granites
+190	Atrata
+191	Lepus
+192	Meles
+193	Crystal Ball
+194	Altar
+195	Altar
+196	Altar
+197	Altar
+198	Altar
+199	Altar
+200	Altar
+201	Wedding Dress Rental 
+202	Wedding Usher
+203	Wedding Priest
+204	요프
+205	Glenis
+206	Caitin
+207	Veggie & Fruit Shop
+208	Fish & Meat Shop
+209	Fish & Meat Shop
+210	Winter Sports Pro
+211	Winter Sports Pro
+212	Winter Sports Pro
+215	Yoff
+216	Yoff
+217	Eltin
+218	Pernice
+219	Roden
+220	Quest Board
+221	Meriel
+222	Crystal Ball
+223	Krug
+224	Kirine
+225	Weide
+226	Wanst
+227	Taunes
+228	Zeder
+229	Iria Ruins entrance
+230	Wedding Coordinator
+231	Outfit Rental Guide
+232	Presider
+233	코-크 도우미
+234	Kousai
+235	Ruwai
+236	Voight
+237	Tupai
+238	Kusina
+239	Waboka
+240	Native
+241	Native
+242	Native
+243	Native
+244	Native
+245	코-크 걸
+246	코-크 걸
+247	코-크 걸
+248	코-크 걸
+249	코-크 걸
+250	코-크 걸
+251	코-크 걸
+252	코-크 걸
+253	Resident
+254	Resident
+255	Resident
+256	Resident
+257	Resident
+258	Resident
+259	Resident
+260	Resident
+261	A Lost Resident
+262	Altar of Lightning
+263	Altar of Sun
+264	Altar of Snow
+265	Advancement Test Helper
+266	Advancement Test Inspector
+267	Advancement Test Inspector
+268	Blue Dragon
+269	Mailbox
+270	Mailbox
+271	Mailbox
+272	Mailbox
+273	Volcanologist
+274	Grave Robber
+275	Effie's Younger Brother
+276	Ruairi
+277	Belita
+278	Arenen
+279	Kelpie
+280	Ruairi
+281	Mailbox
+282	Mailbox
+283	Mailbox
+284	Mailbox
+285	Legatus
+286	Belita
+287	Arenen
+288	Kelpie
+289	Ghost
+290	Lorna
+291	Pan
+292	Shadow Mission Bulletin
+293	Berched
+294	Andras
+295	Devi
+296	Granat
+297	Dorren
+298	Karpfen
+299	Eabha
+300	Pierrick
+301	Brenda
+302	Collen
+303	Elatha
+304	Fallon's Envoy
+305	Guardsman
+306	Guardsman
+307	Fallon's Lieutenant
+308	Jenna
+309	Jenna
+310	Jenna
+311	Cai
+312	Eabha
+313	Barker Imp
+314	Sassy Imp
+315	Pierrick
+316	Hen
+317	Milk Cow
+318	Chick
+319	Rooster
+320	Sheep
+321	Sheep
+322	Sheep
+323	Sheep
+324	Sheep
+325	Sheep
+326	Sheep
+327	Sheep
+328	Sheep
+329	Sheep
+330	Sheep
+331	Dog
+332	Pig
+333	Pig
+334	Pig
+335	Dorren
+336	Leymore
+337	Leymore
+338	Taillteann Resident
+339	Taillteann Resident
+340	Taillteann Resident
+341	Taillteann Resident
+342	Taillteann Resident
+343	Taillteann Resident
+344	Royal Guard Physician
+345	Royal Supply Guard
+346	Elf Supply Guard
+347	Giant Supply Guard
+348	Giant Royal Guardsman
+349	Giant Royal Guardsman
+350	Royal Guardsman
+351	Royal Guardsman
+352	Elf Guardsman
+353	Elf Guardsman
+354	Taillteann Watchman
+355	Taillteann Watchman
+356	Taillteann Watchman
+357	Taillteann Watchman
+358	Taillteann Watchman
+359	Taillteann Watchman
+360	Inflames
+361	Mailbox
+362	Scarecrow
+363	Blatt
+364	Ailbhis
+365	Abb Neagh Castle Watchman
+366	Clodagh
+367	Cliona
+368	Lileas
+369	Red Santa
+370	Blue Santa
+371	Green Santa
+372	Yellow Santa
+373	Pink Santa
+374	Blue Santa's Helper
+375	Yellow Santa's Helper
+376	Captured Soldier
+377	Padan
+378	Keith
+379	Eluned
+380	Lezarro
+381	Hans
+382	Surviving Soldier
+383	Astrologer
+384	Elatha
+385	Astrologer
+386	Princess
+387	Duchess
+388	Marchioness
+389	Royal Escort
+390	Heledd
+391	Nessa
+392	Finola
+393	Colm
+394	Ilsa
+395	Pencast
+396	Alastrine
+397	Dairine
+398	Robhartach
+399	1st Champion Adair
+400	2nd Champion Gornevez
+401	7th Champion Melor
+402	13th Champion Lota
+403	Mata
+404	Royal Guardsman
+405	Royal Guardsman
+406	Royal Weaponsmith
+407	Gornevez
+408	Mailbox
+409	Tara Watchman
+410	Tara Watchman
+411	Goddess of Light
+412	4th Champion Gornevez
+413	타티스
+414	멘텀
+415	데이곤
+416	바스텟
+417	수련생
+418	수련생
+419	수련생
+420	수련생
+421	수련생
+422	수련생
+423	야금하는 사람
+424	낚시꾼
+425	Resident
+426	Resident
+427	Resident
+428	Resident
+429	Fashion Contest Helper
+430	Rumon
+431	Edana
+432	Red Panda
+433	Girl on the Moon
+434	Matsuri Merchant
+435	Matsuri Merchant
+436	Matsuri Merchant
+437	Matsuri Merchant
+438	마네키네코
+439	가드
+440	마네키네코
+441	가드
+442	가드
+443	가드
+444	가드
+445	가드
+446	Resident
+447	Villager
+448	Resident
+449	Resident
+450	Resident
+451	Resident
+452	Resident
+453	Resident
+454	네코지마 기사
+455	네코지마 기사
+456	네코지마 기사
+457	네코지마 기사
+458	네코지마 기사
+459	네코지마 기사
+460	네코지마 기사
+461	네코지마 기사
+462	고양이 보호회
+463	고양이 보호회
+464	고양이 보호회
+465	고양이 보호회
+466	고양이 보호회
+467	고양이 보호회
+468	고양이 보호회
+469	Resident
+470	Resident
+471	Resident
+472	Resident
+473	신묘한 고양이
+474	공연장 도우미
+475	마을고양이
+476	길고양이
+477	길고양이
+478	길고양이
+479	길고양이
+480	길고양이
+481	길고양이
+482	길고양이
+483	길고양이
+484	길고양이
+485	길고양이
+486	길고양이
+487	길고양이
+488	길고양이
+489	길고양이
+490	길고양이
+491	길고양이
+492	길고양이
+493	길고양이
+494	길고양이
+495	길고양이
+496	길고양이
+497	길고양이
+498	길고양이
+499	길고양이
+500	Lorna
+501	Pan
+502	Glewyas
+503	Sinead
+504	Briana
+505	Buchanan
+506	Arzhela
+507	Iron Pot
+508	Royal Castle Guard
+509	Royal Castle Guard
+510	Gate Hall Guard
+511	Gate Hall Guard
+512	Marzec
+513	Armory Manager
+514	Cai
+515	Cichol
+516	Lonely Aristocrat
+517	Royal Castle Guard
+518	Royal Castle Guard
+519	Royal Castle Guard
+520	Royal Castle Guard
+521	Royal Castle Guard
+522	Royal Castle Guard
+523	Morrighan
+524	Buchanan
+525	Leymore
+526	Cai
+527	Pontiff's Court Supporter
+528	Royalist Supporter
+529	Older Sister
+530	Younger Sister
+531	Aineah
+532	Flirty Guy
+533	Innocent Girl
+534	Bookshelf-How to 
+535	Bookshelf-Arts/Culture
+536	Bookshelf-Humanities/Liberal Arts
+537	Bookshelf-History
+538	Bookshelf-Professional
+539	Bookshelf-Circulars
+540	Gardener
+541	Jenna
+542	Flag of Death
+543	롯데 걸
+544	롯데 걸
+545	롯데 걸
+546	롯데 걸
+547	롯데 걸
+548	롯데 걸
+549	롯데 걸
+550	롯데 걸
+551	롯데 걸
+552	롯데 걸
+553	롯데 걸
+554	롯데 걸
+555	Mailbox
+556	Mailbox
+557	Mailbox
+558	Altar
+559	Party Guest
+560	Party Guest
+561	Party Guest
+562	Party Guest
+563	Party Guest
+564	Party Guest
+565	Party Guest
+566	Party Guest
+567	Party Guest
+568	Party Guest
+569	Dart Game Helper
+570	Dart Game Helper
+571	Dart Game Helper
+572	Dart Game Helper
+573	Dart Game Helper
+574	Dart Game Helper
+575	Hammer Game Helper
+576	Hammer Game Helper
+577	Hammer Game Helper
+578	Hammer Game Helper
+579	Hammer Game Helper
+580	Hammer Game Helper
+581	Banquet Helper
+582	Cai
+583	Grandfather Ghost
+584	Jenna
+585	Alpin
+586	Event Helper
+587	Event Helper
+588	Event Helper
+589	Corentin
+590	Duncan
+591	Boy
+592	Homunculus Boy
+593	Jarlath
+594	Lennox
+595	Anxious Boy
+596	Nuadha
+597	Corrupted Alchemist
+598	???
+599	Nuadha
+600	Amos
+601	Eabha
+602	Mailbox
+603	Expeditionary Soldier
+604	Expeditionary Soldier
+605	Expeditionary Soldier
+606	Expeditionary Soldier Dan O'Callaghan
+607	Expeditionary Soldier Will Donnelly
+608	Expeditionary Soldier Matthew McLoughlin
+609	Tree Keeper
+610	Hamlet
+611	Ophelia
+612	Shakespeare
+613	Claudius
+614	Gertrude
+615	Horatio
+616	Laertes
+617	Polonius
+618	Guildenstern
+619	Rosencrantz
+620	Laertes
+621	Supply Guard
+622	Soldier
+623	Cleaning Maid
+624	Man Afraid of Ghosts
+625	Claudius
+626	Shakespeare
+627	Stage Actor
+628	Stage Actor
+629	Stage Actor
+630	Stage Actor
+631	Stage Actor
+632	Marlowe
+633	Butler
+634	Horatio
+635	Marcellus
+636	Cuilin Castle Guard
+637	Bernardo
+638	Lost Child
+639	Mailbox
+640	Shakespeare
+641	Actress Portraying the Queen
+642	Gavron
+643	Congratulatory Delegation of Korea
+644	미국 축하 사절단
+645	Congratulatory Delegation of China
+646	샤론
+647	로떼
+648	노베르
+649	두두
+650	제레미
+651	샤이
+652	샤이
+653	샤이
+654	샤이
+655	샤이
+656	샤이
+657	Lanier
+658	Guard
+659	Capulet
+660	Royal Castle Guard 
+661	통큰 산타
+662	Santa's Helper
+663	Santa's Helper
+664	Romeo
+665	Juliet
+666	Tybalt
+667	Laurence
+668	Mercutio
+669	Count Paris
+670	Lady Capulet
+671	The Nurse
+672	Congratulatory Delegation of Japan
+673	사절단 도우미
+674	Quiz Show MC
+675	Helper O
+676	Helper X
+677	OX Quiz Helper
+678	타인
+679	
+680	
+681	
+682	
+683	
+684	
+685	
+686	
+687	
+688	
+689	
+690	
+691	
+692	
+693	
+694	
+695	
+696	
+697	
+698	
+699	
+700	
+701	
+702	
+703	
+704	
+705	
+706	
+707	
+708	
+709	
+710	
+711	
+712	
+713	
+714	
+715	
+716	
+717	
+718	
+719	
+720	미식가 원숭이
+721	Castellon
+722	Vermont
+723	1st Base Checkpoint Agent
+724	2nd Base Checkpoint Agent
+725	Baron's Knight
+726	Baron's Knight
+727	Baron's Knight
+728	Baron's Knight
+729	Manolin
+730	Tamon
+731	Dughall
+732	Lonnie
+733	Madoc
+734	Angus
+735	Worker
+736	Augustine
+737	Cadoc
+738	Kayna
+739	Siobhanin
+740	Ascon
+741	Annick
+742	Scurvy Sandy
+743	Tiny Billy
+744	Maurice the Engorged
+745	Alasdair
+746	Gwenllian
+747	Young Arranz
+748	Young Ascon
+749	May
+750	Balloon
+751	Dispatched Alchemist
+752	Dispatched Mage
+753	Old Man wearing a Bamboo Hat
+754	Trick Master
+755	Eve Goldmerry
+756	Arissa Goldmerry
+757	Arissa's Magic Carpet
+758	Paul
+759	Gladin
+760	Herald
+761	Frenzied Herald
+762	Master Tin
+763	Beginner Battle Class Board
+764	Beginner Battle Class Board
+765	Beginner Battle Class Board
+766	Karis
+767	Karis
+768	Karis
+769	Karis
+770	Carasek
+771	Carasek
+772	Carasek
+773	Karis
+774	Neru the Merchant
+775	Nico the Trade Helper
+776	Ghelp the Transportation Helper
+777	Belrick
+778	Nunu the Merchant
+779	Naco the Trade Helper
+780	Derp the Transportation Helper
+781	Lory
+782	Lanu the Merchant
+783	Digo the Trade Helper
+784	Demp the Transportation Helper
+785	Meru the Merchant
+786	Laco the Trade Helper
+787	Louve the Transportation Helper
+788	Bobo
+789	Beru the Merchant
+790	Ringo the Trade Helper
+791	Bove the Transportation Helper
+792	Cabby
+793	Eru the Merchant
+794	Lougo the Trade Helper
+795	Houpe the Transportation Helper
+796	Aru the Merchant
+797	Uko the Trade Helper
+798	Kope the Transportation Helper
+799	Piru the Merchant
+800	Pongo the Trade Helper
+801	Popi the Transportation Helper
+802	Portia
+803	Portia
+804	Portia
+805	Portia
+806	Antonio
+807	Antonio
+808	Antonio
+809	Antonio
+810	Antonio
+811	Bassanio
+812	Bassanio
+813	Bassanio
+814	Bassanio
+815	Bassanio
+816	Shylock
+817	Shylock
+818	Shylock
+819	Admiral Owen
+820	Barry
+821	Vanalen
+822	Mont
+823	Beirnes
+824	Blyss
+825	Shayla
+826	Sailor
+827	Sailor
+828	Sailor
+829	Teenyk
+830	Toum
+831	Jenny
+832	Worker
+833	Worker
+834	Worker
+835	Worker
+836	Monatte
+837	Cordelia
+838	Lady Aven
+839	Guardsman
+840	Guardsman
+841	Guardsman
+842	Guardsman
+843	Guardsman
+844	Guardsman
+845	Hicca
+846	Hicca's Mom
+847	Slevin
+848	Maru
+849	Kuru
+850	Kinu
+851	Tako
+852	Hiko
+853	Gogo
+854	Marve
+855	Tove
+856	Laffe
+857	Wishing Tree
+858	Ogre
+859	Goblin
+860	Mailbox
+861	Poet Li Bai
+862	Female Human Partner Character
+863	Male Human Partner Character
+864	Halloween Envoy
+865	Hurricane John
+866	Ringo
+867	Dilys
+868	Alissa
+869	Tracy
+870	Glenis
+871	Aeira
+872	Gilmore
+873	Ibbie
+874	Osla
+875	Craig
+876	Devi
+877	Brenda
+878	Ilsa
+879	Hans
+880	Briana
+881	Alexina
+882	Effie
+883	Lepus
+884	Wanst
+885	Zeder
+886	Tupai
+887	Tin
+888	Nao
+889	Elf Escort
+890	Elf Escort
+891	Elf Escort
+892	Elf Escort
+893	2nd Checkpoint Agent
+894	1st Checkpoint Agent
+895	Byrun
+896	Byrun's Best Friend
+897	Caravan Joe
+898	Female Cylinder Spirit
+899	Male Cylinder Spirit
+900	불꽃놀이 장인
+901	야도미
+902	야도미
+903	Anaru
+904	Yukiatsu
+905	Popper
+906	Tsuruko
+907	Menma
+908	Menma
+909	과거의 유령
+910	현재의 유령
+911	미래의 유령
+912	Snowman
+913	Odran
+914	Scathach
+915	Scathach
+916	Sieve
+917	Urman
+918	Royal Alchemist
+919	Vekurd
+920	Royal Alchemist
+921	Royal Alchemist
+922	Patrolman
+923	Patrolman
+924	Patrolman
+925	Patrolman
+926	Patrolman
+927	Patrolman
+928	Patrolman
+929	Patrolman
+930	Patrolman
+931	Sena the Merchant
+932	Digo the Trade Helper
+933	Rolph the Transport Helper
+934	Scared Royal Guard
+935	Irritated Physician
+936	Giant Guard Commander
+937	Giant Guard Commander
+938	Suspicious Man
+939	Odran
+940	Odran
+941	Eirawen
+942	Eirawen
+943	Eirawen
+944	Eirawen
+945	Eirawen
+946	Eirawen
+947	Admiral Owen
+948	Admiral Owen
+949	Sinead
+950	Eirawen
+951	Callow
+952	Betty
+953	Callow
+954	Betty
+955	Dying Betty
+956	Patrolman
+957	Patrolman
+958	Urman
+959	Royal Alchemist
+960	Royal Alchemist
+961	Vekurd
+962	Eirawen
+963	Eirawen
+964	Callow
+965	Callow
+966	Lugh Lavada
+967	Bella
+968	Pencast
+969	Sinead
+970	Padan
+971	Lezarro
+972	Odran
+973	Andras
+974	Admiral Owen
+975	Shakespeare
+976	Cichol
+977	Shakespeare
+978	Argel
+979	Black Dragon's Wise Slave
+980	Black Dragon's Human Avatar
+981	Ski Jump Entrance Helper
+982	Ski Jump Entrance Helper
+983	Ski Jump Event Helper
+984	Scathach
+985	Scathach
+986	Morrighan
+987	Caravan-Joe's Potion Party
+988	The Carpentry Store
+989	The Handicraft Store
+990	The Ingredient Store
+991	The Weaving Store
+992	The Iron Store
+993	Morrighan
+994	Shakespeare
+995	Cecilia
+996	Ysolte
+997	Mina
+998	Keane
+999	Mina
+1000	Cecilia
+1001	Ysolte
+1002	Mina
+1003	Keane
+1004	Mina
+1005	Cecilia
+1006	Ysolte
+1007	Popper
+1008	Popper
+1009	Popper
+1010	Popper
+1011	Popper
+1012	Popper
+1013	Popper
+1015	Trump Man
+1016	Devon
+1017	Genial
+1018	Avri
+1019	Avri
+1020	Avri
+1021	Avri
+1022	Avri
+1023	Avri
+1024	Avri
+1025	Avri
+1026	Tegau
+1027	Ailla
+1028	Cailean
+1029	Austell
+1030	Yvona
+1031	Art
+1032	Horse
+1033	Horse
+1034	Keane
+1035	Mina
+1036	Cecilia
+1037	Ysolte
+1038	Keane
+1039	Trading Wagon
+1040	Bandit Boss
+1041	"Horrifying" Herbert
+1042	"Stinky" Berkkus
+1043	"Zippy" Nipmore
+1044	"Scandalous" Charlene
+1045	Keane
+1046	Mina
+1047	Cecilia
+1048	Ysolte
+1049	"Scandalous" Charlene
+1050	Bandit Goblin
+1051	Bandit Human
+1052	Bandit Giant
+1053	Pillow Master Jeff
+1054	Gift Exchanger Kaylinn
+1055	Luned
+1056	Hamelin
+1057	Royal Guard
+1058	Royal Guard
+1059	Royal Guard
+1060	Royal Guard
+1061	Royal Guard
+1062	Royal Guard
+1063	Royal Guard
+1064	Royal Guard
+1065	Lorna
+1066	Lorna
+1067	Lorna
+1068	Lorna
+1069	Lorna
+1070	Lorna
+1072	Suspicious Doll
+1073	Hooliger
+1074	Commerce Partner
+1075	Hot Spring Spirit
+1076	Hot Spring Tree
+1077	Glutton Monkey
+1078	Glutton Monkey
+1079	Glutton Monkey
+1080	Glutton Monkey
+1081	Glutton Monkey
+1082	Family Helper
+1083	Family Helper
+1084	Family Helper
+1085	Ghastly Zombie
+1086	Ghastly Zombie
+1087	Ghastly Stone Zombie
+1088	Ghastly Zombie Soldier
+1089	Ghastly Zombie Soldier
+1090	Ghastly Snow Zombie
+1091	Ghastly Bandersnatch
+1092	Ghastly Volatile Zombie
+1093	Ghastly Black Prison Zombie
+1094	Ghastly White Prison Zombie
+1095	Coco
+1096	Ropa
+1097	Banquet Manager
+1098	Cheer Squad
+1099	Cheer Squad
+1100	Cheer Squad
+1101	Cheer Squad
+1102	Cheer Squad
+1103	Cheer Squad
+1104	Cheer Squad
+1105	Cheer Squad
+1106	Cheer Squad
+1107	Cheer Squad
+1108	Cheer Squad
+1109	Cheer Squad
+1110	Cheer Squad
+1111	Cheer Squad
+1112	Cheer Squad
+1113	Cheer Squad
+1114	Cheer Squad
+1115	Cheer Squad
+1116	Cheer Squad
+1117	Cheer Squad
+1118	Cheer Squad
+1119	Cheer Squad
+1120	Cheer Squad
+1121	Cheer Squad
+1122	Cheer Squad
+1123	Cheer Squad
+1124	Cheer Squad
+1125	Cheer Squad
+1126	Cheer Squad
+1127	Cheer Squad
+1128	Cheer Squad
+1129	Cheer Squad
+1130	Cheer Squad
+1131	Cheer Squad
+1132	Cheer Squad
+1133	Cheer Squad
+1134	Cheer Squad
+1135	Cliona
+1136	Eluned
+1137	Lezarro
+1138	Padan
+1139	Keith
+1140	Austeyn
+1141	Walter
+1142	Nerys
+1143	Ferghus
+1144	Beggar
+1145	Rich Man
+1146	Monkey Man
+1147	Monkey Man
+1148	Emain Macha Rich Man
+1149	Suspicious Doll
+1150	Lezarro
+1151	Rain Messenger
+1152	Huw
+1153	Hywell
+1154	Macaulay
+1155	Glen
+1156	Siani
+1157	Ioan
+1158	Nona
+1159	Gerallt
+1160	Sym
+1161	Tibbie
+1162	Robadt
+1163	Lery
+1164	Lost Dog
+1165	Moss Clump
+1166	Kid
+1167	Friend
+1168	Shamala
+1169	Black Wizard
+1170	Cave Warden
+1171	Wounded Convoy Captain
+1172	Taillteann Expeditionary Force Supply Wagon
+1173	Taillteann Expeditionary Force Supply Wagon
+1174	Taillteann Expeditionary Force Supply Wagon
+1175	Taillteann Expeditionary Force Supply Wagon
+1176	Taillteann Expeditionary Force Supply Wagon
+1177	Black Panther (Shamala)
+1178	Shamala Story Helper
+1179	Hidden Agent
+1180	Mineral Expert
+1181	Excavation Expert
+1182	Excavation Expert
+1183	Engineering Researcher
+1184	Engineering Researcher
+1185	Secret Agent K
+1186	Spy Q
+1187	Intelligence Officer
+1188	Royal Guard
+1189	Royal Guard
+1190	Magic Scholar
+1191	Botanist
+1192	Snowball Brownie
+1193	Mabinogi Manager
+1194	Unknown Man
+1195	Unknown Man
+1196	Unknown Man
+1197	Millia
+1198	Millia
+1199	Unknown Man
+1200	Waboka
+1201	Tupai
+1202	Kousai
+1203	Kusina
+1204	Ruwai
+1205	Hatsune Miku
+1206	Lelach
+1207	Demote
+1208	Shamala
+1209	Shamala
+1210	Shamala
+1211	Shamala
+1212	Shamala
+1213	Shamala
+1214	Dowra
+1215	Resident
+1216	Resident
+1217	Resident
+1218	Maike
+1219	Magic Scholar
+1220	Krug
+1221	Shamala
+1222	Krug
+1223	Shamala
+1224	Mineral Expert
+1225	Excavation Expert
+1226	Excavation Expert
+1227	Engineering Researcher
+1228	Engineering Researcher
+1229	Millia
+1231	Unknown Man
+1232	Millia
+1233	Worn Mailbox
+1234	Akule
+1235	Millia
+1236	Akule
+1237	Millia
+1238	Akule
+1239	Millia
+1240	Millia
+1241	Akule
+1242	Millia
+1243	Akule
+1244	Millia
+1245	Akule
+1246	Millia
+1247	Akule
+1248	Millia
+1249	Akule
+1250	Akule
+1251	Mysterious Karu Forest Ruins
+1252	Spy S
+1253	Secret Agent I
+1254	Intelligence Officer
+1255	Royal Guard
+1256	Royal Guard
+1257	Magic Scholar
+1258	Magic Scholar
+1259	Botanist
+1260	Ecologist
+1261	Botanist
+1262	Ecologist
+1264	Tir Chonaill Messenger
+1265	Filia Messenger
+1266	Vales Messenger
+1267	Tara Messenger
+1268	Dunbarton Messenger
+1269	White Dragon Messenger
+1270	Dispatched White Dragon Messenger
+1271	Black Dragon Messenger
+1272	Dispatched Black Dragon Messenger
+1273	Angelina
+1274	Angelina's Croft
+1275	Dr. Lambert
+1276	Interim Archaeologist
+1277	Senior Archaeologist
+1278	Exploration Agent
+1279	Exploration Agent
+1280	Exploration Agent
+1281	High-Ranked Archaeologist
+1282	Interim Exploration Agent
+1283	High-Ranked Geologist
+1284	Senior Geologist
+1285	Exploration Agent
+1286	Exploration Agent
+1287	Exploration Agent
+1288	Exploration Agent
+1289	Exploration Agent
+1290	Exploration Agent
+1291	Exploration Agent
+1292	Exploration Agent
+1293	Exploration Agent
+1294	Exploration Agent
+1295	Exploration Agent
+1296	Exploration Agent
+1297	Exploration Agent
+1298	Exploration Agent
+1299	Exploration Agent
+1300	Exploration Agent
+1301	Sandra
+1302	Spy Red
+1303	Red's Ralph
+1304	Vales Royal Guard
+1305	Vales Royal Guard
+1306	Royal Guard
+1307	Royal Guard
+1308	Ecologist
+1309	Intelligence Agent
+1310	the Part-Timer
+1311	the Part-Timer
+1312	Tarlach
+1313	Akule
+1314	Shamala
+1315	Shaman
+1316	Odran
+1317	Dowra
+1318	Maike
+1319	Tarlach
+1320	Akule
+1321	EP 9 Story Helper
+1322	Odran
+1323	Dowra
+1324	Maike
+1325	Akule
+1326	Shamala
+1327	Ruairi
+1328	Ruairi
+1329	Cessair's Heart
+1330	Akule
+1331	Akule
+1332	Shamala
+1333	Eirawen
+1334	Languhiris
+1335	Bhafel
+1336	Cessair
+1337	Millia
+1338	Tarlach
+1339	EP 8 Story Helper
+1340	EP 7 Story Helper
+1341	Ruairi
+1342	Nao
+1343	Akule
+1344	Shamala
+1345	Shamala
+1346	Milletian
+1347	Milletian
+1348	Milletian
+1349	Dowra
+1350	Maike
+1351	Spy B
+1352	Secret Agent D
+1353	Intelligence Officer
+1354	Royal Guard
+1355	Royal Guard
+1356	Milletian
+1357	Milletian
+1358	Milletian
+1359	Milletian
+1360	Milletian
+1361	Milletian
+1362	Millia
+1363	Dowra
+1364	Maike
+1365	Spy B
+1366	Secret Agent D
+1367	Intelligence Officer
+1368	Royal Guard
+1369	Royal Guard
+1370	Bhafel
+1371	Masked Lelach
+1372	Broken Pillar of Protection
+1373	Broken Pillar of Protection
+1374	Broken Pillar of Protection
+1375	A Guardian Stone of the Shaman Town
+1376	Mabinogi Manager
+1377	Shamala
+1378	Maike
+1379	Castanea
+1380	Millia
+1381	Krug
+1382	Millia
+1383	Dowra
+1384	Maike
+1385	Millia
+1386	Millia
+1387	Dowra
+1388	Dowra
+1389	Millia
+1390	Millia
+1391	Lelach
+1392	Royal Guard
+1393	Elf Guard
+1394	Giant Guard
+1395	Spy
+1396	Milletian
+1397	Milletian
+1398	Milletian
+1399	Cessair's Heart
+1400	Spy
+1401	Intelligence Officer
+1402	Royal Guard
+1403	Royal Guard
+1404	Magic Scholar
+1405	Botanist
+1406	Shamala
+1407	Shamala
+1408	Shamala
+1409	Shamala
+1410	Millia
+1411	Millia
+1412	Millia
+1413	Millia
+1414	Demote
+1415	Lelach
+1416	Lelach
+1417	Dowra
+1418	Dowra
+1419	Maike
+1420	Maike
+1421	Shaman in Training
+1422	Shaman in Training
+1423	Shaman in Training
+1424	Shaman in Training
+1425	Shaman in Training
+1426	Shaman in Training
+1427	Shaman in Training
+1428	Shaman in Training
+1429	Shaman in Training
+1430	Shaman in Training
+1431	Shaman in Training
+1432	Shaman in Training
+1433	Shamala
+1434	Interim Engineer
+1435	Interim Engineer
+1436	Interim Engineer
+1437	Hector
+1438	Interim Engineer
+1439	Elevator Guard
+1440	B1 Elevator Guard
+1441	B2 Elevator Guard
+1442	B3 Elevator Guard
+1443	Weiss
+1444	Sylvia
+1445	Sasquatch Under Treatment
+1446	Rabbit Under Treatment
+1447	Rabbit Under Treatment
+1448	Ecologist
+1449	Central Complex Teleport Mage
+1450	Teleport Mage
+1451	Outskirts District 1 Teleport Mage
+1452	Outskirts District 2 Teleport Mage
+1453	Teleport Mage
+1455	Tarlach
+1456	Millia
+1457	Shamala
+1459	Dowra
+1460	Maike
+1461	Cessair's Heart
+1462	Caravan Joe
+1463	Danjin
+1464	Manjin
+1465	Arin
+1466	Pokin
+1467	Kadin
+1468	Shamala
+1469	Mushmom
+1470	Caravan Joe
+1471	Holiday Joe
+1472	Caravan Joe
+1473	Caravan Joe
+1474	Caravan Joe
+1475	Shamala
+1476	Shamala
+1477	Shamala
+1478	Shamala
+1479	Shamala
+1480	Shamala
+1481	Shamala
+1482	The Kid
+1483	Friend
+1484	Lorraine
+1485	Marcellus
+1486	Lorraine
+1487	Cecilia
+1488	Ysolte
+1489	Cecilia
+1490	Ysolte
+1491	Mina
+1492	Cecilia
+1493	Ysolte
+1494	Mina
+1495	Mina
+1496	Cecilia
+1497	Ysolte
+1498	Keane
+1499	Mina
+1500	Cecilia
+1501	Ysolte
+1502	Bella
+1503	Odran
+1504	Andras
+1505	Neru the Merchant
+1506	Nunu the Merchant
+1507	Portia
+1508	Shayla
+1509	Lennox
+1510	Sinead
+1511	Matsuri Merchant
+1512	Matsuri Merchant
+1513	Matsuri Merchant
+1514	Matsuri Merchant
+1515	Matsuri Merchant
+1516	Matsuri Merchant
+1517	Matsuri Merchant
+1518	Matsuri Merchant
+1519	Lileas
+1520	Padan
+1521	1st Champion Adair
+1522	4th Champion Gornevez
+1523	7th Champion Melor
+1524	13th Champion Lota
+1525	Marcellus
+1526	Andras
+1527	Jenna
+1528	Jenna
+1529	Jenna
+1530	Cai
+1531	Elatha
+1532	Leymore
+1533	Caravan Joe
+1534	Cichol
+1535	Edern
+1536	Ibbie
+1537	Lucas
+1538	Shena
+1539	Bean Rua Employee
+1540	Bean Rua Employee
+1541	Bean Rua Employee
+1542	Royal Guard
+1543	Royal Guard
+1544	Royal Guard
+1545	Royal Guard
+1546	Royal Guard
+1547	Royal Guard
+1548	Royal Guard
+1549	Royal Guard
+1550	Royal Guard
+1551	Royal Guard
+1552	Royal Guard
+1553	Royal Guard
+1554	Royal Guard
+1555	Royal Guard
+1556	Royal Guard
+1557	Royal Guard
+1558	Royal Guard
+1559	Royal Guard
+1560	Royal Guard
+1561	Royal Guard
+1562	Bean Rua Doorman
+1563	Christmas Guide
+1564	Christmas Guide
+1565	Christmas Guide
+1566	Fleta
+1567	Lorraine
+1568	Gordon
+1569	Iria Ruins Entrance
+1570	Caravan Joe
+1571	Mailbox
+1572	Mailbox
+1573	Lorna
+1574	Pan
+1575	Castellon
+1576	1st Base Transit Unit
+1577	1st Base Transit Unit
+1578	1st Base Transit Unit
+1579	1st Base Transit Unit
+1580	2nd Base Transit Unit
+1581	2nd Base Transit Unit
+1582	2nd Base Transit Unit
+1583	2nd Base Transit Unit
+1584	Trickmaster
+1585	Caravan Joe
+1586	Caravan Joe
+1587	Anaru
+1588	Yukiatsu
+1589	Popper
+1590	Tsuruko
+1591	Black Dragon Avatar
+1592	Black Dragon Avatar
+1593	Black Dragon Avatar
+1594	Black Dragon Avatar
+1595	Black Dragon Avatar
+1596	Black Dragon Avatar
+1597	Black Dragon Avatar
+1598	Black Dragon Avatar
+1599	Hammer Game Guide
+1600	Hammer Game Guide
+1601	Hammer Game Guide
+1602	Hammer Game Guide
+1603	Dart Game Guide
+1604	Dart Game Guide
+1605	Dart Game Guide
+1606	Dart Game Guide
+1607	Nao
+1608	Padan
+1609	Walter
+1610	Ferghus
+1611	Female Human Partner Character
+1612	Male Human Partner Character
+1613	Menma
+1614	Caravan Joe
+1615	Caravan Joe
+1616	Club Leader Tsukasa
+1617	Club Member Shinobu
+1618	Club Member Satsuki
+1619	Club Member Taiga
+1620	Club Leader Suzune
+1621	Club Member Aika
+1622	Club Member Uta
+1623	Club Member Erika
+1624	Club Member Yoshiko
+1625	Club Leader Takuro
+1626	Club Member Minoru
+1627	Minoru's Lily Doll
+1628	Yoshiko's Elizabeth
+1629	Yoshiko's Josephine
+1630	Caravan Joe
+1631	Caravan Joe
+1632	Caravan Jimmy
+1633	김검도 부장
+1634	박일격 부원
+1635	오급소 부원
+1636	장근육 부원
+1637	한박자 부장
+1638	하음악 부원
+1639	이악보 부원
+1640	신댄스 부원
+1641	문소환 부원
+1642	도깨비 부장
+1643	임형사 부원
+1644	임형사 인형 릴리
+1645	문소환의 엘리자베스
+1646	문소환 조세핀
+1647	Lorraine
+1648	Caravan Joe
+1649	Lisbeth
+1650	Kirito
+1651	Alby Dungeon Informant
+1652	Math Dungeon Informant
+1653	Fiodh Dungeon Informant
+1654	Peaca Dungeon Informant
+1655	Kirito
+1656	System Administrator && Ticket Exchange
+1657	Final Mission Informant
+1658	Divine Dragon Alliance Member
+1659	Combo Card Crafter
+1660	Sword Art Online Dungeon Reset
+1661	Tablet of the Sun Priest
+1662	Dungeon Progress Guide
+1663	Nishida
+1664	Caravan Jimmy
+1666	Divine Dragon Alliance Member
+1667	Seal Merchant
+1668	Seal Merchant
+1669	The Milesters' Coachman
+1670	Halloween Party Guest
+1671	Halloween Party Guest
+1672	Halloween Party Guest
+1673	Halloween Party Guest
+1674	Halloween Party Guest
+1675	Halloween Party Guest
+1676	Halloween Party Guest
+1677	Halloween Party Guest
+1678	Halloween Party Guest
+1679	Halloween Party Guest
+1680	Halloween Party Guest
+1681	Halloween Party Maid
+1682	Halloween Party Maid
+1683	Halloween Party Butler
+1684	Master Tin
+1685	Mother Dragon
+1686	Wild Baby Dragon
+1687	Fierce Baby Dragon
+1688	Docile Baby Dragon
+1689	Cute Baby Dragon
+1690	추석 이벤트 도우미
+1691	캐러반-조
+1692	Belisha
+1693	Belisha
+1694	Halloween Carriage
+1695	Caravan Joe
+1696	Caravan Joe
+1697	Caravan Joe
+1698	Caravan Joe
+1699	Caravan Joe
+1700	Caravan Joe
+1701	Caravan Joe
+1702	Caravan Joe
+1703	Caravan Joe
+1704	Caravan Joe
+1705	Caravan Joe
+1706	Caravan Joe
+1707	Caravan Joe
+1708	Caravan Joe
+1709	Caravan Joe
+1710	Caravan Joe
+1711	Caravan Joe
+1712	Caravan Joe
+1713	Caravan Joe
+1714	Caravan Joe
+1715	Caravan Joe
+1716	Caravan Joe
+1717	Caravan Joe
+1718	Caravan Joe
+1719	Caravan Joe
+1720	Caravan Joe
+1721	Caravan Joe
+1722	Caravan Joe
+1723	Caravan Joe
+1724	Caravan Joe
+1725	Caravan Joe
+1726	Caravan Joe
+1727	Caravan Joe
+1728	Caravan Joe
+1729	Caravan Joe
+1730	Caravan Joe
+1731	Caravan Joe
+1732	Caravan Joe
+1733	Caravan Joe
+1734	Caravan Joe
+1735	Caravan Joe
+1736	Caravan Joe
+1737	Caravan Joe
+1738	Caravan Joe
+1739	Caravan Joe
+1740	Caravan Joe
+1741	Caravan Joe
+1742	Caravan Joe
+1743	Caravan Joe
+1744	Caravan Joe
+1745	Caravan Joe
+1746	Caravan Joe
+1747	Hide-And-Seek Caravan Joe
+1748	Culinary Artist
+1749	Sky Ranger - Maiz Prairie
+1750	Sky Ranger - Karu Forest
+1751	Sky Ranger - Connous
+1752	Sky Ranger - Courcle
+1753	Sky Ranger - Physis
+1754	Sky Ranger - Zardine
+1755	Merlin
+1756	Starlet
+1757	Professor J
+1758	Treasure Hunter
+1760	Merlin
+1761	Merlin
+1762	Starlet
+1763	Professor J
+1764	Merlin
+1765	Professor J
+1766	Starlet
+1767	Merlin
+1768	Professor J
+1769	Starlet
+1770	Merlin
+1771	Merlin
+1772	Merlin
+1773	Merlin
+1774	Treasure Hunter
+1775	Professor J
+1776	Starlet
+1777	Merlin
+1779	Tarlach
+1780	Tarlach
+1781	Tarlach
+1782	Professor J
+1783	Camp
+1784	Emain Macha Farmer
+1785	Charging
+1791	Solo Unit Demon
+1792	Caravan Joe
+1795	Sky Ranger - Muyu Desert
+1799	Mysterious Dog
+1800	Mysterious Cat
+1801	Heaven Board
+1806	Barbados
+1807	Blackbeard
+1808	Black Bart
+1809	Calico Jack
+1810	Flail
+1811	El Draco
+1812	Merlin
+1813	Merlin
+1814	Starlet
+1815	Merlin
+1816	Professor J
+1817	Culinary Artist
+1818	Treasure Hunter
+1820	Torch Caretaker
+1821	Dart Game Guide
+1822	Dart Game Guide
+1823	Dart Game Guide
+1826	Stage Helper
+1827	Hammer Game Guide
+1828	Hammer Game Guide
+1829	Beginner Guide Roben
+1830	Psychology Student
+1831	Psychology Student
+1832	Psychology Student
+1833	Psychology Student
+1834	Harmony Torch
+1835	Matchmaker
+1836	Matchmaker
+1837	Matchmaker
+1838	Matchmaker
+1839	Matchmaker
+1840	Milletian Rat Catcher
+1841	Milletian Smash Fighter
+1843	Matchmaker
+1844	Milletian Commoner
+1845	Milletian Pacifist
+1846	Milletian Expeditionary Champion
+1847	Unnecessarily Courteous Milletian
+1848	Attention Seeking Milletian
+1849	Milletian Christmas Seal Breaker
+1850	Milletian Know-It-All
+1851	Lovelorn Milletian
+1852	Fortune-teller Sulhee
+1853	Caravan Joe
+1854	Wenger the Caretaker
+1855	Mansur the Jewel Collector
+1856	Barbados
+1857	Blackbeard
+1858	Black Bart
+1859	Festival Market Merchant
+1860	Festival Market Merchant
+1861	Drunkard
+1863	Treasure Hunter
+1864	Lopez
+1865	Lopez
+1866	Treasure Hunter
+1867	Injured Lopez
+1868	Lopez's Corpse
+1869	Treasure Hunter
+1870	Treasure Hunter
+1871	Lopez Bandits
+1872	Akule
+1873	Akule
+1874	Ruwai
+1875	Dying Glutton Monkey
+1876	Energized Glutton Monkey
+1877	Treasure Hunter
+1878	Treasure Hunter
+1879	Tarlach
+1880	Starlet
+1881	Merlin
+1882	Professor J
+1883	Memory Cube
+1884	Big Bear
+1885	Bigger Bear
+1886	Even Bigger Bear
+1890	Culinary Artist's Flying Food Truck
+1891	Culinary Artist
+1892	Culinary Artist
+1893	Red Fox
+1894	Black Wolf
+1895	Flying Food Truck
+1896	Pop-up Teacher
+1897	Pop-up Student
+1898	Pop-up Student
+1899	Pop-up Student
+1900	Pop-up Student
+1901	Pop-up Student
+1902	Pop-up Student
+1903	Treasure Hunter
+1904	Merlin
+1905	Annick
+1906	Berched
+1907	Mores
+1908	Merlin
+1909	Starlet
+1910	카라젝의 수석 항해사
+1911	Boris
+1912	Professor J
+1913	Audience
+1914	Audience
+1915	Audience
+1916	Audience
+1917	Audience
+1918	Hagi
+1919	Anju
+1920	Merlin
+1921	Treasure Hunter
+1922	Pinky
+1923	Merlin
+1924	Treasure Hunter
+1925	Pinky
+1926	Tarlach
+1927	Merlin
+1928	Treasure Hunter
+1929	Pinky
+1930	Tarlach
+1931	Merlin
+1932	Treasure Hunter
+1933	Pinky
+1935	Merlin
+1936	Treasure Hunter
+1937	Pinky
+1938	Merlin
+1939	Treasure Hunter
+1940	Merlin
+1941	Treasure Hunter
+1942	Pinky
+1943	Merlin
+1944	Treasure Hunter
+1945	Pinky
+1946	Merlin
+1947	Treasure Hunter
+1948	Treasure Hunter
+1949	Merlin
+1950	Treasure Hunter
+1951	Treasure Hunter
+1952	Merlin
+1953	Lopez
+1954	Merlin
+1955	Lopez
+1956	Treasure Hunter
+1957	Merlin
+1958	Lopez
+1959	Akule
+1960	Akule
+1961	Treasure Hunter
+1962	Dying Glutton Monkey
+1963	Healthy Glutton Monkey
+1964	Pinky
+1965	Merlin
+1966	Pinky
+1967	Pinky
+1968	Millia
+1969	Shamala
+1970	Merlin
+1971	Treasure Hunter
+1972	Pinky
+1973	Pinky
+1974	Merlin
+1975	Royal Alchemy Researcher
+1976	Merlin
+1977	Treasure Hunter
+1978	Pinky
+1979	Merlin
+1980	Treasure Hunter
+1981	Pinky
+1982	Hanson the Handsome
+1983	Joanna of the Low Standards
+1984	Rejuvinogi Campaign Manager
+1985	Expedition Sam
+1986	Requiem Squad
+1987	Requiem Squad
+1988	Treasure Hunter
+1989	Tupai
+1990	Merlin
+1991	Pinky
+1992	Merlin
+1993	Treasure Hunter
+1994	Pinky
+1995	Treasure Hunter
+1996	Pinky
+1997	Merlin
+1998	Treasure Hunter
+1999	Pinky
+2000	Merlin
+2001	Treasure Hunter
+2002	Pinky
+2003	Merlin
+2004	Treasure Hunter
+2005	Pinky
+2006	Akule
+2007	Abelia
+2008	Memory Cube
+2009	Rena
+2011	Saga Megafan Joe
+2012	Merlin
+2013	Merlin
+2014	Treasure Hunter
+2015	Treasure Hunter
+2016	Pinky
+2017	Tarlach
+2018	Camp
+2019	Pinky
+2020	Pinky
+2021	Kidnapper's Dog Sled
+2022	Enchant Helper
+2023	Merlin
+2024	Treasure Hunter
+2025	Pinky
+2026	Merlin
+2027	Treasure Hunter
+2028	Pinky
+2029	Merlin
+2030	Pinky
+2031	Treasure Hunter
+2032	Merlin
+2033	Ruairi
+2034	Merlin
+2035	Merlin
+2036	Merlin
+2037	Treasure Hunter
+2039	Cessair Instructor
+2040	Cessair
+2041	Cessair
+2042	Cessair
+2043	Merlin
+2044	Cessair (Melee)
+2046	Dian Cecht
+2047	Cessair
+2048	Cessair (Magic)
+2049	Cessair (Support)
+2050	Tarlach
+2051	Cessair
+2052	Definitely Not Merlin
+2053	Definitely Not Treasure Hunter
+2054	Nemeton Travel Helper
+2055	Merlin
+2056	Definitely Not Merlin
+2057	Definitely Not Treasure Hunter
+2059	Cessair
+2060	Cessair
+2061	Cessair
+2062	Cessair
+2063	Cessair
+2064	Cessair
+2065	Cessair
+2066	Cessair
+2067	Cessair
+2068	Cessair
+2069	Cessair
+2070	Cessair
+2071	Cessair
+2072	Ruairi
+2073	Ruairi's Doppelganger
+2074	Merlin
+2075	Treasure Hunter
+2076	Pinky
+2077	Ruairi
+2078	Tarlach
+2079	Ruairi
+2080	Tarlach
+2081	Merlin
+2082	Treasure Hunter
+2083	Pinky
+2084	Gold Dragon
+2085	Cessair's Heart
+2086	Cessair's Heart
+2087	Mutated Cessair
+2088	Top Cessair
+2089	Top Cessair
+2090	Tarlach
+2091	Hagi
+2092	Anju
+2093	Hagi
+2094	Hagi
+2095	Hagi
+2096	Hagi
+2097	Anju
+2098	투피오
+2099	퍼거스 지지자
+2100	퍼거스 지지자
+2101	퍼거스 지지자
+2102	퍼거스 지지자
+2103	퍼거스 지지자
+2104	플레타 지지자
+2105	플레타 지지자
+2106	플레타 지지자
+2107	플레타 지지자
+2108	플레타 지지자
+2109	Anju
+2110	Hagi
+2111	흔한 캐러반 조
+2112	Derp
+2113	Hammer Game Guide
+2114	Hammer Game Guide
+2115	Roulette Game Guide
+2116	Roulette Game Guide
+2121	Stage Helper
+2122	Erinn Popularity Contest Helper
+2123	Dero the Eventsman
+2124	Duro the Dungeonsmith
+2125	The Fattener
+2126	Karo the Fox
+2127	Hello Fellow
+2130	Ice Cream Vendor
+2131	Sweet Snack Vendor
+2132	Salty Snack Vendor
+2135	Erinn Park
+2136	Erinn Park Groundskeeper
+2138	Sneaky Milletian Developer
+2139	Relaxed Milletian
+2140	서든어택 이벤트 도우미
+2141	Alban Knights Emblem
+2142	체인크로니클 이벤트 도우미
+2143	Duro the Trialkeeper
+2148	Fixed Color Dye Ampoule Selection Set
+2149	Fixed Color Metal Dye Ampoule Selection Set
+2150	Battling Joe
+2151	Altam
+2152	Prophet
+2153	Farmhand
+2154	Altam
+2155	Altam
+2156	Altam
+2157	Avelin
+2158	Lassar
+2159	Altam
+2160	Avelin
+2161	Farm Owner
+2162	Bounty Hunter
+2163	Bounty Hunter
+2164	Avelin
+2165	Talvish
+2166	Avelin
+2167	Talvish
+2168	Altam
+2169	Talvish
+2170	Avelin
+2171	Altam
+2172	Avelin
+2173	Altam
+2174	Avelin
+2175	Altam
+2176	Avelin
+2177	Altam
+2178	Avelin
+2179	Altam
+2180	Avelin
+2181	Altam
+2182	Avelin
+2183	Talvish
+2184	Avelin
+2185	Talvish
+2186	Avelin
+2187	Talvish
+2188	Altam
+2189	Pennar
+2190	Marcan
+2191	Pennar
+2192	Brilluen
+2193	Altam
+2194	Avelin
+2195	Talvish
+2196	Caravan Joe
+2197	Caravan Joe
+2198	Rock Paper Scissors Joe
+2199	Rock Paper Scissors Joe
+2200	Halloween Rock Paper Scissors Gift Box
+2202	포리클
+2203	행운을 기원하는 소녀
+2204	행운을 선물하고 싶은 소년
+2205	Halloween Rock Paper Scissors Gift Box
+2206	판
+2207	Seer Sulhee
+2208	Caravan Joe
+2209	겨울 캠프 전령
+2210	겨울 캠프 전령
+2211	Story Helper
+2212	Interim Archaeologist
+2213	Senior Archaeologist
+2214	Caravan Guard
+2215	Caravan Guard
+2216	High-Ranking Geologist
+2217	Senior Geologist
+2218	Mysterious Knight
+2219	Aranwen
+2220	Raging Warrior
+2221	Nao
+2222	Statue
+2223	Coco
+2224	Ropa
+2225	러븐
+2226	러블리
+2227	Caravan Joe
+2228	캐러반 조
+2229	Alban Dungeon Gate
+2231	Alban Dungeon Trial Chamber 1 Exit
+2232	Alban Dungeon Trial Chamber 2 Exit
+2233	Alban Dungeon Trial Chamber 3 Exit
+2234	Alban Dungeon Trial Chamber 4 Exit
+2235	Alban Dungeon Trial Chamber 1 Entrance
+2236	Alban Dungeon Trial Chamber 2 Entrance
+2237	Alban Dungeon Trial Chamber 3 Entrance
+2238	Alban Dungeon Trial Chamber 4 Entrance
+2240	Alban Knights Emblem
+2241	Reno
+2242	Vay
+2243	Tion
+2244	Catching Tails Joe
+2245	Catching Tails Joe
+2246	A Fairy in Need
+2247	캐러반 조
+2250	Larry
+2251	Jesse
+2253	Hammer Game Guide
+2254	Hammer Game Guide
+2255	Roulette Game Guide
+2256	Roulette Game Guide
+2257	Dero the Eventsman
+2258	Duro the Trialkeeper
+2259	The Fattener
+2260	Stage Helper
+2261	Erinn Popularity Contest Helper
+2262	Karo the Fox
+2263	Friendly Milletian
+2264	Erinn Park
+2265	Ice Cream Vendor
+2266	Sweet Snack Vendor
+2267	Salty Snack Vendor
+2268	Relaxed Milletian
+2269	Erinn Park Groundskeeper
+2270	Sneaky Milletian Developer
+2271	Mysterious Tournament Manager
+2272	Manus
+2273	Dungeon Pass Joe
+2274	Talvish
+2275	Avelin
+2276	Altam
+2277	Mission Conversation
+2278	Caswyn
+2279	Pihne
+2280	Avelin
+2281	Talvish
+2282	Caswyn
+2283	Pihne
+2284	The Elder
+2285	Arthuan General
+2286	Elved General
+2287	Heruin General
+2288	Eiler General
+2289	Arthuan General
+2290	Elved General
+2291	Heruin General
+2292	Eiler General
+2293	Arthuan Knights
+2294	Arthuan Knights
+2295	Elved Knights
+2296	Elved Knights
+2297	Heruin Knights
+2298	Heruin Knights
+2299	Eiler Knights
+2300	Eiler Knights
+2301	Suspicious Corpse
+2302	Talvish
+2303	Avelin
+2304	Altam
+2305	Kanna
+2306	Eirlys
+2307	Elsie
+2308	Logan
+2309	Kaour
+2310	Dai
+2311	Avalon Gate Representative
+2312	Pennar
+2313	Brilluen
+2314	Marcan
+2315	Black Wizard
+2316	Female Apostle
+2317	Zebach
+2318	Zebach
+2319	Zebach
+2320	Crystal Wolf
+2321	Crystal Boar
+2322	Crystal Bear
+2323	Reanimated Corpse
+2324	Reanimated Corpse
+2325	Avelin
+2326	Altam
+2327	Avelin
+2328	Altam
+2329	Altam
+2330	Suspicious Priest
+2331	Invisible One
+2332	Caravan Joe
+2333	Someone's Necklace
+2334	Altam's Journal
+2335	Heretic
+2336	Heretic
+2337	Kanna
+2338	Eirlys
+2339	Elsie
+2340	Logan
+2341	Kaour
+2342	Dai
+2343	Kanna
+2344	Eirlys
+2345	Elsie
+2346	Logan
+2347	Kaour
+2348	Dai
+2349	Avelin
+2350	Avelin
+2351	Altam
+2352	Talvish
+2353	Keith
+2354	Ilsa
+2355	Unknown Path
+2356	Altam
+2357	Avelin
+2358	Altam
+2359	Avelin
+2360	Talvish
+2361	Altam
+2362	Avelin
+2363	Talvish
+2364	Altam
+2365	Avelin
+2366	Talvish
+2367	Pihne
+2368	Pihne
+2369	Altam
+2370	Avelin
+2371	Talvish
+2372	Pihne
+2373	Caswyn
+2374	Altam
+2375	Avelin
+2376	Talvish
+2377	Caswyn
+2378	Pihne
+2379	Altam
+2380	Avelin
+2381	Talvish
+2382	Caswyn
+2383	Pihne
+2384	Altam
+2385	Avelin
+2386	Talvish
+2387	Caswyn
+2388	Pihne
+2389	Exit to Lobby
+2390	Aton Cimeni Anvil
+2392	Kanna
+2393	Eirlys
+2394	Elsie
+2395	Logan
+2396	Kaour
+2397	Dai
+2398	Master Planner Caravan Joe
+2399	Gaella
+2400	Bully
+2401	Bully
+2402	Bully
+2403	Event Helper
+2404	Altam
+2405	Avelin
+2406	Talvish
+2407	Caswyn
+2408	Pihne
+2409	Altam
+2410	Avelin
+2411	Talvish
+2412	Caswyn
+2413	Pihne
+2414	Altam
+2415	Talvish
+2416	Pihne
+2417	Avelin
+2418	Caswyn
+2419	Avelin
+2420	Caswyn
+2421	Altam
+2422	Avelin
+2423	Talvish
+2424	Caswyn
+2425	Pihne
+2426	Caswyn
+2427	Pihne
+2428	Pihne
+2429	Altam
+2430	Avelin
+2431	Talvish
+2432	Pihne
+2433	Altam
+2434	Avelin
+2435	Talvish
+2436	Pihne
+2437	Altam
+2438	Talvish
+2439	Caswyn
+2440	Pihne
+2441	Avelin
+2442	Altam
+2443	Avelin
+2444	Talvish
+2445	Pihne
+2446	Caswyn
+2447	Caswyn
+2448	Pihne
+2449	Pihne
+2450	Altam
+2451	Avelin
+2452	Talvish
+2453	Caswyn
+2454	Pihne
+2456	Altam
+2457	Avelin
+2458	Talvish
+2459	Caswyn
+2460	Pihne
+2481	Shuan
+2482	Banquet Hall Manager
+2483	Musician
+2484	Musician
+2485	Musician
+2486	Musician
+2487	Party Guest
+2488	Party Guest
+2489	Party Guest
+2490	Party Guest
+2491	Party Guest
+2492	Party Guest
+2493	Party Guest
+2494	Party Guest
+2495	Party Guest
+2496	Party Guest
+2497	Party Guest
+2498	Party Guest
+2499	Party Guest
+2500	Party Guest
+2501	Party Guest
+2502	Night Watcher
+2503	Altam
+2504	Avelin
+2505	Talvish
+2506	Caswyn
+2507	Talvish
+2508	Caswyn
+2509	Caswyn
+2510	Altam
+2511	Avelin
+2512	Caswyn
+2513	Caswyn
+2514	Pihne
+2515	Caswyn
+2516	Pihne
+2517	Avelin
+2518	Avelin
+2519	Talvish
+2520	Caswyn
+2521	Altam
+2522	Avelin
+2523	Talvish
+2524	Caswyn
+2525	Pihne
+2526	Altam
+2527	Avelin
+2528	Talvish
+2529	Caswyn
+2530	Pihne
+2531	Talvish
+2532	Avelin
+2533	Altam
+2534	Talvish
+2535	Caswyn
+2536	Pihne
+2537	Altam
+2539	Worried Girl
+2540	Lovestruck Man
+2541	Lovestruck Woman
+2542	Greedy Old Man
+2543	Shayla
+2544	Belita
+2545	Arenen
+2546	Kelpie
+2547	Pihne
+2548	Pihne's Father
+2549	Pihne's Mother
+2551	Pihne
+2552	Companion
+2553	Companion
+2554	Caswyn
+2555	Pihne
+2556	Altam
+2557	Avelin
+2558	Talvish
+2559	Caswyn
+2560	Pihne
+2561	캐러반 조
+2562	Altam
+2563	Avelin
+2564	Stranger
+2565	Talvish
+2567	Laighlinne
+2568	Lorna
+2569	Pan
+2570	Tin
+2571	Close Combat Talent Guide
+2572	Magic Talent Guide
+2573	Archery Talent Guide
+2574	Battle Alchemy Talent Guide
+2575	Martial Arts Talent Guide
+2576	Music Talent Guide
+2577	Puppetry Talent Guide
+2578	Lance Combat Talent Guide
+2579	Gunslinger Talent Guide
+2580	Ninja Talent Guide
+2581	Adventurer Caravan Joe
+2582	Mission Conversation
+2583	Laighlinne
+2584	Stadium Horn
+2585	Lorna
+2586	Pan
+2587	NPC for item script
+2588	Mission Conversation
+2589	Adventurer
+2590	Adventurer
+2591	Adventurer
+2592	Adventurer
+2593	Adventurer
+2594	Mission Conversation
+2595	Shenon
+2596	Meryl
+2597	Performance Guide Bulletin Board
+2598	Lorna
+2600	Close Combat Talent Guide
+2601	Magic Talent Guide
+2602	Archery Talent Guide
+2603	Battle Alchemy Talent Guide
+2604	Martial Arts Talent Guide
+2605	Music Talent Guide
+2606	Puppetry Talent Guide
+2607	Lance Combat Talent Guide
+2608	Gunslinger Talent Guide
+2609	Ninja Talent Guide
+2610	마스터플래너
+2615	Milletian Eric Nam
+2616	Milletian Yooa
+2617	Poulnabrone
+2618	Ciar Dungeon
+2619	Alby Dungeon
+2620	Rabbie Dungeon
+2621	Math Dungeon
+2622	Barri Dungeon
+2623	Fiodh Dungeon
+2624	Coill Dungeon
+2625	Rundal Dungeon
+2626	Peaca Dungeon
+2627	Researcher
+2628	Magic Scholar Keegan
+2629	Historian Ainsley
+2630	Archaeologist Fannon
+2631	Laborer
+2632	Laborer
+2633	Succubus Queen
+2634	Succubus Scriptures
+2635	Cookie Witch
+2636	Kee
+2637	Koo
+2638	Koo
+2639	Boy with bad teeth
+2640	Girl with a fear of water
+2641	Boy who likes shiny things
+2642	Memory Match Guide
+2643	Smack-A-Rat Guide
+2644	Stacky Cake Guide
+2645	Girl with a scratchy throat
+2646	Small-handed child
+2647	Child with high sugar levels
+2648	Girl who loves chocolate
+2649	Boy who loves smelling food
+2650	Child with high sugar levels
+2651	Girl who loves chocolate
+2652	Boy who loves smelling food
+2653	Unclaimed Snack Tent
+2654	Gingerman Caravan Joe
+2656	Strange Gummy Bear
+2657	Merlin
+2658	Treasure Hunter
+2660	Cookie Witch
+2661	Cookie Wizard
+2662	Supakupa Wam-Bam
+2663	Kupa
+2664	Kupa
+2665	Kupa
+2666	Cookie Wizard
+2667	Kupa
+2668	Clobbermeister Staff
+2669	Altam
+2670	Avelin
+2671	Talvish
+2672	Caswyn
+2673	Pihne
+2674	Kanna
+2675	Logan
+2676	Eirlys
+2677	Dai
+2678	Elsie
+2679	Kaour
+2680	Shuan
+2681	The Elder
+2682	Colossus Marionette
+2683	대회도우미
+2684	Lorraine
+2685	Marcellus
+2686	Pan
+2687	Dessert Merchant
+2688	Souvenir Merchant
+2689	Lovestruck Man
+2690	Lovestruck Woman
+2691	Milletian Looking for Love
+2692	Milletian Looking for Love
+2693	Atelia
+2694	Nervous Milletian
+2696	Ranked Milletian
+2697	Milletian with a Headache
+2699	Cat-Lover Milletian
+2700	Visiting Cat
+2701	Milletian Who Wants to Play Crystal Defender
+2702	Hungry Milletian
+2703	The Fattener
+2704	배고픈 고깔모자 팬더
+2705	Duro the Trialkeeper
+2706	Piano
+2707	Sneaky Milletian Developer
+2708	12주년 행사 도우미 데로
+2709	Karo the Fox
+2710	Unhappy Raccoon
+2711	Fez
+2712	Tia
+2713	Tail Chasers Staff
+2714	Caravan Joe
+2715	Mission Point Shopkeeper
+2716	Souvenir Merchant
+2717	Dessert Merchant
+2718	Stage Helper
+2719	Hammer Slam Staff
+2720	Martial Darts Staff
+2721	Shooting Gallery Staff
+2722	Lorraine's Nightmare Staff
+2723	Crystal Defender Staff
+2724	Kirine
+2725	Atrata
+2726	Elen
+2727	Starlet
+2728	Yvona
+2729	Ferghus
+2730	Hamelin
+2731	Nele
+2732	Kristell
+2733	Krug
+2734	Meles
+2735	Aodhan
+2736	Simon
+2737	Piano
+2738	Food Merchant
+2739	Lina
+2742	Ringo
+2743	Rudy
+2744	Rex
+2745	Rabia
+2746	Unranked Milletian
+2750	Shadow-Boxing Milletian
+2751	Hyper Kid
+2752	Hyper Kid
+2753	Kid with a Baseball Bat
+2754	Girl Visiting from Far Away
+2755	Tomboy
+2756	Grandma
+2757	Little Girl's Mom
+2758	Little Girl's Dad
+2759	Boy Who Likes Shiny Things
+2761	몬스터 인기투표 도우미
+2762	Royal Musician Alliance Cadet
+2764	Maike
+2765	Mushmom
+2768	Horny Mushroom
+2769	Green Mushroom
+2770	Yeti
+2771	King Pepe
+2772	Pink Bean
+2773	Erinn Resident Pink Bean
+2775	DIY 플래너 캐러반 조
+2776	Cheering Simon Fan
+2777	Cheering Ferghus Fan
+2778	Milletian Enjoying the Tunes
+2779	Music-Loving Milletian
+2780	Excited Milletian
+2781	Cheering Milletian
+2782	Limit Breakers Groupie
+2783	Limit Breakers Superfan
+2784	Aodhan and the Kool Kats Groupie
+2785	Aodhan and the Kool Kats Superfan
+2786	Royal Musician Alliance Enthusiast
+2787	The Superstar Caravan Joe
+2788	Haunted House
+2789	Shady Scarecrow
+2790	Little Ghost
+2791	Kyle
+2792	Colton
+2793	William
+2794	Concert Helper
+2795	Superstar Caravan Joe
+2796	Concert Helper
+2797	Concert Helper
+2798	Concert Helper
+2799	Concert Helper
+2800	Concert Helper
+2801	카메라걸
+2803	Passing Milletian
+2804	Passing Milletian
+2805	Passing Milletian
+2806	Passing Milletian
+2807	Passing Milletian
+2808	Little Ghost
+2809	William
+2810	Caravan Joe
+2811	Kyle
+2812	Colton
+2813	William
+2814	Little Ghost
+2815	Colton
+2816	William
+2817	Kyle
+2819	Caravan Joe, the Insect Collector
+2821	Commerce Partner William
+2822	Pumpkin Pie Messenger
+2823	Enn
+2824	Enn
+2825	Enn
+2828	프리미엄 PC방 인챈트 도우미
+2829	A place where Enn used to be
+2830	Mysterious Girl
+2831	Mysterious Girl
+2832	빛나는 날개의 전령
+2833	A place with a strange sound
+2834	Jan
+2835	Seal Pal
+2836	카메라독
+2837	Altar of Restoration
+2838	Starry Caravan Joe
+2839	Peddler Aidan
+2840	Chocolette
+2841	Bonbon
+2842	Chocolette
+2843	Apprentice Woodcrafter Luke
+2844	Artisan Woodcrafter Yela
+2845	Parade Helper Caravan Joe
+2846	Fantasia Snack Truck
+2847	Partner Rem
+2848	Partner Ram
+2849	Tin
+2850	Game Dev Joe
+2851	Advancement Guide
+2852	Test Supervisor
+2853	Test Supervisor
+2854	Homecoming Bash Caravan Joe
+2855	Simon
+2856	Ailionoa
+2857	Guide
+2858	Guide
+2859	Ferghus
+2860	Elen
+2861	Guide
+2862	Guide
+2863	Eiren
+2864	Eiren
+2865	Merlin
+2866	Merlin
+2867	Merlin
+2868	Starlet
+2869	Starlet
+2870	Starlet
+2871	Professor J
+2872	Professor J
+2873	Professor J
+2874	Culinary Artist
+2875	Culinary Artist's Flying Food Truck
+2876	Bespectacled Boy
+2877	Caravan Joe
+2878	Annie
+2879	Chain Slash Talent Guide
+2881	Duro the Trialkeeper
+2882	Sneaky Milletian Developer
+2883	Dero the Eventsman
+2884	Karo the Fox
+2885	Erinn Popularity Contest Helper
+2888	Tomorrow's Gift Box
+2889	New Talent Notebook
+2890	Eiren
+2891	Chain Slash Talent Guide
+2892	The Fattener
+2893	Hungry Rose Wreath Spotted Deer
+2894	Shuan
+2895	Kanna
+2896	Eirlys
+2897	Elsie
+2898	Logan
+2899	Kaour
+2900	Dai
+2902	Gulliver Joe
+2903	Gulliver Joe
+2904	Caravan Joe the Event Planner
+2905	Lucky Guy Caravan Joe
+2906	Bachram's Potential
+2907	Eiren's Letter
+2908	Baltane Textbook
+2909	Baltane Textbook 2
+2910	Baltane Textbook 3
+2911	Baltane Squire Support Unit
+2912	Baltane Squire Support Unit
+2913	Baltane Squire Support Unit
+2914	Baltane Squire Support Unit
+2915	Baltane Squire Support Unit
+2916	Baltane Squire Support Unit
+2917	Baltane Squire Support Unit
+2918	Baltane Squire Support Unit
+2919	Baltane Squire Support Unit
+2920	Baltane Squire Support Unit
+2921	Girgashiy
+2922	Follower of Twilight
+2923	Innes
+2924	Pumpkin Farmer
+2925	출석 체크 캐러반 조
+2928	Shy
+2929	Aislin
+2930	Carrie
+2931	Bran
+2932	Locke
+2933	Exposed Coffin
+2934	New Talent Caravan Joe
+2935	Guardian Guild Tournament Guide
+2936	Fleta
+2937	Fleta's Rab
+2938	Cute Cat
+2940	Guardian Guild Tournament Guide
+2941	House Manager Brownie
+2942	Kaelic
+2943	Tibby
+2944	Jacca
+2945	Llywelyn
+2946	수능 응원 캐러반 조
+2947	라번
+2948	Aislin
+2949	Bran
+2950	Locke
+2951	Carrie
+2952	Mission Conversation
+2953	Altam
+2954	Avelin
+2955	Talvish
+2956	Caswyn
+2957	Pihne
+2958	Llywelyn
+2959	Merlin
+2960	Treasure Hunter
+2961	Street Sweeper
+2962	The Elder
+2963	Preliminary Round Guide
+2964	Strange Boy
+2965	Altam
+2966	Avelin
+2967	Avelin
+2968	Talvish
+2969	Caswyn
+2970	Pihne
+2971	Avelin
+2972	Talvish
+2973	Avelin
+2974	Talvish
+2975	Avelin
+2976	Talvish
+2977	Marcan
+2978	Altam
+2979	Caswyn
+2980	Pihne
+2981	Llywelyn
+2982	Talvish
+2983	Avelin
+2984	Altam
+2985	Llywelyn
+2986	Altam
+2987	Llywelyn
+2988	Avelin
+2989	Altam
+2990	Llywelyn
+2991	Brilluen
+2992	Pennar
+2993	Avelin
+2994	Altam
+2995	Llywelyn
+2996	Scared Traveler
+2997	Startled Traveler
+2998	Taciturn Traveler
+2999	Eirawen
+3000	Altam
+3001	Llywelyn
+3002	Merlin
+3003	Merlin
+3004	Tent
+3005	Altam
+3006	Altam
+3007	Llywelyn
+3008	Avelin
+3009	Altam
+3010	Llywelyn
+3011	Injured Member of Eiler Unit
+3012	Avelin
+3013	Altam
+3014	Llywelyn
+3015	Caswyn
+3016	Pihne
+3017	Talvish
+3018	Avelin
+3019	Altam
+3020	Llywelyn
+3021	Avelin
+3022	Altam
+3023	Llywelyn
+3024	Talvish
+3025	Avelin
+3026	Altam
+3027	Llywelyn
+3028	Brilluen
+3029	Pennar
+3030	Talvish
+3031	Avelin
+3032	Altam
+3033	Llywelyn
+3034	Caswyn
+3035	Pihne
+3036	Avelin
+3037	Altam
+3038	Llywelyn
+3039	Caswyn
+3040	Pihne
+3041	Talvish
+3042	Llywelyn
+3043	Altam
+3044	Avelin
+3045	Talvish
+3046	Caswyn
+3047	Pihne
+3048	Llywelyn
+3049	Merlin
+3050	Treasure Hunter
+3051	Pennar
+3052	Brilluen
+3053	Marcan
+3054	Brilluen
+3055	Pennar
+3056	Marcan
+3057	Kaelic
+3060	Strange Boy
+3061	Injured Member of Eiler Unit
+3062	Kaelic
+3063	G21-Hyped Caravan Joe
+3064	Ruairi
+3065	Tarlach
+3066	Mari
+3067	Nao
+3068	Shylock
+3069	Elatha
+3070	Millia
+3071	Dian Cecht
+3072	Cessair's Heart
+3073	An Explorer
+3074	Young Altam
+3075	Altam's Master
+3076	Avelin's Brother
+3077	Woman
+3078	Brilluen
+3079	An Explorer
+3080	An Explorer
+3081	An Explorer
+3082	An Explorer
+3083	An Explorer
+3084	An Explorer
+3086	Abandoned Girl
+3087	Caravan Joe the Part-time Special Unit Helper
+3088	Subaru
+3089	Ram
+3090	Rem
+3091	Cichol
+3092	Season Pass Owner Caravan Joe
+3093	Aspiring Skier Grumpy Lil Jack
+3094	Black Wizard
+3095	Altam
+3096	Llywelyn
+3097	Merlin
+3098	Treasure Hunter
+3099	Pinky
+3100	Llywelyn
+3101	Avelin
+3102	Caswyn
+3103	Pihne
+3105	Caswyn
+3106	Pihne
+3107	Altam
+3108	Talvish
+3109	Avelin
+3110	Altam
+3111	Llywelyn
+3112	Caswyn
+3113	Pihne
+3114	Talvish
+3115	Avelin
+3116	Altam
+3117	Llywelyn
+3118	Talvish
+3119	Avelin
+3120	Altam
+3121	Llywelyn
+3122	Talvish
+3123	Avelin
+3124	Altam
+3125	Llywelyn
+3126	Talvish
+3127	Avelin
+3128	Altam
+3129	Llywelyn
+3130	Cichol
+3131	Talvish
+3132	Avelin
+3133	Altam
+3134	Llywelyn
+3135	Altam
+3136	Avelin
+3137	Llywelyn
+3138	Talvish
+3139	Merlin
+3140	Caswyn
+3141	Pihne
+3142	Avelin
+3143	Llywelyn
+3144	Caswyn
+3145	Pihne
+3146	Merlin
+3147	Avelin
+3148	Llywelyn
+3149	Caswyn
+3150	Pihne
+3151	Merlin
+3152	Altam
+3153	Altam
+3154	Talvish
+3155	Talvish
+3156	Talvish
+3157	Talvish
+3158	Avelin
+3159	Caswyn
+3160	Pihne
+3161	Llywelyn
+3162	Altam
+3163	Merlin
+3164	Merlin
+3165	Treasure Hunter
+3166	Avelin
+3167	Llywelyn
+3168	Caswyn
+3169	Pihne
+3170	Talvish
+3171	Merlin
+3172	Llywelyn
+3173	Musician Girl
+3174	Musician Boy
+3175	Caswyn
+3176	Pihne
+3177	Avelin
+3178	Llywelyn
+3179	Altam
+3180	Avelin
+3181	Llywelyn
+3182	Caswyn
+3183	Pihne
+3184	Avelin
+3185	Talvish
+3186	Alyn's Letter
+3187	Ski Event Helper
+3188	Ski Event Helper
+3189	Royal Guard Personnel
+3190	Mysterious Portal
+3191	G21 Sanctum Warp Manager
+3192	Mister AdoraBunny
+3193	Girl's Portrait Easel
+3194	A Wanderer
+3195	Naive Red Caped Milletian
+3196	Confident Wolf Milletian
+3197	Natural Dye Helper
+3198	Artisan Woodcrafter Luke
+3199	Flower Merchant Heidi
+3200	Flower Merchant Heidi
+3201	Caswyn the Listless
+3202	Talvish the Middle Manager
+3203	Avelin the Wrap Artist
+3204	Pihne the Seller of Souvenirs
+3205	Llywelyn the Perpetually Unimpressed
+3206	Altam the Energetic
+3207	G21 Hyped Caravan Joe
+3208	이슬 상인 녹여쩡
+3209	탐험가 캐러반 조
+3210	Piran
+3211	Marleid
+3212	Royal Guard
+3213	Royal Quartermaster
+3214	Royal Physician
+3215	Piran
+3216	Marleid
+3217	Vayne
+3218	Cethlenn
+3219	Piran
+3220	Marleid
+3221	Eirawen
+3222	Llywelyn
+3223	Piran
+3224	Marleid
+3225	Llywelyn
+3226	Marleid
+3227	Temple Knight Soldier
+3228	Pontiff's Court Aristocrat
+3229	Pontiff's Court Aristocrat
+3230	Pontiff's Court Aristocrat
+3231	Pontiff's Court Aristocrat
+3232	Centrist Aristocrat
+3233	Centrist Aristocrat
+3234	Royal Regime-Supporting Aristocrat
+3235	Royal Regime-Supporting Aristocrat
+3236	Royal Regime-Supporting Aristocrat
+3237	Royal Regime-Supporting Aristocrat
+3238	Order of Hymerark Member
+3239	Order of Hymerark Member
+3240	Order of Hymerark Member
+3241	Order of Hymerark Member
+3242	Order of Hymerark Member
+3243	Order of Hymerark Member
+3244	Order of Hymerark Member
+3245	Order of Hymerark Member
+3246	Order of Hymerark Member
+3247	Piran
+3248	Marleid
+3249	Piran
+3250	Marleid
+3251	Vayne
+3252	Royal Guard
+3253	Royal Guard
+3254	Piran
+3255	Marleid
+3256	Vayne
+3257	Royal Guard
+3258	Royal Guard
+3259	Eirawen
+3260	Sheena
+3261	Piran
+3262	Marleid
+3263	Piran
+3264	Marleid
+3265	Evil Eye Monolith
+3266	Piran
+3267	Marleid
+3268	Evil Eye Monolith
+3269	Piran
+3270	Marleid
+3271	Piran
+3272	Marleid
+3273	Vayne
+3274	Vayne
+3275	Piran
+3276	Piran
+3277	Marleid
+3278	Marleid
+3279	Vayne
+3280	Evil Eye Monolith
+3281	Monolith Key
+3282	요정 마을 심부름꾼과 탈로스
+3283	요정 마을 심부름꾼과 테이네
+3284	요정 마을 심부름꾼과 에슈카
+3285	Piran
+3286	Piran
+3287	Piran
+3288	Temple Knight Soldier
+3289	Temple Knight Soldier
+3290	Royal Guard
+3291	Royal Guard
+3292	Collapsed Royal Guard
+3293	Collapsed Royal Guard
+3294	Collapsed Royal Guard
+3295	Collapsed Royal Guard
+3305	Tech Duinn Geata
+3306	Marlowe
+3308	탐험가 캐러반 조
+3309	탐험가 캐러반 조
+3310	Blaanid
+3311	Hafgan
+3312	Tomorrow's Gift Box
+3313	14주년 축제 도우미 아이슬린
+3314	14주년 캐리
+3315	14주년 시험의 동굴 도우미 브랜
+3316	14주년 OX 진행자 로크
+3317	14주년 캐러반 조
+3318	Aloha Polar Bear
+3319	Aloha White Elephant
+3320	Relaxed Adventurer
+3321	Relaxed Adventurer
+3322	Stranger
+3323	G22 Event Planner Caravan Joe
+3324	실체화된 상상 속의 마리
+3325	실체화된 상상 속의 루에리
+3326	실체화된 상상 속의 타르라크
+3327	실체화된 상상 속의 마리
+3328	실체화된 상상 속의 루에리
+3329	실체화된 상상 속의 타르라크
+3330	실체화된 상상 속의 멀린
+3331	실체화된 상상 속의 트레저헌터
+3332	실체화된 상상 속의 마스터셰프
+3333	실체화된 상상 속의 디바
+3334	실체화된 상상 속의 프로페서J
+3335	실체화된 상상 속의 멀린
+3336	실체화된 상상 속의 트레저헌터
+3337	실체화된 상상 속의 마스터셰프
+3338	실체화된 상상 속의 디바
+3339	실체화된 상상 속의 프로페서J
+3340	희귀도구 상인 두로
+3341	마스터셰프의 포장마차
+3342	한가해 보이는 리빙 마스터 밀레시안
+3343	실체화된 상상 속의 톨비쉬
+3344	실체화된 상상 속의 알터
+3345	실체화된 상상 속의 아벨린
+3346	실체화된 상상 속의 피네
+3347	실체화된 상상 속의 카즈윈
+3348	실체화된 상상 속의 르웰린
+3349	실체화된 상상 속의 톨비쉬
+3350	실체화된 상상 속의 알터
+3351	실체화된 상상 속의 아벨린
+3352	실체화된 상상 속의 피네
+3353	실체화된 상상 속의 카즈윈
+3354	실체화된 상상 속의 르웰린
+3355	Ilsa
+3356	Skill Training Seal Coupon
+3357	음식이 가득한 포장마차
+3358	Winter Master Plan Helper 
+3359	Captured Fanatic
+3360	Captured Fanatic
+3361	파트너 렘
+3362	파트너 람
+3363	Order of the Black Moon Member
+3364	Gillach
+3365	Gillach
+3366	Brielle
+3367	Pino
+3368	Chio
+3369	Maydi
+3370	Moon-Chasing Child
+3371	Mage's Cauldron
+3372	Strange Wardrobe
+3373	Juju Doll
+3374	Juju Doll
+3375	Strange Wardrobe
+3376	Large Door
+3377	Large Door
+3378	Large Door
+3379	Large Door
+3380	Brielle
+3381	Brielle
+3382	Juju Doll
+3383	Gillach
+3384	Gillach
+3385	Gillach
+3386	Gillach
+3387	Brielle
+3388	Maydi's Friend
+3390	Pre-G23 Event Joe
+3391	Master Plan Helper Summer
+3392	G23 Event Helper Caravan Joe
+3393	Red-Clothed Saintee
+3394	Frail Iarata
+3395	Strange Woman
+3396	Strange Woman
+3397	Morfydrianas
+3398	Talek
+3399	Vayne
+3400	Eirawen
+3401	Llywelyn
+3402	Marleid
+3403	Marleid
+3404	Marleid
+3405	Marleid
+3406	Marleid
+3407	Marleid
+3408	Marleid
+3409	Tani
+3410	Piran
+3411	Marleid
+3412	Tani
+3413	Piran
+3414	Marleid
+3415	Bhatair
+3416	Marleid
+3417	Bhatair
+3418	Marleid
+3419	Bhatair
+3420	Marleid
+3421	Marleid
+3422	Bhatair
+3423	Murielle
+3424	Marleid
+3425	Bhatair
+3426	Murielle
+3427	Marleid
+3428	Bhatair
+3429	Shamala
+3430	Marleid
+3431	Bhatair
+3432	Murielle
+3433	Shamala
+3434	Marleid
+3435	Bhatair
+3436	Murielle
+3437	Akule
+3438	Llywelyn
+3439	Murielle
+3440	Bhatair
+3441	Bhatair
+3442	Murielle
+3443	Bhatair
+3444	Murielle
+3445	Bhatair
+3446	Murielle
+3447	Bhatair
+3448	Murielle
+3449	Bhatair
+3450	Murielle
+3451	Murielle
+3452	Bhatair
+3453	Murielle
+3454	Bhatair
+3455	Murielle
+3456	Bhatair
+3457	Piran
+3458	Marleid
+3459	Murielle
+3460	Bhatair
+3461	Piran
+3462	Marleid
+3463	Murielle
+3464	Bhatair
+3465	Murielle
+3466	Bhatair
+3467	Treasure Hunter
+3468	Pinky
+3469	Treasure Hunter
+3470	Pinky
+3471	Murielle
+3472	Bhatair
+3473	Murielle
+3474	Bhatair
+3475	Murielle
+3476	Bhatair
+3477	Tani
+3478	Treasure Hunter
+3479	Pinky
+3480	Murielle
+3481	Bhatair
+3482	Tani
+3483	Murielle
+3484	Bhatair
+3485	Balor
+3486	Tani
+3487	Happy Festival Kid
+3488	Happy Festival Kid
+3489	Happy Festival Kid
+3490	Storyteller
+3491	Duncan
+3492	Ferghus
+3493	Trefor
+3494	Shepherd Boy Deian
+3495	Alissa
+3496	Nora
+3497	Ranald
+3498	Marleid
+3499	Akule
+3500	Millia
+3501	Shamala
+3502	Happy Festival Kid
+3503	Happy Festival Kid
+3504	Happy Festival Kid
+3505	Happy Festival Kid
+3506	Reveler
+3507	Reveler
+3508	Reveler
+3509	Reveler
+3510	Lady Reveler
+3511	Lady Reveler
+3512	Lady Reveler
+3513	Lady Reveler
+3514	Festival Souvenir Merchant
+3515	Card Game Guide
+3516	Quiz Guide
+3517	Picture Puzzle Guide
+3518	Marleid
+3519	Bhatair
+3520	Marleid
+3521	Bhatair
+3522	Murielle
+3523	Treasure Hunter
+3524	Festival Guide
+3525	Jarlath
+3526	Jarlath
+3527	Marleid
+3528	Bhatair
+3529	Marleid
+3530	Bhatair
+3531	Murielle
+3532	Murielle
+3533	Bhatair
+3534	Treasure Hunter
+3535	Pinky
+3536	Murielle
+3537	Bhatair
+3538	Balor
+3539	Dusty True Owl
+3540	Feather-Fluffed Barn Owl
+3541	Strange Woman
+3542	Murielle
+3543	Bhatair
+3544	Marleid
+3545	Morfydrianas
+3546	Talek
+3547	Murielle
+3548	Bhatair
+3549	Marleid
+3550	Murielle
+3551	Bhatair
+3552	Murielle
+3553	Bhatair
+3554	Murielle
+3555	Bhatair
+3556	Tani
+3557	Marleid
+3558	Bhatair
+3559	Marleid
+3560	Bhatair
+3561	Marleid
+3562	Bhatair
+3563	Marleid
+3564	Bhatair
+3565	Murielle
+3566	Marleid
+3567	Bhatair
+3568	Murielle
+3569	Marleid
+3570	Bhatair
+3571	Murielle
+3572	Marleid
+3573	Bhatair
+3574	Murielle
+3575	Murielle
+3576	Bhatair
+3577	Permafrosty Snowman
+3578	Hapless Far Darrig
+3579	Morfyd
+3580	Murielle
+3581	Far Darrig
+3582	Far Darrig
+3583	Far Darrig
+3584	Far Darrig
+3585	Far Darrig
+3586	Shivering Far Darrig
+3587	Hidden Far Darrig
+3588	Pathfinding Far Darrig
+3589	Courageous Far Darrig
+3590	Prepared Far Darrig
+3591	Tech Duinn Geata
+3592	Murielle
+3593	Bhatair
+3594	Talek
+3595	Talek
+3596	Manannan
+3597	Tani
+3598	Bhatair
+3599	Murielle
+3600	Lymilark Cleric Tegan
+3601	Lymilark Cleric Howel
+3602	Treasure Hunter
+3603	Pinky
+3604	Talek
+3605	Simple Brazier
+3606	Admiral Owen
+3607	Bhatair
+3608	Murielle
+3609	Bhatair
+3610	Murielle
+3611	Bhatair
+3612	Murielle
+3613	Bhatair
+3614	Murielle
+3615	Bhatair
+3616	Murielle
+3617	Bhatair
+3618	Murielle
+3619	Bhatair
+3620	Murielle
+3621	Far Darrig
+3622	Far Darrig
+3623	Far Darrig
+3624	Far Darrig
+3625	Far Darrig
+3626	Far Darrig
+3627	Far Darrig
+3628	Far Darrig
+3629	Far Darrig
+3630	Far Darrig
+3631	Far Darrig
+3632	Far Darrig
+3633	Far Darrig
+3634	Far Darrig
+3635	Far Darrig
+3636	Bhatair
+3637	Murielle
+3638	Far Darrig
+3639	Bhatair
+3640	Murielle
+3641	Far Darrig
+3642	Far Darrig
+3643	Bhatair
+3644	Murielle
+3645	Far Darrig
+3646	Far Darrig
+3647	Bhatair
+3648	Murielle
+3649	Far Darrig
+3650	Bhatair
+3651	Murielle
+3652	Far Darrig
+3653	Bhatair
+3654	Murielle
+3655	Far Darrig
+3656	Bhatair
+3657	Murielle
+3658	Far Darrig
+3659	Bhatair
+3660	Murielle
+3661	Far Darrig
+3662	Bhatair
+3663	Murielle
+3664	Bhatair
+3665	Murielle
+3666	Lymilark Cleric Howel
+3667	Far Darrig
+3668	Far Darrig
+3669	Far Darrig
+3670	Far Darrig
+3671	Far Darrig
+3672	Far Darrig
+3673	Far Darrig
+3674	Far Darrig
+3675	Manannan
+3676	Murielle
+3677	Bhatair
+3678	Manannan
+3679	Murielle
+3680	Bhatair
+3681	Morfyd
+3682	Talek
+3683	Morfyd
+3684	Talek
+3685	Manannan
+3686	Far Darrig
+3687	Far Darrig
+3688	Far Darrig
+3689	Far Darrig
+3690	Far Darrig
+3691	Far Darrig
+3692	Far Darrig
+3693	Far Darrig
+3694	Far Darrig
+3695	Far Darrig
+3696	Far Darrig
+3697	Far Darrig
+3698	Far Darrig
+3699	Far Darrig
+3700	Far Darrig
+3701	Far Darrig
+3702	Far Darrig
+3703	Far Darrig
+3704	Far Darrig
+3705	Far Darrig
+3706	Far Darrig
+3707	Far Darrig
+3708	Far Darrig
+3709	Far Darrig
+3710	Far Darrig
+3711	Far Darrig
+3712	Far Darrig
+3713	Far Darrig
+3714	Far Darrig
+3715	Far Darrig
+3716	Far Darrig
+3717	Far Darrig
+3718	Far Darrig
+3719	Far Darrig
+3720	Far Darrig
+3721	Far Darrig
+3722	Balor
+3723	Llywelyn
+3724	Altam
+3725	Avelin
+3726	Caswyn
+3727	Pihne
+3728	Bhatair
+3729	Murielle
+3730	Bhatair
+3731	Bhatair
+3732	Murielle
+3733	Bhatair
+3734	Murielle
+3735	Cethlenn
+3736	Far Darrig
+3737	해기
+3738	Liam
+3739	Gwen
+3740	Sweet Coffee Wagon
+3741	Sweet Coffee Scooter
+3742	거대 먹보 토끼
+3743	이웨카 달 토끼
+3744	이웨카 달 토끼
+3745	이웨카 달 토끼
+3746	이웨카 달 토끼
+3747	이웨카 달 토끼
+3748	이웨카 달 토끼
+3749	이웨카 달 토끼
+3750	이웨카 달 토끼
+3751	이웨카 달 토끼
+3752	이웨카 달 토끼
+3753	이웨카 달 토끼
+3754	이웨카 달 토끼
+3755	해기
+3756	해기
+3757	Blackened Darrig
+3758	혼비백산한 달 토끼
+3759	정신이 없는 달 토끼
+3760	깜짝 놀란 달 토끼
+3761	어쩔줄 모르는 달 토끼
+3762	Alain the Artist
+3763	Beautiful Snow Mountain Painting
+3764	Greg
+3765	Teagan
+3766	Hamilton
+3767	Robert
+3768	Janice
+3769	Sweet Coffee Wagon
+3770	Gwen
+3771	Gwen
+3772	Gwen
+3773	Gwen
+3774	Gwen
+3775	Gwen
+3776	Gwen
+3777	Sweet Coffee Scooter
+3778	Sweet Coffee Scooter
+3779	Sweet Coffee Scooter
+3780	Sweet Coffee Scooter
+3781	Sweet Coffee Scooter
+3782	Sweet Coffee Scooter
+3783	Sweet Coffee Scooter
+3784	Manager Shay
+3785	수상한 소년
+3786	Lorna
+3787	Pan
+3788	Returned Milletian Who Made it Just in Time
+3789	Wild Ginseng Whining to be Fed
+3791	General Manager Forte
+3792	Rental Manager Andante
+3793	Female Dance Troupe Member
+3794	Female Dance Troupe Member
+3795	Female Dance Troupe Member
+3796	Female Dance Troupe Member
+3797	Female Dance Troupe Member
+3798	Male Dance Troupe Member
+3799	Male Dance Troupe Member
+3800	Male Dance Troupe Member
+3801	Male Dance Troupe Member
+3802	Male Dance Troupe Member
+3803	Souvenir Seller Rubato
+3804	Ticket Master Largo
+3805	Wandering Instrument Merchant Lento
+3806	Kid Playing in Water
+3807	Nibbling Bunny
+3808	Carefree Dog
+3809	Loafing Cat
+3810	Cotton-Candy-Crazed Raccoon
+3811	Frazzled Cotton Candy Sheep
+3812	Royal Musician Alliance Maestro
+3813	Caravan Joe
+3814	Caravan Joe
+3815	Caravan Joe
+3816	Caravan Joe
+3817	Caravan Joe
+3818	Caravan Joe
+3819	Red Succubus Fiend
+3820	Orange Succubus Fiend
+3821	Yellow Succubus Fiend
+3822	Green Succubus Fiend
+3823	Blue Succubus Fiend
+3824	Dark Blue Succubus Fiend
+3825	Purple Succubus Fiend
+3826	Black Succubus Fiend
+3827	Average Caravan Joe
+3828	Adventurer Caravan Joe
+3829	Gingerman Caravan Joe
+3830	Committee Member Caravan Joe
+3831	DIY Planner Caravan Joe
+3832	Superstar Caravan Joe
+3833	Caravan Joe, the Insect Collector
+3834	Starry Caravan Joe
+3835	Eavan
+3836	Aodhan
+3837	Maike
+3838	Dowra
+3839	Lucas
+3840	Murielle
+3841	Price
+3842	Huw
+3843	Del
+3844	Granat
+3845	Andras
+3846	Bhatair
+3847	Briana
+3848	Lileas
+3849	Ibbie
+3850	Sion
+3851	Alissa
+3852	David
+3853	Annie
+3854	Nightmare-Vexed Caravan Joe
+3855	Nightmare-Vexed Caravan Joe
+3856	Doug
+3857	Ice
+3858	Cowan
+3859	Lemon
+3860	Returned Milletian Challenging the Defense Advancement
+3861	Little Black Cat
+3862	Starlet
+3863	Tin
+3864	Caravan Joe, Agent of Stars
+3865	Little Black Cat
+3866	Little Black Cat
+3867	Pillow Fight Champ Caravan Joe
+3868	Balloon Festival Manager Zeno
+3869	Balloon Festival Manager Lenny
+3870	Akule
+3871	Altam
+3872	Avelin
+3873	Blaanid
+3874	Cai
+3875	Caswyn
+3876	Dowra
+3877	Starlet
+3878	Eiren
+3879	Eiry
+3880	Jenna
+3881	Leymore
+3882	Llywelyn
+3883	Mari
+3884	Culinary Artist
+3885	Maike
+3886	Merlin
+3887	Millia
+3888	Pihne
+3889	Pinky
+3890	Portia
+3891	Professor J
+3892	Ruairi
+3893	Tarlach
+3894	Talvish
+3895	Treasure Hunter
+3896	Triona
+3897	Milletian Developer in a Strange Land
+3898	Returned Milletian Collecting Melodies
+3899	Stage Display Vending Machine
+3900	Weird Cat
+3901	Returned Milletian Who Used to Love Stewart
+3902	Surfer Dude
+3903	Surfer Gal
+3904	Poor Picker
+3905	Lucky Picker
+3906	Popcorn Kid
+3907	Popcorn Mom
+3908	Chilling Dog
+3909	Chilling Cat
+3910	Lorna
+3911	Pan
+3912	Manus
+3913	Injured Resident
+3914	Injured Resident
+3915	Injured Resident
+3916	Injured Resident
+3917	Injured Resident
+3918	Injured Resident
+3919	Injured Resident
+3920	Injured Resident
+3921	???
+3922	Eirawen
+3923	Marleid
+3924	Royal Guard
+3925	Royal Guard
+3926	Belvast Messenger
+3927	Piran
+3928	Guardsman
+3929	Guardsman
+3930	Blyss
+3931	Belvast Resident
+3932	Belvast Resident
+3933	Belvast Resident
+3934	Belvast Resident
+3935	Belvast Resident
+3936	Belvast Resident
+3937	Belvast Resident
+3938	Treasure Hunter
+3939	Pinky
+3940	Eiren
+3941	Marleid
+3942	Merlin
+3943	Treasure Hunter
+3944	Pinky
+3945	Merlin
+3946	Eiren
+3947	Marleid
+3948	Piran
+3949	Cethlenn
+3950	Black Moon Follower
+3951	Black Moon Follower
+3952	Marleid
+3953	Treasure Hunter
+3954	Pinky
+3955	Merlin
+3956	Treasure Hunter
+3957	Pinky
+3958	Eiren
+3959	Merlin
+3960	Treasure Hunter
+3961	Pinky
+3962	Eiren
+3963	Piran
+3964	Merlin
+3965	Treasure Hunter
+3966	Pinky
+3967	Eiren
+3968	Piran
+3969	Merlin
+3970	Piran
+3971	Starlet
+3972	Professor J
+3973	Culinary Artist
+3974	Merlin
+3975	Treasure Hunter
+3976	Pinky
+3977	Eiren
+3978	Murielle
+3979	Piran
+3980	Piran
+3981	Piran
+3982	Magic School Student
+3983	Magic School Student
+3984	Magic School Student
+3985	Magic School Student
+3986	Comgan
+3987	Marleid
+3988	Marleid
+3989	Marleid
+3990	Marleid
+3991	Marleid
+3992	Tani
+3993	Piran
+3994	Marleid
+3995	Marleid
+3996	Piran
+3997	Murielle
+3998	Maike
+3999	Elf Guardsman
+4000	Elf Guardsman
+4001	Marleid
+4002	Piran
+4003	Bhatair
+4004	Dowra
+4005	Marleid
+4006	Piran
+4007	Marleid
+4008	Piran
+4009	Merlin
+4010	Treasure Hunter
+4011	Pinky
+4012	Eiren
+4013	Merlin
+4014	Treasure Hunter
+4015	Pinky
+4016	Eiren
+4017	Manannan
+4018	Far Darrig
+4019	Far Darrig
+4020	Eiren
+4021	Bhatair
+4022	Starlet
+4023	Eiren
+4024	Treasure Hunter
+4025	Pinky
+4026	Starlet
+4027	Fodla
+4028	Deirbhile
+4029	Treasure Hunter
+4030	Pinky
+4031	Eiren
+4032	Starlet
+4033	Merlin
+4034	Marleid
+4035	Merlin
+4036	Treasure Hunter
+4037	Pinky
+4038	Starlet
+4039	Eiren
+4040	Marleid
+4041	Merlin
+4042	Marleid
+4043	Starlet
+4044	Eiren
+4045	Andras
+4046	Owen
+4047	Treasure Hunter
+4048	Pinky
+4049	Merlin
+4050	Eiren
+4051	Starlet
+4052	Treasure Hunter
+4053	Pinky
+4054	Balor
+4055	Starlet
+4056	Piran
+4057	Piran
+4058	Balor
+4059	Caitin
+4060	Balor
+4061	Cethlenn
+4062	Cethlenn
+4063	Marleid
+4064	Piran
+4065	Sera
+4066	Incubus King
+4067	Fodla
+4068	Deirbhile
+4069	Merlin
+4070	Eiren
+4071	Treasure Hunter
+4072	Pinky
+4073	Starlet
+4074	Professor J
+4075	Culinary Artist
+4076	Culinary Artist's Flying Food Truck
+4077	Bhatair
+4078	Murielle
+4079	Tani
+4080	Black Moon Follower
+4081	Dowra
+4082	Maike
+4083	Balor
+4084	Cethlenn
+4085	Cethlenn
+4086	Sera
+4087	Incubus King
+4088	Fodla
+4089	Deirbhile
+4090	Tani
+4091	Black Moon Follower
+4092	Llywelyn
+4093	Aristocrat
+4094	Aristocrat
+4095	Aristocrat
+4096	Aristocrat
+4097	Aristocrat
+4098	Belvast Messenger
+4099	Meles
+4100	Elf Guardsman
+4101	Piran
+4102	Cessair's Heart
+4103	Taunes
+4104	Giant Guard
+4105	Admiral Owen
+4106	Marleid
+4107	Fodla
+4108	G24 업데이트 사전 이벤트
+4109	Akule
+4110	Infuse Erg Level 20
+4111	Winter, the Master Plan Helper
+4112	Belvast Merchant
+4113	Port Cobh Merchant
+4114	Dunbarton Merchant
+4115	Bangor Merchant
+4116	Emain Macha Merchant
+4117	Tara Merchant
+4118	Taillteann Merchant
+4119	Tir Chonaill Merchant
+4120	Far Darrig
+4121	Far Darrig
+4122	Far Darrig
+4123	업라이즈 코인 수집가 캐러반 조
+4124	Camping Papa
+4125	Camping Mama
+4126	Camping Boy
+4127	Camping Girl
+4128	Reclusive Fishing Master
+4129	Skilled Fisher
+4130	Newbie Fisher
+4131	Hopeless Fisher
+4132	Sensitive Fisher
+4133	Unlucky Fisher
+4134	Fishing Master's Rankings
+4135	Starlet
+4136	Starlet
+4137	Treasure Hunter
+4138	Pinky
+4139	Black Moon Follower
+4140	Black Moon Follower
+4141	Black Moon Follower
+4142	Black Moon Follower
+4143	Black Moon Follower
+4144	Bhatair
+4145	Dowra
+4146	Karpfen
+4147	Murielle
+4148	Maike
+4149	Granat
+4150	Treasure Hunter
+4151	Pinky
+4152	Merlin
+4153	Treasure Hunter
+4154	Pinky
+4155	Eiren
+4156	Piran
+4157	Elf Boy
+4158	황금 마차
+4160	Millia
+4161	Eavan
+4162	Aodhan
+4163	Nostalgic Old Man
+4164	Sentimental Old Woman
+4165	Sunflower
+4166	Sunflower
+4167	Sunflower
+4168	Sunflower
+4169	Sunflower
+4170	Sunflower
+4171	Sunflower
+4172	Sunflower
+4173	Bhatair
+4174	Dowra
+4175	Murielle
+4176	Maike
+4177	Atrata
+4178	Giant Guardsman
+4179	A Boy In Need
+4180	Sunflower
+4181	Sunflower
+4182	Sunflower
+4183	Sunflower
+4184	Sunflower
+4185	Sunflower
+4186	Sunflower
+4187	Sunflower
+4188	Sunflower
+4189	Sunflower
+4190	Ruairi
+4191	Tarlach
+4192	Mari
+4193	Altam
+4194	Avelin
+4195	Talvish
+4196	Llywelyn
+4197	Pihne
+4198	Caswyn
+4199	Karpfen
+4200	Granat
+4201	Andras
+4202	Potts the Potter
+4203	Lily
+4204	Nelche
+4205	Garon
+4206	Lyla
+4207	Expedition-van Joe
+4208	Erg Infusion Catalyst
+4209	열공 이벤트 도우미 로크
+4210	Event Helper Lenny
+4211	Explorer of the Forgotten Tomb
+4212	Lennon
+4213	Cute Fairytale Fairy
+4214	Coy Fairytale Fairy
+4215	Spaced Out Fairytale Fairy
+4216	Curious Fairytale Fairy
+4217	Mischievous Boy
+4218	Mischievous Girl
+4219	Snowflower King
+4220	Snowflower Princess
+4221	Haughty Violinist
+4222	Innocent Violinist
+4223	Polite Violinist
+4224	Lovestruck Violinist
+4225	Beautiful Flutist
+4226	Sly Xylophonist
+4227	Enthusiastic Cymbalist
+4228	Cute Tuba Boy
+4229	Cute Tuba Girl
+4230	Pinkie
+4231	Fynni Fynn
+4232	Fionnait
+4233	Small Child
+4234	Small Animal
+4235	Pinkie
+4237	Unknown Child
+4239	Pinkie
+4240	Pinkie
+4241	Pinkie
+4242	Katell
+4243	Katell
+4244	Relaxed Pet Master Milletian
+4245	Master Plan Helper Summer
+4249	Pinkie
+4250	Unknown Child
+4254	펫풍당당 펫선생
+4255	펫풍당당 노트
+4256	Small Animal
+4258	Small Animal
+4259	Cat
+4260	Imp
+4261	Legatus
+4262	Ashley
+4263	다람쥐 요미
+4264	자이언트 요미
+4265	Pinkie
+4266	Katell
+4267	Tiny-Animal-Loving Milletian
+4269	발렌타인 이벤트 도우미 러블리
+4277	Harmon
+4278	Serval
+4279	Caracal
+4280	Northern White-Faced Owl
+4281	Eurasian Eagle Owl
+4282	Lucky Beast Mk. I Conductor-Type
+4283	Lucky Beast Mk. I Conductor-Type
+4284	에아렌
+4286	지난 소울메이트를 기다리는 밀레시안
+4287	멀린
+4288	디바
+4289	트레이너 J
+4290	트레저헌터
+4291	에아렌
+4292	반짝이는 금속
+4293	반짝이는 금속
+4294	반짝이는 금속
+4295	반짝이는 금속
+4296	반짝이는 금속
+4297	반짝이는 금속
+4298	반짝이는 금속
+4299	반짝이는 금속
+4300	반짝이는 금속
+4301	반짝이는 금속
+4302	운동하는 강한 남성
+4303	운동하는 강한 남성
+4304	운동하는 강한 남성
+4305	운동하는 강한 남성
+4306	운동하는 강한 남성
+4307	운동하는 강한 여성
+4308	운동하는 강한 여성
+4309	운동하는 강한 여성
+4310	운동하는 강한 여성
+4311	운동하는 강한 여성
+4312	Caravan Friend Joe
+4313	Caracal
+4314	메이링
+4315	레트로 라미
+4316	레트로 레우리
+4317	레트로 카르타르
+4318	레트로 라미
+4319	레트로 라미
+4320	레트로 라미
+4321	레트로 라미
+4322	레트로 라미
+4323	레트로 라미
+4324	레트로 라미
+4325	레트로 레우리
+4326	레트로 레우리
+4327	레트로 레우리
+4328	레트로 레우리
+4329	레트로 레우리
+4330	레트로 레우리
+4331	레트로 레우리
+4332	레트로 카르타르
+4333	레트로 카르타르
+4334	레트로 카르타르
+4335	레트로 카르타르
+4336	레트로 카르타르
+4337	레트로 카르타르
+4338	레트로 카르타르
+4339	수상한 물건
+4340	아멜리 로즈
+4341	지젤 로즈
+4342	엘렌 로즈
+4344	16주년 진행요원 식스틴
+4345	풍선 아티스트 벌룬
+4346	풍선 터트리기 진행요원 패트리어트
+4348	불꽃놀이 도우미 캐러반 조
+4351	Pet Event Helper Kenny
+4352	시험의 동굴 도우미 두로
+4614	프리시즌 도우미 썸머

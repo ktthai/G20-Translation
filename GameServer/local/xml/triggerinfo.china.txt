@@ -1,0 +1,111 @@
+﻿0	Character Actions
+1	Character Status Change
+2	Character Goal Achieved
+3	Character Skills
+4	Enter Region
+5	Quest
+6	Title
+7	Item/Money
+8	Date/Time
+9	Monster
+10	Auction House
+11	Pet/Partner
+12	Prop Items
+13	Chat Keyword
+14	HP Below (%)
+15	MP Below (%)
+16	Stamina Below (%)
+17	Deadly
+18	Knocked Out
+19	Potion Poisoning Stage
+20	Critical Hit
+21	Hit
+22	Down
+23	Character Level Up
+24	Level Reached
+25	Cumulative Level Reached
+26	Exploration Level Up
+27	Talent Rank Up
+28	Talent Rank Reached
+29	Start Skill Activation
+30	Skill Result Success
+31	Skill Result Failure
+32	Skill Training Complete
+33	Skill Rank Up
+34	Skill Obtained
+35	Action Category
+36	Enter Region
+37	Enter Dungeon/Mission
+38	Enter Homestead
+39	Obtain Quest
+40	Quest Objective Complete
+41	Quest Mission Complete
+42	Obtain Title
+43	Use/Switch Title
+44	Use/Switch Talent Title
+45	Obtain New Item
+46	Activate Huge Lucky
+47	Obtain Gold
+48	Obtain Ducats
+49	Use Potion
+50	Eat Food
+51	Specific Day
+52	Mabinogi Time
+53	Real Time
+54	Can Rebirth
+55	Defeat Monster
+56	Dungeon/Mission Monsters Appear
+57	Sell Items on Auction House
+58	Summon Pet
+59	Summon Partner
+60	Mount Pet
+61	Mount Partner
+62	Fly Pet/Partner
+63	Dismount Pet
+64	Feed
+65	If Hungry
+66	Pet/Partner Level Up
+67	Pet/Partner Hit
+68	Pet/Partner Down
+69	Pet/Partner Knocked Out
+70	Begin Using Prop
+71	Spirit Exclusive
+72	Edit Spirit Default Dialogue
+73	Edit Spirit Dialogue
+74	Add Spirit Dialogue Keyword
+75	Spirit Awakening Energy 100%
+76	Select Spirit Information
+77	Select Spirit Item Distribution
+78	Select Spirit Enhancement
+80	Attempt Spirit Item Distribution
+81	Attempt Spirit Enhancement
+82	Leveling Up Spirit
+83	Achieve Spirit Level
+87	Private Story
+88	Nearby Rumors
+89	Skills
+90	Quests
+91	Part-Time Jobs
+92	Lessons and Training
+93	Gathering
+95	Rest
+96	Ranged Attack
+97	Playing Instrument
+98	Lute
+99	Composing
+100	Tailoring
+101	Magnum Shot
+102	Counterattack
+103	Smash
+104	Fishing
+105	Enter Keyword
+106	Character Status Change
+107	Character Goal Achieved
+108	Character Skills
+109	Enter Region
+110	Item/Money
+111	Monster
+112	Spirit Common Dialogue
+113	Auction House
+114	Sell Items on Auction House
+115	Perk Available

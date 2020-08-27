@@ -1,0 +1,5 @@
+﻿347	You can fragmentize a Gold Ingot to acquire a Gold Ore or a Gold Ore Fragment.
+348	You can fragmentize a Silver Ingot to acquire a Silver Ore or a Silver Ore Fragment.
+349	You can fragmentize a Copper Ingot to acquire a Copper Ore or a Copper Ore Fragment.
+350	You can fragmentize an Iron Ingot to acquire an Iron Ore or an Iron Ore Fragment.
+351	You can fragmentize a Mythril Ingot to acquire a Mythril Ore or a Mythril Ore Fragment.

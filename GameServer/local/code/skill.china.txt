@@ -1,0 +1,1458 @@
+﻿animaltraininguse.1	You can't use this Taming Cane anymore.
+animaltraininguse.2	You must have a Taming Cane and Taming Bait equipped.
+animaltraininguse.3	Tame a wild animal.
+animaltraininguse.4	Select a creature.
+animaltraininguse.5	You tamed a wild {0}!
+animaltraininguse.6	You didn't manage to tame the animal.
+animaltraininguse.7	You didn't manage to tame the animal.
+animaltraininguse.8	You'll need to weaken the animal before you attempt to tame it.
+animaltraininguse.9	You didn't manage to tame the animal.
+animaltraininguse.10	You can't do that right now.
+animaltraininguse.11	Some animals just can't be tamed...
+animaltraininguse.12	You managed to calm it down. It shouldn't try to run away now.
+animaltraininguse.13	It seems to be working. Keep trying!
+animaltraininguse.14	Some animals just can't be tamed...
+animaltraininguse.15	This Taming Cane won't work.
+animaltraininguse.16	This Taming Bait won't work.
+animaltraininguse.17	You can't tame an animal as a Dark Knight.
+anotherdivinity.1	You need to deactivate Transformation first.
+anotherdivinity.2	You need to deactivate Demigod first.
+areaofregenerationuse.1	You don't have enough Phantasmal Remnants for this technique.
+areaofregenerationuse.2	You cannot use that Technique right now.
+arrowrevolver2use.1	You can't use expired weapons.
+arrowrevolveruse.1	You can't use expired weapons.
+backstepuse.1	You can't use that skill for another {0} second(s).
+barrieruse.3	You need a Cylinder.
+barrieruse.4	You need a Barrier Spike Crystal.
+barrieruse.5	You need a Barrier Spike Crystal.
+barrieruse.6	You can't install any more Barrier Spikes.
+barrieruse.7	You can't install Barrier Spikes in this area.
+barrieruse.8	You can't use Barrier Spikes in this area.
+barrieruse.9	You can't install Barrier Spikes here.
+barrieruse.10	You can't install any more Barrier Spikes.
+barrieruse.11	There's something moving toward your Barrier Spikes.
+barrieruse.12	You don't have any Barrier Spikes Crystals.
+barrieruse.13	The Barrier Spikes Crystal didn't work.
+bashuse.1	You can't use Bash with a 0 durability weapon.
+bashuse.2	This weapon is too fragile to use with this combat skill.
+berserkeruse.1	You need to wait {0} more seconds to become a Berserker.
+blacksmithuse.1	This item has expired.
+blacksmithuse.2	You can't use items in your temp inventory.
+blacksmithuse.3	This item is {0}-exclusive.
+blacksmithuse.4	Can be crafted by using Phantasmal Sight on a Blacksmith Manuel.
+blizzardstrikeuse.1	Staff required.
+blizzardstrikeuse.2	You need more MP to use the {0} skill.
+blizzardstrikeuse.3	You have 10 more seconds to use the {0} skill.
+blizzardstrikeuse.4	You can't cast Hail Storm with a 0 durability staff. 
+bloomingmemory.1	The {0} effect will be applied to the owner.\n{1} Skill Training EXP multiplied by x{2}.{3} when pet is summoned.
+blowingballoonuse.1	You need a deflated balloon.
+boltout.1	You acquired the Bolt Out of the Blue action.
+boltoutuse.1	You can't use that skill for another {0} second(s).
+breathofladecause.1	You can't use this any more today.
+bunshinuse.1	You need {0} more monster souls.
+bunshinuse.2	You can't use that.
+campfireuse.1	You can't seem to use that right now.
+campfireuse.2	스키 이벤트 중에는 캠프 파이어를 설치할 수 없습니다.
+campfireuse.3	This isn't really an appropriate place for a fire.
+campfireuse.4	You don't have any firewood.
+campfireuse.5	This isn't really an appropriate place for a fire.
+campfireuse.6	You can't use that here.
+campfireuse.7	You are now feeling Lovey Dovey. Stand up to get the following effects for {0} minute(s):\n+{1} All Stats\n+{2} Max HP\n+{3} Max MP\n+{4} Max Stamina\n+{5} Max Damage\n+{6} Critical\n+{7} Defense\n+{8} Protection\n+{9} Magic Defense
+campfireuse.8	Having a seat has energized you. {0} minute(s) left until you reach Lovey Dovey status.
+campfireuse.9	Having a seat has energized you. {0} second(s) left until you reach Lovey Dovey status.
+campfireuse.10	You are already feeling very Lovey Dovey. You will only receive energy while sitting.
+campfireuse.11	You are now feeling Refreshed. Stand up to get the following effects for {0} minute(s):\n+{1} All Stats\n+{2} Max HP\n+{3} Max MP\n+{4} Max Stamina\n+{5} Max Damage\n+{6} Critical\n+{7} Defense\n+{8} Protection\n+{9} Magic Defense
+campfireuse.12	Having a seat has energized you. {0} minute(s) left until your fatigue is completely removed.
+campfireuse.13	Having a seat has energized you. {0} second(s) left until your fatigue is completely removed.
+campfireuse.14	You are already feeling refreshed. You will only receive energy while sitting.
+campfireuse.15	The fire feels warm and pleasant.\nThe area surrounding the campfire is suffused with the {0}'s rich aroma.\nWhy not rest and relax nearby?
+carpentryuse.1	You need a Carpentry Workbench.
+carpentryuse.2	You need a Carpentry Workbench.
+carpentryuse.3	You can't reach the Carpentry Workbench from here.
+carpentryuse.4	Production Form
+carpentryuse.5	You need a Carpentry Workbench.
+carpentryuse.6	You can't reach the Carpentry Workbench from here.
+carpentryuse.7	Production Form
+carpentryuse.8	You can't reach the Carpentry Workbench from here.
+carpentryuse.9	You created a godly {0}!
+carpentryuse.10	Your hard work produced a very nice {0}!
+carpentryuse.11	Your efforts created an above-average {0}!
+carpentryuse.12	Your creation is far superior to anything you can get from a store.
+carpentryuse.13	Your creation is just as good as anything you can get from a store.
+carpentryuse.14	Your creation could be nice with a few repairs.
+carpentryuse.15	You managed to finish the {0}, but it's pretty low quality.
+carpentryuse.16	Your {0} isn't really fit for use. Maybe you could get some decent scrap wood out of it.
+carpentryuse.17	{0} created successfully!
+carpentryuse.18	That didn't work out at all.
+carpentryuse.19	This product is {0}-exclusive.
+carpentryuse.20	This product is {0}-exclusive.
+chainburstuse.1	The Chain Burst effect is already active.
+chaingunuse.1	You can't use expired weapons.
+chainspinningslashuse.1	There's no target to attack.
+chargingfistuse.1	You can't use that skill for another {0} second(s).
+cloakinguse.1	You can't do that while you're using a skill or action.
+cloakinguse.2	You need more MP.
+cloakinguse.3	You can't use this skill in battle. Try again in {0} second(s).
+cloakinguse.4	You can't do that while you're shopping or talking to an NPC.
+cloakinguse.5	You don't have enough MP to remain cloaked.
+cloakinguse.6	Capture The Flag 이벤트 참여중에는 사용할 수 없습니다.
+cloakinguse.7	You can't use this while the Beach Day event is in progress.
+cloakinguse.8	You can't use this during the Jousting Tournament.
+cloakinguse.9	You cannot use {0} right now.
+closer.1	Your target is too close.
+closer.2	Your target is too far away.
+clothaction.1	You obtained an outfit action.
+clothactionuse.1	You need to wear an action outfit to use this.
+clothactionuse.2	You need to wear an action outfit to use this.
+cloudmakinguse.1	You need a Cylinder.
+cloudmakinguse.2	You can't use that skill for another {0} second(s).
+cloudmakinguse.3	You can't use that skill here.
+cloudmakinguse.4	You need a Cloud Crystal.
+cloudmakinguse.5	You don't have enough Cloud Crystals to do that.
+collectinguse.1	This bottle is no good for gathering.
+collectinguse.2	{0} found a good mushroom.
+collectinguse.3	The boat's moving too much to gather anything.
+collectinguse.4	It's too shaky for you to do any gathering.
+collectinguse.5	Your arms are too short to reach that from here.
+collectinguse.6	You won't be able to shear any more from this little critter today.
+collectinguse.7	You cannot gather anything from this pet.
+collectinguse.8	You cannot gather anything from this pet.
+conditionsupportuse.1	{0} unable to be applied.
+conditionsupportuse.2	Aspect of Focus is no longer effective.
+conditionsupportuse.3	The target is becoming resistant to Aspect of Focus.
+conditionsupportuse.4	You don't have enough Phantasmal Remnants for this technique.
+conditionsupportuse.5	[{0}] has granted you the {1} buff.
+conditionsupportuse.6	You've granted [{0}] the {1} buff.
+conditionsupportuse.7	[{0}] has the {1} buff active.
+conditionsupportuse.8	[{0}] has granted you the specially combined {1} buff.
+conditionsupportuse.9	You've granted [{0}] the specially combined {1} buff.
+conditionsupportuse.10	The  specially combined {1} buff is active on [{0}].
+conditionsupportuse.11	You can grant Aspect of Focus in {0} sec.
+confusionuse.1	You've become bewildered!
+cookinguse.1	This item has expired.
+cookinguse.2	This item has expired.
+cookinguse.3	This ingredient has passed its expiration date.
+cookinguse.4	This ingredient can only be used in the cooking contest area.
+cookinguse.5	This ingredient can only be used during a cooking contest.
+cookinguse.6	This ingredient can only be used by cooking contest participants.
+cookinguse.7	This ingredient can only be used by cooking contest participants.
+cookinguse.8	You just made a heavenly dish!
+cookinguse.9	You just made a delicious dish!
+cookinguse.10	You just made a tasty dish!
+cookinguse.11	You just made an edible dish.
+cookinguse.12	You just made a pretty unappetizing dish...
+counterattackuse.1	You can't do that with a Lance in your hand.
+crossbusteruse.1	You can't use that.
+crossbusteruse.2	You can't use that skill for another {0} second(s).
+cruelslashuse.1	Select a target first.
+cruelslashuse.2	You can't attack that target!
+cruelslashuse.3	You can only use this skill on downed enemies.
+cruelslashuse.4	You can't attack that target.
+cruelslashuse.5	Your target is too far away.
+cruelslashuse.6	Select a target first.
+crystalmakinguse.1	You need a Steam Oven to make crystals.
+crystalmakinguse.2	You must be near a Steam Oven to make crystals.
+crystalmakinguse.3	You don't have the right skills to make crystals.
+crystalmakinguse.4	{0} created successfully!
+crystalmakinguse.5	Your {0} didn't turn out...
+crystalmakinguse.6	This product is {0}-exclusive.
+cylinderexplosionuse.1	More pressure required!
+cylinderexplosionuse.2	You need 5 Fire Crystals.
+cylinderexplosionuse.3	The Cylinder's pressure is too low. Heat Buster disabled.
+cylinderexplosionuse.4	More pressure required!
+cylinderexplosionuse.5	You need 5 Fire Crystals.
+darkknighttransformuse.1	이벤트 아레나에서는 변신을 해제할수 없습니다
+darkstorm.1	You got some bonus EXP for ranking up your {0} skill.
+darkstorm.2	Your {0} skill's rank went down because of insufficient training EXP.
+darkstorm.3	Your {0} skill's rank may decrease if you continue to use it with insufficient training EXP.
+darkstormuse.1	You can't use that skill for another {0} second(s).
+darkstormuse.2	You don't have enough training EXP to use the {0} skill.
+dashpunchuse.1	You can't use that skill for another {0} second(s).
+deathofshadowuse.1	Bask in the power of Cichol.\nAwaken the Shadow Stone.\nEvoke the dark spirit...
+deathofshadowuse.2	Milletian, use the power of Partholon\nto open your eyes. \nSee the true power of the Fomor race.
+deathofshadowuse.3	The time has come.\nThe darkness of the Fomors \nwill sweep the land!
+defenceuse.1	You can't do that with a Lance in your hand.
+demigodravenattack.1	You got some bonus EXP for ranking up your {0} skill.
+demigodravenattack.2	Your {0} skill's rank went down because of insufficient training EXP.
+demigodravenattack.3	Your {0} skill's rank may decrease if you continue to use it with insufficient training EXP.
+demigodravenattackuse.1	You can't use that skill for another {0} second(s).
+demigodravenattackuse.2	You don't have enough training EXP to use the {0} skill.
+demigodravenattackuse.3	There isn't a target nearby to use that on.
+demigodshieldofgodnessuse.1	You can't use the {0} skill right now.
+demigodshieldofgodnessuse.2	You can't use that skill for another {0} second(s).
+demigodspearofgod.1	You got some bonus EXP for ranking up your {0} skill.
+demigodspearofgod.2	Your {0} skill's rank went down because of insufficient training EXP.
+demigodspearofgod.3	Your {0} skill's rank may decrease if you continue to use it with insufficient training EXP.
+demigodspearofgoduse.1	You can't use that skill for another {0} second(s).
+demigodspearofgoduse.2	You don't have enough training EXP to use the {0} skill.
+demigodspearofgoduse.3	There isn't a target nearby to use that on.
+demigodspearofgoduse.4	You've absorbed Brionac's power to strengthen your spear.
+demigodspiritofshadowuse.1	The spirit already left.
+demigodspiritofshadowuse.2	You couldn't absorb the spirits.
+demigodspiritofshadowuse.3	There aren't any spirits to absorb.
+demigodspiritofshadowuse.4	You can't use that without a target.
+demigodspiritofshadowuse.5	You can't use that without a target.
+demigodspiritofshadowuse.6	You've absorbed as many spirits as you can.
+demigodspiritofshadowuse.7	There aren't any spirits to absorb.
+demigodspiritofshadowuse.8	The spirit already left.
+demigodspiritofshadowuse.9	You couldn't absorb the spirits.
+demigodspiritofshadowuse.10	There aren't any spirits to absorb.
+demigodspiritofshadowuse.11	No target found.
+demigodtransform.1	You got some bonus EXP for ranking up your {0} skill.
+demigodtransform.2	Your {0} skill's rank went down because of insufficient training EXP.
+demigodtransform.3	Your {0} skill's rank may decrease if you continue to use it with insufficient training EXP.
+demigodtransformuse.1	You don't have enough training EXP to use the {0} skill.
+demigodtransformuse.2	You can't access the Demigod form right now.
+dicethrowinguse.1	You need to be holding dice in your right hand.
+dicethrowinguse.2	Unable to find any dice.
+dicethrowinguse.3	You need to be holding dice in your right hand.
+dicethrowinguse.4	Unable to find any dice.
+dischargeuse.1	You need a Shock Crystal.
+dischargeuse.2	Invalid target.
+dischargeuse.3	You can't use Shock for another {1} minute(s).
+dischargeuse.4	You can't use Shock for another {1} second(s).
+dischargeuse.5	You can't use Shock for another {1} minute(s) and {2} second(s).
+dissolutionuse.1	You must be near a Dry Oven to perform fragmentation.
+dissolutionuse.2	You must be near a Dry Oven to perform fragmentation.
+dissolutionuse.3	You must be near a Dry Oven to perform fragmentation.
+dissolutionuse.4	You're going to need both hands free to perform fragmentation.
+dissolutionuse.5	By successfully fragmenting the {0}  \n
+dissolutionuse.6	{1} {0}\n
+dissolutionuse.7	You gained {1} {0}(s).
+dissolutionuse.8	You didn't manage to fragment the {0}.
+dissolutionuse.9	This is the wrong item.
+divinelinkuse.1	There is no target to use the skill on.
+divinelinkuse.2	Your target is too far away.
+divinelinkuse.3	Soul Link will be canceled in 10 sec.
+divinelinkuse.4	You cannot use this skill while you are already linked.
+divinelinkuse.5	The skill cannot be used because the pet is guarding the Personal Shop.
+dorchaconversionuse.1	You don't have enough HP for this skill.
+dorchaconversionuse.2	You can't leech any more Dorcha.
+dorchasnatchuse.1	No target has been set.
+dragonfearruse.1	The dragon's howl makes even the most faithful pets tremble in fear.
+dragonpetbreathfireuse.1	You can't use that skill right now. Try again in {0} seconds.
+dragonpetbreathiceuse.1	You can't use that skill for another {0} second(s).
+dragonpetbreathstoneuse.1	You can't use that skill for another {0} second(s).
+dragonpetbreaththunderuse.1	You can't use that skill for another {0} second(s).
+dragonpetdevilcryuse.1	You can't use that skill for another {0} second(s).
+dragonpetdevilcryuse.2	Your Devil's Cry didn't work.
+dragonpetdevilcryuse.3	Your Devil's Cry didn't work.
+dragonthunderuse.1	The weather suddenly turned gloomy. Strange forces are at work...
+drawingartistuse.1	Line Drawing
+drawingartistuse.2	Sharp Pointillistic Drawing
+drawingartistuse.3	Soft Pointillistic Drawing
+dressshapeshift.1	Obtained the Outfit Action 2 skill.
+dressshapeshiftuse.1	Equip an outfit with the corresponding Outfit Action 2 skill to use this.
+dressshapeshiftuse.2	Equip an outfit with the corresponding Outfit Action 2 skill to use this.
+dressshapeshiftuse.3	Equip an outfit with the corresponding Outfit Action 2 skill to use this.
+dropkickuse.1	You can't use that skill for another {0} seconds.
+dropkickuse.2	Select a target.
+dualgunattackuse.1	Select a target.
+dualgunattackuse.2	Select a target.
+egobluntspecialattackuse.1	You can't use this weapon anymore.
+egocylinderspecialattackuse.1	You can't use this Cylinder anymore.
+egoswordspecialattackuse.1	You can't use this weapon anymore.
+egowandspecialattackuse.1	You can't use this wand anymore.
+elementaluse.1	This has already been enhanced.
+elementaluse.2	You must equip both a Cylinder and a Guard Cylinder at the same time.
+elementaluse.3	All attributes have not been charged yet.
+elfmagicmissile.1	최종 데미지: %f, 활 데미지: %f, 마법 데미지: %f, 유지 시간 팩터: %f, 추가 속성 효과: %f
+elfmagicmissile.2	Final Damage: {0}, Arrow Damage: {1}, Magic Damage: {2}, Duration Factor: {3}, Additional Attributes Effect: {4}
+elfmagicmissileuse.1	You might need to attach a bow or a wand.
+elfmagicmissileuse.2	You can't cast this skill with a wand.
+elfmagicmissileuse.3	You can't cast this skill with a wand.
+elfmagicmissileuse.4	The skill's duration has worn off.
+elfmagicmissileuse.5	엘븐 미사일 범위: 파이어(%1.f) 아이스 (%1.f) 라이트닝(%1.f)
+elfmagicmissileuse.6	Elven Missile Range: Fire({0}) Ice ({1}) Lightning({2})
+elftransformuse.1	You can't transform in your current state.
+elftransformuse.2	You can't use this any more today.
+elftransformuse.3	{0} activated.
+elftransformuse.4	{0} activated.
+elftransformuse.5	Beast Mode is not available in free play.
+emergencyescapeuse.1	You must transform back to normal before you can use Crisis Escape.
+emergencyescapeuse.2	You cannot use {0} right now.
+enchant2use.1	The enchant failed, but the Enchant Protection Potion protected your item from damage.
+enchant2use.2	The enchant failed, but the Enchant Protection Potion protected your item from damage.
+enchant2use.3	The item being enchanted will disappear if the enchant fails at rank 6 or higher.\nThe Spirit inhabiting the weapon will disappear as well.\nAre you sure you want to enchant?
+enchantuse.1	This item's expiration date is nearing.
+ensembleplayuse.1	You need to be Rank C in Musical Knowledge and Playing Instrument to join a Jam Session.
+ensembleplayuse.2	You must be in a Jam Band to join a Jam Session.
+ensembleplayuse.3	You can't use a broken instrument in a Jam Session!
+ensembleplayuse.4	You can't use an expired instrument in a Jam Session!
+ensembleplayuse.5	You can't use enchanted sheet music in a Jam Session.
+ensembleplayuse.6	You should probably be holding an instrument...
+ensembleplayuse.7	To jam, you must be in a Jam Session party or have a partner who can jam summoned.
+ensemblesinguse.1	You need to be at least Rank A in Song and Rank C in Musical Knowledge to use the Chorus skill.
+fakedeathuse.1	You can't use this skill while you're unconscious.
+fakedeathuse.2	You can't do that right now.
+fakedeathuse.3	You cannot use {0} right now.
+fertilizinguse.1	You don't have a field to use that skill on.
+fertilizinguse.2	You need to sow some seeds first.
+fertilizinguse.3	You can't fertilize a field while you're doing other things.
+fertilizinguse.4	You've done enough fertilizing for the day.
+fertilizinguse.5	You couldn't start the fertilization process.
+fertilizinguse.6	You shouldn't fertilize other peoples' fields.
+fertilizinguse.7	You fertilized the field!
+finalshotuse.1	You need to be equipped with a ranged weapon and a projectile.
+finalshotuse.2	You have 10 seconds until the skill ends.
+finalshotuse.3	You need to be equipped with a ranged weapon and a projectile.
+finalshotuse.4	You need to be equipped with a ranged weapon and a projectile.
+finalshotuse.5	You can't seem to teleport to a different region.
+finalshotuse.6	You can't teleport right after a Final Shot.
+finalshotuse.7	You don't have time to teleport there now.
+finalshotuse.8	You don't have enough stamina to teleport.
+finalshotuse.9	You have 10 seconds until the skill ends.
+finalstrikeuse.1	You can use the Final Strike skill for another 10 seconds.
+finalstrikeuse.2	You can't use Final Strike with a 0 durability weapon.
+finalstrikeuse.3	You need a Close Combat talent weapon to use Final Strike.
+fireballuse.1	Use Firebolt enough to\nfill a weapon with Fire Magic.
+fireballuse.2	You can't cast Fireball with a 0 durability staff. 
+fireballuse.3	You need a Fire Wand or Staff.
+fireshielduse.1	Your pet can't use that skill for another {0} second(s).
+firstaiduse.1	You can't use the bandage.
+firstaiduse.2	You can't give first aid in the middle of a battle.
+firstaiduse.3	Your pet doesn't have any bandages in its inventory.
+firstaiduse.4	You can't use that during PvP.
+fishinguse.1	You can't use an expired fishing pole. It will break!
+fishinguse.2	You can't use a Fishing Chair here.
+fishinguse.3	You can't use a Fishing Chair here.
+fishinguse.4	Sort out your temporary inventory first.
+flamealchemyuse.1	You need a Cylinder.
+flamealchemyuse.2	You don't have enough Fire Crystals to do that.
+flamealchemyuse.3	You don't have enough Fire Crystals to attack.
+flownhotairballoonuse.1	You can't launch a Hot-Air Balloon here.
+flownhotairballoonuse.2	You can't launch a Hot-Air Balloon right now.
+flownhotairballoonuse.3	Your Hot-Air Balloon didn't launch...
+flownskylanternuse.1	You can't launch a Sky Lantern here.
+flownskylanternuse.2	You can't launch a Sky Lantern right now.
+formchangeuse.1	You can't use this skill in battle. Try again in {0} second(s).
+freehands.1	Both of your hands must be free.
+freestylejamuse.1	Freestyle Jam cannot be performed here.
+freestylejamuse.2	A Freestyle Jam host must carry an instrument or a microphone.
+freestylejamuse.3	You cannot start the performance right now. Make sure you have the correct Music Score.
+freestylejamuse.4	Freestyle Jam cannot be used during Pure Music Mode.
+fynnsbeadsshininguse.1	Your Fynn Bell's durability has reached 0.
+fynnsbeadsshininguse.2	You need a Fynn Bell in your right hand to use Fynn Bead Burnishing.
+fynnsbeadsshininguse.3	{0}'s burnishing was successful!
+fynnsbeadsshininguse.4	Burnishing failed...\n{0} was destroyed.
+fynnscraftuse.1	Your Fynn Bell's durability has reached 0.
+fynnscraftuse.2	You need a Fynn Bell in your right hand to use Fynn Crafting.
+fynnscraftuse.3	Great success in creating {0}!
+fynnsynchuse.1	Your Fynn Bell's durability has reached 0.
+fynnsynchuse.2	You need a Fynn Bell in your right hand to use Fynn Sync.
+fynnsynchuse.3	Fynn Sync cannot be used because no pet has been summoned.
+fynnsynchuse.4	You cannot Fynn Sync with a Fynni Pet.
+fynnsynchuse.5	You cannot Fynn Sync with the currently summoned pet.
+fynnsynchuse.6	You cannot Fynn Sync with the currently summoned pet.
+fynnsynchuse.7	You cannot Fynn Sync during battle or within a battle area.
+fynnsynchuse.8	You cannot Fynn Sync during battle or within a battle area.
+fynnsynchuse.9	Cannot proceed with Fynn Sync because player is incapacitated.
+fynnsynchuse.10	Cannot proceed with Fynn Sync because pet is incapacitated.
+fynnsynchuse.11	You can only Fynn Sync pets with a cumulative level of 50 or higher.
+fynnsynchuse.12	Pets without an Inventory window cannot become Fynn Pets.
+fynnsynchuse.13	Rank {0}
+fynnsynchuse.14	{0} hr {1} m
+fynnsynchuse.15	{0} has grown into a Fynn Pet.\n
+fynnsynchuse.16	{0}'s Fynni has become stronger than before.\n
+fynnsynchuse.17	{0}'s Fynni has become stronger than before.\n(Earn 5X Training EXP for Fynn Pet Mastery and element skills through Great Success.)\n
+fynnsynchuse.18	{0}'s Fynni has become stronger than before.
+fynnsynchuse.19	\n(Great Success {0} time(s), Success {1} time(s))\n
+fynnsynchuse.20	\nCumulative Level: +{0}
+fynnsynchuse.21	\nPP: +{0}
+fynnsynchuse.22	\nSummon Time: +{0}
+fynnsynchuse.23	\nBag: {0} added
+fynnsynchuse.24	({0} changed)
+fynnsynchuse.25	\nAcquired Perk
+fynnsynchuse.26	\nFynn Pet Mastery: {0}
+fynnsynchuse.27	\nElement: {0}
+fynnsynchuse.28	\nFynn Bead Slot: {0} added
+fynnsynchuse.29	\nFriend Summon Slot: {0} added
+fynnsynchuse.30	{0} has grown into a Fynn Pet.
+fynnsynchuse.31	You cannot Fynn Sync with a partner.
+fynnsynchuse.32	Rank {0} ({1})
+fynnsynchuse.33	{0} {1} Rank ({2})
+fynnsynchuse.34	\n(Earn 5X Training EXP for Fynn Pet Mastery and element skills through Great Success.)
+fynnybloominguse.1	Your Fynn Bell's durability has reached 0.
+fynnybloominguse.2	You need a Fynn Bell in your right hand to use Fynni Blossoming.
+fynnybloominguse.3	You must select a Blossoming Cage to use Fynni Blossoming.\nYou can install a Blossoming Cage on your Homestead.
+fynnybloominguse.4	{0} Fynni Pet blossoming is complete!
+gachaponsynthesisuse.1	합성을 할 수 없는 아이템입니다.
+gachaponsynthesisuse.2	합성 재료를 다시 확인 해 주세요.
+gachaponsynthesisuse.3	{0} 님께서 아이바의 합성 키트를 사용하여 {1} 아이템을 획득하였습니다.
+gachaponsynthesisuse.4	아이바의 합성 키트를 사용한 합성에 성공하여 {0}{을} 얻었습니다.
+gachaponsynthesisuse.5	아이바의 합성 키트를 사용한 합성에 실패했습니다.
+gardeninguse.1	That's not a plant...
+gardeninguse.2	You can't trim that right now. Go see Alpin the Gardener.
+gardeninguse.3	That's being used by someone else right now.
+gardeninguse.4	You can't trim that right now. Go see Alpin the Gardener.
+gardeninguse.5	Time expired.
+giantfullswing.1	The number you entered exceeds the maximum charging time of {0}. Charging time reset to 0.
+giantfullswing.2	Giant Full Swing charging time: {0}
+giantfullswing.3	Damage: {0}%
+giantfullswinguse.1	Select a weapon more appropriate for close-range attacks.
+giantfullswinguse.2	You can't cast Full Swing with a 0 durability staff. 
+giantfullswinguse.3	Select a weapon more appropriate for close-range attacks.
+giantfullswinguse.4	You can't cast Giant Full Swing with a 0 durability staff.
+giantfullswinguse.5	There's nothing nearby to use Giant Full Swing on. 
+giantfullswinguse.6	There's nothing nearby to use Giant Full Swing on.
+giantfullswinguse.7	The skill's standby time has run out, and it will be canceled.
+giantthrowattackuse.1	Select a throwing weapon.
+giantthrowattackuse.2	You can't use this Atlatl anymore.
+giantthrowattackuse.3	You need to equip an Atlatl.
+giantthrowattackuse.4	You can't use an expired Atlatl.
+giantthrowattackuse.5	You can't use that skill for another {0} second(s).
+gianttransformuse.1	You can't transform in your current state.
+gianttransformuse.2	You can't use this any more today.
+gianttransformuse.3	Giant Beast Mode activated.
+gianttransformuse.4	Beast Mode is not available in free play.
+glovethrowingsnowuse.1	Your hands are too delicate to gather a snowball.
+goldentimeuse.1	This has already been enhanced.
+goldentimeuse.2	This has already been enhanced.
+goldentimeuse.3	You must equip both a Cylinder and a Guard Cylinder at the same time.
+goldstrikeuse.1	You can't use this skill for another {0} second(s).
+goldstrikeuse.2	You don't have enough gold to throw.
+groupmotion.1	All party members must have the same group gesture equipment on.
+groupmotion.2	All party members must have the same group gesture equipment on.
+groupmotion.3	You learned a group gesture.
+groupmotionuse.1	You can't use a group gesture with other equipment in your hands.
+groupmotionuse.2	You can't use a group gesture with other equipment on.
+groupmotionuse.3	You can't use this while you're spreading your wings.
+gunfrenzyuse.1	You don't have enough Stamina for this skill.
+gunfrenzyuse.2	You can't use that skill for another {0} second(s).
+gunreloaduse.1	You can't do that right now.
+gunreloaduse.2	Cannot be used when fully loaded.
+gunreloaduse.3	Cannot be used without Mana Bullets.
+gunreloaduse.4	Cannot be used without Mana Bullets.
+hammergameuse.1	This isn't a Hammer Game machine.
+hammergameuse.2	You can't join this game.
+handicraftuse.1	This item has expired.
+handicraftuse.2	You can't make this during the Christmas event.
+handicraftuse.3	This product is {0}-exclusive.
+healing2use.1	You can't heal in the middle of a battle.
+healing2use.2	You can't use that during PvP.
+healing2use.3	You don't have enough Stamina to use Healing on yourself.
+helperapi.1	This is the wrong item.
+helperapi.2	You need a Cylinder.
+helperapi.3	You can't use the {0} skill for another {1} minute(s).
+helperapi.4	You can't use the {0} skill for another {1} second(s).
+helperapi.5	You can't use the {0} skill for another {1} minute(s) and {2} second(s).
+helperapi.6	You can't use this {0} for another {1} minute(s).
+helperapi.7	You can't use this {0} for another {1} second(s).
+helperapi.8	You can't use this {0} for another {1} minute(s) and {2} second(s).
+helperapi.9	You have to install a Tower Cylinder first.
+helperapi.10	You need a Cylinder or Tower Cylinder.
+helperapi.11	Ice
+helperapi.12	Fire
+helperapi.13	Lightning
+helperapi.14	Your weapon's {0} stat will be enhanced by {1}.
+helperapi.15	You must have knuckles equipped.
+helperapi.16	You must equip a Control Bar to use this skill.
+helperapi.17	You must equip a Control Bar to use this skill.
+helperapi.18	You must be equipped with a Dual Gun.
+helperapi.19	Not enough Mana Bullets.
+helperapi.20	You don't have enough Crystals.
+helperapi.21	You don't have enough Crystals.
+helperapi.22	You can't play this instrument here.
+helperapi.23	You must equip either an instrument or a Microphone.
+helperapi.24	You need an instrument.
+helperapi.25	You need a Microphone.
+helperapi.26	Your instrument is broken.
+helperapi.27	Your Microphone is broken.
+helperapi.28	This instrument has expired.
+helperapi.29	This Microphone has expired.
+helperapi.30	You cannot use Fantastic Chorus right now.
+helperapi.31	You cannot use Fantastic Chorus right now.
+helperapi.32	You must equip a shuriken.
+helperapi.33	You need to equip the Chain Blade.
+helperapi.34	You can't use this weapon anymore.
+helperapi.35	You can't use expired weapons.
+helperapi.36	There aren't many stored crystals left.
+heulwenengineeringuse.1	Production Form
+heulwenengineeringuse.2	This product is {0}-exclusive.
+heulwenengineeringuse.3	You're too far away.
+heulwenengineeringuse.4	You do not have enough MP to make that many at once.
+iceshielduse.1	Your pet can't use that skill for another {0} second(s).
+icespearuse.1	You need an Ice Wand.
+icespearuse.2	You can't use that against this target.
+icespearuse.3	Use Icebolt enough to\nfill a weapon with Ice Magic.
+icespearuse.4	You can't cast Ice Spear with a 0 durability staff.
+icespearuse.5	You need an Ice Wand or Staff.
+infectionuse.1	Talek's mysterious power seems to have ensnared you.
+infiniteslashuse.1	You can't reach that without falling out of the raft.
+insectcontroluse.1	You don't have a field to use that skill on.
+insectcontroluse.2	You need to sow some seeds first.
+insectcontroluse.3	You can't catch a bug while you're doing other things.
+insectcontroluse.4	You've done enough bug catching for the day.
+insectcontroluse.5	You couldn't start catching bugs.
+insectcontroluse.6	You shouldn't take bugs from other peoples' fields.
+insectcontroluse.7	You caught bugs from your field!
+installkioskuse.1	You can't install a Kiosk without your {0}.
+installkioskuse.2	You must purchase a Kiosk from a shop.
+installkioskuse.3	There are no Kiosks you can use.
+installkioskuse.4	There are no Kiosks you can use.
+installkioskuse.5	You need a Kiosk in your inventory.
+installkioskuse.6	You can't install a Kiosk in this area.
+installkioskuse.7	You can't install a Kiosk here.
+installkioskuse.8	You can't install a Kiosk here.
+installkioskuse.9	You can't install a Kiosk so close to another Kiosk.
+installkioskuse.10	{0}'s Kiosk
+installkioskuse.11	Trade Restriction Protection is currently active to prevent possible fraudulent credit card transactions.\nThis restriction will end in {0} day(s) {1} hour(s) {2} minute(s).\nUntil then, all trade-related actions are prohibited.\nTry again after this restriction has been lifted.
+installkioskuse.12	Trade Restriction Protection
+installturret.1	You learned the equip/cancel action for the Tower Cylinder.
+installturretuse.1	You could learn to use that more efficiently\nif you studied under the alchemist who invented the Tower Cylinder.
+installturretuse.2	This area is too unstable to safely install a Tower Cylinder. 
+installturretuse.3	You can't install that indoors!
+installturretuse.4	This Tower Cylinder cannot be installed.
+installturretuse.5	You can't install the Tower Cylinder right now.
+installturretuse.6	You need a Tower Cylinder.
+intensiveprovocationuse.1	You don't have enough Phantasmal Remnants for this technique.
+intensiveprovocationuse.2	You don't have enough Phantasmal Remnants for this technique.
+intensiveprovocationuse.3	[{0}]'s Tenacious Taunt is now active on [{1}].\nCurrently stacking with Taunt effects.\nMonster aggro redirected while active.
+intensiveprovocationuse.4	[{0}]'s Tenacious Taunt is now active on [{1}].\nMonster aggro redirected while active.
+interveneuse.1	You can't use Shield right now.
+lancecharge.1	You're too close to perform a Lance Charge.
+lancechargeuse.1	You need to have a lance equipped to use this skill.
+lancechargeuse.2	This mount isn't made for Lance Charges.
+lancechargeuse.3	This is too heavy to use.
+lancechargeuse.4	Only the mount's owner can use this skill.
+lancestanceuse.1	You need to have a lance equipped to use this skill.
+lancestanceuse.2	You can't use that skill for another {0} second(s).
+lifedrainalchemyuse.1	You can't use Life Drain when your HP is full.
+lifedrainalchemyuse.2	You can't transform into a Dark Knight during Life Drain.
+lifedrainalchemyuse.3	You must have a Cylinder equipped to use Life Drain.
+lifedrainalchemyuse.4	You must have crystals to use Life Drain.
+lifedrainalchemyuse.5	You must have crystals to use Life Drain.
+lifedrainalchemyuse.6	You're out of range. Skill canceled.
+lifedrainalchemyuse.7	The target is all out of HP to drain.
+lifedrainalchemyuse.8	You're not going to get any HP out of that...
+lifedrainalchemyuse.9	Life Drain isn't working!
+lifedrainalchemyuse.10	Life Drain cannot be used by a disarmed Dark Knight.
+lightningroaduse.1	You can't cast Lightning Rod with a 0 durability staff.
+lightningshielduse.1	Your pet can't use that skill for another {0} second(s).
+magiccraftuse.1	Production Form
+magiccraftuse.2	This product is {0}-exclusive.
+magiccraftuse.3	You're too far away.
+magiccraftuse.4	You do not have enough MP to make that many at once.
+makechocostatueuse.1	The event has ended.
+makechocostatueuse.2	The item's durability has been exhausted. You can't use it anymore.
+makechocostatueuse.3	You'll need some chocolate to make a Monster Cookie.
+makechocostatueuse.4	This monster would make a horrible looking cookie...
+makechocostatueuse.5	Who wants to eat a chocolate that looks like a sad, unconscious monster?
+makechocostatueuse.6	The monster disappeared.
+makechocostatueuse.7	You couldn't make the Monster Cookie.
+makechocostatueuse.8	You made a Monster Cookie!
+makechocostatueuse.9	The Monster Cookie didn't turn out right.
+makechocostatueuse.10	Chocolate Ingredient not found.
+makechocostatueuse.11	Chocolate Ingredient not found.
+makefaliasportaluse.1	A portal to Falias has already been created. Leave your party and try again.
+makefaliasportaluse.2	A portal to Falias has already been created. Try again later.
+makefaliasportaluse.3	You can't do that on a mount.
+makefaliasportaluse.4	You can't do that here.
+makefaliasportaluse.5	You can't do that here.
+makefaliasportaluse.6	You can't do that here.\nGo somewhere else and give it a shot!
+makefaliasportaluse.7	You need a Fragment of Falias\nto open the gate to Falias.
+makefaliasportaluse.8	You can't do that here.\nGo somewhere else and give it a shot!
+makefaliasportaluse.9	You need a Fragment of Falias\nto open the gate to Falias.
+makeillusiondecaluse.1	You're slowing losing strength.
+manaforminguse.1	You need a Steam Oven to perform Mana Crystallization.
+manaforminguse.2	You must be near a Steam Oven to perform Mana Crystallization.
+manaforminguse.3	{0} created successfully!
+manaforminguse.4	Your {0} didn't turn out...
+manaforminguse.5	This product is {0}-exclusive.
+manarecoveryuse.1	Staff or Wand
+manashielduse.1	You don't have enough MP to keep up a Mana Shield.
+manashielduse.2	You can't use Mana Shield in this state.
+manashielduse.3	You don't have enough MP to cast Mana Shield.
+marionettecontroluse.1	You are already using another skill.
+marionettecontroluse.2	You can only control your puppet when it's alive.
+marionettecontroluse.3	You can't control your puppet while resting.
+marionettecontroluse.4	You can't control your puppet while hiding.
+marionettesummonuse.1	You don't have enough Stamina for this skill.
+marionettesummonuse.2	You can't use this here.
+marionettesummonuse.3	정숙 지역 안에 있으므로 소환을 할 수 없습니다.
+metalextractionuse.1	You'll need a Dry Oven to perform {0}.
+metalextractionuse.2	You must be near a Dry Oven to perform {0}.
+metalextractionuse.3	{0} created successfully!
+metalextractionuse.4	Your {0} didn't turn out...
+metallurgyuse.1	This tool is too worn out to use.
+metallurgyuse.2	This item has expired.
+metallurgyuse.3	You need a Metallurgy Sieve in your right hand to perform Metallurgy.
+metallurgyuse.4	You can't use this skill in a camp.
+metallurgyuse.5	You can't use this skill aboard a ship.
+metallurgyuse.6	You didn't find anything.
+metallurgyuse.7	You didn't find anything.
+metallurgyuse.8	Your equipment's durability has reached 0.
+metallurgyuse.9	Your equipment's durability has reached 0.
+metallurgyuse.10	Metallurgy failed.
+metallurgyuse.11	It doesn't look like you can use your Metallurgy skill here.
+meteorstrikeuse.1	You can't cast Meteor Strike with a 0 durability staff. 
+meteorstrikeuse.2	Staff required.
+mightofladecause.1	You can't use this any more today.
+millinguse.1	This product is {0}-exclusive.
+movingcastinguse.1	Spellwalk canceled. Not enough Stamina.
+movingcastinguse.2	You can't use Spellwalk right now.
+movingcastinguse.3	You don't have enough Stamina to use Spellwalk.
+msg.administrativepicking.fail	You couldn't get a hold on the item.
+msg.administrativepicking.success	You picked it up!
+msg.advreading_alreadyread	You've already read this book.
+msg.advreading_bookvanished	The force of the Black Seal zapped the book out of existence!
+msg.advreading_fail	You tried to understand the book, but it was a little over your head.
+msg.advreading_sealvanished	The Magic Seal seems to have vanished.
+msg.advreading_successbutnoresult	You read the book from cover to cover,\nand still didn't get anything out of it...
+msg.arrowrevolver.unable_durability	You can't use this weapon anymore.
+msg.arrowrevolver_cannot_brokenbow	You can't use this bow anymore.
+msg.arrowrevolver_weaponbroken	You can't use this bow anymore.
+msg.bigblessing_cannot_expired	You can't use expired items.
+msg.bigblessing_used	The Massive Holy Water blessed everything you had equipped!
+msg.bigelemental.success	You use the {0} on your equipment.
+msg.blacksmith.just_before	Final Stage remaining
+msg.blacksmith.progressed	{0}% completed.
+msg.blacksmith_forgerequired	You need an anvil.
+msg.blacksmith_manualbroken	You can't use this blueprint anymore. It's too faded.
+msg.blacksmith_quality_best	Your hard work produced a very nice {0}!
+msg.blacksmith_quality_better	Your efforts created an above-average {0}!
+msg.blacksmith_quality_dec	(Quality Downgrade)
+msg.blacksmith_quality_dec_item	The combination of tools and materials backfired, but at least you still have your fingers. (Quality Downgrade)
+msg.blacksmith_quality_even	(Quality 0%)
+msg.blacksmith_quality_even_item	The combination of tools and materials didn't do much of anything. (Quality 0%)
+msg.blacksmith_quality_god	You created a godly {0}! Excellent work!
+msg.blacksmith_quality_inc	(Quality +1%)
+msg.blacksmith_quality_inc_item_best	The combination of tools and materials was quite good! (Quality +{0}%)
+msg.blacksmith_quality_inc_item_better	The combination of tools and materials was good! (Quality +{0}%)
+msg.blacksmith_quality_inc_item_normal	The combination of tools and materials was mostly functional! (Quality +{0}%)
+msg.blacksmith_quality_normal	Your creation is just as good as anything you can get from a store.
+msg.blacksmith_quality_reasonable	Your creation is far superior to anything you can get from a store.
+msg.blacksmith_quality_waste	Your {0} isn't really fit for use. Maybe you could get some decent scrap wood out of it.
+msg.blacksmith_quality_worse	Your creation could be nice with a few repairs.
+msg.blacksmith_quality_worst	You managed to finish the {0}, but it's pretty low quality.
+msg.blacksmith_resultbad	Failed...
+msg.blacksmith_resultbest	A smashing success!!!
+msg.blacksmith_resultfailbutitemcreated	It's really... something. At least it's done!
+msg.blacksmith_resultgood	Success!
+msg.blacksmith_resultgood2	Success!
+msg.blacksmith_resultgoodbuttooeasy	That was way too easy.
+msg.blacksmith_resultworst	Yikes. That was terrible. Are you feeling okay?
+msg.blacksmith_tool_required_prepare	You need a Hammer in your right hand\nand a Blacksmith Manual in your left.
+msg.blacksmith_toolbroken	You can't use this Blacksmith Hammer anymore.
+msg.blacksmith_toolrequired	You need a Hammer in your right hand\nand a blueprint in your left.
+msg.blessing_complete	You blessed the item with the Holy Water of Lymilark.
+msg.blessing_select_item	Select an item to bless.
+msg.blockworld.auth_warning	You must at least have GM rights,\nand must have either a GM or devCAT title.
+msg.blockworld.instruction	Clicking on the ground will make a crash prop appear, and clicking on the crash prop will make the prop disappear.\nSince this is a GM skill, all usage will be recorded in the log. 
+msg.campfire.not_enough_firewoods	You don't have enough Firewood for this skill.
+msg.campfire_campsharing_enabled	Eat the food to share its bounty with others at the camp.
+msg.campfire_fell	The fire feels warm and pleasant.
+msg.campfire_make_desc	This is a good spot for a campfire.
+msg.campfire_make_requirementdesc	Firewood
+msg.campfire_make_title	Making Campfire
+msg.campfire_notusable_position	You can't make a Campfire in this area.
+msg.campfire_relaxation_effect	Your Rest skill's recovery speed has increased.
+msg.campfire_something_intersected	There's something moving toward your Campfire spot.
+msg.campfire_too_near_from_another	You're too close to another Campfire to make your own.
+msg.campfire_toonarrow	It's a little cramped here to make a Campfire.
+msg.campkit_cannot_expired	You can't use expired items.
+msg.chaingun_cannot_brokenbow	You can't use this bow anymore.
+msg.chaingun_cannot_noarrow	You need at least 5 arrows to use this.
+msg.collecting.cannot_from_keeper_pet	You can't gather things from a pet that's guarding a Personal Shop.
+msg.collecting.cannot_in_camp	You can't gather things inside camp.
+msg.collecting.cannot_in_ship	You can't gather things aboard a ship.
+msg.collecting.master_not_permitted	Sharing has been disallowed on this pet.
+msg.collecting.pet_not_permitted	Sharing has been disallowed.
+msg.compose.bardsong_added	{0} has been added to the music score.
+msg.compose_selectscrol	Select a scroll to use for your Music Score.
+msg.cook.know_essential_1	You realized that you need {1} for the {0}.
+msg.cook.know_essential_2	It appears that {1} is included in the ingredients for the {0}.
+msg.cooking_cannot_broken	You can't use this {0} anymore.
+msg.cooking_cannot_noprop	You cannot {0} anything without a nearby {1}.
+msg.cooking_failed	Cooking Failed
+msg.cooking_helpmsg_less	There may have been {1}-{2} less {0} than required.
+msg.cooking_helpmsg_much	There may have been {1}-{2} more {0} than required.
+msg.cooking_quality_best	You just made a delicious dish!
+msg.cooking_quality_better	You just made a tasty dish!
+msg.cooking_quality_normal	You just made an edible dish.
+msg.cooking_quality_worse	You just made a pretty unappetizing dish...
+msg.cooking_quality_worst	You just made a dish... that you probably shouldn't eat. Yuck!
+msg.cooking_tool_required_prepare	You need cooking tools in both hands to make anything decent.
+msg.darknight.free_user	메인스트림 시나리오와 관련된 기능은\n무료 플레이에는 포함되어 있지 않습니다.
+msg.darknight.pvp_disabled	다크나이트로 변신한 상태에서 팔라딘과 PVP를 할 수 없습니다.
+msg.darknight.pvp_disabled_with_paladin	You can no longer PvP against Paladins as a Dark Knight.
+msg.darknight.pvp_enabled	다크나이트로 변신한 상태에서 팔라딘과 PVP를 할 수 있습니다.
+msg.darknight.tamescroll_not_found	The Dark Knight's magic scroll is missing.
+msg.darknight.transform_begin	다크나이트 특수 스킬이 발동되었습니다.
+msg.darknight.transform_disabled	현재 변신 가능한 상태가 아닙니다.
+msg.darknight.you_have_to_pay	All functions related to Storyline Quests\nare not included in the free-to-play option.
+msg.darknignt.pvp_enabled_with_paladin	You can now PvP against Paladins as a Dark Knight.
+msg.darknignt.special_skill_on	Dark Knight special skills activated.
+msg.dyeing_cannot_expired	This Dye Ampoule is expired.
+msg.dyeing_cannot_expired2	You can't use expired items.
+msg.dyeing_select_item	Select an item to dye.
+msg.enchant2_item_lost_warning	If the Enchant fails while your skill is Rank 6 or above, the item may be destroyed. \nWould you still like to proceed?
+msg.enchant2_item_lost_warning_title	Warning
+msg.enchant2_no_option_to_enchant	No enchantment options available. \nThis scroll is expired.
+msg.enchant2_scroll_broken	This scroll is no longer valid for enchantment.
+msg.enchant2_select_item	Select an item to enchant.\nEnchant Rank {0}\nChance for Success: {1}
+msg.enchant2_tool_required	You must equip Magic Powder in your right hand, and an Enchant Scroll in your left.
+msg.enchant2_use_level_limit	Your Enchant skill must be Rank 5 or above to use this Enchant Scroll.
+msg.enchant2_use_level_limit2	Your Enchant skill must be Rank 5 or above to use this Enchant Scroll.
+msg.enchant2_warning_two_option_enchant	This Enchant Scroll contains two options.\nIt will need to be burned in a Campfire before use.
+msg.enchant_cannot_brokenscroll	This scroll is no longer valid for enchantment.
+msg.enchant_use_expired_scroll	No enchantment options available. \nThis scroll is expired.
+msg.enchant_use_scroll_not_durability_max	This scroll alone is not enough for an enchantment.
+msg.enchant_use_scroll_warning_two_option	This Enchant Scroll contains two options.\nIt will need to be burned in a Campfire before use.
+msg.enchant_use_select_item	Select an item to enchant.\nEnchant Rank {0}\nChance for Success: {1}
+msg.enchant_use_select_item_elemental	Select an item to enchant.\nChance for Success: {0}
+msg.fireball.unable_nowand	You need a Fire Wand.
+msg.firstaid_bandage_needed	You do not have any bandages.
+msg.firstaid_fail_target_moved	Failed. Your target moved.
+msg.fishing.level_limit	You don't have the sufficient skills or level to use the {0}
+msg.fishing.level_limit2	You don't have the sufficient skills or level to use the {0}
+msg.fishing.unable_durability	You can't use this Fishing Rod anymore.
+msg.fishing.unable_notool	You need a Fishing Rod in your right hand\nand a Bait Tin in your left.
+msg.fishing.unable_too_close	There's someone else trying to fish nearby. Give them some space.
+msg.guild_create.already_have_guildstone	The Guild Stone has already been created!
+msg.guild_create.failed_guildstone	Guild Stone building failed. See if there is another Guild Stone nearby.
+msg.guild_create.no_guild_master	Only the Guild Leader can put up a Guild Stone.
+msg.guildpendant_not_field	You need to be out in the field to set up a Guild Stone.
+msg.guildpendant_to_near_from_another	You're too close to another Guild Stone to put yours up.
+msg.guildpendant_unallowdposition	You can't install a Guild Stone in this area.
+msg.guildpendant_unallowdposition2	You can't install a Guild Stone in this area.
+msg.guildpendant_use_info	Use the pendant to place a Guild Stone; a symbol of your Guild's glory.\nGuild Stones cannot be installed in towns, on the road, or indoors.\nOnce the Guild Stone is placed, it can never be moved.
+msg.handicraft.broken_tool	Your Handicraft Kit's durability has reached 0.
+msg.handicraft.no_tool	You're going to need a Handicraft Kit for that.
+msg.handicraft_manualbroken	You can't use this manual anymore. It's in bad shape!
+msg.handicraft_manualbroken_prepare	You can't use this manual anymore. It's in bad shape!
+msg.handicraft_toolbroken	You can't use this Handicraft Kit anymore.
+msg.handicraft_toolbroken_prepare	You can't use this Handicraft Kit anymore.
+msg.handicraft_toolrequired	You need a Handicraft Kit in your right hand\nand materials or a Manual in your left.
+msg.housing.inventory_gold_max	Your safe is too full or you can't afford the fees. Stopping production.
+msg.housing.pay_prop_using	You paid a rental fee of {0} gold.
+msg.housing.prop_durability_zero	Your production equipment has been exhausted and is no longer fit for use.
+msg.housing.prop_incompleted	You can't use a half-finished item.
+msg.housing.prop_not_enough_money	You need {0} gold to use this equipment.
+msg.housing.prop_not_found	The tenant has exhausted this production equipment.
+msg.housing.prop_rental_fee_changed	The rental agreement has changed.\nTake a look at the new rental fee before you try again.\nFee Change: {0} -> {1} gold
+msg.housing.prop_unusable	This equipment is currently unusable.\nPlease contact the owner.
+msg.icebolt_notenogh_mana	You don't have enough MP for this skill.
+msg.icebolt_notenogh_stamina	You don't have enough Stamina for this skill.
+msg.infinite_slash.10seconds_left	You can use the Final Hit skill for another 10 seconds.
+msg.infinite_slash.cannot_use_yet	You can't use that skill for another {0} second(s).
+msg.infinite_slash.cannot_warp_by_distance	You're out of range to teleport.
+msg.infinite_slash.cannot_warp_by_obstruction	There's something in the way of your teleport.
+msg.infinite_slash.cannot_warp_by_stamina	You don't have enough Stamina to teleport.
+msg.lrod.cannot_find_anything	You didn't find anything.
+msg.lrod.cannot_use_here	You can't use that here.
+msg.milling_productionview_title	Production Form
+msg.milling_success	{0} created successfully!
+msg.milling_windmill_inactivated	The Mill isn't working.
+msg.milling_windmill_needed	You need access to the Mill.
+msg.paladin.pvp_disabled_with_darknight	You can no longer PvP against Dark Knights as a Paladin.
+msg.paladin.pvp_enabled_with_darknight	You can now PvP against Dark Knights as a Paladin.
+msg.paladin.skill_effect	{0}{이} 발동되었습니다.
+msg.paladin.skill_effect2	{0}{이} 발동되었습니다.
+msg.paladin.skill_on	{0} activated.
+msg.paladin.unable_cannot_freeuser	All functions related to Storyline Quests\nare not included in the free-to-play option.
+msg.paladin.unable_cannot_more	You can't use this any more today.
+msg.paladin.unable_transform_status	You can't transform in your current state.
+msg.partyhealing.no_healer_wand	You need a Healing Wand.
+msg.play_resultbad	You really put on a terrible performance.|Hopefully nobody else noticed your mistakes.
+msg.play_resultbad_higherscroll	This song may be a bit too difficult. | You'll need to practice hard to master this song.
+msg.play_resultbest	That was a perfect song.|Your song came from the heavens!
+msg.play_resultgood	You did a fine job.|Your abilities are improving.
+msg.play_resultgood_higherscroll	You gave a great performance.|That really boosted your confidence.
+msg.play_resultworst	That was a disaster. | Somewhere a master musician is weeping.
+msg.play_resultworst_higherscroll	You definitely were not ready to play that song.|That even hurt YOUR eardrums.
+msg.play_resultworst_lowerscroll	That was an easy song, but you still blew it.|Both the music selection and the performance were uninspired.
+msg.play_resultworst_lowerscroll_goodplay	You did a good job, but you'll never get better if you keep playing the same old songs.
+msg.play_toolbroken	You can't play music on a broken instrument!
+msg.playing.bard_no_effect	The performance didn't seem to do anything
+msg.poison_potion_added	 has been coated with poison.
+msg.poison_potion_pick_item	Select an item to coat with poison.
+msg.portionmaking.successmsg	{0} created successfully!
+msg.portionmaking.title	Production Form
+msg.portionmaking.unable_durability	Your Potion Concoction Kit is no longer usable.
+msg.portionmaking.unable_insuff_mana	You do not have enough MP to make that many at once.
+msg.portionmaking.unable_notool	You need a Potion Concoction Kit to make potions!
+msg.powershot_cannot_brokenbow	You can't use this bow anymore.
+msg.rangedattack_weaponbroken	You can't use this bow anymore.
+msg.refine_cannot_barehand	You'll need a free right hand to refine metal.
+msg.refine_fail	That didn't work out at all.
+msg.refine_forge_required	You need access to a Furnace.
+msg.refine_prop_inactivated	The Waterwheel isn't working, \nand that means the Furnace won't fire.
+msg.refine_prop_required	You need access to a Furnace.
+msg.refine_success	{0} created successfully!
+msg.sketch.cannot_earn_exp	Nothing to see here.
+msg.sketch.cannot_find_sketchbook	Sketch book not found.
+msg.sketch.cannot_sketch_dead_monster	You can't sketch a dead monster. That's just sad.
+msg.sketch.cannot_sketch_goodchar	You can't sketch characters that aren't monsters. They'll get embarrassed.
+msg.sketch.cannot_sketch_moving_monster	The monster moved and ruined your sketch!
+msg.sketch.cannot_sketch_now	You can't Sketch for another {0} second(s).
+msg.sketch.exploexp	Exploration EXP: +{0}
+msg.sketch.invalid_monster	You can't sketch this monster.
+msg.sketch.invalid_prop	You can't sketch this thing.
+msg.sketch.minute	{0} minute(s)
+msg.sketch.second	{0} second(s)
+msg.sketch.sketch_general_prop	You sketched a piece of nature!
+msg.sketch.sketch_monster	You got a great sketch of the {0}!
+msg.sketch.sketch_prop	You got a great sketch of the {0}!
+msg.tailoring.just_before	Final Stage remaining
+msg.tailoring.progressed	{0}% completed.
+msg.tailoring_failbutitemcreated	It's really... something. At least it's done!
+msg.tailoring_manualbroken	You can't use this Sewing Pattern anymore. You'll stab your fingers!
+msg.tailoring_quality_best	Your hard work produced a very nice {0}!
+msg.tailoring_quality_better	Your efforts created an above-average {0}!
+msg.tailoring_quality_dec	(Quality Downgrade)
+msg.tailoring_quality_dec_item	The combination of tools and materials backfired, but at least you still have your fingers. (Quality Downgrade)
+msg.tailoring_quality_even	(Quality 0%)
+msg.tailoring_quality_even_item	The combination of tools and materials didn't do much of anything. (Quality 0%)
+msg.tailoring_quality_god	You created a godly {0}! Excellent work!
+msg.tailoring_quality_inc	(Quality +1%)
+msg.tailoring_quality_inc_item_best	The combination of tools and materials was quite good! (Quality +{0}%)
+msg.tailoring_quality_inc_item_better	The combination of tools and materials was good! (Quality +{0}%)
+msg.tailoring_quality_inc_item_normal	The combination of tools and materials was mostly functional! (Quality +{0}%)
+msg.tailoring_quality_normal	Your creation is just as good as anything you can get from a store.
+msg.tailoring_quality_reasonable	Your creation is far superior to anything you can get from a store.
+msg.tailoring_quality_waste	Your {0} isn't really fit for use. Maybe you could get some decent scrap wood out of it.
+msg.tailoring_quality_worse	Your creation could be nice with a few repairs.
+msg.tailoring_quality_worst	You managed to finish the {0}, but it's pretty low quality.
+msg.tailoring_resultbad	That didn't go so well...
+msg.tailoring_resultbest	You created a masterpiece!
+msg.tailoring_resultgood	Success!
+msg.tailoring_resultgood2	Success!
+msg.tailoring_resultgoodbuttooeasy	You did it, but that was way too easy.
+msg.tailoring_resultworst	Catastrophic failure!
+msg.tailoring_toolbroken	You can't use this Tailoring Kit anymore.
+msg.tailoring_toolrequired	You need a Tailoring Kit in your right hand\nand a Sewing Pattern in your left.
+msg.tame.desc	몬스터 길들입니다.
+msg.tame.fail	The taming was unsuccessful. 
+msg.tame.info_tame_time	For {} minute(s),
+msg.tame.no_scroll	다크나이트 마족 스크롤이 없습니다.
+msg.tame.select_moster	길들일 몬스터를 선택하세요.
+msg.tame.select_tame_target	Select a creature to tame.
+msg.tame.success	You tamed a wild {0}!
+msg.tame.trying_tame	Performing the taming ritual...
+msg.tame.unable_tame	This creature is already tame.
+msg.taming.select_monster_to_tame	Choose the creature you want to tame.
+msg.taming.try_to_tame	You begin the taming ritual.
+msg.thunder.need_wand	You need a Lightning Wand.
+msg.townback_cannot_expired	You can't use expired items.
+msg.townbackuse_ask_partyback	Do you want to travel to your party members nearby?
+msg.townbackuse_ask_use	Are you sure you want to move?
+msg.transform.cannot_be_normal_in_arena	You can't transform back in the Battle Arena lobby.
+msg.transform.cannot_be_normal_in_event_arena	이벤트 아레나에서는 변신을 해제할수 없습니다
+msg.transform.cannot_transform_to_darknight	You can't transform in your current state.
+msg.untrain_cannot_expired	You can't use expired items.
+msg.use_resurrection.party_resurr_confirm	Use this item?
+msg.use_resurrection.unable_find_char	There is no one available to revive.
+msg.usebomb.item_expired	You can't use expired items.
+msg.useitemressurection_info_rewardexp	Revival EXP +{0}
+msg.useitemresurrection_remote_failed	Either the name you entered doesn't exist, or that character isn't unconscious. 
+msg.weaving2_fail	That didn't work out at all.
+msg.weaving2_farfrom_prop	You can't reach a Spinning Wheel or Loom from here.
+msg.weaving2_productionview_title	Production Form
+msg.weaving2_prop_required	You need access to a Spinning Wheel or Loom.
+msg.weaving2_success	{0} created successfully!
+msg.weaving_cannot_barehand	You're going to need both hands free to weave anything.
+msg.weaving_cannot_notool	You need access to a Spinning Wheel or Loom.
+msg.weaving_cannot_tool_toofar	You can't reach a Spinning Wheel or Loom from here.
+msg.windmill_unusable_withnotarget	There isn't a target nearby to use that on.
+musicbattlefielduse.1	{0}'s effects fade away.
+musicbattlefielduse.2	The sound of {0}'s {1} fills the air.\n
+musicbattlefielduse.3	The marvelous sound of {0}'s {1} fills the air.\n
+musicbattlefielduse.4	The haunting sound of {0}'s {1} fills the air.\n
+musicbattlefielduse.5	Your Min ATT increased by {0}%.\n
+musicbattlefielduse.6	Your Max ATT increased by {0}%.\n
+musicbattlefielduse.7	Your critical chance increased by {0}%.
+musiccontractspaceuse.1	{0}'s effects fade away.
+musiccontractspaceuse.2	The sound of {0}'s {1} fills the air.\n
+musiccontractspaceuse.3	The marvelous sound of {0}'s {1} fills the air.\n
+musiccontractspaceuse.4	The haunting sound of {0}'s {1} fills the air.\n
+musiccontractspaceuse.5	Your Movement Speed increased by {0}%.\n
+musicharvestuse.1	{0}'s effects fade away.
+musicharvestuse.2	The sound of {0}'s {1} fills the air.\n
+musicharvestuse.3	The marvelous sound of {0}'s {1} fills the air.\n
+musicharvestuse.4	The haunting sound of {0}'s {1} fills the air.\n
+musicharvestuse.5	Your Production Success Rate increased by {0}%.\n
+musicharvestuse.6	Your Gathering Success Rate increased by {0}%.\n
+musicharvestuse.7	Your Gathering Speed increased by {0}%.\n
+musiclightspeeduse.1	{0}'s effects fade away.
+musiclightspeeduse.2	The sound of {0}'s {1} fills the air.\n
+musiclightspeeduse.3	The marvelous sound of {0}'s {1} fills the air.\n
+musiclightspeeduse.4	The haunting sound of {0}'s {1} fills the air.\n
+musiclightspeeduse.5	Your Magic Charging Speed increased by {0}%.\n
+musiclightspeeduse.6	Your Alchemy Charging Speed increased by {0}%.\n
+musiclightspeeduse.7	Your Attack Speed increased by {0}%.\n
+musicpatienceuse.1	{0}'s effects fade away.
+musicpatienceuse.2	The sound of {0}'s {1} fills the air.\n
+musicpatienceuse.3	The marvelous sound of {0}'s {1} fills the air.\n
+musicpatienceuse.4	The haunting sound of {0}'s {1} fills the air.\n
+musicpatienceuse.5	Your Defense increased by {0}.\n
+musicpatienceuse.6	Your Protection increased by {0}.\n
+musicpatienceuse.7	Your MP Recovery Speed increased by {0}%.\n
+musicpatienceuse.8	Your Stamina Recovery Speed increased by {0}%.\n
+musicpatienceuse.9	Magic defense increased by {0}.\n
+musicpatienceuse.10	Magic protection increased by {0}.\n
+musicpeaceuse.1	The sound of {0}'s {1} fills the air.\n
+musicpeaceuse.2	The marvelous sound of {0}'s {1} fills the air.\n
+musicpeaceuse.3	The haunting sound of {0}'s {1} fills the air.\n
+musicpeaceuse.4	{0} enemies were lulled to sleep.\n
+musicpeaceuse.5	No enemies were lulled to sleep. \n
+musicsinginguse.1	This score is missing the Song section.
+musicsinginguse.2	That was a perfect song.|Your song came from the heavens!
+musicsinginguse.3	You gave a great performance.|That really boosted your confidence.
+musicsinginguse.4	You did a fine job.|You're getting a lot better.
+musicsinginguse.5	The crops seemed to stand up and sway at your song!
+musicsinginguse.6	This song is still difficult for you to sing.|You need to practice this one more often.
+musicsinginguse.7	That was a miserable performance.| Hopefully nobody was in earshot for that one.
+musicsinginguse.8	That was too difficult to sing.|That was horrible.
+musicsinginguse.9	You completely ruined the song.|You should apologize for that performance.
+musicsinginguse.10	You sang it well, but you'll never get any better if you keep singing the same songs.
+musicsinginguse.11	That was an easy song, and you still butchered it.|Not only did you choose a horrible song, you also sang it terribly.
+musicsinginguse.12	The crops seem to shrink into the earth at your song...
+musicsinginguse.13	No singing part is available on the Music Score.
+naturalmagicshielduse.1	Your pet can't use that skill for another {0} second(s).
+newegocylinderincarnate.1	Cylinder
+newegomagicincarnate.1	Staff
+newegomagicincarnate.2	Wand
+newegomeleeincarnate.1	One-handed Sword
+newegomeleeincarnate.2	One-handed Blunt Weapon
+newegomeleeincarnate.3	Hatchet
+newegomeleeincarnate.4	Two-handed Sword
+newegomeleeincarnate.5	Two-handed Blunt Weapon
+newegomeleeincarnate.6	Two-handed Axe
+newegomeleeincarnate.7	Chain Blade
+newegomeleeincarnate.8	Knuckle
+newegomeleeincarnate.9	Lance
+newegomeleeincarnate.10	Control Bar
+newegorangeincarnate.1	Bow
+newegorangeincarnate.2	Crossbow
+newegorangeincarnate.3	Atlatl
+newegorangeincarnate.4	Dual Gun
+newegorangeincarnate.5	Shuriken
+newegoskillbase.1	{0} Spirit Weapon must be equipped to use that.
+newegoskillbase.2	{0} Spirit Weapon must be equipped to use that.
+newegoskillbase.3	Can only be used when Spirit Awakening Energy is at 100%.
+newegoskillbase.4	Able to use the Awakening Skill once more due to the {0} effect.
+newegoskillbase.5	You can't use the Awakening Skill with a 0 durability weapon.
+paladintransformuse.1	이벤트 아레나에서는 변신을 해제할수 없습니다
+paperairplaneuse.1	You're going to need both hands free to throw a paper airplane.
+paperairplaneuse.2	There's already a plane in the air.\nGive it a moment before you throw another.
+paperairplaneuse.3	You don't have any paper.
+paperairplaneuse.4	You couldn't get the paper airplane to fly.
+paperairplaneuse.5	You couldn't figure out how to make a paper airplane.
+paperairplaneuse.6	You don't have any paper.
+partyhealinguse.1	{0}'s party healing skill has increased your DEF by {1}.
+partyhealinguse.2	The party healing effect fades away.
+partyhealinguse.3	Using the party healing effect again will require some time.
+partyhealinguse.4	{0}'s party healing effect has increased your DEF by {1} and your Magic DEF by {2}.
+partyhealinguse.5	You can't use this skill while a party member is engaged in a PvP battle.
+pegasuspetholyrushuse.1	You can't use that skill for another {0} second(s).
+perfumemakinguse.1	Production Form
+perfumemakinguse.2	This product is {0}-exclusive.
+perfumemakinguse.3	This product is {0}-exclusive.
+perfumemakinguse.4	You do not have enough MP to make that many at once.
+perfumemakinguse.5	{0} created successfully!
+petchinesezombietornado.1	The Eastern Vampire has resumed its attack because it could not find its master.
+petdetectionuse.1	The pumpkin's light is out.
+petdetectionuse.2	You can't use Detection in this area.
+petdetectionuse.3	You can't use Detection right now.
+petdetectionuse.4	You don't have enough MP to use Detection.
+petdetectionuse.5	The pumpkin's light flickers to life.
+petdetectionuse.6	The pumpkin's light fades away.
+petenjoyparkbususe.1	You are already in a Great Mood.
+petenjoyparkbususe.2	You'll be able to receive the Joyful Japari Park buff\nafter {0} minutes and {1} seconds.
+petenjoyparkbususe.3	You'll be able to receive the Joyful Japari Park buff\nafter {0} seconds.
+petexcitedalocombo.1	You've gotta keep the beat!
+petexcitedalocombo.2	You're such a party pooper!
+petexcitedalocombo.3	Work on your timing! Match the beat!
+petforgetmenot.1	You've created a new memory with Blaanid!\nDEF increases by {1}.\nProtection increases by {2}.\nMP Recovery Speed increases by {3}%.\nStamina Recovery Speed increases by {4}%.
+pethideuse.1	The master must be mounted to use this skill.
+pethideuse.2	You are already hiding.
+petmakebubbleuse.1	Equip the DevCAT title for guaranteed success!
+petmakebubbleuse.2	The bubbles were all too flimsy!
+petsealuse.1	You can't put a pet up for adoption with that medal on.
+petsealuse.2	Summon and select a pet.
+petsealuse.3	Select a pet for adoption.
+petsealuse.4	You must summon a pet to put it up for adoption.
+petsealuse.5	You can't put this pet up for adoption.
+petsealuse.6	No pets summoned.
+petsealuse.7	You can't put this pet up for adoption.
+petsealuse.8	Your pet's inventory must be empty to offer for adoption.
+petsealuse.9	This pet cannot be adopted again.
+petsealuse.10	Putting {0} up for adoption.
+petsealuse.11	You've failed to put your pet up for adoption.\nPlease try again later.
+petsealuse.12	You can't put this pet up for adoption.
+petsealuse.13	You have selected a Fynni Pet.\nAre you sure you want to use a Pet Adoption Medal on this Fynni Pet?
+petwarpmasteruse.1	You can't use this skill again until 6 am.
+petwarpmasteruse.2	You don't have enough MP for this skill.
+petwarpmasteruse.3	You don't have enough Stamina for this skill.
+petwarpmoveuse.1	You can't use that skill for another {0} second(s).
+petwarpmoveuse.2	The location you're trying to move to is invalid.
+petwarpmoveuse.3	Warp failed.
+petwarpregisteruse.1	You can't use that skill for another {0} second(s).
+petwarpregisteruse.2	Save this location?
+petwarpregisteruse.3	Location saved!
+petwisperoftuan.1	The {0} is blessing you and your party.
+pfhousinginstallfurnitureuse.1	This Furniture cannot be installed.
+pfhousinginstallfurnitureuse.2	You are outside the installable area.
+pfhousinginstallfurnitureuse.3	You cannot install there.
+pfhousinginstallfurnitureuse.4	Max housing item placement exceeded.
+pfhousingredesignfurnitureuse.1	This Furniture cannot be installed.
+pfhousingredesignfurnitureuse.2	You are outside the installable area.
+pfhousingredesignfurnitureuse.3	You cannot install there.
+pfhousingredesignfurnitureuse.4	The number of housing items currently placed exceeds the limit.
+phantomfearuse.1	Phantom's Roar has de-summoned your pet or partner!
+phantomfearuse.2	Phantom's Roar has de-summoned your pet or partner!
+phoenixpetflameofresurrectionuse.1	Phoenix summon canceled.
+phoenixpetflameofresurrectionuse.2	You can't use that skill for another {0} second(s).
+phoenixpetflameofresurrectionuse.3	You've already been blessed by the Flame of Resurrection.
+phoenixpetflameofresurrectionuse.4	The flame wouldn't ignite.
+pillageuse.1	You can't do that.
+piperofhamelinuse.1	Equip an instrument.
+piperofhamelinuse.2	Equip an instrument.
+piperofhamelinuse.3	You don't have any instruments to use.
+piperofhamelinuse.4	Your rank isn't high enough to play this instrument.
+piperofhamelinuse.5	You don't have enough Stamina to keep up your Enthralling Performance.
+piperofhamelinuse.6	You can start another Enthralling Performance in 10 seconds.
+playinginstrument.2	\nHP + Recovers {0}
+playinginstrument.3	\nStamina + Recovers {0}
+playinginstrument.4	\nMP + Recovers {0}
+playinginstrumentuse.1	You can't use an expired instrument to play a song!
+playinginstrumentuse.2	The mysterious powers protecting the mirror have vanished.
+playinginstrumentuse.3	You can't use that during a performance.
+playinginstrumentuse.4	You're too low on MP and Stamina to keep performing.
+playinginstrumentuse.5	You're too low on MP to keep performing.
+playinginstrumentuse.6	You're too low on Stamina to keep performing.
+playinginstrumentuse.7	The performance's effects fade away.
+playinginstrumentuse.8	The score's effects don't seem to be materializing.
+playinginstrumentuse.9	This score won't have any effect with a normal instrument.
+playinginstrumentuse.10	Your music seems to be helping the crops grow.
+playinginstrumentuse.11	The crops don't seem to like your music.
+playinginstrumentuse.12	This isn't a valid music score.
+playinginstrumentuse.13	This music score is all out of magic.
+playinginstrumentuse.14	You can only play this score during a part-time job.
+playinginstrumentuse.15	You can't play your instrument here.
+playinginstrumentuse.16	Someone else is already playing.\nGive them time to finish, then try again.
+playinginstrumentuse.17	You can use that after {0}.
+playinginstrumentuse.18	The Phoenix seems to be dancing around in the egg!
+playinginstrumentuse.19	Nothing happened to the Phoenix egg.
+playinginstrumentuse.20	This score is missing the Instrument section.
+playinginstrumentuse.21	No instrumental part is available on the Music Score.
+potionmakinguse.1	This item has expired.
+potionmakinguse.2	This product is {0}-exclusive.
+poundinguse.1	You can't use that skill for another {0} second(s).
+poundinguse.2	Select a target.
+poundinguse.3	Wait until your enemy has a chance to recover before you Pummel it again.
+poundinguse.4	Your target is resistant to take-downs.
+poundinguse.5	Out of range.
+poundinguse.6	Select a target.
+poundinguse.7	You can't use that.
+powershotuse.1	You can't use expired weapons.
+publicperformanceuse.1	Your donation box is open for business!
+publicperformanceuse.2	Start playing a song, and your donation box will appear.
+publicperformanceuse.3	You can't stop in the middle of a performance.
+rageimpactuse.1	You don't have enough stamina.
+rageimpactuse.2	You can't use Rage Impact with a 0 durability weapon.
+rageimpactuse.3	This weapon is too fragile to use with this combat skill.
+ragingthrustuse.1	There's no target to attack.
+ragingthrustuse.2	There's no target to attack.
+rangedattackuse.1	You can't use expired weapons.
+rangeegosubstantiationuse.1	You can't use this bow anymore.
+raremineralogy.1	There's no Hillwen Ore nearby.
+raremineralogy.2	You're too far away to do any mining.
+raremineralogyuse.1	Your equipment needs to be repaired.
+raremineralogyuse.2	You need a Drill in your right hand to use Rare Mineralogy.
+raremineralogyuse.3	There's no ore to gather here.
+raremineralogyuse.4	There's no ore to gather here.
+raremineralogyuse.5	There's no ore.
+raremineralogyuse.6	You're out of ore.
+raremineralogyuse.7	You didn't get any ore.
+readytofly.1	You can't fly right now.
+recoveryuse.1	You can't use that skill for another {0} second(s).
+refineuse.1	You're not qualified to use the furnace.\nAsk a nearby NPC to help.
+refineuse.2	This product is {0}-exclusive.
+relaxationuse.1	You can't use this skill near a Fishing Chair for 2.
+relaxationuse.2	Too close to another podium.
+relaxationuse.3	You can't place a podium in this area.
+relaxationuse.4	You can't use this skill with the Rock Paper Scissors notification on.
+relaxationuse.5	You can't use this skill during a Rock Paper Scissors match.
+relaxationuse.6	You can't sit on a chair right now.
+relaxationuse.7	A suitable item does not exist.
+relaxationuse.8	Too close to another prop.
+relaxationuse.9	Your meditation has been interrupted because you canceled the Rest skill. All of that meditating you just did counts for nothing!
+relicinvestigationuse.1	이 아이템은 직접 복원할 수 없을것 같다. 보이트에게 가져가 보자.
+rolemotionbase.1	The effects of {0} fill the air!\nYou gain {1}.
+rolemotionbase.2	The effects of {0} fade away.
+rolemotionbaseuse.1	You can't use a Personal skill right now.
+rolemotionbaseuse.2	Another Personal skill is currently in use.
+rolemotionbaseuse.3	You can't use that skill for another {0} second(s).
+runawayuse.1	That probably won't have any effect...
+rush.1	You're too close to perform a Charge.
+rushuse.1	You can't use Charge without a shield equipped.
+rushuse.2	You can't use Charge with a broken shield.
+rushuse.3	This item's expiration date is nearing.
+rushuse.4	You can't use Charge with a long-range weapon equipped.
+rushuse.5	You must have a shield equipped.
+rushuse.6	You can't use Charge with a Chain Blade equipped.
+sandstormuse.1	You need a Cylinder.
+sandstormuse.2	You don't have enough Earth Crystals to do that.
+sandstormuse.3	You don't have enough Earth Crystals to do that.
+sandstormuse.4	{0} didn't succumb to blindness.
+sandstormuse.5	{0} didn't succumb to blindness.
+sandstormuse.6	{0} has been blinded!
+sandstormuse.7	Using Sand Burst too frequently could damage your Cylinder.
+sandstormuse.8	You can't blind this target.
+scarer.1	You need to wear a Halloween outfit to use this.
+screwupperuse.1	You can't use that skill for another {0} second(s).
+screwupperuse.2	Out of range.
+screwupperuse.3	Select a target.
+seesawjumpuse.1	'Response time: {0} ms  Height: {1} m
+seesawjumpuse.2	You can't build a Seesaw here.
+seesawjumpuse.3	The Jump for the Moon event is not in progress.
+seesawjumpuse.4	There's no room for a seesaw here.
+seesawjumpuse.5	You can't jump on a seesaw by yourself. It's too sad.
+seesawjumpuse.6	Current Height %4.2fm
+shadowbindinguse.1	There is no one nearby.
+shadowstealthuse.1	You don't have enough stamina for this skill.
+shadowstealthuse.2	You cannot use {0} right now.
+shockwaveuse.1	You need more MP.
+shockwaveuse.2	You can't use an item with 0 durability.
+shockwaveuse.3	You need either a Staff or a Wand.
+shootingrushuse.1	There's no target to attack.
+shootingrushuse.2	There's no target to attack.
+shovelinguse.1	You need to have landscaping tools equipped.
+shovelinguse.2	You can't change the landscape here.
+shovelinguse.3	You can't change the landscape here.
+shovelinguse.4	Your item's durability has reached 0.
+shurikencharginguse.1	Your target is too far away.
+shurikencharginguse.2	No target selected.
+shurikencharginguse.3	You can't attack that target!
+smashuse.1	You can't use Smash with a Chain Blade equipped.
+snowstormuse.1	You can't use that skill for another {0} second(s).
+snowstormuse.2	You don't have enough Blizzard Crystals to do that.
+snowstormuse.3	You need a Blizzard Crystal.
+snowstormuse.4	You can't use that against this target.
+snowstormuse.5	You can't use that against this target.
+snowstormuse.6	You need a Blizzard Crystal.
+snowstormuse.7	You need a Blizzard Crystal.
+snowstormuse.8	You can't attack right now.
+solidarityofpower.1	Attack with {0}/{1} accumulated damage
+solidarityofpoweruse.1	A party member is using Unified Might.\nTry again after their technique's effects have ended.
+solidarityofpoweruse.2	You don't have enough Phantasmal Amalgams for this technique.
+somersaultkickuse.1	You can't use that skill for another {0} second(s).
+somersaultkickuse.2	Select a target.
+specteruse.1	The summoned pet hides from the spectres.
+spidershotuse.1	You need a long-range weapon.
+spidershotuse.2	You need a long-range weapon.
+spidershotuse.3	You can't use an item with 0 durability.
+spidershotuse.4	You need a Spider Trap.
+spidershotuse.5	You need a Spider Trap.
+spidershotuse.6	That skill seems to be ineffective.
+splintershotuse.1	You can't use this bow anymore.
+splintershotuse.2	You can't use expired weapons.
+splintershotuse.3	You can't use that skill for another {0} second(s).
+sprinklewater.1	You can't use this skill on a target from another race.
+sprinklewater.2	You can't use this skill on an unconscious target.
+sprinklewater.3	You can't use this skill on target that is playing dead.
+sprinklewater.4	You can't use this skill on a sleeping target.
+sprinklewater.5	No target.
+sprinklewateruse.1	You can't use this skill on a moving target.
+stageticketmakinguse.1	You need a Magical Spinning Wheel.
+stageticketmakinguse.2	You can't reach the Magical Spinning Wheel.
+stageticketmakinguse.3	Production Form
+stageticketmakinguse.4	You need a Magical Spinning Wheel.
+stageticketmakinguse.5	You can't reach the Magical Spinning Wheel.
+stageticketmakinguse.6	Production Form
+stageticketmakinguse.7	{0} created successfully!
+stageticketmakinguse.8	That didn't work out at all.
+stageticketmakinguse.9	This product is {0}-exclusive.
+stampedeuse.1	You can't use Stampede with a 0 durability weapon.
+stampedeuse.2	You need a Close Combat talent weapon to use Stampede.
+stopthereuse.1	You need Santa's Hammer equipped to use this skill.
+stopthereuse.2	You can't use this skill on a stunned target.
+sulienecology.1	There are no Shyllien Crystals nearby.
+sulienecology.2	You're too far away to do any mining.
+sulienecologyuse.1	Your equipment needs to be repaired.
+sulienecologyuse.2	You need a Blasted Oak Wand in your right hand to use Shyllien Ecology.
+sulienecologyuse.3	There aren't any Plant Specimens for you to gather here.
+sulienecologyuse.4	There's no ore.
+sulienecologyuse.5	You're out of ore.
+sulienecologyuse.6	You didn't find any Plant Specimens.
+summongolemuse.1	That summon is too much for you to handle.
+summonhydrause.1	You must equip both a Cylinder and a Guard Cylinder at the same time.
+supportpuppetattack.1	You obtained Yui Strike.
+supportpuppetattack.2	Support Puppet Skill
+supportpuppetattack.3	 acquired.
+supportpuppetattackuse.1	You can't use that skill for another {0} second(s).
+supportshotuse.1	You can't use expired weapons.
+synthesisuse.1	You must be near a Dry Oven to perform synthesis.
+synthesisuse.2	You're going to need both hands free to synthesize anything.
+synthesisuse.3	This item is invalid.
+synthesisuse.4	{0} synthesized successfully!
+synthesisuse.5	{0} synthesized successfully!
+synthesisuse.6	Your synthesis attempt went up in flames.
+synthesisuse.7	This oven is not made for synthesis.
+synthesisuse.8	정상적으로 합성을 할 수 없는 아이템입니다.
+tailoringuse.1	This item has expired.
+tailoringuse.2	You can't use items in your temp inventory.
+tailoringuse.3	This item is {0}-exclusive.
+tauntuse.1	No one seemed to notice your taunt...
+thunderlionlightningstrikeuse.1	You can't use the skill if you are too close or too far from the target\nor if there is an obstacle in between.
+thunderlionlightningstrikeuse.2	Select a target to use the skill.
+thunderuse.2	Use Lightning Bolt enough to\nfill a weapon with Lightning Magic.
+thunderuse.3	You can't cast Thunder with a 0 durability staff. 
+thunderuse.4	You need a Lightning Wand or Staff.
+urgentshotuse.1	You cannot use that skill right now.
+useitemaddseasoning.1	Select the dish that needs seasoning.
+useitemaddseasoninguse.1	The effects of the previous seasoning will be overpowered.\nContinue?
+useitemaddseasoninguse.2	You seasoned the food!
+useitemaddseasoninguse.3	That probably won't affect this dish.
+useitemantimacrouse.1	You can't use that item right now.
+useitemantimacrouse.2	You have bot-checked {0}.
+useitemantimacrouse.3	The bot-checking quiz is already in progress.
+useitemantimacrouse.4	This item can only be used on a character that is hunting or gathering.
+useitemantimacrouse.5	You can't use that item for another {0} minute(s).
+useitemantimacrouse.6	You can't use that item for another {0} minute(s).
+useitemantimacrouse.7	Can only be used 20 times each day.
+useitemantimacrouse.8	 Can only be used once per day on the same character.
+useitemantimacrouse.9	You can't use that here.
+useitemantimacrouse.10	This character already passed the quiz a little while ago.
+useitembarrieruse.1	There's no room for Barrier Spikes here.
+useitembarrieruse.2	There's something moving toward your Barrier Spikes.
+useitembigblessinguse.1	The Holy item you're equipping will be blessed. Would you like to use the Massive Holy Water of Lymilark?
+useitemblessinguse.1	The Holy Flame's effect will die out.\nContinue?
+useitembombuse.1	You can't use that during a performance.
+useitembombuse.2	This item cannot be used here.
+useitembondingcharacteruse.1	You can't use that right now. Try again later.
+useitembondingcharacteruse.2	The target has already formed a link with a different character.
+useitembondingcharacteruse.3	Preparing a link with another user.
+useitembondingcharacteruse.4	Only beginners Lv. 300 and below can make a choice.
+useitembondingcharacteruse.5	Select a target to form an EXP Link.
+useitembondingcharacteruse.6	You need to wait another {0} second(s) to use that.
+useitembondingcharacteruse.7	This character is already preparing to form an EXP Link.
+useitembondingcharacteruse.8	EXP Link canceled.
+useitemcampfirekituse.1	You can't start a campfire on a bridge.
+useitemcampfirekituse.2	스키 이벤트 중에는 캠프 파이어를 설치할 수 없습니다.
+useitemcampfirekituse.3	You can't use that here.
+useitemcampfirekituse.4	The fire feels warm and pleasant.\nThe area surrounding the campfire is suffused with the {0}'s rich aroma.\nWhy not rest and relax nearby?
+useitemchattingcolorchange.1	Chat text color changed.
+useitemcherrytreekituse.1	You don't have an available Cherry Blossom Kit.
+useitemdragonsupportuse.1	Summoning dragon...
+useitemdragonsupportuse.2	Summoning dragon...
+useitemdragonsupportuse.3	Summoning dragon...
+useitemdragonsupportuse.4	Gold Dragon
+useitemdragonsupportuse.5	Only the Dragon Knight can blow the Horn Bugle.
+useitemdragonsupportuse.6	You can't use this any more today.
+useitemdragonsupportuse.7	Only the Dragon Knight can blow the Horn Bugle.
+useitemdragonsupportuse.8	You can't use this any more today.
+useitemdragonsupportuse.9	You can't summon a dragon here.
+useitemdragonsupportuse.10	Only the Dragon Knight can blow the Horn Bugle.
+useitemdragonsupportuse.11	You can't use this any more today.
+useitemdragonsupportuse.12	You can't summon a dragon here.
+useitemdragonsupportuse.13	You can't summon a dragon right now.
+useitemdragonsupportuse.14	You can't summon a dragon.
+useitemdragonsupportuse.15	Something is preventing you from summoning Adniel.
+useitemdragonsupportuse.16	Adniel isn't responding to the Horn Bugle.
+useitemdragonsupportuse.17	{0} {1} {2}
+useitemdragonsupportuse.18	You can't use that here.
+useitemdragonsupportuse.19	You can't use Adniel's Horn Bugle here.
+useitemdungeonpassuse.1	You can only use this on a dungeon altar.
+useitemdungeonpassuse.2	You can't use expired items.
+useitemdungeonpassuse.3	An Unrestricted Dungeon Pass will not let you enter this dungeon.
+useitemdungeonpassuse.4	Pets can't use this item.
+useitemdungeonpassuse.5	You can't use this item when another skill is active.
+useitemdungeonpassuse.6	You can't use this item after being knocked down.
+useitemdungeonpassuse.7	You can't use this item in combat.
+useitemdungeonpassuse.8	The Unrestricted Dungeon Pass doesn't work here.
+useitemdungeonpassuse.9	This is not an Unrestricted Dungeon Pass.
+useitemdungeonpassuse.10	You don't have an Unrestricted Dungeon Pass.
+useitemdungeonpassuse.11	You couldn't find the dungeon.
+useitemdungeonpassuse.12	You're not in the right dungeon lobby.
+useitemdungeonpassuse.13	The dungeon group name is incorrect.
+useitemdungeonpassuse.14	You're attempting to enter a different dungeon lobby from the one you're in.
+useitemdungeonpassuse.15	You're attempting to enter a different dungeon lobby from the one you're in.
+useitemelathaitemuse.1	The Doppelganger seems to be writhing in pain.
+useitemelathaitemuse.2	Nothing happened.
+useitemenchantuse.1	The enchant failed, but the Enchant Protection Potion protected your item from damage.
+useitemenchantuse.2	The item being enchanted will disappear if the enchant fails at rank 6 or higher.\nThe Spirit inhabiting the weapon will disappear as well.\nAre you sure you want to enchant?
+useitemfeedfishuse.1	There aren't any seals nearby.
+useitemfeedfishuse.2	Drop the fish next to a seal.
+useitemfeedfishuse.3	{1} slurped up {0}'s fish!
+useitemfossilrestorationuse.1	This fossil is ready for a museum!
+useitemfossilrestorationuse.2	This fossil is really nice.
+useitemfossilrestorationuse.3	This fossil is nice to look at, but needs some work.
+useitemfossilrestorationuse.4	This fossil isn't looking so good...
+useitemfossilrestorationuse.5	This fossil is falling apart.
+useitemfossilrestorationuse.6	The crystal looks flawless!
+useitemfossilrestorationuse.7	The crystal is polished and beautiful.
+useitemfossilrestorationuse.8	The crystal looks polished enough.
+useitemfossilrestorationuse.9	You didn't do very well...
+useitemguildpendantuse.1	Use the Guild Stone Permit to place a Guild Stone; a symbol of your Guild's glory.\nOnce your Guild Service expires, the Guild Stone will disappear.\nGuild Stones cannot be installed in towns, on the road, or indoors.\nOnce the Guild Stone is placed, it can never be moved.
+useitemguildpendantuse.2	You cannot place a Guild Stone right now.
+useitemholyfire.1	Select an item to bless with the Holy Flame.
+useitemholyfireuse.1	The blessings of the Holy Water of Lymilark will disappear.\nContinue?
+useitemholyfireuse.2	The Holy Flame has sanctified your item.\n
+useitemiceminekituse.1	You don't have any Ice Mines.
+useitemiceminekituse.2	You can't install Ice Mines in this area.
+useitemiceminekituse.3	You can't use an Ice Mine here.
+useitemiceminekituse.4	There are already Ice Mines installed nearby.
+useiteminstallfacilityuse.1	You can't install that.
+useiteminstallfacilityuse.2	You don't have enough materials.
+useiteminstallfacilityuse.3	That is outside your Homestead's territory.
+useiteminstallfacilityuse.4	You already have a building here.
+useiteminstallfacilityuse.5	Someone is standing in the way.
+useiteminstallfacilityuse.6	You can't install that.
+useiteminstallfacilityuse.7	You don't have enough materials.
+useiteminstallfacilityuse.8	You don't have enough materials.
+useiteminstallfacilityuse.9	The installation isn't working.
+useiteminstallfacilityuse.10	You must pay your overdue maintenance fees first.
+useiteminstallfacilityuse.11	Unable to expand because furniture is currenty placed in the hallway.\nPlease clear the hallway before proceeding.
+useitemlroduse.1	You need an L-Rod.
+useitemlroduse.2	You can't use this L-Rod here.
+useitemmanaforminguse.1	You need a Cylinder.
+useitemmanaforminguse.2	There aren't any Mana Crystals to use.
+useitemmanaforminguse.3	You need the Mana Crystallization skill.
+useitemmixpaintuse.1	You'll need a Paint Mixing Kettle if you plan on mixing {0}.
+useitemmixpaintuse.2	You'll need a Paint Mixing Kettle if you plan on mixing {0}.
+useitemmixpaintuse.3	That paint doesn't exist.
+useitemmixpaintuse.4	You don't have any of this paint.
+useitemmixpaintuse.5	This isn't the right kind of paint.
+useitemmixpaintuse.6	Either you have not selected a building or you need a Paint Mixing Kettle.
+useitemmixpaintuse.7	You need a Paint Mixing Kettle.
+useitemmixpaintuse.8	That paint doesn't exist.
+useitemmixpaintuse.9	You don't have any of this paint.
+useitemmixpaintuse.10	This isn't the right kind of paint.
+useitemmixpaintuse.11	The paint came out just right!
+useitemmixpaintuse.12	The ratios were off... this paint isn't the right color.
+useitemmorrighansfeatheruse.1	When Nuadha's swords swarm through the skies of Falias, let Morrighan's Feather guide you.
+useitemnamecolorchange.1	Your name and chat text colors have changed.
+useitempaintfacilityuse.1	You don't have any of this paint.
+useitempaintfacilityuse.2	This isn't the right kind of paint.
+useitempaintfacilityuse.3	You can't paint this part.
+useitempaintfacilityuse.4	You can't remove paint from this part.
+useitempaintfacilityuse.5	You still need to select a building.
+useitempaintfacilityuse.6	This isn't the right building.
+useitempaintfacilityuse.7	This isn't the right kind of paint.
+useitempaintfacilityuse.8	You painted the {0}'s Part {1} with {2}.
+useitempaintfacilityuse.9	You stripped the paint from the {0}'s Part {1}.
+useitempuppetresurrection.1	Your Marionette doesn't need any repairs.
+useitempuppetresurrection.2	You can't fix your Marionette without an exclusive potion or a top tier repair kit.
+useitempuppetresurrection.3	You can't fix your Marionette without an exclusive potion or a better repair kit.
+useitempuppetresurrectionuse.1	You need to summon your Marionette first.
+useitempuppetresurrectionuse.2	Repair successful! Your Marionette is just like new.
+useitempuppetresurrectionuse.3	Repair successful! Your Marionette is in good shape.
+useitempuppetresurrectionuse.4	Repair successful! Your Marionette is in working condition.
+useitemrecalluse.1	There aren't any items for you to use.
+useitemrecalluse.2	You can't summon a golem in combat.
+useitemrecalluse.3	You need a Cylinder equipped to summon a golem.
+useitemrecalluse.4	You already have another creature summoned.
+useitemrecalluse.5	You need crystals to summon anything.
+useitemredesignfacilityuse.1	You can't relocate this.
+useitemredesignfacilityuse.2	That is outside your Homestead's territory.
+useitemredesignfacilityuse.3	You already have a building here.
+useitemredesignfacilityuse.4	Someone is standing in the way.
+useitemredesignfacilityuse.5	You can't install that.
+useitemredesignfacilityuse.6	The relocation didn't work.
+useitemredesignfacilityuse.7	You must pay your overdue maintenance fees first.
+useitemrepairpropuse.1	You cannot use that in this area.
+useitemrepairpropuse.2	You cannot use expired items.
+useitemrepairpropuse.3	You cannot use that here.
+useitemrepairpropuse.4	You cannot do that because another object is too close.
+useitemrepairpropuse.5	You cannot place this on a bridge.
+useitemrepairpropuse.6	You cannot place this on top of a moving object.
+useitemrepairpropuse.7	You cannot do that because another object is too close.
+useitemresurrectionuse.1	You cannot revive here.
+useitemscanuse.1	That would be a waste. You're already under the effect of a stronger fruit.
+useitemscanuse.2	You can't use Arat Berries here.
+useitemscanuse.3	You can't use Arat Berries with Counseling Program Yui equipped.
+useitemscanuse.4	You can't use Arat Berries with a Support Puppet equipped.
+useitemsealitem.1	Select an item to seal.
+useitemsealitemuse.1	You sealed the item!
+useitemseesawuse.1	The Jump for the Moon event is not in progress.
+useitemseesawuse.2	You can't use this Seesaw Construction Kit.
+useitemseesawuse.3	You can't use an expired Seesaw Construction Kit. It's not safe!
+useitemseesawuse.4	This isn't a good place for a seesaw.
+useitemseesawuse.5	You don't have enough room to put in a seesaw.
+useitemseesawuse.6	This isn't a good place for a seesaw.
+useitemseesawuse.7	There's already a seesaw nearby.
+useitemseesawuse.8	Something is in the way of your seesaw.
+useitemsketchuse.1	Nighttime Exploration EXP +{0} EXP
+useitemsketchuse.2	Nighttime Exploration EXP +{0} EXP
+useitemsketchuse.3	You don't have any sketch paper.
+useitemsketchuse.4	You've done enough sketching for now.
+useitemsketchuse.5	You're too far away to make a good sketch.
+useitemsketchuse.6	You're too far away to make a good sketch.
+useitemsoulstoneuse.1	You can only sketch possessed monsters.
+useitemsoulstoneuse.2	You can only sketch monsters you have possessed.
+useitemsoulstoneuse.3	You can't do that with a tamed monster at your side.
+useitemsoulstoneuse.4	Invalid target.
+useitemsupport.1	Select an item to bless with the potion.
+useitemsupportuse.1	This item has been protected.
+useitemsupportuse.2	You can't use this potion on unrepairable items.
+useitemsupportuse.3	You can't use this potion on unenchantable items.
+useitemsupportuse.4	You can't use that on this item.
+useitemsupportuse.5	You can't use that on items bought with Pon.
+useitemtownbackuse.1	These wings can only be used in select areas.
+useitemtownbackuse.2	You can't use a key while you're on the raft.
+useitemtownbackuse.3	You can't warp to unexplored ruins.
+useitemtownbackuse.4	You can't do that mid-flight.
+useitemtownbackuse.5	You can only use this item in a Marketplace district. If you're indoors, try going outside.
+useitemtownbackuse.6	You can't do that in the Shadow Realm.
+useitemtownbackuse.7	You can't do that right now.
+useitemtownbackuse.8	You can't do that on a Homestead.
+useitemtownbackuse.9	You can't warp while transporting.
+useitemtownbackuse.10	One of your party members is currently transporting.
+useitemtownbackuse.11	You can't use that at the Beauty Shop.
+useitemtownbackuse.12	Another warp is in progress. Please try again later.
+useitemtownbackuse.13	Another warp is in progress. Please try again later.
+useitemtownbackuse.14	For beginners only.
+useitemtownbackuse.15	You cannot use this here.
+useitemtownbackuse.invalid_region_group	해당 지역으로는 이동할 수 없습니다.
+useitemunsealitem.1	봉인을 해제할 아이템을 선택하세요.\n선택한 아이템은 즉시 봉인 해제됩니다.
+useitemunsealitemuse.1	아이템 봉인 해제에 성공하였습니다.\n72시간 후에 실제로 아이템의 봉인이 해제됩니다.
+useitemuntrainkituse.1	You can't use this kit while applying for an Advancement Test.
+useumbrella.1	You need to equip an umbrella to use this.
+usewing.1	You need to have wings equipped.
+usewing.2	You can't use that on a raft.
+usewing.3	You can't use that on a Hot-Air Balloon.
+visionofladecause.1	You can't use this any more today.
+wandslashuse.1	You can't use that skill for another {0} second(s).
+wandslashuse.2	You need a wand.
+wandslashuse.3	You need a wand.
+wandslashuse.4	You need either a wand or a staff.
+warpcontinentuse.1	You can use this again in 12 hours.
+warpuse.1	You can't warp for another {0} seconds.
+warpuse.2	You can't warp on a mount.
+waterballoonthrowinguse.1	You can't use this unless the event is in progress.
+waterballoonthrowinguse.2	You can't use this unless the event is in progress.
+waterballoonthrowinguse.3	You need more Water Balloons.
+waterballoonthrowinguse.4	Your target is too far away.
+waterballoonthrowinguse.5	You can't throw Water Balloons at that!
+watercannonuse.1	You need a Cylinder.
+watercannonuse.2	You don't have enough Water Crystals to do that.
+watercannonuse.3	You don't have enough Water Crystals to attack.
+waterdrop.1	You have entered a trap, which will activate in 3 seconds.
+wateringuse.1	You don't have a field to use that skill on.
+wateringuse.2	You need to sow some seeds first.
+wateringuse.3	You can't water a field while you're doing other things.
+wateringuse.4	You've done enough watering for the day.
+wateringuse.5	You couldn't start the watering process.
+wateringuse.6	You shouldn't water other peoples' fields.
+wateringuse.7	You watered the field!
+weavinguse.1	This product is {0}-exclusive.
+weavinguse2.1	This product is {0}-exclusive.
+whitedragonfearuse.1	The monsters have gone mad with rage!
+windbreakeruse.1	You don't have enough Stamina to keep up your Wind Guard.
+windbreakeruse.2	You need a shield to use Wind Guard.
+windbreakeruse.3	You can't use that skill for another {0} second(s).
+windbreakeruse.4	You're running out of time to use Wind Guard.
+windofhealing.1	Ram summons a gust of wind around you.\nHP restored by {0}.\nWounds healed by {1}.\nReceived the following effect for {2} sec.\nDefense +{3}\nProtection +{4}\nMP Recovery Speed +{5}%\nStamina Recovery Speed +{6}%\nMovement Speed +{7}%
+window.refine_production_view_title	Production Form
+window.weaving_form_title	Production Form
+windpressureuse.1	You need a Cylinder.
+windpressureuse.2	You don't have enough Wind Crystals to do that.
+windpressureuse.3	You can't use that skill for another {0} second(s).
+windpressureuse.4	You don't have enough Wind Crystals to attack.
+windpressureuse.5	Using Wind Blast too frequently could damage your Cylinder.
+wirebinding.1	Invalid target.
+yarnbindinguse.1	You can't do that. You're all tied up!
+yarnbindinguse.2	You've been untied!

@@ -1,0 +1,12 @@
+﻿0	Smiling Face
+1	Surprised Face
+2	Angry Face
+3	Creepy Face
+4	Loving Face
+5	Naive Face
+6	Yikes Face
+7	Sad Face
+8	Crying Face
+9	Winking Face
+10	Evil Face
+11	Happy Face

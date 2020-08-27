@@ -1,0 +1,5 @@
+﻿0	I get to see you every day? How exciting!%normal;Have a nice day!%normal;Have you received your gift for today?%normal;I'm so excited about tomorrow's gift!%normal;I'm so happy to see you face-to-face!%normal;How are you feeling today?\nI hope you enjoy our time together!%normal;
+1	매일 만날 수 있다니\n너무 설레어요!%normal;오늘도 기분 좋은 하루!%normal;오늘의 선물은 받으셨나요?%normal;내일의 선물도 기다려지네요~!%normal;이렇게 마주볼 수 있다니\n너무 행복해요!%normal;오늘은 기분이 어때요?\n저와 함께하는 시간 모두\n행복하기만 했으면 좋겠어요!%normal;
+2	매일 만날 수 있다니\n너무 설레어요!%normal;오늘도 기분 좋은 하루!%normal;오늘의 선물은 받으셨나요?%normal;내일의 선물도 기다려지네요~!%normal;이렇게 마주볼 수 있다니\n너무 행복해요!%normal;오늘은 기분이 어때요?\n저와 함께하는 시간 모두\n행복하기만 했으면 좋겠어요!%normal;
+3	어서오시오.\n오늘도 선물을 준비했소.%normal;매일 꾸준히 오고있소?%normal;선물은 나름 엄선해서 준비했소.%normal;나오의 축제 가방은\n총 10번 확장할 수 있소.%normal;21일째에는 [적염화룡의 뿔피리]를\n받을 수 있소.%normal;
+4	어서오시오.\n오늘도 선물을 준비했소.%normal;매일 꾸준히 오고있소?%normal;선물은 나름 엄선해서 준비했소.%normal;나오의 축제 가방은\n총 10번 확장할 수 있소.%normal;21일째에는 [적염화룡의 뿔피리]를\n받을 수 있소.%normal;

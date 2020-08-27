@@ -1,0 +1,751 @@
+﻿0	Talk to Blaanid in Dunbarton
+1	Rebirth
+2	Talk to Blaanid in Dunbarton
+3	Locate a trace of Blaanid at the Tir Chonaill Moon Gate
+4	Visit Iria using Continent Warp and locate a trace of Blaanid
+5	Talk to Blaanid in Dunbarton
+6	Acquire 1 HP 30 Potion
+7	Acquire 1 Ripe Pumpkin
+8	Acquire 1 Empty Bottle
+9	Talk to Blaanid in Dunbarton
+10	Talk to Blaanid in Dunbarton
+11	Talk to Blaanid while in possession of a bag of any kind
+12	Purchase a Big Gold Pouch from the General Shop and collect 100 Gold
+13	Talk to Blaanid in Dunbarton
+14	Withdraw a check of any amount from the Dunbarton Bank
+15	Talk to Blaanid in Dunbarton while holding a check
+16	Talk to Blaanid in Dunbarton
+17	Purchase a Fluted Short Sword from the Weapon Shop
+18	Purchase a Cardinal Chain Blade from the Weapon Shop
+19	Talk to Blaanid in Dunbarton
+20	Talk to Blaanid in Dunbarton after losing weapon durability
+21	Talk to Blaanid in Dunbarton after repairing a weapon
+22	Talk to Blaanid in Dunbarton
+23	Level up 1 time
+24	Talk to Blaanid in Dunbarton after reaching Defense Rank E
+25	Talk to Blaanid in Dunbarton
+26	Talk to Blaanid in Dunbarton while using "the Reborn" title
+27	Talk to Blaanid in Dunbarton
+28	Talk to Blaanid in Dunbarton after gathering 10 Homestead Stones
+29	Get your Homestead to Lv. 3.
+30	Place the Speedwell Blaanid gave you in your Homestead
+31	Talk to Blaanid in Dunbarton
+32	Talk to Fleta at Sen Mag Plains
+33	Talk to Blaanid in Dunbarton
+34	Reach Combat Mastery Rank D
+35	Equip a blunt weapon
+36	Equip an axe
+37	Reach Windmill Rank D
+38	Equip a shield
+39	Use Charge 1 time
+40	Use Assault Slash 1 time
+41	Clear Shadow Mission "Shadow Cast City"
+42	Reach Bash Rank F
+43	Use Firebolt 5 times
+44	Use Icebolt 5 times
+45	Use Lightning Bolt 5 times
+46	Talk to Stewart at the Dunbarton Magic School
+47	Reach Magic Mastery Rank E
+48	Reach Meditation Rank F
+49	Reach Inspiration Rank F
+50	Use Mana Shield
+51	Clear Intermediate Shadow Mission "Lingering Darkness"
+52	Reach Magic Weapon Mastery Rank A
+53	Use Healing 5 times
+54	Use First Aid 5 times
+55	Use a Phoenix Feather to revive 5 times
+56	Talk to Duncan in Tir Chonaill
+57	Get Knocked Out 1 time
+58	Talk to Duncan in Tir Chonaill
+59	Equip a Lute
+60	Reach Playing Instrument Skill Rank F
+61	Equip a Microphone
+62	Reach Song Rank F
+63	Talk to Aranwen at Dunbarton School
+64	Defeat 1 Bear
+65	Talk to Aranwen at Dunbarton School
+66	Defeat 10 Wolves
+67	Talk to Aranwen at Dunbarton School
+68	Talk to Aranwen at Dunbarton School
+69	Clear Intermediate Shadow Mission "Lingering Darkness"
+70	Talk to Aranwen at Dunbarton School
+71	Clear Intermediate Shadow Mission "Their Method"
+72	Talk to Endelyon after completing a Church Part-Time Job 3 times
+73	Talk to Deian after completing a Pasture Part-Time Job 1 time
+74	Talk to Eavan after completing a Town Office Part-Time Job 2 times
+75	Talk to Glenis after completing a Grocery Store Part-Time Job 4 times
+76	Equip a Fishing Rod
+77	Equip a Bait Tin
+78	Go to Port Cobh Fishing Area
+79	Reach Fishing Rank D
+80	Reach Mining Rank E
+81	Reach Mushroom Gathering Rank E
+82	Use Harvest Song
+83	Reach Weaving Rank E
+84	Reach Cooking Rank E
+85	Use Handicraft
+86	Talk to Simon at the Dunbarton Clothing Shop
+87	Use 1 Dye Ampoule
+88	Talk to Simon at the Dunbarton Clothing Shop
+89	Talk to Naco the Trade Helper at the Dunbarton Trading Post
+90	Make at least 100 Ducats in profit via commerce
+91	Talk to Naco the Trade Helper at the Dunbarton Trading Post
+92	Talk to Aranwen at Dunbarton School
+93	Clear Beginner Shadow Mission "Enemy Behind"
+94	Clear Intermediate Shadow Mission "Enemy Behind"
+95	Clear Advanced Shadow Mission "Enemy Behind"
+96	Clear Hard Shadow Mission "Enemy Behind"
+97	Talk to Aranwen at Dunbarton School
+98	Reach Level 100
+99	Talk to Duncan in Tir Chonaill
+100	Talk to Duncan in Tir Chonaill
+101	Use Palalan Embrace
+102	Reach Level 110
+103	Talk to Duncan in Tir Chonaill
+104	Talk to Shamala in Cor Village. Talk to Tupai if Shamala isn't there.
+105	Talk to Shamala with your pet with you. Talk to Tupai if Shamala isn't there.
+106	Talk to Edern at Bangor Blacksmith Shop
+107	Talk to Edern at Bangor Blacksmith Shop with 100 Proficiency Gladius equipped
+108	Talk to Edern with a Gladius that's been normally upgraded 4 times
+109	Talk to Edern at Bangor Blacksmith Shop
+110	Talk to Edern at Bangor Blacksmith Shop with an Artisan Upgraded Gladius
+111	Talk to Edern at Bangor Blacksmith Shop with a gem upgraded/repaired Gladius
+112	Talk to Edern at Bangor Blacksmith Shop with a Special Upgrade S Gladius
+113	Talk to Edern at Bangor Blacksmith Shop
+114	Equip Light Armor
+115	Talk to Edern at Bangor Blacksmith Shop
+116	Talk to Edern at Bangor Blacksmith Shop after equipping upgraded armor
+117	Talk to Jennifer at Bangor Pub
+118	Talk to Jennifer at Bangor Pub after losing accessory durability
+119	Talk to Jennifer at Bangor Pub after equipping a perfectly repaired accessory
+120	Talk to Stewart at the Dunbarton Magic School
+121	Talk to Stewart with a Passionate Enchanted weapon equipped
+122	Talk to Stewart with a Fairy Enchanted weapon equipped
+123	Talk to Stewart with an Inflated Enchanted weapon equipped
+124	Talk to Stewart at the Dunbarton Magic School
+125	Use the Enchant skill
+126	Talk to Stewart at the Dunbarton Magic School
+127	Talk to Walter at the Dunbarton General Shop
+128	Acquire a Reforging Tool
+129	Talk to Walter while carrying a reforged weapon
+130	Talk to Walter at the Dunbarton General Shop
+131	Talk to Walter while carrying a reforged Tailoring Kit
+132	Talk to Walter while carrying a reforged Fluted Short Sword
+133	Talk to Aranwen at Dunbarton School
+134	Clear Alby Dungeon
+135	Talk to Aranwen at Dunbarton School
+136	Clear Intermediate Alby Dungeon
+137	Visit Tara's Stonehenge
+138	Clear Shadow Mission "The Other Alchemists"
+139	Talk to Aranwen at Dunbarton School
+140	Talk to Aranwen with a Shadow Crystal's effect active
+141	Clear Shadow Mission "The Sulfur Spider inside Shadow Realm"
+142	Find the lost earrings in Sidhe Sneachta
+143	Visit Tir Na Nog
+144	Visit the Albey Dungeon entrance
+145	Clear Barri Dungeon
+146	Clear Math Dungeon
+147	Visit Ceo Island
+148	Visit Qilla Base Camp
+149	Obtain 1 Sketch Paper
+150	Sketch a Young Brown-tailed Mongoose
+151	Obtain an L-Rod
+152	Talk to Voight at Cor Village with Sketch Paper and an L-Rod
+153	Clear Exploration Quest "Hunt 10 Young White Armadillos"
+154	Clear Exploration Quest "Collect 5 Young White Armadillo Claws"
+155	Clear Exploration Quest "Find the Young White Armadillo"
+156	Reach Exploration Level 10
+157	Get into a Great Mood at Festia 1 Time
+158	Clear Today's Mission on Any\nDifficulty 1 Time
+159	Clear Today's Mission on Any\nDifficulty 2 Times
+160	Clear Today's Mission on Any\nDifficulty 3 Times
+161	Clear Today's Mission on Any\nDifficulty 4 Times
+162	Clear Today's Mission on Any\nDifficulty 5 Times
+163	Rebirth 1 Time
+164	Share Food 50 Times
+165	Share Food 70 Times
+166	Share Food 100 Times
+167	Share Food 150 Times
+168	Share Food 200 Times
+169	Get a Freestyle Combo of 5
+170	Undergo Battle Transformation \n5 Times
+171	Undergo Battle Transformation \n10 Times
+172	Undergo Battle Transformation \n15 Times
+173	Undergo Battle Transformation \n20 Times
+174	Undergo Battle Transformation \n25 Times
+175	Harvest Crops from Your\nHomestead 10 Times
+176	Harvest Crops from Your\nHomestead 20 Times
+177	Harvest Crops from Your\nHomestead 30 Times
+178	Harvest Crops from Your\nHomestead 40 Times
+179	Harvest Crops from Your\nHomestead 50 Times
+180	Use Palalan Embrace 1 Time
+181	Give Gifts to NPCs 50 Times
+182	Give Gifts to NPCs 75 Times
+183	Give Gifts to NPCs 100 Times
+184	Give Gifts to NPCs 150 Times
+185	Complete a Part-Time Job 3 Times
+186	Complete a Part-Time Job 5 Times
+187	Complete a Part-Time Job 7 Times
+188	Complete a Part-Time Job 9 Times
+189	Complete a Part-Time Job 10 Times
+190	Upgrade an Item 10 Times
+191	Upgrade an Item 20 Times
+192	Upgrade an Item 30 Times
+193	Upgrade an Item 40 Times
+194	Upgrade an Item 50 Times
+195	Complete a Baltane Special Unit\nMission 5 Times
+196	Complete a Baltane Special Unit\nMission 10 Times
+197	Complete a Baltane Special Unit\nMission 15 Times
+198	Complete a Baltane Special Unit\nMission 20 Times
+199	Complete a Baltane Special Unit\nMission 25 Times
+200	Complete an Elite Shadow\nMission 1 Time
+201	Complete an Elite Shadow\nMission 3 Times
+202	Complete an Elite Shadow\nMission 5 Times
+203	Complete an Elite Shadow\nMission 7 Times
+204	Complete an Elite Shadow\nMission 10 Times
+205	Help Someone Via the Quest Help\nRequest Bulletin Board 1 Time
+206	Help Someone Via the Quest Help\nRequest Bulletin Board 3 Times
+207	Help Someone Via the Quest Help\nRequest Bulletin Board 5 Times
+208	Help Someone Via the Quest Help\nRequest Bulletin Board 7 Times
+209	Help Someone Via the Quest Help\nRequest Bulletin Board 10 Times
+210	Complete a Fomor Scroll Collection\nQuest 5 Times
+211	Complete a Fomor Scroll Collection\nQuest 10 Times
+212	Complete a Fomor Scroll Collection\nQuest 15 Times
+213	Complete a Fomor Scroll Collection\nQuest 20 Times
+214	Complete a Fomor Scroll Collection\nQuest 25 Times
+215	Discover a Relic or Ruin 20 Times
+216	Discover a Relic or Ruin 40 Times
+217	Discover a Relic or Ruin 60 Times
+218	Discover a Relic or Ruin 80 Times
+219	Discover a Relic or Ruin 100 Times
+220	Earn 5,000 Ducats
+221	Earn 10,000 Ducats
+222	Earn 13,000 Ducats
+223	Earn 15,000 Ducats
+224	Earn 20,000 Ducats
+225	Complete a Baltane Mission on\nAny Difficulty 5 Times
+226	Complete a Baltane Mission on\nAny Difficulty 10 Times
+227	Complete a Baltane Mission on\nAny Difficulty 15 Times
+228	Complete a Baltane Mission on\nAny Difficulty 20 Times
+229	Complete a Baltane Mission on\nAny Difficulty 25 Times
+230	Pass an Advancement Test 1 Time
+231	Complete Sidhe Finnachaid on\nAny Difficulty 5 Times
+232	Complete Sidhe Finnachaid on\nAny Difficulty 10 Times
+233	Complete Sidhe Finnachaid on\nAny Difficulty 15 Times
+234	Complete Sidhe Finnachaid on\nAny Difficulty 20 Times
+235	Complete Sidhe Finnachaid on\nAny Difficulty 25 Times
+236	Complete Erinn Martial Arts Competition\nFinal Match 5 Times
+237	Complete Erinn Martial Arts Competition\nFinal Match 10 Times
+238	Complete Erinn Martial Arts Competition\nFinal Match 15 Times
+239	Complete Erinn Martial Arts Competition\nFinal Match 20 Times
+240	Complete Erinn Martial Arts Competition\nFinal Match 25 Times
+241	Complete an Avalon Purification\nMission 5 Times
+242	Complete an Avalon Purification\nMission 10 Times
+243	Complete an Avalon Purification\nMission 15 Times
+244	Complete an Avalon Purification\nMission 20 Times
+245	Complete an Avalon Purification\nMission 25 Times
+246	Complete a Non-Solo Apostle Raid\non Any Difficulty 5 Times
+247	Complete a Non-Solo Apostle Raid\non Any Difficulty 10 Times
+248	Complete a Non-Solo Apostle Raid\non Any Difficulty 15 Times
+249	Complete a Non-Solo Apostle Raid\non Any Difficulty 20 Times
+250	Complete a Non-Solo Apostle Raid\non Any Difficulty 25 Times
+251	Clear the Alban Knights Training Grounds\non Any Difficulty 1 Time
+252	Clear the Alban Knights Training Grounds\non Any Difficulty 2 Times
+253	Clear the Alban Knights Training Grounds\non Any Difficulty 3 Times
+254	Clear the Alban Knights Training Grounds\non Any Difficulty 4 Times
+255	Clear the Alban Knights Training Grounds\non Any Difficulty 5 Times
+256	Complete the Kitchen\nDungeon 2 Times
+257	Complete the Kitchen\nDungeon 4 Times
+258	Complete the Kitchen\nDungeon 6 Times
+259	Complete the Kitchen\nDungeon 8 Times
+260	Complete the Kitchen\nDungeon 10 Times
+261	New Memoir
+262	* 5,000 Gold
+263	* 6,000,000 EXP
+264	
+265	
+266	
+267	* 6,000,000 EXP
+268	* 5,000 Gold
+269	
+270	
+271	
+272	* 6,000,000 EXP
+273	* 5,000 Gold
+274	
+275	* 6,000,000 EXP
+276	* 5,000 Gold
+277	* Big Gold Pouch (30,000G)
+278	
+279	* 6,000,000 EXP
+280	* 5,000 Gold
+281	
+282	
+283	* 6,000,000 EXP
+284	* 5,000 Gold
+285	
+286	* 6,000,000 EXP
+287	* 5,000 Gold
+288	
+289	
+290	
+291	* 6,000,000 EXP
+292	* 5,000 Gold
+293	* Golden Experience Fruit (300%)
+294	
+295	
+296	* 6,000,000 EXP
+297	* 5,000 Gold
+298	
+299	
+300	* 6,000,000 EXP
+301	* 5,000 Gold
+302	* 300 Homestead Stones
+303	
+304	
+305	
+306	* 6,000,000 EXP
+307	* 5,000 Gold
+308	
+309	
+310	
+311	
+312	* 6,000,000 EXP
+313	* 5,000 Gold
+314	* 6,000,000 EXP
+315	* 5,000 Gold
+316	* 6,000,000 EXP
+317	* 5,000 Gold
+318	* Combat 2x EXP Potion
+319	* 6,000,000 EXP
+320	* 5,000 Gold
+321	
+322	* 6,000,000 EXP
+323	* 5,000 Gold
+324	* 6,000,000 EXP
+325	* 5,000 Gold
+326	* Magic 2x EXP Potion
+327	* 6,000,000 EXP
+328	* 5,000 Gold
+329	* 6,000,000 EXP
+330	* 5,000 Gold
+331	* Nao Soul Stone
+332	
+333	
+334	* 6,000,000 EXP
+335	* 5,000 Gold
+336	* Music 2x EXP Potion
+337	* 6,000,000 EXP
+338	* 5,000 Gold
+339	
+340	* 6,000,000 EXP
+341	* 5,000 Gold
+342	
+343	
+344	* 6,000,000 EXP
+345	* 5,000 Gold
+346	* Combat 2x EXP Potion
+347	
+348	
+349	* 6,000,000 EXP
+350	* 5,000 Gold
+351	* Massive Holy Water\n   of Lymilark
+352	
+353	
+354	* 6,000,000 EXP
+355	* 5,000 Gold
+356	* Potent High Speed\n    Gathering Potion
+357	
+358	
+359	* 6,000,000 EXP
+360	* 5,000 Gold
+361	
+362	* 6,000,000 EXP
+363	* 5,000 Gold
+364	* 6,000,000 EXP
+365	* 5,000 Gold
+366	* Life 2x EXP Potion
+367	* 6,000,000 EXP
+368	* 5,000 Gold
+369	* Dye Ampoule
+370	* Metal Dye Ampoule
+371	
+372	
+373	* 6,000,000 EXP
+374	* 5,000 Gold
+375	* 10,000 Ducats
+376	
+377	
+378	* 6,000,000 EXP
+379	* 5,000 Gold
+380	* Special Tendering Potion S
+381	* Special Tendering Potion
+382	
+383	
+384	* 6,000,000 EXP
+385	* 5,000 Gold
+386	* Complete Skill EXP Potion (1 Day)
+387	
+388	* 6,000,000 EXP
+389	* 5,000 Gold
+390	
+391	
+392	* 6,000,000 EXP
+393	* 5,000 Gold
+394	
+395	
+396	* 6,000,000 EXP
+397	* 5,000 Gold
+398	* Rusty Hammer of Proficiency
+399	
+400	
+401	
+402	* 6,000,000 EXP
+403	* 5,000 Gold
+404	* Topaz
+405	* Star Sapphire
+406	* Emerald
+407	* Aquamarine
+408	* Garnet
+409	* Jasper
+410	* Ruby
+411	* Spinel
+412	* Diamond
+413	* Blue Upgrade Stone
+414	* Red Upgrade Stone
+415	
+416	
+417	
+418	
+419	* 6,000,000 EXP
+420	* 5,000 Gold
+421	* Rusty Hammer of Proficiency
+422	
+423	
+424	* 6,000,000 EXP
+425	* 5,000 Gold
+426	
+427	
+428	
+429	* 6,000,000 EXP
+430	* 5,000 Gold
+431	* Enchant Scroll (Fox Hunter's)
+432	* Enchant Scroll (Shard)
+433	
+434	
+435	
+436	
+437	* 6,000,000 EXP
+438	* 5,000 Gold
+439	* Ancient Magic Powder
+440	
+441	
+442	* 6,000,000 EXP
+443	* 5,000 Gold
+444	
+445	
+446	* 6,000,000 EXP
+447	* 5,000 Gold
+448	* Fine Reforging Tool
+449	
+450	
+451	
+452	* 6,000,000 EXP
+453	* 5,000 Gold
+454	* Unrestricted Dungeon Pass
+455	
+456	
+457	* 6,000,000 EXP
+458	* 5,000 Gold
+459	* Unlimited Shadow\n    Mission Pass
+460	
+461	
+462	* 6,000,000 EXP
+463	* 5,000 Gold
+464	
+465	
+466	* 6,000,000 EXP
+467	* 5,000 Gold
+468	
+469	* 6,000,000 EXP
+470	* 5,000 Gold
+471	
+472	
+473	* 6,000,000 EXP
+474	* 5,000 Gold
+475	* Par Ruins Rare Artifact Chest
+476	* Longa Desert Rare Artifact Chest
+477	Blaanid's Flower Box
+478	
+479	
+480	Your cumulative level continues to grow each time you rebirth, even though your current level resets to 0! So cool, right? \n
+481	You can also pick a new talent when you rebirth, and then level it up quickly!\n
+482	You can rebirth more often when your cumulative level is low. I wonder what it feels like...\n
+483	Rebirth frequently to expedite your growth! Be sure to check the My Info window regularly to see your current status!\n
+484	HINT
+485	View the amount of time remaining until your next rebirth by going into "Character Info" > "Additional Info" > "Rebirth Info." But here's a secret: Use Rebirth Potions to rebirth right away!
+486	I faintly remember the front of the Tir Chonaill Moon Gate...\n
+487	It was somewhere in Uladh. Ah, that reminds me! I remember using something called "Continent Warp" too. Maybe you can get to Iria using "Continent Warp"?\n
+488	And then... What was it? Oh! The Traveler's Guide! Use that to make your return trip much easier!\n
+489	HINT
+490	Use the Dunbarton Moon Gate to warp directly to the Tir Chonaill Moon Gate, but only if you've been there before. Activate a new Moon Gate each time you pass one, so that you can warp to it in the future!\n
+491	The command "Action" > "Continent Warp" lets you instantly warp between Iria, Uladh, and Belvast. It has a cooldown, though! It can be use again between 0:00 and 12:00 Erinn time, so plan ahead!\n
+492	The Traveler's Guide lets you move to any Moon Gate or Mana Tunnel, even if you've never visited it before. Just note that the amount of Gold it costs varies by the distance traveled.
+493	After watching you work so hard, I suddenly recalled how to craft potions! Quick, bring me an HP 30 Potion!\n
+494	Oooh, and a Ripe Pumpkin from the Grocery Store!\n
+495	And lastly, um, oh yes! An Empty Bottle! I saw some on the ground earlier, but where would they be sold... Hm...\n
+496	HINT
+497	You can purchase Potions from Manus at the Healer's House, Ripe Pumpkins from Glenis at the Grocery Store, and Empty Bottles from Walter at the General Shop. Locate them by using the minimap's "NPC Search" function. P.S. To find the Ripe Pumpkins, you need to flip to the third page of the shop.
+498	If you're running out of inventory space, use a bag in enlarge it!\n
+499	To carry Gold, you'll want to purchase a Gold Pouch. Otherwise, you'll run out space quickly. You might want to grab a couple of Gold Pouches, actually.\n
+500	Hehe, aren't I being so useful right now? I can't believe I remember so much!\n
+501	You'll need a lot of different equipment as you explore Erinn, so carefully plan what you carry in your bags!\n
+502	HINT
+503	You can only carry one Item Backpack (7x5) and one Item Backpack (8x6).\n
+504	When your bags get full, you can store the rest of your items at a Bank!\n
+505	You can also issue checks at the Bank, but you can only do so when you have money in your bank account. That means, you'll need to deposit money into your account first.\n
+506	HINT
+507	If you have 10,000 or more Gold deposited at the Bank, you can withdraw your funds in the form of a check.\n
+508	There's a fee when withdrawing money in the form of a check, but no fee for\ndepositing checks.\n
+509	The Auction House uses bank funds,\nso it's a good idea to deposit money there when you can.\n
+510	I saw a bunch of Milletians in Dunbarton all carrying this one weapon...\n
+511	I actually didn't get a close look, but the shape and the blade looked pretty.\n
+512	It reminded me of delicious, stretched-out cheese! Hehe! Do you think the Weapons Shop might know what it is?\n
+513	HINT
+514	The Fluted Short Sword has high durability, average ATT, and average Attack Speed, making it excellent for close combat.\n
+515	The Cardinal Chain Blade can attack from both close and long range, allowing it  to take down foes from a safe distance. However, it requires practice and skill to wield effectively.
+516	All weapons have durability. Did you know that?\n
+517	Weapons lose durability when used, but repairing them makes them good as new!\n
+518	Sort of... I've heard repairs can sometimes fail. Still, it's pretty cool how weapons can usually be repaired!\n
+519	HINT
+520	When an item has low durability, it'll be shown in red.\n
+521	Each NPC's natural repair success rate and repair cost differs. If you like, you can pay extra for a 100% success rate when repairing durability.
+522	Wow! You look stronger! It must be because you've leveled up so many times!\n
+523	How's it feel?! Amazing, right?\n
+524	Leveling up allows you to improve your skills, right? That's just so cool! I'm geeking out!\n
+525	HINT
+526	You obtain AP when you level up. AP can be used to improve your skills in two different ways. First, you can choose to spend AP to accumulate skill EXP in place of completing the normal skill EXP objectives. Then, when a skill has enough skill EXP, it costs AP to advance it to the next rank.
+527	Have you ever noticed that some Milletians have text in front of their names?\n
+528	I overhead some people talking, and someone said they got the "the Reborn" title just by Rebirthing!\n
+529	I wonder if that means you have the title, too! Want to give it a try?\n
+530	HINT
+531	View titles by going into "Character Info" > "Title."\n
+532	Titles grant different stats and can be obtained through various actions in Erinn!
+533	I've heard a lot of Milletians have a Homestead!\n
+534	I kind of remember endless fields next to a pretty home, with a glittering pile of rocks nearby.\n
+535	It was so pretty!\n
+536	I heard you can grow crops on a Homestead, which help you make your Homestead bigger and bigger. Isn't that neat?\n
+537	HINT
+538	You can mine Homestead Stones each day using a pickaxe.\n
+539	Homestead Stones are used to improve and expand your Homestead. Level up your Homestead by building a house, placing props, and harvesting crops!
+540	It's so refreshing to see people in Dunbarton walking around alongside their pets!\n
+541	I'm sure people did that in the past, too, but I can't really remember...\n
+542	I heard there's a little girl at the Sen Mag Plains who walks around with a large but really cute dog.\n
+543	Could you ask her about pets for me? I want to have a dog of my own once I've regained all my memories!\n
+544	HINT
+545	※ Fleta's Appearance Schedule
+546	Fleta appears near the Sen Mag Plains Three-way Intersection between 9:00-11:00, 15:00-17:00, and 19:00-21:00 Erinn time.\n
+547	Since she's a bit far from Dunbarton, riding a pet such as a Thoroughbred or a Broom will help you travel more quickly.
+548	I heard there's a skill you can train to make your body more resilient and just stronger overall. Was it called... Combat Mastery?\n
+549	It's supposed to help you wield blunt weapons and axes, too, so try equipping them.\n
+550	Oh! I think I also heard that you're supposed to use a skill called Windmill when you're surrounded.\n
+551	HINT
+552	Combat Mastery gives Strength and HP boosts, improving both your offensive and defensive abilities.\n
+553	Windmill is incredibly useful when you're surrounded and can be utilized with any Talent, since it works with any weapon type.
+554	When you're fighting strong enemies, I heard it's better to use a shield.\n
+555	With a shield, you can... rush? No, um, march? Oh! Charge! With a shield equipped, you can use Charge on enemies and knock them down. That's a way to change a fight in your favor!\n 
+556	HINT
+557	Charge attacks enemies by rushing them and knocking them down. Charge can only be used with a shield equipped. Only giants can Charge without a shield.\n
+558	Use Assault Slash on a knocked down enemy to attack them one more time. It can even be used on enemies that are far away, so use it when you need to close the distance on an enemy.
+559	I remember seeing people training hard on Shadow Missions. Perhaps they'll help you train as well!\n
+560	Bash is supposedly really difficult to learn, but it's also an essential skill! So you just have to put in the effort and learn it!\n
+561	HINT
+562	To do a Shadow Mission: Head to the Shadow Mission Bulletin Board near the Stonehenge outside of Tara, pick a mission, then head to the Stonehenge to enter it.\n
+563	The Shadow Mission "Shadow Cast City" can be found at the Stonehenge near Tara as well. Use the Windmill skill effectively to make the mission a little easier.
+564	Bash deals a lot of damage in close combat and is very versatile. If you haven't learned it yet, open your Skill window and find the "Unlearned" tab. Tap the "Learn Method" button on the Bash skill to see how to get it.
+565	From what I recall, people who prefer magic combat mainly use bolt magic.\n
+566	Every type of bolt has its own characteristics, so the trick is to use the right kind of bolt for the right situation!\n
+567	HINT
+568	All Bolts can be charged to up to 5 stacks. \nFirebolts discharge all stacks at once and deal bonus damage at 5 stacks.\n
+569	Icebolts launch one bolt at a time, up to the number you have charged. It also restores MP with each attack.\n
+570	Lightning Bolt's attack area increases at higher charges.\n
+571	Certain weapons can Chain Cast, which means they can get 5 stacks of charges with a single charge.
+572	I remember once I saw a magic user recover MP on their own!\n
+573	Something flashed, and then their MP started filling up, just like that! I bet the magic teacher in Dunbarton could fill you in on the details.\n
+574	I think magic users also have a way to protect themselves with MP. You might want to learn about that as well!\n
+575	HINT
+576	Magic Mastery increases MP and Intelligence, so it's worth training to a high rank if you plan to use magic often.\n
+577	Meditation increases MP recovery speed, allowing MP to recover quickly.\n
+578	Inspiration restores MP instantly and is useful in a pinch.\n
+579	Mana Shield protects you with MP. To figure out how to acquire it, go into your Skill window, then find the "Unlearned" tab, and locate Mana Shield.\n
+580	Kousai, who teaches Mana Shield, can be found in Cor Village in Iria.
+581	I overheard someone talking about how magic users train at a certain dungeon. I think you should check it out! \n
+582	I also heard that magic users grow much stronger after they train in Magic Weapon Mastery, so don't forget to do that!\n
+583	HINT
+584	If a circle appears on the floor next to enemies, all you have to do is defeat them within the circle.\n
+585	If the enemies attacking you are behind Barrier Spikes, circle around behind them before attacking them.\n
+586	Use Healing when you're out of potions or when you're suffering from potion poisoning.\n
+587	If an injury is too severe and your HP isn't being restored, the injury needs to be treated with First Aid.\n
+588	If someone becomes completely incapacitated, only a Phoenix Feather can revive them. Make sure you buy plenty of those to use on your pets and party members!\n
+589	HINT
+590	To revive a fallen Milletian, they must first request help.
+591	Out of everyone, I think Duncan knows the most about Nao.\n
+592	She's so amazing! Not only can she revive you when you're knocked out, she even gives you a blessing, too! Wow!\n
+593	HINT
+594	You can request Nao's help when you possess a Nao Soul Stone.\n
+595	Soul Stones can be obtained by trading for them with other Milletians.
+596	I love hearing instruments playing beautiful music. It just cheers up the soul!\n
+597	Some Milletians sing, and it's just as nice! I can't explain it, but I just find it invigorating.\n
+598	Maybe Milletian music holds some sort of power.\n
+599	HINT
+600	You can activate different buffs and debuffs by playing instruments. The higher your Play Instrument skill rank, the stronger the effects.\n
+601	If you train your Song skill to rank 5 or above, you can use the Music skill even without a weapon most of the time.
+602	Ranged attacks are so neat! You can strike enemies before they even know you're there! You can dip and slide between obstacles, too... So cool!\n
+603	HINT
+604	Use a ranged attack to take down enemies before they even notice you.\n
+605	If an enemy gets too close while you're waiting for cooldowns, hide behind obstacles to hinder their attacks.
+606	A scary memory has come back to me! Once, I was being attacked by a pack of wolves! They were preparing their counterattacks, when a Milletian passed by and peppered them with ranged attacks!\n
+607	Their scary Counterattacks were completely useless! They were wiped out!\n
+608	HINT
+609	Ranged attacks can't be countered. Use ranged attacks to easily take down enemies who counterattack often.\n
+610	Depending on the situation, when an enemy gets close, it may be better to switch your weapon to one suited for Close Combat.
+611	I think there's a ranged attack that does area damage. I can't remember the details, just that I was scared, and this huge Milletian rounded up monsters and used Stomp while another Milletian shot them with arrows. There was an explosion, and then all the monsters were gone.\n
+612	I don't remember their faces, but I'm so grateful for those Milletians.\n
+613	If I ever see them again, I definitely want to talk to them!\n
+614	HINT
+615	If enemies are all huddled near each other, ranged attacks can easily take them down one by one.\n
+616	If you have a strong ranged weapon or have trained the skill enough, you can also take them down with ranged area attacks.
+617	Tir Chonaill sounds like such a quiet, cozy place. I heard it used to be filled with lots of work, like harvesting, egg gathering, and sheep shearing!\n
+618	Once I can move around again, I want to do some of that work! It sounds hard, but so worthwhile!\n
+619	HINT
+620	Wheat and Barley can be gathered at the Farmland southeast of the School. You'll need a Sickle, which you can purchase at the Blacksmith's Shop.\n
+621	Eggs can be gathered from the hens north of the Church, but only when your hands are empty.
+622	Like Tir Chonaill, Dunbarton flows with energy! The vibe is a little different, though.\n
+623	You can get milk from the cows on one side, and find potatoes and wool not too far from there!\n
+624	Once I'm able to travel freely again, I'm going to gather up all the milk, wool, and potatoes I want!\n
+625	HINT
+626	To gather milk, equip an empty bottle in your hand and interact with one of the cows to the southwest of Dunbarton. You can purchase empty bottles at the General Shop.\n
+627	Gather apples by interacting with the apple trees southeast of Dunbarton.
+628	Do you enjoy fishing? It's a real shame you can't fish in Dunbarton.\n
+629	I think a day spent fishing would be so soothing! I think I'd even forget all about my lost memories for a while.\n
+630	HINT
+631	You can fish in various places, including Tir Chonaill, Emain Macha, and other areas.\n
+632	In Port Cobh, not only can you fish, but you can also participate in a quest where you trade the Striped Marlin you catch to Manolin for items!
+633	Did you know? There are actually sooooo many Life Skills!\n
+634	There's even a song that invigorates you when you're using Life Skills. It's call the Harvest Song. Isn't that cheerful?\n
+635	HINT
+636	You can mine in Barri Dungeon or at the Stone Quarry in Sliab Cuilin.\n
+637	You can gather mushrooms between 20:00 and 04:00, Erinn time. Gold Mushrooms only grow on Wednesdays, but you can train the Mushroom Gathering skill really quickly if you pick them.\n
+638	The Harvest Song is hard to acquire,\nbut it's useful when it comes to\nproduction. To learn more about how\nto get this skill, open your Skill window,\nfind the skill in the "Unlearned" tab,\nand click "Learn Method."\n
+639	Have you ever seen Milletians gathered around Walter in Dunbarton?\n
+640	They're always spinning thread, cooking food, crafting something, and so on...\n
+641	It's so hectic! There's got to be something in it for them if they're working so hard, right?\n
+642	HINT
+643	To weave, you'll need a lot of wool and cobwebs. You can train up Sheep Shearing to gather wool to trade with other Milletians.\n
+644	You also need a lot of ingredients for Cooking. Maybe split the work with other Milletians who can help gather eggs and harvest some of the materials.\n
+645	For the Handicraft skill, you'll need a lot of wood, so work with a Milletian who's trained up their Carpentry.
+646	Have you heard of Dye Ampoules? I heard they can change the color of your clothes!\n
+647	Someone named Simon is supposed to know a lot about that. Maybe you should talk to him.\n
+648	HINT
+649	When you use a Dye Ampoule, you can pick a palette of 5 colors. Of those 5 colors, one will be randomly selected as the final color your gear is dyed.
+650	Have you heard about Ducats? I've heard you can earn them by buying low and selling high. What's that supposed to mean?\n
+651	Can you look into it for me?\n
+652	HINT
+653	The Commerce system lets you buy and sell Commerce goods for a currency called Ducats. You can do so at the Trading Posts found near each town.\n
+654	Ducats can be exchanged with Fomor traders for exclusive Fomor weapons and other items.\n
+655	But tread carefully. Bandits often hide out, waiting to ambush those participating in Commerce. They can even steal the goods that you purchased with Ducats, cutting into your profits!
+656	I wonder if it's true that you can decide what difficulty level your Shadow Missions are.\n
+657	I wonder if it actually makes a difference. Are the harder difficulty levels tougher to beat than the easier difficulty levels of the same mission?\n
+658	HINT
+659	Enemies are categorized based on the difference between their Combat Power and yours. They range from the weakest enemies to boss level enemies.\n
+660	Weaker enemies will not give much EXP or weapon Proficiency, so it's not efficient to fight them.\n
+661	When you're looking to face enemies of a certain Combat Power level, the best way to access them is to adjust the difficulty of a Shadow Mission.
+662	I heard Milletians get a new power when they reach level 100. I wonder what it is.\n
+663	HINT
+664	At level 100, you get 1.5 times as much Training EXP. Every 10 levels after that, a 0.05 bonus is added! At level 200, your Training EXP is doubled!
+665	I heard Milletians get mysterious skills based on their current and accumulated levels.\n
+666	What powers might you get? Like, will you suddenly start flying?\n
+667	HINT
+668	When your Potential level goes up, you acquire Palalan Embrace. As your Potential level increases, so too does the power of Palalan Embrace.\n
+669	Your Eweca-powered skill grows stronger the closer you get to level 200. Your Ladeca-powered skill grows stronger based on your cumulative level.
+670	I've heard that some pets cast skills when they're summoned. They're like pets in shining armor, come to rescue their masters!\n
+671	HINT
+672	Pegasuses, Dragons, and some other pets use a skill when they're summoned.\n
+673	When surrounded by enemies, summoning one of these pets might help you get out of a tough spot!
+674	Have you tried upgrading a weapon? Doing so helps you become stronger!\n
+675	HINT
+676	To upgrade, your weapon needs to accumulate Proficiency first. Different upgrades require different amounts of Proficiency.\n
+677	Some weapons can also get an Artisan Upgrade after they've been upgraded 5 times. It randomly grants a large stat boost.
+678	Have you heard of an Upgrade Anvil? Some Milletians were talking about using one to apply a Special Upgrade to a weapon they'd already Gem Upgraded or Gem Repaired. It's supposed to make the weapon extremely powerful.\n
+679	Why don't you try it?\n
+680	HINT
+681	Weapons can be strengthened in the following order: Artisan Upgrade > Gem Upgrade (or Gem Repair) > Special Upgrade.\n
+682	Special Upgrades can only be done through an Upgrade Anvil.
+683	When you face strong enemies, armor is really important! Why don't you try equipping some?\n
+684	HINT
+685	Light Armor has higher Defense than Cloth Armor and is used with many talents, because it doesn't have any penalties.\n
+686	Heavy Armor has great Defense, but carries a Dexterity penalty, so be careful when using it. Giants do not suffer from the Dexterity penalty.\n
+687	The Protection a piece of equipment offers can be increased through upgrades. Protection greatly reduces large amounts of damage.
+688	Did you know you can repair accessories? Make sure you're repairing important accessories!\n
+689	HINT
+690	You can repair Accessories at the Bangor Pub.\n
+691	Balloons are accessories that can immediately revive you when you're knocked out, but they cannot be repaired. Nonetheless, they're useful in situations where reviving is more important than stats.
+692	I've heard you can get stronger using something called an Enchant Scroll.\n
+693	There's supposed to be a teacher at the Dunbarton Magic School who knows all about it.\n
+694	Hehe...\n
+695	HINT
+696	If a second Prefix Enchant is added to an item that already has a Prefix Enchant, the current Prefix Enchant will disappear.\n
+697	Prefix and Suffix Enchants are different, and can be used simultaneously.\n
+698	Enchant Scrolls must be used quickly, because they expire after a certain amount of time. Expired Scrolls can be made active again with Enchant Expiration Scrolls. You can get the Passionate, Fairy, and Inflated enchants from the Beginner Enchant Scroll Bundle, which can be obtained from beginner Shadow Missions or from the Auction House.
+699	I think there's also a different method to enchant, and that the teacher at th Dunbarton Magic Schools knows about that, too.\n
+700	Hehe...\n
+701	HINT
+702	Enchants can be used right away with an Enchant Scroll, but they can also be applied with the Enchant skill.\n
+703	Using the Enchant skill to apply an enchant has a higher success rate, so raise your Enchant skill before attempting to apply important enchants.\n
+704	You can burn enchanted items at a campfire to extract the enchant from the gear. The success depends on your Enchant skill rank, so try to raise your rank first.\n
+705	To use the Enchant skill, you must be holding Magic Powder in your right hand and the Enchant Scroll in your left.\n
+706	Wow, there are so many types of Reforging Tools! It's kind of confusing!\n
+707	HINT
+708	The Reforging Tool sold at the General Shop is required to reforge a piece of gear for the first time.\n
+709	Only afterwards can you use a Fine Reforging Tool on that same item.
+710	Reforging is so funny! When I watch people reforge in Dunbarton, they're either really happy or really sad afterwards, hehe.\n
+711	HINT
+712	When you reforge production tools, you can acquire stats that improve the quality of the items you craft with the tool. \n
+713	When you reforge weapons, you can acquire stats that affect your skills.
+714	I heard there are a lot of underground dungeons in Uladh. There's even supposed to be a special method to locate hidden dungeons! Ooh, I wish I knew what it was!\n
+715	HINT
+716	Dungeons in Uladh contain different enemies and rewards based on the type of entry pass used, creating entirely new dungeon experiences.\n
+717	The dungeons change depending on the item you offer the Goddess statue, so try to get Dungeon Entry Passes that grant access to the type of reward you're shooting for.
+718	I heard that Shadow Missions give a lot of Gold and EXP!\n
+719	Especially if you have... a Shadow Crystal? I think that's the term! They're supposed to grant extra Gold and EXP!\n
+720	HINT
+721	Use a Shadow Crystal to get bonus EXP and Gold in your next Shadow Mission.\n
+722	The effects are even better when used prior to a high difficulty missions.
+723	Some people can hear the Goddess's voice and aid her... But I can't hear anything at all. Is it because I've forgotten my memories? Did I forget the Goddess, too?\n
+724	HINT
+725	Sidhe Sneachta is to the north of Tir Chonaill.\n
+726	Use a Black Fomor Pass from Kristell to reach Tir Na Nog via Barri Dungeon, which is in Bangor.\n
+727	Albey Dungeon is to the north of Tir Na Nog.
+728	I heard you can acquire newfound powers when you become a Knight of Light.
+729	It won't be easy, but it sure sounds cool, doesn't it?\n
+730	HINT
+731	Barri Dungeon is inside Bangor. You can mine ore there.\n
+732	Math Dungeon is northeast of Dunbarton.\n
+733	Ceo Island can be reached using a Moon Gate or with the Traveler's Guide.
+734	I think there are lots of different ways to explore the world. I want to know what they are!\n
+735	Perhaps you can learn more at the Qilla Base Camp?\n
+736	HINT
+737	Get to Qilla Base Camp by boarding a boat at Port Cobh. Or you can travel there immediately using the Traveler's Guide.\n
+738	The L-Rod is a tool that can locate hidden Artifacts. When you have it equipped, it beeps to let you know when you're near an Artifact. It gets louder the closer you are. When you're at the right spot, use "L-Rod Exploration" from the Action menu to excavate the spot.\n
+739	Voight at Cor Village knows a great deal about Artifacts, and can restore them or exchange them for Exploration EXP.\n
+740	Find hidden Artifacts by exploring near Cor Village with an L-Rod equipped.\n
+741	You can also find Artifacts by clearing the Maiz, Karu Forest, Longa, and Par Ruins Dungeons in Iria.
+742	I've heard there are many unusual creatures in Iria. Some of them grant Exploration EXP!\n
+743	Maybe once you get there, you'll find something that can teach you more about it!\n
+744	HINT
+745	Iria's Exploration Quests can be accepted at the Quest Bulletin Board at the Qilla Base Camp.\n
+746	Your Exploration Level also increases your stats and AP, so you should level it up whenever possible.
+747	Use Palalan Embrace 2 Times
+748	
+750	
+751	Talk to Blaanid in Dunbarton

@@ -1,0 +1,65 @@
+﻿1	Price
+2	Max ATT
+3	Injury Rate
+4	Color Code (0 - 255)
+5	MP Recovery Rate
+6	Max MP
+7	Charging Speed
+8	Chain Casting
+9	Balance
+10	Proficiency
+11	Max Durability
+12	Critical
+13	Trade Unlocks
+14	Piercing Level
+15	Max Damage
+16	Max HP
+17	Max Stamina
+18	Strength
+19	Dexterity
+20	Will
+21	Luck
+22	Protection
+23	Defense
+24	Magic Defense
+25	Magic Protection
+26	Gem Size
+27	MabiNovel Book
+28	MabiNovel Author
+29	Transformation Target
+30	Sketch Name
+31	Blacksmith Manual
+32	Sewing Pattern
+33	Reforging
+34	Enchant (Prefix)
+35	Enchant (Suffix)
+36	Equipment Upgrade
+37	Special Upgrade
+38	Magic Attack
+39	Mana Cost Bonus
+40	Intelligence
+41	Movement Speed Increase
+42	Grade
+43	Unique Abilities
+44	Awakened Skills
+45	Min Damage
+46	Water Alchemic Damage
+47	Fire Alchemic Damage
+48	Wind Alchemic Damage
+49	Earth Alchemic Damage
+50	Marionette Protection
+51	Marionette Max Damage
+52	Marionette Defense
+53	Dual Gun Max Damage
+54	Dual Gun Min Damage
+55	Min Injury Rate
+56	Music Buff Duration
+57	Shuriken Max Damage
+58	Shuriken Min Damage
+59	Chain Blade Max Damage
+60	Chain Blade Min Damage
+61	Knuckle Max Damage
+62	Knuckle Min Damage
+63	Erg Level
+64	Abilities
+65	Appearance Change Item

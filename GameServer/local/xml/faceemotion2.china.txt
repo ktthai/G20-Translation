@@ -1,0 +1,1480 @@
+﻿1	Clear Eyes
+2	Curious Look
+3	Affectionate Look
+4	Innocent Eyes
+5	Sad Eyes
+6	Mystic Eyes
+7	Mischievous Eyes
+8	Fox Eyes
+9	Sleepy-as-always Look
+10	Serious Look
+11	Lovely Eyes
+12	Empty Eyes
+13	Adventurer's Eyes
+14	Intellectual Look
+15	Cold Eyes
+16	Innocent and Pure Look
+17	Off-the-Guard Look
+18	Too-solemn Look
+19	Languid Look
+20	Too-righteous Look
+21	Serious Rascal Look
+22	Fierce Look
+23	Foreign Look
+24	Sharp Look
+25	Plain Lips
+26	Always Smiling
+27	Small Lips
+28	Dumbfounded Look
+29	Serious Lips
+30	Fang
+31	Kitty Lips
+32	Rabbit Incisor
+33	Grouchy Lips
+34	Pouting Lips
+35	Prankster Lips
+36	Troubled Lips
+37	Ordinary Lips
+38	Smiling Lips
+39	Small Mouth
+40	Innocent Lips
+41	Happy Lips
+42	Seductive Lips
+43	Boyish Lips
+44	Curious Lips
+45	(normal)
+46	(laugh) =) haha lol :)  :-) giggle teehee
+47	(angry) what!
+48	(serious) -_- hmm
+49	(jeah) >_< >.< ><
+50	(confused) @_@ %-(
+51	(pain) *_* *o*
+52	(eyesclosed) (closed)
+53	(surprised) o_o o_O O_o :-O
+54	(love) <3 :-*
+55	(sad) sob T_T
+56	(question) ?_? what?
+57	(happy) whoopee :D
+58	(wink) ;) ;-)
+59	(shy) *^^* *^_^* :$
+60	(sparkling)
+61	(vacant) O_O wahhh
+62	(cry) T_T  ;(  T.T :'(
+63	(suspicious) -_-+
+64	(puzzled) :I
+65	(mischievous) =) ^o^ :P
+66	(happytears) :') :'-)
+67	(cute) *^_^*
+68	(warm)
+69	(lucky) wow! 8D
+70	(sympathy)
+71	(shriek)
+72	(close2tears) sniff
+73	(whatthe)
+74	(evil) muahaha
+75	(relief) phew
+76	(sour) -*-
+77	(fart)
+78	(fear) scared scary
+79	(cool) cool awesome
+80	(wicked) Hhhhhee
+81	(yawn) I-O
+82	(plot)
+83	(selfcontrol)
+84	(naive)
+85	(impressed) @@
+86	(hazy) woozy
+87	(perv)
+88	(justice)
+89	Sassy Eyes
+90	Soothing Eyes
+91	Calm Eyes
+92	Clear Eyes
+93	Cartoonish Eyes
+94	Soft Kitty Lips
+95	Lips Sealed Tight
+96	Innocent Lips
+98	Confident Eyes
+99	Far-gazing Eyes
+100	Precocious Eyes
+101	Dollish Eyes
+102	A Faint Kitty Lips
+103	A Faint Smile
+104	Whistling Lips
+105	Soothing Eyes (Long Brows)
+107	Indifferent eyes
+108	Perceptive eyes
+109	Childish eyes
+110	Deep water eyes
+111	Concentrating eyes
+112	Pensive eyes
+113	Agonizing eyes
+114	Worrisome eyes
+115	Naive eyes
+116	Mirror eyes
+117	Cat eyes
+135	Intense Eyes
+136	Heartfelt Eyes
+137	Powerful Eyes
+138	Sharp Eyes
+139	Solemn Eyes
+140	Focused Eyes
+141	Calm Eyes
+142	Gazing Eyes
+143	Hawk Eyes
+144	Confident Eyes
+145	Lion Eyes
+146	Dark Eyes
+147	Tightly Shut Mouth
+148	Firm Mouth
+149	Relaxed Mouth
+150	Warm Smile
+151	Whispering Mouth
+152	Indifferent Eyes
+153	Honest Eyes
+154	Pure Eyes
+155	Dreamer Eyes
+156	Chilly Eyes
+157	Meditating Eyes
+158	Sarcastic Eyes
+159	Lucid Eyes
+160	Kitten Eyes
+161	Insightful Eyes
+162	Fox Eyes
+163	Truthful Eyes
+164	Cold Mouth
+165	Slightly Opened Mouth
+166	Slightly Smiling Mouth
+167	Heavy Mouth
+174	Lecturing Eyes
+175	Exhausted Eyes
+176	Cold Eyes
+177	Fighter Eyes
+178	Primmed Eyes
+179	Half-Closed Eyes
+180	제너의 눈
+181	레이모어의 눈
+182	안드라스의 눈
+183	케이
+184	팔론
+185	엘라하
+186	Pencast
+187	Lileas
+188	Hans
+189	Eluned
+190	Keith
+191	Lezarro
+192	Padan
+193	Hans
+194	Cliona
+195	Lezard
+196	Doppelganger Eyes
+197	Doppelganger Lips
+198	Cai Doppelganger Eyes
+199	Male Giant Doppelganger Eyes
+200	Female Giant Doppelganger Eyes
+201	Angry Eyes
+202	Genuine Eyes
+203	Apathetic Eyes
+204	Angry Eyes
+205	Genuine Eyes
+206	Apathetic Eyes
+207	샤나의 눈빛
+208	유지의 눈빛
+209	Glewyas
+210	Arzhela
+211	Briana
+212	Buchanan
+213	Sinead
+214	Buchanan
+215	Corentin
+216	Jarlath
+230	Angry Eyes
+231	Genuine Eyes
+232	Apathetic Eyes
+233	Tightly Shut Mouth
+234	Firm Mouth
+235	Relaxed Mouth
+236	Warm Smile
+237	Whispering Mouth
+238	Righteous Eyes
+239	Sarcastic Eyes
+240	Lucid Eyes
+241	Kitten Eyes
+242	Insightful Eyes
+243	Fox Eyes
+244	Truthful Eyes
+245	Lecturing Eyes
+246	Exhausted Eyes
+247	Cold Eyes
+248	Fighter Eyes
+249	Primmed Eyes
+250	Half-Closed Eyes
+254	Female Giant Doppelganger Eyes
+257	Intense Eyes
+258	Heartfelt Eyes
+259	Powerful Eyes
+260	Sharp Eyes
+261	Solemn Eyes
+262	Focused Eyes
+263	Calm Eyes
+264	Gazing Eyes
+265	Hawk Eyes
+266	Confident Eyes
+267	Lion Eyes
+268	Dark Eyes
+270	Angry Eyes
+271	Genuine Eyes
+272	Apathetic Eyes
+273	Intense Eyes
+274	Heartfelt Eyes
+275	Powerful Eyes
+276	Sharp Eyes
+277	Solemn Eyes
+278	Focused Eyes
+279	Calm Eyes
+280	Gazing Eyes
+281	Hawk Eyes
+282	Confident Eyes
+283	Lion Eyes
+284	Dark Eyes
+285	Angry Eyes
+286	Dark Eyes
+287	Apathetic Eyes
+288	Righteous Eyes
+289	Righteous Eyes
+290	Hamlet
+291	Hamlet Mouth
+292	Tightly Shut Mouth
+293	Firm Mouth
+294	Relaxed Mouth
+295	Warm Smile
+296	Whispering Mouth
+297	Sarcastic Eyes
+298	Lucid Eyes
+299	Kitten Eyes
+300	Insightful Eyes
+301	Fox Eyes
+302	Truthful Eyes
+303	Lecturing Eyes
+304	Exhausted Eyes
+305	Cold Eyes
+306	Fighter Eyes
+307	Primmed Eyes
+308	Half-Closed Eyes
+309	Female Giant Doppelganger Eyes
+310	Angry Eyes
+311	Genuine Eyes
+312	Apathetic Eyes
+313	Hamlet's Reflection
+314	Hamlet's Tightly Shut Lips
+315	Claudius
+316	Shakespeare
+317	Ophelia
+318	Gertrude
+319	Laertes
+320	Polonius
+321	윈리록벨
+322	에드워드엘릭
+323	로이무스탕
+324	마스휴즈
+325	리자호크아이
+326	이즈미커티스
+327	마리아로스
+328	오리비에
+329	알렉스루이암스트롱
+330	오리비에 입
+331	Juliet
+332	Romeo
+333	Juliet Lips
+334	윈리 록벨의 눈빛
+335	에드워드 엘릭의 눈빛
+336	로이 머스탱의 눈빛
+337	마스 휴즈의 눈빛
+338	리자 호크아이의 눈빛
+339	이즈미 커티스의 눈빛
+340	마리아 로스의 눈빛
+341	오리비에의 눈빛
+342	알렉스 루이 암스트롱의 눈빛
+343	오리비에의 입
+344	Romeo Lips
+345	Juliet Sad Eyes
+346	Romeo Closed Eyes
+347	Count Paris
+348	Tybalt
+349	Juliet Closed Eyes
+350	Friar Lawrence
+351	Crazy Paris
+352	Crazy Paris Lips
+353	Hans Eyes
+354	Keith Eyes
+355	Lileas Eyes
+356	Ophelia Eyes
+357	Ascon's Eyes
+358	Ascon's Mouth
+359	Arrogant Eyes
+360	Sleepy Eyes
+361	Wild Eyes
+362	Beastly Eyes
+363	Mellow Eyes
+364	Naive Eyes
+365	Confident Mouth
+366	Smiling Mouth
+367	Wild Eyes
+368	Beastly Eyes
+369	Antonio's Eyes
+370	Antonio's Lips
+371	Shylock's Eyes
+372	Bassanio's Lips
+373	Admiral Owen's Eyes
+374	Portia's Eyes
+375	Cheeky Eyes
+376	Tired Eyes
+377	Bright Eyes
+378	Thick Lips
+379	Pointy Lips
+380	Distinct Lips
+381	Cheeky Eyes
+382	Cheeky Eyes
+383	Cheeky Eyes
+384	Cheeky Eyes
+385	Tired Eyes
+386	Tired Eyes
+387	Tired Eyes
+388	Tired Eyes
+389	Bright Eyes
+390	Bright Eyes
+391	Bright Eyes
+392	Bright Eyes
+393	Thick Lips
+394	Thick Lips
+395	Thick Lips
+396	Thick Lips
+397	Pointy Lips
+398	Pointy Lips
+399	Pointy Lips
+400	Pointy Lips
+401	Distinct Lips
+402	Distinct Lips
+403	Distinct Lips
+404	Distinct Lips
+405	Human Maid Eyes
+407	Human Butler Eyes
+408	남자자이언트 폿포눈
+409	멘마 눈
+410	오리비에의 눈빛
+411	윈리 록벨의 눈빛
+412	에드워드 엘릭의 눈빛
+413	로이 머스탱의 눈빛
+414	마스 휴즈의 눈빛
+415	리자 호크아이의 눈빛
+416	마리아 로스의 눈빛
+417	오리비에의 입
+418	Scathach Eyes
+419	Witch Scathach Eyes
+420	Partner Maid Eyes
+421	Partner Butler Eyes
+423	Child's Eyes
+425	Huw Eyes
+426	Duncan Eyes
+427	Crying Eyes
+428	Whimpering Mouth
+429	Shaman Eyes
+431	Millia Eyes
+432	Old Ruairi Eyes
+433	Maike Eyes
+436	Dowra Eyes
+437	Cessair Eyes
+438	Cessair Mouth
+441	Akule Eyes
+442	Old Tarlach Eyes
+443	Akule Mouth
+444	Round Eyes
+445	Young Tarlach Eyes
+446	Young Tarlach Mouth
+447	Merlin Eyes
+448	Merlin Mouth
+449	Secure Eyes
+450	Secure Mouth
+451	Master Chef Eyes
+452	Meek Eyes
+453	Lisbeth Eyes
+454	Heathcliff Eyes
+455	Heathcliff Mouth
+456	Lisbeth Mouth
+457	Ghost Girl Eyes
+458	Trickster Eyes
+459	Ghost Girl Mouth
+460	Trickster Mouth
+486	Juliet's Mouth
+487	Juliet's Mouth
+488	Romeo's Mouth
+489	Romeo's Mouth
+492	Ascon's Mouth
+493	Ascon's Mouth
+494	Antonio's Mouth
+495	Antonio's Mouth
+496	Bassanio's Mouth
+497	Bassanio's Mouth
+498	Whimpering Mouth
+499	Whimpering Mouth
+500	Cessair's Mouth
+501	Cessair's Mouth
+502	Akule's Mouth
+503	Akule's Mouth
+504	Young Tarlach's Mouth
+505	Young Tarlach's Mouth
+506	Merlin's Mouth
+507	Merlin's Mouth
+516	Jenna's Eyes
+517	Jenna's Eyes
+518	Jenna's Eyes
+519	Leymore's Eyes
+520	Leymore's Eyes
+521	Leymore's Eyes
+522	Andras's Eyes
+523	Andras's Eyes
+524	Andras's Eyes
+625	Ascon's Eyes
+626	Ascon's Eyes
+627	Ascon's Eyes
+628	Antonio's Eyes
+629	Antonio's Eyes
+630	Antonio's Eyes
+631	Shylock's Eyes
+632	Shylock's Eyes
+633	Shylock's Eyes
+634	Admiral Owen's Eyes
+635	Admiral Owen's Eyes
+636	Admiral Owen's Eyes
+637	Portia's Eyes
+638	Portia's Eyes
+639	Portia's Eyes
+640	Scathach's Eyes
+641	Scathach's Eyes
+642	Scathach's Eyes
+643	Scathach's Witchy Eyes
+644	Scathach's Witchy Eyes
+645	Scathach's Witchy Eyes
+646	Huw's Eyes
+647	Huw's Eyes
+648	Huw's Eyes
+649	Duncan's Eyes
+650	Duncan's Eyes
+651	Duncan's Eyes
+652	Crying Eyes
+653	Crying Eyes
+654	Crying Eyes
+658	Round Eyes
+659	Round Eyes
+660	Round Eyes
+691	Culinary Artist Eyes
+692	Culinary Artist Eyes
+693	Culinary Artist Eyes
+696	Sour
+697	Bangled
+698	Horror
+699	Slight Frown
+700	Naive
+703	Sour
+704	Sour
+705	Bangled
+706	Bangled
+707	Horror
+708	Horror
+709	Slight Frown
+710	Slight Frown
+711	Naive
+712	Naive
+720	Doppelganger Mouth
+724	Juliet's Mouth
+725	Romeo's Mouth
+727	Ascon's Mouth
+728	Antonio's Mouth
+730	Whimpering Mouth
+731	Cessair's Mouth
+732	Akule's Mouth
+733	Young Tarlach's Mouth
+734	Merlin's Mouth
+757	Young Tarlach's Hollow Eyes
+759	Bassanio's Mouth
+760	Large Eyes
+761	Large Eyes
+762	Large Eyes
+763	Intense Eyes
+764	Intense Eyes
+765	Intense Eyes
+766	Belisha's Eyes
+767	Belisha's Eyes
+768	Belisha's Eyes
+769	Trickster Eyes
+770	Trickster Eyes
+771	Trickster Eyes
+772	Cai's Eyes
+773	Cai's Eyes
+774	Cai's Eyes
+775	Fallon's Eyes
+776	Fallon's Eyes
+777	Fallon's Eyes
+778	Elatha's Eyes
+779	Elatha's Eyes
+780	Elatha's Eyes
+781	Pencast's Eyes
+782	Pencast's Eyes
+783	Pencast's Eyes
+784	Lileas's Eyes
+785	Lileas's Eyes
+786	Lileas's Eyes
+787	Hans's Eyes
+788	Hans's Eyes
+789	Hans's Eyes
+790	Eluned's Eyes
+791	Eluned's Eyes
+792	Eluned's Eyes
+793	Keith's Eyes
+794	Keith's Eyes
+795	Keith's Eyes
+796	Lezarro's Eyes
+797	Lezarro's Eyes
+798	Lezarro's Eyes
+799	Padan's Eyes
+800	Padan's Eyes
+801	Padan's Eyes
+802	Glewyas's Eyes
+803	Glewyas's Eyes
+804	Glewyas's Eyes
+805	Arzhela's Eyes
+806	Arzhela's Eyes
+807	Arzhela's Eyes
+808	Briana's Eyes
+809	Briana's Eyes
+810	Briana's Eyes
+811	Buchanan's Eyes
+812	Buchanan's Eyes
+813	Buchanan's Eyes
+814	Sinead's Eyes
+815	Sinead's Eyes
+816	Sinead's Eyes
+817	Corentin's Eyes
+818	Corentin's Eyes
+819	Corentin's Eyes
+820	Jarlath's Eyes
+821	Jarlath's Eyes
+822	Jarlath's Eyes
+823	Hamlet's Eyes
+824	Hamlet's Eyes
+825	Hamlet's Eyes
+826	Mirror Hamlet's Eyes
+827	Mirror Hamlet's Eyes
+828	Mirror Hamlet's Eyes
+829	Claudius's Eyes
+830	Claudius's Eyes
+831	Claudius's Eyes
+832	Shakespeare's Eyes
+833	Shakespeare's Eyes
+834	Shakespeare's Eyes
+835	Ophelia's Eyes
+836	Ophelia's Eyes
+837	Ophelia's Eyes
+838	Gertrude's Eyes
+839	Gertrude's Eyes
+840	Gertrude's Eyes
+841	Laertes's Eyes
+842	Laertes's Eyes
+843	Laertes's Eyes
+844	Polonius's Eyes
+845	Polonius's Eyes
+846	Polonius's Eyes
+847	Juliet's Eyes
+848	Juliet's Eyes
+849	Juliet's Eyes
+850	Romeo's Eyes
+851	Romeo's Eyes
+852	Romeo's Eyes
+853	Juliet's Sad Eyes
+854	Juliet's Sad Eyes
+855	Juliet's Sad Eyes
+856	Romeo's Grateful Eyes
+857	Romeo's Grateful Eyes
+858	Romeo's Grateful Eyes
+859	Paris's Eyes
+860	Paris's Eyes
+861	Paris's Eyes
+862	Tybalt's Eyes
+863	Tybalt's Eyes
+864	Tybalt's Eyes
+865	Juliet's Grateful Eyes
+866	Juliet's Grateful Eyes
+867	Juliet's Grateful Eyes
+868	Friar Laurence's Eyes
+869	Friar Laurence's Eyes
+870	Friar Laurence's Eyes
+871	Paris's Deranged Eyes
+872	Paris's Deranged Eyes
+873	Paris's Deranged Eyes
+874	Shamala's Eyes
+875	Shamala's Eyes
+876	Shamala's Eyes
+877	Millia's Eyes
+878	Millia's Eyes
+879	Millia's Eyes
+880	Old Ruairi's Eyes
+881	Old Ruairi's Eyes
+882	Old Ruairi's Eyes
+883	Maike's Eyes
+884	Maike's Eyes
+885	Maike's Eyes
+886	Dowra's Eyes
+887	Dowra's Eyes
+888	Dowra's Eyes
+889	Cessair's Eyes
+890	Cessair's Eyes
+891	Cessair's Eyes
+892	Akule's Eyes
+893	Akule's Eyes
+894	Akule's Eyes
+895	Old Tarlach's Eyes
+896	Old Tarlach's Eyes
+897	Old Tarlach's Eyes
+898	Young Tarlach's Eyes
+899	Young Tarlach's Eyes
+900	Young Tarlach's Eyes
+901	Merlin's Eyes
+902	Merlin's Eyes
+903	Merlin's Eyes
+904	Starlet's Eyes
+905	Starlet's Eyes
+906	Starlet's Eyes
+907	Dot Eyes
+908	Dot Eyes
+909	Dot Eyes
+910	Shady Eyes
+911	Shady Eyes
+912	Shady Eyes
+913	Hans's Mouth
+914	Hans's Mouth
+915	Hans's Mouth
+916	Cliona's Mouth
+917	Cliona's Mouth
+918	Cliona's Mouth
+919	Lezard's Mouth
+920	Lezard's Mouth
+921	Lezard's Mouth
+922	Doppelganger Mouth
+923	Doppelganger Mouth
+924	Buchanan's Mouth
+925	Buchanan's Mouth
+926	Buchanan's Mouth
+927	Hamlet's Mouth
+928	Hamlet's Mouth
+929	Hamlet's Mouth
+930	Hamlet's Closed Mouth
+931	Hamlet's Closed Mouth
+932	Hamlet's Closed Mouth
+933	Paris's Deranged Mouth
+934	Paris's Deranged Mouth
+935	Paris's Deranged Mouth
+936	Starlet's Mouth
+937	Starlet's Mouth
+938	Starlet's Mouth
+939	Tense Mouth
+940	Tense Mouth
+941	Tense Mouth
+942	Wide Smile
+943	Wide Smile
+944	Wide Smile
+945	Trickster's Mouth
+946	Trickster's Mouth
+947	Trickster's Mouth
+948	Square Mouth
+949	Square Mouth
+950	Square Mouth
+951	Shady Mouth
+952	Shady Mouth
+953	Shady Mouth
+954	Triangle Mouth
+955	Triangle Mouth
+956	Triangle Mouth
+957	Laughing Mouth
+958	Laughing Mouth
+959	Laughing Mouth
+960	Jubilant Mouth
+961	Jubilant Mouth
+962	Jubilant Mouth
+963	Twitching Mouth
+964	Twitching Mouth
+965	Twitching Mouth
+966	Hagi Eyes
+967	Hagi Mouth
+968	Anju Eyes
+969	Anju Mouth
+970	Gertrude's Eyes
+971	Gertrude's Eyes
+972	Gertrude's Eyes
+973	Altam Eyes
+974	Altam Mouth
+975	Avelin Eyes
+976	Avelin Mouth
+977	Talvish Eyes
+978	Brilluen Eyes
+979	Brilluen Mouth
+1179	프로페서J 눈
+1180	트레저 헌터 눈
+1181	마스터 셰프 입
+1182	트레저 헌터 입
+1183	프로페서 J 입
+1184	프로페서 J의 눈
+1185	프로페서 J의 눈
+1186	프로페서 J의 눈
+1187	프로페서 J의 눈
+1188	프로페서 J의 눈
+1189	트레져 헌터의 눈
+1190	트레져 헌터의 눈
+1191	트레져 헌터의 눈
+1192	트레져 헌터의 눈
+1193	트레져 헌터의 눈
+1194	마스터 셰프의 눈
+1195	마스터 셰프의 눈
+1196	마스터 셰프의 눈
+1197	마스터 셰프의 눈
+1198	마스터 셰프의 눈
+1199	디바의 눈
+1200	디바의 눈
+1201	디바의 눈
+1202	디바의 눈
+1203	디바의 눈
+1204	멀린의 눈
+1205	멀린의 눈
+1206	멀린의 눈
+1207	멀린의 눈
+1208	멀린의 눈
+1209	멀린 입
+1210	멀린 입
+1211	멀린 입
+1212	멀린 입
+1213	멀린 입
+1214	디바 입
+1215	디바 입
+1216	디바 입
+1217	디바 입
+1218	디바 입
+1226	Pihne Eyes
+1227	Caswyn Eyes
+1308	Chic City Slicker Eyes
+1309	Chic City Slicker Eyes
+1310	Chic City Slicker Eyes
+1311	Chic City Slicker Eyes
+1312	Chic City Slicker Eyes
+1313	Rag Doll Eyes
+1314	Rag Doll Eyes
+1315	Rag Doll Eyes
+1316	Rag Doll Eyes
+1317	Rag Doll Eyes
+1318	Innocent Bright Eyes
+1319	Innocent Bright Eyes
+1320	Innocent Bright Eyes
+1321	Innocent Bright Eyes
+1322	Innocent Bright Eyes
+1323	Unfocused Eyes
+1324	Unfocused Eyes
+1325	Unfocused Eyes
+1326	Unfocused Eyes
+1327	Unfocused Eyes
+1328	Observant Eyes
+1329	Observant Eyes
+1330	Observant Eyes
+1331	Observant Eyes
+1332	Observant Eyes
+1333	Determined Eyes
+1334	Determined Eyes
+1335	Determined Eyes
+1336	Determined Eyes
+1337	Determined Eyes
+1338	Serene Eyes
+1339	Serene Eyes
+1340	Serene Eyes
+1341	Serene Eyes
+1342	Serene Eyes
+1343	Stargazing Eyes
+1344	Stargazing Eyes
+1345	Stargazing Eyes
+1346	Stargazing Eyes
+1347	Stargazing Eyes
+1348	Smirking Mouth
+1349	Smirking Mouth
+1350	Smirking Mouth
+1351	Smirking Mouth
+1352	Smirking Mouth
+1358	Playful Teasing Mouth
+1359	Playful Teasing Mouth
+1360	Playful Teasing Mouth
+1361	Playful Teasing Mouth
+1362	Playful Teasing Mouth
+1363	Dissatisfied Mouth
+1364	Dissatisfied Mouth
+1365	Dissatisfied Mouth
+1366	Dissatisfied Mouth
+1367	Dissatisfied Mouth
+1368	Super Sour Mouth
+1369	Super Sour Mouth
+1370	Super Sour Mouth
+1371	Super Sour Mouth
+1372	Super Sour Mouth
+1373	Cute Animal Mouth
+1374	Cute Animal Mouth
+1375	Cute Animal Mouth
+1376	Cute Animal Mouth
+1377	Cute Animal Mouth
+1378	Airy Cheeks Mouth
+1379	Airy Cheeks Mouth
+1380	Airy Cheeks Mouth
+1381	Airy Cheeks Mouth
+1382	Airy Cheeks Mouth
+1383	Vigilant Mouth
+1384	Vigilant Mouth
+1385	Vigilant Mouth
+1386	Vigilant Mouth
+1387	Vigilant Mouth
+1388	Heart-filled Eyes
+1389	Heart-filled Eyes
+1390	Heart-filled Eyes
+1391	Heart-filled Eyes
+1392	Heart-filled Eyes
+1393	Starlight Eyes
+1394	Starlight Eyes
+1395	Starlight Eyes
+1396	Starlight Eyes
+1397	Starlight Eyes
+1398	Emaciated Eyes
+1399	Emaciated Eyes
+1400	Emaciated Eyes
+1401	Emaciated Eyes
+1402	Emaciated Eyes
+1403	Small Animal Mouth
+1404	Mischievous Cat Mouth
+1405	Mischievous Cat Mouth
+1406	Mischievous Cat Mouth
+1407	Mischievous Cat Mouth
+1408	Mischievous Cat Mouth
+1409	Talvish Tired Eyes
+1410	Caswyn Tired Eyes
+1411	Talvish Blank Mouth
+1412	Talvish Tense Eyebrows
+1413	Talvish Cutscene Eyes
+1414	Caswyn Cutscene Eyes
+1415	Gate of Sanctuary Cutscene Mouth
+1416	Serene Eyes
+1417	Serene Eyes
+1418	Serene Eyes
+1419	Serene Eyes
+1420	Serene Eyes
+1421	Laighlinne Eyes (Monster)
+1422	Laighlinne Eyes (Partner)
+1426	Laighlinne Lips (Monster)
+1427	Laighlinne Lips (Partner)
+1429	Laighlinne Eyes
+1430	Laighlinne Lips
+1431	Laighlinne Eyes
+1432	Laighlinne Eyes
+1433	Laighlinne Lips
+1434	Laighlinne Lips
+1435	Laighlinne Eyes (Additional)
+1437	Laighlinne Lips (Additional)
+1438	Succubus Fiend's Eye
+1439	Cookie Witch's Eyes
+1440	Cookie Witch's Mouth
+1532	Surprised Mouth
+1533	Surprised Mouth
+1534	Surprised Mouth
+1535	Surprised Mouth
+1536	Surprised Mouth
+1537	Focused Mouth
+1538	Focused Mouth
+1539	Focused Mouth
+1540	Focused Mouth
+1541	Focused Mouth
+1542	Cheeky Grin
+1543	Cheeky Grin
+1544	Cheeky Grin
+1545	Cheeky Grin
+1546	Cheeky Grin
+1547	Om Nom Nom Mouth
+1548	Om Nom Nom Mouth
+1549	Om Nom Nom Mouth
+1550	Om Nom Nom Mouth
+1551	Om Nom Nom Mouth
+1552	Uhhh Mouth
+1553	Uhhh Mouth
+1554	Uhhh Mouth
+1555	Uhhh Mouth
+1556	Uhhh Mouth
+1562	Cheerful Laugh Mouth
+1563	Cheerful Laugh Mouth
+1564	Cheerful Laugh Mouth
+1565	Cheerful Laugh Mouth
+1566	Cheerful Laugh Mouth
+1572	Intelligent Eyes
+1573	Intelligent Eyes
+1574	Intelligent Eyes
+1575	Intelligent Eyes
+1576	Intelligent Eyes
+1577	Thoughtful Eyes
+1578	Thoughtful Eyes
+1579	Thoughtful Eyes
+1580	Thoughtful Eyes
+1581	Thoughtful Eyes
+1582	Piercing Eyes
+1583	Piercing Eyes
+1584	Piercing Eyes
+1585	Piercing Eyes
+1586	Piercing Eyes
+1587	Lively Eyes
+1588	Lively Eyes
+1589	Lively Eyes
+1590	Lively Eyes
+1591	Lively Eyes
+1592	Sentimental Eyes
+1593	Sentimental Eyes
+1594	Sentimental Eyes
+1595	Sentimental Eyes
+1596	Sentimental Eyes
+1597	Calm Eyes
+1598	Calm Eyes
+1599	Calm Eyes
+1600	Calm Eyes
+1601	Calm Eyes
+1602	Curious Eyes
+1603	Curious Eyes
+1604	Curious Eyes
+1605	Curious Eyes
+1606	Curious Eyes
+1607	Noble Eyes
+1608	Noble Eyes
+1609	Noble Eyes
+1610	Noble Eyes
+1611	Noble Eyes
+1612	Lady Lips
+1613	Lady Lips
+1614	Lady Lips
+1615	Lady Lips
+1616	Lady Lips
+1617	Cherry Lips
+1618	Cherry Lips
+1619	Cherry Lips
+1620	Cherry Lips
+1621	Cherry Lips
+1622	Kyle Eyes
+1623	Colton Eyes
+1624	William Eyes
+1625	Kyle Lips
+1626	Colton Lips
+1627	William Lips
+1631	William Eyes
+1632	William Mouth
+1639	Smoky Eyes
+1640	Smoky Eyes
+1641	Smoky Eyes
+1642	Smoky Eyes
+1643	Smoky Eyes
+1644	Succubus Fiend Eyes
+1645	Succubus Fiend Eyes
+1646	Succubus Fiend Eyes
+1647	Succubus Fiend Eyes
+1648	Succubus Fiend Eyes
+1649	Starry Eyes
+1650	Starry Eyes
+1651	Starry Eyes
+1652	Starry Eyes
+1653	Starry Eyes
+1654	Guarded Eyes
+1655	Guarded Eyes
+1656	Guarded Eyes
+1657	Guarded Eyes
+1658	Guarded Eyes
+1659	Daydreaming Eyes
+1660	Daydreaming Eyes
+1661	Daydreaming Eyes
+1662	Daydreaming Eyes
+1663	Daydreaming Eyes
+1664	Trustful Eyes
+1665	Trustful Eyes
+1666	Trustful Eyes
+1667	Trustful Eyes
+1668	Trustful Eyes
+1670	Smug Mouth
+1671	Smug Mouth
+1672	Smug Mouth
+1673	Smug Mouth
+1674	Smug Mouth
+1675	Gleeful Kitten Mouth
+1676	Gleeful Kitten Mouth
+1677	Gleeful Kitten Mouth
+1678	Gleeful Kitten Mouth
+1679	Gleeful Kitten Mouth
+1680	Tight-lipped Mouth
+1681	Tight-lipped Mouth
+1682	Tight-lipped Mouth
+1683	Tight-lipped Mouth
+1684	Tight-lipped Mouth
+1685	Vampire Mouth
+1686	Vampire Mouth
+1687	Vampire Mouth
+1688	Vampire Mouth
+1689	Vampire Mouth
+1705	Teeny Mouth
+1706	Teeny Mouth
+1707	Teeny Mouth
+1708	Teeny Mouth
+1709	Teeny Mouth
+1710	Darling Eyes
+1711	Darling Eyes
+1712	Darling Eyes
+1713	Darling Eyes
+1714	Darling Eyes
+1715	Cordial Smile
+1716	Cordial Smile
+1717	Cordial Smile
+1718	Cordial Smile
+1719	Cordial Smile
+1730	Rosy Lips
+1731	Rosy Lips
+1732	Rosy Lips
+1733	Rosy Lips
+1734	Rosy Lips
+1735	Wine-red Lips
+1736	Wine-red Lips
+1737	Wine-red Lips
+1738	Wine-red Lips
+1739	Wine-red Lips
+1740	Strawberry Lips
+1741	Strawberry Lips
+1742	Strawberry Lips
+1743	Strawberry Lips
+1744	Strawberry Lips
+1745	NPC Eiren's Eyes
+1747	NPC Possessed Eiren's Eyes
+1748	NPC Eiren's Mouth
+1749	NPC Possessed Eiren's Mouth
+1750	NPC Possessed Eiren's Closed Eyes
+1797	Sultry Eyes
+1798	Sultry Eyes
+1799	Sultry Eyes
+1800	Sultry Eyes
+1801	Sultry Eyes
+1802	Starstruck Eyes
+1803	Starstruck Eyes
+1804	Starstruck Eyes
+1805	Starstruck Eyes
+1806	Starstruck Eyes
+1807	Wide Glittering Eyes
+1808	Wide Glittering Eyes
+1809	Wide Glittering Eyes
+1810	Wide Glittering Eyes
+1811	Wide Glittering Eyes
+1812	Dark Fairy Eyes
+1813	Dark Fairy Eyes
+1814	Dark Fairy Eyes
+1815	Dark Fairy Eyes
+1816	Dark Fairy Eyes
+1817	Cool and Cavalier Eyes
+1818	Cool and Cavalier Eyes
+1819	Cool and Cavalier Eyes
+1820	Cool and Cavalier Eyes
+1821	Cool and Cavalier Eyes
+1822	Two-Tone Serene Eyes
+1823	Two-Tone Serene Eyes
+1824	Two-Tone Serene Eyes
+1825	Two-Tone Serene Eyes
+1826	Two-Tone Serene Eyes
+1832	Shaky Smile Mouth
+1833	Shaky Smile Mouth
+1834	Shaky Smile Mouth
+1835	Shaky Smile Mouth
+1836	Shaky Smile Mouth
+1837	Gleefully Smiling Mouth
+1838	Gleefully Smiling Mouth
+1839	Gleefully Smiling Mouth
+1840	Gleefully Smiling Mouth
+1841	Gleefully Smiling Mouth
+1842	Two-Tone Wide Glittering Eyes
+1843	Two-Tone Wide Glittering Eyes
+1844	Two-Tone Wide Glittering Eyes
+1845	Two-Tone Wide Glittering Eyes
+1846	Two-Tone Wide Glittering Eyes
+1853	Sultry Eyes
+1854	Sultry Eyes
+1855	Sultry Eyes
+1856	Sultry Eyes
+1857	Sultry Eyes
+1858	Starstruck Eyes
+1859	Starstruck Eyes
+1860	Starstruck Eyes
+1861	Starstruck Eyes
+1862	Starstruck Eyes
+1863	Wide Glittering Eyes
+1864	Wide Glittering Eyes
+1865	Wide Glittering Eyes
+1866	Wide Glittering Eyes
+1867	Wide Glittering Eyes
+1868	Dark Fairy Eyes
+1869	Dark Fairy Eyes
+1870	Dark Fairy Eyes
+1871	Dark Fairy Eyes
+1872	Dark Fairy Eyes
+1873	Cool and Cavalier Eyes
+1874	Cool and Cavalier Eyes
+1875	Cool and Cavalier Eyes
+1876	Cool and Cavalier Eyes
+1877	Cool and Cavalier Eyes
+1878	Two-Tone Serene Eyes
+1879	Two-Tone Serene Eyes
+1880	Two-Tone Serene Eyes
+1881	Two-Tone Serene Eyes
+1882	Two-Tone Serene Eyes
+1883	Two-Tone Wide Glittering Eyes
+1884	Two-Tone Wide Glittering Eyes
+1885	Two-Tone Wide Glittering Eyes
+1886	Two-Tone Wide Glittering Eyes
+1887	Two-Tone Wide Glittering Eyes
+1893	Two-Tone Innocent Bright Eyes
+1894	Two-Tone Innocent Bright Eyes
+1895	Two-Tone Innocent Bright Eyes
+1896	Two-Tone Innocent Bright Eyes
+1897	Two-Tone Innocent Bright Eyes
+1899	Ram Eyes
+1900	Rem Eyes
+1901	Rem and Ram Mouth
+1902	NPC Piran's Eyes
+1903	NPC Piran's Mouth
+1904	Hypnotized Eyes
+1905	Hypnotized Eyes
+1906	Hypnotized Eyes
+1907	Hypnotized Eyes
+1908	Hypnotized Eyes
+1914	Deceiving Eyes
+1915	Deceiving Eyes
+1916	Deceiving Eyes
+1917	Deceiving Eyes
+1918	Deceiving Eyes
+1919	Two-Tone Watchful Eyes
+1920	Two-Tone Watchful Eyes
+1921	Two-Tone Watchful Eyes
+1922	Two-Tone Watchful Eyes
+1923	Two-Tone Watchful Eyes
+1924	Deep Gaze Eyes
+1925	Deep Gaze Eyes
+1926	Deep Gaze Eyes
+1927	Deep Gaze Eyes
+1928	Deep Gaze Eyes
+1929	Smoky Makeup Eyes
+1930	Smoky Makeup Eyes
+1931	Smoky Makeup Eyes
+1932	Smoky Makeup Eyes
+1933	Smoky Makeup Eyes
+1934	Flowery Eyes
+1935	Flowery Eyes
+1936	Flowery Eyes
+1937	Flowery Eyes
+1938	Flowery Eyes
+1939	Thick Eyelash Eyes
+1940	Thick Eyelash Eyes
+1941	Thick Eyelash Eyes
+1942	Thick Eyelash Eyes
+1943	Thick Eyelash Eyes
+1944	Two-Tone Pentacle Eyes
+1945	Two-Tone Pentacle Eyes
+1946	Two-Tone Pentacle Eyes
+1947	Two-Tone Pentacle Eyes
+1948	Two-Tone Pentacle Eyes
+1949	Two-Tone Sunken Eyes
+1950	Two-Tone Sunken Eyes
+1951	Two-Tone Sunken Eyes
+1952	Two-Tone Sunken Eyes
+1953	Two-Tone Sunken Eyes
+1954	Glittering Eyes
+1955	Glittering Eyes
+1956	Glittering Eyes
+1957	Glittering Eyes
+1958	Glittering Eyes
+1959	Slightly Opened Smiling Mouth
+1960	Slightly Opened Smiling Mouth
+1961	Slightly Opened Smiling Mouth
+1962	Slightly Opened Smiling Mouth
+1963	Slightly Opened Smiling Mouth
+1964	Wide Smiling Mouth
+1965	Wide Smiling Mouth
+1966	Wide Smiling Mouth
+1967	Wide Smiling Mouth
+1968	Wide Smiling Mouth
+1969	Hungry Mouth
+1970	Hungry Mouth
+1971	Hungry Mouth
+1972	Hungry Mouth
+1973	Hungry Mouth
+1974	Drooling Mouth
+1975	Drooling Mouth
+1976	Drooling Mouth
+1977	Drooling Mouth
+1978	Drooling Mouth
+1979	Slightly Opened Pink Lips
+1980	Slightly Opened Pink Lips
+1981	Slightly Opened Pink Lips
+1982	Slightly Opened Pink Lips
+1983	Slightly Opened Pink Lips
+1984	Wide Smiling Pink Lips
+1985	Wide Smiling Pink Lips
+1986	Wide Smiling Pink Lips
+1987	Wide Smiling Pink Lips
+1988	Wide Smiling Pink Lips
+1989	Sulky Mouth
+1990	Sulky Mouth
+1991	Sulky Mouth
+1992	Sulky Mouth
+1993	Sulky Mouth
+1994	Long Snaggletooth Mouth
+1995	Long Snaggletooth Mouth
+1996	Long Snaggletooth Mouth
+1997	Long Snaggletooth Mouth
+1998	Long Snaggletooth Mouth
+1999	Declarative Mouth
+2000	Declarative Mouth
+2001	Declarative Mouth
+2002	Declarative Mouth
+2003	Declarative Mouth
+2004	Sharp Canine Mouth
+2005	Sharp Canine Mouth
+2006	Sharp Canine Mouth
+2007	Sharp Canine Mouth
+2008	Sharp Canine Mouth
+2009	Blaanid Eyes
+2010	Blaanid Mouth
+2011	Two-Tone Darling Eyes
+2012	Two-Tone Darling Eyes
+2013	Two-Tone Darling Eyes
+2014	Two-Tone Darling Eyes
+2015	Two-Tone Darling Eyes
+2016	Two-Tone Daydreaming Eyes
+2017	Two-Tone Daydreaming Eyes
+2018	Two-Tone Daydreaming Eyes
+2019	Two-Tone Daydreaming Eyes
+2020	Two-Tone Daydreaming Eyes
+2021	Brusque Eyes
+2022	Brusque Eyes
+2023	Brusque Eyes
+2024	Brusque Eyes
+2025	Brusque Eyes
+2026	Drowsy Eyes
+2027	Drowsy Eyes
+2028	Drowsy Eyes
+2029	Drowsy Eyes
+2030	Drowsy Eyes
+2035	NPC Marleid's Eyes
+2037	NPC Marleid's Mouth
+2038	NPC Cethlenn's Eyes
+2039	NPC Cethlenn's Mouth
+2040	NPC Balor's Eyes
+2041	NPC Balor's Mouth
+2051	Slightly Sulky Mouth
+2052	Slightly Sulky Mouth
+2053	Slightly Sulky Mouth
+2054	Slightly Sulky Mouth
+2055	Slightly Sulky Mouth
+2056	Vayne Mouth
+2057	Vayne Mouth
+2058	Vayne Mouth
+2059	Vayne Mouth
+2060	Vayne Mouth
+2061	Slightly-Bit Lips
+2062	Slightly-Bit Lips
+2063	Slightly-Bit Lips
+2064	Slightly-Bit Lips
+2065	Slightly-Bit Lips
+2066	Pit-a-Pat Morning Lips
+2067	Pit-a-Pat Morning Lips
+2068	Pit-a-Pat Morning Lips
+2069	Pit-a-Pat Morning Lips
+2070	Pit-a-Pat Morning Lips
+2071	Obsessive Mouth
+2072	Obsessive Mouth
+2073	Obsessive Mouth
+2074	Obsessive Mouth
+2075	Obsessive Mouth
+2076	Angry Mouth
+2077	Angry Mouth
+2078	Angry Mouth
+2079	Angry Mouth
+2080	Angry Mouth
+2081	Kissable Lips
+2082	Kissable Lips
+2083	Kissable Lips
+2084	Kissable Lips
+2085	Kissable Lips
+2086	Slight Smile Mouth
+2087	Slight Smile Mouth
+2088	Slight Smile Mouth
+2089	Slight Smile Mouth
+2090	Slight Smile Mouth
+2091	Doubtful Mouth
+2092	Doubtful Mouth
+2093	Doubtful Mouth
+2094	Doubtful Mouth
+2095	Doubtful Mouth
+2096	Shocked Disbelief Mouth
+2097	Shocked Disbelief Mouth
+2098	Shocked Disbelief Mouth
+2099	Shocked Disbelief Mouth
+2100	Shocked Disbelief Mouth
+2101	Tempting Smoky Eyes
+2102	Tempting Smoky Eyes
+2103	Tempting Smoky Eyes
+2104	Tempting Smoky Eyes
+2105	Tempting Smoky Eyes
+2106	Two-Tone Coy Cat Eyes
+2107	Two-Tone Coy Cat Eyes
+2108	Two-Tone Coy Cat Eyes
+2109	Two-Tone Coy Cat Eyes
+2110	Two-Tone Coy Cat Eyes
+2111	Heavenly Eyes
+2112	Heavenly Eyes
+2113	Heavenly Eyes
+2114	Heavenly Eyes
+2115	Heavenly Eyes
+2116	Obsessive Eyes
+2117	Obsessive Eyes
+2118	Obsessive Eyes
+2119	Obsessive Eyes
+2120	Obsessive Eyes
+2121	Vagabond Eyes
+2122	Vagabond Eyes
+2123	Vagabond Eyes
+2124	Vagabond Eyes
+2125	Vagabond Eyes
+2126	Two-Tone Hidden Heart Eyes
+2127	Two-Tone Hidden Heart Eyes
+2128	Two-Tone Hidden Heart Eyes
+2129	Two-Tone Hidden Heart Eyes
+2130	Two-Tone Hidden Heart Eyes
+2131	Sharp Gaze Eyes
+2132	Sharp Gaze Eyes
+2133	Sharp Gaze Eyes
+2134	Sharp Gaze Eyes
+2135	Sharp Gaze Eyes
+2136	Cold Scorn Eyes
+2137	Cold Scorn Eyes
+2138	Cold Scorn Eyes
+2139	Cold Scorn Eyes
+2140	Cold Scorn Eyes
+2141	Darkness-Piercing Eyes
+2142	Darkness-Piercing Eyes
+2143	Darkness-Piercing Eyes
+2144	Darkness-Piercing Eyes
+2145	Darkness-Piercing Eyes
+2146	Two-Tone Starry Cloud Eyes
+2147	Two-Tone Starry Cloud Eyes
+2148	Two-Tone Starry Cloud Eyes
+2149	Two-Tone Starry Cloud Eyes
+2150	Two-Tone Starry Cloud Eyes
+2151	Two-Tone Azure Eyes
+2152	Two-Tone Azure Eyes
+2153	Two-Tone Azure Eyes
+2154	Two-Tone Azure Eyes
+2155	Two-Tone Azure Eyes
+2156	Starry Cloud Eyes
+2157	Starry Cloud Eyes
+2158	Starry Cloud Eyes
+2159	Starry Cloud Eyes
+2160	Starry Cloud Eyes
+2161	Azure Eyes
+2162	Azure Eyes
+2163	Azure Eyes
+2164	Azure Eyes
+2165	Azure Eyes
+2166	Sultry Eyes
+2167	Sultry Eyes
+2168	Sultry Eyes
+2169	Sultry Eyes
+2170	Sultry Eyes
+2171	Starstruck Eyes
+2172	Starstruck Eyes
+2173	Starstruck Eyes
+2174	Starstruck Eyes
+2175	Starstruck Eyes
+2176	Wide Glittering Eyes
+2177	Wide Glittering Eyes
+2178	Wide Glittering Eyes
+2179	Wide Glittering Eyes
+2180	Wide Glittering Eyes
+2181	Dark Fairy Eyes
+2182	Dark Fairy Eyes
+2183	Dark Fairy Eyes
+2184	Dark Fairy Eyes
+2185	Dark Fairy Eyes
+2186	Cool and Cavalier Eyes
+2187	Cool and Cavalier Eyes
+2188	Cool and Cavalier Eyes
+2189	Cool and Cavalier Eyes
+2190	Cool and Cavalier Eyes
+2191	Two-Tone Serene Eyes
+2192	Two-Tone Serene Eyes
+2193	Two-Tone Serene Eyes
+2194	Two-Tone Serene Eyes
+2195	Two-Tone Serene Eyes
+2196	Two-Tone Wide Glittering Eyes
+2197	Two-Tone Wide Glittering Eyes
+2198	Two-Tone Wide Glittering Eyes
+2199	Two-Tone Wide Glittering Eyes
+2200	Two-Tone Wide Glittering Eyes
+2201	NPC Deirbhile's Eyes
+2202	NPC Deirbhile's Mouth
+2203	NPC Fodla's Eyes
+2204	NPC Fodla's Mouth
+2214	Serval Eyes
+2215	Serval Eyes
+2216	Serval Eyes
+2217	Serval Eyes
+2218	Serval Eyes
+2219	Caracal Eyes
+2220	Caracal Eyes
+2221	Caracal Eyes
+2222	Caracal Eyes
+2223	Caracal Eyes
+2224	Northern White-Faced Owl Eyes
+2225	Northern White-Faced Owl Eyes
+2226	Northern White-Faced Owl Eyes
+2227	Northern White-Faced Owl Eyes
+2228	Northern White-Faced Owl Eyes
+2229	Western Parotia Eyes
+2230	Western Parotia Eyes
+2231	Western Parotia Eyes
+2232	Western Parotia Eyes
+2233	Western Parotia Eyes
+2239	Common Raccoon Eyes
+2240	Common Raccoon Eyes
+2241	Common Raccoon Eyes
+2242	Common Raccoon Eyes
+2243	Common Raccoon Eyes
+2244	Fennec Fox Eyes
+2245	Fennec Fox Eyes
+2246	Fennec Fox Eyes
+2247	Fennec Fox Eyes
+2248	Fennec Fox Eyes
+2249	Crested Ibis Eyes
+2250	Crested Ibis Eyes
+2251	Crested Ibis Eyes
+2252	Crested Ibis Eyes
+2253	Crested Ibis Eyes
+2259	Two-Tone Kyururu Eyes
+2260	Two-Tone Kyururu Eyes
+2261	Two-Tone Kyururu Eyes
+2262	Two-Tone Kyururu Eyes
+2263	Two-Tone Kyururu Eyes
+2264	Superb Bird-of-Paradise Eyes
+2265	Superb Bird-of-Paradise Eyes
+2266	Superb Bird-of-Paradise Eyes
+2267	Superb Bird-of-Paradise Eyes
+2268	Superb Bird-of-Paradise Eyes
+2269	Beast Eyes
+2270	Beast Eyes
+2271	Beast Eyes
+2272	Beast Eyes
+2273	Beast Eyes

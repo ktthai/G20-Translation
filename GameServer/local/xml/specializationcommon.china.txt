@@ -1,0 +1,49 @@
+﻿0	Iron Will
+1	Vital Surge
+2	Dampen Shock
+3	Blunting Field
+4	Defiance
+5	Time Shift
+6	Relentless Assault
+7	Exploit Weakness
+8	Elemental Attunement
+9	Redoubled Offensive
+10	{0} {1} or above
+11	{0} {1} or below
+12	{0} (base) {1} or above
+13	{0} (base) {1} or below
+14	{0} equipped
+15	{0} owned
+16	{0} not owned
+17	Item with special upgrade level {0} or above equipped
+18	Item with special upgrade level {0} or below equipped
+19	Renown with {0} level {1} or higher
+20	Renown with {0} level {1} or lower
+21	Own title {0}
+22	Don't own title {0}
+23	Potential level {0} or above
+24	Potential level {0} or below
+25	Own journal {0}
+26	Don't own journal {0}
+27	Level equal to or higher than the Normal Level Bandit Imp at the Alban Training Grounds
+28	Item with at least {0} upgrades equipped
+29	Item with kess than {0} upgrades equipped
+30	Item at least erg level {0} equipped
+31	Item erg level {0} or lower equipped
+32	Phantasmal Sight
+33	Fateweaver
+34	Tenacious Taunt
+35	Zone of Renewal
+36	Unified Might
+37	Homestead level {0} or above
+38	Have {1} or more Workshop Bench(es) at level {0} or above in your Homestead
+39	Place {0} or more housing item(s) in your Homestead
+40	Complete {0} Part-Time Job {1} or more times
+41	Collect {1} in the {0} Diary
+42	Collect {1} or more entries in the {0} Diary
+43	Own Brionac
+44	Continuous Awakening
+45	Shield
+46	Protective Touch
+47	Sub-skill: {0} level {1} or higher
+48	Spirit Weapon equipped

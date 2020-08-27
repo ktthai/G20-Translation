@@ -1,0 +1,155 @@
+﻿2	Right-click on a character or item to open the character/item menu.
+3	You acquire AP every time you gain a level or have a birthday.
+4	To advance your skill rank, you must use AP. Take a moment to think and plan before you use your AP.
+7	Use hotkeys to access your skills more easily.\nYou can assign your skills to the hotkeys at the upper left of the screen.
+8	When you activate a skill, an icon blinks to show it's charging. \nYou can use the skill once the skill icon stops blinking.
+9	Your Stamina is displayed as a yellow bar at the bottom of the screen.\nMake sure you have enough Stamina before you use a skill.
+10	Request help if there is someone nearby when you're knocked unconscious.
+11	Use Phoenix Feathers to help players who are unconscious.
+12	The black part on the Stamina gauge indicates Hunger.\nHunger can be removed by eating food.
+23	Different dungeons are created depending on the item you drop on the altar. \nDrop quest passes to access quest dungeons.
+26	Move to other towns easily using the Moon Gate.
+27	Talk to town residents using keywords.\nThey have plenty of useful things to share with you!
+28	Return to the town you last visited by using a Red Wing of the Goddess.\nVisit the Healer's House if you're hurt.
+29	Talk to town residents about part-time jobs.\nWork hard to earn the money to achieve your goals!
+37	You can rebirth when you turn 20.\nView the character information window to check your age.
+38	Pay attention to the Beginner channel to get to know other adventurers close to your level.
+39	Every week, you grow a year older. \nEach time that happens, your character's height and stats increase!
+40	A minimap can be displayed at the top right corner of the screen.\nPress the hotkey <hotkey name="MiniMapView"/> to toggle the minimap display.
+41	Press <hotkey name="PartyView" /> to form a party.
+42	Press 'Enter' to open the Chat window.
+43	Press '~' to change your equipment and auxiliary equipment.
+44	Press 'Alt' to see monster ranks.
+45	Press 'Alt' to pick up items more easily.
+46	Press 'Ctrl' to auto-aim when attacking monsters.
+47	Press <hotkey name="UseLifePotion" /> to consume an HP Potion in your Inventory.
+48	Press <hotkey name="UseManaPotion" /> to consume an MP Potion in your Inventory.
+49	Press <hotkey name="UseStaminaPotion" /> to consume a Stamina Potion in your Inventory.
+51	Press <hotkey name="ClockView" /> to toggle the clock display.
+52	Press 'ESC' or click the skill icon above your head to cancel a skill.\nIf the skill does not cancel with ESC, please check the [Options] menu.
+53	A skill cannot be used if the goddess power required to use that Demigod skill is different from the goddess power you are using. Talk to Eabha in Falias to change your goddess power.
+54	Strength increases your close-ranged weapon damage.
+55	Dexterity increases your long-ranged weapon damage.
+56	Intelligence increases your magic damage.
+57	When injured, use a First Aid skill or talk to a Healer to recover.
+58	When you equip a 'title', you will gain a stat boost.
+59	If your Stamina bar isn't full, try eating some food!
+60	Every week, you grow a year older.
+61	You get AP more quickly after you Rebirth.
+62	AP can be acquired by leveling up and by gaining an Exploration level.
+63	If a weapon has high balance, it does consistent amounts of damage.
+65	Press '~' to toggle between your primary and auxiliary equipment sets.
+66	Skills can be hotkeyed to the bars at the top left of the screen. Press the F1-F12 keys to use them.
+67	Press 'Alt' to pick up items more easily.
+68	Press 'Ctrl' to auto-aim at monsters or NPCs.
+69	Press 'ESC' or click the skill icon above your head to cancel a skill.
+70	Drop items on altars to enter dungeons.
+71	Don't forget to press 'Complete' after you finish a quest!
+72	Use Smash to attack enemies using the Defense skill.
+73	Use a normal attack to defend against enemies attacking with Smash.
+75	Different NPCs can repair different types of equipment.
+76	Use the minimap to move around. Just click where you want to go!
+77	Blessing equipment with Holy Water of Lymilark makes it last longer.
+78	Use Phoenix Feathers to help players who are unconscious.
+79	Request help if there is someone nearby when you're knocked unconscious.
+80	Move to another continent by using the 'Continent Warp' function in the menu.
+81	During the day, you can go to previously visited places by using Iria's Mana Tunnel.
+82	At night, you can travel to other areas through the Moon Gate at Uladh.
+83	Part-time jobs can only be performed during certain times.
+84	Use gold pouches to store large amounts of gold without taking up too much space.
+85	NPCs with lower repair success rates charge less money.
+86	In a dungeon, locked doors can be opened using keys dropped on the floor.
+87	The items you lose from being knocked unconscious can be retrieved from Eavan in Dunbarton.
+88	Elves and Giants can use the power of wild beasts.
+89	Ferghus's nickname is Weapon Breaker. You have been warned.
+90	Something special happens when you use the Counterattack skill against Succubi...
+91	Worried about your weight? Go to the Zardine Hot Springs!
+92	The elves of Connous share their memories using the Memory Tower.
+93	In the Courcle region of Iria, there is an otter named Ruwai who can understand human speech.
+94	A strange cat lives in the Chief's house of Tir Chonaill...
+97	When an enemy is preparing a Counterattack, either attack from a distance or don't attack at all.
+98	Press 'Enter' to open the chat window.
+99	NPCs with lower repair success rates charge less money.
+102	When moving with the keyboard, pressing 'Num Lock' will allow you to auto-run.
+103	신규 투입되는 무기 '라이플'은 조준 사격에 유리합니다.
+104	모든 종족이 가장 죄책감을 느끼지 않고 잔인해질 수 있는 시간은 저녁 8시입니다.
+105	더 이상의 자세한 설명은 생략한다.
+106	수분 섭취는 몸을 무겁게 만들 뿐입니다.
+107	상대가 무릎을 꿇는다는 건 추진력을 얻겠다는 의미입니다.
+108	네, 다음 게임 팁.
+109	행동불능이 되었을 때 근성으로 일어나 보세요.
+110	일병은 이병보다 높은 계급입니다.
+111	무전기 아이템은 분대장 계급부터 착용 가능합니다.
+112	통신병 재능은 무전기로 라디오를 청취할 수 있습니다.
+113	BMNT는 팔라라가 뜨는 시간을 의미합니다.
+114	EENT는 이웨카가 뜨는 시간을 의미합니다.
+115	전역했어도 환생하면 다시 입대할 수 있습니다.
+116	삼단 야삽은 퍼거스가 판매하고 있습니다.
+117	잡입 미션을 성공하기 위해서는 기도비닉을 유지해야 합니다.
+118	엄폐 중인 적은 수류탄이나 박격포로 공격해야 효과적입니다.
+119	침상은 병장 계급부터 뛰어넘을 수 있습니다.
+120	힐웬 전차를 상대하기 위해서는 특제 전투 열기구가 필요합니다.
+121	오늘의 암구호는 문어에 마법, 답어에 연금입니다.
+122	황금마차 이벤트는 3일에 1회 발생합니다.
+123	침상지역에서는 병장 이상부터 다운어택을 사용할 수 있습니다.
+124	실리엔 마인은 강력한 폭발력으로 힐웬 전차를 무력화시킬 수 있습니다.
+125	메이크 일병을 구하지 못하면 드라마에 메이크 대신 다른 엘프가 등장할 수도 있습니다.
+126	당신은 지금까지 먹은 빵의 개수를 기억하고 있나? - 스튜어트
+127	행보관 NPC와의 우호도를 높이면 게임 진행이 수월해집니다.
+128	가면을 써도 주술의 힘은 그대로! 불가능을 모르는 최강의 샤먼!
+129	내 이름은 아쿨, 샤먼이죠.
+130	새하얗게... 불태워 버렸어...
+131	마나 허브를 캐왔는데, 왜 먹지를 못해...
+132	에린의 포워르들은 훌륭한 단백질 공급원이죠.
+133	In Iria, you can visit places you've been to before via Mana Tunnels.
+134	Everyone is given the Moon Gate to Ceo Island, even if they've never been there.
+135	In Uladh, you can visit places you've been to before via Moon Gates.
+136	Increasing Dexterity also increases Balance and damage of Archery skills.
+137	Skills can be hotkeyed to the skill slots at the top left and right of the screen. Press the F1-F12 keys to use them.
+138	Move to another continent by using the Continent Warp function in the action window.
+139	A strange cat lives in the Chief's house of Tir Chonaill...
+140	Moon Gates and Mana Tunnels in the Traveler's Guide can be used for free if your cumulative level is below 1,000.
+141	Progress through the Memoir by talking to Blaanid in Dunbarton for rapid growth. 
+142	Items can be bought and sold using the Auction House.
+143	Grandmaster effects can be changed on the talent window.
+144	Engage in the Guardian Guild Battle at Tir Chonaill and Dunbarton.
+145	Place a Workshop Bench in your Homestead to train skills more easily. 
+146	Reach cumulative level 10 to receive a ticket that can create a Homestead.
+147	Animals such as sheep, roosters, hens, and cows can be raised in the Homestead. You can also gather things!
+148	Homestead Stones can be gathered 10 times a day, and this limit gets reset at midnight in real time.
+149	Homestead Stones can be gathered from an outlaw's Homestead as well.
+150	Create your own housing on the Homestead.
+151	Extend a warm greeting to new players who are marked with an egg, or a chick mark on top of their head. 
+152	Check the requirements and rewards for a Storyline in the chapter info. 
+153	Purchase items from the shop more easily using Ctrl + click.
+154	It is possible to fly in certain parts of Uladh.
+155	Scroll through the shop pages using the arrow button located at the bottom of the NPC shop.
+156	Stop worrying about burning your durability! Repairs have 100% success rate.
+157	The Altar of Restoration can be purchased from the General Shop.
+158	The Altar of Restoration can be used to repair an item with damaged durability at once. 
+159	The Traveler's Guide allows you to easily move to all kinds of regions.
+160	Take awesome screenshots in Screenshot Mode.
+161	Press the Ctrl+N and ￦ keys to display truly stunning scenes.
+162	Skills can be trained more easily using AP.
+163	The Training EXP of the skills from active talents increase as your level increases. 
+164	Press Ctrl + ` to switch the 2 skill slots at the top of the screen.
+165	The Alban Knights Training Grounds can be entered from Dunbarton, using the Emblem on the wall behind Nerys.
+166	Take a Giant friend with you if you want to go ice fishing at the Reus River.
+167	Hold an empty bottle in your hand to gather water at rivers or wells.
+168	Flowers can be gathered in Emain Macha.
+169	Progress through the Memoir by talking to Blaanid in Dunbarton for rapid growth.
+170	Press the Space Bar while holding an umbrella.
+171	The conversation feature can be turned on and off by right clicking the partner.
+172	Food can be given by right clicking your partner, which alleviates their hunger.
+173	The party leader can set the Combat EXP distribution in the party window.
+174	A family can be created through marriage or adoption.
+175	Go to Festia by navigating to Character Info Window > Festia.
+176	Pets can be categorized into multiple tabs by adding them to Favorites.
+177	Various effects can be obtained by raising Renown.
+178	You can reset all your skills with Duncan at Tir Chonaill.
+179	Partners with high likeability will improve gathering.
+180	There are several convenience features that can be changed in the settings.
+181	You will return to a basic body type upon rebirth.
+182	Do not wander around the Dunbarton School Library at midnight.
+183	Items left on the grounds of Avalon Gate will be picked up by Shuan.
+184	Festia is always full of fun attractions.

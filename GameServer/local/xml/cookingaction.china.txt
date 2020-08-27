@@ -1,0 +1,60 @@
+﻿1	Mix
+2	Bake
+3	Simmer
+4	Boil
+5	Deep-fry
+6	Stir-fry
+7	Knead
+8	Noodle Making
+9	Pasta Making
+10	Trim and mix several ingredients.
+11	Boil and cook ingredients over the fire.
+12	Put ingredients in boiling water to cook.
+13	Heat liquid ingredients to cook.
+14	Put ingredients in heated oil to fry.
+15	Stir small ingredients to cook.
+16	Add water to wheat flour and knead.
+17	Knead dough, then roll and cut thin, long strips.
+18	Shape dough into certain forms.
+19	Hold a cooking knife in the right hand and a cooking table on the left to do it.
+20	Hold a ladle in the right hand and a cooking pot on the left and go near the fire to do it.
+21	Hold a ladle in the right hand and a cooking pot on the left and go near the fire to do it.
+22	Hold a ladle in the right hand and a cooking pot on the left and go near the fire to do it.
+23	Hold a ladle in the right hand and a cooking pot on the left and go near the fire to do it.
+24	Hold a ladle in the right hand and a cooking pot on the left and go near the fire to do it.
+25	Hold a rolling pin in the right hand and a cooking table on the left to do it.
+26	Hold a rolling pin in the right hand and a cooking table on the left to do it.
+27	Hold a rolling pin in the right hand and a cooking table on the left to do it.
+28	
+29	Fire
+30	Fire
+31	Fire
+32	Fire
+33	Fire
+34	
+35	
+36	
+37	Jam Making
+38	Pie Baking
+39	Add sugar to a bowl of smashed fruit, then heat it over a stove to make some tasty jam.
+40	Fill a pan of pie crust with all sorts of ingredients to bake a pie.
+41	Hold a ladle in your right hand and a pan in your left hand, then cook it near a furnace.
+42	Hold a rolling pin in your right hand and make sure there's a cooking table on your left to make a pie.
+43	Fire
+44	Steaming
+45	Use steam to cook.
+46	Equip a Ladle in your right hand, and a Cooking Pot on your left, then approach a fire.
+47	Fire
+48	Pizza Making
+49	Fermenting
+50	Sous Vide
+51	Julienning
+52	Add a variety of ingredients to the dough to make a pizza.
+53	Place ingredients into a sealed container to age and ferment them.
+54	Slowly heat the vacuum-sealed ingredients in warm water.
+55	Prepare the ingredients by slicing them into thin pieces.
+56	Hold a Rolling Pin in your right hand and a Cooking Table in your left to do it.
+57	Hold a Fermentation Vat in your right hand and a Cooking Table in your left to do it.
+58	Hold a Sous Vide Immersion Tub in your right hand and a Cooking Table in your left to do it.
+59	Hold a Long Cooking Knife in your right hand and a Cooking Table in your left to do it.
+60	Fire

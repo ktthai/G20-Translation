@@ -1,0 +1,23 @@
+﻿1	Tail Chasers
+2	Hammer Slam
+3	Martial Darts
+4	Shooting Gallery
+5	Prize Roulette
+6	Match Made in Heaven
+7	Clobbermeister
+8	Crystal Defender
+9	Cave of Trials
+10	Lorraine's Nightmare
+11	Free-for-all
+12	Team
+13	1-Player Test
+14	Free-for-all (2 players)
+15	Free-for-all (4 players)
+16	1-Player Test
+17	Free-for-all (2 players)
+18	Free-for-all (4 players)
+19	1-Player Test
+20	Free-for-all (2 players)
+21	1-Player Test
+22	Free-for-all
+23	Team (3 players)

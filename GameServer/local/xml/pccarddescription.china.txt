@@ -1,0 +1,574 @@
+﻿1	&lt;Basic Human Card&gt;
+2	&lt;Premium Human Card&gt;
+3	&lt;Premium Human Card (Sale)&gt;
+4	&lt;Event Rebirth Card&gt;
+5	&lt;Free Card&gt;
+6	&lt;Basic Human Card (Prize)&gt;
+7	&lt;Premium Human Card (Prize)&gt;
+8	Free Character Card
+9	&lt;Basic Human Card (Sale)&gt;
+10	&lt;Limited Premium Human Card&gt;
+11	Limited Item - 2005 Summer
+12	&lt;Limited Premium Human Card (Sale)&gt;
+13	&lt;Limited Premium Card&gt;
+14	Limited Item - 2005 Winter 
+15	&lt;Limited Premium Card (Sale)&gt;
+16	&lt;Basic Human Card (Test Server)&gt;
+17	Limited Item - 2005 Winter 
+18	&lt;Basic Human Card (Test Server)&gt;
+19	&lt;중국 프리미엄 한정 카드&gt;
+20	Limited Item - 2006 Summer 
+21	<Elf Free Card (Test Server)>
+22	<Basic Elf Card>
+23	<Premium Elf Card>
+24	<Elf Assistant Card>
+25	<Free Card (Test Server)>
+26	<Basic Elf Card (Sale)>
+27	<Premium Elf Card (Sale)>
+28	<Basic Elf Card (Prize)>
+29	<Premiun Elf Card (Prize)>
+30	<Event Elf Rebirth Card>
+31	<Free Elf Card>
+32	<Premium Elf Limited Card>
+33	Premium Limited Card
+34	대만 프리미엄 한정 카드
+35	Limited Item - Summer
+36	Limited Item - Summer
+37	Limited Item - Summer
+38	대만 추석 한정 프리미엄 카드
+39	대만 추석 한정 프리미엄 카드
+40	<Basic Giant Card>
+41	<Premium Giant Card>
+42	<Giant Assistant Card>
+43	<Giant Free Card (Test Server)>
+44	<일본 프리미엄 한정 카드>
+45	Limited Item - 2006 Winter 
+46	<Basic Giant Card (Sale)>
+47	<Premium Giant Card (Sale)>
+48	<Basic Giant Card (Prize)>
+49	<Premium Giant Card (Prize)>
+50	<Event Giant Rebirth Card>
+51	<Free Giant Card>
+52	Premium Limited Card
+53	<Limited Premium Elf Card>
+54	Limited Item - Winter 
+55	Limited Item - Winter 
+56	<프리미엄 자이언트 카드 (이벤트할인)>
+57	<프리미엄 자이언트 카드 (이벤트추가할인)>
+58	<Limited Premium Giant Card>
+59	Limited Item - Winter
+60	<이벤트 환생 전용 카드>
+61	전 종족 사용 가능
+62	<Limited Premium Human Card>
+63	<Limited Premium Elf Card>
+64	<Limited Premium Giant Card>
+65	2007년 여름 한정 품목
+66	2007년 여름 한정 품목
+67	2007년 여름 한정 품목
+68	Limited Item - Winter Premium Character Card
+69	Limited Item - Winter Premium Elf Character Card
+70	Limited Item - Winter Premium Giant Character Card
+71	<프리미엄 자이언트 한정 카드>
+72	<Limited Premium Giant Card>
+73	<Limited Premium Human Card>
+74	<Limited Premium Elf Card>
+75	2008년 겨울 한정 품목
+76	2008년 겨울 한정 품목
+77	2008년 겨울 한정 품목
+78	Limited Item - Summer
+79	Limited Item - Summer
+80	Limited Item - Summer
+81	<룬다 전용 베이직 카드>
+82	<프리미엄 자이언트 한정 카드>
+83	<프리미엄 인간 한정 카드>
+84	<프리미엄 엘프 한정 카드>
+85	Skeleton Human Card
+86	룬다 전용 베이직 카드
+87	2008년 여름 한정 품목
+88	2008년 여름 한정 품목
+89	2008년 여름 한정 품목
+90	Halloween Special
+91	Skeleton Elf Card
+92	Skeleton Giant Card
+93	Halloween Special
+94	Halloween Special
+95	<Limited Premium Giant Card>
+96	<Limited Premium Human Card>
+97	<Limited Premium Elf Card>
+98	Limited Item - Winter
+99	Limited Item - Winter
+100	Limited Item - Winter
+101	작안의 샤나 인간 한정 카드
+102	작안의 샤나 엘프 한정 카드
+103	Human School Uniform Card
+104	Elf School Uniform Card
+105	Giant School Uniform Card
+106	작안의 샤나 한정 품목
+107	작안의 샤나 한정 품목
+108	Limited Item - School Uniform
+109	Limited Item - School Uniform
+110	Limited Item - School Uniform
+111	<Free Card>
+112	마쯔리 인간 한정 카드
+113	마쯔리 엘프 한정 카드
+114	마쯔리 자이언트 한정 카드
+115	마쯔리 한정 품목
+116	마쯔리 한정 품목
+117	마쯔리 한정 품목
+118	4주년 기념 인간 한정 카드
+119	4주년 기념 엘프 한정 카드
+120	4주년 기념 자이언트 한정 카드
+121	4주년 기념 한정 품목
+122	4주년 기념 한정 품목]
+123	4주년 기념 한정 품목
+124	<프리미엄 자이언트 한정 카드>
+125	<프리미엄 인간 한정 카드>
+126	<프리미엄 엘프 한정 카드>
+127	2009년 여름 한정 품목
+128	2009년 여름 한정 품목
+129	2009년 여름 한정 품목
+130	Limited Pilgrim Human Card
+131	Limited Pilgrim Elf Card
+132	Arabian Nights Human Card
+133	Arabian Nights Giant Card
+134	Arabian Nights Elf Card
+135	Limited Pilgrim Item
+136	Limited Pilgrim Item
+137	Arabian Nights Item
+138	Arabian Nights Item
+139	Arabian Nights Item
+140	Limited Pilgrim Giant Card
+141	Limited Pilgrim Item
+142	Warrior's Destiny Card
+143	Ranger's Destiny Card
+144	Mage's Destiny Card
+145	Alchemist's Destiny Card
+146	Elven Warrior's Destiny Card
+147	Elven Ranger's Destiny Card
+148	Elven Mage's Destiny Card
+149	Elven Alchemist's Destiny Card
+150	Giant Warrior's Destiny Card
+151	Giant Mage's Destiny Card
+152	Giant Alchemist's Destiny Card
+153	Limited Premium Card
+154	Limited Premium Elf Card
+155	Limited Premium Giant Card
+156	Premium Human Card
+157	Premium Elf Card
+158	Premium Giant Card
+159	<프리미엄 인간 한정 카드>
+160	<프리미엄 엘프 한정 카드>
+161	<프리미엄 자이언트 한정 카드>
+162	2010년 겨울 한정 품목
+163	2010년 겨울 한정 품목
+164	2010년 겨울 한정 품목
+165	Premium Human Card
+166	Premium Elf Card
+167	Premium Giant Card
+168	Emerald's Celtic Suit
+169	Emerald's Celtic Suit
+170	Emerald's Celtic Suit
+171	Limited Premium Human Card
+172	Limited Premium Elf Card
+173	Limited Premium Giant Card
+174	Limited Item - Owl Robe
+175	Limited Item - Owl Robe
+176	Limited Item - Owl Robe
+177	2NE1 산다라 (더미)
+178	2NE1 산다라 (더미)
+179	2NE1 산다라 (더미)
+180	2NE1 산다라 (더미)
+181	2NE1 Dara
+182	2NE1 Bom
+183	2NE1 CL
+184	2NE1 Minzy
+185	2NE1 Dara
+186	2NE1 Bom
+187	2NE1 CL
+188	2NE1 Minzy
+189	2NE1 Dara
+190	2NE1 Bom
+191	2NE1 CL
+192	2NE1 Minzy
+193	2NE1 Dara
+194	2NE1 Bom
+195	2NE1 CL
+196	2NE1 Minzy
+197	Limited Premium Human Card
+198	Limited Premium Elf Card
+199	Limited Premium Giant Card
+200	Dye Package
+201	Dye Package
+202	Dye Package
+203	2NE1 Dara (프리미엄 패키지)
+204	2NE1 Bom (프리미엄 패키지)
+205	2NE1 CL (프리미엄 패키지)
+206	2NE1 Minzy (프리미엄 패키지)
+207	2NE1 Dara (보너스 아이템)
+208	2NE1 Bom (보너스 아이템)
+209	2NE1 CL (보너스 아이템)
+210	2NE1 Minzy (보너스 아이템)
+211	Dara 스타일의 한정 품목
+212	Bom 스타일의 한정 품목
+213	CL 스타일의 한정 품목
+214	Minzy 스타일의 한정 품목
+215	Dara 스타일의 한정 품목
+216	Bom 스타일의 한정 품목
+217	CL 스타일의 한정 품목
+218	Minzy 스타일의 한정 품목
+219	2NE1 Dara
+220	2NE1 Bom
+221	2NE1 CL
+222	2NE1 Minzy
+223	작안의 샤나 인간 한정 카드
+224	작안의 샤나 엘프 한정 카드
+225	작안의 샤나 자이언트 한정 카드
+226	작안의 샤나 한정 품목
+227	작안의 샤나 한정 품목
+228	작안의 샤나 한정 품목
+229	Limited Premium Human Card
+230	Limited Premium Elf Card
+231	Limited Premium Giant Card
+232	Swimsuit Item
+233	Swimsuit Item
+234	Swimsuit Item
+235	Limited Premium Human Card
+236	Limited Premium Elf Card
+237	Limited Premium Giant Card
+238	Sailor Uniform Item
+239	Sailor Uniform Item
+240	Sailor Uniform Item
+241	프리미엄 한정 카드
+242	프리미엄 엘프 한정 카드
+243	프리미엄 자이언트 한정 카드
+244	프리미엄 한정 카드
+245	프리미엄 엘프 한정 카드
+246	프리미엄 자이언트 한정 카드
+247	2010년 여름 한정 품목
+248	2010년 여름 한정 품목
+249	2010년 여름 한정 품목
+250	2010년 여름 한정 품목
+251	2010년 여름 한정 품목
+252	2010년 여름 한정 품목
+253	Limited Premium Human Card
+254	Limited Premium Elf Card
+255	Limited Premium Giant Card
+256	Limited Item - Magician Outfit
+257	Limited Item - Magician Outfit
+258	Limited Item - Magician Outfit
+259	Limited Premium Human Card
+260	Limited Premium Elf Card
+261	Limited Premium Giant Card
+262	Arashi Armor
+263	Arashi Armor
+264	Arashi Armor
+265	프리미엄 인간 카드(마술사) 
+266	프리미엄 엘프 카드(마술사)
+267	프리미엄 자이언트 카드(마술사)
+268	강철의 연금술사 인간 한정 카드
+269	강철의 연금술사 엘프 한정 카드
+270	강철의 연금술사 자이언트 한정 카드
+271	별모양 마술사 의상 품목
+272	별모양 마술사 의상 품목
+273	별모양 마술사 의상 품목
+274	Japan Alchemist Limited Item
+275	Japan Alchemist Limited Item
+276	Japan Alchemist Limited Item
+277	Limited Premium Card (Secret)
+278	Limited Premium Giant Card (Secret)
+279	Limited Premium Card
+280	Limited Premium Giant Card
+281	Secret Premium Character Card
+282	Secret Premium Character Card
+283	Knight Wing Plate Set
+284	Knight Wing Plate Set
+285	Limited Premium Card
+286	Limited Premium Elf Card
+287	Limited Premium Giant Card
+288	Limited Premium Card
+289	Limited Premium Elf Card
+290	Limited Premium Giant Card
+291	Limited Character Card - Winter Fur Wear
+292	Limited Character Card - Winter Fur Wear
+293	Limited Character Card - Winter Fur Wear
+294	Limited Character Card - Winter Fur Wear
+295	Limited Character Card - Winter Fur Wear
+296	Limited Character Card - Winter Fur Wear
+297	프리미엄 한정 카드
+298	프리미엄 엘프 한정 카드
+299	프리미엄 자이언트 한정 카드
+300	프리미엄 한정 카드
+301	프리미엄 엘프 한정 카드
+302	프리미엄 자이언트 한정 카드
+303	2011년 겨울 한정 캐릭터 카드
+304	2011년 겨울 한정 캐릭터 카드
+305	2011년 겨울 한정 캐릭터 카드
+306	2011년 겨울 한정 캐릭터 카드
+307	2011년 겨울 한정 캐릭터 카드
+308	2011년 겨울 한정 캐릭터 카드
+309	Limited Premium Card
+310	Limited Premium Elf Card
+311	Limited Premium Giant Card
+312	Taoist Costume Character Card
+313	Taoist Costume Character Card
+314	Taoist Costume Character Card
+315	Limited Wonderland Human Card
+316	Limited Wonderland Elf Card
+317	Limited Wonderland Giant Card
+318	Wonderland Character Card
+319	Wonderland Character Card
+320	Wonderland Character Card
+321	Limited Zorro Human Card
+322	Limited Zorro Elf Card
+323	Limited Zorro Giant Card
+324	Zorro Character Card
+325	Zorro Character Card
+326	Zorro Character Card
+327	Limited Yukata Mini Human Card
+328	Limited Yukata Mini Elf Card
+329	Limited Yukata Mini Giant Card
+330	Yukata Mini Character Card
+331	Yukata Mini Character Card
+332	Yukata Mini Character Card
+333	Limited Yukata Mini Human Card (with AP)
+334	Limited Yukata Mini Elf Card (with AP)
+335	Limited Yukata Mini Giant Card (with AP)
+336	Yukata Mini Character Card (with AP)
+337	Yukata Mini Character Card (with AP)
+338	Yukata Mini Character Card (with AP)
+339	<Limited Premium Card>
+340	<Limited Premium Elf Card>
+341	<Limited Premium Giant Card>
+342	Jumping in the Rain
+343	Jumping in the Rain
+344	Jumping in the Rain
+345	아노하나 인간 한정 카드
+346	아노하나 엘프 한정 카드
+347	아노하나 자이언트 한정 카드
+348	Vampire Human Card
+349	Vampire Elf Card
+350	Vampire Giant Card
+351	Frankenstein Human Card
+352	Frankenstein Elf Card
+353	Frankenstein Giant Card
+354	아노하나 한정 품목
+355	아노하나 한정 품목
+356	아노하나 한정 품목
+357	Halloween Special
+358	Halloween Special
+359	Halloween Special
+360	Halloween Special
+361	Halloween Special
+362	Halloween Special
+363	아노하나 인간 야도미 한정 카드
+364	아노하나 엘프 유키아츠 한정 카드
+365	아노하나 자이언트 폿포 한정 카드
+366	아노하나 인간 멘마 한정 카드
+367	아노하나 엘프 아나루 한정 카드
+368	아노하나 자이언트 츠루코 한정 카드
+369	아노하나 한정 품목
+370	아노하나 한정 품목
+371	아노하나 한정 품목
+372	<Limited Premium Human Card>
+373	<Limited Premium Elf Card>
+374	<Limited Premium Giant Card>
+375	Limited Winter Wolf Coat premium card.
+376	Limited Winter Wolf Coat premium card.
+377	Limited Winter Wolf Coat premium card.
+378	Limited Star Rider Human Card
+379	Limited Star Rider Elf Card
+380	Limited Star Rider Giant Card
+381	Limited-edition 2012 Star Rider item
+382	Limited-edition 2012 Star Rider item
+383	Limited-edition 2012 Star Rider item
+384	Limited Pajama Human Card
+385	Limited Pajama Elf Card
+386	Limited Pajama Giant Card
+387	Limited Pajama Item
+388	Limited Pajama Item
+389	Limited Pajama Item
+390	프리미엄 한정 카드
+391	프리미엄 한정 엘프 카드
+392	프리미엄 한정 자이언트 카드
+393	항마의 제복 한정 품목
+394	항마의 제복 한정 품목
+395	항마의 제복 한정 품목
+396	<Summer Solstice Human Card>
+397	<Summer Solstice Elf Card>
+398	<Summer Solstice Giant Card>
+399	A limited item to celebrate the summer.
+400	A limited item to celebrate the summer.
+401	A limited item to celebrate the summer.
+405	항마의 제복 한정 품목
+406	항마의 제복 한정 품목
+407	항마의 제복 한정 품목
+408	Limited Bell Fox Premium Human Card
+409	Limited Bell Fox Premium Elf Card
+410	Limited Bell Fox Premium Giant Card
+411	Limited-edition 2012 Autumn item
+412	Limited-edition 2012 Autumn item
+413	Limited-edition 2012 Autumn item
+414	Pumpkin Bat Human Card
+415	Pumpkin Bat Elf Card
+416	Pumpkin Bat Giant Card
+417	Halloween Special
+418	Halloween Special
+419	Halloween Special
+420	Miku-Kaito Human Limited Character Card
+421	Miku-Kaito Elf Limited Character Card
+422	Miku-Kaito Giant Limited Character Card
+423	Rin-Len Human Limited Character Card
+424	Rin-Len Elf Limited Character Card
+425	Rin-Len Giant Limited Character Card
+426	Kagamine Len Human Limited Character Card (M)
+427	Kagamine Len Elf Limited Character Card (M)
+428	Kagamine Len Giant Limited Character Card (M)
+429	Kaito Human Limited Character Card
+430	Kaito Elf Limited Character Card
+431	Kaito Giant Limited Character Card
+432	Limited Hatsune Miku Item
+433	Limited Hatsune Miku Item
+434	Limited Hatsune Miku Item
+435	Limited Hatsune Miku Item
+436	Limited Hatsune Miku Item
+437	Limited Hatsune Miku Item
+438	Limited Hatsune Miku Item
+439	Limited Hatsune Miku Item
+440	Limited Hatsune Miku Item
+441	Limited Hatsune Miku Item
+442	Limited Hatsune Miku Item
+443	Limited Hatsune Miku Item
+444	Limited Kaito Human Character Card (M)
+445	Limited Kaito Elf Character Card (M)
+446	Limited Kaito Giant Character Card (M)
+447	Tchaikovsky Human Limited Character Card
+448	Tchaikovsky Elf Limited Character Card
+449	Tchaikovsky Giant Limited Character Card
+450	Limited-edition 2012 Holiday item.
+451	Limited-edition 2012 Holiday item.
+452	Limited-edition 2012 Holiday item.
+456	고양이 망토 인간 캐릭터 카드
+457	고양이 망토 엘프 캐릭터 카드
+458	고양이 망토 자이언트 캐릭터 카드
+459	2013 신년 한정 품목
+460	2013 신년 한정 품목
+461	2013 신년 한정 품목
+462	2013 겨울 한정 프리미엄 인간 캐릭터 카드
+463	2013 겨울 한정 프리미엄 엘프 캐릭터 카드
+464	2013 겨울 한정 프리미엄 자이언트 캐릭터 카드
+465	2013 겨울 한정 품목
+466	2013 겨울 한정 품목
+467	2013 겨울 한정 품목
+468	고상한 한복 의상 프리미엄 인간 캐릭터 카드
+469	고상한 한복 의상 프리미엄 엘프 캐릭터 카드
+470	고상한 한복 의상 프리미엄 자이언트 캐릭터 카드
+471	Limited Rabbit Costume Human Character Card
+472	Limited Rabbit Costume Elf Character Card
+473	Limited Rabbit Costume Giant Character Card
+474	2013 설날 한정 품목
+475	2013 설날 한정 품목
+476	2013 설날 한정 품목
+477	Limited Rabbit Costume Item
+478	Limited Rabbit Costume Item
+479	Limited Rabbit Costume Item
+480	던전 앤 파이터 코스튬 프리미엄 인간 캐릭터 카드
+481	 던전 앤 파이터 코스튬 프리미엄 엘프 캐릭터 카드
+482	던전 앤 파이터 코스튬 프리미엄 자이언트 캐릭터 카드
+483	던전 앤 파이터 코스튬 한정 품목
+484	던전 앤 파이터 코스튬 한정 품목
+485	던전 앤 파이터 코스튬 한정 품목
+486	Ace Human Character Card
+487	Ace Elf Character Card
+488	Ace Giant Character Card
+492	Hero Human Card
+493	Hero Elf Card
+494	Hero Giant Card
+495	Elite Hero Human Card
+496	Elite Hero Elf Card
+497	Elite Hero Giant Card
+498	Ace Character Card
+499	피닉스 기사 프리미엄 인간 캐릭터 카드
+500	피닉스 기사 프리미엄 엘프 캐릭터 카드
+501	피닉스 기사 프리미엄 자이언트 캐릭터 카드
+502	2013 8주년 기념 한정 품목
+503	2013 8주년 기념 한정 품목
+504	2013 8주년 기념 한정 품목
+505	<Classic Character Card>
+506	Sword Art Online Human Character Card
+507	Sword Art Online Elf Character Card
+508	Sword Art Online Giant Character Card
+509	Sword Art Online Exclusive Item
+510	Sword Art Online Exclusive Item
+511	Sword Art Online Exclusive Item
+512	Merlin Hero Human Character Card
+513	Merlin Hero Elf Character Card
+514	Merlin Hero Giant Character Card
+515	Starlet Hero Human Character Card
+516	Starlet Hero Elf Character Card
+517	Starlet Hero Giant Character Card
+518	Professor J Hero Human Character Card
+519	Professor J Hero Elf Character Card
+520	Professor J Hero Giant Character Card
+521	Culinary Artist Hero Human Card
+522	Culinary Artist Hero Elf Card
+523	Culinary Artist Hero Giant Card
+524	Treasure Hunter Hero Human Card
+525	Treasure Hunter Hero Elf Card
+526	Treasure Hunter Hero Giant Card
+527	Limited Merlin Outfit Item
+528	Limited Merlin Outfit Item
+529	Limited Merlin Outfit Item
+530	Limited Starlet Outfit Item
+531	Limited Starlet Outfit Item
+532	Limited Starlet Outfit Item
+533	Limited Professor J Outfit
+534	Limited Professor J Outfit
+535	Limited Professor J Outfit
+536	Limited Culinary Artist Outfit
+537	Limited Culinary Artist Outfit
+538	Limited Culinary Artist Outfit
+539	Limited Treasure Hunter Outfit
+540	Limited Treasure Hunter Outfit
+541	Limited Treasure Hunter Outfit
+542	Vampire Hunter Human Card
+543	Vampire Hunter Elf Card
+544	Vampire Hunter Giant Card
+545	Halloween Special
+546	Halloween Special
+547	Halloween Special
+548	뱀파이어 헌터 프리미엄 인간 캐릭터 카드
+549	뱀파이어 헌터 프리미엄 엘프 캐릭터 카드
+550	뱀파이어 헌터 프리미엄 자이언트 캐릭터 카드
+551	귀령 강시 프리미엄 인간 캐릭터 카드
+552	귀령 강시 프리미엄 엘프 캐릭터 카드
+553	귀령 강시 프리미엄 자이언트 캐릭터 카드
+554	2013 할로윈 한정 프리미엄 품목
+555	2013 할로윈 한정 프리미엄 품목
+556	2013 할로윈 한정 프리미엄 품목
+557	2013 할로윈 한정 프리미엄 품목
+558	2013 할로윈 한정 프리미엄 품목
+559	2013 할로윈 한정 프리미엄 품목
+560	프리카드 테스트용
+561	프리카드 테스트용
+562	Old Saint Nick Oufit Premium Human Character Card
+563	Old Saint Nick Oufit Premium Elf Character Card
+564	Old Saint Nick Oufit Premium Giant Character Card
+565	Limited Edition 2013 Holiday Premium Item
+566	Limited Edition 2013 Holiday Premium Item
+567	Limited Edition 2013 Holiday Premium Item
+568	Waffle Cone Human Character Card
+569	Waffle Cone Elf Character Card
+570	Waffle Cone Giant Character Card
+571	2014 Valentine's Premium Item
+572	2014 Valentine's Premium Item
+573	2014 Valentine's Premium Item
+574	Starter Character Card
+578	전투교복 의상 프리미엄 인간 캐릭터 카드
+579	전투교복 의상 프리미엄 엘프 캐릭터 카드
+580	전투교복 의상 프리미엄 자이언트 캐릭터 카드
+581	Beginner Character Card
+585	2014 신학기 한정 프리미엄 품목
+586	2014 신학기 한정 프리미엄 품목
+587	2014 신학기 한정 프리미엄 품목
+588	<Classic Character Card Event>
+589	Novice Character Card

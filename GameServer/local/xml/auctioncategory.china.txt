@@ -1,0 +1,75 @@
+﻿1	Melee Weapon
+2	One-Handed
+3	Two-Handed
+4	Axe
+5	Blunt Weapon
+6	Lance
+7	Control Bar
+8	Knuckle
+9	Ranged Weapon
+10	Bow
+11	Crossbow
+12	Dual Gun
+13	Shuriken
+14	Atlatl
+15	Projectile
+16	Magic Weapon
+17	Cylinder
+18	Staff
+19	Wand
+20	Spell Book
+21	Armor
+22	Heavy Armor
+23	Light Armor
+24	Clothing
+25	Defensive Gear
+26	Gloves
+27	Shoes
+28	Hat/Wig
+29	Shield
+30	Robe
+31	Accessory
+32	Accessory 
+33	Wing
+34	Tail
+35	Other Equip.
+36	Instrument
+37	Cooking Tool
+38	Marionette
+39	Other
+40	Prop
+41	Chair/Object
+42	Homestead
+43	Enchant Item
+44	Enchant Scroll
+45	Magic Powder
+46	Scroll
+47	Manual
+48	Pattern
+49	Fomor Scroll
+50	Other 
+51	Literature
+52	Book
+53	MabiNovel
+54	Page
+55	Consumable
+56	Potion
+57	Ingredient
+58	Herb
+59	Dungeon Pass
+60	Alban Stone
+61	Upgrade Stone
+62	Gem
+63	Transformation
+64	Dye Ampoule
+65	Sketch
+66	Other  
+67	Totem
+68	Totem 
+69	Misc
+70	Misc 
+71	Echostone
+72	Chain Blade
+73	Eidos
+74	Face Accessory
+75	Fynn Bead

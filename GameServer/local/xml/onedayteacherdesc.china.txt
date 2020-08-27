@@ -1,0 +1,326 @@
+﻿1	Earth Alchemy Mastery is one of the four elemental alchemy mastery skills. <br/>As your skill rank increases, any alchemy related to earth, like Sand Burst, will get stronger!
+2	Fire Alchemy Mastery is one of the four passive elemental alchemy mastery skills. <br/>As your skill rank increases, any alchemy related to fire, like Flame Burst and Heat Buster, <br/>will get stronger!
+3	Alchemy Mastery is like an index of your knowledge in Alchemy. <br/>You can't call yourself a master of Alchemy if you only know one kind, right?<br/>Your Alchemy Mastery skill will improve by using all types of alchemy equally.
+4	Transmutation Mastery is a passive skill that increases your knowledge of the <br/>structure and formation of substances. Increasing it will increase your <br/>rate of success for Fragmentation, Synthesis, and Crystal Production.
+5	Water Alchemy Mastery is one of the four passive elemental alchemy mastery skills. <br/>As your skill rank increases, any alchemy related to water, like Water Cannon, Rain Casting, <br/>and Frozen Blast, will get stronger!
+6	Wind Alchemy Mastery is one of the four passive elemental alchemy mastery skills. <br/>As your skill rank increases, any alchemy related to wind, like Wind Blast, will get stronger!
+7	The Taming Wild Animals skill allows you to turn a wild creature into a <br/>loyal companion. You must have a Taming Cane in your right hand and <br/>Taming Bait on your left. If you tame the wrong monster in a dungeon, <br/>you might be unable to proceed, so be smart!
+8	Arrow Revolver was not invented by an archer. It was actually created by <br/>a magician! The idea of pre-charging an arrow came from Icebolt. <br/>Because of the bowstring's strong elasticity, charging 2 arrows is difficult for most... <br/>but this skill lets you maintain 5 charged arrows at once. Magical!
+9	Charge is a skill that lets you dash through the enemy to knock them down <br/>and out. While you're charging, you'll take less damage from ranged attacks <br/>and be harder to knock down. Just be careful of magic attacks. They still hurt.
+10	Axes are powerful and heavy weapons to say the least.<br/>Axe Mastery allows you to maximize the power of your axe to deal greater damage.
+11	Even the strongest hand-to-hand fighter has to step back and observe the enemy<br/>from time to time. In such situations, Tumble can buy you that time. Just don't<br/>do it too often, or you might get dizzy.
+12	Barrier Spikes is a skill that uses Alchemy to create a protective wall <br/>to block enemy attacks. Increasing the skill's rank will cause damage to enemies <br/>or allow attacks to enemies behind the wall. This skill helps you protect an ally or take on multiple enemies at once. <br/>The damage you inflict on enemies increases if your HP is higher when you cast it.
+13	By using Berserk, you will become a rampaging warrior, impervious to pain <br/>and much stronger for a short period of time. You will take more damage and <br/>your intelligence will decrease, but also be immune to knockdown, stun, <br/>freezing, petrification, and poisoning.
+14	Blacksmithing is used to forge items from ignots. It allows you to create weapons <br/>by pouring melted ignots into a mold, then forming them with strikes and heat. <br/>Just find your nearest anvil and start hammering.
+15	This powerful skill flings a magic weapon at the enemy, stunning, injuring, <br/>and knocking enemies off their balance. Make sure to use it carefully, because <br/>once you release it, your magical power will explode.
+16	The Blunt Mastery skill enhances the power of blunt weapons. Train with blunt <br/>weapons ceaselessly, day and night, and you will learn to unleash their <br/>true power.
+17	Bolt Combination is an advanced technique that combines the powers of two <br/>different types of bolt magic. In the past, two party members needed to cast <br/>different magic attacks. After much research, a single person can now accomplish <br/>the same feat. <p/>You can use Bolt Combination by casting bolt magic with the currently equipped <br/>magic tool, then manually casting a bolt with a different attribute.
+18	Bow Mastery training is required to deal greater damage with a bow. Train with <br/>it every day and you'll be able to hit anything, anytime.
+19	Bullet Storm is a skill where you use all of your remaining Mana Bullets to <br/>attack, firing 4 shots per enemy. Load more Mana Bullets to inflict greater <br/>damage.  If you use Bullet Storm along with Way of the Gun, you can take on <br/>huge groups.
+20	Doppleganger allows you to gather monster souls and turn them into clones <br/>to attack your enemies. If you have high Stamina, you can use it to power up <br/>your doppelgangers to inflict more damage. Be aware that you must gather <br/>monster souls each time you use this skill.
+21	Carpentry allows the manufacture of all sorts of wooden goods, including <br/>bows and firewords. You can use the carpentry workbench in the Logging Camp <br/>to create your masterpiece.
+22	Chain Cylinder is a skill that allows you to reload your cylinder quickly while <br/>you add charges for the next Flame Burst or Water Canon attack. As the <br/>skill rank increases, the charge count increases, while the charge time decreases.
+23	Combo Mastery is essential because it increases the<br/>damage of Combo skills and reduces cooldowns. At higher ranks, it allows <br/>you to use stage 3 Combo skills with reduced damage when wearing heavy armor.
+24	Focused Fist is a stage 1 Combo skill. It focuses strength into your fist and <br/>releases it to hit the enemy. A longer charge will increase the damage and range.
+25	Grapple Shot is a skill charges one of your Mana Bullets with a tethering spell <br/>to pull you to the target. Using it on friends and pets won't damage them, <br/>so use it to get around!
+26	Colossus Marionette summons a mighty marionette to bash your enemies. <br/> Increasing the skill rank will strengthen the marionette. Anyone can <br/>summon a Colossus Marionette, but few can draw out its true power.\n
+27	Combat Mastery is a passive measure of physical fighting abilities. <br/>Increased skill ranks will increase the damage for most physical skills. <br/>It's a vital tool for all combatants.
+28	Clever merchants know that controlling the market is more important than <br/>purchasing goods at a low price. This skill allows you to earn more during trades, <br/>but it won't guarantee a profit.
+29	Counterattack will greatly increase your abilities in close-range combat, allowing <br/>you to reflect almost any attack. The stronger your enemy's attack, the stronger <br/>your counterattack becomes.
+30	Counter Punch lets fighters strike an enemy's weak spot quickly when <br/>the enemy tries to attack. Just be sure to strike quickly, as damage decreases <br/>the longer you wait to make a move. <p/>Remember that you must counter the opponent's attack within 3 seconds <br/>of preparing the skill in order to use the Stage 2 Combo skill in succession.
+31	Crash shot fires an arrowhead that detects enemies using the principle of Ice Mines.<br/>When the arrowhead pierces the enemy, it will explode and send shrapnel <br/>to any nearby targets. Great for groups!
+32	If you master Critical Hit, you can easily defeat a strong enemy with a <br/>few attacks by hitting their weak spots. The more you master this skill, <br/>the more critical chances you'll get.
+33	Training in the Crossbow Mastery skill is a must if you want to perform a refined <br/>critical attack. Higher ranks of this skill will increase your precision.
+34	Flash Launcher is a Dual Gun skill that first launches the enemy with a kick, <br/>then pounds the full force of a Mana Bullet into the target.<br/>The shockwave does considerable damage.
+35	Charging Strike is a Stage 1 Combo skill. It instantly closes on your opponent <br/>and delivers a quick blow. It is a necessary skill for close quarters combat. <br/>The key to victory is striking faster than the eye can see.
+36	Successfully using Defense will not only protect you, but disrupt the <br/>enemy's attacks, opening them up for retaliation.
+37	Fragmentation allows you to extract materials from items in a Dry Oven.<br/>We can get hints of the fragmented items by observing how they were made.
+38	A true fighter must never be caught off guard or show mercy.<br/>When an enemy falls, that is the moment to strike! Leap into the air <br/>and crash down, slashing with your weapon. Your mighty strike will <br/>leave your enemy begging for mercy.
+39	Drop Kick is a Stage 3 Combo skill that puts all of your weight into a powerful kick, <br/>blowing the enemy away. Aim your kick to take out as many foes as possible!
+40	Dual Gun Mastery allows you to condense mana into Mana Bullets and fire <br/>them from a safe distance. Just be sure to keep track of your ammo. You don't <br/>want to be caught off guard while you reload!
+41	Egg Gathering is improves your ability to gather eggs from hens.<br/>Your skill will increase if you carefully gather their eggs for a long time.<br/>Who knows? You might be lucky enough to find some golden eggs!
+42	A skill that enhances alchemy by exploding the four classical elements.<br/>Elemental Wave enhances Heat Buster, Frozen Blast, Summon Golem, Shock, and Life Drain.<br/>Using this skill will drain any elemental energy you have.
+43	Danger and exploration go hand in hand. We must know how to escape danger <br/>so that we can face it more regularly. It is Crisis Escape that gives us the courage <br/>to dive into danger, and the will to get out of it.
+44	Enchanting imbues items with magical effects. Equip Magic Powder in your <br/>right hand and an Enchant Scroll in your left to use this skill on equipment. <br/>Even if you fail to Enchant, you won't lose the Enchant Scroll.
+45	The audience's endless applause resonates even after the curtain falls.<br/>The bard returns to the stage as if lured by some mysterious force.<br/>Once the curtain rises, the bard plays to the delight of the crowd.
+46	Evasion allows you to dodge arrows or arrows from a distance. <br/>It's most efficient when the skill is used right when the enemy attacks.<br/>But if you use it too many times in a row, you will lose your physical balance <br/>and need to take a moment.
+47	Humans have always wanted to unmask the unknown in the hopes of finding <br/>the true meaning of life. As such, Exploration is the purest of all human pursuits.<br/>It is the perfect blend of danger and beauty, where adventure is assured and <br/>knowledge is its own reward.
+48	Bullet Slide fires at a target four times while propelling you to safety. It is a useful <br/>skill for Gunslingers that needs to fight at distance.
+49	The true joy of cooking is sharing your dishes with others.<br/>Catering allows you to prepare food in larger quantities, so that you and <br/>your guests can dine together. The more people you have, the better your <br/>banquets will be.
+50	The Final Hit skill envelops you in a battle aura that allows your body to push <br/>the limits of physical capability. Attack an enemy while it is active to teleport <br/>to their location and begin your assault.<p/>Dual wielding while using this skill will allow you to unleash a near-limitless flow <br/>of attacks, while attacking with a single weapon will cause your blows to knock <br/>the enemy to the ground with each strike.
+51	Final Shot is a powerful ranged skill that sharpens your senses and lets you <br/>fire arrows at extremely high velocity. It also boosts the aiming speed <br/>of your ranged skills and allows you to get hit by arrows without staggering <br/>or getting knocked down.<p/>Click on a nearby location while holding the Shift key to teleport to that <br/>location, dodging an enemy that is about to attack.
+52	Rare cuisines depend on hard-to-find ingredients from the wild and beyond.<br/>But you must be able to recognize a quality ingredient to pick it out from the chaff!<br/>The art of Ingredient Hunting will make these easier to spot and gives you <br/>an eye for good leather as a bonus!
+53	Fire Shield forms a sphere around you and your allies that deflects ranged <br/>Firebolt, Fireball, and other fire attacks. Multiple overlapping spheres will <br/>increases defensive capabilities.
+54	Fireball forms huge cannonballs of fire to blast enemies in an area. <br/>Highly explosive and highly effective.
+55	Firebolt burns enemies with a blast of concentrated flames. <br/>Cast it multiple times to really amp up the heat!
+56	Fishing is the only way to pull a catch from the water. All you need is a pole, <br/>bait, and a bit of patience. Take your time, learn where to fish, and you'll be <br/>pulling up the big catches in no time.
+57	Flame Burst launches a wall of flames from your cylinder using Fire Crystals.<br/>You can shoot up to five Fire Crystals at once to intensify the burn. Remember <br/>that damage increases with higher HP.
+58	Cooking is a harmonious science, where ratios and formulas combine to make <br/>something of exquisite beauty. When prepared with a steady hand and <br/>a patient mind, food has the ability to move hearts and give strength.<br/>Tasting will improve the effects of food you eat.
+59	Way of the Gun focuses all of your energy into your Mana Bullets, to <br/>draw out the full potential of Dual Guns. <p/>While the Way of the Gun skill is active, you will have unlimited <br/>Mana Bullets, all Dual Gun skill cooldowns will be reset, and all Dual Gun <br/>attacks will be Critical hits.The only drawback is that it will empty your <br/>guns of Mana Bullets.
+60	Frozen Blast creates a freezing snowstorm that covers an area in frost and <br/>freezes enemies. Frozen enemies cannot move and take greater damage <br/>from physical attacks. Damage increases with Stamina.
+61	Use Stomp to damage and stun nearby enemies. Because the damage is delivered <br/>through the ground, it bypasses defense. However, the skill won't have any <br/>effect if you are under attack and it's effectiveness can be offset by enemies <br/>using skills that defend against ranged attacks.
+62	Throwing Attack enables the use of throwing weapons, so long as you <br/>have a projectile and throwing weapon in your hands.Unlike arrows, balance <br/>and injury rate do not affect chance for success. Throwing weapons do not <br/>require time to aim.
+63	This skill amplifies the energies of the four classical elements by manipulating time.<br/>The amplification only lasts for a moment, so be quick!
+64	Every great merchant knows, If you're feeling rich AND threatened, <br/>throw a pouch of gold coins at your enemies to get away! This skill lets you <br/>rain down money like razor sharp knives. You can even charge the skill to deal <br/>extra damage, but if you're not careful, you just might go broke.
+65	Guard Cylinder Mastery increases the efficiency and criticals of every alchemy <br/>skill when you are equipped with both a Cylinder and a Guard Cylinder. <br/>It won't be as effective if you equip only a Guard Cylinder.
+66	This basic skill allows you to create a snow storm, gather ice from that storm, <br/>and then unleash that ice upon your enemies. You need to wield a staff to <br/>use the skill, but it will allow you to ceaselessly attack nearby enemies.
+67	If you want to make something special with materials you can obtain anywhere, <br/>the Handicraft Skill is an absolute must.
+68	Harvesting improves your ability to gather wheat, barley, and corn using a sickle.<br/>Greater Harvesting Skill ranks will decrease harvesting time and increase your<br/>success rate.
+69	Healing is tremendously helpful for rough adventures. Not only will it restore HP, <br/>it will also grant protection from magic attacks. This spell also has a stronger effect <br/>and EXP gain used at low HP. Just remember, Healing only recovers HP. <br/>It will do nothing for wounds and injuries.
+70	Heat Buster pressurizes Fire Crystals inside your cylinder for an explosive attack. <br/>As such, this skill can only be used after pressure has been generated by <br/>other alchemies. Damage increases with Stamina.
+71	Heavy Armor Mastery improves the effectiveness of Heavy Armors. The more <br/>you train the skill, the more efficient the equipped armor will be. This skill can <br/>cause enemy attacks to bounce off your armor, leaving them open to attack. However, <br/>Heavy Armor greatly reduces your dexterity.
+72	Herbalism allows you to distinguish and gather various herbs. Though it seems <br/>like a simple task, inexperienced herbalists can damage finer herbs. As such, <br/>gathering the rarest herbs from deep within dungeons requires a great <br/>deal of study.
+73	Hillwen Engineering is a skill that uses the engineering knowledge of the <br/>ancient Giants to craft engineering tools and weapons like the Dual Gun.<br/>You need an Engineering Rack to use the skill.
+74	Hoeing is a skill that improves your ability to gather potatoes and clams.<br/>Higher ranks of the skill will shorten the time it takes to gather and <br/>increase your success rate.
+75	Hydra Transmutation summons a Hydra that spits venom, causing consistent <br/>damage and corroding enemy defense and protection. The Hydra's damage <br/>stacks 5 times and increases with Stamina.
+76	Ice Shield forms a sphere around you and your allies that deflects ranged <br/>Icebolt, Ice Sphere, and other ice attacks. Multiple overlapping spheres will <br/>increases defensive capabilities.
+77	Icebolt is an offensive spell that focuses the moisture in the air into <br/>one point, rapidly freezing it. The ice shards are then fired at the enemy at <br/>high speeds.<p/>Frozen ice shards can cause as much damage as a well-sharpened <br/>blade, and they also generate mana and reduce enemy movement speed.<br/>While the casting time is long, a charged Icebolt fires instantly.
+78	Ice Spear freezes moister into a spear made of ice that is then hurled at <br/>the enemy. Ice Spear has a higher penetration rate than Icebolt, and <br/>can also damage the enemies nearby.
+79	This skill allows you to use chargeable magic skills without casting time or <br/>charging them. It will only work once during the skill's duration. <br/>When activated, it immediately charges your skill to level 5 without consuming any MP.<p/>The skill's cooldown will decrease little by little when used to attack an enemy, <br/>so use it repeatedly to increase your power.
+80	Knuckle Mastery enhances the usage of knuckles and increases your <br/>punching power. It turns your fists into deadly weapons through constant <br/>training and discipline.
+81	Lance Charge makes the wielder dash fiercely towards the enemy with <br/>their lance extended. While charging towards the target, all the enemies <br/>in between are knocked back. Although it cannot be used on nearby enemies, <br/>it is very effective for both damage and positioning.
+82	Expert lancers have developed Lance Counter to compensate for the difficulty <br/>of fighting with a lance at close range. Lance Counter activates faster than a <br/>normal Counterattack, but the position is not maintained as long. <p/>One must know exactly when the attack is coming to utilize the attack. <br/>The attack power of Lance Counter is directly proportionate to the enemy's attack. <br/>Definitely a must-have when fighting a powerful enemy.
+83	As you train Lance Mastery, you will be able to deal more damage and <br/>even perform an additional attack with your lance.
+84	Life Drain is designed for recovery in battle. Using this can quickly recover <br/>your HP while dealing lethal damage to your opponent.<br/>Using this skill can greatly enhance your Alchemy knowledge.<br/>Damage increases with lower HP.
+85	Light Armor Mastery improves the effectiveness of light armors. <br/>The more you train the skill, the more defense your armor will provide.<br/>To enhance this skill, you must wear light armor while doling out damage.
+86	Lightning Shield forms a sphere around you and your allies that deflects ranged <br/>Lighning Bolt, Thunder, and other lightning attacks. Multiple overlapping spheres will <br/>increases defensive capabilities.
+87	Lightning Bolt creates a small lightning bolt that penetrates the target in <br/>the blink of an eye. Lightning bolt can be even more powerful when combined <br/>with spells cast by other casters around you. It can also spread from <br/>the main target to other nearby enemies. <p/>Repeatedly preparing Lightning Bolt can reinforce such a chain reaction.
+88	Enthralling Performance plays enthralling music with an instrument <br/>to entice a nearby animal or Fomor. Once enamored, the creature mindlessly <br/>follows the music, wherever it goes.
+89	Bolt Mastery comes from lots of practice using bolt spells. The skill increases <br/>the damage you inflict with each bolt and is essential to any magician's arsenal.
+90	Magic Craft is a skill needed to craft magic equipment and consumables by <br/>processing intact Shyllien with the magic knowledge of the ancient elves <br/>from the Shyllien Nature Reserve.<p/>Use the Magic Cauldrons in the Shyllien Nature Reserve on the east side of <br/>Filia to craft your magical wonders.
+91	Fire Mastery increases your knowledge of Fire Magic and increases the <br/>damage you inflict on enemies with those spells. Controlling the elements <br/>requires a great deal of practice, but the results speak for themselves.
+92	Ice Mastery increases your knowledge of Ice Magic and increases the <br/>damage you inflict on enemies with those spells. Controlling the elements <br/>requires a great deal of practice, but the results speak for themselves.
+93	Lightning Mastery increases your knowledge of Lightning Magic and increases the <br/>damage you inflict on enemies with those spells. Controlling the elements <br/>requires a great deal of practice, but the results speak for themselves.
+94	Magic is the work of handling resonating mana. The process takes a great deal <br/>of concentration and attention to detail. You can easily say that being <br/>proficient with magic comes from familiarity with the composition of Erinn.<br/>Mastery over magic increases your magical power and control over mana.
+95	Magic Weapon Mastery improves the effectiveness of Magic Weapons.<br/>The more you train, the more powerful your bolt magic will become with <br/>a Magic Weapon. This will also decrease the casting time for Fireball, Ice Spear, <br/>and Thunder.
+96	Magnum Shot charges up a massive store of energy and releases it <br/>in a long-ranging shot that can severely wound and knock down enemies. <br/>Even if the shot misses, it's mighty enough to strike fear into your enemies.
+97	Production Mastery allows imagination to be successfully created at the<br/>creator's fingertips. Enhancing Production Mastery will increase your <br/>ability to make the world yours.
+98	Steam ovens can be used to condense magical spells like Fireball, Thunder,<br/>and Ice Spear into crystals. These crystals can be launched from Cylinders,<br/>producing the spell effect even if you can't cast the spell yourself.<p/>Higher ranks allow you to create better crystals and use them faster<br/>with Mana Crystallization.
+99	Mana Shield generates a powerful shield that blocks enemy attacks.<br/>It is effective against both physical and magic attacks.<br/>This skill costs you less mana if you are skilled in mana management.
+100	Act 7: Climactic Crash is a Marionette skill that send the puppet charging forward,<br/>cutting a destructive swath through the enemy ranks.<br/>This marks the climactic battle where the hero finally achieves<br/>victory over the antagonists.
+101	Act 1: Inciting Incident is a Marionette skill that stuns the enemy<br/>with a powerful charge. This part of the performance is when an<br/>unlikely encounter throws the hero's world into chaos, and prompts<br/>a journey to find peace.
+102	This skill allows you to take direct control of a Marionette in battle.<br/>Skilled Puppeteers can move the Marionette much more swiftly.<br/>Legend has it that master Puppeteers can give their Marionettes life.
+103	Act 2: Threshold Cutter is a Marionette skill that unleashes 3 powerful hits<br/>on the enemy. This is when the hero overcomes her first challenge and<br/>crosses the threshold to adventure.
+104	Act 6: Crisis is a Marionette skill that drags nearby enemies closer to your puppet.<br/>This is the moment of crisis for the hero, when all hope is lost and she must<br/>draw upon her innermost strength.
+105	Act 9: Invigorating Encore is a Marionette skill that revives the puppet,<br/>granting it new life Controlling the Marionette directly will make it<br/>deal greater damage. This part of the performance is the touching encore<br/>after a long and perilous journey together.
+106	Act 4: Rising Action is a Marionette skill that deals damage and<br/>sends nearby enemies flying. This marks when the hero fully accepts<br/>destiny and rises to face all challenges head-on.
+107	All material contains the 4 basic elements of Alchemy:<br/>Water, Fire, Wind, and Earth. Substances rust or fade in color<br/>because their properties change over time. If you can change<br/>these properties, you can easily make a new substance.<p/>Use this skill to change common metals into rare ones,<br/>and with luck, you might end up with a jewel or something completely unique!
+108	Metallurgy lets you gather Ore Fragments from the beaches<br/>or rivers of Iria. You need a Metallurgy Sieve from the General Shop<br/>in your right hand to use this skill.<p/>Ores you can find include iron, bronze, silver, gold, and mythril.<br/>You can refine these fragments into ignots using furnaces in towns.<br/>If you're lucky, you may find some gems.
+109	Meteor Strike is a powerful spell that summons a huge meteor<br/>from the sky, turning a vast area into a blazing inferno.<br/>The point of impact fills with lava for a time,<br/>inflicting constant fire damage on enemies in it.
+110	Milking is a skill that improves the speed at which you milk cows.<br/>Your stamina goes up with your skill rank.
+111	Learning more about Mining improves the success rate and decreases<br/>gathering time when mining ore in Barri Dungeon, Cuilin Stones in<br/>Sliab Cuilin, and Sulfur Ore in Zardine with a Pickaxe.
+112	Mirage Missile damages multiple enemies with a single attack<br/>by adding a Mirage Erg to your next shot. Enemies hit by Mirage Missile<br/>will be stunned and take damage for a short time.<br/>The damage will also spread to nearby enemies.
+113	This is a skill that allows you to cast all kinds of magic spells<br/>except Advanced Magic while moving. Remember that it takes<br/>a great deal of Stamina to stay focused, as well as additional MP.
+114	This is a skill that improves your ability to gather Mushrooms.<br/>You can find Mushrooms west of the Dugald Aisle Logging Camp<br/>and in Karu Forest between 8pm and 4am, Erinn time.<br/>Different mushrooms can be found on different days of the week.
+115	As history marched on, the Bards couldn't help but be dragged<br/>into Erinn's many wars. The songs they played to encourage their<br/>comrades was passed along down through the generations,<br/>and those are still used now as the Battlefield Overture.
+116	Have you ever felt a jaunty tune lighten your step?<br/>It's not just an expression. The March Song is an energetic,<br/>cheerful melody that helps listeners travel more quickly.
+117	Nothing makes the day go by like a good song.<br/>During the long months of planting and harvesting, Bards developed<br/>a series of tunes that would lift the spirits of the workers.<br/>These songs have been remembered as the Harvest Songs of Erinn.
+118	Vivace is a musical term that means 'fast tempo'. Magicians discovered<br/>that Vivace music increased the speed at which they thought.<br/>After some experimentation, they learned that Vivace music could<br/>speed up Alchemists, Warriors, and Rangers, too.
+119	By striking an enemy, a Bard can fill them with destructive resonance.<br/>Many well-mannered Bards refuse to do this, but others relish this feeling.<br/>Such an attack is a severe and lasting shock to the system.
+120	Music not only uplifts the soul, but the mind and body as well.<br/>A well-played Enduring Melody can even harden defenses and restore energy.
+121	Lullabies are usually reserved for the ones you love, but a true Bard<br/>can play a lullaby for even his worst enemy. Such a song will lull his enemy<br/>to sleep, if only for a few moments.
+122	Natural Shield forms a sphere around you and your allies that deflects physical<br/>ranged attacks like Magnum Shot. Multiple overlapping spheres will <br/>increases defensive capabilities.
+123	Party Healing is just that, healing magic for everyone in your party.<br/>The caster gets a shield effect from attacks, increased by how much<br/>healing your party members enjoy.
+124	Truly marvelous music can put a chorus in your head... even when the song<br/>has no chorus! Some say a spirit or a demon is what sings the chorus.<br/>As strange as it sounds, no one can deny the effect.
+125	This summons a beautiful Marionette armed with a hidden weapon.<br/>Higher skill ranks summon sturdier Pierrots. Anyone can summon a<br/>Pierrot Marionette, but few can draw out its true power.
+126	Poems and songs of that past carry knowledge and wisdom into the present.<br/>Performing these treasures of art is its own reward.<br/>Master this skill to command emotions and win the hearts and minds of people.
+127	Using herbs to make potions is simple chemistry.<br/>However, rarer potions require rarer herbs.
+128	People have been experimenting with Fragmentation and Synthesis<br/>to better manage Potion Poisoning effects. This skill gives you less of a<br/>change to be poisoned by potions, and may make Recovery Potions<br/>much more effective.
+129	People have been experimenting with Fragmentation and Synthesis<br/>to better manage Potion Poisoning effects. This skill gives you less of a<br/>change to be poisoned by potions, and may make Recovery Potions<br/>much more effective.
+130	Rain Casting uses a combination of two crystals to create a vapor cloud.<br/>A Wind Crystal controls evaporation, and an Earth Crystal forms a<br/>condensation point. The reaction between them produces rain. 
+131	The easiest way to knock enemies down is to strike from where they<br/>cannot strike back. It is obvious, but very difficult. You need weapons<br/>for long-ranged attacks, and skills to use them accurately.<br/>Ranged Combat Mastery allows for just that.
+132	This skill lets you gather and research rare minerals from Hillwen Mine.<br/>The higher your Rare Mineralogy rank is, the faster you can gather and the<br/>more often you will be successful. Remember, you need a Mining Drill<br/>to gather minerals.
+133	Ores from the ground are solid, but not very useful covered in iron, clay, and sand.<br/>Refining makes ores easier to work with by extracting only the pure ingots.<br/>Remember, you need a Furnace to melt the ores down for Refining.
+134	Exploration has been a part of life since the days of our earliest ancestors.<br/>And it is with that pioneering spirit that we delve into our own past.<br/>We must use Artifact Investigation to see what the ancients saw.
+135	This skill helps you load your Dual Guns with fresh Mana Bullets.<br/>Greater skill allows you to load faster. Get this skill high enough,<br/>and you'll never have to worry about running dry.
+136	Some people can use their willpower to restore health and stamina.<br/>Higher ranks of this skill can even dispel poison. However, this disrupts<br/>the balance of mana in your body. Be cautious when using magic or alchemy.
+137	This skill allows you to pepper enemies with sand from the Cylinder.<br/>This attack frequently blinds enemies, preventing them from countering for a short time.<p/>Damage increases with higher Stamina.
+138	This is a stage 2 Combo skill that delivers a powerful uppercut.<br/>You'll want to use it after a stage 1 Combo skill, naturally.<br/>Your fist bursts into flame, destroying armor and defenses.
+139	We study monsters today in the same way our ancestors did.<br/>Improve your skill to study stronger monsters. If you can come to<br/>fully understand a monster, you can transform into it. Transforming<br/>could even increase your stats.
+140	This skill allows you to gather lots of Wool in a short time.<br/>The more you practice, the higher your skill will grow.<br/>How nice it is to gather resources without having to hurt anything!
+141	Shield Mastery is a skill that improves the effectiveness of Shields.<br/>The more you train, the more you can block. An experienced Shield user<br/>will be able to block enemy attacks instinctively.
+142	If you need something that will strike your foes with lightning and blow<br/>them away, this spell will do the trick. You must be equipped with a Wand<br/>or a Staff to use it, though, and it must be charged. However, there's a chance<br/>to build a charge when struck by a physical attack.
+143	This is a Dual Gun combat skill that can knock down all surrounding enemies<br/>with a brutal charge. It's useful, but could land you in hot water if you're not careful!
+144	Songs can give someone the courage to live on... or they can inspire great terror.<br/>Once you learn how to sing, you will realize that incredible power.
+145	When you get a chance, try using this powerful Smash on a nearby enemy<br/>and marvel as you send them flying. If you run into enemies that tend to defend,<br/>use Smash to smash through their guard.
+146	This is a stage 2 Combo skill where you kick enemies to daze them.<br/>Enemies hit by your final kick cannot concentrate enough<br/>to use magic or alchemy.
+147	You can use Wind Crystals and a Cylinder to generate powerful electricity.<br/>One way to wield this power is to form a glowing shield around your body.<br/>The shield stuns or electrocutes nearby enemies and shields you from danger.
+148	Spider Traps are traps resembling spider webs. They will tangle up enemies,<br/>immobilizing them. The trap breaks after a short time or if damaged.<br/>You can hit trapped enemies with a ranged attack right away for Critical Damage.<br/>Remember, you must be equipped with a Bow or a Crossbow to use the skill.
+149	This is a skill that lets you gather and research specimens from the<br/>Shyllien Nature Reserve. Higher ranks of the skill grants you more<br/>successes and sooner. However, you need a [Blasted Oak Wand] to<br/>gather plant specimens.
+150	This is an innovative Alchemy skill that can create Golems by binding<br/>and animating stones. This ancient skill, developed by Fomor Alchemists,<br/>has only recently been adapted for widespread use. This process is many<br/>times more complex than controlling a Golem.
+151	When it comes to melee combat, swords are the weapons of choice.<br/>Sword Mastery enhances your skill with swords. While this ability doesn't<br/>grant any specific skills, it will grant you greater proficiency when you fight.
+152	This skill allows you to create new items in the Dry Oven. The better the<br/>components, the better the results. Study alchemy books to find<br/>Synthesis Recipes. There are also items like Ice Mines which can be obtained<br/>only by synthesizing.
+153	If you have thread and needle, you can create your own clothing.<br/>Not only is it practical, tailoring is an excellent way to express yourself!
+154	This skill allows you to draw the attention of violent enemies.<br/>Save your party members by distracting the monsters attacking them.<br/>Use this skill with Wind Guard to be even more effective.
+155	Create high-voltage clouds from mana with this spell. The longer you<br/>channel the spell, the stronger the clouds become. Use this to pierce<br/>your enemies with electricity
+156	Water Crystals can be used to fire powerful streams of water from the Cylinder.<br/>The high-speed blasts deal significant damage and knock down nearby opponents.<br/>Opponents further away will only take minor damage and won't be knocked down.<br/>You can load up to 5 crystals at a time, and damage increases with more MP.
+157	Weaving allows you to spin thread from nature weave cloth with it.<br/>Work carefully and diligently to create useful items. This can be challenging,<br/>but your hard work will pay off. Remember that you need to use tools like<br/>Sewing Patterns to use the Weaving skill.
+158	This skill allows you to successfully defend against enemies attacks by<br/>summoning strong winds around your body. You cannot be knocked down,<br/>but you also cannot move while using the skill. Wind Guard and Taunt can<br/>be used at the same time. This skill is strong against physical attacks, but<br/>far less so against magic.
+159	No matter how skilled you are at close-ranged combat, it's never easy<br/>to handle multiple enemies at once. The Windmill skill is a spinning attack<br/>that strikes enemies around you. It is extremely useful, especially after<br/>being knocked to the ground.
+160	Wind Crystals can be used with the Cylinder to let loose a blast of wind.<br/>These winds do little damage but can knock down opponents from far away.<br/>The closer the opponent is, the greater the impact. You also do more damage<br/>with higher Stamina.
+161	This skill allows you to crush and age grapes to make wine.<br/>It is the only way your can earn the Sommelier Title.<br/>Perhaps you have a talent for making wine?
+162	Binds an enemy with a thread of your Control Bar.<br/>The target continues to take damage even after the skill ends.
+163	Wire Pull is a skill that uses the threads of your Control Bar to pull an enemy to you.<br/>It's useful for separating an enemy from the herd, or pulling it away from an ally.
+164	Earth Alchemy Mastery
+165	Fire Alchemy Mastery
+166	Alchemy Mastery
+167	Transmutation Mastery
+168	Water Alchemy Mastery
+169	Wind Alchemy Mastery
+170	Tame Wild Animal
+171	Arrow Revolver
+172	Charge
+173	Axe Mastery
+174	Tumble
+175	Barriers
+176	Berserk
+177	Blacksmith
+178	Blaze
+179	Blunt Mastery
+180	Fusion Bolt
+181	Bow Mastery
+182	Bullet Storm
+183	Doppelganger
+184	Carpentry
+185	Chain Cylinder
+186	Combo Mastery
+187	Combo: Focused Fist
+188	Grapple Shot
+189	Colossus Marionette
+190	Combat Mastery
+191	Commerce Mastery
+192	Counterattack
+193	Combo: Counter Punch
+194	Crash Shot
+195	Critical Hit
+196	Crossbow Mastery
+197	Flash Launcher
+198	Combo: Charging Strike
+199	Defense
+200	Fragmentation
+201	Assault Slash
+202	Combo: Drop Kick
+203	Dual Gun Mastery
+204	Egg Gathering
+205	Elemental Wave
+206	Crisis Escape
+207	Enchant
+208	Encore
+209	Evasion
+210	Exploration Mastery
+211	Bullet Slide
+212	Catering
+213	Final Hit
+214	Final Shot
+215	Ingredient Hunting
+216	Fire Shield
+217	Fireball
+218	Firebolt
+219	Fishing
+220	Flame Burst
+221	Tasting
+222	Way of the Gun
+223	Frozen Blast
+224	Stomp
+225	Throwing Attack
+226	Golden Time
+227	Gold Strike
+228	Guard Cylinder Mastery
+229	Hail Storm
+230	Handicraft
+231	Harvesting
+232	Healing
+233	Heat Buster
+234	Heavy Armor Mastery
+235	Herbalism
+236	Hillwen Engineering
+237	Hoeing
+238	Hydra Transmutation
+239	Ice Shield
+240	Icebolt
+241	Ice Spear
+242	Snap Cast
+243	Knuckle Mastery
+244	Lance Charge
+245	Lance Counter
+246	Lance Mastery
+247	Life Drain
+248	Light Armor Mastery
+249	Lightning Shield
+250	Lightning Bolt
+251	Enthralling Performance
+252	Bolt Mastery
+253	Magic Craft
+254	Fire Mastery
+255	Ice Mastery
+256	Lightning Mastery
+257	Magic Mastery
+258	Magic Weapon Mastery
+259	Magnum Shot
+260	Production Mastery
+261	Mana Crystallization
+262	Mana Shield
+263	Act 7: Climactic Crash
+264	Act 1: Inciting Incident
+265	Control Marionette
+266	Act 2: Threshold Cutter
+267	Act 6: Crisis
+268	Act 9: Invigorating Encore
+269	Act 4: Rising Action
+270	Metal Conversion
+271	Metallurgy
+272	Meteor Strike
+273	Milking
+274	Mining
+275	Mirage Missile
+276	Spellwalk
+277	Mushroom Gathering
+278	Battlefield Overture
+279	March Song
+280	Harvest Song
+281	Vivace
+282	Dischord
+283	Enduring Melody
+284	Lullaby
+285	Natural Shield
+286	Party Healing
+287	Fantastic Chorus
+288	Pierrot Marionette
+289	Playing Instrument
+290	Potion Making
+291	Study: Potion Poisoning
+292	Combo: Pummel
+293	Rain Casting
+294	Ranged Attack
+295	Rare Mineralogy
+296	Refining
+297	Artifact Investigation
+298	Reload
+299	Respite
+300	Sand Burst
+301	Combo: Spinning Uppercut
+302	Transformation Mastery
+303	Sheep Shearing
+304	Shield Mastery
+305	Shockwave
+306	Gun Ballet
+307	Song
+308	Smash
+309	Combo: Somersault Kick
+310	Shock
+311	Spider Shot
+312	Shyllien Ecology
+313	Summon Golem
+314	Sword Mastery
+315	Synthesis
+316	Tailoring
+317	Taunt
+318	Thunder
+319	Water Cannon
+320	Weaving
+321	Wind Guard
+322	Windmill
+323	Wind Blast
+324	Wine Making
+325	Puppet's Snare
+326	Wire Pull

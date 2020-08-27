@@ -1,0 +1,208 @@
+﻿1	보물 상자
+2	이벤트 보물 상자
+3	Wall-trapped Bird
+4	Wall-climbing Snake 
+5	Wall-climbing Snake 
+6	Wall-climbing Snake 
+7	Wall-climbing Snake 
+8	Door of the Sun
+9	Door of the Sun
+10	Door of the Sun
+11	Door of the Sun
+12	Door of the Sun
+13	Door of the Sun
+14	Statue Head
+15	Sundial
+16	Dolmen
+17	Dolmen
+18	Dolmen
+19	Dolmen
+20	Dedication Stone
+21	Dedication Stone
+22	Dedication Stone
+23	Dedication Stone
+24	Dedication Stone
+25	Celestial Statue
+26	Celestial Statue
+27	Door of the Sun
+28	Lady Statue
+29	Nobleman Statue
+30	Dedication Stone
+31	Dedication Stone
+32	Door of the Sun
+33	Giants Spring
+34	Sheep Statue
+35	Sundial
+36	Wall-trapped Bird
+37	Wall-trapped Bird
+38	Snake Stone Sculpture
+39	Monkey Stone Sculpture
+40	Fox Stone Sculpture
+41	Statue Head
+42	Statue Head
+43	Statue Head
+44	Statue Head
+45	Statue Head
+46	Footprint
+47	Footprint
+48	Footprint
+49	Lizard Stone Sculpture
+50	Gnu Stone Sculpture
+51	Stone Sculpture
+52	Stone Statue
+53	Dignitary Stone Statue
+54	Stone Statue
+55	Hero Stone Statue
+56	Warrior Stone Statue
+57	Stone Statue
+58	Stone Statue
+59	Stone Statue
+60	Dignitary Stone Statue
+61	Stone Statue
+62	Hero Stone Statue
+63	Warrior Stone Statue
+64	Dignitary Stone Statue
+65	Stone Statue
+66	Hero Stone Statue
+67	Warrior Stone Statue
+68	Stone Statue
+69	Stone Statue
+70	Stone Statue
+71	Stone Statue
+72	Aged Stone Wall
+73	Carved Stacked Pillar
+74	Carved Stacked Pillar
+75	Carved Stacked Pillar
+76	Carved Stacked Pillar
+77	Carved Stacked Pillar
+78	Carved Stacked Pillar
+79	Carved Stacked Pillar
+80	Carved Stacked Pillar
+81	Carved Stacked Pillar
+82	Carved Stacked Pillar
+83	Carved Stacked Pillar
+84	Carved Stacked Pillar
+85	Carved Stacked Pillar
+86	Carved Stacked Pillar
+87	Carved Stacked Pillar
+88	Carved Stacked Pillar
+89	Carved Stacked Pillar
+90	Carved Stacked Pillar
+91	Bird Stone Sculpture
+92	Grave Stone with Carved Windy Face
+93	Desert Dragon Footprint
+94	Prairie Dragon Footprint
+95	Grave Stone with Carved Cloud
+96	Grave Stone with Carved Sun 
+97	Twin Sword Warrior Stone Statue
+98	Well of the Water Spirit
+99	Broken Wall
+100	Open Wall
+101	Open Wall
+102	Eye of the Sun
+103	Ram Stone Statue
+104	Giant Stone Statue
+105	1 Monkey Stone Sculpture
+106	2 Monkeys Stone Sculpture
+107	3 Monkeys Stone Sculpture
+108	4 Monkeys Stone Sculpture
+109	Wall
+110	Door
+111	Door
+112	Treasure Chest
+113	Stone Spirit Rock
+114	Stone Coffin with Elf Inside
+115	Red Herb
+116	Blue Herb
+117	Yellow Herb
+118	Green Herb
+119	Golden Herb
+120	Violet Herb
+121	Ivory Herb
+122	Orange Herb
+123	Ore
+124	
+125	Snake-head Door
+126	Queen of Desert
+127	King of Desert
+128	Performer Stone Statue
+129	Square Stone Statue
+130	Upside-down Fish Stone Statue
+131	Face Stone Sculpture
+132	Snake-head Door
+133	Cobra Tongue Stone Sculpture
+134	Cobra Stone Sculpture
+135	Open-mouthed Cobra Stone Sculpture
+136	Longa Watchtower
+137	Whistle Rock
+138	Whistle Rock
+139	Whistle Rock
+140	Whistle Rock
+141	Whistle Rock
+142	Whistle Rock
+143	Whistle Rock
+144	Whistle Rock
+145	Whistle Rock
+146	Whistle Rock
+147	Whistle Rock
+148	Whistle Rock
+149	Whistle Rock
+150	Whistle Rock
+151	Whistle Rock
+152	Whistle Rock
+153	Whistle Rock
+154	Whistle Rock
+155	Whistle Rock
+156	Whistle Rock
+157	Whistle Rock
+158	Whistle Rock
+159	Whistle Rock
+160	Whistle Rock
+161	Whistle Rock
+162	Whistle Rock
+163	Whistle Rock
+164	Whistle Rock
+165	Whistle Rock
+166	Whistle Rock
+167	Whistle Rock
+168	Whistle Rock
+169	Sitting Statue
+170	One Hand Raised Statue
+171	Dummy Horse Statue
+172	(임시)목마 석상
+173	태양을 지고 석상
+174	Sitting Statue
+175	Sun Bearing Statue
+176	Horse Statue
+177	Treasure Chest
+178	Giant  One Hand Raised Statue
+179	Horse Statue
+180	Magic Stone Basin
+181	Glowing Fruit Tree
+182	Guild Stone
+183	Guild Stone of Hope
+184	Guild Stone of Courage
+185	Raft Anchor
+186	One Tree-climbing Cobra Statue
+187	Two Tree-climbing Cobras Statue
+188	Three Tree-climbing Cobras Statue
+189	Head-glowing Buffalo Statue
+190	Chest-glowing Buffalo Statue
+191	Horn-glowing Buffalo Statue
+192	Water Buffalo Statue With Shining Forepaws
+193	Sage Statue
+194	Sage And Bear Statue
+195	Sage, Bear, And Eagle Statue
+196	Eagle Stone Statue
+197	Eagle And Sage Statue
+198	Eagle, Sage, And Bear Statue
+199	Bear Stone Statue
+200	Bear And Sage Statue
+201	Bear, Sage, And Eagle Statue
+202	Ruined Bridge
+203	The Heart of Courcle
+204	Violet
+205	이벤트 보물 상자
+206	<mini>DOWN</mini> 아래층으로
+207	Ore
+208	Mythril Ore

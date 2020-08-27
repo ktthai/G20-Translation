@@ -1,0 +1,306 @@
+﻿1	Wind Song
+2	Seeing a Sunset
+3	Rest
+4	Cradle Song
+5	On the Flower-filled Riverbank
+6	Mother Sheep & Lamb
+7	A Song By a Lazy One
+8	Black Curse
+9	Halfmoon
+10	Starry Night
+11	March of the Ants
+12	W-man
+13	Friend
+14	Open Sesame
+15	Resolute Mind
+16	Fun In the Art Class
+17	A Brave Boy
+18	Lake and Swan
+19	Thief's Steps
+20	Sleeping One
+21	Wedding March
+22	Birthday Song
+23	Your Eyes
+24	BnB Full Version
+25	One Twinkling Star
+26	Magic Lamp
+27	Alone on a Dark Night
+28	Moonlight Echo
+29	Bridge over the Glimmering Lake
+30	Sweet Lament
+31	Delightful Lunch
+32	The Joy of a Perilous Challenge
+33	Fluttering Wings of a Fairy
+34	Rose
+35	The Rose Has Wilted Away
+36	Afternoon Tea
+37	Dancing with You
+38	An Echo for a Sad Cry
+39	Snowy China Doll
+40	Reminiscencing
+41	Dance of Falling Leaves
+42	Moonlight Hanging at the Hammer Tip
+43	A Wanderer
+44	A Small Town
+45	Dreamy Gift Box
+46	Dunbarton II
+47	Dunbarton
+48	Do You Fancy Lily?
+49	Memories in the Wind
+50	In Tribute to the Saint's Sacrifice
+51	A Kind Mentor She Is
+52	Poker Face Cutie
+53	Peeping Cutie - Solo
+54	An Old Tale from Grandma - Solo
+55	On a New Street-Melody (Flute)
+56	On a New Street-Bass (Lute)
+57	On a New Street-Rhythm Keeping (Mandolin, Ukulele)
+58	Peeping Cutie-Melody (Flute)
+59	Peeping Cutie-Bass (Lute)
+60	Peeping Cutie-Accompaniment (Whistle)
+61	Peeping Cutie-Accompaniment (Chalumeau)
+62	Peeping Cutie-Rhythm Keeping (Mandolin, Ukelele)
+63	Hanstone
+64	Hanstone
+65	Hanstone
+66	Hanstone
+67	Hanstone
+68	Hanstone
+69	Hanstone
+70	Hanstone
+71	Hanstone
+72	Hanstone
+73	Hanstone
+74	Hanstone
+75	Hanstone
+76	Hanstone
+77	Hanstone
+78	Hanstone
+79	Hanstone
+80	Hanstone
+81	Hanstone
+82	Hanstone
+83	
+84	
+85	Hanstone
+86	
+87	Hanstone
+88	Hanstone
+89	Hanstone
+90	Hanstone
+91	Hanstone
+92	Hanstone
+93	Hanstone
+94	Hanstone
+95	Hanstone
+96	Hanstone
+97	Hanstone
+98	Hanstone
+99	Hanstone
+100	Hanstone
+101	Hanstone
+102	Hanstone
+103	Hanstone
+104	Hanstone
+105	Hanstone
+106	Hanstone
+107	Hanstone
+108	Hanstone
+109	Hanstone
+110	Hanstone
+111	Hanstone
+112	Hanstone
+113	Hanstone
+114	
+115	Helene
+116	Hanstone
+117	Hanstone
+118	Hanstone
+119	Hanstone
+120	Helene
+121	Helene
+122	Helene
+123	Helene
+124	Helene
+125	Melody of Magic
+126	Unknown
+127	The Lonely Sunrise from the Desert
+128	Hanstone
+129	Parthalonian Prince
+130	Briana
+139	Barry
+147	An easy Pub music score that anyone can play.
+148	Wind Song
+149	Seeing a Sunset
+150	Peeping Cutie - Solo
+151	An Old Tale from Grandma - Solo
+152	Wind Song
+153	Seeing a Sunset
+154	Rest
+155	Lullaby
+156	On the Flower-filled Riverbank
+157	Mother Sheep & Lamb
+158	A Song by a Lazy One
+159	Black Curse
+160	Halfmoon
+161	Starry Night
+162	March of the Ants
+163	W-man
+164	Friend
+165	Open Sesame
+166	Resolute Mind
+167	Fun in the Art Class
+168	A Brave Boy
+169	Lake and Swan
+170	Thief's Steps
+171	Sleeping One
+172	Wedding March
+173	Birthday Song
+174	Your Eyes
+175	BnB Full version
+176	One Twinkling Star
+177	Magic Lamp
+178	Alone on a Dark Night
+179	Moonlight Echo
+180	Bridge over the Glimmering Lake
+181	Sweet Lament
+182	Delightful Lunch
+183	The Joy of a Perilous Challenge
+184	Fluttering Wings of a Fairy
+185	Rose
+186	The Rose Has Wilted Away
+187	Afternoon Tea
+188	Dancing with You
+189	An Echo for a Sad Cry
+190	Snowy China Doll
+191	Reminiscing
+192	Dance of Falling Leaves
+193	Moonlight Hanging at the Hammer Tip
+194	A Wanderer
+195	A Small Town
+196	Dreamy Gift Box
+197	Dunbarton II
+198	Dunbarton
+199	Do You Fancy Lily?
+201	Dunbarton
+202	Dunbarton II
+203	Poker Face Cutie
+205	Rest - Song (Male)
+206	Hanstone
+207	Hanstone
+208	Helene
+209	Hanstone
+210	Hanstone
+211	Hanstone
+212	Hanstone
+213	Hanstone
+214	Hanstone
+215	Hanstone
+216	Hanstone
+217	Hanstone
+218	Hanstone
+219	Hanstone
+220	Hanstone
+221	Hanstone
+222	Hanstone
+223	Hanstone
+224	Hanstone
+225	Hanstone
+226	Hanstone
+227	Hanstone
+228	Hanstone
+229	Hanstone
+230	Hanstone
+231	Hanstone
+232	Hanstone
+233	Hanstone
+234	Hanstone
+235	Hanstone
+236	Hanstone
+237	Hanstone
+238	Hanstone
+239	Hanstone
+240	Hanstone
+241	Hanstone
+242	Hanstone
+243	Hanstone
+244	Hanstone
+245	Hanstone
+246	Hanstone
+247	Hanstone
+248	Hanstone
+249	Hanstone
+250	Hanstone
+251	Hanstone
+252	Hanstone
+253	Hanstone
+254	Hanstone
+255	Hanstone
+256	Hanstone
+257	Hanstone
+258	Hanstone
+259	Hanstone
+260	Do You Fancy Lily?
+261	Dancing with You - Song (Female)
+266	An Old Tale from Grandma
+267	An Old Tale from Grandma
+268	Mabinogi
+269	Mabinogi
+270	An Old Tale from Grandma
+273	The Joy of a Perilous Challenge
+274	Fluttering Wings of a Fairy
+275	Rose
+276	The Rose Has Wilted Away
+277	Afternoon Tea
+278	Dancing with You
+279	An Echo for a Sad Cry
+280	Snowy China Doll
+281	Reminiscing
+282	Dance of Falling Leaves
+283	Moonlight Hanging at the Hammer Tip
+284	A Wanderer
+285	A Small Town
+286	Dreamy Gift Box
+287	Dunbarton II
+288	Dunbarton
+289	Do You Fancy Lily?
+290	As Days Go By
+291	Honoring the Martyr
+292	A Courteous Mentor
+293	Poker Face Cutie
+294	Hanstone
+295	Hanstone
+296	Hanstone
+297	Hanstone
+298	Hanstone
+299	Hanstone
+300	Hanstone
+301	Hanstone
+302	Hanstone
+303	Hanstone
+304	Hanstone
+305	Hanstone
+306	Hanstone
+307	Hanstone
+308	Hanstone
+309	Hanstone
+310	Hanstone
+311	Hanstone
+312	Hanstone
+313	Hanstone
+314	Level 0
+315	Level 1
+316	Level 2
+317	Level 3
+318	Level 4
+319	Level 5
+320	Level 6
+321	Level 7
+322	Level 8
+323	Level 9
+324	Level 10
+325	Level 11
+326	Level 12
+327	Level 13
+328	Level 14
+329	Level 15

@@ -1,0 +1,478 @@
+﻿0	I've been trapped within the darkness for so long.<br/>Finally, I can return to the world I left...<br/>I look forward to working with you.
+1	I wonder what's going on.<br/>The air feels so dry today...
+2	Did you call me?
+3	What is it, <username/>?
+4	I'm here. Do you need my help with something?
+5	Welcome, <username/>.<br/>...Did that greeting sound natural enough?
+6	It's a good day, <username/>. How are you feeling?
+7	Give me an item from the human world.<br/>Just one item can give me so much knowledge.
+8	If you allow me to absorb the item, I can grow my abilities.<br/>It's a basic need, but those needs are the most important.
+9	You catch on quickly, <username/>.<br/>Now, give me the item.
+10	I can grow a little more with this...<br/>Spirits thrive on new knowledge and attention, you know.
+11	<username/>, is that an item for me?<br/>I do so appreciate your consideration.
+12	<username/>, thanks for taking care of me.<br/>I can't wait to see what you have for me today!
+13	Do you have something to say?<br/>If so, then go ahead.
+14	What do you want to say?<br/>I have things to do, you know.
+15	You want to talk to me?<br/>Hmm, fine...
+16	I have time right now.<br/>What do you want to tell me?
+17	Lucky for you, <username/>, I wanted to talk to you as well.
+18	Ah, <username/>...<br/>I was wondering if you had something to share.
+19	What will you raise for me?
+20	As my power grows, I will become a better weapon.<br/>But if my power weakens, I will become less of a weapon.
+21	What are you thinking of raising?
+22	I want to be stronger.<br/>That makes me curious what you'll raise...
+23	<username/>, I look forward to lending you my full power.
+24	If you continue to help me like this,<br/>I will become a formidable ally.
+25	You raised it a bit. Not much, but...<br/>Well, it looks good.
+26	I think my ability changed a little.<br/>If you can bring me better items next time...
+27	This was a much better item for me.<br/>Quality is more important than quantity.<br/>Always remember that.
+28	I have grown significantly.<br/>I'll be able to reach another level soon.
+29	Hah, <username/>...<br/>I've grown a lot, and it's all thanks to you.
+30	<username/>! This is the very knowledge that I've been seeking. Thanks.
+31	I think my level went up!<br/>I'll be able to grow a little with this.
+32	I think my level went up, but...<br/>I'll need a lot more if you want my help.
+33	My level went up.<br/>At this rate, I'll become a big help to you!
+34	My level went up! Let's keep at it.
+35	<username/>, because of you, I gained another level. Thank you.
+36	<username/>, I've grown stronger by another level thanks to you.
+37	I'm still growing. Maybe more next time?
+38	I think I've changed a bit...<br/>Maybe I can gain a new ability next time.
+39	My ability is really growing.<br/>And it's all because of you!
+40	I have grown significantly.<br/>I'll be able to reach another level soon.
+41	<username/>, I think I gained a useful ability. Thanks.
+42	I think... I obtained an exceptional power.<br/><username/>, I'll be much more help to you with this, right?
+43	Are you ready to form a contract with me?
+44	Go to a different place...<br/>That sounds good...
+45	I guess our encounter ends here...<br/>It's a pity...
+46	Are you trying to make me better?
+47	Hmm? What are you spacing out for?<br/>You formed a contract with me, <username/>, right?<br/>If we get along, it'll change your life!
+48	It's a great day! Let's do this!
+49	What? Can I talk now?<br/>I'm bored! Play with me!
+50	Hmm... You know what I want, right?<br/>Give me something to eat!
+51	Ha ha! Talking to me is never boring, right?
+52	Ah, I missed you, <username/>. <br/>What? Is that strange?
+53	Hey, <username/>. How are things?<br/>Doing well? How's life?
+54	Lately, I have no appetite.<br/>Maybe I need something good.
+55	Don't be stingy and give me junk items.<br/>Ugh... I'm starving.
+56	Ack! That item you've got there is for me, right?<br/>Give! Give! Give! I want to grow big!
+57	Hurry and give it! Hurry!<br/>Don't you want to see me grow huge?
+58	Wow, <username/>... <br/>You make me so happy!
+59	Oh, <username/>... good, good!<br/>Show me the menu!
+60	Okay, what do you want me to tell you?
+61	Go on and ask. I'm listening.
+62	Fine, what do you want to ask me?
+63	So, what's your business?
+64	<username/>. What topic should we talk about?
+65	<username/>, ask me anything!
+66	Oho! I'm going to be cross if you get weird about this!
+67	Are you trying to do something? Show me.
+68	Oh, are you trying to make me grow?<br/>Good idea!
+69	Wow! No way!<br/>Are you trying to make me grow?
+70	Uh, <username/>, since it turned out like this...<br/>You should hurry and remove the limit.
+71	All right, <username/>!<br/>Let me unleash my power!
+72	Give me something better next time!<br/>I want something tastier!
+73	This won't be enough...<br/>Are you going to give me more?
+74	Nom, nom, nom! That was good! <br/>You're awesome.
+75	That was a nutritious snack.<br/>Perfect for a growing Spirit!
+76	If you take care of me with items like this,<br/>I'll learn so much about the human world!<br/>And I'll get stronger, too!
+77	Good. I accept. Not just the item, though.<br/>I accept your love and devotion too, <username/>!
+78	I went up another level!<br/>Wowie wow-wow!
+79	Ta-da! I went up another level!
+80	My level just shot up!<br/>Making a contract with you was the best thing I've ever done!
+81	My level definitely went up!<br/>It went up a step! I feel great!
+82	My level increased a step!<br/>I'm not the same as before!<br/><username/>, you should be happy for me!
+83	<username/>, now that my level's gone up,<br/>I should receive treatment befitting my station!
+84	Do I really need to tell you I've grown?<br/>Pay more attention!
+85	I can't say this is enough, but... <br/>Constant growth is important, right?
+86	You're going to continue treating me well, right?<br/>I'm satisfied with my growth. For now!
+87	I feel like I'm on a growth spurt.<br/>Make me grow like this from now on!
+88	<username/>, I've grown so quickly!<br/>I never imagined I would grow like this...
+89	<username/>! I definitely grew.<br/>Let's continue at this pace! Hee hee!
+90	Hey! Stop staring and hurry with the contract!<br/>This is your chance!
+91	What? Move to a different place?<br/>Is it better?
+92	You, you, you!<br/>What are you trying to do?
+93	Eek! No way!<br/>Am I going to become better?
+94	I'm finally out again... You are now my master.<br/>Until the day you break your contract with me,<br/>I will do everything I can to support you.
+95	I was about to ask you about humans.<br/>Can you give me knowledge?
+96	Master, did you call me?
+97	Give me knowledge. I've been waiting for this moment.
+98	I need your support if I'm expected to aid you!<br/>Do you not have any items for me?
+99	I will be there whenever you call me.<br/>Just say the word.
+100	What is it, master? <br/>I am here to heed your call.
+101	What will I receive?
+102	What item will you give me?
+103	Master, what do you have for me?
+104	Master, what should I expect?
+105	I'm so happy that you care about me.
+106	Is this for me? Thanks.<br/>You always seem to have just what I need.
+107	You want to talk to me?<br/>What do you want to talk about?
+108	What do you want to talk about?
+109	Conversation? If that's what you want... fine.
+110	If that's what you desire...<br/>I'll talk about that.
+111	If you want to talk, it doesn't matter what the topic is.
+112	I'm always open to talking!
+113	Are you trying to do something?<br/>I don't know if I can help.
+114	Are you trying to enlighten me?
+115	I will familiarize myself with this.<br/>It will help in my growth.
+116	I am ready. I trust you.
+117	I always look forward to your guidance.
+118	Master, are you helping me grow stronger?<br/>I'm so grateful.
+119	Is this for me? Thanks.
+120	I feel fortunate that I can grow little by little.
+121	This is just what I needed.<br/>Thank you for the meal.
+122	I'm so happy that you care about me so much.
+123	Anything that you give me is good.<br/>That... IS for me, right? Right?
+124	I can use everything you bring me.<br/>Thanks for your help!
+125	I went up another level...<br/>I wonder what changed.
+126	I think I went up another level.<br/>What do you suppose I can do now?
+127	My level went up. Thanks!
+128	My level went up.<br/>And it's all thanks to you!
+129	My level finally went up.<br/>I'll repay the kindness in battle.
+130	I went up another level.<br/>I can be a little more help now.
+131	I improved a bit.<br/>Every little bit helps!
+132	This isn't enough but...<br/>I did grow a bit.
+133	That's what I needed.<br/>I'll familiarize myself with it.
+134	My ability went up a lot.<br/>It's all thanks to you.
+135	I grew so much. <br/>I will definitely be a big help to you now.
+136	I've had significant growth.<br/>I'm always grateful for your help, of course.
+137	Will you be my master?
+138	Master, are you going somewhere?
+139	Is this the end of our dealings?<br/>Well... thanks for everything, I guess.<br/>I don't think you'll do so well without me, honestly.
+140	Master, are you thinking of changing my appearance?
+141	There are many things I don't know, and lack...<br/>That's why I need your help. Please, think about this...
+142	Are you going to talk to me?
+143	I would like... to talk... to you...
+144	Are you... feeling bad?
+145	Is there anything I can help with?
+146	<username/>? <br/>Uh... did I do something wrong?
+147	<username/>, you don't look so good...<br/>Is something the matter?
+148	Anything you have is fine.<br/>I just need something...
+149	Please help me grow...
+150	What item will you give me?
+151	For me to learn about the human world, <br/>I would like you to give me the item you have...
+152	Ah, are you going to give me something? <br/>Thank you. With this, I can surely help you.
+153	If that's for me, <username/>, I will gladly accept.
+154	Please don't criticize me. I'm doing my best.
+155	I am willing if I know how...
+156	Do you have something to say?
+157	I want to be of help to you...
+158	What do you want to say?
+159	What is it that you want to say to me?
+160	I am waiting...
+161	I want a better ability...
+162	Uh... can't I choose?
+163	I want to grow quickly... <br/>Is it not possible?
+164	I'm ready... <br/><username/>, what about you?
+165	<username/>, I don't know if I pestered you too much...
+166	I don't know how to express this gratitude...
+167	Thank you. From the bottom of my heart...
+168	You even prepared this for me...<br/>I don't know how to express this gratitude...
+169	I'm very happy!<br/>And... thankful...
+170	Thank you. With this, I can help you with many more things.
+171	Uh... to be honest, I didn't really expect you to do this...<br/>And so quickly... Thank you.
+172	My level went up.<br/>That's good, right?
+173	Oh my, I didn't even notice my level going up!
+174	I went up another level. <br/>I feel good!
+175	I think I went up another level. <br/>Thank you...
+176	I went up another level... <br/><username/>, are you happy for me?
+177	I went up another level.<br/><username/>, it's all thanks to your care.
+178	I'm much better than before.<br/>Thank you.
+179	I think I got better...<br/>I'm glad...
+180	My abilities are growing.<br/>I can feel the difference...
+181	My abilities are improving.<br/>Much more than before...<br/>Even I was surprised...
+182	I didn't think it would change this much...<br/>I'm definitely stronger. <br/>Thank you.
+183	I have to tell you...<br/>I'm much stronger now.
+184	W-will you form a contract with me?<br/>I might not be what you're expecting...
+185	Moving to a different place...<br/>That place will be fine, right?
+186	You're really abandoning me.<br/>What did I do wrong?
+187	Oh my, are you going to change my appearance?<br/>Make me pretty!
+188	Wha...? Where are we?<br/>Who am I? Oh, my name is... <newegoname/>? Ah!<br/>You must be the one who woke me.<br/>All right then, let's see if I can be some help to you, <username/>!
+189	How are you today?
+190	How are you feeling today?
+191	I wanted to talk to you.<br/>I crave new knowledge...
+192	Since you weren't talking to me,<br/>I was wondering what was wrong...<br/>What a relief.
+193	Hello, <username/>!<br/>Today is a good day, right?
+194	Wow, I'm happy you called!<br/>Good to see you, <username/>.
+195	What will I get?
+196	What item will you give me?
+197	You're giving me an item?<br/>I'm so happy, hee hee...
+198	I'll be getting new knowledge!<br/>Thank you very much.
+199	Wow, I was just thinking about eating... <br/><username/>, you read my mind...
+200	If it's from you, <username/>, anything is fine.
+201	What is this conversation about?
+202	You want to talk to me?
+203	Talk? Sure! Wow...
+204	I can't believe you're talking to me...
+205	<username/>, I always enjoy<br/>conversations with you.
+206	Conversation with <username/>? Sure!
+207	Can it be raised?
+208	I don't know if I can do it well.
+209	Can I count on you to help me grow?
+210	Ah... I waited for so long.<br/>Will I finally be able to get stronger?
+211	<username/>, I'm always looking forward to next time!
+212	<username/>, what ability will you give me this time?
+213	I'm relieved to have this.<br/>I was worried that I might be abandoned...
+214	Wow, thank you very much!
+215	Ah, I really needed an item...<br/>Thank you very much!
+216	Wow, thank you very much!<br/>I'll be able to grow again thanks to you!
+217	You take care of me without a word from me...<br/>You really are the best, <username/>.
+218	As expected, <username/><br/>really knows me well.<br/>Thank you very much.
+219	Wow! I think my level went up.
+220	Wow! My level went up!
+221	I went up another level!<br/>This is good!
+222	I went up another level.<br/>Hee hee... That's good, right?
+223	Thanks to <username/>,<br/>my level went up!<br/>I'm very happy!
+224	<username/>!<br/>My level finally went up!<br/>I'm very happy to share this moment with you.
+225	You made me grow quite a lot. Thank you!
+226	I gained an ability.<br/>This is pretty good...
+227	My abilities continue to grow!<br/>Hee hee, thank you!
+228	It went up a lot.<br/>Wow! I think I'm on a roll!
+229	Thanks to <username/>,<br/>my ability grew a lot.
+230	I grew considerably.<br/>It's thanks to <username/>.
+231	I've been waiting!<br/>You WILL form a contract with me, right?
+232	Moving somewhere else?<br/>That seems like such a pain...
+233	Sob... Sob... What did I do wrong?<br/>I'll try hard... I'll do better...
+234	Wow! Are you making me look cooler? Thanks!
+235	Oh my, are you <username/>? <br/>You look just as I imagined.<br/>Nice to meet you. Please look out for me!
+236	Uh, weren't you busy?
+237	It's nice to talk like this from time to time.
+238	Don't you need my help?
+239	Is there something bothering you?<br/>I certainly hope not...
+240	Seeing you now, <username/>...<br/>I realize just how much I missed you.
+241	Ah, <username/>, I wanted to talk to you.<br/>How are you doing today?
+242	I'm grateful for what you give me but... <br/>Don't push yourself... I don't want to burden you.
+243	Hmm? Are you going to give me something?<br/>Ohoho... So you do care!<br/>Thank you for being considerate.
+244	Ah, I was just thinking about food... <br/>Anything would be great right now.
+245	Hmm... Do you want to give me something right now?<br/>You're being so considerate...
+246	A gift? Oh my, I wasn't expecting that...<br/>So kind of you, <username/>.
+247	As expected, you're always on point.<br/>Thank you so much, <username/>.
+248	What do you want to ask me about?
+249	Say whatever you want. I'm listening.
+250	What should I say?
+251	What will you ask this time?
+252	If there's a problem that I can help you with,<br/>I'd be happy to help, <username/>.
+253	Please tell me.<br/>I will tell you as much as I know.
+254	Are you really thinking of raising my ability?
+255	Ability? Don't make me wait too long...
+256	If you give me a good ability, I can offer more help.
+257	Since you're giving me a good ability,<br/>I'll be able to help more from now on.
+258	<username/>, I look forward seeing what I get!<br/>Heh heh heh.
+259	<username/>, the ability you gave me is amazing! Ohoho.
+260	I'm able to absorb this amazingly quick. This is great!
+261	I think this is good!<br/>It brings good things to mind.
+262	I should thank you for taking care of me...<br/>I should grow quickly to help you.
+263	To get this much...<br/>I think I will grow quickly.
+264	If you push yourself like this...<br/>I'm going to feel really bad.<br/>But, right now... I'm... very happy.
+265	You gave me so much...<br/><username/>, I'll do my best to help.
+266	I went up a level.<br/>I feel like I'm growing steadily.
+267	Oh my! My level went up! Heh heh heh.
+268	Oh, I didn't tell you, did I?<br/>My level went up. Let's celebrate.
+269	I was waiting for my level to go up... <br/>And it went up! I feel great. Heh heh.
+270	I went up a level.<br/>Now I can help you, <username/>. Heh heh.
+271	I went up a level.<br/>It's all thanks to you, <username/>.
+272	Did my ability improve?<br/>I'm not sure. I think it did...
+273	I think it got a little better, but...<br/>It's not as much as I expected...
+274	I never imagined I would improve so much... <br/>You've been a great help. Thank you.
+275	I think the more power I have, the more help I can give.<br/>I'll continue to count on you, until you can count on me.
+276	Was this intentional? Heh heh heh.<br/>I'm much more powerful now, <username/>.<br/>I even surprised myself. A little.
+277	If I can get powers like this, I've got nothing to complain about.
+278	You won't regret out contract.
+279	Oh! Are you moving to another place?<br/>It would be nice if it was a little roomier...
+280	<username/>! You're joking, right?<br/>They say hell hath no fury like a woman scorned...
+281	Oh, my! You're going to change my appearance?<br/>Heh heh heh, this'll be great!
+282	Wow! Hello! We're meeting for the first time!<br/>Ugh, it's been a while since I was last... awake.<br/>My shoulders are pretty stiff, and I'm pretty hungry...<br/>Well, no matter! We're going to be great together, you and I!
+283	Woo! How've you been?
+284	Look here, let's be friendly!
+285	I was just thinking of you. Good thing you called!
+286	Hey! How you feeling today?
+287	Wow, <username/>!<br/>Are you here to see me?<br/>How nice of you!
+288	Hey! <username/>! Glad you're here.<br/>Don't you feel it? Something you need to do for me...
+289	What are you going to give me? Hurry up and give it!
+290	What will you give me?<br/>Does it taste good?
+291	Yes! Is it an item? Which one is it?<br/>Give me a good one! An expensive one!
+292	Uh, I don't feel hungry right now, but...<br/>I'm not the type to refuse what you give me!
+293	You know you'll be judged on what you give me, right?
+294	If you want to be thoughtful, offer me good stuff!
+295	You want to talk to me?
+296	Huh? Talk? Sure!
+297	What should we talk about? Go on.
+298	What do you want to talk about?<br/>I'm quite knowledgeable, you know.
+299	Talk? Sure, ask me anything.<br/>Well, anything I know!
+300	Looks like you also like to talk.<br/>I, <newegoname/>, am the best talker!
+301	What are you doing to make me grow?<br/>Hurry up with it!
+302	What ability will you give me?<br/>It'll be good, right?
+303	Make me grow a lot!<br/>Growth that will leave me satisfied!
+304	Take this opportunity to make me grow a lot!
+305	<username/>! You got a new ability for me today?
+306	<username/>! I always welcome growth!
+307	I will leave it to you.
+308	You came right when I was starting to get bored.<br/>Looks like you got quick wits, ha!
+309	Good! If I eat this, growing will be easy!
+310	Okay, okay!<br/>There's no item like this for a Spirit like me.
+311	<username/>! I grew a lot.<br/>Seems you have an eye for choosing items.
+312	Yoo-hoo! You're the only only one for me, <username/>!<br/>You're the only one who knows my heart!
+313	My level went up! Yeah!
+314	Ta-da! Level up!
+315	Good! Good!<br/>Let's level up ten more times today!
+316	Okay, level up! Good job today!
+317	Wow, <username/>! Level up! <br/>Just when I was getting bored...
+318	<username/>! Level up!<br/>You're pretty good to help get me this far.
+319	I grew a little but...<br/>You know this isn't my true skill, right?
+320	I grew a little, but I need to grow more.
+321	I grew considerably!<br/>Okay, okay, let's keep this up!
+322	My abilities grew a lot.<br/>Let's keep this going!
+323	<username/>, you sure are thoughtful.<br/>Shall we try a dungeon now?
+324	<username/>! This ability is amazing!<br/>Where should I test this?
+325	Wow! Don't you feel something?<br/>I smell something amazing!
+326	Moving, are you?<br/>To a more expensive house, right?
+327	Hey... are you going to make me beg? Think about this.
+328	Good! Good! Now I will recover my true form!
+329	Nice to meet you. <username/>, right? <br/>I thought the person who formed a contract<br/>with me was rich and powerful...<br/>Ah well... You'll have to do.<br/>Let's try to get along.
+330	Oh, should we talk?
+331	How are you?
+332	Do you need my help?
+333	How's your condition? Good?
+334	You don't look bad, <username/>.<br/>Are you having fun today?
+335	I'm better than I was before.<br/>Not bad, <username/>. You don't disappoint...
+336	Did you know that your care makes me strong?<br/>So... you have a gift for me, right?
+337	If you want me to help you, give me an item.
+338	I feel good. Hee hee.<br/>Now, don't just talk, give me something good.
+339	Now, shall we see what you have for me?
+340	Huh? It feels like... <br/>Like you know my deepest desires. My goodness...
+341	Ah, you're giving me this item?<br/>Perfect timing. That earns you a compliment.
+342	Do you have something to ask me?
+343	What topic did you have in mind?
+344	It's time for a conversation.<br/>Fine. Ask me whatever you want.
+345	Shall we see what's on your mind?
+346	What should we talk about?<br/>Don't beat around the bush.
+347	What do you want to talk about?<br/>Useful topics only, please.
+348	Did you think of what ability to raise?
+349	Make sure to check again before raising abilities!
+350	This posture looks really good!<br/>I can change step by step, right?
+351	Oho! What ability will you give me today?
+352	<username/>, I really appreciate your care and attention.
+353	<username/>! I'm always ready. <br/>Just waiting on you.
+354	Oh my, what is going on?<br/>Are you going to take care of this?
+355	Ah... I hope you haven't been keeping me waiting on purpose.
+356	Ohoho... I didn't request it, but you got me this gift.<br/>That's a very admirable attitude.
+357	Fine. If you take care of me like this, I'll definitely be able to help you!
+358	Hee hee. <username/>, you really know what I need.<br/>If I keep growing like this, I'll level up soon.
+359	Ah... Thank you.<br/>You even thought of giving me a gift... <br/><username/>, you're awesome! Heh heh heh...
+360	I went up a level.<br/>That's an amazing feeling!
+361	My level went up! I'm so proud.
+362	I went up another level.<br/>Ah, this is exhilarating...
+363	I've got some good news!<br/>My level went up.
+364	My level went up.<br/>It's all because you're so considerate, <username/>.
+365	My level went up! <br/><username/>, I'll definitely be able to help you more now.
+366	My ability increased.<br/>But I've still got a long way to go...
+367	Wait a minute. My ability increased, but not by much.
+368	I feel my abilities growing more and more.<br/>Awesome...
+369	I'm getting better all the time! Such satisfaction.
+370	I love the feeling of getting stronger!<br/>And I just got MUCH stronger, too!
+371	At this rate, I'll be able to really impress you, <username/>.
+372	It would be great if a handsome man came to form a contract...<br/>I wonder where he is.
+373	Oho! It would be nice if the house had a terrace<br/>and a view of the ocean. How about it?
+374	Well... I have no intention of holding on to someone who isn't interested in me.<br/>We weren't compatible from the moment we met...
+375	Heh heh. Do you know what appearance suits me?
+376	It's been a while since I did something like conversation.<br/>So I'm a bit poor... at speaking...<br/>Anyways, I look forward to working with you.<br/>Whenever you need me, I'll be at your side.
+377	A Spirit's appearance depends on the contractor's taste.<br/>In other words, the appearance you see right now isn't really who we are.<br/>It's just an image to make it easier to interact with you.<br/>...So, this is what you like. Huh.
+378	Ah, what are you staring for?<br/>Don't you know Spirits like privacy too?
+379	Every time I see you, I want to know more about you...<br/>Like whether you're interested in me, or what else you like.
+380	Don't look at me like that.<br/>It makes me want to bother you.
+381	A long time has passed since we first met.<br/>I've never had a relationship like this before.<br/>I hope we stay together... forever.
+382	I heard there are many people in this world<br/>who are not interested in their Spirit or are negligent.<br/>If you happen to treat me like that,<br/>I'll do something horrible to you.<br/>So don't forget about me if you don't want that to happen.
+383	I just needed a light item for a snack right now.
+384	You take care of me better than I thought.<br/>This is unexpected.
+385	I think it's time I absorb a new item.<br/>Did you say you had something small and glittering for me?
+386	I'm very happy that you take care of me so often.
+387	<username/>, I'm happily imagining the item you will choose.
+388	What perfect timing.<br/>I was in need of knowledge just now.
+389	I want to have a deeper conversation with you.
+390	Do you... like me?
+391	You want to talk?<br/>Heh heh. Fine.
+392	Hmm? Heh heh heh.<br/>It's nothing. Don't mind me.
+393	Hello, Sample A... I mean <username/>.<br/>I was, ah, just thinking of talking to you.<br/>Where did we end last time?
+394	Oh, <username/>! How have you been?<br/>You don't look so good...
+395	It's time I learn something new, but...
+396	Are you raising the performance of my body?
+397	Today is a nice weather for researching.<br/>You are welcome to join me anytime.
+398	What perfect timing.<br/>I also wanted to raise my performance.
+399	<username/>, I'm always ready.<br/>I trust your insight.
+400	<username/>, you're always meticulous.<br/>I look forward to today's research.
+401	Thank you. I'll be able to gain new knowledge today.
+402	The bond between us has deepened with this.
+403	You look fresh today.<br/>And I'm not saying this because of the item.
+404	Wow, you brought this valuable thing for me.<br/>I'm touched.
+405	<username/>, is today the anniversary of our contract?<br/>This is... surprising.
+406	<username/>, it's just that...<br/>I'm surprised you brought such a valuable item.<br/>It will be a great help in raising my abilities.
+407	I feel the performance of my main body increased... That's right.<br/>I went up another level.
+408	I feel very satisfied.<br/>The level of my main body went up.
+409	My level went up.<br/>I'm making steady progress. What's wrong?<br/>Do  you not recognize me now?
+410	My body leveled up.<br/>I feel I grew a little, and I can see things I couldn't see before.
+411	Cough, cough! Ahem! Oh, I'm sorry.<br/>My main body suddenly felt different...
+412	My level went up from this.<br/>It was difficult...
+413	The finish is a bit lacking, but my ability went up.
+414	Should I take my growth as a sign of your interest in me?
+415	Seeing how my ability grew, I feel great...
+416	I feel very satisfied.<br/>My ability grew significantly.
+417	Seeing how my ability went up significantly,<br/>you must have great insight.
+418	The increase in my ability is... very large.<br/>Good. At this rate, my plan will...<br/>Huh? Oh, nothing.
+419	Heh heh... we trust one another.<br/>You won't incur any loss by forming a contract with me.
+420	Are we going to another lab?<br/>It would be great if there were more tools.
+421	Do you want to end it with me and be with a different fool? How dare you, you sample!
+422	Changing to a different appearance is always amazing. I want to experience something new.
+423	Maybe... it's because I woke up after a long sleep.<br/>Talking is a little... hard.<br/>It will get better soon... don't worry about it.<br/><username/>, I will now be at your side, and always ready.
+424	Is there something you need?
+425	How is your condition?
+426	Let me know if there is something you need.
+427	What bad skin...<br/>Oh, sorry, I'm talking about me.
+428	<username/>, what is the schedule for today?
+429	<username/>, what do you want?
+430	How did you know that I was in need of an item?<br/>I needed one just now.
+431	Please don't forget. I'm a growing Spirit.
+432	My goal is to support you fully.<br/>But I need to grow more to do that.
+433	I don't think it's late.<br/>It would have been difficult if it was a little later than now.
+434	Being able to learn new things is always a happy thing.<br/>I think today will be an extremely happy day.
+435	Knowing and taking care of me when I need it most is<br/>proof that you are very concerned about me.<br/>Thank you, <username/>.
+436	Don't be afraid. I won't bite.
+437	I wanted to talk to you just now.<br/>So... uh... what was I going to say?
+438	I'm always open to conversation.<br/>It's the impetus of my growth.
+439	What seems to be the matter?<br/>Conversation is always good.
+440	<username/>, how are you feeling today?
+441	<username/>, I wanted to talk to you just now.
+442	I want to grow evenly if that's fine with you.
+443	Are you giving me a special ability?
+444	I have a strong dislike for waste.<br/>Give me a suitable ability.
+445	I want a more elaborate ability.
+446	<username/>, I trust you because you are always efficient.
+447	<username/>, you always have so much interest in my ability.
+448	It's a happy thing to absorb an item and gain knowledge.
+449	I'm a bit touched that you gift me items regularly.<br/>I wasn't expecting it, to be honest...
+450	Thank you for taking care of me.<br/>I'll grow quickly if it's always like this.
+451	I'll be able to grow a little with the item you just gave.<br/>Thank you.
+452	I get to see you again, <username/>.<br/>You were very helpful in my growth...<br/>Ah, I'm sorry. I'm being a little strange.
+453	<username/>, you looked shocked.<br/>Maybe it's because my knowledge increased?
+454	My level went up.<br/>I definitely feel that I progressed.
+455	My level went up. <br/>This feels strange, but I want to feel it again.
+456	I feel great that my level went up.<br/>But yes, I feel great.
+457	I think it's good to keep leveling up.
+458	My level is quite high.<br/><username/>, I will be able to help you in due course.
+459	Wait... I went up another level.<br/>My goal is near.
+460	The ability increase came up a little bit short.<br/>I hope our financial state isn't in danger.
+461	I only grew a little, but I did grow.<br/>So I won't complain.
+462	My ability grew significantly.<br/>If it can grow like this, there will be no issues.
+463	Let's see... after checking, my ability grew significantly.
+464	When my ability and level of knowledge grow,<br/>I always feel great.<br/>You might think it's strange, but this is my happy face.
+465	Finally, I get to use my ability properly.<br/>And I get to see you again, <username/>
+466	You are fully qualified to be my partner. I will gladly accept.
+467	I see you're moving to a different place.<br/>I like neat places.
+468	I guess our journey ends here.<br/>Shouldn't you pay your debts now?
+469	I like that my appearance is going to change.<br/>But how will I look?
+470	Spirit's self-introduction when calling the UI that has the chat tab for the first time after forming a contract
+471	Greeting when calling the Spirit Information UI
+472	When calling the Item Distribution UI
+473	When calling the Spirit Dialogue Conversation UI
+474	When calling the Point UI
+475	Obtain EXP after giving item.
+476	When Spirit levels up
+477	When adding to stat increase and Spirit Point

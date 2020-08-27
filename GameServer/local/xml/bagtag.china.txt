@@ -1,0 +1,18 @@
+﻿1	Equipment
+2	Recovery Potion
+3	Artifact
+4	Alchemy Crystal
+5	Herb
+6	Thread Ball
+7	Cloth
+8	Ore
+9	Gem
+10	Cuilin Stone
+11	Firewood
+12	Fish
+13	Food
+14	Enchants
+15	Pass
+16	Fomor Scroll
+17	Ancient Book
+18	Fynni Gem

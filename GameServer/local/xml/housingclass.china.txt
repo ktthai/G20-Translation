@@ -1,0 +1,86 @@
+﻿1	Earthen House with Ventilating Thatched Roof
+2	Earthen House with Thatched Roof
+3	Earthen Brick Cottage with Shingle Roof
+4	Brick House with Tiled Roof
+5	This house is cheaper than the previous earthen house.
+6	This is a temporary description.
+7	This is a temporary description.
+8	This is a temporary description.
+9	Ventilating Thatch Roof
+10	Mud-plastered Walls with Wooden Buttresses
+11	Wing-shaped Window Accessory
+12	Decorative Vine Molding
+13	Wooden Pastoral Wall Mural
+14	Ventilating Hitch-Knot Thatch Roof
+15	Weather-Tight Hitch-Knot Thatch Roof
+16	Densely-Piled Thatch Roof
+17	Simple Wood-Framed Wall
+18	Y-Shape Buttressed Wall
+19	V-Shape Buttressed Wall
+20	Wing-shaped Window Accessory
+21	Decorative Vine Molding
+22	Wooden Pastoral Wall Mural
+23	Long Wooden Shingle Roof
+24	Fragmented Wooden Shingle Roof
+25	Round Wooden Shingle Roof
+26	Triangular Decoration and Standard Brick
+27	Bent Wood Roof Buttress and Standard Brick
+28	Arched Decorations and Comb-Etched Brick
+29	Unique Pin-Striped Design
+30	Tiny Cute Grass-Leaf Design
+31	Diagonal Design
+32	Weather-Tight Tiled Roof + Ridge Crest Tiles
+33	Comb-Shaped Tile Roof + Ridge Crest Tiles
+34	Elliptical-Shaped Tile Roof + Ridge Crest Tiles
+35	Pile of Random Rubble + White Cement  
+36	Trimmed Stone Wall
+37	Wall Made of Random-Sized Square Stones
+38	Romantic Rose Design
+39	Ornate Korean Knot Design
+40	Luxurious Orchid Design
+41	Dugald Castle 
+42	Sen Mag Castle
+43	The royal manor of Dugald Castle is a region rich in history, and can be won by any Guild with the highest bidding offer, to whom a section of the castle manor and residential building grounds are given for private governance. The winning Guild is responsible for building a castle within a set period of time; failure to do so results in the confiscation of the manor. The manor will then go back to bidding amongst Guilds. If the castle is successfully built, the Guild can build up to 261 homes until the castle completely disintegrates over time. The Guild Master can also collect taxes from the residents of the manor.
+44	The royal manor of the Sen Mag Castle is a region rich in history, and can be won by any Guild with the highest bidding offer, to whom a section of the castle manor and residential building grounds are given for private governance. The winning Guild is responsible for building a castle within a set period of time; failure to do so results in the confiscation of the manor. The manor will then go back to bidding amongst Guilds. If the castle is successfully built, the Guild can build up to 261 homes until the castle completely disintegrates over time. The Guild Master can also collect taxes from the residents of the manor. 
+45	Laying the Foundation
+46	Building the Castle Wall
+47	Roof Construction
+48	Laying the Foundation
+49	Building the Castle Wall
+50	Roof Construction
+51	100 Wood Boards
+52	100 pieces of Firewood
+53	100 Large Nails
+54	100 Metal Sheets
+55	10 Metal Rods
+56	1000 Building Stones
+57	50 Wood Boards
+58	50 pieces of Firewood
+59	50 Large Nails
+60	50 Metal Sheets
+61	50 Metal Rods
+62	2000 Building Stones
+63	Abb Neagh Castle
+64	The royal manor of the Abb Neagh Castle is a region rich in history. It can be won by any Guild with the highest bidding offer, to whom will be granted a section of the castle manor and residential building grounds for private governance. The winning Guild is responsible for building a castle within a set period of time; failure to do so will result in the confiscation of the manor, which will then go back to bidding amongst Guilds. If the castle is successfully built, the Guild can build up to 264 homes until the castle completely disintegrates over time. The Guild Master may also collect taxes from the residents of the manor.
+65	Laying the Foundation
+66	Building the Castle Wall
+67	Roof Construction
+68	50 Wood Boards
+69	50 pieces of Firewood
+70	50 Large Nails
+71	50 Metal Sheets
+72	50 Metal Rods
+73	2000 Building Stones
+74	Cuilin Castle
+75	Cuilin Castle
+76	Cuilin Castle
+77	Cuilin Castle
+78	Laying the Foundation
+79	Building the Castle Wall
+80	Constructing the Roof
+81	50 Wood Boards
+82	50 Pieces of Firewood
+83	50 Large Nails
+84	50 Metal Sheets
+85	50 Metal Rods
+86	2000 Building Stones

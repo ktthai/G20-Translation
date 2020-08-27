@@ -1,0 +1,16 @@
+﻿0	Can be created with a basic card.
+1	Requires a <color=1>premium card<color=1>.
+2	<color=1>강철의 연금술사 카드<color=1>가 필요합니다.
+3	You can create a partner with a Partner Character Card.
+4	<color=1>아노하나 카드</color>가 필요합니다.
+5	Requires a <color=1>Hatsune Miku-Kaito or Rin-Len Card</color>.
+6	Can be created using a basic card.
+7	Requires a <color=1>premium card</color>.
+8	A <color=1>Full Metal Alchemist Card</color> is needed.
+9	<color=1>아노하나 카드</color>가 필요합니다.
+10	Requires a <color=1>Vocaloid card</color>.
+11	A <color=1>Sword Art Online Card</color> is required.
+12	You need a <color=1>coupon</color> to make this.
+13	<color=1>쿠폰</color>으로 만들 수 있습니다.
+14	Only can be created using <color=1>Coupons</color>.
+15	Changing your hair style or color will wash out any applied hair dye.

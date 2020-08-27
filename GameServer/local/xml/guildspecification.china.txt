@@ -1,0 +1,7 @@
+﻿1	기본 길드석
+2	속임수 길드석
+3	스핀 길드석
+4	물레 길드석
+5	Guild Stone
+6	Guild Stone of Hope
+7	Guild Stone of Courage

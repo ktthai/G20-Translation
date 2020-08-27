@@ -1,0 +1,4 @@
+﻿10	Pet
+11	Partner Character
+12	Props
+13	Spirit

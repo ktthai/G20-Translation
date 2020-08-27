@@ -1,0 +1,121 @@
+﻿1	End;
+2	Log out;Exit
+3	Summon;
+4	Go_back;Disappear;Cancel_summon;
+5	Smash;
+6	Counter;
+7	Defense;
+8	Attack;
+9	Help;
+10	Save me;Phoenix;Revive;
+11	Bag;
+12	End
+13	Log out;Exit
+14	Summon;
+15	Go_back;Disappear;Return
+16	Smash;
+17	Counter;
+18	Defense;
+19	Helpme; Phoenix; Revive;
+20	Bag;
+21	Call
+22	Healing;Heal
+23	Lightning;Lightning_Bolt;LB
+24	Fire;Firebolt;FB
+25	Ice;Icebolt;IB
+26	firstattack;battle_mode;aggro;hit_first
+27	Support;Healing_Mode
+28	Collabo;team;
+29	Tricks;Play;Cute;Love
+30	Rest;Sitdown;Sit;down
+31	Stand_up;Stand;standup
+32	Summon;
+33	Go_back;Disappear;Return;
+34	Smash;
+35	Counter;ct;
+36	Defense;def;
+37	Helpme;Phoenix;Revive;phx;
+38	Inventory;Bag;Inv;
+39	Call;Come;Here;
+40	Healing;Heal;HL;
+41	Lightning_Bolt;LB;Lightning;
+42	Firebolt;Fire;FB;
+43	Icebolt;Ice;IB;
+44	firstattack;battle_mode;aggro;hit_first;
+45	Support;Healing_Mode;
+46	Collabo;default_mode;team;
+47	Tricks;Play;Cute;Love;
+48	Rest;Sitdown;Sit;down;
+49	Stand_up;Stand;standup;
+50	Stop;Stay;
+51	give;enable_others;share;
+52	dontgive;disable_gathering;dontshare
+53	Pickup;Pick;get
+54	Box;report_box;find_box;
+55	Dance;Twist;Shake;
+56	fetch;gift_item;grab;
+57	fly;glide;
+58	thunder2;
+59	thunder3;
+60	thunder4;
+61	thunder5;
+62	thunder;thunder1;
+63	Firstaid;First_Aid;Mend;
+64	Counter_Submission
+65	Defense_Submission
+66	Windmill;windmill;wm;
+67	Swallow;Eat it;Gulp;swallow;
+68	Find;Search;Where;search;
+69	mushroom;findmush;pick_mushroom
+70	sweep;clean;
+71	bubble;
+72	bubble;
+73	shoot_bubble;bubble;
+74	shoot_bubble;bubble;
+75	Charge;Run;Dash;pet_boost;boost
+76	sprinkle;sprinkle_water;dabble
+77	fakeit;pretend;fall;die
+78	Roar
+79	ice_magic_shield|
+80	fire_magic_shield|
+81	lightning_magic_shield|
+82	natural_magic_shield|
+83	iceshield;ice_shield;
+84	fireshield;fire_shield;
+85	lightningshield;lightning_shield;
+86	naturalshield;natural_shield;
+87	warp_master
+88	Detection
+89	Cancel Detection
+90	Roar
+91	teleport;warp_master
+92	throw;stone;rock;pet_throwing
+93	firebreath;fire_breath;
+94	thunderbreath;thunder breath;thunder_breath;
+95	hide;pet_hide;
+96	cancelhide;cancel_hide;pet_hide_off;
+97	flamedive;dive;jump;flame_dive;dive;jump;
+98	Fire hit
+99	Fireball
+100	Ice attack
+101	Fire Hit
+102	Fireball
+103	Ice Attack
+104	IBR;ice_breath;
+105	Love;affection;
+106	Sulk;sulk;
+107	Cheer;Excited;hurray;
+108	Sassy
+109	Peeved
+110	Sleepy
+111	Playing Instrument;playing;
+112	Dischord;shock;
+113	Fantastic Chorus;Chorus;chorus;
+114	Battlefield Overture;Battlefield;battlefield;
+115	Lullaby;lullaby;
+116	Vivace;vivace;
+117	Enduring Melody;Enduring;Melody;
+118	Harvest Song;harvest;
+119	March Song;march;
+120	Infiltration;pet_active_hide;
+121	report;Report

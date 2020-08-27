@@ -1,0 +1,318 @@
+﻿1	+ Strength 
+2	+ Dexterity 
+3	+ Intelligence
+4	+ Luck 
+5	+ Will 
+6	+ Defense
+7	+ Protection 
+8	HP Recovery
+9	MP Recovery
+10	Stamina Recovery
+11	+ Max. Accuracy 
+12	+ Magic Summoning Speed
+13	Music of Peace
+14	Berserker Music
+15	{0}'s playing has boosted strength by {1}.
+16	{0}'s playing has boosted strength by {1}.
+17	{0}'s playing has boosted strength by {1}.
+18	{0}'s playing has boosted strength by {1}.
+19	{0}'s playing has boosted strength by {1}.
+20	{0}'s playing has boosted strength by {1}.
+21	{0}'s playing has boosted strength by {1}.
+22	{0}'s playing has boosted strength by {1}.
+23	{0}'s playing has boosted strength by {1}.
+24	{0}'s playing has boosted dexterity by {1}.
+25	{0}'s playing has boosted dexterity by {1}.
+26	{0}'s playing has boosted dexterity by {1}.
+27	{0}'s playing has boosted dexterity by {1}.
+28	{0}'s playing has boosted dexterity by {1}.
+29	{0}'s playing has boosted dexterity by {1}.
+30	{0}'s playing has boosted dexterity by {1}.
+31	{0}'s playing has boosted dexterity by {1}.
+32	{0}'s playing has boosted dexterity by {1}.
+33	{0}'s playing has boosted intelligence by {1}.
+34	{0}'s playing has boosted intelligence by {1}.
+35	{0}'s playing has boosted intelligence by {1}.
+36	{0}'s playing has boosted intelligence by {1}.
+37	{0}'s playing has boosted intelligence by {1}.
+38	{0}'s playing has boosted intelligence by {1}.
+39	{0}'s playing has boosted intelligence by {1}.
+40	{0}'s playing has boosted intelligence by {1}.
+41	{0}'s playing has boosted intelligence by {1}.
+42	{0}'s playing has boosted luck by {1}.
+43	{0}'s playing has boosted luck by {1}.
+44	{0}'s playing has boosted luck by {1}.
+45	{0}'s playing has boosted luck by {1}.
+46	{0}'s playing has boosted luck by {1}.
+47	{0}'s playing has boosted luck by {1}.
+48	{0}'s playing has boosted luck by {1}.
+49	{0}'s playing has boosted luck by {1}.
+50	{0}'s playing has boosted luck by {1}.
+51	{0}'s playing has boosted will by {1}.
+52	{0}'s playing has boosted will by {1}.
+53	{0}'s playing has boosted will by {1}.
+54	{0}'s playing has boosted will by {1}.
+55	{0}'s playing has boosted will by {1}.
+56	{0}'s playing has boosted will by {1}.
+57	{0}'s playing has boosted will by {1}.
+58	{0}'s playing has boosted will by {1}.
+59	{0}'s playing has boosted will by {1}.
+60	{0}'s playing has boosted defense by {1}.
+61	{0}'s playing has boosted defense by {1}.
+62	{0}'s playing has boosted defense by {1}.
+63	{0}'s playing has boosted defense by {1}.
+64	{0}'s playing has boosted defense by {1}.
+65	{0}'s playing has boosted defense by {1}.
+66	{0}'s playing has boosted defense by {1}.
+67	{0}'s playing has boosted defense by {1}.
+68	{0}'s playing has boosted defense by {1}.
+69	{0}'s playing has boosted protection by {1}.
+70	{0}'s playing has boosted protection by {1}.
+71	{0}'s playing has boosted protection by {1}.
+72	{0}'s playing has boosted protection by {1}.
+73	{0}'s playing has boosted protection by {1}.
+74	The effects of the music have disappeared.
+75	The effects of the music have disappeared.
+76	The effects of the music have disappeared.
+77	The effects of the music have disappeared.
+78	The effects of the music have disappeared.
+79	The effects of the music have disappeared.
+80	The effects of the music have disappeared.
+81	The effects of the music have disappeared.
+82	The effects of the music have disappeared.
+83	The effects of the music have disappeared.
+84	The effects of the music have disappeared.
+85	The effects of the music have disappeared.
+86	The effects of the music have disappeared.
+87	The effects of the music have disappeared.
+88	The effects of the music have disappeared.
+89	The effects of the music have disappeared.
+90	The effects of the music have disappeared.
+91	The effects of the music have disappeared.
+92	The effects of the music have disappeared.
+93	The effects of the music have disappeared.
+94	The effects of the music have disappeared.
+95	The effects of the music have disappeared.
+96	The effects of the music have disappeared.
+97	The effects of the music have disappeared.
+98	The effects of the music have disappeared.
+99	The effects of the music have disappeared.
+100	The effects of the music have disappeared.
+101	The effects of the music have disappeared.
+102	The effects of the music have disappeared.
+103	The effects of the music have disappeared.
+104	The effects of the music have disappeared.
+105	The effects of the music have disappeared.
+106	The effects of the music have disappeared.
+107	The effects of the music have disappeared.
+108	The effects of the music have disappeared.
+109	The effects of the music have disappeared.
+110	The effects of the music have disappeared.
+111	The effects of the music have disappeared.
+112	The effects of the music have disappeared.
+113	The effects of the music have disappeared.
+114	The effects of the music have disappeared.
+115	The effects of the music have disappeared.
+116	The effects of the music have disappeared.
+117	The effects of the music have disappeared.
+118	The effects of the music have disappeared.
+119	The effects of the music have disappeared.
+120	The effects of the music have disappeared.
+121	The effects of the music have disappeared.
+122	The effects of the music have disappeared.
+123	The effects of the music have disappeared.
+124	The effects of the music have disappeared.
+125	The effects of the music have disappeared.
+126	The effects of the music have disappeared.
+127	The effects of the music have disappeared.
+128	The effects of the music have disappeared.
+129	The effects of the music have disappeared.
+130	The effects of the music have disappeared.
+131	The effects of the music have disappeared.
+132	The effects of the music have disappeared.
+133	{0}'s playing has restored my HP.\nHP + {1}
+134	{0}'s playing has restored my HP.\nHP + {1}
+135	{0}'s playing has restored my HP.\nHP + {1}
+136	{0}'s playing has restored my HP.\nHP + {1}
+137	{0}'s playing has restored my HP.\nHP + {1}
+138	{0}'s playing has restored my HP.\nHP + {1}
+139	{0}'s playing has restored my HP.\nHP + {1}
+140	{0}'s playing has restored my HP.\nHP + {1}
+141	{0}'s playing has restored my HP.\nHP + {1}
+142	{0}'s playing has restored my MP.\nMP + {1}
+143	{0}'s playing has restored my MP.\nMP + {1}
+144	{0}'s playing has restored my MP.\nMP + {1}
+145	{0}'s playing has restored my MP.\nMP + {1}
+146	{0}'s playing has restored my MP.\nMP + {1}
+147	{0}'s playing has restored my MP.\nMP + {1}
+148	{0}'s playing has restored my MP.\nMP + {1}
+149	{0}'s playing has restored my MP.\nMP + {1}
+150	{0}'s playing has restored my MP.\nMP + {1}
+151	{0}'s playing has restored my stamina.\nStamina + {1}
+152	{0}'s playing has restored my stamina.\nStamina + {1}
+153	{0}'s playing has restored my stamina.\nStamina + {1}
+154	{0}'s playing has restored my stamina.\nStamina + {1}
+155	{0}'s playing has restored my stamina.\nStamina + {1}
+156	{0}'s playing has restored my stamina.\nStamina + {1}
+157	{0}'s playing has restored my stamina.\nStamina + {1}
+158	{0}'s playing has restored my stamina.\nStamina + {1}
+159	{0}'s playing has restored my stamina.\nStamina + {1}
+165	{0}'s playing has quickened my magic summon speed.
+166	{0}'s playing has quickened my magic summon speed.
+167	{0}'s playing has quickened my magic summon speed.
+168	{0}'s playing has quickened my magic summon speed.
+169	{0}'s playing has quickened my magic summon speed.
+170	Monsters have calmed down considerably.
+171	Monsters have calmed down considerably.
+172	Monsters have calmed down considerably.
+173	Monsters have calmed down considerably.
+174	Monsters have calmed down considerably.
+175	{0}'s playing has provided mysterious boosts to my body.
+176	{0}'s playing has provided mysterious boosts to my body.
+177	{0}'s playing has provided mysterious boosts to my body.
+178	{0}'s playing has provided mysterious boosts to my body.
+179	{0}'s playing has provided mysterious boosts to my body.
+180	Monsters have turned volatile.
+181	Monsters have turned volatile.
+182	Monsters have turned volatile.
+183	Monsters have turned volatile.
+184	Monsters have turned volatile.
+185	{0}'s playing has sapped my strength.
+186	{0}'s playing has sapped my strength.
+187	{0}'s playing has sapped my strength.
+188	{0}'s playing has sapped my strength.
+189	{0}'s playing has sapped my strength.
+190	{0}'s playing has increased my max. accuracy.
+191	{0}'s playing has increased my max. accuracy.
+192	{0}'s playing has increased my max. accuracy.
+193	{0}'s playing has increased my max. accuracy.
+194	{0}'s playing has increased my max. accuracy.
+195	Roar of the Battleground
+196	Passions of Youth
+197	Full Moon's Blessings
+198	Days of Abundance
+199	Seal of Time
+200	Test Music
+201	Increases your ATT.
+202	Gives you a morale boost, which improves your stats.
+203	Restores your mana as if Eweca were glowing brightly in the night sky.
+204	Increases your max HP.
+205	Lowers the enemy defense.
+206	{0}'s song, "Roar of the Battleground" rings through the land, encouraging allies.
+207	{0}'s song, "Passions of Youth" rings through the land.
+208	{0}'s song, "Full Moon's Blessings" rings through the land, encouraging allies.
+209	{0}'s song, "Days of Abundance" rings through the land, encouraging allies.
+210	{0}'s song, "Seal of Time" rings through the land, discouraging enemies.
+211	{0}'s song, "Test Music" rings through the land, encouraging allies.
+212	{0}'s song, "Seal of time" rings through the land, discouraging enemies.
+213	{0}'s song, "Test Music" rings through the land, discouraging enemies.
+214	Your max ATT increased by {0}.
+215	Your max ATT increased by {0}.
+216	Your DEF decreased by {0}.
+217	Your STR increased by {0}.
+218	Your INT increased by {0}.
+219	Your DEX increased by {0}.
+220	Your WIL increased by {0}.
+221	Your Luck increased by {0}.
+222	Your Max HP increased by {0}.
+223	Your DEF decreased by {0}.
+224	Your STR increased by {0}.
+225	Your STR increased by {0}.
+226	You are feeling strong.
+227	You are feeling weak.
+228	{0} MP restored.
+229	Your MP increased by {0}.
+230	Your STA decreased by {0}.
+231	Your STR decreased by {0}.
+232	Roar of the Battleground
+233	The Only Survivor
+234	Sharpened Blade
+235	Shadow Behind
+236	Bodyguard, My First Love
+237	Increases your ATT.
+238	Allows you to withstand poison, petrification, or explosion attacks.
+239	Increases your Attack Speed.
+240	Increases your Critical Rate.
+241	Hardens your body to receive less damage.
+242	{0}'s song, "Roar of the Battleground," rings through the land, encouraging allies.
+243	{0}'s song, "The Only Survivor," rings through the land, encouraging allies.
+244	{0}'s song, "Sharpened Blade," rings through the land, encouraging allies.
+245	{0}'s song, "Shadow Behind," rings through the land, encouraging allies.
+246	{0}'s song, "Bodyguard, My First Love," rings through the land, encouraging allies.
+247	Your Max ATT increased by {0}.
+248	Your Min ATT increased by {0}.
+249	Critical increased by {0}%.
+250	DEF increased by {0}.
+251	Protection increased by {0}.
+252	Received Poison Immunity.
+253	Received Petrification Immunity.
+254	Received Explosion Resistance.
+255	Attack Speed increased.
+256	The Great Desert Giant
+257	Hard Shelled
+258	A Hint of Magic
+259	Song of the Fist
+260	Big Things Come In Small Packages
+261	Has a chance to petrify enemies and weaken them significantly.
+262	Hardens your body and allows you to recover faster.
+263	Increases your magic proficiency.
+264	Allows you to perform a more powerful Smash.
+265	Makes you small in size, allowing you to attack with more agility.
+266	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+267	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+268	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+269	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+270	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+271	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+272	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+273	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+274	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+275	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+276	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+277	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+278	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+279	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+280	{0}'s song, "The Great Desert Giant," rings through the land, discouraging enemies.
+281	{0}'s song, "Hard Shelled," rings through the land, encouraging allies.
+282	{0}'s song, "A Hint of Magic," rings through the land, encouraging allies.
+283	{0}'s song, "Song of the Fist," rings through the land, encouraging allies.
+284	{0}'s song, "Big Things Come In Small Packages," rings through the land, encouraging allies.
+285	DEF increased by {0}.
+286	Protection increased by {0}.
+287	MP Recovery Speed increased.
+288	Your Max ATT increased by {0}.
+289	Your Min ATT increased by {0}.
+290	Critical increased by {0}%.
+291	Target has been petrified.
+292	Target has been petrified.
+293	Target has been petrified.
+294	Target has been petrified.
+295	Target has been petrified.
+296	Target has been petrified.
+297	Target has been petrified.
+298	Target has been petrified.
+299	Target has been petrified.
+300	Target has been petrified.
+301	Target has been petrified.
+302	Target has been petrified.
+303	Target has been petrified.
+304	Target has been petrified.
+305	Target has been petrified.
+306	Magic charging speed increased.
+307	Smash power increased.
+308	You have become smaller.
+309	{0} HP restored.
+310	{0} MP restored.
+311	Small things are weak.
+312	Shrink to attack with more agility, but suffer weakened defenses.
+313	{0}'s song, "Big Things Come In Small Packages," rings through the land.
+314	Defense decreased by {0}.
+315	Protection decreased by {0}.
+316	Defense decreased by {0}.
+317	Protection decreased by {0}.
+318	Defense decreased by {0}.
+319	Protection decreased by {0}.
+320	Critical increased by {0}%.
+321	Defense decreased by {0}.
+322	Protection decreased by {0}.
+323	You have become smaller.
